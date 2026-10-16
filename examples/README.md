@@ -124,3 +124,11 @@ Die Befehle reihen jeweils einen Auftrag ein. Fortschritt in ComfyUI beobachten;
 Ausgaben landen unter `output/examples/`. Der Turbo-Entwurf ist mit 56 Frames
 sehr kurz und dient dem Funktionstest; für Ergebnisse im trainierten Bereich
 mindestens etwa fünf Sekunden (124 Frames) verwenden.
+
+## Downloads direkt in der Oberfläche
+
+**Download** und **Download all** im ComfyUI-Fehlerbereich laden Modelle jetzt
+auf den DGX. Der Knopf **DGX Downloads** zeigt Fortschritt und Fehler und kann
+alle im Workflow hinterlegten Modelle laden. Vorhandene Dateien bleiben erhalten.
+Nach der Einrichtung einmal **Strg+F5** drücken.
+[Details und Grenzen](../extensions/dgx-server-downloads/README.md).

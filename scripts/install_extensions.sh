@@ -17,6 +17,8 @@ for name, spec in json.loads(pathlib.Path('config/extensions.json').read_text())
         subprocess.run(['git', 'clone', '--filter=blob:none', '--no-checkout', spec['url'], str(dest)], check=True)
         subprocess.run(['git', '-C', str(dest), 'checkout', '--detach', spec['commit']], check=True)
     print(f'{name}: {spec["commit"]}')
+shutil.copytree('extensions/dgx-server-downloads', root / 'custom_nodes/dgx-server-downloads',
+                dirs_exist_ok=True, ignore=shutil.ignore_patterns('__pycache__'))
 workflows = root / 'user/default/workflows/MiniMax-H3'
 workflows.mkdir(parents=True, exist_ok=True)
 for source in pathlib.Path('examples/workflows').glob('*.json'):

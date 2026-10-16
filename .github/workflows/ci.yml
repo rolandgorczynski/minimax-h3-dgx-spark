@@ -20,6 +20,10 @@ jobs:
           else
             echo "no shell scripts found"
           fi
+      - name: Server download tests
+        run: |
+          python -m pip install aiohttp
+          python -m unittest discover -s tests -v
       - name: Validate compose file
         run: |
           [ -f .env ] || cp -n .env.example .env || true
