@@ -147,3 +147,5 @@ Note: the docs are currently written in Chinese.
 ## Examples and extensions
 
 See [the example pack](examples/README.md) for six importable H3 workflows and a video upscaling workflow, pinned extensions, optional model downloads, and compatibility notes (German).
+
+[Einladungen mit Logo: drei fertige, lokal anpassbare Vorlagen mit PDF-Ausgabe](examples/invitations/README.md).

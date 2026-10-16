@@ -1,0 +1,157 @@
+{
+  "id": "8ad0bd60-9eaa-4588-865f-b8420b2291ab",
+  "revision": 0,
+  "last_node_id": 3,
+  "last_link_id": 2,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "title": "1 · Logo laden (durch eigenes PNG ersetzen)",
+      "pos": [
+        20,
+        100
+      ],
+      "size": [
+        340,
+        430
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1
+          ]
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [
+            2
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "nordlicht-logo.png",
+        "image"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "DGXInvitation",
+      "title": "2 · Deine Einladung gestalten",
+      "pos": [
+        460,
+        100
+      ],
+      "size": [
+        690,
+        1250
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "logo",
+          "type": "IMAGE",
+          "link": 1
+        },
+        {
+          "name": "logo_maske",
+          "type": "MASK",
+          "link": 2
+        },
+        {
+          "name": "bildhintergrund",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "vorschau",
+          "type": "IMAGE",
+          "links": []
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DGXInvitation"
+      },
+      "widgets_values": [
+        "WINTER\nABEND",
+        "Nordlicht Atelier",
+        "Ein Abend für gute Gespräche,\nfeine Klänge und neue Begegnungen.",
+        "Samstag, 5. Dezember 2026",
+        "ab 18:30 Uhr",
+        "Atelier am Fluss\nUferstraße 12 · 10115 Berlin",
+        "Rückmeldung bis 25. November\nhallo@nordlicht.example",
+        "Botanisch & Creme",
+        "A5 Hochformat",
+        "",
+        "",
+        0.25,
+        "einladungen/nordlicht-botanisch"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "MarkdownNote",
+      "pos": [
+        1210,
+        100
+      ],
+      "size": [
+        430,
+        500
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "# Deine erste Einladung\n\n1. Zum Test einfach **Ausführen** anklicken.\n2. Im linken Knoten dein eigenes Logo hochladen (PNG mit transparentem Hintergrund). Beide Verbindungen bleiben bestehen.\n3. Im mittleren Knoten Text, Datum, Ort und Kontakt ändern.\n4. Unter **Gestaltung** einen der drei Stile wählen. Eigene Farben als `#RRGGBB` eingeben oder leer lassen.\n5. Wieder **Ausführen** anklicken. Im Knoten erscheinen Links zu **PDF**, **Druck-PNG**, **WhatsApp-PNG** und **Textvorlage**.\n\n**Tipp:** Zeilenumbrüche im Titel sind erlaubt. Die PNG enthält den Workflow und lässt sich später wieder in ComfyUI ziehen.\n\nAlle Veranstaltungsdaten und das Logo sind fiktive Beispiele. Das Layout arbeitet lokal ohne zusätzliches Bildmodell."
+      ]
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "IMAGE"
+    ],
+    [
+      2,
+      1,
+      1,
+      2,
+      1,
+      "MASK"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.7,
+      "offset": [
+        30,
+        20
+      ]
+    }
+  },
+  "version": 0.4
+}

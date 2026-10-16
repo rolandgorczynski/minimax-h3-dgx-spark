@@ -1,0 +1,15 @@
+{
+  "veranstaltung": "WINTER\nABEND",
+  "veranstalter": "Nordlicht Atelier",
+  "einladungstext": "Ein Abend für gute Gespräche,\nfeine Klänge und neue Begegnungen.",
+  "datum": "Samstag, 5. Dezember 2026",
+  "uhrzeit": "ab 18:30 Uhr",
+  "ort": "Atelier am Fluss\nUferstraße 12 · 10115 Berlin",
+  "rueckmeldung": "Rückmeldung bis 25. November\nhallo@nordlicht.example",
+  "stil": "Mitternacht & Gold",
+  "format": "A5 Hochformat",
+  "akzentfarbe": "",
+  "hintergrundfarbe": "",
+  "hintergrund_staerke": 0.25,
+  "dateiname": "einladungen/nordlicht-mitternacht"
+}

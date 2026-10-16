@@ -1,5 +1,7 @@
 # MiniMax H3: Beispiele und Erweiterungen
 
+**Neu: [Drei fertige Einladungen mit Logo, PDF und WhatsApp-PNG](invitations/README.md)** — lokal öffnen, ausprobieren und selbst anpassen.
+
 In ComfyUI links **Workflows → MiniMax-H3** öffnen. Alternativ eine JSON-Datei
 aus `workflows/` in die Oberfläche ziehen. Nach der Installation den Browser
 mit Strg+F5 neu laden. Der Installer deaktiviert Nodes 2.0 zugunsten des

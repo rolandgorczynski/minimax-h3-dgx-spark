@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+  <title>Nordlicht Atelier – fiktives Beispiel-Logo</title>
+  <g fill="none" stroke="#C5A46C">
+    <circle cx="320" cy="320" r="250" stroke-width="3"/>
+    <circle cx="320" cy="320" r="235" stroke-width="1"/>
+    <path d="M210 445V200L430 440V195" stroke-width="11"/>
+    <path d="M150 180V150H180" stroke-width="3"/>
+  </g>
+</svg>

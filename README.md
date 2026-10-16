@@ -145,3 +145,5 @@ docker commit minimax-h3-comfyui local/minimax-h3-comfyui:v0.30.0-ta   # 固化�
 ## Examples / Beispiele / 扩展
 
 [Beispielpaket mit sechs H3-Workflows, Video-Upscaling, Erweiterungen und Installationsanleitung](examples/README.md) (Deutsch).
+
+[Einladungen mit Logo: drei fertige, lokal anpassbare Vorlagen mit PDF-Ausgabe](examples/invitations/README.md).

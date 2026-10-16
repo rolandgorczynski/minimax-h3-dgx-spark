@@ -32,7 +32,7 @@ for name, spec in json.loads(pathlib.Path('config/extensions.json').read_text())
     for file, (_, expected) in edited.items():
         (dest / file).write_bytes(expected)
     print(f'{name}: {spec["commit"]}')
-for name in ('dgx-server-downloads', 'dgx-german-ui'):
+for name in ('dgx-server-downloads', 'dgx-german-ui', 'dgx-invitations'):
     shutil.copytree(pathlib.Path('extensions') / name, root / 'custom_nodes' / name,
                     dirs_exist_ok=True, ignore=shutil.ignore_patterns('__pycache__'))
 translation = root / 'custom_nodes/ComfyUI-Global-Translation/config.json'
@@ -43,6 +43,15 @@ workflows = root / 'user/default/workflows/MiniMax-H3'
 workflows.mkdir(parents=True, exist_ok=True)
 for source in pathlib.Path('examples/workflows').glob('*.json'):
     shutil.copy2(source, workflows / source.name)
+invitations = root / 'user/default/workflows/Einladungen'
+invitations.mkdir(parents=True, exist_ok=True)
+for source in pathlib.Path('examples/invitations/workflows').glob('*.json'):
+    shutil.copy2(source, invitations / source.name)
+for source in pathlib.Path('examples/invitations/input').glob('*.png'):
+    target = root / 'input' / source.name
+    if not target.exists():
+        shutil.copy2(source, target)
+print(f'Einladungen: {invitations}')
 sample = root / 'input/h3_robot_coffee_turbo.mp4'
 if not sample.exists():
     shutil.copy2('examples/output/robot-coffee-turbo.mp4', sample)
