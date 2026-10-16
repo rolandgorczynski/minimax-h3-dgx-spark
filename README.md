@@ -147,3 +147,33 @@ docker commit minimax-h3-comfyui local/minimax-h3-comfyui:v0.30.0-ta   # 固化�
 [Beispielpaket mit sechs H3-Workflows, Video-Upscaling, Erweiterungen und Installationsanleitung](examples/README.md) (Deutsch).
 
 [Einladungen mit Logo: drei fertige, lokal anpassbare Vorlagen mit PDF-Ausgabe](examples/invitations/README.md).
+
+## ComfyUI-Templates aktualisieren
+
+Die offizielle Galerie unter **Templates** wird über das Python-Paket
+`comfyui-workflow-templates` aktualisiert. Die folgenden Befehle im Terminal
+auf dem Server ausführen, sobald keine Generierung läuft:
+
+```bash
+docker exec minimax-h3-comfyui python -m pip install --upgrade comfyui-workflow-templates
+docker restart minimax-h3-comfyui
+```
+
+Danach die ComfyUI-Seite mit **Strg+F5** neu laden und **Templates** öffnen.
+Installierte Version prüfen:
+
+```bash
+docker exec minimax-h3-comfyui python -m pip show comfyui-workflow-templates
+```
+
+Neue Vorlagen können zusätzliche Modelle, Erweiterungen oder eine neuere
+ComfyUI-Version benötigen. Modelle werden durch das Template-Update nicht
+mit heruntergeladen. Eigene Workflows, etwa unter **Workflows → Einladungen**,
+werden durch dieses Paket-Update nicht verändert.
+
+Das Update bleibt bei einem Neustart erhalten, geht aber beim Neuerstellen des
+Containers aus dem bisherigen Image verloren. Für eine reproduzierbare Installation
+muss die getestete Template-Version zusätzlich beim Image-Build festgelegt werden;
+die Basisversion stammt derzeit aus `comfyui-src/requirements.txt`.
+
+Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/workflow_templates).
