@@ -31,6 +31,9 @@ mit `api/turbo_draft.json` erzeugt: 608 × 352, 56 Frames, 8 Schritte,
 2,33 Sekunden Video, rund 88 Sekunden einschließlich Modellladen.
 Dies ist ein kurzer Funktionstest, kein Qualitätsbenchmark.
 
+[Dieselbe Szene nach 2×-Upscaling mit Originalton](output/robot-coffee-upscaled-x2.mp4)
+— 1216 × 704, 24 fps, H.264/AAC; auf diesem GB10 in rund 37 Sekunden verarbeitet.
+
 Die Fortsetzungsvorlage nimmt den letzten Frame eines geladenen Clips als
 Startbild für einen neuen Clip. Sie erzeugt die nächste Szene; sie hängt die
 Dateien nicht automatisch zusammen und übernimmt keine Audio-Kontinuität.
