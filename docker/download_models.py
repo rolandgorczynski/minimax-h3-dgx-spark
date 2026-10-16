@@ -21,25 +21,25 @@ MODEL_ROOT = Path("/opt/ComfyUI/models")
 GROUPS = {
     "fl2va": [
         (
-            "split_files/diffusion_models/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+            "diffusion_models/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
             MODEL_ROOT / "diffusion_models/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
         ),
         (
-            "split_files/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+            "text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
             MODEL_ROOT / "text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
         ),
         (
-            "split_files/vae/minimax_h3_video_vae_fp16.safetensors",
+            "vae/minimax_h3_video_vae_fp16.safetensors",
             MODEL_ROOT / "vae/minimax_h3_video_vae_fp16.safetensors",
         ),
         (
-            "split_files/vae/minimax_h3_audio_vae_fp32.safetensors",
+            "vae/minimax_h3_audio_vae_fp32.safetensors",
             MODEL_ROOT / "vae/minimax_h3_audio_vae_fp32.safetensors",
         ),
     ],
     "r2v": [
         (
-            "split_files/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+            "diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
             MODEL_ROOT / "diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
         )
     ],

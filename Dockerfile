@@ -14,7 +14,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/* \
     && git lfs install --system
 
-# 源码在宿主机预下载(codeload), 避免容器内 GitHub 直连 TLS 断连
 COPY comfyui-src/ /opt/ComfyUI/
 
 WORKDIR /opt/ComfyUI
@@ -26,9 +25,18 @@ RUN grep -Ev '^(torch|torchvision|torchaudio)([<=>~! ].*)?$' requirements.txt \
     && python -m pip install -r /tmp/comfy-requirements.txt \
     && python -m pip install "huggingface_hub[hf_xet]>=0.34.0"
 
+# Build torchaudio against the pinned NGC PyTorch ABI (PyPI wheels are incompatible).
+RUN curl -L --retry 3 -o /tmp/torchaudio-src.tar.gz \
+      "https://codeload.github.com/pytorch/audio/tar.gz/87ff22e49ed0" \
+    && tar xzf /tmp/torchaudio-src.tar.gz -C /tmp \
+    && MAX_JOBS=4 python -m pip install --no-build-isolation --no-deps /tmp/audio-87ff22e49ed0 \
+    && python -c "import torchaudio; print('torchaudio =', torchaudio.__version__)" \
+    && rm -rf /tmp/audio-87ff22e49ed0 /tmp/torchaudio-src.tar.gz
+
+RUN chmod -R a+rX /opt/ComfyUI
 COPY docker/entrypoint.sh /usr/local/bin/h3-entrypoint
 COPY docker/download_models.py /usr/local/bin/h3-download-models
-RUN chmod +x /usr/local/bin/h3-entrypoint /usr/local/bin/h3-download-models
+RUN chmod 755 /usr/local/bin/h3-entrypoint /usr/local/bin/h3-download-models
 
 EXPOSE 8188
 ENTRYPOINT ["/usr/bin/tini", "--", "/usr/local/bin/h3-entrypoint"]
