@@ -71,7 +71,7 @@ make up
 Wenn ComfyUI bereits läuft: nach der Installation `docker compose restart comfyui`
 ausführen und den Browser neu laden.
 
-`config/extensions.json` fixiert die drei Erweiterungen auf geprüfte Commits.
+`config/extensions.json` fixiert die vier Erweiterungen auf geprüfte Commits.
 Die Installation überschreibt keine abweichenden oder bearbeiteten Checkouts.
 Python-Abhängigkeiten werden im Dockerfile installiert; Constraints schützen
 bereits vorhandene Pakete, insbesondere NGC-PyTorch und NumPy. Nur eine
@@ -105,7 +105,7 @@ Es wurden keine kostenpflichtigen API-Workflows eingerichtet.
 
 ## Ausgeführte Prüfung
 
-Alle drei Erweiterungen laden gemeinsam; 327 zusätzliche Nodes sind registriert,
+VideoHelperSuite, rgthree und KJNodes laden gemeinsam; 327 zusätzliche Nodes sind registriert,
 kein ursprünglicher Node wurde durch sie ersetzt. Ein H3-Turbo-Durchlauf mit
 Video und AAC-Audio wurde erfolgreich ausgeführt. `api/extension_smoke.json` prüft KJ-Skalierung, rgthree-Zuschnitt
 und VHS-MP4-Export gemeinsam (kurzes Standbildvideo, kein H3-Modell nötig).
@@ -132,3 +132,11 @@ auf den DGX. Der Knopf **DGX Downloads** zeigt Fortschritt und Fehler und kann
 alle im Workflow hinterlegten Modelle laden. Vorhandene Dateien bleiben erhalten.
 Nach der Einrichtung einmal **Strg+F5** drücken.
 [Details und Grenzen](../extensions/dgx-server-downloads/README.md).
+
+## Deutsche Oberfläche
+
+Die Installation aktiviert das lokale deutsche Übersetzungspaket. Danach einmal
+**Strg+F5** drücken. In den Einstellungen unter **Übersetzungssprache** zwischen
+**Deutsch** und **English** wechseln. Einzelne Erweiterungstexte können Englisch
+bleiben; technische Modell- und Samplerwerte bleiben unverändert.
+[Details](../extensions/dgx-german-ui/README.md).

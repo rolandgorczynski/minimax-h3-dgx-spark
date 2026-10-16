@@ -1,5 +1,33 @@
 {
-  "ComfyUI-VideoHelperSuite": {"url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git", "commit": "4d907bee61e92c2e65af3bd6383a4e4d356126d1"},
-  "rgthree-comfy": {"url": "https://github.com/rgthree/rgthree-comfy.git", "commit": "d7297b42f0fa78bec1c0411478f887423c249502"},
-  "ComfyUI-KJNodes": {"url": "https://github.com/kijai/ComfyUI-KJNodes.git", "commit": "17195fcfa8a05f601b766a0f09c9733284f47416"}
+  "ComfyUI-VideoHelperSuite": {
+    "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git",
+    "commit": "4d907bee61e92c2e65af3bd6383a4e4d356126d1"
+  },
+  "rgthree-comfy": {
+    "url": "https://github.com/rgthree/rgthree-comfy.git",
+    "commit": "d7297b42f0fa78bec1c0411478f887423c249502"
+  },
+  "ComfyUI-KJNodes": {
+    "url": "https://github.com/kijai/ComfyUI-KJNodes.git",
+    "commit": "17195fcfa8a05f601b766a0f09c9733284f47416"
+  },
+  "ComfyUI-Global-Translation": {
+    "url": "https://github.com/a63976659/ComfyUI-Global-Translation.git",
+    "commit": "a7b9ebd2b63fcda3ae22e1c095b078528d470c68",
+    "runtime_files": [
+      "config.json"
+    ],
+    "text_edits": [
+      {
+        "file": "js/utils.js",
+        "old": "comfyLocale = app?.ui?.settings?.getSettingValue?.(\"Comfy.Locale\", \"en\") || \"en\";",
+        "new": "comfyLocale = app?.ui?.settings?.getSettingValue?.(\"DGX.Translation.Locale\", null) || app?.ui?.settings?.getSettingValue?.(\"Comfy.Locale\", \"en\") || \"en\";"
+      },
+      {
+        "file": "js/utils.js",
+        "old": "return app?.ui?.settings?.getSettingValue?.(\"Comfy.Locale\", null) ?? null;",
+        "new": "return app?.ui?.settings?.getSettingValue?.(\"DGX.Translation.Locale\", null) || app?.ui?.settings?.getSettingValue?.(\"Comfy.Locale\", null) || null;"
+      }
+    ]
+  }
 }
