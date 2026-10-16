@@ -141,3 +141,7 @@ docker commit minimax-h3-comfyui local/minimax-h3-comfyui:v0.30.0-ta   # 固化�
 
 - 本仓库代码：[MIT](LICENSE)
 - MiniMax H3 模型：Community License（非 Apache 2.0），商用前请核查模型仓库 LICENSE 与所在地区限制
+
+## Examples / Beispiele / 扩展
+
+[Beispielpaket mit sechs H3-Workflows, Video-Upscaling, Erweiterungen und Installationsanleitung](examples/README.md) (Deutsch).

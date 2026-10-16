@@ -18,6 +18,8 @@ help:
 	@echo "  make status"
 	@echo "  make download-r2v"
 	@echo "  make diagnostics"
+	@echo "  make install-extensions"
+	@echo "  make download-extras"
 
 init:
 	@if [[ -z "$(DATA_ROOT)" ]]; then \
@@ -70,3 +72,10 @@ diagnostics:
 clean-container:
 	@docker compose down --remove-orphans
 	@docker image rm "local/minimax-h3-comfyui:$${COMFYUI_REF:-v0.30.0}" 2>/dev/null || true
+
+.PHONY: install-extensions download-extras
+install-extensions:
+	@./scripts/install_extensions.sh
+
+download-extras:
+	@./scripts/download_extras.sh

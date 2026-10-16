@@ -1,0 +1,5 @@
+# One OpenCV distribution only; both node packs use the cv2 API.
+opencv-python-headless==4.11.0.86
+imageio-ffmpeg==0.6.0
+color-matcher==0.6.0
+mss==10.1.0

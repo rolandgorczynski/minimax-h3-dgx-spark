@@ -45,6 +45,25 @@ GROUPS = {
     ],
 }
 
+# These effects require a newer H3 tokenizer; keep them outside active embeddings.
+GROUPS["turbo"] = [
+    (
+        "loras/minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+        MODEL_ROOT / "loras/minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+    )
+]
+GROUPS["effects"] = [
+    (
+        f"embeddings/minimaxh3_{name}.safetensors",
+        MODEL_ROOT / f"pending-upgrade/embeddings/minimaxh3_{name}.safetensors",
+    )
+    for name in (
+        "art_is_explosion", "blooming_flowers", "bullet_time", "dark_magic",
+        "fire_breath", "four_seasons", "kiss_camera", "spiral_ascent",
+        "storm_magic", "truman_show",
+    )
+]
+
 
 def main() -> int:
     parser = argparse.ArgumentParser()

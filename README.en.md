@@ -143,3 +143,7 @@ Note: the docs are currently written in Chinese.
 
 - Code in this repo: [MIT](LICENSE)
 - MiniMax H3 model: Community License (not Apache 2.0); check the model repo LICENSE and your local regulations before commercial use
+
+## Examples and extensions
+
+See [the example pack](examples/README.md) for six importable H3 workflows and a video upscaling workflow, pinned extensions, optional model downloads, and compatibility notes (German).

@@ -1,0 +1,7 @@
+{
+  "1": {"class_type": "LoadImage", "inputs": {"image": "transparent_rgb_gaming_mouse.png"}},
+  "2": {"class_type": "ImageResizeKJv2", "inputs": {"image": ["1", 0], "width": 320, "height": 320, "upscale_method": "lanczos", "keep_proportion": "pad", "pad_color": "0, 0, 0", "crop_position": "center", "divisible_by": 2, "device": "cpu"}},
+  "3": {"class_type": "Image Inset Crop (rgthree)", "inputs": {"image": ["2", 0], "measurement": "Pixels", "left": 8, "right": 8, "top": 8, "bottom": 8}},
+  "4": {"class_type": "RepeatImageBatch", "inputs": {"image": ["3", 0], "amount": 8}},
+  "5": {"class_type": "VHS_VideoCombine", "inputs": {"images": ["4", 0], "frame_rate": 8, "loop_count": 0, "filename_prefix": "examples/extension_smoke", "format": "video/h264-mp4", "pingpong": false, "save_output": true, "pix_fmt": "yuv420p", "crf": 19, "save_metadata": true, "trim_to_audio": false}}
+}

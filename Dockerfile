@@ -33,6 +33,12 @@ RUN curl -L --retry 3 -o /tmp/torchaudio-src.tar.gz \
     && python -c "import torchaudio; print('torchaudio =', torchaudio.__version__)" \
     && rm -rf /tmp/audio-87ff22e49ed0 /tmp/torchaudio-src.tar.gz
 
+# Freeze installed packages so extension dependencies cannot replace NGC torch/CUDA.
+COPY docker/extensions-requirements.txt /tmp/extensions-requirements.txt
+RUN python -m pip freeze --all > /tmp/base-constraints.txt \
+    && python -m pip install -c /tmp/base-constraints.txt -r /tmp/extensions-requirements.txt \
+    && python -c "import cv2, imageio_ffmpeg, color_matcher, mss, torch, torchaudio; print(torch.__version__, torchaudio.__version__)"
+
 RUN chmod -R a+rX /opt/ComfyUI
 COPY docker/entrypoint.sh /usr/local/bin/h3-entrypoint
 COPY docker/download_models.py /usr/local/bin/h3-download-models
