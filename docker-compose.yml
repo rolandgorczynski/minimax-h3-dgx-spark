@@ -17,6 +17,9 @@ services:
     env_file:
       - .env
     environment:
+      # GitHub credentials in the host .env are not needed by ComfyUI.
+      GITHUB_TOKEN: ""
+      GH_TOKEN: ""
       HF_HOME: /data/hf-cache
       HUGGINGFACE_HUB_CACHE: /data/hf-cache/hub
       HF_XET_CACHE: /data/hf-cache/xet
