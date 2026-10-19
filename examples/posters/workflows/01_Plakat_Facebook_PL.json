@@ -1,8 +1,8 @@
 {
   "id": "dca8298f-e954-49f6-b023-3db6cf72e795",
-  "revision": 0,
-  "last_node_id": 3,
-  "last_link_id": 2,
+  "revision": 1,
+  "last_node_id": 6,
+  "last_link_id": 5,
   "nodes": [
     {
       "id": 1,
@@ -84,6 +84,21 @@
           "name": "wlasna_ilustracja",
           "type": "IMAGE",
           "link": null
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 4
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 5
         }
       ],
       "outputs": [
@@ -128,7 +143,106 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "# Plakat na Facebooka\n\nZmień temat, opis ilustracji, datę, godziny i miejsce. Kliknij Run / Ausführen.\n\nFLUX 9B tworzy tylko ilustrację. Polskie napisy i oryginalne logo nakładane są osobno.\n\nBelka jest opcjonalna: dodaj Load Image i połącz IMAGE → belka oraz MASK → maska_belki.\n\nWłasne zdjęcie: wyłącz generuj_obraz i podłącz IMAGE → wlasna_ilustracja.\n\nZiarno zmienia wariant ilustracji. Data w formacie RRRR-MM-DD; dzień tygodnia obliczany automatycznie. PNG: 1080 × 1350 px."
+        "# Plakat na Facebooka\n\nZmień temat, opis ilustracji, datę, godziny i miejsce. Kliknij Run / Ausführen.\n\nLokalny FLUX.2 w ComfyUI tworzy tylko ilustrację. Polskie napisy i oryginalne logo nakładane są osobno.\n\nBelka jest opcjonalna: dodaj Load Image i połącz IMAGE → belka oraz MASK → maska_belki.\n\nWłasne zdjęcie: wyłącz generuj_obraz i podłącz IMAGE → wlasna_ilustracja.\n\nZiarno zmienia wariant ilustracji. Data w formacie RRRR-MM-DD; dzień tygodnia obliczany automatycznie. PNG: 1080 × 1350 px.\n\n## Generowanie w ComfyUI\nLokalny FLUX.2 Klein 4B FP8 + Qwen3 4B + FLUX2 VAE. Bez zewnętrznego serwisu i klucza API. Modele są podłączone u góry."
+      ]
+    },
+    {
+      "id": 4,
+      "type": "UNETLoader",
+      "title": "Lokalny MODEL",
+      "pos": [
+        460,
+        -230
+      ],
+      "size": [
+        330,
+        150
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            3
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux-2-klein-4b-fp8.safetensors",
+        "default"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "CLIPLoader",
+      "title": "Lokalny CLIP",
+      "pos": [
+        810,
+        -230
+      ],
+      "size": [
+        330,
+        150
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            4
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPLoader"
+      },
+      "widgets_values": [
+        "qwen_3_4b.safetensors",
+        "flux2",
+        "default"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "VAELoader",
+      "title": "Lokalny VAE",
+      "pos": [
+        1160,
+        -230
+      ],
+      "size": [
+        330,
+        150
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            5
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "flux2-vae.safetensors"
       ]
     }
   ],
@@ -148,6 +262,30 @@
       2,
       1,
       "MASK"
+    ],
+    [
+      3,
+      4,
+      0,
+      2,
+      5,
+      "MODEL"
+    ],
+    [
+      4,
+      5,
+      0,
+      2,
+      6,
+      "CLIP"
+    ],
+    [
+      5,
+      6,
+      0,
+      2,
+      7,
+      "VAE"
     ]
   ],
   "groups": [],

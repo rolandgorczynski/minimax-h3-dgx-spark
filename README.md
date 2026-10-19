@@ -178,4 +178,4 @@ die Basisversion stammt derzeit aus `comfyui-src/requirements.txt`.
 
 Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/workflow_templates).
 
-[Plakaty po polsku na Facebooka: lokalny FLUX 9B, logo i opcjonalna belka](examples/posters/README.md).
+[Plakaty po polsku na Facebooka: ComfyUI, lokalny FLUX.2, logo i opcjonalna belka](examples/posters/README.md).

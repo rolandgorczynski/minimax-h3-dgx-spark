@@ -1,10 +1,6 @@
-"""Local FLUX 9B art and deterministic Polish Facebook poster layout."""
-import base64
-from io import BytesIO
+"""Native ComfyUI FLUX.2 art and deterministic Polish Facebook poster layout."""
 import json
 from pathlib import Path
-import urllib.error
-import urllib.request
 
 import folder_paths
 import numpy as np
@@ -37,7 +33,8 @@ class DGXPoster:
                 'herb': ('IMAGE',), 'maska_herbu': ('MASK',),
                 'pokaz_belke': ('BOOLEAN', {'default': True}),
                 'pokaz_herb': ('BOOLEAN', {'default': True}),
-                'opis_z_obrazu': ('STRING', {'forceInput': True})},
+                'opis_z_obrazu': ('STRING', {'forceInput': True}),
+                'model': ('MODEL',), 'clip': ('CLIP',), 'vae': ('VAE',)},
                 'hidden': {'prompt': 'PROMPT', 'extra_pnginfo': 'EXTRA_PNGINFO'}}
 
     RETURN_TYPES = ('IMAGE',)
@@ -45,7 +42,7 @@ class DGXPoster:
     FUNCTION = 'create'
     CATEGORY = 'DGX/Plakaty'
     OUTPUT_NODE = True
-    DESCRIPTION = 'Plakat Facebook 1080×1350. FLUX 9B tworzy ilustrację lokalnie; napisy i logo nakładane są osobno. Belka opcjonalna. Data: RRRR-MM-DD.'
+    DESCRIPTION = 'Plakat Facebook 1080×1350. ComfyUI tworzy ilustrację lokalnym modelem FLUX.2; napisy i logo nakładane są osobno. Belka opcjonalna. Data: RRRR-MM-DD.'
 
     @staticmethod
     def pil(tensor, mask=None):
@@ -60,26 +57,15 @@ class DGXPoster:
     def create(self, organizator, tytul, tematy, data, godziny, miejsce, opis_ilustracji,
                generuj_obraz, ziarno, nazwa_pliku, logo=None, maska_logo=None, belka=None,
                maska_belki=None, wlasna_ilustracja=None, prompt=None, extra_pnginfo=None,
-               herb=None, maska_herbu=None, pokaz_belke=True, pokaz_herb=True, opis_z_obrazu=None):
+               herb=None, maska_herbu=None, pokaz_belke=True, pokaz_herb=True, opis_z_obrazu=None,
+               model=None, clip=None, vae=None):
         if opis_z_obrazu is not None:
             opis_ilustracji = opis_z_obrazu
         art = self.pil(wlasna_ilustracja)
         if generuj_obraz:
-            config_path = Path(folder_paths.get_user_directory()) / 'default/dgx-posters.json'
-            if not config_path.is_file():
-                raise ValueError('Brak konfiguracji lokalnego FLUX. Zobacz examples/posters/README.md.')
-            config = json.loads(config_path.read_text())
-            payload = {'model': 'flux.2-klein-9b', 'prompt': opis_ilustracji + '\nEditorial photograph, no text, no letters, no logos, wide composition.',
-                       'size': '1792x1024', 'n': 1, 'seed': ziarno, 'response_format': 'b64_json'}
-            request = urllib.request.Request(config['url'].rstrip('/')+'/images/generations',
-                      data=json.dumps(payload).encode(), headers={'Content-Type': 'application/json',
-                      'Authorization': 'Bearer '+config['api_key']})
-            try:
-                with urllib.request.urlopen(request, timeout=600) as response:
-                    result = json.load(response)
-                art = Image.open(BytesIO(base64.b64decode(result['data'][0]['b64_json']))).convert('RGB')
-            except (urllib.error.URLError, KeyError, ValueError) as exc:
-                raise RuntimeError('Nie udało się wygenerować ilustracji. Sprawdź lokalny FLUX 9B lub podłącz własny obraz.') from exc
+            from .generation import generate
+            pixels = generate(model, clip, vae, opis_ilustracji, ziarno)
+            art = self.pil(pixels)
         if art is None:
             raise ValueError('Włącz generowanie obrazu lub podłącz własną ilustrację.')
         image = compose(organizator, tytul, tematy, data, godziny, miejsce, art,
@@ -98,7 +84,7 @@ class DGXPoster:
 
 
 NODE_CLASS_MAPPINGS = {'DGXPoster': DGXPoster}
-NODE_DISPLAY_NAME_MAPPINGS = {'DGXPoster': 'Plakat na Facebooka · FLUX 9B · PL'}
+NODE_DISPLAY_NAME_MAPPINGS = {'DGXPoster': 'Plakat na Facebooka · lokalny FLUX.2 · PL'}
 
 
 class DGXImageURL:

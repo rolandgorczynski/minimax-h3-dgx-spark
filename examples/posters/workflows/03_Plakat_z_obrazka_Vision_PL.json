@@ -1,8 +1,8 @@
 {
   "id": "41606265-9a91-4b6c-91cc-8b5af1d70245",
-  "revision": 1,
-  "last_node_id": 8,
-  "last_link_id": 9,
+  "revision": 2,
+  "last_node_id": 11,
+  "last_link_id": 12,
   "nodes": [
     {
       "id": 1,
@@ -99,6 +99,21 @@
           "name": "opis_z_obrazu",
           "type": "STRING",
           "link": 8
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 10
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 11
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 12
         }
       ],
       "outputs": [
@@ -145,7 +160,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "# Plakat z wgranego obrazka\n\n1. W węźle 5 kliknij Choose file to upload i wybierz obrazek z komputera.\n2. Uruchom. Vision opisze scenę, a wynik trafi do FLUX i plakatu.\n3. Opis pojawi się w węźle vision. Aby go poprawić, wpisz własną wersję w poprawiony_opis i uruchom ponownie.\n\nDane wydarzenia zmień osobno w głównym węźle. Przykładowy obrazek jest już wgrany. Belkę i herb włączasz niezależnie.\n\nDo samego sprawdzenia opisu ustaw główny węzeł plakatu w tryb Never (Ctrl+M); vision nadal wyświetli opis."
+        "# Plakat z wgranego obrazka\n\n1. W węźle 5 kliknij Choose file to upload i wybierz obrazek z komputera.\n2. Uruchom. Vision opisze scenę, a wynik trafi do FLUX i plakatu.\n3. Opis pojawi się w węźle vision. Aby go poprawić, wpisz własną wersję w poprawiony_opis i uruchom ponownie.\n\nDane wydarzenia zmień osobno w głównym węźle. Przykładowy obrazek jest już wgrany. Belkę i herb włączasz niezależnie.\n\nDo samego sprawdzenia opisu ustaw główny węzeł plakatu w tryb Never (Ctrl+M); vision nadal wyświetli opis.\n\n## Generowanie w ComfyUI\nLokalny FLUX.2 Klein 4B FP8 + Qwen3 4B + FLUX2 VAE. Bez zewnętrznego serwisu i klucza API. Modele są podłączone u góry."
       ]
     },
     {
@@ -334,6 +349,105 @@
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
+    },
+    {
+      "id": 9,
+      "type": "UNETLoader",
+      "title": "Lokalny MODEL",
+      "pos": [
+        460,
+        -230
+      ],
+      "size": [
+        330,
+        150
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            10
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux-2-klein-4b-fp8.safetensors",
+        "default"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "CLIPLoader",
+      "title": "Lokalny CLIP",
+      "pos": [
+        810,
+        -230
+      ],
+      "size": [
+        330,
+        150
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            11
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPLoader"
+      },
+      "widgets_values": [
+        "qwen_3_4b.safetensors",
+        "flux2",
+        "default"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "VAELoader",
+      "title": "Lokalny VAE",
+      "pos": [
+        1160,
+        -230
+      ],
+      "size": [
+        330,
+        150
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            12
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "flux2-vae.safetensors"
+      ]
     }
   ],
   "links": [
@@ -408,6 +522,30 @@
       8,
       0,
       "IMAGE"
+    ],
+    [
+      10,
+      9,
+      0,
+      2,
+      8,
+      "MODEL"
+    ],
+    [
+      11,
+      10,
+      0,
+      2,
+      9,
+      "CLIP"
+    ],
+    [
+      12,
+      11,
+      0,
+      2,
+      10,
+      "VAE"
     ]
   ],
   "groups": [],

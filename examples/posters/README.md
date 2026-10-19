@@ -1,27 +1,40 @@
 # Plakaty po polsku na Facebooka
 
 Workflow `workflows/01_Plakat_Facebook_PL.json` tworzy PNG 1080 × 1350 px.
-FLUX.2 Klein 9B generuje ilustrację na lokalnym Sparku. Osobny węzeł nakłada
+FLUX.2 Klein 4B FP8 generuje ilustrację bezpośrednio w ComfyUI na lokalnym Sparku. Osobny węzeł nakłada
 polskie teksty, oryginalne logo i opcjonalną belkę partnerów. Nie używa chmury.
 
 ## Instalacja
 
-Wymaga działającego lokalnego projektu `flux-klein-spark` z API na porcie 7862
-oraz sieci Docker `hycanvas-ai`. Model musi być pobrany i załadowany w usłudze FLUX.
-Nie trzeba pobierać go ponownie do ComfyUI.
+Wymaga istniejącej instalacji ComfyUI i następujących lokalnych modeli:
+
+- `models/diffusion_models/flux-2-klein-4b-fp8.safetensors`
+- `models/text_encoders/qwen_3_4b.safetensors`
+- `models/vae/flux2-vae.safetensors`
+
+Te modele są już obecne na tym Sparku. W workflow widać standardowe węzły
+**UNETLoader**, **CLIPLoader** (typ `flux2`) i **VAELoader**. Główny węzeł używa
+lokalnych mechanizmów ComfyUI: kodowania tekstu, Flux2Scheduler, samplera Euler
+z czterema krokami i dekodowania VAE. Nie wykonuje żądań HTTP do generatora.
 
 Z katalogu projektu uruchom:
 
 ```bash
-./scripts/install_posters.sh /home/jee/docker/flux-klein-spark/.env
-docker compose -f docker-compose.yml -f docker-compose.posters.yml up -d
+./scripts/install_posters.sh
+docker compose up -d
 ```
 
+Jeśli ComfyUI już działa, po aktualizacji węzłów uruchom `docker restart minimax-h3-comfyui`.
 Instalator kopiuje węzły, logo i workflow do trwałego katalogu danych.
-Klucz API zapisuje wyłącznie w `user/default/dgx-posters.json` z prawami 0600.
-Nie umieszczaj tego pliku na GitHubie. Istniejąca konfiguracja nie jest nadpisywana.
-Adres lokalnego API można zmienić w polu `url` tego pliku.
-Przy kolejnych odtworzeniach kontenera używaj obu plików Compose.
+Zmienione dotychczasowe workflowy są przed aktualizacją kopiowane do
+`user/default/workflow-backups/<data>/`. Inne projekty nie są zmieniane.
+
+Nie trzeba instalować nowych pakietów, uruchamiać `flux-klein-spark`, tworzyć
+sieci `hycanvas-ai` ani podawać klucza API. Starszy plik `user/default/dgx-posters.json`
+nie jest już odczytywany. `docker-compose.posters.yml` pozostaje pustą nakładką
+zgodności dla dotychczasowych poleceń Compose. Przy aktualizacji otwórz ponownie
+wybraną z trzech aktualnych szablonów, aby dodać połączenia lokalnych modeli.
+Stare kopie bez podłączonych modeli wyświetlą instrukcję zamiast używać zewnętrznej usługi.
 
 ## Używanie
 
@@ -36,7 +49,7 @@ a MASK z `maska_belki`. Zalecana belka pozioma o proporcjach przynajmniej 6:1.
 Bez podłączonej belki układ wykorzystuje miejsce na treść.
 
 Własne zdjęcie: wyłącz `generuj_obraz` i podłącz IMAGE do `wlasna_ilustracja`.
-W tym trybie FLUX i klucz API nie są potrzebne. Zmiana ziarna daje nowy wariant ilustracji.
+W tym trybie nie odbywa się generowanie obrazu. Węzły modeli można odłączyć. Zmiana ziarna daje nowy wariant ilustracji.
 Ponowne uruchomienie bez zmian może korzystać z pamięci podręcznej ComfyUI.
 
 Data ma format RRRR-MM-DD; dzień tygodnia oblicza program.
