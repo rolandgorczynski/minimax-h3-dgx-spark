@@ -1,0 +1,9 @@
+# Combine with docker-compose.yml for local FLUX 9B poster generation.
+services:
+  comfyui:
+    networks:
+      - default
+      - hycanvas-ai
+networks:
+  hycanvas-ai:
+    external: true
