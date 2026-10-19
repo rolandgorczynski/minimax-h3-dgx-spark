@@ -160,7 +160,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "# Plakat z wgranego obrazka\n\n1. W węźle 5 kliknij Choose file to upload i wybierz obrazek z komputera.\n2. Uruchom. Vision opisze scenę, a wynik trafi do FLUX i plakatu.\n3. Opis pojawi się w węźle vision. Aby go poprawić, wpisz własną wersję w poprawiony_opis i uruchom ponownie.\n\nDane wydarzenia zmień osobno w głównym węźle. Przykładowy obrazek jest już wgrany. Belkę i herb włączasz niezależnie.\n\nDo samego sprawdzenia opisu ustaw główny węzeł plakatu w tryb Never (Ctrl+M); vision nadal wyświetli opis.\n\n## Generowanie w ComfyUI\nLokalny FLUX.2 Klein 4B FP8 + Qwen3 4B + FLUX2 VAE. Bez zewnętrznego serwisu i klucza API. Modele są podłączone u góry."
+        "# Plakat z wgranego obrazka\n\n1. W węźle 5 kliknij Choose file to upload i wybierz obrazek z komputera.\n2. Uruchom. Vision opisze scenę, a wynik trafi do FLUX i plakatu.\n3. Opis pojawi się w węźle vision. Aby go poprawić, wpisz własną wersję w poprawiony_opis i uruchom ponownie.\n\nDane wydarzenia zmień osobno w głównym węźle. Przykładowy obrazek jest już wgrany. Belkę i herb włączasz niezależnie.\n\nDo samego sprawdzenia opisu ustaw główny węzeł plakatu w tryb Never (Ctrl+M); vision nadal wyświetli opis.\n\n## Generowanie w ComfyUI\nLokalny FLUX.2 Klein 9B BF16 + Qwen3 8B + FLUX2 VAE. Bez zewnętrznego serwisu i klucza API. Modele są podłączone u góry."
       ]
     },
     {
@@ -379,7 +379,7 @@
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        "flux-2-klein-4b-fp8.safetensors",
+        "flux-2-klein-9b-bf16.safetensors",
         "default"
       ]
     },
@@ -412,7 +412,7 @@
         "Node name for S&R": "CLIPLoader"
       },
       "widgets_values": [
-        "qwen_3_4b.safetensors",
+        "qwen_3_8b.safetensors",
         "flux2",
         "default"
       ]

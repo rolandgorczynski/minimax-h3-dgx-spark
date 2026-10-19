@@ -1,18 +1,18 @@
 # Plakaty po polsku na Facebooka
 
 Workflow `workflows/01_Plakat_Facebook_PL.json` tworzy PNG 1080 × 1350 px.
-FLUX.2 Klein 4B FP8 generuje ilustrację bezpośrednio w ComfyUI na lokalnym Sparku. Osobny węzeł nakłada
+FLUX.2 Klein 9B BF16 generuje ilustrację bezpośrednio w ComfyUI na lokalnym Sparku. Osobny węzeł nakłada
 polskie teksty, oryginalne logo i opcjonalną belkę partnerów. Nie używa chmury.
 
 ## Instalacja
 
 Wymaga istniejącej instalacji ComfyUI i następujących lokalnych modeli:
 
-- `models/diffusion_models/flux-2-klein-4b-fp8.safetensors`
-- `models/text_encoders/qwen_3_4b.safetensors`
+- `models/diffusion_models/flux-2-klein-9b-bf16.safetensors`
+- `models/text_encoders/qwen_3_8b.safetensors`
 - `models/vae/flux2-vae.safetensors`
 
-Te modele są już obecne na tym Sparku. W workflow widać standardowe węzły
+Te modele są już przygotowane na tym Sparku z istniejącej lokalnej kopii 9B. W workflow widać standardowe węzły
 **UNETLoader**, **CLIPLoader** (typ `flux2`) i **VAELoader**. Główny węzeł używa
 lokalnych mechanizmów ComfyUI: kodowania tekstu, Flux2Scheduler, samplera Euler
 z czterema krokami i dekodowania VAE. Nie wykonuje żądań HTTP do generatora.
@@ -109,3 +109,21 @@ węzeł plakatu.
 Poprzedni węzeł `DGXImageURL` pozostaje zgodny z zapisanymi starszymi projektami,
 lecz nie jest używany w trzecim workflow. Akceptuje publiczne linki HTTP/HTTPS
 oraz endpoint `/view` lokalnego ComfyUI; limit wynosi 20 MB i 20 megapikseli.
+
+## Przeniesienie istniejącego 9B do ComfyUI
+
+Nie trzeba ponownie pobierać wag ani uruchamiać osobnego serwisu FLUX.
+Gdy model jest zapisany jako snapshot Diffusers z podkatalogami `transformer/`
+i `text_encoder/`, przygotuj natywne pliki ComfyUI:
+
+```bash
+python3 scripts/prepare_poster_9b.py /sciezka/do/snapshotu/FLUX.2-klein-9B /sciezka/do/ComfyUI/models
+./scripts/install_posters.sh
+```
+
+Skrypt korzysta wyłącznie ze standardowej biblioteki Pythona. Łączy shardy,
+mapuje nazwy tensorów na format ComfyUI, łączy Q/K/V i przestawia kolejność
+scale/shift końcowej modulacji. Wagi zachowują dokładność BF16, bez kwantyzacji.
+Wymaga około 35 GB dodatkowego miejsca; pliki źródłowe pozostają niezmienione.
+Nie nadpisuje istniejących plików docelowych. Wymagany FLUX2 VAE jest wspólny z 4B.
+Po instalacji odśwież listę modeli w ComfyUI i otwórz aktualny workflow.

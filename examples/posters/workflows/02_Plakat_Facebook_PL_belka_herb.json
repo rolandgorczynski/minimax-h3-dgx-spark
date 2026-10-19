@@ -155,7 +155,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "# Plakat na Facebooka\n\nZmień temat, opis ilustracji, datę, godziny i miejsce. Kliknij Run / Ausführen.\n\nLokalny FLUX.2 w ComfyUI tworzy tylko ilustrację. Polskie napisy i oryginalne logo nakładane są osobno.\n\nBelka jest opcjonalna: dodaj Load Image i połącz IMAGE → belka oraz MASK → maska_belki.\n\nWłasne zdjęcie: wyłącz generuj_obraz i podłącz IMAGE → wlasna_ilustracja.\n\nZiarno zmienia wariant ilustracji. Data w formacie RRRR-MM-DD; dzień tygodnia obliczany automatycznie. PNG: 1080 × 1350 px.\n\n## Belka i herb\nGotowe pliki są podłączone. Przełączniki pokaz_belke i pokaz_herb w głównym węźle niezależnie włączają i wyłączają te elementy.\n\n## Generowanie w ComfyUI\nLokalny FLUX.2 Klein 4B FP8 + Qwen3 4B + FLUX2 VAE. Bez zewnętrznego serwisu i klucza API. Modele są podłączone u góry."
+        "# Plakat na Facebooka\n\nZmień temat, opis ilustracji, datę, godziny i miejsce. Kliknij Run / Ausführen.\n\nLokalny FLUX.2 w ComfyUI tworzy tylko ilustrację. Polskie napisy i oryginalne logo nakładane są osobno.\n\nBelka jest opcjonalna: dodaj Load Image i połącz IMAGE → belka oraz MASK → maska_belki.\n\nWłasne zdjęcie: wyłącz generuj_obraz i podłącz IMAGE → wlasna_ilustracja.\n\nZiarno zmienia wariant ilustracji. Data w formacie RRRR-MM-DD; dzień tygodnia obliczany automatycznie. PNG: 1080 × 1350 px.\n\n## Belka i herb\nGotowe pliki są podłączone. Przełączniki pokaz_belke i pokaz_herb w głównym węźle niezależnie włączają i wyłączają te elementy.\n\n## Generowanie w ComfyUI\nLokalny FLUX.2 Klein 9B BF16 + Qwen3 8B + FLUX2 VAE. Bez zewnętrznego serwisu i klucza API. Modele są podłączone u góry."
       ]
     },
     {
@@ -267,7 +267,7 @@
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        "flux-2-klein-4b-fp8.safetensors",
+        "flux-2-klein-9b-bf16.safetensors",
         "default"
       ]
     },
@@ -300,7 +300,7 @@
         "Node name for S&R": "CLIPLoader"
       },
       "widgets_values": [
-        "qwen_3_4b.safetensors",
+        "qwen_3_8b.safetensors",
         "flux2",
         "default"
       ]
