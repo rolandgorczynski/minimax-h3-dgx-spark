@@ -149,3 +149,5 @@ Note: the docs are currently written in Chinese.
 See [the example pack](examples/README.md) for six importable H3 workflows and a video upscaling workflow, pinned extensions, optional model downloads, and compatibility notes (German).
 
 [Einladungen mit Logo: drei fertige, lokal anpassbare Vorlagen mit PDF-Ausgabe](examples/invitations/README.md).
+
+[Sysop-Comics in ComfyUI: Kachelanzahl, einzelne Szenen oder eine ganze Geschichte](examples/comics/README.md).
