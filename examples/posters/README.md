@@ -1,82 +1,95 @@
-# Plakaty po polsku na Facebooka
+# Polnische Facebook-Plakate
 
-Workflow `workflows/01_Plakat_Facebook_PL.json` tworzy PNG 1080 × 1350 px.
-FLUX.2 Klein 9B BF16 generuje ilustrację bezpośrednio w ComfyUI na lokalnym Sparku. Osobny węzeł nakłada
-polskie teksty, oryginalne logo i opcjonalną belkę partnerów. Nie używa chmury.
+Der Workflow `workflows/01_Plakat_Facebook_PL.json` erzeugt PNG-Dateien mit
+1080 × 1350 Pixeln. FLUX.2 Klein 9B BF16 zeichnet die Illustration direkt im lokalen
+ComfyUI auf dem Spark. Ein eigener Knoten setzt polnische Veranstaltungstexte,
+das unveränderte Logo und bei Bedarf einen Partnerstreifen darüber. Die Berechnung
+nutzt keine Cloud. Diese Anleitung ist deutsch; die Vorlagen erzeugen weiterhin
+polnische Plakate.
 
-## Instalacja
+## Installation
 
-Wymaga istniejącej instalacji ComfyUI i następujących lokalnych modeli:
+Erforderlich sind eine bestehende ComfyUI-Installation und diese lokalen Modelle:
 
 - `models/diffusion_models/flux-2-klein-9b-bf16.safetensors`
 - `models/text_encoders/qwen_3_8b.safetensors`
 - `models/vae/flux2-vae.safetensors`
 
-Te modele są już przygotowane na tym Sparku z istniejącej lokalnej kopii 9B. W workflow widać standardowe węzły
-**UNETLoader**, **CLIPLoader** (typ `flux2`) i **VAELoader**. Główny węzeł używa
-lokalnych mechanizmów ComfyUI: kodowania tekstu, Flux2Scheduler, samplera Euler
-z czterema krokami i dekodowania VAE. Nie wykonuje żądań HTTP do generatora.
+Auf dem dokumentierten Spark wurden sie aus einer vorhandenen lokalen 9B-Kopie
+vorbereitet. Der Workflow enthält die Standardknoten **UNETLoader**,
+**CLIPLoader** mit Typ `flux2` und **VAELoader**. Der Hauptknoten nutzt ComfyUI zur
+Textkodierung, `Flux2Scheduler`, Euler-Abtastung mit vier Schritten und
+VAE-Dekodierung. Er ruft keinen externen Bilderzeugungsdienst über HTTP auf.
 
-Z katalogu projektu uruchom:
+Im Projektverzeichnis ausführen:
 
 ```bash
 ./scripts/install_posters.sh
 docker compose up -d
 ```
 
-Jeśli ComfyUI już działa, po aktualizacji węzłów uruchom `docker restart minimax-h3-comfyui`.
-Instalator kopiuje węzły, logo i workflow do trwałego katalogu danych.
-Zmienione dotychczasowe workflowy są przed aktualizacją kopiowane do
-`user/default/workflow-backups/<data>/`. Inne projekty nie są zmieniane.
+Läuft ComfyUI bereits, nach der Aktualisierung der Knoten
+`docker restart minimax-h3-comfyui` ausführen. Der Installer kopiert Knoten, Logo und
+Workflows in das persistente Datenverzeichnis. Geänderte vorhandene Vorlagen werden
+vorher unter `user/default/workflow-backups/<Datum>/` gesichert. Andere Projekte
+bleiben unverändert.
 
-Nie trzeba instalować nowych pakietów, uruchamiać `flux-klein-spark`, tworzyć
-sieci `hycanvas-ai` ani podawać klucza API. Starszy plik `user/default/dgx-posters.json`
-nie jest już odczytywany. `docker-compose.posters.yml` pozostaje pustą nakładką
-zgodności dla dotychczasowych poleceń Compose. Przy aktualizacji otwórz ponownie
-wybraną z trzech aktualnych szablonów, aby dodać połączenia lokalnych modeli.
-Stare kopie bez podłączonych modeli wyświetlą instrukcję zamiast używać zewnętrznej usługi.
+Zusätzliche Pakete, `flux-klein-spark`, das Netz `hycanvas-ai` oder ein API-Schlüssel
+sind nicht erforderlich. Die ältere Datei `user/default/dgx-posters.json` wird nicht
+mehr gelesen. `docker-compose.posters.yml` bleibt eine leere Ergänzungsdatei zur
+Kompatibilität mit bisherigen Compose-Aufrufen. Nach einem Update eine der drei
+aktuellen Vorlagen neu öffnen, damit die lokalen Modelle angeschlossen sind.
+Ältere Kopien ohne Modellverbindungen zeigen einen Hinweis statt einen externen
+Dienst aufzurufen.
 
-## Używanie
+## Verwendung
 
-1. Otwórz ComfyUI i odśwież stronę. Wybierz **Workflows → Plakaty → 01_Plakat_Facebook_PL**.
-2. Wpisz organizatora, tytuł, tematy/prowadzących, datę, godziny i miejsce.
-3. Opisz ilustrację. Opis może być po polsku; dla precyzji modelu można użyć angielskiego.
-4. Kliknij **Run / Ausführen**. Gotowy PNG pojawi się w podglądzie i `output/plakaty/`.
+1. ComfyUI öffnen und die Seite neu laden. Unter der Workflow-Auswahl den Ordner
+   `Plakaty` und die Vorlage `01_Plakat_Facebook_PL` wählen.
+2. Veranstalter, Titel, Themen und Vortragende, Datum, Uhrzeit und Ort eingeben.
+3. Die gewünschte Illustration beschreiben. Das Beschreibungsfeld akzeptiert auch polnische Texte.
+4. **Ausführen** anklicken. Die fertige PNG-Datei erscheint in der Vorschau und unter `output/plakaty/`.
 
-Logo jest gotowe w węźle **Load Image**. Można zastąpić je innym PNG.
-Belka jest opcjonalna: dodaj drugi **Load Image**, połącz IMAGE z `belka`,
-a MASK z `maska_belki`. Zalecana belka pozioma o proporcjach przynajmniej 6:1.
-Bez podłączonej belki układ wykorzystuje miejsce na treść.
+Das Logo ist im Knoten `Load Image` vorbereitet und kann durch eine eigene PNG-Datei
+ersetzt werden. Für den optionalen Partnerstreifen einen zweiten `Load Image`-Knoten
+hinzufügen, dessen Ausgang `IMAGE` mit `belka` und `MASK` mit `maska_belki` verbinden.
+Empfohlen ist ein waagerechter Streifen mit einem Seitenverhältnis von mindestens
+6:1. Ohne Streifen steht der Platz für den Inhalt zur Verfügung.
 
-Własne zdjęcie: wyłącz `generuj_obraz` i podłącz IMAGE do `wlasna_ilustracja`.
-W tym trybie nie odbywa się generowanie obrazu. Węzły modeli można odłączyć. Zmiana ziarna daje nowy wariant ilustracji.
-Ponowne uruchomienie bez zmian może korzystać z pamięci podręcznej ComfyUI.
+Für ein eigenes Foto `generuj_obraz` deaktivieren und `IMAGE` mit
+`wlasna_ilustracja` verbinden. Dann wird kein Bild generiert; die Modellknoten können
+getrennt werden. Ein anderer Startwert erzeugt eine neue Illustration. Unveränderte
+Aufrufe können den ComfyUI-Zwischenspeicher verwenden.
 
-Data ma format RRRR-MM-DD; dzień tygodnia oblicza program.
-Tekst jest dokładnie taki jak wpisany; program nie poprawia nazwisk ani treści.
-Zbyt długi tekst kończy się komunikatem zamiast obcięciem napisów.
-Ilustracja jest kadrowana do szerokiego pasa; ważne elementy umieszczaj blisko środka.
-Szablon ma stałą kompozycję, nie naśladuje dowolnego układu z obrazu referencyjnego.
-PNG zawiera workflow bez klucza API i można przeciągnąć go z powrotem do ComfyUI.
-Wyjściowy PNG jest rastrowy; teksty zmienia się w polach workflow.
+Das Datum hat das Format `JJJJ-MM-TT`; der Wochentag wird berechnet. Texte werden
+unverändert übernommen, Namen und Inhalte nicht automatisch korrigiert. Bei zu
+langem Text erscheint eine Meldung, statt Text abzuschneiden. Die Illustration wird
+auf einen breiten Ausschnitt zugeschnitten; wichtige Motive nahe der Mitte anordnen.
+Die Vorlage hat eine feste Gestaltung und übernimmt keine beliebigen Anordnungen
+aus Referenzbildern. Die PNG-Datei enthält den Workflow ohne API-Schlüssel und kann
+wieder in ComfyUI gezogen werden. Die Ausgabe ist ein Rasterbild; Texte lassen sich
+über die Workflow-Felder ändern.
 
-Logo: https://github.com/rolandgorczynski/rkgm/blob/main/RadaKobietGminyMirsk-transparent.png
+[Quelle des Logos](https://github.com/rolandgorczynski/rkgm/blob/main/RadaKobietGminyMirsk-transparent.png).
 
-## Gotowa belka i herb Mirska
+## Vorbereiteter Partnerstreifen und Wappen von Mirsk
 
-Otwórz **Plakaty → 02_Plakat_Facebook_PL_belka_herb**. Oryginalna belka i herb
-są już podłączone. Przełączniki `pokaz_belke` i `pokaz_herb` działają niezależnie.
-Herb z napisem Gmina Mirsk umieszczany jest w nagłówku, a belka na dole.
-Wyłączenie belki zwalnia miejsce na ilustrację. Pliki są kopiowane podczas instalacji
-i podczas generowania nie są pobierane z internetu. Własne pliki można wgrać
-w odpowiednich węzłach Load Image. Dotychczasowy workflow pozostaje dostępny.
+Unter `Plakaty` die Vorlage `02_Plakat_Facebook_PL_belka_herb` öffnen. Die
+Originaldateien für Partnerstreifen und Wappen sind bereits angeschlossen.
+`pokaz_belke` und `pokaz_herb` schalten beide Elemente unabhängig voneinander.
+Das Wappen mit der Beschriftung „Gmina Mirsk“ steht im Kopfbereich, der Streifen
+am unteren Rand. Ohne Streifen bleibt mehr Platz für die Illustration.
 
-Źródła: [belka](https://github.com/rolandgorczynski/rkgm/blob/main/belka.jpeg),
-[herb](https://github.com/rolandgorczynski/rkgm/blob/main/HerbMirsk.jpeg).
+Die Dateien werden bei der Installation kopiert und während der Erzeugung nicht
+aus dem Internet geladen. Eigene Dateien in den jeweiligen `Load Image`-Knoten
+hochladen. Die bisherige Vorlage bleibt verfügbar.
 
-## Trzeci workflow: wgrany obraz → vision → plakat
+Quellen: [Partnerstreifen](https://github.com/rolandgorczynski/rkgm/blob/main/belka.jpeg),
+[Wappen](https://github.com/rolandgorczynski/rkgm/blob/main/HerbMirsk.jpeg).
 
-Jednorazowo pobierz model vision:
+## Dritte Vorlage: Bild hochladen, analysieren und zum Plakat machen
+
+Das Modell zur Bildanalyse einmalig herunterladen:
 
 ```bash
 ./scripts/download_poster_vision.sh
@@ -84,46 +97,50 @@ Jednorazowo pobierz model vision:
 docker restart minimax-h3-comfyui
 ```
 
-Otwórz **Plakaty → 03_Plakat_z_obrazka_Vision_PL**. W węźle
-**Wgraj obrazek referencyjny** kliknij **Choose file to upload** i wybierz obraz
-z komputera. Jest to standardowy węzeł ComfyUI **Load Image**. Przykładowy obraz
-jest już wgrany. Internet nie jest potrzebny do pobierania obrazu referencyjnego.
+Unter `Plakaty` die Vorlage `03_Plakat_z_obrazka_Vision_PL` öffnen. Im vorhandenen
+Referenzbildknoten `Wgraj obrazek referencyjny` die Funktion zum Hochladen einer Datei
+wählen und ein Bild vom eigenen Rechner öffnen. Es handelt sich um den üblichen
+ComfyUI-Knoten `Load Image`. Ein Beispielbild ist vorbereitet. Für den Zugriff auf
+das hochgeladene Bild wird keine Internetverbindung benötigt.
 
-Lokalny [SmolVLM-500M-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct)
-opisuje scenę po angielsku dla FLUX. Model jest przypięty do rewizji
-`a7da5b986cb59b408707209984f360a5f4ad7e47`, przechowywany w
-`models/vision/SmolVLM-500M-Instruct` i podczas opisywania nie pobiera nic z internetu.
-Działa na CPU, a po opisie zwalnia model. Używa istniejących zależności Transformers,
-PyTorch i Pillow. Model może pomijać szczegóły lub błędnie rozpoznawać przedmioty.
+Das lokale Modell [SmolVLM-500M-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct)
+erzeugt intern eine englische Szenenbeschreibung für FLUX. Es ist auf die Revision
+`a7da5b986cb59b408707209984f360a5f4ad7e47` festgelegt und liegt unter
+`models/vision/SmolVLM-500M-Instruct`. Während der Analyse lädt es nichts nach.
+Es läuft auf der CPU und wird anschließend aus dem Speicher entfernt. Verwendet
+werden die vorhandenen Bibliotheken Transformers, PyTorch und Pillow. Details
+können übersehen oder Gegenstände falsch erkannt werden.
 
-Wynik widać w polu podglądu węzła vision i jest podłączony do `opis_z_obrazu`,
-który zastępuje ręczne `opis_ilustracji` w głównym węźle.
-Pole `poprawiony_opis` pozwala zastąpić odpowiedź modelu własnym tekstem.
-Przy pustym polu model generuje opis automatycznie.
+Das Ergebnis erscheint in der Vorschau des Bildanalyseknotens und ist mit
+`opis_z_obrazu` verbunden. Es ersetzt die manuelle Eingabe `opis_ilustracji` im
+Hauptknoten. Mit `poprawiony_opis` lässt sich die Modellantwort durch eigenen Text
+ersetzen. Bleibt das Feld leer, wird die Beschreibung automatisch erzeugt.
 
-Dane wydarzenia wpisuj osobno po polsku. Logo, herb i opcjonalna belka są wstawiane
-jako oryginalne pliki. Aby obejrzeć sam opis przed generowaniem obrazu, ustaw główny
-węzeł plakatu w tryb **Never** (Ctrl+M), uruchom vision, a następnie włącz ponownie
-węzeł plakatu.
+Veranstaltungsdaten weiterhin getrennt auf Polnisch eintragen. Logo, Wappen und
+Partnerstreifen werden als Originaldateien eingesetzt. Um zuerst nur die
+Beschreibung zu prüfen, den Plakat-Hauptknoten mit **Strg+M** deaktivieren, die
+Bildanalyse ausführen und den Hauptknoten anschließend wieder aktivieren.
 
-Poprzedni węzeł `DGXImageURL` pozostaje zgodny z zapisanymi starszymi projektami,
-lecz nie jest używany w trzecim workflow. Akceptuje publiczne linki HTTP/HTTPS
-oraz endpoint `/view` lokalnego ComfyUI; limit wynosi 20 MB i 20 megapikseli.
+Der ältere Knoten `DGXImageURL` bleibt für gespeicherte Projekte kompatibel, wird
+in dieser dritten Vorlage aber nicht verwendet. Er akzeptiert öffentliche
+HTTP-/HTTPS-Adressen und den lokalen ComfyUI-Endpunkt `/view`; die Grenzen liegen
+bei 20 MB und 20 Megapixeln.
 
-## Przeniesienie istniejącego 9B do ComfyUI
+## Vorhandene 9B-Gewichte für ComfyUI vorbereiten
 
-Nie trzeba ponownie pobierać wag ani uruchamiać osobnego serwisu FLUX.
-Gdy model jest zapisany jako snapshot Diffusers z podkatalogami `transformer/`
-i `text_encoder/`, przygotuj natywne pliki ComfyUI:
+Die Gewichte müssen nicht erneut geladen werden; ein eigener FLUX-Dienst ist nicht
+nötig. Liegt das Modell als Diffusers-Modellstand mit `transformer/` und
+`text_encoder/` vor, native ComfyUI-Dateien vorbereiten:
 
 ```bash
-python3 scripts/prepare_poster_9b.py /sciezka/do/snapshotu/FLUX.2-klein-9B /sciezka/do/ComfyUI/models
+python3 scripts/prepare_poster_9b.py /pfad/zum/Modellstand/FLUX.2-klein-9B /pfad/zu/ComfyUI/models
 ./scripts/install_posters.sh
 ```
 
-Skrypt korzysta wyłącznie ze standardowej biblioteki Pythona. Łączy shardy,
-mapuje nazwy tensorów na format ComfyUI, łączy Q/K/V i przestawia kolejność
-scale/shift końcowej modulacji. Wagi zachowują dokładność BF16, bez kwantyzacji.
-Wymaga około 35 GB dodatkowego miejsca; pliki źródłowe pozostają niezmienione.
-Nie nadpisuje istniejących plików docelowych. Wymagany FLUX2 VAE jest wspólny z 4B.
-Po instalacji odśwież listę modeli w ComfyUI i otwórz aktualny workflow.
+Das Skript verwendet ausschließlich die Python-Standardbibliothek. Es verbindet
+Teildateien, ordnet Tensornamen dem ComfyUI-Format zu, verbindet Q/K/V und passt die
+Reihenfolge von Skalierung und Verschiebung der abschließenden Modulation an.
+Die Gewichte bleiben ohne Quantisierung in BF16. Etwa 35 GB zusätzlicher Speicher
+werden benötigt; Quelldateien und bereits vorhandene Zieldateien werden nicht
+überschrieben. Der erforderliche FLUX2-VAE wird auch von der 4B-Variante verwendet.
+Nach der Installation die Modellliste aktualisieren und den aktuellen Workflow öffnen.
