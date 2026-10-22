@@ -181,3 +181,28 @@ Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/work
 [Plakaty po polsku na Facebooka: ComfyUI, lokalny FLUX.2, logo i opcjonalna belka](examples/posters/README.md).
 
 [Sysop-Comics in ComfyUI: Kachelanzahl, einzelne Szenen oder eine ganze Geschichte](examples/comics/README.md).
+
+### Redaktionellen Comic per Skript erstellen
+
+Ein geprüftes Storyboard lässt sich mit dem lokalen ComfyUI wiederholbar als Comic,
+Teilseiten, PDF und ZIP mit bearbeitbarem Workflow exportieren:
+
+```bash
+python3 scripts/render_editorial_comic.py \
+  examples/comics/editorial/marius-dick/storyboard.json
+```
+
+Voraussetzung: laufender [Comic-Automat](automation/comics/README.md), Docker-Zugriff
+und Python 3 mit Pillow auf dem Host. Das Storyboard enthält die zuvor erstellten
+Szenen, Figuren und deutschen Texte. Das Skript schreibt die Geschichte nicht um
+und verwendet ausschließlich die lokalen ComfyUI-Modelle für die Bilder.
+
+Die Ausgabe liegt unter `diagnostics/comics/<Auftrags-ID>/`; Downloadlinks werden
+ausgegeben. Jeder Aufruf ohne `--job` erstellt einen neuen Auftrag. Vorhandene
+gespeicherte ComfyUI-Workflows werden nicht überschrieben.
+
+Für Korrekturen `--draft` ergänzen, das Storyboard bearbeiten und mit
+`--job <Auftrags-ID> --draft` erneut aufrufen. Ohne `--draft` wird der Auftrag
+abgeschlossen. Unveränderte Kacheln werden während der Bearbeitung wiederverwendet.
+Alle Optionen und die Installation stehen in der
+[Anleitung zum Comic-Automaten](automation/comics/README.md#ein-aufruf-für-rendern-seitenlayout-und-download).

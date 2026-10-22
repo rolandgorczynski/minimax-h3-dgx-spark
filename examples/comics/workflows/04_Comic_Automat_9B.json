@@ -1,0 +1,231 @@
+{
+  "id": "ef7a7f43-71fc-4362-bf01-89058d09ea75",
+  "revision": 0,
+  "last_node_id": 7,
+  "last_link_id": 4,
+  "nodes": [
+    {
+      "id": 2,
+      "type": "UNETLoader",
+      "title": "2 · FLUX.2 Klein 9B · lokal",
+      "pos": [
+        380,
+        -220
+      ],
+      "size": [
+        340,
+        130
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            2
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux-2-klein-9b-bf16.safetensors",
+        "default"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "CLIPLoader",
+      "title": "3 · Qwen3 8B · lokal",
+      "pos": [
+        740,
+        -220
+      ],
+      "size": [
+        340,
+        160
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            3
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPLoader"
+      },
+      "widgets_values": [
+        "qwen_3_8b.safetensors",
+        "flux2",
+        "default"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "VAELoader",
+      "title": "4 · FLUX2 VAE",
+      "pos": [
+        1100,
+        -220
+      ],
+      "size": [
+        340,
+        110
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            4
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "flux2-vae.safetensors"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "MarkdownNote",
+      "title": "So geht es",
+      "pos": [
+        1400,
+        50
+      ],
+      "size": [
+        440,
+        600
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "MarkdownNote"
+      },
+      "widgets_values": [
+        "# Comic-Automat\n\nDiese Vorlage wird vom separaten Docker-Dienst comic-automation für jeden Auftrag kopiert. Originale Workflows bleiben unverändert.\n\nStart: POST /jobs oder PUT /jobs/<ID> am Port 8090. Der Dienst erfindet eine Geschichte, legt Figuren fest, erzeugt Referenzbilder und Szenen, prüft und verbessert sein Ergebnis.\n\nFertige Ergebnisse, Prüfberichte und ein mit Figurenreferenzen gespeicherter Workflow werden über die Auftrags-API heruntergeladen. Der fertige workflow.json lässt sich hier öffnen und manuell weiterbearbeiten.\n\nDie dynamischen Prüf- und Korrekturschleifen laufen im externen Dienst, nicht durch einen Klick auf diese leere Vorlage."
+      ]
+    },
+    {
+      "id": 5,
+      "type": "DGXComicStudio",
+      "title": "04 · Comic-Automat · bearbeitbarer Entwurf",
+      "pos": [
+        400,
+        50
+      ],
+      "size": [
+        960,
+        1500
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 2
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 3
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "comic",
+          "type": "IMAGE",
+          "links": []
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DGXComicStudio"
+      },
+      "widgets_values": [
+        "",
+        "Großstadt-Noir (düster)",
+        12,
+        "Szenen planen",
+        "Mein Comic",
+        3,
+        "sysop1984.substack.com",
+        1984,
+        "",
+        "{}",
+        "[]"
+      ]
+    }
+  ],
+  "links": [
+    [
+      2,
+      2,
+      0,
+      5,
+      0,
+      "MODEL"
+    ],
+    [
+      3,
+      3,
+      0,
+      5,
+      1,
+      "CLIP"
+    ],
+    [
+      4,
+      4,
+      0,
+      5,
+      2,
+      "VAE"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.65,
+      "offset": [
+        120,
+        250
+      ]
+    }
+  },
+  "version": 0.4
+}

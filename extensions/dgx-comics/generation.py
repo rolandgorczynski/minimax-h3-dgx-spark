@@ -21,7 +21,9 @@ def generate_panel(model, clip, vae, reference_latent, text, seed):
     width, height = 1024, 704
     with torch.inference_mode():
         conditioning = clip.encode_from_tokens_scheduled(clip.tokenize(text))
-        conditioning = ReferenceLatent.execute(conditioning, reference_latent)[0]
+        references = reference_latent if isinstance(reference_latent, list) else [reference_latent]
+        for reference in references:
+            conditioning = ReferenceLatent.execute(conditioning, reference)[0]
         guider = BasicGuider.execute(model, conditioning)[0]
         noise = RandomNoise.execute(seed)[0]
         latent = EmptyFlux2LatentImage.execute(width, height, 1)[0]

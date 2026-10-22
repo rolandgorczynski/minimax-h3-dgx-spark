@@ -7,7 +7,7 @@
     {
       "id": 1,
       "type": "LoadImage",
-      "title": "1 · Sysop als Bildreferenz (austauschbar)",
+      "title": "Figurenbilder in der Figurenbibliothek wählen",
       "pos": [
         0,
         50
@@ -16,7 +16,9 @@
         340,
         450
       ],
-      "flags": {},
+      "flags": {
+        "collapsed": true
+      },
       "order": 0,
       "mode": 0,
       "inputs": [],
@@ -162,7 +164,7 @@
         "Node name for S&R": "MarkdownNote"
       },
       "widgets_values": [
-        "# Dein Ablauf\n\nArtikel einfügen, einmal Comic-Art und Kachelanzahl wählen.\n\n**1 · Szenen planen**: Erstellt pro Kachel eine eigene Untergeschichte und Erzählertext. Noch keine Bilder.\n\nSzenen prüfen und direkt bearbeiten.\n\n**2 · Weiter: Comic generieren**: Zeichnet den geprüften Plan.\n\nDanach stehen Vorschaubilder bei den Szenen. Änderungen und Weiter zeichnen nur veränderte Szenen neu. Reine Textkorrekturen setzen nur den Text neu.\n\n**Kachel N neu zeichnen**: Neue Bildvariante dieser Kachel. Andere unveränderte Kacheln werden aus dem Cache übernommen.\n\nWorkflow speichern, um Artikel, Plan und Vorschauen zu behalten."
+        "# Dein Ablauf\n\nArtikel einfügen, einmal Comic-Art und Kachelanzahl wählen.\n\n**1 · Szenen planen**: Erstellt pro Kachel eine eigene Untergeschichte und Erzählertext. Noch keine Bilder.\n\nSzenen prüfen und direkt bearbeiten.\n\n**2 · Weiter: Comic generieren**: Zeichnet den geprüften Plan.\n\nDanach stehen Vorschaubilder bei den Szenen. Änderungen und Weiter zeichnen nur veränderte Szenen neu. Reine Textkorrekturen setzen nur den Text neu.\n\n**Kachel N neu zeichnen**: Neue Bildvariante dieser Kachel. Andere unveränderte Kacheln werden aus dem Cache übernommen.\n\nWorkflow speichern, um Artikel, Plan und Vorschauen zu behalten.\n\n**Figurenbibliothek**: Figuren dauerhaft speichern, Referenzbilder hochladen und für diese Story auswählen. Pro Kachel die Figuren-Zuordnung prüfen. Kleidung kann nur für diese Story geändert werden. Neue Storys können dieselben Figuren wiederverwenden."
       ]
     },
     {
@@ -222,7 +224,8 @@
         "sysop1984.substack.com",
         1984,
         "",
-        "{}"
+        "{}",
+        "[]"
       ]
     }
   ],

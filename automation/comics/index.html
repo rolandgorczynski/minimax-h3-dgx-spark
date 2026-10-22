@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Comic-Automat · Redaktion</title>
+<style>
+:root{font-family:system-ui,sans-serif;color:#eef0f4;background:#13151a}body{max-width:1100px;margin:32px auto;padding:0 20px}section{background:#20242c;padding:22px;margin:20px 0;border-radius:14px}h1{margin-bottom:8px}p{line-height:1.5;color:#bec6d3}button,input,select,textarea{font:inherit;padding:10px;border-radius:7px;border:1px solid #586174;background:#181b22;color:inherit}button{cursor:pointer;background:#365eb9}button:disabled{opacity:.45;cursor:default}label{display:block;margin:14px 0}select{max-width:100%}textarea{width:95%;min-height:65px}.row{display:flex;gap:16px;align-items:center;flex-wrap:wrap}.rating{display:grid;grid-template-columns:1fr 130px;align-items:center;gap:12px}#comic{width:100%;height:auto;background:white;border-radius:8px}#story{white-space:pre-wrap;line-height:1.6}#message{white-space:pre-wrap;color:#f9d58b}small{color:#bec6d3}a{color:#9dc1ff}
+</style>
+<h1>Comic-Automat</h1><p><strong>Alle Geschichten, Erzählertexte und Sprechblasen sind auf Deutsch.</strong></p><p>Geschichten entstehen selbstständig. Bewerte nur die, zu denen du Feedback geben möchtest. Deine gespeicherten Bewertungen beeinflussen künftig gestartete Geschichten.</p>
+<label>API-Token, falls eingerichtet <input id="token" type="password" autocomplete="off"> <button id="connect">Verbinden</button></label>
+<div id="message" role="status"></div>
+<section><h2>Neue Geschichte</h2><div class="row">
+<label>Kacheln <input id="count" type="number" value="12" min="1" max="12" style="width:65px"></label>
+<label>Stil <select id="style"><option>Großstadt-Noir (düster)</option><option>Klassischer Comic</option><option>Ligne claire</option><option>Manga Schwarzweiß</option><option>Aquarell-Reportage</option></select></label>
+<button id="new">Selbstständig erfinden und erzeugen</button></div></section>
+<section><label>Geschichte auswählen <select id="jobs"></select></label><p id="status"></p><h2 id="title">Erzeugte Geschichte</h2><p id="story-state" aria-live="polite"></p><div id="story"></div><img id="comic" hidden alt="Erzeugter Comic"><p><button id="bundle" hidden>Comic-Paket herunterladen</button></p>
+<details><summary>Prüfhinweise</summary><p id="warnings"></p></details></section>
+<section><h2>Automatische Erfahrungen</h2><p id="learning-status"></p><ul id="learning-rules"></ul><small>Der Automat analysiert jeden fertigen Comic auch ohne deine Bewertung. Modellkritik kann sich irren; Vermutungen bleiben als solche gekennzeichnet.</small></section>
+<section><h2>Optionales Feedback</h2><p>1 = schwach, 5 = sehr gut. Speichern startet keinen neuen Auftrag. Ohne Bewertung kannst du jederzeit die nächste Geschichte erzeugen.</p>
+<form id="feedback"><div id="ratings"></div><label>Was soll beim nächsten Mal anders sein?<textarea id="comment" maxlength="2000"></textarea></label><button id="save" disabled>Bewertung speichern</button></form>
+<p><button id="next" disabled>Nächste Geschichte selbstständig erzeugen</button></p><small>Bereits laufende Aufträge behalten ihre bisherigen Vorgaben. Eine Bewertung lässt sich später ändern.</small></section>
+<script>
+const $=id=>document.getElementById(id);let selected='',loaded='',imageUrl='',jobs=[];
+async function api(path,method='GET',data){const headers={};if($('token').value)headers.Authorization='Bearer '+$('token').value;if(data!==undefined)headers['Content-Type']='application/json';const r=await fetch(path,{method,headers,body:data===undefined?undefined:JSON.stringify(data)});if(!r.ok){let v=await r.json();throw Error(v.error||r.statusText)}return r}
+function error(e){$('message').textContent=e.message}function message(t){$('message').textContent=t}
+async function file(path){const r=await api(path);return await r.blob()}
+async function list(){try{jobs=(await(await api('/jobs')).json()).jobs;const old=selected;$('jobs').replaceChildren(...jobs.map(j=>{let o=document.createElement('option');o.value=j.id;o.textContent=(j.story_title||j.id.slice(0,8))+' · '+j.status;return o}));selected=jobs.some(j=>j.id===old)?old:(jobs[0]?.id||'');$('jobs').value=selected;await show();const memory=await(await api('/learning')).json();$('learning-status').textContent=memory.analyzed_runs+' Durchläufe analysiert · '+memory.rules.length+' gespeicherte Empfehlungen';$('learning-rules').replaceChildren(...memory.rules.map(rule=>{const li=document.createElement('li');li.textContent=rule.rule+' · '+(rule.status==='hypothesis'?'Vermutung':'durch Modellvergleich gestützt');return li}))}catch(e){error(e)}}
+async function show(){
+if(!selected){$('title').textContent='Erzeugte Geschichte';$('story-state').textContent='Starte eine Geschichte oder wähle einen vorhandenen Auftrag.';return}
+const id=selected,j=jobs.find(j=>j.id===id);if(!j)return;
+$('status').textContent=j.status+' · '+j.stage+(j.error?' · '+j.error:'');
+$('next').disabled=!['completed','needs_review','failed'].includes(j.status);
+$('warnings').textContent=(j.warnings||[]).join('\n')||'Keine abschließenden Hinweise vorhanden.';
+// Refresh the story even while status stays "running". Leave feedback inputs intact.
+const preview=await(await api('/jobs/'+id+'/story')).json();if(selected!==id)return;
+$('title').textContent=preview.available?preview.title:'Erzeugte Geschichte';
+$('story').textContent=preview.available?preview.story:'';
+$('story-state').textContent=preview.available?(j.status==='running'?'Die Geschichte ist fertig. Der Comic wird noch erstellt.':'Geschichte zum ausgewählten Auftrag.'):(j.status==='failed'?'Für diesen Auftrag liegt noch keine Geschichte vor.':'Die Geschichte wird erstellt und erscheint hier automatisch.');
+$('save').disabled=!(preview.available&&['completed','needs_review'].includes(j.status));
+const state=id+':'+j.status+':'+(j.artifacts.find(a=>a.name==='comic.png')?.sha256||'');if(loaded===state)return;
+$('comic').hidden=true;$('bundle').hidden=true;$('ratings').replaceChildren();$('comment').value='';
+const schema=await(await api('/jobs/'+id+'/feedback')).json();if(selected!==id)return;
+for(const [key,label] of Object.entries(schema.criteria)){const l=document.createElement('label');l.className='rating';l.append(document.createTextNode(label));const s=document.createElement('select');s.name=key;s.required=true;for(const [value,text] of [['','Bitte wählen'],[1,'1 · schwach'],[2,'2'],[3,'3'],[4,'4'],[5,'5 · sehr gut']]){let o=document.createElement('option');o.value=value;o.textContent=text;s.append(o)}s.value=schema.feedback?.bewertungen[key]||'';l.append(s);$('ratings').append(l)}
+$('comment').value=schema.feedback?.kommentar||'';
+const names=new Set(j.artifacts.map(a=>a.name));
+if(names.has('comic.png')){const blob=await file('/jobs/'+id+'/artifacts/comic.png');if(selected!==id)return;if(imageUrl)URL.revokeObjectURL(imageUrl);imageUrl=URL.createObjectURL(blob);$('comic').src=imageUrl;$('comic').hidden=false}
+$('bundle').hidden=!names.has('comic-bundle.zip');loaded=state;
+}
+$('jobs').onchange=()=>{selected=$('jobs').value;show().catch(error)};$('connect').onclick=()=>{loaded='';list()};
+$('new').onclick=async()=>{try{const j=await(await api('/jobs','POST',{kacheln:Number($('count').value),stil:$('style').value})).json();selected=j.id;message('Neue Geschichte gestartet.');await list()}catch(e){error(e)}};
+$('next').onclick=async()=>{try{const j=await(await api('/jobs/'+selected+'/next','POST',{})).json();selected=j.id;message('Nächste Geschichte gestartet; bisheriges Feedback wird berücksichtigt.');await list()}catch(e){error(e)}};
+$('feedback').onsubmit=async e=>{e.preventDefault();try{const bewertungen=Object.fromEntries([...$('ratings').querySelectorAll('select')].map(s=>[s.name,Number(s.value)]));await api('/jobs/'+selected+'/feedback','POST',{bewertungen,kommentar:$('comment').value});message('Bewertung gespeichert. Sie beeinflusst künftig gestartete Geschichten.')}catch(e){error(e)}};
+$('bundle').onclick=async()=>{try{const url=URL.createObjectURL(await file('/jobs/'+selected+'/artifacts/comic-bundle.zip'));const a=document.createElement('a');a.href=url;a.download='comic-'+selected.slice(0,8)+'.zip';a.click();setTimeout(()=>URL.revokeObjectURL(url),10000)}catch(e){error(e)}};
+list();setInterval(list,10000);
+</script></html>

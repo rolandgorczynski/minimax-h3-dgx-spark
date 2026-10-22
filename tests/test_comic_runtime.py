@@ -25,13 +25,19 @@ class ComicRuntimeTests(unittest.TestCase):
             run(scenes); assert gen.call_count==2
             result=run(scenes); assert gen.call_count==2, 'Unchanged images were regenerated'
             scenes[0]['dialog']='Edited caption';run(scenes);assert gen.call_count==2,'Caption edit generated art'
+            scenes[0]['bubbles']=[{'speaker':'Markus','text':'Nein! Nein!'}]
+            run(scenes);self.assertEqual(gen.call_count,2)
+            scenes[0]['bubbles'][0]['text']='Halt!'
+            scenes[0]['bubbles'][0]['tip_x']=.2
+            run(scenes);self.assertEqual(gen.call_count,2)
+
             scenes[0]['story']='Changed first scene';run(scenes);assert gen.call_count==3,'Scene edit must change only one panel'
             run(scenes,{'1':1});assert gen.call_count==4,'Variant must change only selected panel'
             assert len(result['ui']['comic_panels'])==2
             print('PASS: repeat run, caption edit, scene edit, selected variant and previews')
         wf=m.DGXComicWorkflow()
         style=m.workflow.STYLES['Großstadt-Noir (düster)']
-        from comic_test_extension.story import source_hash
+        from comic_test_extension.story import source_hash, read_plan
         saved=json.dumps({'source_hash':source_hash('Article',2,1984,style),'scenes':scenes})
         with patch.object(m.workflow,'plan_story',return_value=(scenes,'fingerprint')) as plan, patch.object(m.DGXSysopComic,'create') as render:
             wf.run(ref,model,clip,vae,'Article','Großstadt-Noir (düster)',2,'Szenen planen','',2,'',1984)
@@ -39,11 +45,144 @@ class ComicRuntimeTests(unittest.TestCase):
         with patch.object(m.workflow,'plan_story') as plan, patch.object(m.DGXSysopComic,'create',return_value={'ui':{},'result':(ref,)}) as render:
             wf.run(ref,model,clip,vae,'Article','Großstadt-Noir (düster)',2,'Comic generieren','',2,'',1984,saved)
             plan.assert_not_called();render.assert_called_once()
+            wf.run(ref,model,clip,vae,'Article','Ligne claire',2,'Comic generieren','',2,'',1984,saved)
+            plan.assert_not_called()
+            self.assertEqual(render.call_args.args[8], m.workflow.STYLES['Ligne claire'])
+            self.assertEqual(json.loads(render.call_args.args[9]), read_plan(scenes,2))
+
             try:
                 wf.run(ref,model,clip,vae,'Changed article','Großstadt-Noir (düster)',2,'Comic generieren','',2,'',1984,saved)
                 raise AssertionError('Stale plan accepted')
             except ValueError:pass
         print('PASS: planning generates no art, rendering never replans, stale plan rejected')
+
+    def test_cast_references_and_clothing_only_affect_assigned_panel(self):
+        import io
+        from PIL import Image
+        from comic_test_extension.characters import CharacterLibrary
+        with tempfile.TemporaryDirectory() as folder:
+            lib=CharacterLibrary(Path(folder)/'library')
+            char=lib.save({'name':'Markus','aliases':['Marcus'],'description':'17 years, short brown hair','outfit':'Grey hoodie'})
+            for slot,color in enumerate(['red','blue']):
+                image=io.BytesIO();Image.new('RGB',(32,32),color).save(image,format='PNG')
+                char=lib.upload(char['id'],image.getvalue(),slot)
+            cast=[char]
+            scenes=[{'story':'Marcus stands on stairs.','dialog':''},{'story':'An empty hospital corridor.','dialog':''}]
+            ref=torch.zeros((1,32,32,3));model=object();clip=object();vae=object()
+            with patch('comic_test_extension.characters.library',return_value=lib), patch.object(folder_paths,'get_output_directory',return_value=str(Path(folder)/'output')), patch.object(g,'prepare_reference',return_value={'samples':ref}), patch.object(g,'generate_panel',return_value=torch.zeros((1,32,32,3))) as gen:
+                def run():
+                    return m.DGXSysopComic().create(ref,model,clip,vae,2,2,'','Sysop','Noir',json.dumps(scenes),'',1984,'comics/cast-test',reuse_panels=True,cast=cast)
+                run()
+                self.assertEqual(len(gen.call_args_list[0].args[3]),3)
+                self.assertEqual(len(gen.call_args_list[1].args[3]),1)
+                self.assertIn('17 years',gen.call_args_list[0].args[4])
+                self.assertNotIn('17 years',gen.call_args_list[1].args[4])
+                run();self.assertEqual(gen.call_count,2)
+                cast[0]['story_outfit']='Blue winter coat'
+                run();self.assertEqual(gen.call_count,3)
+                self.assertIn('Blue winter coat',gen.call_args.args[4])
+                self.assertEqual(lib.list()[0]['outfit'],'Grey hoodie')
+                scenes[0]['characters']=[]
+                run();self.assertEqual(gen.call_count,4)
+                self.assertEqual(len(gen.call_args.args[3]),1)
+
+    def test_planner_receives_cast_and_preserves_reviewed_scenes(self):
+        from comfy_extras.nodes_textgen import TextGenerate
+        from comic_test_extension.story import plan_story, source_hash
+        cast=[{'id':'a'*32,'name':'Markus','aliases':['Marcus'],'description':'17 years, green eyes','outfit':'Grey hoodie','references':[]}]
+        scenes=[{'story':'Marcus stands on stairs.','dialog':'Hallo.'}]
+        with patch.object(TextGenerate,'execute',return_value=[json.dumps(scenes)]) as generate:
+            result,fingerprint=plan_story(None,'Markus geht heim.',1,42,cast=cast)
+            self.assertIn('17 years, green eyes',generate.call_args.args[1])
+            self.assertIn('Marcus',generate.call_args.args[1])
+            saved=json.dumps({'source_hash':fingerprint,'scenes':result})
+            generate.reset_mock()
+            self.assertEqual(plan_story(None,'Markus geht heim.',1,42,saved,cast=cast)[0],result)
+            generate.assert_not_called()
+
+    def test_planning_keeps_explicit_speakers_and_exact_quotes(self):
+        from comfy_extras.nodes_textgen import TextGenerate
+        from comic_test_extension.story import plan_story, read_plan
+        cast=[{'id':'a'*32,'name':'Markus','aliases':['Marcus'],'description':'17 Jahre','outfit':'Hoodie','references':[]}]
+        article='Markus steht neben dem Eingang. Markus: "Nein ! Nein !" Verbrecher: "Halt die Klappe Idiot"'
+        output=[{'story':'Markus steht links, ein Mann rechts.','dialog':'','bubbles':[]}]
+        with patch.object(TextGenerate,'execute',return_value=[json.dumps(output)]):
+            scenes,_=plan_story(None,article,1,42,cast=cast)
+        self.assertEqual(scenes[0]['bubbles'][0]['speaker'],'a'*32)
+        self.assertEqual(scenes[0]['bubbles'][0]['text'],'Nein ! Nein !')
+        self.assertEqual(scenes[0]['bubbles'][1]['speaker'],'Verbrecher')
+        self.assertEqual(scenes[0]['bubbles'][1]['text'],'Halt die Klappe Idiot')
+        self.assertEqual(read_plan(json.dumps(scenes),1),scenes)
+
+    def test_library_sysop_uses_only_its_own_images_and_can_be_unassigned(self):
+        import io
+        from PIL import Image
+        from comic_test_extension.characters import CharacterLibrary
+        with tempfile.TemporaryDirectory() as folder:
+            lib=CharacterLibrary(Path(folder)/'library')
+            sysop=lib.ensure_sysop()
+            stream=io.BytesIO();Image.new('RGB',(32,32),'green').save(stream,format='PNG')
+            sysop=lib.upload(sysop['id'],stream.getvalue(),0)
+            sysop=lib.save({**sysop,'description':'Custom Sysop with green eyes'})
+            lib.delete(sysop['id'],sysop['version'])  # Saved stories must still render their retained reference.
+            ref=torch.zeros((1,32,32,3));model=object();clip=object();vae=object()
+            scenes=[{'story':'Sysop wartet.','dialog':'','characters':[sysop['id']]},
+                    {'story':'Ein leerer Raum.','dialog':'','characters':[]}]
+            with patch('comic_test_extension.characters.library',return_value=lib), patch.object(folder_paths,'get_output_directory',return_value=str(Path(folder)/'output')), patch.object(g,'prepare_reference',return_value={'samples':ref}) as prepare, patch.object(g,'generate_panel',return_value=torch.zeros((1,32,32,3))) as generate:
+                m.DGXSysopComic().create(ref,model,clip,vae,2,2,'','Legacy appearance','Noir',json.dumps(scenes),'',42,'comics/sysop-test',cast=[sysop],library_cast=True)
+                self.assertEqual(prepare.call_count,1)
+                self.assertEqual(len(generate.call_args_list[0].args[3]),1)
+                self.assertEqual(len(generate.call_args_list[1].args[3]),0)
+                self.assertIn('Custom Sysop with green eyes',generate.call_args_list[0].args[4])
+                self.assertNotIn('Legacy appearance',generate.call_args_list[0].args[4])
+                self.assertNotIn('Custom Sysop with green eyes',generate.call_args_list[1].args[4])
+                self.assertNotIn('Sysop',generate.call_args_list[1].args[4])
+                self.assertNotIn('main character',generate.call_args_list[1].args[4])
+                self.assertIn('architecture and objects',generate.call_args_list[1].args[4])
+
+    def test_planner_uses_sysop_profile_instead_of_a_fixed_appearance(self):
+        from comfy_extras.nodes_textgen import TextGenerate
+        from comic_test_extension.story import plan_story
+        cast=[{'id':'a'*32,'name':'Sysop','aliases':[],'description':'Short red hair, green eyes','outfit':'Blue jacket','references':[]}]
+        with patch.object(TextGenerate,'execute',return_value=[json.dumps([{'story':'Sysop wartet.','dialog':''}])]) as generate:
+            plan_story(None,'Sysop geht heim.',1,42,cast=cast)
+            prompt=generate.call_args.args[1]
+            self.assertIn('Short red hair, green eyes',prompt)
+            self.assertNotIn('Sysop has shoulder-length',prompt)
+
+    def test_studio_runs_without_a_shared_reference_image(self):
+        from comic_test_extension.story import source_hash
+        studio=m.DGXComicStudio()
+        self.assertNotIn('referenz',studio.INPUT_TYPES()['required'])
+        scenes=[{'story':'Ein leerer Raum.','dialog':''}]
+        args=dict(model=object(),clip=object(),vae=object(),artikel='Artikel',comic_art='Ligne claire',anzahl_kacheln=1,aktion='Szenen planen',titel='',spalten=1,signatur='',seed=42)
+        fingerprint=source_hash('Artikel',1,42)
+        with patch.object(m.workflow,'plan_story',return_value=(scenes,fingerprint)):
+            result=studio.run(**args)
+        saved=result['ui']['comic_plan'][0]
+        with patch.object(m.DGXSysopComic,'create',return_value={'ui':{},'result':(torch.zeros((1,1,1,3)),)}) as render:
+            studio.run(**{**args,'aktion':'Comic generieren','bearbeiteter_plan':saved})
+            self.assertIsNone(render.call_args.args[0])
+            self.assertTrue(render.call_args.kwargs['library_cast'])
+
+    def test_automation_output_and_embedded_references_do_not_touch_user_data(self):
+        import io,base64
+        from PIL import Image
+        from comic_test_extension.automation import session_directory
+        ref=torch.zeros((1,32,32,3));model=object();clip=object();vae=object()
+        image=io.BytesIO();Image.new('RGB',(32,32),'orange').save(image,format='PNG')
+        cast=[{'id':'a'*32,'name':'Aria','aliases':[],'description':'Green eyes','outfit':'Grey jacket','references':[],
+               'inline_references':[base64.b64encode(image.getvalue()).decode()]}]
+        scenes=[{'story':'Aria wartet.','dialog':'Hallo.','characters':['a'*32]}]
+        with tempfile.TemporaryDirectory() as folder, patch.object(folder_paths,'get_temp_directory',return_value=folder), patch.object(folder_paths,'get_output_directory',side_effect=AssertionError('User output directory accessed')), patch('comic_test_extension.characters.library',side_effect=AssertionError('Shared library accessed')), patch.object(g,'prepare_reference',return_value={'samples':ref}), patch.object(g,'generate_panel',return_value=ref) as generate:
+            session='b'*32;root=session_directory(session);root.mkdir(parents=True)
+            result=m.DGXSysopComic().create(None,model,clip,vae,1,1,'','', 'Noir',json.dumps(scenes),'',42,'comic',cast=cast,library_cast=True,output_directory=str(root),image_type='temp',image_subfolder_prefix='comic-automation/'+session)
+            self.assertEqual(len(generate.call_args.args[3]),1)
+            descriptor=result['ui']['images'][0]
+            self.assertEqual(descriptor['type'],'temp')
+            self.assertEqual(descriptor['subfolder'],'comic-automation/'+session)
+            self.assertTrue((root/descriptor['filename']).exists())
+            with self.assertRaises(ValueError):session_directory('../outside')
 
 if __name__ == "__main__":
     unittest.main()

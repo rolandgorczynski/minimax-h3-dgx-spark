@@ -1,6 +1,7 @@
 """Numbered comic grids and exact dialogue, independent of image generation."""
 import json
 import math
+import re
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
@@ -24,8 +25,83 @@ def parse_scenes(serialized, count):
             raise ValueError(f'Kachel {i+1}: Der Dialog muss Text sein.')
         if len(scene['story']) > 4000 or len(scene.get('dialog', '')) > 400:
             raise ValueError(f'Kachel {i+1}: Szene maximal 4000, Dialog maximal 400 Zeichen.')
-        result.append({'story': scene['story'].strip(), 'dialog': scene.get('dialog', '').strip()})
+        item = {'story': scene['story'].strip(), 'dialog': scene.get('dialog', '').strip()}
+        if 'characters' in scene:
+            ids = scene['characters']
+            if not isinstance(ids, list) or len(ids)>8 or any(not isinstance(x,str) or not re.fullmatch(r'[a-f0-9]{32}',x) for x in ids):
+                raise ValueError(f'Kachel {i+1}: Ungültige Figuren-Zuordnung.')
+            item['characters'] = ids
+        if 'bubbles' in scene:
+            item['bubbles'] = validate_bubbles(scene['bubbles'])
+        result.append(item)
     return result
+
+
+def validate_bubbles(value):
+    if not isinstance(value, list) or len(value)>6:
+        raise ValueError('Maximal sechs Sprechblasen pro Kachel.')
+    result=[]
+    for i,bubble in enumerate(value):
+        if not isinstance(bubble,dict):
+            raise ValueError('Ungültige Sprechblase.')
+        speaker=bubble.get('speaker','')
+        text=bubble.get('text','')
+        expression=bubble.get('expression','normal')
+        if not isinstance(speaker,str) or not speaker.strip() or len(speaker)>100:
+            raise ValueError('Jede Sprechblase braucht einen Sprecher (maximal 100 Zeichen).')
+        if not isinstance(text,str) or len(text)>400:
+            raise ValueError('Sprechblasentext maximal 400 Zeichen.')
+        if expression not in ('normal','shout','whisper'):
+            raise ValueError('Ungültiger Sprechblasen-Ausdruck.')
+        b={'speaker':speaker.strip(),'text':text.strip(),'expression':expression}
+        defaults={'x':.08+(i%2)*.46,'y':.23+(i//2)*.24,'w':.38,'h':.18,
+                  'tip_x':.25+(i%2)*.5,'tip_y':min(.96,.48+(i//2)*.22)}
+        for key,default in defaults.items():
+            v=bubble.get(key,default)
+            if isinstance(v,bool) or not isinstance(v,(int,float)) or not math.isfinite(v) or not 0<=v<=1:
+                raise ValueError('Sprechblasenpositionen müssen zwischen 0 und 1 liegen.')
+            b[key]=v
+        if b['w']<.15 or b['h']<.08 or b['x']+b['w']>.995 or b['y']+b['h']>.995:
+            raise ValueError('Die Sprechblase muss innerhalb der Kachel liegen und groß genug sein.')
+        show=bubble.get('show_name',True)
+        if not isinstance(show,bool): raise ValueError('Ungültige Sprecheranzeige.')
+        b['show_name']=show
+        result.append(b)
+    return result
+
+
+def _speech(draw, bubble, names):
+    x,y,w,h=[bubble[key]*scale for key,scale in [('x',768),('y',672),('w',768),('h',672)]]
+    tx,ty=bubble['tip_x']*768,bubble['tip_y']*672
+    cx,cy=x+w/2,y+h/2
+    dx,dy=tx-cx,ty-cy
+    if abs(dx)/(w/2)>abs(dy)/(h/2):
+        edge=x+w if dx>=0 else x
+        base=[(edge,cy-12),(edge,cy+12)]
+    else:
+        edge=y+h if dy>=0 else y
+        base=[(cx-12,edge),(cx+12,edge)]
+    # Draw the tail first, then the body to keep the join clean.
+    draw.polygon([*base,(tx,ty)],fill='white',outline='black',width=3)
+    if bubble['expression']=='shout':
+        points=[]
+        for i in range(32):
+            angle=i*math.pi/16
+            radius=1 if i%2==0 else .9
+            points.append((cx+math.cos(angle)*w/2*radius,cy+math.sin(angle)*h/2*radius))
+        draw.polygon(points,fill='white',outline='black',width=3)
+        inset_x,inset_y=w*.18,h*.22
+    else:
+        draw.rounded_rectangle((x,y,x+w,y+h),radius=min(25,h/3),fill='white',outline='black',width=3)
+        inset_x,inset_y=14,10
+    top=y+inset_y
+    if bubble['show_name']:
+        speaker=names.get(bubble['speaker'],bubble['speaker'])
+        lettering(draw,speaker,(x+inset_x,top,x+w-inset_x,top+22),size=16,minimum=12)
+        top+=24
+    size=28 if bubble['expression']=='shout' else 24
+    if bubble['expression']=='whisper':size=20
+    lettering(draw,bubble['text'],(x+inset_x,top,x+w-inset_x,y+h-inset_y),size=size,minimum=14)
 
 
 def lettering(draw, value, bounds, size=30, minimum=18):
@@ -55,19 +131,25 @@ def lettering(draw, value, bounds, size=30, minimum=18):
     raise ValueError('Der Text ist zu lang für die Sprechblase. Bitte kürzen.')
 
 
-def panel(image, dialogue, number):
-    # Speech has its own band so lettering never covers the character's face.
+def panel(image, dialogue, number, bubbles=None, speaker_names=None):
+    # Keep legacy single-bubble layouts; new scenes use a narrator band and positioned speech.
     width, height = 768, 672
     band = 150 if dialogue else 0
     tile = Image.new('RGB', (width, height), 'white')
     art = ImageOps.fit(image.convert('RGB'), (width-8, height-band-8), Image.Resampling.LANCZOS)
     tile.paste(art, (4, band+4))
     draw = ImageDraw.Draw(tile)
-    if dialogue:
+    if dialogue and bubbles is not None:
+        draw.rectangle((65,10,width-15,band-20),fill='white',outline='black',width=3)
+        lettering(draw,dialogue,(80,20,width-30,band-30))
+    elif dialogue:
         draw.rounded_rectangle((65, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
         draw.polygon([(width-165, band-21), (width-120, band-21), (width-125, band+8)], fill='white', outline='black', width=3)
         draw.line((width-161, band-21, width-125, band-21), fill='white', width=5)
         lettering(draw, dialogue, (85, 20, width-35, band-30))
+    if bubbles is not None:
+        for bubble in validate_bubbles(bubbles):
+            _speech(draw,bubble,speaker_names or {})
     draw.ellipse((12, 12, 55, 55), fill='white', outline='black', width=3)
     lettering(draw, str(number), (15, 15, 52, 52), size=26)
     draw.rectangle((1, 1, width-2, height-2), outline='black', width=4)

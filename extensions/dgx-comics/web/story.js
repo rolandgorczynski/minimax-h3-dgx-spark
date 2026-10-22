@@ -60,7 +60,7 @@ app.registerExtension({
                 this.setSize([this.size[0], this.computeSize()[1]]);
                 this.setDirtyCanvas(true, true);
             };
-            for (const name of ["gesamtgeschichte", "anzahl_kacheln", "seed", "comic_art"]) {
+            for (const name of ["gesamtgeschichte", "anzahl_kacheln", "seed"]) {
                 const widget = this.widgets.find(w => w.name === name);
                 if (!widget) continue;
                 const callback = widget.callback;

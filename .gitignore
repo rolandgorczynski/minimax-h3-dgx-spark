@@ -1,4 +1,6 @@
 .env
+automation/comics/.env.telegram
+automation/comics/.env.tmp
 .env.bak
 *.bak
 diagnostics/

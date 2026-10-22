@@ -1,6 +1,8 @@
 """Sysop comics with per-panel scenes and a shared local FLUX image reference."""
 import json
 import hashlib
+import base64
+import io
 from pathlib import Path
 
 import folder_paths
@@ -45,7 +47,7 @@ class DGXSysopComic:
     DESCRIPTION = '1–12 Kacheln. Pro Kachel Szene und Dialog eingeben. Sysop wird für jedes Bild als Referenz an das ComfyUI-Modell FLUX.2 Klein 9B übergeben. Texte werden separat gesetzt.'
 
     def create(self, referenz, model, clip, vae, anzahl_kacheln, spalten, titel, hauptfigur, stil, szenen,
-               signatur, seed, dateiname, prompt=None, extra_pnginfo=None, szenenplan=None, revisions=None, reuse_panels=False, model_identity=None):
+               signatur, seed, dateiname, prompt=None, extra_pnginfo=None, szenenplan=None, revisions=None, reuse_panels=False, model_identity=None, cast=None, library_cast=False, output_directory=None, image_type='output', image_subfolder_prefix=''):
         if szenenplan is not None:
             planned = json.loads(szenenplan)
             if not isinstance(planned, list):
@@ -57,13 +59,15 @@ class DGXSysopComic:
             raise ValueError('Bitte 1–4 Spalten wählen und Titel/Signatur auf 200 Zeichen begrenzen.')
         if len(hauptfigur)+len(stil) > 2500:
             raise ValueError('Figurenbeschreibung und Stil zusammen maximal 2500 Zeichen.')
+        speaker_names = {c['id']:c['name'] for c in cast or []}
         # Check lettering for every panel before starting expensive generation.
         for i, scene in enumerate(scenes):
-            panel(Image.new('RGB', (768, 512)), scene['dialog'], i+1)
+            panel(Image.new('RGB', (768, 512)), scene['dialog'], i+1, scene.get('bubbles'), speaker_names)
         assemble([Image.new('RGB', (768, 672))]*len(scenes), spalten, titel, signatur)
         from .generation import prepare_reference, generate_panel
         reference_latent = None
-        output = folder_paths.get_output_directory()
+        character_latents = {}
+        output = output_directory or folder_paths.get_output_directory()
         folder, filename, counter, subfolder, _ = folder_paths.get_save_image_path(dateiname, output)
         base = f'{filename}_{counter:05}'
         # A separate run directory retains completed panels if a later request fails.
@@ -74,42 +78,77 @@ class DGXSysopComic:
             run = Path(folder)/(base+'_panels')
         run.mkdir(exist_ok=False)
         (run/'story.json').write_text(json.dumps({'title': titel, 'character': hauptfigur,
-            'style': stil, 'signature': signatur, 'seed': seed, 'columns': spalten, 'scenes': scenes, 'panel_revisions': revisions or {}}, ensure_ascii=False, indent=2)+'\n')
+            'style': stil, 'signature': signatur, 'seed': seed, 'columns': spalten, 'scenes': scenes, 'panel_revisions': revisions or {}, 'characters': cast or []}, ensure_ascii=False, indent=2)+'\n')
         cache = Path(output)/'comics'/'.panel-cache'
         if reuse_panels:
             cache.mkdir(parents=True, exist_ok=True)
-        reference_key = hashlib.sha256(referenz.detach().cpu().contiguous().numpy().tobytes()).hexdigest() if reuse_panels else ''
+        reference_key = hashlib.sha256(referenz.detach().cpu().contiguous().numpy().tobytes()).hexdigest() if reuse_panels and not library_cast else ''
         previews = []
         progress = comfy.utils.ProgressBar(len(scenes))
         tiles = []
+        from .characters import scene_cast, character_prompt, library
         for i, scene in enumerate(scenes):
+            active = scene_cast(scene, cast or [])
+            references = [(c, asset) for c in active for asset in c['references']]
+            inline_sources={}
+            for c in active:
+                for encoded in c.get('inline_references',[]):
+                    data=base64.b64decode(encoded,validate=True)
+                    asset=hashlib.sha256(data).hexdigest()+'.png'
+                    inline_sources[(c['id'],asset)]=data
+                    references.append((c,asset))
+            for c, asset in references:
+                if (c['id'],asset) not in inline_sources:library().reference_path(c['id'], asset)
+            reference_offset = 0 if library_cast else 1
+            reference_instructions = [] if library_cast else ['Reference image 1 shows Sysop.']
+            reference_instructions += [f'Reference image {j+1+reference_offset} shows only the identity of {c["name"]}. Keep different people distinct.' for j,(c,asset) in enumerate(references)]
+            identity_rules = (
+                ([f'This panel contains exactly {len(active)} assigned subject(s), each appearing once. Follow the scene composition.',
+                  'Keep each assigned person consistent with their saved profile and uploaded reference images.'] if active else
+                 ['Environmental illustration or object still life. Focus exclusively on the architecture and objects described in the scene.'])
+                if library_cast else
+                ['Exactly one Sysop, no duplicate characters, no twins, no reflections, no split view. Other people only if the scene explicitly requests them.',
+                 'Keep Sysop the same person: same face, hair and beard. Follow the selected style and scene for clothing. Change the pose, expression and setting to match the scene.', hauptfigur])
             text = '\n'.join([
-                'Create one new comic panel. Use the reference only for the identity of the main character. The selected visual style overrides the reference style.',
-                'Exactly one Sysop, no duplicate characters, no twins, no reflections, no split view. Other people only if the scene explicitly requests them.',
-                'Keep Sysop the same person: same face, hair and beard. Follow the selected style and scene for clothing. Change the pose, expression and setting to match the scene.',
-                hauptfigur, stil, 'Scene: '+scene['story'],
+                'Create one new comic panel. Preserve the scene events and composition. The selected visual style controls palette and lighting.',
+                *identity_rules, stil, 'Scene: '+scene['story'],
+                *([character_prompt(c) for c in active]),
+                *reference_instructions,
+                *(['The saved character profiles and current clothing define the assigned subjects.'] if active else []),
                 'One scene only, no grid, no lettering, no words, no speech bubbles, no captions, no watermark.'])
             panel_seed = (seed+i+100003*(revisions or {}).get(str(i), 0)) % 2147483648
-            cache_key = hashlib.sha256(json.dumps([text, panel_seed, reference_key,
+            cache_key = hashlib.sha256(json.dumps([text, panel_seed, reference_key, [(c['id'], asset) for c, asset in references],
                 model_identity if model_identity is not None else [id(model), id(clip), id(vae)]]).encode()).hexdigest()
             cached = cache/(cache_key+'.png')
             if reuse_panels and cached.exists():
                 with Image.open(cached) as existing:
                     art = existing.convert('RGB')
             else:
-                if reference_latent is None:
-                    reference_latent = prepare_reference(vae, referenz)
-                pixels = generate_panel(model, clip, vae, reference_latent, text, panel_seed)
+                panel_references = []
+                if not library_cast:
+                    if reference_latent is None:
+                        reference_latent = prepare_reference(vae, referenz)
+                    panel_references.append(reference_latent)
+                for c, asset in references:
+                    key = (c['id'], asset)
+                    if key not in character_latents:
+                        source=io.BytesIO(inline_sources[key]) if key in inline_sources else library().reference_path(*key)
+                        with Image.open(source) as image:
+                            if image.width*image.height>25_000_000:raise ValueError('Referenzbild zu groß.')
+                            pixels = torch.from_numpy(np.asarray(image.convert('RGB')).copy().astype(np.float32)/255).unsqueeze(0)
+                        character_latents[key] = prepare_reference(vae, pixels)
+                    panel_references.append(character_latents[key])
+                pixels = generate_panel(model, clip, vae, panel_references, text, panel_seed)
                 art = Image.fromarray(np.clip(pixels[0].detach().cpu().numpy()*255, 0, 255).astype(np.uint8)).convert('RGB')
                 if reuse_panels:
                     temporary = cached.with_suffix('.tmp.png')
                     art.save(temporary)
                     temporary.replace(cached)
             art.save(run/f'{i+1:02}_art.png')
-            tile = panel(art, scene['dialog'], i+1)
+            tile = panel(art, scene['dialog'], i+1, scene.get('bubbles'), speaker_names)
             tile.save(run/f'{i+1:02}_panel.png')
             previews.append({'filename': f'{i+1:02}_panel.png',
-                'subfolder': str(Path(subfolder)/run.name), 'type': 'output'})
+                'subfolder': str(Path(image_subfolder_prefix)/subfolder/run.name), 'type': image_type})
             tiles.append(tile)
             progress.update_absolute(i+1)
         comic = assemble(tiles, spalten, titel, signatur)
@@ -120,7 +159,7 @@ class DGXSysopComic:
             metadata.add_text(key, json.dumps(value, ensure_ascii=False))
         name = base+'.png'
         comic.save(Path(folder)/name, pnginfo=metadata)
-        return {'ui': {'images': [{'filename': name, 'subfolder': subfolder, 'type': 'output'}], 'comic_panels': previews},
+        return {'ui': {'images': [{'filename': name, 'subfolder': str(Path(image_subfolder_prefix)/subfolder) if image_subfolder_prefix else subfolder, 'type': image_type}], 'comic_panels': previews},
                 'result': (torch.from_numpy(np.asarray(comic).astype(np.float32)/255).unsqueeze(0),)}
 
 
@@ -161,3 +200,17 @@ NODE_DISPLAY_NAME_MAPPINGS['DGXComicStory'] = 'Gesamtgeschichte → Kacheln · Q
 from .workflow import DGXComicWorkflow
 NODE_CLASS_MAPPINGS["DGXComicWorkflow"] = DGXComicWorkflow
 NODE_DISPLAY_NAME_MAPPINGS["DGXComicWorkflow"] = "Artikel → Szenen prüfen → Comic"
+
+from .characters import register_routes
+register_routes()
+
+from .speech_routes import register_speech_routes
+register_speech_routes()
+
+from .workflow import DGXComicStudio
+NODE_CLASS_MAPPINGS["DGXComicStudio"] = DGXComicStudio
+NODE_DISPLAY_NAME_MAPPINGS["DGXComicStudio"] = "Comic-Studio · Figuren, Szenen & Sprechblasen"
+
+from .automation import DGXComicAssistant, DGXComicPortrait, register_automation_routes
+NODE_CLASS_MAPPINGS.update({"DGXComicAssistant":DGXComicAssistant,"DGXComicPortrait":DGXComicPortrait})
+register_automation_routes()

@@ -1,4 +1,5 @@
 """Story-plan JSON validation and preservation of user edits without model inference."""
+import hashlib
 import importlib.util
 import json
 from pathlib import Path
@@ -31,15 +32,18 @@ class ComicStoryTests(unittest.TestCase):
         self.assertNotEqual(fingerprint, story.source_hash('Neue Geschichte', 1, 42))
         self.assertNotEqual(fingerprint, story.source_hash('Die Geschichte', 2, 42))
 
-    def test_style_is_part_of_saved_plan_identity(self):
+    def test_style_changes_preserve_edits_and_accept_legacy_plans(self):
         article = 'Ein Artikel mit offenen Fragen.'
-        style = story.STYLES['Großstadt-Noir (düster)']
-        fingerprint = story.source_hash(article, 1, 42, style)
-        self.assertNotEqual(fingerprint, story.source_hash(article, 1, 42))
-        self.assertNotEqual(fingerprint, story.source_hash(article, 1, 42, story.STYLES['Ligne claire']))
+        old_style = story.STYLES['Großstadt-Noir (düster)']
+        new_style = story.STYLES['Ligne claire']
+        fingerprint = story.source_hash(article, 1, 42, old_style)
+        self.assertEqual(fingerprint, story.source_hash(article, 1, 42, new_style))
         scenes = [{'story': 'Korrigierte Szene.', 'dialog': 'Offene Frage?'}]
-        edited = json.dumps({'source_hash': fingerprint, 'scenes': scenes})
-        self.assertEqual(story.plan_story(None, article, 1, 42, edited, style), (scenes, fingerprint))
+        legacy = hashlib.sha256(json.dumps([article, 1, 42, old_style], ensure_ascii=False).encode()).hexdigest()
+        for saved_hash in (fingerprint, legacy):
+            edited = json.dumps({'source_hash': saved_hash, 'scenes': scenes})
+            self.assertEqual(story.plan_story(None, article, 1, 42, edited, new_style), (scenes, fingerprint))
+            self.assertFalse(story.plan_matches(json.loads(edited), 'Neuer Artikel', 1, 42))
 
     def test_source_sections_cover_complete_article_in_order(self):
         article = (SOURCE.parents[2]/'examples/comics/articles/marius-dick.txt').read_text()
@@ -53,5 +57,5 @@ class ComicStoryTests(unittest.TestCase):
     def test_invalid_edit_is_not_silently_discarded(self):
         with self.assertRaisesRegex(ValueError, 'bearbeitete'):
             story.plan_story(None, 'Geschichte', 1, 42, '{bad json')
-        with self.assertRaises(ValueError):
+        with self.assertRaisesRegex(ValueError, 'Originalartikel'):
             story.plan_story(None, '', 1, 42)

@@ -1,0 +1,104 @@
+"""Render an editor-authored storyboard verbatim with workflow 04; no LLM writing."""
+import argparse
+import base64
+import copy
+import hashlib
+import json
+import os
+from pathlib import Path
+import uuid
+import zipfile
+
+from comfy import Comfy
+from engine import Engine,ID,validate_request
+from storage import Store
+
+
+def export(store,job):
+    root=store.directory(job);bundle=root/'comic-bundle.zip';temporary=bundle.with_suffix('.tmp')
+    with zipfile.ZipFile(temporary,'w',zipfile.ZIP_DEFLATED) as archive:
+        for path in sorted(root.rglob('*')):
+            if path.is_file() and path.suffix not in ('.zip','.tmp') and 'checkpoints' not in path.parts:archive.write(path,path.relative_to(root))
+    temporary.replace(bundle)
+    artifacts=[{'name':str(p.relative_to(root)),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),
+                'url':f'/jobs/{job}/artifacts/{p.relative_to(root)}'} for p in sorted(root.rglob('*')) if p.is_file() and p.suffix!='.tmp' and 'checkpoints' not in p.parts]
+    return artifacts
+
+
+def render(store,client,template,payload,job):
+    req=validate_request({'kacheln':len(payload['scenes']),'stil':payload.get('style','Großstadt-Noir (düster)'),
+        'seed':payload.get('seed',1984),'max_korrekturrunden':0,'figuren_ids':payload.get('library_ids',[]),'signatur':payload.get('signature','')})
+    previous=store.get(job)
+    if not previous:store.create(job,req,initial_status='editing')
+    elif previous['request']!=req:raise ValueError('Vorhandener Redaktionsauftrag hat andere Grundeinstellungen.')
+    elif previous['status']!='editing':raise ValueError('Abgeschlossener Auftrag wird nicht überschrieben. Neue Auftrags-ID verwenden.')
+    engine=Engine(store,client,template,'unused','unused')
+    doc={'title':payload['title'],'story':payload['article'],'characters':payload.get('characters',[])}
+    if not isinstance(doc['title'],str) or not doc['title'].strip() or len(doc['title'])>200 or not isinstance(doc['story'],str) or not doc['story'].strip() or len(doc['story'])>16000:raise ValueError('Titel oder Artikel ungültig.')
+    store.stage(job,'editorial_preflight',editorial_mode=True,editorial_notes=payload.get('notes',[]))
+    cast=engine.existing_cast(req['figuren_ids'])+copy.deepcopy(payload.get('characters',[]))
+    if not 1<=len(cast)<=8 or any(not ID.fullmatch(c.get('id','')) for c in cast) or len({c['id'] for c in cast})!=len(cast):raise ValueError('Eindeutige Figuren-IDs erforderlich.')
+    for c in cast:
+        if c['id'] in payload.get('outfits',{}):c['story_outfit']=payload['outfits'][c['id']]
+    # Keep already-generated private portrait references across editorial revisions.
+    saved=store.directory(job)/'characters.json'
+    if saved.exists():
+        old={c['id']:c for c in json.loads(saved.read_text())}
+        for c in cast:
+            if c['id'] in old and old[c['id']].get('inline_references'):c['inline_references']=old[c['id']]['inline_references']
+    overrides=payload.get('reference_overrides',{})
+    if not isinstance(overrides,dict) or set(overrides)-{c['id'] for c in cast}:raise ValueError('Unbekannte Figurenreferenz.')
+    for c in cast:
+        if c['id'] in overrides:
+            images=overrides[c['id']]
+            if not isinstance(images,list) or not 1<=len(images)<=2 or any(not isinstance(image,str) or len(image)>8_000_000 or not base64.b64decode(image,validate=True).startswith(b'\x89PNG\r\n\x1a\n') for image in images):raise ValueError('Ungültige eingebettete Porträtreferenz.')
+            c['inline_references']=images;c['references']=[]
+    scenes=engine.validate_scenes(copy.deepcopy(payload['scenes']),req['kacheln'],cast)
+    plan={'source_hash':hashlib.sha256(json.dumps([doc['story'].strip(),req['kacheln'],req['seed']],ensure_ascii=False).encode()).hexdigest(),'scenes':scenes}
+    fit=engine.preflight(plan,cast)
+    if not fit['valid']:raise ValueError('Beschriftung passt nicht: '+json.dumps(fit['issues'],ensure_ascii=False))
+    store.write(job,'story.json',doc);store.write(job,'scenes.json',plan);store.write(job,'editorial-source.json',payload)
+    store.stage(job,'editorial_characters')
+    for index,c in enumerate(cast):
+        if not c.get('inline_references'):c['inline_references']=[engine.portrait(job,c,index,req['stil'])]
+    store.write(job,'characters.json',cast)
+    revisions=payload.get('revisions',{})
+    if not isinstance(revisions,dict) or any(not str(k).isdigit() or not 0<=int(k)<req['kacheln'] or type(v) is not int or v<0 for k,v in revisions.items()):raise ValueError('Ungültige Kachelrevisionen.')
+    digest=hashlib.sha256(json.dumps([doc,plan,revisions,cast,engine.loaders],sort_keys=True).encode()).hexdigest()[:16]
+    store.stage(job,'editorial_rendering')
+    output=engine.studio(job,'editor-render-'+digest,doc,cast,plan,revisions)
+    if len(output.get('images',[]))!=1 or len(output.get('comic_panels',[]))!=req['kacheln']:raise ValueError('Unvollständige Comicausgabe.')
+    store.write(job,'comic.png',client.download(job,output['images'][0]))
+    for index,panel in enumerate(output['comic_panels']):
+        store.write(job,f'panels/{index+1:02}_panel.png',client.download(job,panel))
+        store.write(job,f'panels/{index+1:02}_art.png',client.download(job,{**panel,'filename':panel['filename'].replace('_panel.png','_art.png')}))
+    store.write(job,'workflow.json',engine.workflow(req,doc,cast,plan,revisions))
+    store.write(job,'report.json',{'editorial_mode':True,'text_rewritten_by_local_llm':False,'fiction':False,
+        'source':'Vom Nutzer bereitgestellter Artikel','story_language':'de','lettering':fit,'notes':payload.get('notes',[]),'visual_review':'pending'})
+    store.stage(job,'editorial_review',artifacts=export(store,job))
+    return job
+
+
+def finalize(store,client,job,review):
+    doc=store.get(job)
+    if not doc or doc['status']!='editing':raise ValueError('Kein offener Redaktionsauftrag.')
+    if not any(a['name']=='comic.png' for a in doc['artifacts']):raise ValueError('Comic fehlt.')
+    report_path=store.directory(job)/'report.json';report=json.loads(report_path.read_text())
+    report['visual_review']=review;store.write(job,'report.json',report)
+    store.stage(job,'finished',status='completed',artifacts=export(store,job),cleanup_pending=True)
+    client.cleanup(job)
+
+
+def main():
+    parser=argparse.ArgumentParser();parser.add_argument('source',nargs='?');parser.add_argument('--job');parser.add_argument('--finalize',action='store_true');parser.add_argument('--review',default='Redaktionell geprüft.')
+    args=parser.parse_args();job=args.job or uuid.uuid4().hex
+    if not ID.fullmatch(job):raise ValueError('Ungültige Auftrags-ID.')
+    store=Store(os.getenv('DATA_DIR','/data'));client=Comfy(os.getenv('COMFYUI_URL','http://comfyui:8188'),store)
+    if args.finalize:finalize(store,client,job,args.review)
+    else:
+        if not args.source:parser.error('Storyboard-JSON erforderlich.')
+        render(store,client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),json.loads(Path(args.source).read_text()),job)
+    print(json.dumps({'id':job,'status':store.get(job)['status']},ensure_ascii=False))
+
+
+if __name__=='__main__':main()

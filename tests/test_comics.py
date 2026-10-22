@@ -3,6 +3,7 @@ import importlib.util
 import json
 from pathlib import Path
 import unittest
+from unittest.mock import patch
 from PIL import Image
 
 SOURCE = Path(__file__).resolve().parents[1]/'extensions/dgx-comics/design.py'
@@ -42,3 +43,29 @@ class ComicTests(unittest.TestCase):
         self.assertEqual(without_dialogue.getpixel((300, 50)), (255, 0, 0))
         with self.assertRaisesRegex(ValueError, 'zu lang'):
             design.panel(art, 'W'*500, 1)
+
+    def test_multiple_bubbles_have_separate_speakers_and_movable_tails(self):
+        art=Image.new('RGB',(1024,704),'#224466')
+        bubbles=design.validate_bubbles([
+            {'speaker':'a'*32,'text':'Nein! Nein!','expression':'shout'},
+            {'speaker':'Verbrecher','text':'Halt die Klappe, Idiot!'}])
+        with patch.object(design,'lettering',wraps=design.lettering) as draw:
+            image=design.panel(art,'Erzählertext.',1,bubbles,{'a'*32:'Markus'})
+            texts=[call.args[1] for call in draw.call_args_list]
+            self.assertIn('Markus',texts)
+            self.assertIn('Verbrecher',texts)
+            self.assertIn('Nein! Nein!',texts)
+            self.assertIn('Halt die Klappe, Idiot!',texts)
+        moved=[{**bubbles[0],'tip_x':.1,'tip_y':.8},bubbles[1]]
+        edited=design.panel(art,'Erzählertext.',1,moved,{'a'*32:'Markus'})
+        self.assertNotEqual(image.tobytes(),edited.tobytes())
+        scenes=design.parse_scenes(json.dumps([{'story':'Markus wartet.','dialog':'','bubbles':bubbles}]),1)
+        self.assertEqual(scenes[0]['bubbles'],bubbles)
+
+    def test_invalid_bubbles_and_overflow_fail_before_generation(self):
+        for bubble in [{'speaker':''},{'speaker':'Markus','x':float('nan')},
+                       {'speaker':'Markus','x':.9,'w':.4}, {'speaker':'Markus','expression':'invalid'}]:
+            with self.assertRaises(ValueError):design.validate_bubbles([bubble])
+        with self.assertRaises(ValueError):design.validate_bubbles([{'speaker':'Markus'}]*7)
+        with self.assertRaisesRegex(ValueError,'zu lang'):
+            design.panel(Image.new('RGB',(1024,704)),'',1,[{'speaker':'Markus','text':'W'*400}])
