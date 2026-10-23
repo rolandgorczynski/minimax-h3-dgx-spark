@@ -10,6 +10,12 @@ STYLES = {
     "Ligne claire": "Franco-Belgian ligne claire comic, clean uniform ink lines, flat colors, precise architecture, readable compositions.",
     "Manga Schwarzweiß": "Black and white manga, expressive ink drawing, screentones, cinematic compositions, consistent realistic character proportions.",
     "Aquarell-Reportage": "Watercolor reportage comic, subtle ink contours, textured paper, restrained colors, realistic people, thoughtful journalistic mood.",
+    'Graphic Novel realistisch': 'Realistic graphic novel illustration, cinematic framing, detailed textures, natural proportions, textured ink shading, restrained sophisticated colors, dramatic but plausible light.',
+    'Holzschnitt / Linolschnitt': 'Expressive woodcut and linocut comic illustration, bold carved black shapes, strong black and white contrast, visible cut marks, simplified readable forms, restrained paper texture.',
+    'Retro-Zeitungscomic': 'Vintage newspaper comic illustration, limited warm color palette, coarse halftone print texture, clear black ink outlines, expressive faces, readable classic staging. No printed lettering.',
+    'Europäischer Abenteuercomic': 'European adventure comic illustration, lively controlled colors, precise detailed locations, clear consistent forms, crisp ink contours, dynamic readable cinematic staging.',
+    'Science-Fiction / Cyberpunk': 'Science fiction cyberpunk comic illustration, luminous neon accents, blue and magenta palette, layered futuristic city architecture, technological details, atmospheric haze, realistic proportions.',
+    'Warme Alltagsillustration': 'Warm intimate everyday-life comic illustration, soft natural light, muted warm colors, gentle ink contours, natural proportions, inviting lived-in environments, thoughtful quiet compositions.',
 }
 
 
@@ -54,6 +60,9 @@ def read_plan(value, count):
         if 'bubbles' in scene:
             from .design import validate_bubbles
             result['bubbles'] = validate_bubbles(scene['bubbles'])
+        if 'character_states' in scene:
+            from .design import validate_character_states
+            result['character_states']=validate_character_states(scene['character_states'])
         scenes.append(result)
     return scenes
 

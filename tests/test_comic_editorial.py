@@ -26,8 +26,10 @@ class EditorialTests(unittest.TestCase):
             client.run=run;client.cleanup=lambda job:client.calls.append(('cleanup',job))
             cast=[{'id':uuid.uuid4().hex,'name':name,'description':'Kurzes braunes Haar, erwachsene Person.','outfit':'Graue Jacke.','aliases':[],'variants':{},'references':[]} for name in ['Anna','Bram']]
             scenes=[{'story':c['name']+' steht am Fenster.','dialog':'Ein ruhiger Morgen.','characters':[c['id']],'bubbles':[]} for c in cast]
+            cast.append({'id':uuid.uuid4().hex,'name':'Unbenutzt','description':'Kurzes Haar.','outfit':'Jacke.','aliases':[],'variants':{},'references':[]})
             payload={'title':'Ein fester Plan','article':'Ein Artikel. Sein Wortlaut bleibt exakt erhalten.','seed':42,'characters':cast,'scenes':scenes}
             render(store,client,TEMPLATE,payload,ident)
+            self.assertEqual(sum(step.startswith('portrait-') for _,step in client.calls),2,'Keine Porträts für unbenutzte Figuren rendern')
             self.assertIsNone(store.claim());store.recover();self.assertEqual(store.get(ident)['status'],'editing')
             self.assertEqual(json.loads((store.directory(ident)/'story.json').read_text())['story'],payload['article'])
             self.assertEqual(json.loads((store.directory(ident)/'scenes.json').read_text())['scenes'],scenes)

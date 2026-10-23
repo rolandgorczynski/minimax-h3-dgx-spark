@@ -14,7 +14,11 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 from storage import Store
 from comfy import Comfy
-from engine import Engine, ID, TERMINAL, validate_request
+from engine import Engine, ID, STYLES, TERMINAL, validate_request
+from stories import Stories, Conflict
+import sharing
+from character_profiles import ALIGNMENTS, validate as validate_profile
+from comfy import ComfyError
 from feedback import CRITERIA, validate_feedback
 from local_llm import LocalOllama
 from telegram_trigger import TelegramTrigger
@@ -25,6 +29,7 @@ LOG=logging.getLogger('comic-automation')
 class Service:
     def __init__(self):
         self.store=Store(os.getenv('DATA_DIR','/data'))
+        self.stories=Stories(self.store)
         self.client=Comfy(os.getenv('COMFYUI_URL','http://comfyui:8188'),self.store,int(os.getenv('COMFYUI_PROMPT_TIMEOUT','3600')))
         self.engine=Engine(self.store,self.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),
                            os.getenv('TEXT_MODEL','qwen3vl_8b_fp8_scaled.safetensors'),os.getenv('VISION_MODEL','qwen3vl_8b_fp8_scaled.safetensors'))
@@ -70,8 +75,24 @@ class Service:
                 self.stop.wait(3);continue
             ident=job['id'];LOG.info('Starting %s',ident)
             try:
-                self.capabilities()
-                result=self.engine.execute(ident)
+                if job.get('character_mode'):
+                    from character_profiles import regenerate
+                    result=regenerate(self.engine,ident)
+                elif job.get('improvement_mode'):
+                    from improvement import improve
+                    result=improve(self.engine,ident)
+                elif job.get('planning_mode'):
+                    from article_plan import prepare
+                    result=prepare(self.engine,self.stories,ident)
+                elif job.get('editorial_mode'):
+                    from editorial import render
+                    source=json.loads((self.store.directory(ident)/'editorial-source.json').read_text())
+                    render(self.store,self.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,ident,worker=True)
+                    result={'status':'needs_review','artifacts':self.store.get(ident)['artifacts'],
+                            'warnings':['Storyboard unverändert gerendert. Bilder und Texte vor Veröffentlichung prüfen.']}
+                else:
+                    self.capabilities()
+                    result=self.engine.execute(ident)
                 # Artifacts were copied and hashed before remote cleanup.
                 self.store.stage(ident,'finished',**result,cleanup_pending=True)
             except Exception as exc:
@@ -99,25 +120,60 @@ class Handler(BaseHTTPRequestHandler):
             self.reply(401,{'error':'Bearer-Token erforderlich.'});return False
         return True
 
+    def binary(self,data,kind,filename=None):
+        self.send_response(200);self.send_header('Content-Type',kind)
+        self.send_header('Content-Length',str(len(data)))
+        if filename:self.send_header('Content-Disposition','attachment; filename="'+filename+'"')
+        self.end_headers();self.wfile.write(data)
+
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path=='/':
-            body=Path(__file__).with_name('index.html').read_bytes()
-            self.send_response(200);self.send_header('Content-Type','text/html; charset=utf-8')
+        if path in ('/','/character-editor.js'):
+            body=Path(__file__).with_name('character-editor.js' if path.endswith('.js') else 'index.html').read_bytes()
+            self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
         if not self.authorized():return
+        if path=='/styles':return self.reply(200,{'styles':STYLES})
+        if path=='/sharing':return self.reply(200,sharing.settings(self.service.store))
+        if path=='/characters':
+            try:
+                result=self.service.client.request('GET','/dgx-comics/characters')
+                return self.reply(200,{**result,'alignments':ALIGNMENTS})
+            except (ComfyError,OSError) as exc:return self.reply(502,{'error':str(exc)})
+        if path=='/stories':return self.reply(200,{'stories':self.service.stories.list()})
         if path=='/telegram':return self.reply(200,self.service.telegram.info())
         if path=='/learning':return self.reply(200,self.service.store.learning_memory())
         if path=='/ready':
             try:return self.reply(200,self.service.capabilities())
             except Exception as exc:return self.reply(503,{'ready':False,'error':str(exc)[:2000]})
-        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list()]})
+        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list() if not job.get('character_mode')]})
         parts=path.strip('/').split('/')
+        if len(parts)==3 and parts[:2]==['characters','regenerations'] and ID.fullmatch(parts[2]):
+            job=self.service.store.get(parts[2])
+            if not job or not job.get('character_mode'):return self.reply(404,{'error':'Figurenauftrag nicht gefunden.'})
+            result={k:job.get(k) for k in ('id','status','stage','error')}
+            if job['status']=='completed':result['profile']=json.loads((self.service.store.directory(job['id'])/'character-result.json').read_text())
+            return self.reply(200,result)
+        if len(parts)==4 and parts[0]=='characters' and ID.fullmatch(parts[1]) and parts[2]=='references' and __import__('re').fullmatch(r'[a-f0-9]{64}\.png',parts[3]):
+            try:return self.binary(self.service.client.request('GET','/dgx-comics/'+path.strip('/')),'image/png')
+            except (ComfyError,OSError) as exc:return self.reply(404,{'error':str(exc)})
+        if len(parts)==2 and parts[0]=='stories' and ID.fullmatch(parts[1]):
+            try:return self.reply(200,self.service.stories.get(parts[1]))
+            except KeyError:return self.reply(404,{'error':'Geschichte nicht gefunden.'})
         if len(parts)>=2 and parts[0]=='jobs' and ID.fullmatch(parts[1]):
             job=self.service.store.get(parts[1])
             if not job:return self.reply(404,{'error':'Auftrag nicht gefunden.'})
             if len(parts)==2:return self.reply(200,self.public(job))
+            if len(parts)>=3 and parts[2]=='share':
+                try:
+                    if len(parts)==3:return self.reply(200,sharing.manifest(self.service.store,job))
+                    if len(parts)==4 and parts[3]=='images.zip':return self.binary(sharing.bundle(self.service.store,job),'application/zip','comic-'+job['id'][:8]+'-bilder.zip')
+                    if len(parts)==5 and parts[3]=='images' and __import__('re').fullmatch(r'\d{2}\.png',parts[4]):
+                        sharing.manifest(self.service.store,job)
+                        return self.binary(sharing.image(self.service.store,job,int(parts[4][:2])-1),'image/png')
+                except (ValueError,TypeError) as exc:return self.reply(409,{'error':str(exc)})
+                except (KeyError,OSError):return self.reply(404,{'error':'Bild nicht gefunden.'})
             if len(parts)==3 and parts[2]=='story':return self.reply(200,self.story_preview(job))
             if len(parts)==3 and parts[2]=='feedback':
                 return self.reply(200,{'optional':True,'scale':{'min':1,'max':5},'criteria':CRITERIA,'feedback':job.get('feedback'),
@@ -136,9 +192,9 @@ class Handler(BaseHTTPRequestHandler):
         return self.reply(404,{'error':'Endpoint nicht gefunden.'})
 
     def public(self,job):
-        result={k:v for k,v in job.items() if k!='steps'}
+        result={k:v for k,v in job.items() if k not in ('steps','planning_source')}
         preview=self.story_preview(job)
-        result['story_available']=preview['available'];result['story_title']=preview.get('title','')
+        result['story_available']=preview['available'];result['story_title']=preview.get('title','') or job.get('improvement_title','')
         result['status_url']='/jobs/'+job['id'];return result
 
     def story_preview(self,job):
@@ -153,7 +209,27 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
-        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2] in ('feedback','next'):
+        if parts==['characters','regenerate']:
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=18_000_000:raise ValueError('Figurenprofil maximal 18 MB.')
+                from character_profiles import enqueue
+                return self.reply(202,enqueue(self.service.store,json.loads(self.rfile.read(size))))
+            except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+            except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
+        if parts==['characters']:
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=18_000_000:raise ValueError('Figurenprofil maximal 18 MB.')
+                value=validate_profile(json.loads(self.rfile.read(size)))
+                result=self.service.client.request('POST','/dgx-comics/characters',value)
+                return self.reply(200,result)
+            except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
+            except (ComfyError,OSError) as exc:return self.reply(409,{'error':str(exc)})
+        if parts[0]=='stories':return self.story_action(parts,'POST')
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2] in ('feedback','next','improve'):
             if not self.authorized():return
             try:
                 size=int(self.headers.get('Content-Length','0'))
@@ -161,15 +237,91 @@ class Handler(BaseHTTPRequestHandler):
                 value=json.loads(self.rfile.read(size)) if size else {}
                 if parts[2]=='feedback':
                     job=self.service.store.save_feedback(parts[1],validate_feedback(value))
-                    return self.reply(200,{'saved':True,'feedback':job['feedback'],'applies_to':'future_jobs'})
+                    return self.reply(200,{'saved':True,'feedback':job['feedback'],'applies_to':'future_jobs_and_explicit_improvements'})
+                if parts[2]=='improve':
+                    if not isinstance(value,dict) or set(value)-{'stil'}:raise ValueError('Nur stil ist änderbar; Kachelanzahl kommt aus der bewerteten Ausgabe.')
+                    return self.reply(202,self.public(self.service.stories.improve(parts[1],value.get('stil'))))
                 if value!={}:raise ValueError('POST /next ohne Parameter verwenden.')
                 job,created=self.service.store.next_story(parts[1])
                 return self.reply(202 if created else 200,self.public(job))
             except KeyError:return self.reply(404,{'error':'Auftrag nicht gefunden.'})
             except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(False)
-    def do_PUT(self):self.create(True)
+    def do_PUT(self):
+        if urlsplit(self.path).path=='/sharing':
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=8192:raise ValueError('Zieleinstellungen maximal 8 KB.')
+                return self.reply(200,sharing.save_settings(self.service.store,json.loads(self.rfile.read(size))))
+            except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
+        self.create(True)
+
+    def do_PATCH(self):
+        self.story_action(unquote(urlsplit(self.path).path).strip('/').split('/'),'PATCH')
+
+    def do_DELETE(self):
+        parts=unquote(urlsplit(self.path).path).strip('/').split('/')
+        if parts[0]=='stories':return self.story_action(parts,'DELETE')
+        if not self.authorized():return
+        if len(parts)==2 and parts[0]=='characters' and ID.fullmatch(parts[1]):
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=1024:raise ValueError('Versionsangabe erforderlich.')
+                value=json.loads(self.rfile.read(size))
+                if not isinstance(value,dict) or type(value.get('version')) is not int:raise ValueError('Versionsangabe erforderlich.')
+                for entry in self.service.stories.list():
+                    story=self.service.stories.get(entry['id'])
+                    if parts[1] in story['payload'].get('library_ids',[])+story['payload'].get('figuren_ids',[]):
+                        return self.reply(409,{'error':'Diese Figur wird in der Geschichte „'+story['name']+'“ direkt aus der Bibliothek verwendet. Zuerst dort als eigene Figurenkopie übernehmen und speichern.'})
+                return self.reply(200,self.service.client.request('DELETE','/dgx-comics/characters/'+parts[1],value))
+            except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
+            except (ComfyError,OSError) as exc:return self.reply(409,{'error':str(exc)})
+        if len(parts)==2 and parts[0]=='jobs' and ID.fullmatch(parts[1]):
+            try:
+                job=self.service.store.get(parts[1])
+                if not job:raise KeyError(parts[1])
+                if job['status'] in ('queued','running'):raise Conflict('Laufende oder wartende Ausgaben können nicht gelöscht werden.')
+                self.service.cleanup(parts[1]);self.service.stories.delete_job(parts[1])
+                return self.reply(200,{'deleted':True})
+            except KeyError:return self.reply(404,{'error':'Ausgabe nicht gefunden.'})
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
+        return self.reply(404,{'error':'Endpunkt nicht gefunden.'})
+
+    def story_action(self,parts,method):
+        if not self.authorized():return
+        valid=(parts==['stories'] and method=='POST') or (len(parts) in (2,3) and parts[0]=='stories' and ID.fullmatch(parts[1]))
+        if not valid:return self.reply(404,{'error':'Endpunkt nicht gefunden.'})
+        try:
+            size=int(self.headers.get('Content-Length','0'))
+            if not 0<size<=20_000_000:raise ValueError('JSON mit maximal 20 MB senden.')
+            value=json.loads(self.rfile.read(size))
+            if not isinstance(value,dict):raise ValueError('JSON-Objekt erwartet.')
+            if len(parts)==1:
+                story=self.service.stories.import_job(value['from_job']) if 'from_job' in value else self.service.stories.save(value)
+                return self.reply(201,story)
+            if len(parts)==2 and method=='PATCH':return self.reply(200,self.service.stories.save(value,parts[1],value.get('version')))
+            if len(parts)==3 and parts[2]=='generate' and method=='POST':
+                return self.reply(202,self.public(self.service.stories.enqueue(parts[1],value.get('version'))))
+            if len(parts)==3 and parts[2]=='plan' and method=='POST':
+                return self.reply(202,self.public(self.service.stories.plan(parts[1],value.get('version'))))
+            if len(parts)==2 and method=='DELETE':
+                # Only generated outputs owned by this definition are removed; imported originals stay intact.
+                with self.service.stories.lock:
+                    owned=self.service.stories.outputs(parts[1])
+                    if any(j['status'] in ('queued','running') for j in owned):raise Conflict('Eine Ausgabe läuft noch. Danach löschen.')
+                    story=self.service.stories.get(parts[1])
+                    if story['version']!=value.get('version'):raise Conflict('Geschichte wurde geändert. Bitte neu laden.')
+                    for job in owned:self.service.cleanup(job['id'])
+                    count=self.service.stories.delete(parts[1],value.get('version'))
+                return self.reply(200,{'deleted':True,'deleted_outputs':count})
+            return self.reply(404,{'error':'Endpunkt nicht gefunden.'})
+        except KeyError:return self.reply(404,{'error':'Geschichte oder Ausgabe nicht gefunden.'})
+        except Conflict as exc:return self.reply(409,{'error':str(exc)})
+        except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+        except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
 
     def create(self,is_put):
         if not self.authorized():return

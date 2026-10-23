@@ -232,6 +232,8 @@ Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/work
 
 ### Redaktionellen Comic per Skript erstellen
 
+[Projektanweisungen und vollständiger Ablauf als Markdown-Datei](docs/Comic_per_Skript_erstellen.md).
+
 Ein geprüftes Storyboard lässt sich mit dem lokalen ComfyUI wiederholbar als Comic,
 Teilseiten, PDF und ZIP mit bearbeitbarem Workflow exportieren:
 
@@ -254,3 +256,18 @@ Für Korrekturen `--draft` ergänzen, das Storyboard bearbeiten und mit
 abgeschlossen. Unveränderte Kacheln werden während der Bearbeitung wiederverwendet.
 Alle Optionen und die Installation stehen in der
 [Anleitung zum Comic-Automaten](automation/comics/README.md#ein-aufruf-für-rendern-seitenlayout-und-download).
+
+### Lokale Vorarbeit und Bildprüfung
+
+[Getestete Arbeitsteilung für die Comic-Produktion](docs/Comic_Lokale_Arbeitsteilung.md):
+Quellenabsätze lokal aufbereiten, Texte redaktionell ausarbeiten und Bilder mit
+`--local-check` lokal vorprüfen. Die Prüfung liefert Hinweise und lässt den Auftrag
+offen; Geschichte und Szenen bleiben unverändert.
+
+### Geschichtenverwaltung und elf Bildstile
+
+Auf der [lokalen Redaktionsseite](http://192.168.1.224:8090/) lassen sich
+Geschichten anlegen, Storyboards importieren, Szenen bearbeiten und neue Ausgaben
+erzeugen. Definitionen und Ausgaben sind getrennt löschbar. Elf Bildstile stehen
+im Studio und im Automationsdienst zur Auswahl.
+[Anleitung zur Verwaltung und Stilauswahl](automation/comics/README.md#geschichten-auf-der-redaktionsseite-verwalten).

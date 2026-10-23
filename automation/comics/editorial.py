@@ -25,13 +25,13 @@ def export(store,job):
     return artifacts
 
 
-def render(store,client,template,payload,job):
+def render(store,client,template,payload,job,worker=False):
     req=validate_request({'kacheln':len(payload['scenes']),'stil':payload.get('style','Großstadt-Noir (düster)'),
         'seed':payload.get('seed',1984),'max_korrekturrunden':0,'figuren_ids':payload.get('library_ids',[]),'signatur':payload.get('signature','')})
     previous=store.get(job)
     if not previous:store.create(job,req,initial_status='editing')
     elif previous['request']!=req:raise ValueError('Vorhandener Redaktionsauftrag hat andere Grundeinstellungen.')
-    elif previous['status']!='editing':raise ValueError('Abgeschlossener Auftrag wird nicht überschrieben. Neue Auftrags-ID verwenden.')
+    elif previous['status']!='editing' and not (worker and previous['status']=='running' and previous.get('editorial_mode')):raise ValueError('Abgeschlossener Auftrag wird nicht überschrieben. Neue Auftrags-ID verwenden.')
     engine=Engine(store,client,template,'unused','unused')
     doc={'title':payload['title'],'story':payload['article'],'characters':payload.get('characters',[])}
     if not isinstance(doc['title'],str) or not doc['title'].strip() or len(doc['title'])>200 or not isinstance(doc['story'],str) or not doc['story'].strip() or len(doc['story'])>16000:raise ValueError('Titel oder Artikel ungültig.')
@@ -55,15 +55,17 @@ def render(store,client,template,payload,job):
             c['inline_references']=images;c['references']=[]
     scenes=engine.validate_scenes(copy.deepcopy(payload['scenes']),req['kacheln'],cast)
     plan={'source_hash':hashlib.sha256(json.dumps([doc['story'].strip(),req['kacheln'],req['seed']],ensure_ascii=False).encode()).hexdigest(),'scenes':scenes}
+    revisions=payload.get('revisions',{})
+    if not isinstance(revisions,dict) or any(not str(k).isdigit() or not 0<=int(k)<req['kacheln'] or type(v) is not int or v<0 for k,v in revisions.items()):raise ValueError('Ungültige Kachelrevisionen.')
     fit=engine.preflight(plan,cast)
     if not fit['valid']:raise ValueError('Beschriftung passt nicht: '+json.dumps(fit['issues'],ensure_ascii=False))
     store.write(job,'story.json',doc);store.write(job,'scenes.json',plan);store.write(job,'editorial-source.json',payload)
     store.stage(job,'editorial_characters')
+    needed={ident for scene in scenes for ident in scene['characters']}
+    needed.update(bubble['speaker'] for scene in scenes for bubble in scene['bubbles'])
     for index,c in enumerate(cast):
-        if not c.get('inline_references'):c['inline_references']=[engine.portrait(job,c,index,req['stil'])]
+        if c['id'] in needed and not c.get('inline_references'):c['inline_references']=[engine.portrait(job,c,index,req['stil'])]
     store.write(job,'characters.json',cast)
-    revisions=payload.get('revisions',{})
-    if not isinstance(revisions,dict) or any(not str(k).isdigit() or not 0<=int(k)<req['kacheln'] or type(v) is not int or v<0 for k,v in revisions.items()):raise ValueError('Ungültige Kachelrevisionen.')
     digest=hashlib.sha256(json.dumps([doc,plan,revisions,cast,engine.loaders],sort_keys=True).encode()).hexdigest()[:16]
     store.stage(job,'editorial_rendering')
     output=engine.studio(job,'editor-render-'+digest,doc,cast,plan,revisions)
@@ -73,6 +75,17 @@ def render(store,client,template,payload,job):
         store.write(job,f'panels/{index+1:02}_panel.png',client.download(job,panel))
         store.write(job,f'panels/{index+1:02}_art.png',client.download(job,{**panel,'filename':panel['filename'].replace('_panel.png','_art.png')}))
     store.write(job,'workflow.json',engine.workflow(req,doc,cast,plan,revisions))
+    if worker:
+        # Same layout code as the host export; the helper only writes into this session.
+        layout_source={k:v for k,v in payload.items() if k not in ('characters','article','notes','outfits')}
+        layout=client.request('POST','/dgx-comics/automation/layout',{'session':job,'source':layout_source,
+            'workflow':engine.workflow(req,doc,cast,plan,revisions),'image':output['images'][0],'panels':output['comic_panels']})
+        for artifact in layout['files']:
+            path=Path(artifact['name'])
+            if path.is_absolute() or '..' in path.parts:raise ValueError('Ungültiger Layoutpfad.')
+            kind={'.png':'png','.pdf':'pdf','.json':'json','.txt':'text'}.get(path.suffix)
+            if not kind:raise ValueError('Unbekanntes Layoutformat.')
+            store.write(job,str(path),client.download(job,artifact['image'],kind=kind))
     store.write(job,'report.json',{'editorial_mode':True,'text_rewritten_by_local_llm':False,'fiction':False,
         'source':'Vom Nutzer bereitgestellter Artikel','story_language':'de','lettering':fit,'notes':payload.get('notes',[]),'visual_review':'pending'})
     store.stage(job,'editorial_review',artifacts=export(store,job))

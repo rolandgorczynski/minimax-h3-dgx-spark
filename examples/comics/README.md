@@ -56,9 +56,10 @@ Der Installer sichert geänderte vorhandene Vorlagen vor dem Aktualisieren in
    erneut **Weiter** anklicken; unveränderte Bilder werden wiederverwendet.
    **Kachel N neu zeichnen** erzeugt gezielt eine neue Bildvariante dieser Kachel.
 
-Es gibt nur eine Stilauswahl: klassischer Comic, Großstadt-Noir (düster),
-Ligne claire, Manga Schwarzweiß oder Aquarell-Reportage. Sie steuert Planung
-und Bilder. Großstadt-Noir zeigt Sysop als Erzähler-Silhouette im dunklen Mantel.
+Die gemeinsame Stilauswahl umfasst elf Stile, darunter klassischer Comic,
+Großstadt-Noir (düster), Ligne claire, Manga Schwarzweiß und Aquarell-Reportage.
+Die vollständige Liste steht in der [Stilübersicht](../../automation/comics/README.md#unterstützte-bildstile).
+Figuren erscheinen nur entsprechend ihrer Zuordnung zur jeweiligen Szene.
 Der [Beispielartikel](articles/marius-dick.txt) ist unverifiziertes Ausgangsmaterial;
 seine Zeitangaben werden aus dem Artikel übernommen.
 
@@ -225,3 +226,18 @@ Der [Comic-Automat](../../automation/comics/README.md) läuft in einem separaten
 Docker-Compose-Projekt und verwendet die eigene Vorlage **04_Comic_Automat_9B**.
 Er entwickelt Geschichten und Figuren, prüft seine Entwürfe, generiert Comics und
 exportiert die Ergebnisse über eine HTTP-Auftrags-API. Bestehende Workflows bleiben unverändert.
+
+## Elf Bildstile und Geschichtenverwaltung
+
+Zusätzlich zu den bisherigen fünf Stilen sind **Graphic Novel realistisch**,
+**Holzschnitt / Linolschnitt**, **Retro-Zeitungscomic**, **Europäischer Abenteuercomic**,
+**Science-Fiction / Cyberpunk** und **Warme Alltagsillustration** verfügbar.
+Die Auswahl gilt im Comic-Studio und im Automationsdienst sowie für die Skripte.
+Es werden dieselben lokalen Bildmodelle verwendet.
+
+Die [Redaktionsseite des Automaten](http://192.168.1.224:8090/) verwaltet nun
+bearbeitbare Geschichten getrennt von ihren erzeugten Ausgaben: Storyboard
+importieren, Titel und Szenen bearbeiten, Stil ändern, speichern, neu erzeugen oder
+löschen. Neue Ausgaben überschreiben bestehende Comics nicht.
+Einzelheiten zu Arbeitsweisen, Export und Löschregeln stehen in der
+[Verwaltungsanleitung](../../automation/comics/README.md#geschichten-auf-der-redaktionsseite-verwalten).

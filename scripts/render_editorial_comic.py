@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Render a reviewed storyboard locally, lay out pages, and export the bundle."""
+"""Ein geprüftes Storyboard lokal rendern und als Seiten, PDF und Paket exportieren."""
 import argparse
+import hashlib
 import io
 import json
 import os
@@ -26,11 +27,16 @@ def upload(container, job, folder):
     """Upload only this job's generated layout assets; never shared workflows."""
     stream = io.BytesIO()
     with tarfile.open(fileobj=stream, mode='w') as archive:
-        for name in ['comic.png', 'comic.pdf', 'pages', 'panels', 'workflow.json', 'README.txt']:
+        names = ['comic.png', 'comic.pdf', 'pages', 'panels', 'workflow.json', 'README.txt']
+        if (folder / 'local-review.json').exists(): names.append('local-review.json')
+        for name in names:
             archive.add(folder / name, arcname=name)
     docker(container,
-           'import sys,tarfile;from pathlib import Path;'
+           'import sys,tarfile,json,hashlib;from pathlib import Path;'
            'root=Path(__import__("os").getenv("DATA_DIR","/data"))/"jobs"/sys.argv[1];'
+           'report=root/"local-review.json";source=root/"editorial-source.json";'
+           'expected=hashlib.sha256(json.dumps(json.loads(source.read_text()),sort_keys=True).encode()).hexdigest();'
+           'report.unlink() if report.exists() and json.loads(report.read_text()).get("storyboard_hash")!=expected else None;'
            'tarfile.open(fileobj=sys.stdin.buffer,mode="r|").extractall(root,filter="data")',
            stream.getvalue(), (job,))
 
@@ -66,8 +72,18 @@ def run(args):
            json.dumps(payload, ensure_ascii=False).encode(), (job,))
     print('Bilder fertig. Erzeuge Teilseiten und PDF …', flush=True)
     layout(job, args.base_url, output)
+    local_check = getattr(args, 'local_check', False)
+    if local_check:
+        from comic_local_assistant import Assistant, check
+        print('Prüfe Texte und Bilder lokal; der Auftrag bleibt zur Sichtprüfung offen …', flush=True)
+        report = check(payload, Assistant(), output / 'panels')
+        (output / 'local-review.json').write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
+    elif (output / 'local-review.json').exists():
+        expected = hashlib.sha256(json.dumps(payload, sort_keys=True).encode()).hexdigest()
+        if json.loads((output / 'local-review.json').read_text()).get('storyboard_hash') != expected:
+            (output / 'local-review.json').unlink()
     upload(args.container, job, output)
-    if args.draft:
+    if args.draft or local_check:
         # Refresh the downloadable manifest without completing the job or deleting its cache.
         docker(args.container,
                'import os,sys;from storage import Store;from editorial import export;'
@@ -101,6 +117,7 @@ def main():
     parser.add_argument('--job', help='Offenen Auftrag nach Abbruch oder für Szenenänderungen fortsetzen')
     parser.add_argument('--output', type=Path, help='Ausgabeverzeichnis (Standard: diagnostics/comics/AUFTRAG)')
     parser.add_argument('--draft', action='store_true', help='Bearbeitbar lassen und Kachelcache behalten')
+    parser.add_argument('--local-check', action='store_true', help='Texte und Bilder mit lokalen Modellen vorprüfen; bleibt immer als Entwurf offen')
     parser.add_argument('--review', default='Automatisch gerendert und exportiert; keine visuelle Prüfung durch das Skript.', help='Prüfvermerk im Bericht')
     parser.add_argument('--container', default=os.getenv('COMIC_AUTOMATION_CONTAINER', 'comic-automation-comic-automation-1'))
     parser.add_argument('--base-url', default=os.getenv('COMIC_AUTOMATION_URL', 'http://192.168.1.224:8090'))

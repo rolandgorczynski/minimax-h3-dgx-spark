@@ -117,7 +117,11 @@ class Store:
         from feedback import CRITERIA
         with self.connect() as db:
             rows=db.execute('SELECT job_id,payload FROM feedback ORDER BY created_at DESC').fetchall()
-        averages={key:round(sum(json.loads(row['payload'])['bewertungen'][key] for row in rows)/len(rows),2) for key in CRITERIA} if rows else {}
+        values=[json.loads(row['payload']) for row in rows]
+        averages={}
+        for key in CRITERIA:
+            scores=[value.get('bewertungen',{})[key] for value in values if key in value.get('bewertungen',{})]
+            if scores:averages[key]=round(sum(scores)/len(scores),2)
         examples=[]
         for row in rows[:10]:
             story_path=self.directory(row['job_id'])/'story.json'

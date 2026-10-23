@@ -8,6 +8,12 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 FONT = Path(__file__).parent.parent/'dgx-invitations/fonts/manrope.ttf'
 
 
+def validate_character_states(value):
+    if not isinstance(value,dict) or len(value)>8 or any(not isinstance(key,str) or not re.fullmatch(r'[a-f0-9]{32}',key) or not isinstance(state,str) or not state.strip() or len(state)>1000 for key,state in value.items()):
+        raise ValueError('Ungültiger Figuren-Zustand je Kachel.')
+    return value
+
+
 def parse_scenes(serialized, count):
     if not 1 <= count <= 12:
         raise ValueError('Bitte 1 bis 12 Kacheln auswählen.')
@@ -33,6 +39,7 @@ def parse_scenes(serialized, count):
             item['characters'] = ids
         if 'bubbles' in scene:
             item['bubbles'] = validate_bubbles(scene['bubbles'])
+        if 'character_states' in scene:item['character_states']=validate_character_states(scene['character_states'])
         result.append(item)
     return result
 

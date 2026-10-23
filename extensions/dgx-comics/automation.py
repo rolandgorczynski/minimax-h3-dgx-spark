@@ -102,6 +102,51 @@ def register_automation_routes():
     from server import PromptServer
     if getattr(PromptServer,'instance',None) is None:
         return
+    @PromptServer.instance.routes.post('/dgx-comics/automation/retain-panel')
+    async def retain_panel(request):
+        try:
+            data=await request.json();root=session_directory(data['session']);index=data['panel']
+            if type(index) is not int or not 0<=index<12 or root.is_symlink():raise ValueError('Ungültige Kachel.')
+            running,pending=PromptServer.instance.prompt_queue.get_current_queue()
+            for entry in [*running,*pending]:
+                if entry[3].get('comic_automation_session')==data['session']:raise ValueError('Auftrag wird bereits gezeichnet.')
+            image=decode_image(data['png'])
+            if image.size!=(1024,704):raise ValueError('Unerwartete Größe der Originalillustration.')
+            target=root/'retained-panels'
+            if target.is_symlink():raise ValueError('Ungültiges temporäres Verzeichnis.')
+            target.mkdir(parents=True,exist_ok=True);image.save(target/f'{index+1:02}_art.png')
+            return web.json_response({'retained':index+1})
+        except (ValueError,KeyError,TypeError,OSError) as exc:return web.json_response({'error':str(exc)},status=400)
+
+    @PromptServer.instance.routes.post('/dgx-comics/automation/layout')
+    async def editorial_layout(request):
+        from .editorial_layout import render_layout
+        from . import design
+        import asyncio
+        try:
+            data=await request.json();session=data['session'];root=session_directory(session)
+            if root.is_symlink():raise ValueError('Ungültiges temporäres Verzeichnis.')
+            root=root.resolve()
+            source=data['source'];panels=data['panels']
+            if not isinstance(panels,list) or not 1<=len(panels)<=12 or len(source['scenes'])!=len(panels):raise ValueError('Ungültige Kachelzahl.')
+            def resolve(descriptor):
+                if descriptor.get('type')!='temp':raise ValueError('Nur private temporäre Bilder erlaubt.')
+                file=(Path(folder_paths.get_temp_directory())/descriptor['subfolder']/descriptor['filename']).resolve()
+                if not file.is_relative_to(root) or not file.is_file():raise ValueError('Bild gehört nicht zum Auftrag.')
+                return file
+            image=resolve(data['image']);originals=[resolve(p) for p in panels]
+            target=root/'web-layout'
+            if target.is_symlink():raise ValueError('Ungültiges Ausgabeverzeichnis.')
+            def produce():
+                target.mkdir(exist_ok=True);(target/'panels').mkdir(exist_ok=True)
+                shutil.copy2(image,target/'comic.png')
+                for i,file in enumerate(originals):shutil.copy2(file,target/f'panels/{i+1:02}_panel.png')
+                render_layout(target,source,data['workflow'],design)
+                return [{'name':str(p.relative_to(target)),'image':{'filename':p.name,'subfolder':str(p.parent.relative_to(folder_paths.get_temp_directory())),'type':'temp'}}
+                        for p in sorted(target.rglob('*')) if p.is_file()]
+            return web.json_response({'files':await asyncio.to_thread(produce)})
+        except (ValueError,KeyError,TypeError,OSError) as exc:return web.json_response({'error':str(exc)},status=400)
+
     @PromptServer.instance.routes.post('/dgx-comics/automation/check-plan')
     async def preflight(request):
         from .characters import read_cast

@@ -24,13 +24,17 @@ def validate_character(value):
     if not isinstance(value, dict):
         raise ValueError('Eine Figur muss ein Objekt sein.')
     result = {}
-    for key, limit in [('name', 100), ('description', 2500), ('outfit', 1000), ('story_outfit', 1000)]:
+    for key, limit in [('name', 100), ('description', 2500), ('outfit', 1000), ('story_outfit', 1000), ('backstory', 2500), ('personality', 1200), ('motivation', 1200)]:
         text = value.get(key, '')
         if not isinstance(text, str) or len(text) > limit:
             raise ValueError(f'{key}: maximal {limit} Zeichen.')
         result[key] = text.strip()
     if not result['name'] or not result['description']:
         raise ValueError('Name und festes Aussehen bitte ausfüllen.')
+    alignment=value.get('alignment','')
+    if not isinstance(alignment,str) or alignment not in ('','lawful_good','neutral_good','chaotic_good','lawful_neutral','true_neutral','chaotic_neutral','lawful_evil','neutral_evil','chaotic_evil'):
+        raise ValueError('Unbekannte Gesinnung.')
+    result['alignment']=alignment
     aliases = value.get('aliases', [])
     if not isinstance(aliases, list) or len(aliases) > 12 or any(not isinstance(x, str) or not x.strip() or len(x) > 100 for x in aliases):
         raise ValueError('Maximal 12 alternative Namen angeben.')
@@ -88,8 +92,10 @@ def scene_cast(scene, cast):
     return [c for c in cast if any(re.search(r'(?<!\w)'+re.escape(name)+r'(?!\w)', text, re.I) for name in [c['name'], *c['aliases']]) or c['id'] in speakers]
 
 
-def character_prompt(c):
+def character_prompt(c,state=''):
     outfit = c.get('story_outfit') or c['outfit']
+    if state:
+        return f"{c['name']} (ID {c['id']}): fixed facial identity: {c['description']}. Default clothing: {outfit}. Keep face, age and body consistent. Current appearance for THIS panel: {state}. This panel's explicit hairstyle and clothing take priority over earlier states and reference hairstyle; the face remains the same person."
     return f"{c['name']} (ID {c['id']}; aliases: {', '.join(c['aliases'])}): fixed identity: {c['description']}. Clothing: {outfit}. Keep face, age, hair and body consistent."
 
 
@@ -133,6 +139,8 @@ class CharacterLibrary:
             previous = json.loads(path.read_text()) if path.exists() else {}
             if value.get('version', 0) != previous.get('version', 0):
                 raise ValueError('Die Figur wurde inzwischen geändert. Bitte Bibliothek neu laden.')
+            for key in ('backstory','personality','motivation','alignment'):
+                if key not in value and key in previous:c[key]=previous[key]
             c['version'] = previous.get('version', 0)+1
             c.pop('story_outfit', None)
             for ref in c['references']:

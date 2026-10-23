@@ -86,6 +86,23 @@ class ComicRuntimeTests(unittest.TestCase):
                 run();self.assertEqual(gen.call_count,4)
                 self.assertEqual(len(gen.call_args.args[3]),1)
 
+    def test_retained_art_is_not_generated_and_panel_states_reach_prompt(self):
+        from PIL import Image
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);(root/'retained-panels').mkdir()
+            Image.new('RGB',(1024,704),'red').save(root/'retained-panels/01_art.png')
+            cast=[{'id':'a'*32,'name':'Ria','aliases':[],'description':'Gleiches Gesicht.','outfit':'Umhang','references':[]}]
+            scenes=[{'story':'Ria wartet.','dialog':'','characters':['a'*32]},
+                    {'story':'Ria sieht in den Spiegel.','dialog':'','characters':['a'*32],'character_states':{'a'*32:'Kinnlanger Bob.'}}]
+            with patch.object(g,'generate_panel',return_value=torch.zeros((1,32,32,3))) as generate:
+                result=m.DGXSysopComic().create(None,object(),object(),object(),2,2,'','', 'Noir',json.dumps(scenes),'',42,'comic',
+                    cast=cast,library_cast=True,output_directory=directory,image_type='temp',image_subfolder_prefix='comic-automation/test')
+            self.assertEqual(generate.call_count,1)
+            self.assertIn('Kinnlanger Bob.',generate.call_args.args[4])
+            self.assertIn('reference hairstyle',generate.call_args.args[4])
+            exported=next(root.glob('comic_*_panels/01_art.png'))
+            with Image.open(exported) as picture:self.assertEqual(picture.getpixel((20,20)),(255,0,0))
+
     def test_planner_receives_cast_and_preserves_reviewed_scenes(self):
         from comfy_extras.nodes_textgen import TextGenerate
         from comic_test_extension.story import plan_story, source_hash

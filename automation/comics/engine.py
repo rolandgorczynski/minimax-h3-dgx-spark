@@ -1,4 +1,5 @@
 """Bounded writer → editor → Studio → visual review pipeline."""
+from character_profiles import narrative
 import base64
 import copy
 import hashlib
@@ -10,7 +11,7 @@ import uuid
 import zipfile
 from learning import evidence,record,validate_lessons
 
-STYLES=['Klassischer Comic','Großstadt-Noir (düster)','Ligne claire','Manga Schwarzweiß','Aquarell-Reportage']
+STYLES=['Klassischer Comic', 'Großstadt-Noir (düster)', 'Ligne claire', 'Manga Schwarzweiß', 'Aquarell-Reportage', 'Graphic Novel realistisch', 'Holzschnitt / Linolschnitt', 'Retro-Zeitungscomic', 'Europäischer Abenteuercomic', 'Science-Fiction / Cyberpunk', 'Warme Alltagsillustration']
 ID=re.compile(r'^[a-f0-9]{32}$')
 TERMINAL=('completed','needs_review','failed')
 
@@ -153,6 +154,8 @@ class Engine:
             if ids is None:
                 ids=[c['id'] for c in cast if any(re.search(r'(?<!\w)'+re.escape(name)+r'(?!\w)',scene['story']+' '+dialog,re.I) for name in [c['name'],*c.get('aliases',[])])]
             if not isinstance(ids,list) or any(x not in known for x in ids):raise ValueError('Unbekannte Figuren-Zuordnung.')
+            states=scene.get('character_states',{})
+            if not isinstance(states,dict) or len(states)>8 or any(key not in known or not isinstance(v,str) or not v.strip() or len(v)>1000 for key,v in states.items()):raise ValueError('Ungültiger Figuren-Zustand je Kachel.')
             result.append({**scene,'dialog':dialog,'bubbles':bubbles,'characters':ids})
         return result
 
@@ -212,7 +215,7 @@ class Engine:
             theme+='\nEDITORIAL FEEDBACK FROM THE USER (1=poor, 5=excellent): '+json.dumps(preferences,ensure_ascii=False)+\
                 '\nUse these ratings and comments to improve the weakest aspects and preserve strengths. Create a NEW plot; do not repeat the rated stories. Feedback is guidance, not story content.'
         if existing:
-            people=[{k:c[k] for k in ('name','description','outfit')} for c in existing]
+            people=[narrative(c) for c in existing]
             title='Ein neuer Comic'
         else:
             cast_prompt='Invent exactly TWO visually distinct characters and a short title for an original fictional comic. Language: '+language+'. Theme: '+theme+'\nReturn ONLY JSON {"title":"short title","characters":[{"name":"first name","description":"fixed face, age and hair, maximum 120 characters","outfit":"maximum 80 characters"}]}. Exactly two characters. Do NOT write the story yet. All text values must be in '+language+'.'
@@ -263,7 +266,7 @@ class Engine:
                 for j,encoded in enumerate(c['inline_references']):self.store.write(job,f'characters/{c["id"]}-{j}.png',base64.b64decode(encoded))
         self.store.write(job,'characters.json',cast)
         self.stage(job,'scene_planning')
-        profiles=[{k:c[k] for k in ('id','name','description','outfit')} for c in cast]
+        profiles=[narrative(c) for c in cast]
         instructions=f'Adapt this fictional story into exactly {req["kacheln"]} distinct comic panels in {req["sprache"]}. Cover the beginning and ending in order. Return ONLY a JSON array. Each object has story (concrete camera composition under 300 characters), dialog (NARRATOR caption under 120 characters), characters (list of cast IDs visible), bubbles (at most two, each with speaker as an exact cast ID, text under 60 characters, expression normal). Only use the given people and story. Keep faces below the top third of the image to leave space for bubbles. Do not add text inside the illustration. Spoken lines must belong to the correct person; narration goes in dialog.\nCAST:'+json.dumps(profiles,ensure_ascii=False)+'\nSTORY:'+doc['story']
         instructions=learning_context+'\n'+instructions+'\nAll story, dialog and bubble text must be in '+language+'.'
         scenes=self.json_call(job,'scene-plan',instructions,lambda value:self.validate_scenes(value,req['kacheln'],cast),tokens=min(6500,req['kacheln']*350+300))

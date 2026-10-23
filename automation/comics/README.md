@@ -415,3 +415,299 @@ Optionen: `--output VERZEICHNIS`, `--base-url URL`, `--container CONTAINER`.
 Alternativ werden `COMIC_AUTOMATION_URL`, `COMIC_AUTOMATION_CONTAINER` und für
 HTTP-Zugriffe `COMIC_AUTOMATION_API_TOKEN` gelesen. Bei einem Abbruch vor dem
 Abschluss die ausgegebene ID mit `--job` weiterverwenden.
+
+## Lokale Vorarbeit und Bildprüfung im redaktionellen Skriptmodus
+
+Die getestete Arbeitsteilung mit Befunden, Grenzen und allen Aufrufen steht in
+[Lokale Arbeitsteilung](../../docs/Comic_Lokale_Arbeitsteilung.md).
+
+```bash
+python3 scripts/comic_local_assistant.py vorbereiten mein-artikel.txt --output diagnostics/mein-comic/quellenpaket.json
+python3 scripts/render_editorial_comic.py mein-storyboard.json --local-check
+```
+
+`--local-check` führt nach dem Rendern eine lokale Bildbeobachtung durch und lässt
+den Auftrag immer offen. `local-review.json` enthält ausschließlich Prüfhinweise.
+Geschichte und Szenen werden nicht umgeschrieben. Formale Regeln bleiben
+Skriptprüfungen. Ein semantischer Textvergleich wurde wegen beobachteter Fehlalarme
+nicht als Standard aktiviert. Die bisherigen Aufrufe ohne diese Option bleiben erhalten.
+
+## Geschichten auf der Redaktionsseite verwalten
+
+Unter `http://192.168.1.224:8090/` gibt es **Geschichten verwalten**:
+
+1. **Neue Geschichte** öffnet eine leere Definition.
+2. Ein fertiges Storyboard als JSON importieren oder eine vorhandene Ausgabe über
+   **Ausgewählte Ausgabe übernehmen** in eine bearbeitbare Geschichte kopieren.
+3. Titel, Artikel, Szenen, Erzählertexte, Sprechblasen und Bildstil bearbeiten.
+   Referenzbilder bleiben beim Import erhalten. Ein Stilwechsel löscht keine Szenen.
+4. **Definition speichern** sichert einen Bearbeitungsstand. Gleichzeitige Änderungen
+   in einem zweiten Browserfenster werden über die Versionsnummer erkannt.
+5. **Speichern und Comic erzeugen** erstellt eine eigene neue Ausgabe. Frühere
+   Ausgaben bleiben erhalten. Das eigene Storyboard wird nicht durch einen LLM
+   umgeschrieben; der Auftrag bleibt nach dem Rendering zur Sichtprüfung offen.
+6. **Storyboard herunterladen** exportiert die bearbeitete JSON zur Verwendung mit
+   dem Hostskript. Der Skriptablauf und die direkte redaktionelle Webproduktion verwenden dasselbe
+   Seitenlayout: Gesamtbild, Einzelkacheln, Teilseiten, PDF und ZIP mit Workflow.
+   Ein vorhandenes Sysop-Erzählerporträt wird dabei erhalten.
+
+Alternativ die Arbeitsweise **Geschichte mit lokalem Modell erfinden** wählen.
+Dann wird der Artikelbereich als Themenvorgabe an den bestehenden automatischen
+Ablauf übergeben. Dieser Modus darf die Geschichte ausarbeiten und verändern.
+
+**Geschichte löschen** entfernt ihre Definition und die mit ihr erzeugten Ausgaben.
+Eine nur als Vorlage übernommene Originalausgabe wird dabei nicht gelöscht.
+Einzelausgaben lassen sich separat löschen. Solange eine zugehörige Ausgabe läuft
+oder wartet, ist das Löschen gesperrt. Die gemeinsame Figurenbibliothek und
+ComfyUIs gespeicherte Workflows bleiben erhalten.
+
+Die Verwaltung speichert Definitionen in einer zusätzlichen Tabelle im bestehenden
+Automationsvolume. Ein Kopieren der Storyboard-Referenzen in die gemeinsame
+Figurenbibliothek findet nicht statt.
+
+### Schnittstellen
+
+Alle Endpunkte verwenden die vorhandene optionale Bearer-Anmeldung.
+
+| Aufruf | Zweck |
+|---|---|
+| `GET /styles` | Unterstützte Stile |
+| `GET /stories` | Kompakte Liste ohne eingebettete Referenzbilder |
+| `GET /stories/<ID>` | Vollständige Definition |
+| `POST /stories` | Definition mit `mode`, `name`, `payload` anlegen |
+| `POST /stories` mit `from_job` | Vorhandene Ausgabe als Definition übernehmen |
+| `PATCH /stories/<ID>` | Definition ändern; aktuelle `version` mitsenden |
+| `POST /stories/<ID>/generate` | Neue Ausgabe; aktuelle `version` mitsenden |
+| `DELETE /stories/<ID>` | Definition und zugehörige Ausgaben löschen; aktuelle `version` mitsenden |
+| `DELETE /jobs/<ID>` | Einzelne nicht laufende Ausgabe löschen |
+
+`mode` lautet `editorial` für unveränderte Storyboards oder `automatic` für den
+lokalen Geschichtenautor. `payload` enthält das Storyboard beziehungsweise die
+Parameter des bisherigen automatischen Aufrufs. Ein Versionskonflikt oder ein
+Löschversuch während der Erzeugung liefert HTTP 409.
+
+## Unterstützte Bildstile
+
+Die Auswahl umfasst elf Stile. Alle verwenden die vorhandenen lokalen Bildmodelle;
+die Unterschiede werden durch die jeweiligen Bildanweisungen definiert.
+
+| Stil | Bildwirkung |
+|---|---|
+| Klassischer Comic | Klare Konturen und zurückhaltende Farben |
+| Großstadt-Noir (düster) | Kaltes Blau, tiefe Schatten und filmische Großstadtstimmung |
+| Ligne claire | Gleichmäßige Linien, flächige Farben und präzise Architektur |
+| Manga Schwarzweiß | Tusche, Rasterflächen und expressive Bildkomposition |
+| Aquarell-Reportage | Wasserfarben, Papierstruktur und journalistische Zurückhaltung |
+| Graphic Novel realistisch | Detaillierte Texturen und filmische, realistische Darstellung |
+| Holzschnitt / Linolschnitt | Geschnittene Formen und starke Schwarzweiß-Kontraste |
+| Retro-Zeitungscomic | Begrenzte Farben und sichtbare Druckraster |
+| Europäischer Abenteuercomic | Lebendige Farben, klare Handlung und detailreiche Schauplätze |
+| Science-Fiction / Cyberpunk | Neonakzente, technische Architektur und futuristische Atmosphäre |
+| Warme Alltagsillustration | Weiches Licht, warme Farben und ruhige persönliche Szenen |
+
+
+## Einfacher Einstieg mit einem eingefügten Artikel
+
+Auf der Redaktionsseite stehen im normalen Ablauf nur Titel, Artikel, Bildstil
+und Kachelanzahl im Vordergrund. Der lokale Zugangsschlüssel ist unter
+**Verbindungseinstellungen** verborgen und schützt ausschließlich den Zugriff
+auf den lokalen Comic-Dienst. Hier keinen OpenAI- oder ChatGPT-Schlüssel eintragen.
+Ohne konfigurierten lokalen Zugangsschutz bleibt das Feld leer.
+
+1. Titel und Artikel eingeben, Stil und Kachelanzahl wählen.
+2. **Szenen erstellen** anklicken. Die lokalen Modelle planen Figuren und Kacheln
+   aus dem Originaltext. Es werden noch keine Bilder erzeugt.
+3. Die vorbereiteten Szenen prüfen und gegebenenfalls ändern.
+4. **Comic erzeugen** anklicken. Der bestätigte Szenenplan wird gerendert.
+
+Der Titel und der eingefügte Originalartikel bleiben erhalten. Die lokale Planung
+ist ein Vorschlag und keine automatische Faktenfreigabe. Nicht wörtlich im
+Original belegte Sprechblasen werden entfernt. Bei Änderungen in einem anderen
+Browserfenster überschreibt ein verspätetes Planungsergebnis diese nicht.
+
+Speicherstände werden intern weiterhin versioniert; technische Fassungsnummern
+werden in der normalen Oberfläche nicht mehr angezeigt. Arbeitsweise,
+Storyboard-Import/-Export und Übernahme alter Ausgaben stehen unter **Erweiterte
+Optionen**. Ein bereits vollständiges Storyboard kann direkt gerendert werden.
+Werden Artikel oder Kachelanzahl verändert, bietet die Seite erneut die Planung an;
+ein Stilwechsel erhält den Szenenplan.
+
+`POST /stories/<ID>/plan` startet die Vorplanung mit der aktuellen `version`.
+Planungsaufträge sind getrennt von erzeugten Comic-Ausgaben und führen niemals
+selbstständig zur Bilderzeugung. Ein erneuter gleichzeitiger Planungsauftrag
+für dieselbe Geschichte wird abgewiesen.
+
+
+### Fortschritt während der Szenenplanung
+
+Nach **Szenen erstellen** zeigt die Seite den aktuellen Arbeitsschritt, erledigte
+Schritte sowie Gesamtzeit und Dauer des aktuellen Schritts. Die Schritte lauten:
+Figuren erkennen, Geschichte in Kacheln aufteilen, Texte und Zuordnungen prüfen,
+Szenen bereitstellen. Eine notwendige Beschriftungskorrektur wird gesondert angezeigt.
+Während ein anderer Auftrag läuft, erscheint der Wartestatus.
+
+Die Anzeige fragt den laufenden Auftrag alle zwei Sekunden ab; die Zeit läuft
+sekündlich weiter. Die Schrittliste bleibt bei einem Fehler zur Einordnung sichtbar.
+Bei verbleibenden Beschriftungsproblemen bleibt der Entwurf bearbeitbar. Die
+Bilderzeugung prüft den korrigierten Plan erneut, bevor Bilder gezeichnet werden.
+Unbekannte Sprechblasen-Formatangaben lokaler Modelle werden auf das unterstützte
+Standardformat zurückgeführt; die gesprochenen Texte werden dabei nicht umgeschrieben.
+
+## Dieselbe Ausgabe anhand einer Bewertung verbessern
+
+**Diesen Comic anhand meiner Bewertung verbessern** ist eine eigene Aktion an der
+oben ausgewählten fertigen Ausgabe. Sie speichert die angezeigten Bewertungen und
+Bemerkungen und erstellt daraus einen neuen, getrennten Renderauftrag. Das ist
+etwas anderes als **Neue Geschichte erfinden**, das eine neue Handlung schreibt.
+
+Für die Verbesserung gilt:
+
+- Der aktuell oben ausgewählte **Bildstil** wird übernommen.
+- Die **Kachelanzahl stammt ausschließlich aus der bewerteten Ausgabe**. Eine
+  andere Zahl im Eingabeformular ändert sie bei dieser Aktion nicht.
+- Titel, Originalgeschichte, Figuren-IDs, Referenzbilder und gesprochene Zitate
+  bleiben erhalten. Änderungen betreffen Bildregie, sichtbare Zustände je Figur
+  und bei Bedarf Erzählertexte.
+- Wortgleiche Wiederholungen eines Sprechblasentexts im Erzählerkasten werden entfernt.
+- Pro Kachel können Zustände unter `character_states` festgehalten werden, etwa
+  Haarlänge oder Kleidung. Dadurch lässt sich eine Veränderung eindeutig einer
+  Figur zuordnen, während das Gesicht über die Referenz erhalten bleibt.
+- Bei gleichem Stil werden unveränderte Illustrationen übernommen; nur betroffene
+  Bilder werden neu erzeugt. Ein Stilwechsel zeichnet alle Bilder neu.
+- Das Original wird nicht überschrieben. Während es als Grundlage einer laufenden
+  Verbesserung benötigt wird, kann es nicht gelöscht werden.
+
+Die neue Ausgabe enthält `improvement-report.json` mit Bewertungsstand,
+Stilentscheidung, Kachelanzahl, entfernten Doppeltexten und Änderungen pro Kachel.
+Die Seite zeigt diese Angaben unter **Was geändert wurde**. Modellvorschläge und
+neue Bilder müssen weiterhin gesichtet werden; die neue Ausgabe bleibt zur
+Prüfung offen. Der gespeicherte Geschichtenentwurf wird nicht stillschweigend
+überschrieben.
+
+`POST /jobs/<ID>/improve` akzeptiert ausschließlich das optionale Feld `stil`.
+Kachelanzahl und andere unveränderliche Vorgaben werden nicht aus dem Aufruf
+übernommen. Fehlt eine gespeicherte Bewertung, wird der Aufruf abgewiesen.
+Die Bildkorrektur arbeitet mit lokalen Modellen. Der private Hilfsendpunkt
+`/dgx-comics/automation/retain-panel` übernimmt Originalillustrationen nur in die
+temporäre Umgebung des neuen Auftrags; gemeinsame Figuren und gespeicherte
+ComfyUI-Workflows werden dabei nicht verändert.
+
+
+### Kommentar ohne Punkte speichern
+
+Im optionalen Feedback genügt ein Kommentar. Alle fünf Punktbewertungen sind
+freiwillig und können unter **Punkte vergeben (optional)** einzeln ergänzt werden.
+Leere Auswahlfelder werden nicht als null Punkte gespeichert und fließen nicht in
+Durchschnittswerte ein. Auch ein reiner Kommentar kann für **Diesen Comic anhand
+meiner Bewertung verbessern** verwendet werden. Das Speichern allein startet
+weiterhin keinen neuen Lauf.
+
+API-Beispiel: `POST /jobs/<ID>/feedback` mit
+`{"kommentar":"Bitte die Sprechblasen korrigieren."}`. Ein vollständig leeres
+Feedback wird abgewiesen.
+
+## Comic-Bilder für Substack teilen
+
+Bei einer fertigen Ausgabe steht **Auf Substack teilen** neben den Downloads.
+Der Dialog verwendet ausschließlich bereits vorhandene Kacheln; er startet keine
+Geschichten-, Modell- oder Bildgenerierung.
+
+Unter **Meine Veröffentlichungsziele** trägst du deine Substack-Adresse und optional
+deine X-Adresse selbst ein. Beide Felder sind anfangs leer und bleiben frei
+änderbar. Die Einstellungen liegen dauerhaft im Automationsvolume. Das Eintragen
+einer Profiladresse verbindet kein Konto und erfordert keinen ChatGPT-Schlüssel.
+
+**Bildpaket laden und Substack öffnen** öffnet die gespeicherte Substack-Adresse
+und lädt eine ZIP-Datei mit nummerierten PNG-Kacheln, Titel und kurzer Anleitung.
+Die ZIP-Datei entpacken und die PNGs im Substack-Editor der Reihe nach einfügen.
+Dort Darstellung prüfen und veröffentlichen. Die Funktion meldet weder einen
+Upload noch eine Veröffentlichung, die sie nicht tatsächlich ausführt.
+
+Die Bilder behalten ihre Originalpixel. Technische PNG-Textdaten einschließlich
+eingebettetem ComfyUI-Workflow und Figurenreferenzen werden aus den Freigabekopien
+entfernt. Die Originaldateien und das vollständige Comic-Paket bleiben unverändert.
+Das Bildpaket enthält keine PDF. Einzelkacheln lassen sich im Dialog ansehen und
+separat herunterladen.
+
+Auf unterstützten Geräten bietet **Über eine App teilen** zusätzlich das native
+Teilen der Bilddateien an. Welche Apps erscheinen und Dateien akzeptieren, bestimmt
+das Gerät. Die Web Share API benötigt einen sicheren Browserkontext, gewöhnlich
+HTTPS oder localhost. Unter `http://192.168.1.224:8090` steht deshalb der
+Bildpaket-Weg zur Verfügung. Ein vollautomatischer Substack-Upload oder ein
+Veröffentlichen ohne den Substack-Editor ist mit dieser Version nicht eingerichtet.
+**Auf X teilen** öffnet denselben Bilddialog für X. Nach dem Speichern deiner
+frei wählbaren X-Profiladresse öffnet **Bildpaket laden und X öffnen** den
+X-Beitragseditor mit dem Titel als vorbereitetem Text und lädt die PNGs herunter.
+Die Bilder anschließend selbst anhängen; längere Comics lassen sich beispielsweise
+mit vier Kacheln je Beitrag als Thread veröffentlichen. **Mein X-Profil öffnen**
+öffnet die eingetragene Profiladresse. Diese Adresse wählt kein angemeldetes Konto
+aus: Prüfe das Konto im X-Editor. Es werden keine Bilder automatisch hochgeladen
+oder Beiträge automatisch veröffentlicht. Es sind keine X-API-Schlüssel erforderlich.
+Der Editor verwendet [X Web Intent](https://publish.x.com/); das Anhängen und
+Veröffentlichen erfolgt wie in der [X-Anleitung für Bilder](https://help.x.com/en/using-x/posting-gifs-and-pictures).
+
+| Aufruf | Zweck |
+|---|---|
+| `GET /sharing` | Gespeicherte, frei konfigurierbare Zieladressen |
+| `PUT /sharing` | `substack_url` und `x_url` speichern; leere Werte sind möglich |
+| `GET /jobs/<ID>/share` | Titel und nummerierte Bildadressen |
+| `GET /jobs/<ID>/share/images/01.png` | PNG-Kopie ohne technische Textmetadaten |
+| `GET /jobs/<ID>/share/images.zip` | Bildpaket aus vorhandenen Kacheln |
+
+Diese Endpunkte verwenden den vorhandenen optionalen lokalen Zugangsschutz.
+Sie senden keine Beiträge an externe Dienste.
+
+Quellen: [Beiträge auf Substack veröffentlichen](https://support.substack.com/hc/en-us/articles/360037831771-How-do-I-publish-a-new-post-on-Substack)
+und [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API).
+
+## Figuren unter „Erweiterte Optionen“
+
+**Figuren dieser Geschichte** zeigt die Besetzung mit Referenzbildern. Jede Karte
+lässt sich öffnen; Name, festes Aussehen, Kleidung, Vorgeschichte, Persönlichkeit,
+Motivation und Gesinnung sind bearbeitbar. Änderungen mit **Speichern** an der
+Geschichte sichern. Referenzbilder lassen sich als PNG, JPEG oder WebP hochladen;
+die Freigabe erfolgt weiterhin ohne private Referenzbilder und Profilangaben.
+
+Die Gesinnung ist freiwillig. Das klassische RPG-Raster verbindet
+rechtschaffen / neutral / chaotisch mit gut / neutral / böse. **Nicht festgelegt**
+ist die Standardeinstellung und ausdrücklich etwas anderes als **Neutral**.
+Nicht gesetzte Werte werden dem Szenenmodell nicht als Gesinnung vorgegeben.
+Bei journalistischen Artikeln sind diese Angaben Gestaltungsvorgaben und dürfen
+keine unbelegten Aussagen oder Änderungen an der gelieferten Handlung erzeugen.
+
+Die **Wiederverwendbare Figurenbibliothek** zeigt auch Sysop und andere gespeicherte
+Figuren. **In diese Geschichte übernehmen** legt eine bearbeitbare Kopie mit
+Referenzbildern an. **Bibliotheksfigur speichern** ändert das wiederverwendbare
+Profil; **In Bibliothek speichern** übernimmt einen Geschichtencharakter in die
+Bibliothek. Vorhandene Figuren-IDs werden dabei erhalten. Bibliotheksänderungen
+werden mit Versionsprüfung gespeichert, damit parallele Bearbeitung nicht
+unbemerkt überschrieben wird.
+
+**Aussehen & Gesinnung neu erzeugen** startet ausschließlich einen Figurenauftrag
+mit den eingerichteten lokalen Modellen: Das lokale Sprachmodell entwirft die
+Beschreibung und optional eine RPG-Gesinnung; ComfyUI zeichnet ein neues
+Referenzbild im oben gewählten Stil. ID, Name, Vorgeschichte, Persönlichkeit,
+Motivation und Kleidung bleiben erhalten. Ohne Haken bei **Beim Neuerzeugen auch
+eine Gesinnung bestimmen** bleibt die neue Gesinnung nicht festgelegt.
+Das Ergebnis wird zunächst im Editor gezeigt und muss gespeichert werden.
+Diese Funktion erzeugt keinen neuen Comic und ändert keine gespeicherten Workflows.
+Bereits gerenderte Comic-Bilder werden durch Profiländerungen nicht verändert.
+
+**Aus Geschichte löschen** entfernt die Figur sowie ihre Sprecherzuordnungen und
+Sprechblasen aus dem Entwurf; die Szenentexte danach selbst prüfen. **Aus Bibliothek
+löschen** entfernt das wiederverwendbare Profil, bewahrt aber gespeicherte
+Figurenkopien und unveränderliche Referenzdateien. Wird eine Figur von einer
+Definition noch direkt über eine Bibliotheks-ID verwendet, wird das Löschen
+verhindert, bis diese Geschichte eine eigene Kopie enthält.
+
+| Aufruf | Zweck |
+|---|---|
+| `GET /characters` | Bibliothek und auswählbare Gesinnungen |
+| `POST /characters` | Bibliotheksprofil mit Versionsprüfung speichern |
+| `DELETE /characters/<ID>` | Bibliotheksprofil mit Versionsangabe entfernen |
+| `GET /characters/<ID>/references/<DATEI>` | Gespeichertes Referenzbild anzeigen |
+| `POST /characters/regenerate` | Lokalen Figurenauftrag anlegen, Felder `profile`, `style`, `determine_alignment` |
+| `GET /characters/regenerations/<AUFTRAGS-ID>` | Fortschritt und nach Abschluss das neue Profil |
+
+Der Figurenauftrag läuft in derselben dauerhaften Warteschlange wie Comics,
+übernimmt deren lokalen Zugangsschutz und bereinigt nur seine eigene ComfyUI-Sitzung.

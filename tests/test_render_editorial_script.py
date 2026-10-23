@@ -1,5 +1,6 @@
 """Export orchestration must not complete a job when page generation fails."""
 import argparse
+import io
 import importlib.util
 import json
 from pathlib import Path
@@ -15,6 +16,18 @@ m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 
 
 class ScriptTests(unittest.TestCase):
+    def test_local_check_never_completes_even_without_model_warnings(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);source=root/'story.json'
+            source.write_text(json.dumps({'title':'Titel','article':'Text','scenes':[{'story':'Ein Raum.'}]}))
+            args=argparse.Namespace(source=source,job='a'*32,output=root/'output',container='test',base_url='http://localhost',draft=False,review='Test',local_check=True)
+            with patch.object(m,'docker') as docker,patch.object(m,'upload'),patch('layout_editorial_comic.layout'),patch('comic_local_assistant.Assistant'),patch('comic_local_assistant.check',return_value={'automatische_freigabe':False}),patch.object(m.urllib.request,'urlopen',return_value=io.BytesIO(b'zip')):
+                m.run(args)
+            self.assertEqual(docker.call_count,2)
+            self.assertIn('editorial_review',docker.call_args.args[1])
+            self.assertNotIn('finalize',docker.call_args.args[1])
+            self.assertTrue((args.output/'local-review.json').exists())
+
     def test_layout_failure_never_uploads_or_finalizes(self):
         with tempfile.TemporaryDirectory() as directory:
             root=Path(directory);source=root/'story.json'

@@ -68,13 +68,17 @@ class Comfy:
                 raise ComfyError(f'Zeitlimit für eigenen ComfyUI-Auftrag {ident}; laufende Aufgaben werden nicht abgebrochen.')
             time.sleep(self.poll)
 
-    def download(self,session,descriptor):
+    def download(self,session,descriptor,kind='png'):
         prefix='comic-automation/'+session
         folder=descriptor.get('subfolder','')
         if descriptor.get('type')!='temp' or not (folder==prefix or folder.startswith(prefix+'/')) or any(part in ('.','..') for part in folder.split('/')) or '\\' in folder or '/' in descriptor.get('filename','') or '..' in descriptor.get('filename',''):
             raise ComfyError('Unerwarteter Ausgabepfad; keine fremden Ergebnisse abrufen.')
         data=self.request('GET','/view?'+urllib.parse.urlencode(descriptor))
-        if not isinstance(data,bytes) or not data.startswith(b'\x89PNG\r\n\x1a\n'):raise ComfyError('Ungültiges PNG-Ergebnis.')
+        if kind=='json' and isinstance(data,dict):return (json.dumps(data,ensure_ascii=False,indent=2)+'\n').encode()
+        if kind=='text' and isinstance(data,bytes):
+            data.decode('utf-8');return data
+        magic={'png':b'\x89PNG\r\n\x1a\n','pdf':b'%PDF'}.get(kind)
+        if not magic or not isinstance(data,bytes) or not data.startswith(magic):raise ComfyError('Ungültiges '+kind.upper()+'-Ergebnis.')
         return data
 
     def cleanup(self,session):

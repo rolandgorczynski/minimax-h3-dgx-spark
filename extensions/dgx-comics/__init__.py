@@ -112,7 +112,7 @@ class DGXSysopComic:
             text = '\n'.join([
                 'Create one new comic panel. Preserve the scene events and composition. The selected visual style controls palette and lighting.',
                 *identity_rules, stil, 'Scene: '+scene['story'],
-                *([character_prompt(c) for c in active]),
+                *([character_prompt(c,scene.get('character_states',{}).get(c['id'],'')) for c in active]),
                 *reference_instructions,
                 *(['The saved character profiles and current clothing define the assigned subjects.'] if active else []),
                 'One scene only, no grid, no lettering, no words, no speech bubbles, no captions, no watermark.'])
@@ -120,7 +120,10 @@ class DGXSysopComic:
             cache_key = hashlib.sha256(json.dumps([text, panel_seed, reference_key, [(c['id'], asset) for c, asset in references],
                 model_identity if model_identity is not None else [id(model), id(clip), id(vae)]]).encode()).hexdigest()
             cached = cache/(cache_key+'.png')
-            if reuse_panels and cached.exists():
+            retained = Path(output)/'retained-panels'/f'{i+1:02}_art.png' if image_type=='temp' else None
+            if retained and retained.is_file():
+                with Image.open(retained) as existing:art=existing.convert('RGB')
+            elif reuse_panels and cached.exists():
                 with Image.open(cached) as existing:
                     art = existing.convert('RGB')
             else:

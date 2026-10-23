@@ -44,6 +44,11 @@ class ComicTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'zu lang'):
             design.panel(art, 'W'*500, 1)
 
+    def test_panel_character_states_survive_scene_parsing(self):
+        scene={'story':'Eine Person sitzt am Fenster.','dialog':'','characters':['a'*32],'character_states':{'a'*32:'Kinnlanger Bob.'}}
+        self.assertEqual(design.parse_scenes(json.dumps([scene]),1)[0]['character_states'],scene['character_states'])
+        with self.assertRaises(ValueError):design.parse_scenes(json.dumps([{**scene,'character_states':{'falsch':'Bob'}}]),1)
+
     def test_multiple_bubbles_have_separate_speakers_and_movable_tails(self):
         art=Image.new('RGB',(1024,704),'#224466')
         bubbles=design.validate_bubbles([
