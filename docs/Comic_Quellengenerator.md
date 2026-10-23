@@ -116,3 +116,10 @@ Automat. Die Oberfläche übernimmt diese Aufrufe.
 Quellenskriptaufträge sind Hilfsaufträge und erscheinen nicht zwischen den
 Comic-Bildausgaben. Lokale LLM-Konfiguration und vorhandene Renderworkflows
 bleiben unverändert. Es wird kein externer Modellanbieter angesprochen.
+
+## Quellenpaket mit zehn Heldensagen
+
+Zehn zusätzliche, einzeln auswählbare Vorlagen behandeln Mut, Treue, Ausdauer
+und Versöhnung. [Übersicht und Import](../examples/comics/sources/README.md).
+Die Textgrundlagen sind neu formuliert; die alten Stoffe und die jeweils
+gewählten Ausschnitte sind mit Herkunft und Abgrenzung dokumentiert.
