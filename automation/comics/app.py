@@ -260,12 +260,16 @@ class Handler(BaseHTTPRequestHandler):
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
             except (ComfyError,OSError) as exc:return self.reply(409,{'error':str(exc)})
         if parts[0]=='stories':return self.story_action(parts,'POST')
-        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2] in ('feedback','next','improve'):
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2] in ('feedback','next','improve','dismiss-plan'):
             if not self.authorized():return
             try:
                 size=int(self.headers.get('Content-Length','0'))
                 if not 0<=size<=65536:raise ValueError('Maximal 64 KB senden.')
                 value=json.loads(self.rfile.read(size)) if size else {}
+                if parts[2]=='dismiss-plan':
+                    if value!={}:raise ValueError('Fehler ohne weitere Parameter schließen.')
+                    self.service.stories.dismiss_plan(parts[1])
+                    return self.reply(200,{'dismissed':True})
                 if parts[2]=='feedback':
                     job=self.service.store.save_feedback(parts[1],validate_feedback(value))
                     return self.reply(200,{'saved':True,'feedback':job['feedback'],'applies_to':'future_jobs_and_explicit_improvements'})

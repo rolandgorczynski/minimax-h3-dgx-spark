@@ -99,4 +99,18 @@ class StoriesTests(unittest.TestCase):
         self.assertEqual(self.store.list(),[])
 
 
+class DismissPlanningTests(unittest.TestCase):
+    def test_failed_plan_can_be_closed_without_touching_definition(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);stories=Stories(store);original=stories.save(definition())
+            job=stories.plan(original['id'],original['version'])
+            with self.assertRaises(Conflict):stories.dismiss_plan(job['id'])
+            store.stage(job['id'],'failed',status='failed',error='Alter Modellfehler')
+            stories.dismiss_plan(job['id'])
+            self.assertTrue(store.get(job['id'])['planning_dismissed'])
+            self.assertEqual(store.get(job['id'])['error'],'Alter Modellfehler')
+            self.assertEqual(stories.get(original['id']),original)
+            retry=stories.plan(original['id'],original['version'])
+            self.assertNotEqual(retry['id'],job['id'])
+
 if __name__=='__main__':unittest.main()

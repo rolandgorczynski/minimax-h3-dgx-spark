@@ -820,3 +820,12 @@ Originaltexte werden aus der Dialogliste eingesetzt. Dadurch führen erfundene
 Zitat-IDs oder versehentlich verwendete unsichere Zitate nicht mehr zum Abbruch
 `Nur gesprochene Zitat-IDs als Sprechblasen verwenden`. Bildbeschreibungen und
 Sprecherzuordnungen aus dem Kontext bleiben vor dem Rendern redaktionell zu prüfen.
+
+Bei einer fehlgeschlagenen Szenenplanung ist der Auftrag bereits beendet.
+Der Fortschrittsbalken läuft dann nicht weiter. Direkt im Fehlerbereich stehen
+**Szenenplanung neu starten** und **Fehler schließen** bereit. Schließen markiert
+den alten Fehler dauerhaft als erledigt, ohne Artikel, Figuren, vorhandene
+Szenen oder die gespeicherte Fehlerdiagnose zu löschen. Ein Neustart geschieht
+nur nach ausdrücklichem Klick. Dafür steht auch weiterhin **Erweiterte Optionen →
+Szenen neu planen** zur Verfügung. Die Hauptschaltflächen werden nach einem
+Fehler wieder freigegeben.

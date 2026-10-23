@@ -207,6 +207,13 @@ class Stories:
         return len(owned)
 
     @serialized
+    def dismiss_plan(self,ident):
+        job=self.store.get(ident)
+        if not job:raise KeyError(ident)
+        if not job.get('planning_mode') or job['status']!='failed':raise Conflict('Nur eine fehlgeschlagene Szenenplanung kann geschlossen werden.')
+        return self.store.update(ident,planning_dismissed=True)
+
+    @serialized
     def delete_job(self,ident):
         with self.store.connect() as db:
             db.execute('BEGIN IMMEDIATE');row=db.execute('SELECT doc FROM jobs WHERE id=?',(ident,)).fetchone()
