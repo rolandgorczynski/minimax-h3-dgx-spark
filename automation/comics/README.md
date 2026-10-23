@@ -894,3 +894,10 @@ Impressum, Texte für Anfang und Ende, Klappentext und Druckeinstellungen
 festgelegt werden. Die Dateien entstehen aus vorhandenen Kacheln ohne neuen
 Bildlauf. Details, KDP-Prüfungen, Einschränkungen und API stehen in
 [Comic-Bücher für KDP](../../docs/Comic_Buecher_KDP.md).
+
+## Bücher und Filme als Vorlagen
+
+Der neue Quellenbereich erstellt lokal ein bearbeitbares deutsches Comic-Skript
+und übernimmt es direkt als neue Geschichte. Bilder werden erst nach deiner
+Prüfung gestartet. Quellen sind erweiterbar und bleiben gespeichert.
+[Bedienung, Skriptformat und API](../../docs/Comic_Quellengenerator.md).

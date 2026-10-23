@@ -45,6 +45,14 @@ class BooksTests(unittest.TestCase):
             self.assertEqual(before,{p.name:p.read_bytes() for p in (store.directory(parent['id'])/'panels').iterdir()})
             self.assertEqual(len(store.list()),2)
 
+    def test_source_author_is_only_an_editable_default(self):
+        with tempfile.TemporaryDirectory() as root:
+            store,parent=comic(root,2)
+            path=store.directory(parent['id'])/'editorial-source.json';data=json.loads(path.read_text());data['book_author']='Mein Pseudonym';store.write(parent['id'],'editorial-source.json',data)
+            self.assertEqual(books.settings(store,parent)['settings']['author'],'Mein Pseudonym')
+            settings=books.settings(store,parent)['settings'];settings['author']='Anderer Name';books.save_settings(store,parent,settings)
+            self.assertEqual(books.settings(store,parent)['settings']['author'],'Anderer Name')
+
     def test_short_book_is_explicit_draft_without_filling_blank_pages(self):
         with tempfile.TemporaryDirectory() as root:
             store,parent=comic(root,2);settings=books.defaults('Kurzer Comic');settings['author']='Autor'

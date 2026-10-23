@@ -77,7 +77,10 @@ class Service:
                 self.stop.wait(3);continue
             ident=job['id'];LOG.info('Starting %s',ident)
             try:
-                if job.get('book_mode'):
+                if job.get('source_mode'):
+                    from source_generator import run
+                    result=run(self.engine,ident)
+                elif job.get('book_mode'):
                     from books import run
                     result=run(self.store,ident)
                 elif job.get('panel_correction_mode'):
@@ -142,11 +145,16 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
         if not self.authorized():return
+        if path=='/sources':
+            from source_generator import catalog
+            return self.reply(200,{'sources':catalog(self.service.store)})
+        if path.startswith('/source-tasks/'):
+            return self.source_read(path)
         if path=='/styles':return self.reply(200,{'styles':STYLES})
         if path=='/sharing':return self.reply(200,sharing.settings(self.service.store))
         if path=='/characters':
@@ -160,7 +168,7 @@ class Handler(BaseHTTPRequestHandler):
         if path=='/ready':
             try:return self.reply(200,self.service.capabilities())
             except Exception as exc:return self.reply(503,{'ready':False,'error':str(exc)[:2000]})
-        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list() if not job.get('character_mode') and not job.get('book_mode')]})
+        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list() if not job.get('character_mode') and not job.get('book_mode') and not job.get('source_mode')]})
         parts=path.strip('/').split('/')
         if len(parts)==3 and parts[:2]==['characters','regenerations'] and ID.fullmatch(parts[2]):
             job=self.service.store.get(parts[2])
@@ -233,6 +241,8 @@ class Handler(BaseHTTPRequestHandler):
         except (FileNotFoundError,ValueError,TypeError):return {'available':False}
 
     def do_POST(self):
+        if urlsplit(self.path).path in ('/sources','/source-tasks') or urlsplit(self.path).path.startswith('/source-tasks/'):
+            return self.source_action()
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-export':
             return self.book_action(parts[1],True)
@@ -317,6 +327,8 @@ class Handler(BaseHTTPRequestHandler):
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(False)
     def do_PUT(self):
+        if urlsplit(self.path).path.startswith('/source-tasks/'):
+            return self.source_action()
         parts=urlsplit(self.path).path.strip('/').split('/')
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-settings':return self.book_action(parts[1],False)
         if urlsplit(self.path).path=='/sharing':
@@ -327,6 +339,44 @@ class Handler(BaseHTTPRequestHandler):
                 return self.reply(200,sharing.save_settings(self.service.store,json.loads(self.rfile.read(size))))
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(True)
+
+    def source_read(self,path):
+        parts=path.strip('/').split('/')
+        if len(parts)!=2 or not ID.fullmatch(parts[1]):return self.reply(404,{'error':'Skriptauftrag nicht gefunden.'})
+        job=self.service.store.get(parts[1])
+        if not job or not job.get('source_mode'):return self.reply(404,{'error':'Skriptauftrag nicht gefunden.'})
+        result=self.public(job)
+        result['source_input']=json.loads((self.service.store.directory(job['id'])/'source-input.json').read_text())
+        if job['status']=='completed':
+            result['script']=(self.service.store.directory(job['id'])/'source-script.txt').read_text()
+        return self.reply(200,result)
+
+    def source_action(self):
+        if not self.authorized():return
+        try:
+            size=int(self.headers.get('Content-Length','0'))
+            if not 0<size<=2_000_000:raise ValueError('Daten maximal 2 MB.')
+            value=json.loads(self.rfile.read(size))
+            if not isinstance(value,dict):raise ValueError('JSON-Objekt erforderlich.')
+            import source_generator as sources
+            parts=urlsplit(self.path).path.strip('/').split('/')
+            with self.service.stories.lock:
+                if parts==['sources']:return self.reply(200,sources.save_source(self.service.store,value))
+                if parts==['source-tasks']:return self.reply(202,self.public(sources.enqueue(self.service.store,value)))
+                if len(parts)==3 and parts[0]=='source-tasks' and ID.fullmatch(parts[1]) and parts[2]=='script' and self.command=='PUT':
+                    job=self.service.store.get(parts[1])
+                    if not job or not job.get('source_mode'):raise KeyError(parts[1])
+                    if job['status']!='completed':raise Conflict('Das Skript wird noch erstellt oder ist fehlgeschlagen.')
+                    sources.parse(value.get('script'),job['request']['stil'])
+                    self.service.store.write(parts[1],'source-script.txt',value['script'].encode('utf-8'))
+                    return self.reply(200,{'saved':True})
+                if len(parts)==3 and parts[0]=='source-tasks' and ID.fullmatch(parts[1]) and parts[2]=='adopt':
+                    return self.reply(201,sources.adopt(self.service.stories,self.service.store,parts[1],value))
+            return self.reply(404,{'error':'Endpunkt nicht gefunden.'})
+        except Conflict as exc:return self.reply(409,{'error':str(exc)})
+        except KeyError:return self.reply(404,{'error':'Quelle oder Skript nicht gefunden.'})
+        except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+        except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
 
     def book_action(self,ident,generate):
         if not self.authorized():return

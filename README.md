@@ -276,3 +276,5 @@ Der Comic-Automat unterstützt außerdem eine frei wählbare positive Kachelanza
 und einen Buch-Export mit Autor, Vor-/Nachwort, Kindle-EPUB, Taschenbuch-Buchblock
 und vollständigem Umschlag. Die Druckdateien enthalten Prüfhinweise für Amazon
 KDP. Siehe [Comic-Bücher für KDP](docs/Comic_Buecher_KDP.md).
+
+Comic-Vorlagen aus Büchern und Filmen: [Quellengenerator](docs/Comic_Quellengenerator.md).

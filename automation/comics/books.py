@@ -52,12 +52,13 @@ def source(store,parent):
     for i in range(len(scenes)):
         if f'panels/{i+1:02}_panel.png' not in listed or not(root/f'panels/{i+1:02}_panel.png').is_file():raise ValueError('Unvollständiger Comic: Kachel '+str(i+1)+' fehlt.')
     cast=json.loads((root/'characters.json').read_text()) if (root/'characters.json').exists() else []
-    return {'title':data.get('title',parent.get('story_title','Comic')),'narrator_badge':bool(data.get('narrator_badge')),'scenes':scenes,'characters':[{'id':c['id'],'name':c['name']} for c in cast]}
+    return {'book_author':data.get('book_author',''),'title':data.get('title',parent.get('story_title','Comic')),'narrator_badge':bool(data.get('narrator_badge')),'scenes':scenes,'characters':[{'id':c['id'],'name':c['name']} for c in cast]}
 
 
 def settings(store,parent):
     data=store.integration_get('book-'+parent['id']) or {};src=source(store,parent)
-    return {'settings':data.get('settings',defaults(src['title'])),'panel_count':len(src['scenes']),'last_export':data.get('last_export')}
+    initial=defaults(src['title']);initial['author']=src.get('book_author','')
+    return {'settings':data.get('settings',initial),'panel_count':len(src['scenes']),'last_export':data.get('last_export')}
 
 
 def save_settings(store,parent,value):
