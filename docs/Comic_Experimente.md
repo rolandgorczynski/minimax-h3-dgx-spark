@@ -110,3 +110,81 @@ Bestehende Bearer-Authentifizierung verwenden.
 Änderungsgründe und Prüfhinweise. Unter `reports/` stehen Modellantworten und
 Sprachentscheidungen. Fertige Varianten enthalten die üblichen Comic-,
 Einzelkachel-, Teilseiten- und PDF-Dateien sowie das Gesamtpaket.
+
+## Erzählweisen mit bekannten Vorbildern
+
+Zusätzlich zum Bildstil gibt es im Experimentdialog **Erzählweise / Vorbild**:
+
+| Auswahl | Redaktioneller Schwerpunkt |
+|---|---|
+| Passend zur Geschichte | Ziel, Widerstand, Entscheidung und Konsequenz aus der eigenen Vorlage entwickeln |
+| Emotionales Abenteuer · Vorbild One Piece | Persönlicher Wunsch, Bindung, Rückschlag und emotional eingelöster Höhepunkt |
+| Abenteuer & Humor · Vorbild Asterix | Verständliches Abenteuerziel, unterschiedliche Stimmen, vorbereitete komische Zuspitzung und Schluss-Pointe |
+| Düstere Spannung · Vorbild Batman | Offene Frage, sichtbare Hinweise, innere Unsicherheit, folgenschwere Entscheidung und nachhallender Schluss |
+
+Das sind selbst formulierte Erzählwerkzeuge, abgeleitet aus bekannten Reihen.
+Sie verändern nicht automatisch den vorhandenen Zeichenstil. Namen, Figuren,
+Kostüme und konkrete Handlungen der Vorbilder werden nicht in die Regieanweisung
+übernommen. Eigene Figuren und Welt bleiben die Grundlage. Die Auswahl löst
+keinen Download oder Trainingslauf aus; Modellgewichte bleiben unverändert.
+
+Die Regieplanung muss jetzt konkret benennen:
+
+- Was die Hauptfigur will.
+- Was bei einem Scheitern auf dem Spiel steht.
+- Welches Hindernis ihr entgegensteht.
+- Welche Entscheidung den Verlauf verändert.
+- Welche Ereignisfolgen verbindlich bleiben, etwa Tod, Verletzungen oder
+  Veränderungen an Kleidung und Gegenständen.
+- Was die einzelnen Abschnitte erzählen und welche Veränderung sie bewirken.
+
+Ein verbindlicher Plan verteilt Einstieg, Ziel, Druck, Wendung, Entscheidung und
+Konsequenz auf die tatsächliche Kachelanzahl. Bei kurzen Comics werden Aufgaben
+zusammengefasst; umfangreiche Comics erhalten entsprechend größere Bereiche.
+Jede neue Kachel muss ihre konkrete Veränderung und ihr Bildmittel benennen.
+Die Prüfung betrachtet die tatsächliche Szene, nicht nur diese Selbstauskunft.
+Bewusste Ruhe ist zulässig; bedeutungslose Wiederholung soll korrigiert werden.
+Der vollständige Plan steht im Änderungsbericht.
+
+Für eine andere Dramaturgie **Dramaturgie und Dialoge frei zuspitzen** wählen.
+Bei **nur Bildkomposition** bleiben Handlung und Wortlaut festgeschrieben; die
+Erzählmechaniken dürfen dort nur vorhandene Inhalte stärker sichtbar machen.
+
+Diese Vorgaben ersetzen keine Sichtprüfung der generierten Bilder. Zusätzliche
+Gliedmaßen, verwechselte Figuren oder ein nach seinem Tod wieder aktiver Drache
+sind konkrete Fehler. Die letzten beiden betreffen außerdem die Kontinuität,
+die der Plan ausdrücklich führen muss. Anatomiefehler können weiterhin über
+**Ein Bild korrigieren** in einer neuen Ausgabe gezielt überarbeitet werden.
+
+### Quellen und Herleitung
+
+Die Auswahl ist keine aktuelle Weltrangliste und kein offizielles Erfolgsrezept.
+Offizielle Verlagsbeschreibungen und dokumentierte Reichweite dienen als
+Referenz; die operativen Regeln sind eigene redaktionelle Ableitungen.
+
+- **One Piece:** Shueisha dokumentiert für 2022 eine weltweite Auflage von
+  510 Millionen Exemplaren. [Verlagschronik](https://www.shueisha.co.jp/history/detail/2022.html).
+  Die offizielle Veröffentlichung *Episode of EASTBLUE* beschreibt Träume,
+  gemeinsame Reisen und emotionale Bindungen als zentrale Motive.
+  [Offizielle Produktbeschreibung](https://avex.jp/onepiece/products/detail.php?artist_cd=OPLCX&id=1016296).
+- **Asterix:** Hachette nennt 400 Millionen verkaufte Alben und beschreibt die
+  Verbindung von wiederkehrenden Figuren und neuen Abenteuerreisen.
+  [Verlagsbeschreibung](https://www.hachette.com/actualite/asterix-et-obelix-repartent-en-voyage-le-23-octobre/).
+  Eine weitere offizielle Albumvorstellung verbindet ein scheinbar positives
+  Versprechen mit verborgenen Absichten.
+  [L’Iris blanc](https://www.hachette.com/actualite/liris-blanc-le-nouvel-album-dasterix-aux-editions-albert-rene/).
+- **Batman:** DC beschreibt in *Gotham Nocturne* Ermittlungen, schleichende
+  Bedrohung und innere Konflikte.
+  [Offizielle Albumseite](https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-1-gotham-nocturne-overture).
+  Sichtbare Hinweise, Beweise und Rätsel stehen im *Mystery Casebook* im Vordergrund.
+  [Offizielle Beschreibung](https://www.dc.com/graphic-novels/batmans-mystery-casebook).
+
+## Zur vorherigen Fassung zurückkehren
+
+Bei einer ausgewählten Experiment-Ausgabe steht **← Vorherige Fassung** direkt
+bei den Download-, Teilen- und Sprechblasen-Schaltflächen. Der Wechsel ist schon
+während des Experiments und auch nach einem Fehler möglich. Er öffnet die
+unveränderte unmittelbare Basis, ohne etwas neu zu zeichnen oder die Variante
+zu löschen. Ein laufender Auftrag läuft dabei weiter. Über die Auswahlliste
+kann jederzeit wieder zum Experiment gewechselt werden. Bei mehreren aufeinander
+aufbauenden Experimenten führt der Knopf jeweils eine Stufe zurück.

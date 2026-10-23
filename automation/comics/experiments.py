@@ -11,6 +11,7 @@ from PIL import Image,ImageDraw
 from engine import Engine,validate_request,valid_review
 from lettering import source as original_source,DESIGN
 from stories import Conflict
+from narrative_profiles import PROFILES,profile_prompt,beat_slots
 
 DIRECTIONS={'tension':'Spannung','anger':'Wut / emotionale Reibung','action':'Action','blood':'Blut / sichtbare Konsequenzen','dialogue':'Dialoge mit Biss','visuals':'Filmische Bildwirkung'}
 DEFAULTS={'tension':2,'anger':1,'action':1,'blood':0,'dialogue':2,'visuals':2}
@@ -19,18 +20,20 @@ DEFAULTS={'tension':2,'anger':1,'action':1,'blood':0,'dialogue':2,'visuals':2}
 def options(store,parent):
     if parent['status'] not in ('completed','needs_review'):raise Conflict('Eine fertige Comic-Ausgabe als Basis auswählen.')
     source,version=original_source(store,parent)
-    return {'version':version,'title':source['title'],'count':len(source['scenes']),'style':parent['request']['stil'],'directions':DIRECTIONS,'settings':{'mode':'rewrite','keep_ending':True,'levels':DEFAULTS.copy(),'notes':''}}
+    return {'version':version,'title':source['title'],'count':len(source['scenes']),'style':parent['request']['stil'],'directions':DIRECTIONS,'narrative_profiles':PROFILES,'settings':{'mode':'rewrite','narrative_profile':'auto','keep_ending':True,'levels':DEFAULTS.copy(),'notes':''}}
 
 
 def controls(value):
-    if not isinstance(value,dict) or set(value)-{'version','mode','keep_ending','levels','notes'}:raise ValueError('Unbekannte Experiment-Einstellung.')
+    if not isinstance(value,dict) or set(value)-{'version','mode','narrative_profile','keep_ending','levels','notes'}:raise ValueError('Unbekannte Experiment-Einstellung.')
     mode=value.get('mode','rewrite');ending=value.get('keep_ending',True);levels=value.get('levels',DEFAULTS);notes=value.get('notes','')
+    profile=value.get('narrative_profile','auto')
+    if not isinstance(profile,str) or profile not in PROFILES:raise ValueError('Eine bekannte Erzählweise wählen.')
     if mode not in ('staging','rewrite'):raise ValueError('Inszenierung oder freie Dramaturgie wählen.')
     if type(ending) is not bool:raise ValueError('Ende beibehalten als ja/nein senden.')
     if not isinstance(levels,dict) or set(levels)!=set(DIRECTIONS) or any(type(v) is not int or not 0<=v<=3 for v in levels.values()):raise ValueError('Jeden Regler mit 0 bis 3 angeben.')
     if not isinstance(notes,str) or len(notes)>4000:raise ValueError('Eigene Regieanweisung maximal 4000 Zeichen.')
-    if not any(levels.values()) and not notes.strip():raise ValueError('Mindestens einen Regler oder eine eigene Regieanweisung verwenden.')
-    return {'mode':mode,'keep_ending':ending or mode=='staging','levels':levels.copy(),'notes':notes.strip()}
+    if not any(levels.values()) and not notes.strip() and profile=='auto':raise ValueError('Mindestens einen Regler oder eine eigene Regieanweisung verwenden.')
+    return {'mode':mode,'narrative_profile':profile,'keep_ending':ending or mode=='staging','levels':levels.copy(),'notes':notes.strip()}
 
 
 def enqueue(store,parent,value):
@@ -76,7 +79,7 @@ def sheet(store,ident,count):
 
 
 def direction_text(settings):
-    return ('REGIE: '+json.dumps({DIRECTIONS[k]:v for k,v in settings['levels'].items()},ensure_ascii=False)+
+    return (profile_prompt(settings.get('narrative_profile','auto'))+'\nREGIE: '+json.dumps({DIRECTIONS[k]:v for k,v in settings['levels'].items()},ensure_ascii=False)+
         '\n0 = keine zusätzliche Verstärkung, 1 = fein, 2 = deutlich, 3 = radikal. '
         'Mehr Wow entsteht aus verständlichen Zielen, Hindernissen, Entscheidungen, Konsequenzen und überraschenden Bildwechseln. '
         'Spannung: Information dosieren, Erwartung aufbauen und auszahlen. Wut: Motivation, Reibung und Subtext zeigen, nicht alle ständig schreien lassen. '
@@ -100,38 +103,62 @@ def plan(engine,ident):
         ('Das Ergebnis der letzten Originalszene als Ende beibehalten, ihre Inszenierung darf stärker werden. ' if settings['keep_ending'] or settings['mode']=='staging' else 'Eine neue Schlusswendung ist ausdrücklich erlaubt; sie muss aus der Handlung entstehen. ')+direction)
     excerpt=source.get('article','');excerpt=excerpt if len(excerpt)<=10000 else excerpt[:6500]+'\n[gekürzter Mittelteil]\n'+excerpt[-3500:]
     ending=json.dumps(original[-3:],ensure_ascii=False)
+    slots=beat_slots(count)
+    direction_keys=('core','emotion','goal','stakes','obstacle','choice','turning_point','visual_rhythm','continuity','ending')
     def diagnosis(v):
         if not isinstance(v,dict):raise ValueError('Regieplan als Objekt erforderlich.')
-        for k in ('core','emotion','turning_point','visual_rhythm','ending'):
+        for k in direction_keys:
             if not isinstance(v.get(k),str) or not v[k].strip() or len(v[k])>1000:raise ValueError('Kurze konkrete Regievorgabe fehlt: '+k)
-        return {k:v[k] for k in ('core','emotion','turning_point','visual_rhythm','ending')}
-    analysis_prompt=premise+'\nAnalysiere den fehlenden dramatischen Sog und entwirf eine bessere Regie. Die Bildtafel zeigt ausgewählte aktuelle Kacheln, keinen vollständigen visuellen Beweis. Return ONLY JSON {"core":"Handlungskern","emotion":"emotionaler Konflikt und Entwicklung","turning_point":"konkrete Vorbereitung und Wendepunkt","visual_rhythm":"konkreter Einstellungs- und Spannungsrhythmus","ending":"Schlusswirkung bei erlaubtem Ausgang"}.\nFIGUREN:'+json.dumps(people,ensure_ascii=False)+'\nBISHERIGER TEXT:'+excerpt+'\nORIGINALSCHLUSS:'+ending
-    try:guide=engine.json_call(ident,'experiment-direction-vision',analysis_prompt,diagnosis,images=[sheet(store,ident,count)],tokens=1800)
+        beats=v.get('beats')
+        if not isinstance(beats,list) or len(beats)!=len(slots):raise ValueError('Ein konkreter Beatplan für alle vorgegebenen Bereiche ist erforderlich.')
+        for beat,slot in zip(beats,slots):
+            if not isinstance(beat,dict) or type(beat.get('start')) is not int or type(beat.get('end')) is not int or beat['start']!=slot['start'] or beat['end']!=slot['end']:raise ValueError('Kachelbereiche des Beatplans exakt übernehmen.')
+            for key in ('event','change'):
+                if not isinstance(beat.get(key),str) or not beat[key].strip() or len(beat[key])>600:raise ValueError('Jeder Beat braucht ein konkretes Ereignis und eine konkrete Veränderung, keine Schlagwörter.')
+        return {**{k:v[k] for k in direction_keys},'beats':[{**slot,'event':b['event'],'change':b['change']} for slot,b in zip(slots,beats)]}
+    schema={'core':'Handlungskern','emotion':'Konkrete emotionale Entwicklung','goal':'Was will die Figur konkret?',
+            'stakes':'Was verliert sie bei einem Scheitern?','obstacle':'Was verhindert das Ziel?',
+            'choice':'Welche Entscheidung verändert den Verlauf?','turning_point':'Vorbereitete Wendung',
+            'visual_rhythm':'Konkrete Einstellungswechsel und stille Momente',
+            'continuity':'Verbindliche Ereignisfolgen: wer ist ab wann besiegt, tot, verletzt; welche Gegenstände oder Kleidung ändern sich?',
+            'ending':'Nachwirkung des Endes','beats':[{**slot,'event':'Konkretes Ereignis mit den vorhandenen Figuren','change':'Konkrete Veränderung gegenüber davor'} for slot in slots]}
+    analysis_prompt=(premise+'\nAnalysiere den fehlenden dramatischen Sog und entwirf eine konkrete Geschichte, keine allgemeine Motivationsrede. '
+        'Die Bildtafel zeigt ausgewählte aktuelle Kacheln, keinen vollständigen visuellen Beweis. '
+        'Bei reiner Inszenierung bleiben alle Ereignisse und Worte unverändert: nur deren vorhandene Funktion sichtbar machen. '
+        'Return ONLY JSON nach diesem Schema, mit exakt diesen Kachelbereichen: '+json.dumps(schema,ensure_ascii=False)+
+        '\nTextfelder maximal 1000 Zeichen. Jeder Beat braucht ein Ereignis und eine Veränderung. '
+        '\nFIGUREN:'+json.dumps(people,ensure_ascii=False)+'\nBISHERIGER TEXT:'+excerpt+'\nORIGINALSCHLUSS:'+ending+
+        '\nBEATRASTER:\n'+json.dumps(slots,ensure_ascii=False))
+    try:guide=engine.json_call(ident,'experiment-direction-vision',analysis_prompt,diagnosis,images=[sheet(store,ident,count)],tokens=3200)
     except Exception as exc:
         notes.append('Bildgestützte Regieanalyse nicht verfügbar; Textanalyse verwendet: '+str(exc)[:300])
-        guide=engine.json_call(ident,'experiment-direction-text',analysis_prompt,diagnosis,tokens=1800)
-    guide=engine.require_german(ident,'experiment-direction-german',guide,diagnosis,1800)
+        guide=engine.json_call(ident,'experiment-direction-text',analysis_prompt,diagnosis,tokens=3200)
+    guide=engine.require_german(ident,'experiment-direction-german',guide,diagnosis,3200)
     scenes=[];reasons=[];states=copy.deepcopy(source.get('series',{}).get('initial_states',{}))
     for start in range(0,count,6):
         size=min(6,count-start);store.stage(ident,'experiment_writing',planned_panels=start,total_panels=count)
         batch=original[start:start+size]
         instruction=premise+'\nREGIEPLAN:'+json.dumps(guide,ensure_ascii=False)+'\nFIGUREN:'+json.dumps(people,ensure_ascii=False)+'\nORIGINALSCHLUSS:'+ending+'\nLETZTE NEUE SZENEN:'+json.dumps(scenes[-2:],ensure_ascii=False)+'\nBISHERIGE FIGURENZUSTÄNDE:'+json.dumps(states,ensure_ascii=False)+'\nAKTUELLE ORIGINALKACHELN:'+json.dumps(batch,ensure_ascii=False)
         instruction+=f'\nErstelle genau {size} Kacheln für Position {start+1} bis {start+size} von insgesamt {count}. Verteile Aufbau und Höhepunkt über die GESAMTE Folge; nur die letzte Kachel endet sie. '
-        instruction+='Je Kachel ein klarer Moment. Erste sprechende Figur links, Antwort rechts; freie Textflächen einplanen. Maximal zwei kurze Blasen, je 100 Zeichen, Erzählertext maximal 130 Zeichen. Keine alten Textkoordinaten übernehmen. Return ONLY JSON als Array [{"heading":"Titel","story":"vollständige Bildkomposition bis 1200 Zeichen","dialog":"Erzählertext oder leer","characters":["exakte ID"],"bubbles":[{"speaker":"exakte ID","text":"Wortlaut","expression":"normal oder shout oder whisper","bubble_style":"rounded"}],"character_states":{},"reason":"konkrete dramaturgische Verbesserung"}].'
+        relevant=[b for b in guide['beats'] if b['start']<=start+size and b['end']>=start+1]
+        instruction+='\nVERBINDLICHE AUFGABEN DIESES ABSCHNITTS:'+json.dumps(relevant,ensure_ascii=False)
+        instruction+='Jede Kachel muss etwas verändern: Handlung, Wissen, Beziehung, Gefahr oder bewusste emotionale Bedeutung. Keine drei gleichartigen Standbilder. Erzählertext nicht einfach das sichtbare Bild erklären lassen. Eine stille Kachel ist sinnvoll, wenn sie eine neue emotionale Bedeutung schafft. Konsequenzen gelten weiter: ein besiegtes oder totes Wesen greift später nicht ohne ausdrücklich vorbereitete Wendung erneut an. Kleidung, Blutspuren, Gegenstände und Wissen zeitlich korrekt führen. Je Kachel ein klarer Moment. Erste sprechende Figur links, Antwort rechts; freie Textflächen einplanen. Maximal zwei kurze Blasen, je 100 Zeichen, Erzählertext maximal 130 Zeichen. Keine alten Textkoordinaten übernehmen. Return ONLY JSON als Array [{"heading":"Titel","story":"vollständige Bildkomposition bis 1200 Zeichen","dialog":"Erzählertext oder leer","characters":["exakte ID"],"bubbles":[{"speaker":"exakte ID","text":"Wortlaut","expression":"normal oder shout oder whisper","bubble_style":"auto"}],"character_states":{},"dramatic_change":"Was ändert diese Kachel konkret?","visual_device":"sichtbar andere Einstellung oder bewusste stille Betonung","reason":"konkrete dramaturgische Verbesserung"}].'
         def check(value):
             result=Engine.validate_scenes(None,copy.deepcopy(value),size,cast)
             for j,s in enumerate(result):
                 if not isinstance(s.get('heading',''),str) or len(s.get('heading',''))>200 or not isinstance(s.get('reason',''),str) or len(s.get('reason',''))>1000:raise ValueError('Szenentitel oder Änderungsgrund ungültig.')
+                for key in ('dramatic_change','visual_device'):
+                    if not isinstance(s.get(key),str) or not s[key].strip() or len(s[key])>500:raise ValueError('Jede Kachel braucht eine konkrete Aufgabe und sichtbare Inszenierung: '+key)
                 if len(s['story'])>1200:raise ValueError('Bildbeschreibung maximal 1200 Zeichen.')
                 if settings['mode']=='staging':
-                    fixed=clean_geometry(batch[j]);fixed.update({k:s[k] for k in ('story','heading') if k in s});fixed['reason']=s.get('reason','');result[j]=fixed
+                    fixed=clean_geometry(batch[j]);fixed.update({k:s[k] for k in ('story','heading','character_states','dramatic_change','visual_device') if k in s});fixed['reason']=s.get('reason','');result[j]=fixed
                 else:
                     if len(s['dialog'])>130 or len(s['bubbles'])>2 or any(len(b['text'])>100 or b.get('expression','normal') not in ('normal','shout','whisper') for b in s['bubbles']):raise ValueError('Erzählertext oder Sprechblasen kürzen; gültige Sprechweise verwenden.')
                 result[j]=clean_geometry(result[j]);result[j]['bubbles']=DESIGN.validate_bubbles(result[j].get('bubbles',[]))
             return Engine.validate_scenes(None,result,size,cast)
         chunk=engine.json_call(ident,'experiment-scenes-'+str(start+1),instruction,check,tokens=850*size+400)
         store.stage(ident,'experiment_review',planned_panels=start,total_panels=count)
-        review_prompt=premise+'\nPrüfe Motivation, Ursache und Wirkung, Sprecher, Figurenkontinuität, Auflösung und Lesbarkeit. Eine freie Variante darf die Vorlage im erlaubten Umfang verändern; neue Dialoge sind keine Zitatfehler. Keine pauschalen Stilurteile. Return ONLY JSON {"approved":true,"issues":[]} oder {"approved":false,"issues":["konkreter Fehler"]}.\nREGIEPLAN:'+json.dumps(guide,ensure_ascii=False)+'\nVORIGE NEUE SZENEN:'+json.dumps(scenes[-2:],ensure_ascii=False)+'\nORIGINALSCHLUSS:'+ending+'\nGEPRÜFTER ABSCHNITT '+str(start+1)+' bis '+str(start+size)+' von '+str(count)+': '
+        review_prompt=premise+'\nPrüfe Motivation, Ursache und Wirkung, Sprecher, Figurenkontinuität, Auflösung und Lesbarkeit. Verlange echte Bewegung im Erzählbogen: Die Felder dramatic_change und visual_device sind Behauptungen und müssen in der konkreten Szene erkennbar werden. Beanstande bloß wiederholtes Stehen, Schauen und bedeutungslose Erklärkästen. Ein ruhiger Moment mit neuer emotionaler Bedeutung ist erlaubt. Prüfe gegen den Beatplan und die bisherigen Ereignisse, insbesondere Tod, Verletzungen, Gegenstände und Blutspuren. Eine freie Variante darf die Vorlage im erlaubten Umfang verändern; neue Dialoge sind keine Zitatfehler. Keine pauschalen Stilurteile. Return ONLY JSON {"approved":true,"issues":[]} oder {"approved":false,"issues":["konkreter Fehler"]}.\nREGIEPLAN:'+json.dumps(guide,ensure_ascii=False)+'\nVORIGE NEUE SZENEN:'+json.dumps(scenes[-2:],ensure_ascii=False)+'\nORIGINALSCHLUSS:'+ending+'\nGEPRÜFTER ABSCHNITT '+str(start+1)+' bis '+str(start+size)+' von '+str(count)+': '
         review=engine.json_call(ident,'experiment-review-'+str(start+1),review_prompt+json.dumps(chunk,ensure_ascii=False),valid_review,tokens=800)
         if not review['approved']:
             chunk=engine.json_call(ident,'experiment-revise-'+str(start+1),instruction+'\nENTWURF:'+json.dumps(chunk,ensure_ascii=False)+'\nZU KORRIGIEREN:'+json.dumps(review['issues'],ensure_ascii=False),check,tokens=850*size+400)
@@ -140,7 +167,7 @@ def plan(engine,ident):
         chunk=engine.require_german(ident,'experiment-german-'+str(start+1),chunk,check,850*size+400)
         for j,s in enumerate(chunk):
             states.update(s.get('character_states',{}));s['character_states']={k:v for k,v in states.items() if k in s['characters']}
-            reasons.append({'panel':start+j+1,'reason':s.pop('reason','Neue experimentelle Inszenierung.')});scenes.append(s)
+            reasons.append({'panel':start+j+1,'reason':s.pop('reason','Neue experimentelle Inszenierung.'),'dramatic_change':s.get('dramatic_change',''),'visual_device':s.get('visual_device','')});scenes.append(s)
     def comparable(scene):
         s=copy.deepcopy(scene);s['bubbles']=DESIGN.validate_bubbles(s.get('bubbles',[]));s=clean_geometry(s)
         return {k:s.get(k,{} if k=='character_states' else '') for k in ('story','dialog','characters','bubbles','character_states')}
@@ -155,7 +182,7 @@ def plan(engine,ident):
     source['article']=article if len(article)<=16000 else article[:15880]+'\nVollständige Handlung und Dialoge stehen im Szenenplan.'
     fit=engine.preflight({'scenes':scenes},cast)
     if not fit['valid']:raise ValueError('Experiment-Beschriftung passt nicht: '+json.dumps(fit['issues'],ensure_ascii=False))
-    report={'parent_job':snapshot['parent_job'],'parent_version':snapshot['parent_version'],'experimental':True,'fiction':True,'original_unchanged':True,'controls':settings,'direction':guide,'changes':reasons,'notes':notes,'panel_count':count,'visual_review':'pending','original_art_sha256':snapshot['original_art_sha256']}
+    report={'parent_job':snapshot['parent_job'],'parent_version':snapshot['parent_version'],'experimental':True,'fiction':True,'original_unchanged':True,'controls':settings,'narrative_profile':copy.deepcopy(PROFILES[settings.get('narrative_profile','auto')]),'direction':guide,'changes':reasons,'notes':notes,'panel_count':count,'visual_review':'pending','original_art_sha256':snapshot['original_art_sha256']}
     source['experiment']={'parent_job':snapshot['parent_job'],'controls':settings,'fiction':True}
     store.write(ident,'editorial-source.json',source);store.write(ident,'story.json',{'title':source['title'],'story':source['article']});store.write(ident,'experiment-report.json',report)
     return source,report

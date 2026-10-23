@@ -46,10 +46,10 @@ class FakeEngine:
         self.calls.append(step)
         if step.startswith('experiment-direction-'):
             if step.endswith('vision'):assert images and images[0].startswith(b'\xff\xd8')
-            return validator({'core':'Eine Tür und eine Entscheidung.','emotion':'Ria überwindet ihre Angst.','turning_point':'Ria entscheidet sich zu handeln.','visual_rhythm':'Erst Stille, dann eine dynamische Bewegung.','ending':'Ria öffnet wie zuvor die Tür.'})
+            slots=json.loads(prompt.split('BEATRASTER:\n')[-1]);return validator({'core':'Eine Tür und eine Entscheidung.','emotion':'Ria überwindet ihre Angst.','goal':'Ria will die Tür öffnen.','stakes':'Sie verliert die letzte Gelegenheit.','obstacle':'Die Tür ist schwer zu bewegen.','choice':'Ria riskiert ihren sicheren Rückweg.','turning_point':'Ria entscheidet sich zu handeln.','visual_rhythm':'Erst Stille, dann eine dynamische Bewegung.','continuity':'Die Tür bleibt nach dem Öffnen offen.','ending':'Ria öffnet wie zuvor die Tür.','beats':[{**slot,'event':'Ria muss an dieser Stelle eine konkrete Entscheidung treffen.','change':'Ihr Wissen über die Tür ändert sich sichtbar.'} for slot in slots]})
         if 'review' in step:return validator({'approved':not self.fail_review,'issues':['Unklarer Handlungsanschluss.'] if self.fail_review else []})
         start,end,count=map(int,re.search(r'für Position (\d+) bis (\d+) von insgesamt (\d+)',prompt).groups());self.sizes.append(end-start+1)
-        return validator([{'heading':'Neue Szene '+str(i),'story':'Tiefe Froschperspektive: Ria hält inne und entscheidet sich, die schwere Tür aufzustoßen.','dialog':'Ein Moment verändert alles.','characters':[WHO],'bubbles':[{'speaker':WHO,'text':'Ich entscheide mich jetzt.','expression':'shout','bubble_style':'burst'}],'character_states':{},'reason':'Aus passivem Warten wird eine sichtbare Entscheidung.'} for i in range(start,end+1)])
+        return validator([{'heading':'Neue Szene '+str(i),'story':'Tiefe Froschperspektive: Ria hält inne und entscheidet sich, die schwere Tür aufzustoßen. Bildmoment '+str(i),'dialog':'Ein Moment verändert alles.','characters':[WHO],'bubbles':[{'speaker':WHO,'text':'Ich entscheide mich jetzt.','expression':'shout','bubble_style':'burst'}],'character_states':{},'dramatic_change':'Ria verlässt ihren sicheren Standpunkt.','visual_device':'Nahaufnahme ihrer entschlossenen Hand.','reason':'Aus passivem Warten wird eine sichtbare Entscheidung.'} for i in range(start,end+1)])
     def require_german(self,ident,step,value,validator,tokens):return validator(value)
     def preflight(self,*args):return {'valid':True,'issues':[]}
 
@@ -77,6 +77,19 @@ class ExperimentTests(unittest.TestCase):
     def test_large_experiments_use_bounded_chunks(self):
         with tempfile.TemporaryDirectory() as root:
             store,parent=fixture(root,13);job=experiments.enqueue(store,parent,settings(store,parent));engine=FakeEngine(store);source,report=experiments.plan(engine,job['id']);self.assertEqual(engine.sizes,[6,6,1]);self.assertEqual(len(source['scenes']),13)
+
+    def test_storytelling_profiles_and_beat_ranges_are_real_planning_constraints(self):
+        from narrative_profiles import beat_slots,profile_prompt
+        for count in (1,2,3,4,5,6,12,13,1001):
+            slots=beat_slots(count)
+            self.assertEqual([i for s in slots for i in range(s['start'],s['end']+1)],list(range(1,count+1)))
+        self.assertEqual(experiments.controls({'narrative_profile':'asterix','levels':dict.fromkeys(experiments.DIRECTIONS,0)})['narrative_profile'],'asterix')
+        prompt=profile_prompt('batman');self.assertIn('Hinweis',prompt);self.assertNotIn('Batman',prompt)
+        with self.assertRaises(ValueError):experiments.controls({'narrative_profile':'unbekannt'})
+        with tempfile.TemporaryDirectory() as root:
+            store,parent=fixture(root);job=experiments.enqueue(store,parent,settings(store,parent,narrative_profile='one_piece'));source,report=experiments.plan(FakeEngine(store),job['id'])
+            self.assertIn('One Piece',report['narrative_profile']['label']);self.assertEqual(len(report['direction']['beats']),2)
+            self.assertTrue(all(s['dramatic_change'] and s['visual_device'] for s in source['scenes']))
 
     def test_invalid_controls_stale_version_and_parallel_duplicate_are_rejected(self):
         with tempfile.TemporaryDirectory() as root:
