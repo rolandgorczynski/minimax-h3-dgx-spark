@@ -901,3 +901,10 @@ Der neue Quellenbereich erstellt lokal ein bearbeitbares deutsches Comic-Skript
 und übernimmt es direkt als neue Geschichte. Bilder werden erst nach deiner
 Prüfung gestartet. Quellen sind erweiterbar und bleiben gespeichert.
 [Bedienung, Skriptformat und API](../../docs/Comic_Quellengenerator.md).
+
+## Serien und Fortsetzungen
+
+Über „Auf dieser Geschichte aufbauen“ eine eigene Folge mit denselben Figuren
+und Referenzbildern anlegen. Feste Fakten, offene Fäden und der bisherige Schluss
+gehen als Kontext in die Szenenplanung ein. Das Anlegen startet keinen Modell-
+oder Bildlauf. [Bedienung und API](../../docs/Comic_Serien.md).

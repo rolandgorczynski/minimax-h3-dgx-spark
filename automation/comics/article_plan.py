@@ -1,13 +1,15 @@
 """Artikel in prüfbare Szenen zerlegen; Original und Titel unverändert erhalten."""
 import copy
+import json
 import uuid
 from character_profiles import narrative
 import dialogue
+from series import context as series_context
 
 
 def draft_batches(engine,job,prompt,article,cast,ledger,locked,tag='article-scenes',issues=None,existing=None):
     import json
-    result=[];states={}
+    result=[];states=copy.deepcopy((engine.store.get(job).get('planning_source') or {}).get('payload',{}).get('series',{}).get('initial_states',{}))
     for start in range(0,len(locked),8):
         group=locked[start:start+8];ids={q for section in group for q in section['quote_ids']}
         local_ledger=[q for q in ledger if q['id'] in ids]
@@ -42,21 +44,26 @@ def prepare(engine,stories,job):
             names.append(c['name'].casefold())
         if len(set(names))!=len(names):raise ValueError('Figurennamen müssen eindeutig sein.')
         return value['characters']
+    continuity=series_context(source)
+    profiles_hint=[{k:c.get(k,'') for k in ('name','aliases','description','outfit')} for c in existing]
     result=engine.json_call(job,'article-people',
         'Zerlege den folgenden deutschen Ausgangstext für einen Comic. Plane ausschließlich die darin auftretenden Hauptfiguren. '
         'Erfinde keine Handlung und keine Namen für unbenannte Personen; verwende dann eine neutrale Rollenbezeichnung. '
         'Aussehen ohne Angaben im Text nur als symbolische Gestaltung kennzeichnen. Personen mit konstantem Gesicht beschreiben. '
         'Bei Veränderungen von Frisur oder Kleidung im Verlauf ausdrücklich festhalten, dass diese sich je Szene ändern dürfen. '
         'Return ONLY JSON {"characters":[{"name":"Name oder Rolle","description":"Gesicht und Identitätsmerkmale","outfit":"Kleidung"}]}. '
-        '1–4 Figuren, alle Texte auf Deutsch.\nAUSGANGSTEXT:\n'+article,people,tokens=1100)
+        '1–4 Figuren, alle Texte auf Deutsch. Bei vorhandenen Figuren deren Namen exakt übernehmen. '
+        +'\nVORHANDENE FIGUREN:'+json.dumps(profiles_hint,ensure_ascii=False)+'\n'+continuity+'\nNEUER AUSGANGSTEXT:\n'+article,people,tokens=1100)
     cast=[]
     for c in result:
         old=next((p for p in existing if c['name'].casefold() in [p['name'].casefold(),*[a.casefold() for a in p.get('aliases',[])]]),None)
         cast.append(copy.deepcopy(old) if old else {**c,'id':uuid.uuid5(uuid.UUID(entry['story_id']),c['name'].casefold()).hex,'aliases':[],'variants':{},'references':[]})
+    if source.get('series'):
+        cast.extend(copy.deepcopy(c) for c in existing if c['id'] not in {p['id'] for p in cast})
+        if len(cast)>8:raise ValueError('Die Serie hat mehr als acht Figuren. Nicht benötigte Figuren im Entwurf entfernen.')
     store.stage(job,'article_dialogue')
     ledger=dialogue.collect(engine,job,article,cast)
     store.stage(job,'article_scenes')
-    import json
     profiles=[narrative(c) for c in cast]
     locked=dialogue.sections(article,ledger,count)
     store.write(job,'source-sections.json',locked)
@@ -80,6 +87,7 @@ def prepare(engine,stories,job):
         '"dialog":"Deutscher Erzählertext","characters":["Figuren-ID"],'
         '"character_states":{}}]. '
         'Alle Texte ausschließlich auf Deutsch.\nFIGUREN:\n'+json.dumps(profiles,ensure_ascii=False)+'\nDIALOGLISTE:\n'+json.dumps(ledger,ensure_ascii=False)+'\nQUELLABSCHNITTE:\n'+json.dumps(locked,ensure_ascii=False)+'\nAUSGANGSTEXT:\n'+article)
+    prompt=continuity+prompt
     def validate(value):
         scenes=engine.validate_scenes(dialogue.apply_sections(value,ledger,cast,locked),count,cast)
         for scene in scenes:
@@ -87,6 +95,10 @@ def prepare(engine,stories,job):
                 if bubble.get('expression','normal') not in ('normal','shout','whisper'):bubble['expression']='normal'
         return scenes
     scenes=(draft_batches(engine,job,prompt,article,cast,ledger,locked) if count>12 else engine.json_call(job,'article-scenes',prompt,validate,tokens=min(8000,count*420+500)))
+    initial_states=copy.deepcopy(source.get('series',{}).get('initial_states',{}))
+    for scene in scenes:
+        initial_states.update(scene.get('character_states',{}))
+        scene['character_states']={k:v for k,v in initial_states.items() if k in scene.get('characters',[])}
     store.stage(job,'article_check')
     fit=engine.preflight({'scenes':scenes},cast)
     if not fit['valid']:
@@ -96,6 +108,10 @@ def prepare(engine,stories,job):
         fit=engine.preflight({'scenes':scenes},cast)
     quote_warnings=[f'Kachel {issue.get("panel","?")}: {issue["message"]}' for issue in fit['issues']] if not fit['valid'] else []
     quote_warnings.extend('Zitat '+q['id']+': Sprecher oder Wortlaut offen, bitte prüfen: „'+q['text']+'“' for q in ledger if q['kind']=='uncertain')
+    initial_states=copy.deepcopy(source.get('series',{}).get('initial_states',{}))
+    for scene in scenes:
+        initial_states.update(scene.get('character_states',{}))
+        scene['character_states']={k:v for k,v in initial_states.items() if k in scene.get('characters',[])}
     payload={**source,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
     store.stage(job,'article_save')
     store.write(job,'planned-storyboard.json',payload)

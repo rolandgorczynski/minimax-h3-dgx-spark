@@ -46,6 +46,9 @@ def validate_definition(value):
         profiles=payload.get('characters',[])
         if not isinstance(profiles,list) or len(profiles)>8:raise ValueError('Maximal acht Figuren pro Geschichte.')
         for profile in profiles:validate_profile(profile)
+        if 'series' in payload:
+            from series import validate as validate_series
+            validate_series(payload['series'])
         payload.setdefault('characters',[]);payload.setdefault('library_ids',[]);payload.setdefault('seed',1984)
         validate_request({'kacheln':len(scenes) or 1,'stil':payload['style'],'seed':payload['seed'],'figuren_ids':payload['library_ids'],'signatur':payload.get('signature','')})
     return {'mode':value['mode'],'name':name,'payload':payload}
@@ -58,7 +61,7 @@ class Stories:
 
     def list(self):
         with self.store.connect() as db:rows=db.execute('SELECT doc FROM stories ORDER BY rowid DESC').fetchall()
-        return [{k:v for k,v in json.loads(r['doc']).items() if k!='payload'} for r in rows]
+        return [{**{k:v for k,v in doc.items() if k!='payload'},'series':{k:v for k,v in doc.get('payload',{}).get('series',{}).items() if k in ('id','name','episode','based_on')}} for r in rows for doc in [json.loads(r['doc'])]]
 
     def outputs(self,ident):
         with self.store.connect() as db:rows=db.execute('SELECT doc FROM jobs').fetchall()

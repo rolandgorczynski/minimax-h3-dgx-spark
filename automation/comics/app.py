@@ -145,11 +145,14 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
         if not self.authorized():return
+        if path=='/series/bases':
+            from series import bases
+            return self.reply(200,{'bases':bases(self.service.stories)})
         if path=='/sources':
             from source_generator import catalog
             return self.reply(200,{'sources':catalog(self.service.store)})
@@ -241,6 +244,8 @@ class Handler(BaseHTTPRequestHandler):
         except (FileNotFoundError,ValueError,TypeError):return {'available':False}
 
     def do_POST(self):
+        if urlsplit(self.path).path.startswith('/series/'):
+            return self.series_action()
         if urlsplit(self.path).path in ('/sources','/source-tasks') or urlsplit(self.path).path.startswith('/source-tasks/'):
             return self.source_action()
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
@@ -339,6 +344,22 @@ class Handler(BaseHTTPRequestHandler):
                 return self.reply(200,sharing.save_settings(self.service.store,json.loads(self.rfile.read(size))))
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(True)
+
+    def series_action(self):
+        if not self.authorized():return
+        try:
+            size=int(self.headers.get('Content-Length','0'))
+            if not 0<size<=2_000_000:raise ValueError('Serienangaben maximal 2 MB.')
+            value=json.loads(self.rfile.read(size))
+            if not isinstance(value,dict):raise ValueError('JSON-Objekt erforderlich.')
+            import series
+            with self.service.stories.lock:
+                if urlsplit(self.path).path=='/series/preview':return self.reply(200,series.preview(self.service.stories,value))
+                if urlsplit(self.path).path=='/series/episodes':return self.reply(201,series.create(self.service.stories,value))
+            return self.reply(404,{'error':'Endpunkt nicht gefunden.'})
+        except Conflict as exc:return self.reply(409,{'error':str(exc)})
+        except KeyError:return self.reply(404,{'error':'Basisgeschichte oder Comic nicht gefunden.'})
+        except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
 
     def source_read(self,path):
         parts=path.strip('/').split('/')
