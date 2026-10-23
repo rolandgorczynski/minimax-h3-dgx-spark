@@ -18,7 +18,9 @@ Klick auf **Comic erzeugen** in der übernommenen Geschichte erzeugt.
 4. Comic-Stil, Kachelanzahl, optional Autor/Pseudonym und Adaptionswünsche angeben.
 5. **Comic-Skript lokal erstellen** anklicken. Zuerst entstehen Figuren und ein
    Handlungsbogen; die Szenen folgen in Abschnitten mit höchstens sechs Kacheln.
-   Eine lokale Logikprüfung kann je Abschnitt eine Korrektur auslösen. Verbleibende
+   Eine lokale Logikprüfung vergleicht jeden Abschnitt auch mit der gespeicherten
+   Textgrundlage und kann eine Korrektur auslösen. Der erzeugte Handlungsbogen
+   gilt dabei nicht automatisch als verlässlich. Verbleibende
    Hinweise sowie Ergebnisse der Layoutprüfung werden angezeigt. Sprache wird
    zusätzlich geprüft. Modellprüfungen ersetzen deine eigene Prüfung nicht.
 6. Das fertige Skript im Textfeld prüfen und ändern. **Skript speichern** erhält
@@ -123,3 +125,15 @@ Zehn zusätzliche, einzeln auswählbare Vorlagen behandeln Mut, Treue, Ausdauer
 und Versöhnung. [Übersicht und Import](../examples/comics/sources/README.md).
 Die Textgrundlagen sind neu formuliert; die alten Stoffe und die jeweils
 gewählten Ausschnitte sind mit Herkunft und Abgrenzung dokumentiert.
+
+## Sprachprüfung
+
+Geprüft werden die eigentlichen Nutztexte; technische JSON-Schlüssel, Figuren-IDs
+und Kennungen wie `shout` sind keine fremdsprachigen Erzähltexte. Negative
+Sprachurteile werden unabhängig gegengeprüft. Bei Ollama übernimmt diese
+Gegenprüfung das konfigurierte Textmodell statt des Kritiker-Modells. Bestätigte
+Befunde müssen vorhandene Textstellen wörtlich nennen. Erst dann wird übersetzt.
+Deutsche Redewendungen, Stilfragen und erfundene Beanstandungen rechtfertigen
+keine Übersetzung. Bleiben bestätigte fremdsprachige Texte bestehen, stoppt der
+Auftrag weiterhin vor der Bilderzeugung. Die Entscheidungen stehen unter
+`reports/*-language-decision-*.json` beim jeweiligen Auftrag.

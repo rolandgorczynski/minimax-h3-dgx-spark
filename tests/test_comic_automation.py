@@ -170,6 +170,8 @@ class AutomationTests(unittest.TestCase):
                 value=None
                 if step=='story-prose':value={'story':'Aria searches for a letter. Bram finds it.'}
                 elif step.startswith('german-') and '-review-' in step:value={'approved':not step.endswith('-0'),'issues':['Fremdsprachiger Text'] if step.endswith('-0') else []}
+                elif step=='german-story-language-confirm-0':value={'approved':False,'issues':['Aria searches for a letter.']}
+                elif step=='german-panels-language-confirm-0':value={'approved':False,'issues':['Aria finds the letter.']}
                 elif step=='german-story-translation':value={'title':'Der Brief','story':'Aria sucht einen Brief. Bram findet ihn.'}
                 elif step=='german-panels-translation':value=[{'dialog':'Aria findet den Brief.','bubbles':['Hier ist er!']},{'dialog':'Ein ruhiger Morgen.','bubbles':[]}]
                 if value is not None:return {'91':{'assistant_text':[json.dumps(value)]}}
@@ -190,12 +192,42 @@ class AutomationTests(unittest.TestCase):
             store=Store(root);ident=uuid.uuid4().hex;store.create(ident,validate_request({'kacheln':2,'seed':42}))
             client=FakeComfy(ident);original=client.run
             def run(job,step,graph,workflow=None):
+                if step=='story-prose':return {'91':{'assistant_text':[json.dumps({'story':'Still an English story.'})]}}
                 if step.startswith('german-story-review'):return {'91':{'assistant_text':[json.dumps({'approved':False,'issues':['Still English']})]}}
+                if step.startswith('german-story-language-confirm'):
+                    return {'91':{'assistant_text':[json.dumps({'approved':False,'issues':['Still an English story.']})]}}
                 if step=='german-story-translation':return {'91':{'assistant_text':[json.dumps({'title':'The Letter','story':'Still an English story.'})]}}
                 return original(job,step,graph,workflow)
             client.run=run
             with self.assertRaisesRegex(ValueError,'Deutschpflicht'):Engine(store,client,TEMPLATE,'text','vision').execute(ident)
             self.assertFalse(any(step.startswith(('portrait-','render-')) for kind,step in client.calls if kind=='run'))
+
+    def test_false_german_rejection_is_confirmed_against_only_actual_user_text(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);ident=uuid.uuid4().hex;store.create(ident,validate_request({}))
+            engine=Engine(store,FakeComfy(ident),TEMPLATE,'text','vision');calls=[]
+            original={'arc':'Der Lindwurm treibt sein Unwesen.','mood':'Eine nachdenkliche Stimmung.','id':'a'*32,'expression':'shout'}
+            def call(job,step,prompt,validator,tokens):
+                calls.append((step,prompt))
+                if '-review-' in step:return validator({'approved':False,'issues':['arc: Unwesen treibt','mood: unwunderbar']})
+                if '-language-confirm-' in step:return validator({'approved':True,'issues':[]})
+                raise AssertionError('Keine Übersetzung deutscher Texte: '+step)
+            engine.json_call=call
+            self.assertIs(engine.require_german(ident,'probe',original,lambda v:v,600),original)
+            self.assertEqual(len(calls),2)
+            content=json.loads(calls[0][1].split('NUTZTEXTE:\n')[1])
+            self.assertEqual(content,[original['arc'],original['mood']])
+            report=json.loads((store.directory(ident)/'reports/probe-language-decision-0.json').read_text())
+            self.assertTrue(report['confirmed']['approved'])
+
+    def test_language_confirmation_cannot_invent_foreign_quotes(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);ident=uuid.uuid4().hex;store.create(ident,validate_request({}))
+            engine=Engine(store,FakeComfy(ident),TEMPLATE,'text','vision')
+            def call(job,step,prompt,validator,tokens):return validator({'approved':False,'issues':['Dieser Ausschnitt ist gar nicht vorhanden.']})
+            engine.json_call=call
+            with self.assertRaisesRegex(ValueError,'vorhandenen fremdsprachigen Ausschnitt'):
+                engine.require_german(ident,'probe',{'story':'Das ist ein deutscher Satz.'},lambda v:v,600)
 
     def test_ollama_excludes_external_endpoints_and_cloud_models(self):
         with self.assertRaises(ValueError):local_url('https://8.8.8.8')

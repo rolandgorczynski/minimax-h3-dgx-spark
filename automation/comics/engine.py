@@ -116,16 +116,54 @@ class Engine:
         return {'approved':not findings,'issues':findings[:12]}
 
     def require_german(self,job,step,value,validator,tokens):
-        """Mandatory language gate; one translation attempt, then stop before rendering."""
+        """Deutsche Nutztexte prüfen; negative Urteile vor einer Übersetzung bestätigen."""
+        def texts(candidate):
+            found=[]
+            def walk(item):
+                if isinstance(item,str):
+                    if item.strip() and not ID.fullmatch(item):found.append(item)
+                elif isinstance(item,list):
+                    for child in item:walk(child)
+                elif isinstance(item,dict):
+                    for key,child in item.items():
+                        if key not in ('id','speaker','expression','alignment','references','inline_references','source_id'):walk(child)
+            walk(candidate);return found
         def check(candidate,iteration):
-            return self.json_call(job,step+'-review-'+str(iteration),
-                'Prüfe ausschließlich die Sprache ALLER Texte dieses JSON-Dokuments. Vollständige Sätze müssen auf Deutsch sein. Englische oder andere fremdsprachige Erzähltexte sind nicht zulässig. Eigennamen und übliche kurze Ausrufe wie Okay sind erlaubt. Kein Stilurteil. Return ONLY JSON {"approved":true,"issues":[]} oder {"approved":false,"issues":["konkreter fremdsprachiger Text"]}.\nTEXTE:\n'+json.dumps(candidate,ensure_ascii=False),valid_review,tokens=400)
+            content=texts(candidate)
+            instruction=('Prüfe ausschließlich, ob die folgenden Nutztexte auf Deutsch geschrieben sind. '
+                'Eigennamen und kurze Ausrufe sind erlaubt. Rechtschreibung, ungewöhnliche Wörter, '
+                'deutsche Redewendungen, Grammatik, Logik und Stil sind KEINE Fremdsprachenfehler. '
+                'Beurteile nur tatsächlich vorhandene Texte, keine erfundenen Textstellen. '
+                'Return ONLY JSON {"approved":true,"issues":[]} wenn keine fremdsprachigen Sätze vorhanden sind, '
+                'sonst {"approved":false,"issues":["wörtlich kopierter fremdsprachiger Textausschnitt"]}. '
+                'Bei Ablehnung enthält issues nur exakte Ausschnitte aus den Nutztexten, keine Feldnamen oder Kommentare. '
+                '\nNUTZTEXTE:\n'+json.dumps(content,ensure_ascii=False))
+            review=self.json_call(job,step+'-review-'+str(iteration),instruction,valid_review,tokens=550)
+            if review['approved']:return review
+            def confirm(candidate_review):
+                candidate_review=valid_review(candidate_review)
+                if any(not quote.strip() or not any(quote in text for text in content) for quote in candidate_review['issues']):
+                    raise ValueError('Sprachbefund muss einen vorhandenen fremdsprachigen Ausschnitt wörtlich zitieren. Keine erfundenen Wörter oder Feldnamen.')
+                return candidate_review
+            # Unter Ollama geht dieser Schritt an das Textmodell statt an das Kritiker-Modell.
+            confirmed=self.json_call(job,step+'-language-confirm-'+str(iteration),instruction+
+                '\nUnabhängige Gegenprüfung: Prüfe die Sprache selbst. Ein anderer Prüfer kann deutsche '
+                'Redewendungen irrtümlich beanstanden. Nicht nach stilistischen Fehlern suchen.',confirm,tokens=550)
+            self.store.write(job,'reports/'+step+'-language-decision-'+str(iteration)+'.json',
+                             {'initial':review,'confirmed':confirmed})
+            return confirmed
         review=check(value,0)
         if review['approved']:return value
         fixed=self.json_call(job,step+'-translation',
-            'Übersetze ALLE Texte ins Deutsche. Erhalte die genaue JSON-Struktur, Datentypen, Eigennamen, Handlung und Bedeutung. Strings bleiben Strings; keine Aufteilung in Kacheln oder neue Objekte. Keine zusätzlichen Inhalte. Return ONLY JSON matching the same structure.\nTEXTE:\n'+json.dumps(value,ensure_ascii=False),validator,tokens=tokens)
-        if not check(fixed,1)['approved']:
-            raise ValueError('Deutschpflicht nicht erfüllt: Nach der Übersetzung bleiben fremdsprachige Texte. Bilderzeugung angehalten.')
+            'Übersetze ausschließlich fremdsprachige Nutztexte ins Deutsche. Bereits deutsche Texte wortgetreu '
+            'beibehalten. Erhalte genaue JSON-Struktur, Schlüssel, Datentypen, IDs, technische Kennungen, '
+            'Eigennamen, Handlung und Bedeutung. Keine neuen Inhalte. Return ONLY JSON matching the same structure.'
+            '\nBESTÄTIGTE FREMDSPRACHIGE STELLEN:'+json.dumps(review['issues'],ensure_ascii=False)+
+            '\nTEXTE:\n'+json.dumps(value,ensure_ascii=False),validator,tokens=tokens)
+        final=check(fixed,1)
+        if not final['approved']:
+            raise ValueError('Deutschpflicht nicht erfüllt: Bestätigter fremdsprachiger Text: '+
+                             '; '.join(final['issues'])[:800]+'. Bilderzeugung angehalten.')
         return fixed
 
     def workflow(self,request,doc,cast,plan,revisions):

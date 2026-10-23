@@ -29,6 +29,7 @@ class FakeEngine:
     def json_call(self,ident,step,prompt,validator,tokens):
         if step=='source-outline':return validator({'characters':[{'name':'Ria','description':'Junge Frau mit kurzen schwarzen Haaren.','outfit':'Gelber Mantel.','backstory':'Sie sucht einen neuen Weg.'}],'arc':'Anfang, Reise, Heimkehr.','mood':'Warm und ruhig.'})
         if step.startswith('source-review'):
+            if 'TEXTGRUNDLAGE:' not in prompt:raise AssertionError('Die Logikprüfung braucht die Originalgrundlage, nicht nur den erzeugten Bogen.')
             self.reviewed.append(step);return validator({'approved':True,'issues':[]})
         start,end,total=map(int,re.search(r'für Kachel (\d+) bis (\d+) von insgesamt (\d+)',prompt).groups())
         people=json.JSONDecoder().raw_decode(prompt.split('FIGUREN: ')[1])[0];who=people[0]['id'];self.sizes.append(end-start+1)
