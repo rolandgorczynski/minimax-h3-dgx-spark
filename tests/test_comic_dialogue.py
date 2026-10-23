@@ -68,3 +68,19 @@ class DialogueTests(unittest.TestCase):
         self.assertEqual(dialogue.clean_caption('Ria sagt: „Mach weiter!“',[{'text':'Mach weiter!'}],CAST),'')
         self.assertEqual(dialogue.clean_caption('„Mach weiter!“ Ria sieht zum Spiegel.',[{'text':'Mach weiter!'}],CAST),'Ria sieht zum Spiegel.')
         self.assertEqual(dialogue.clean_caption(text,[{'text':p} for p in parts],CAST),'')
+
+class LockedSourceSectionsTests(unittest.TestCase):
+    def test_invalid_model_ids_and_omitted_final_dialogue_are_not_authoritative(self):
+        text='Markus: „Bereit?“\n\nRia: „Ja.“\n\nDie Schere schneidet den Zopf ab.\n\nRia sagt etwas wie „Oh!“ oder „Uh!“.\n\nMarkus: „Wir sind fertig.“\n\nRia: „Danke!“'
+        ledger=dialogue.quotes(text,CAST);sections=dialogue.sections(text,ledger,4)
+        wrong=[{'story':'Eine Bildbeschreibung.','characters':[], 'dialog':'Markus: Bereit?','quote_ids':['q999','q003']} for _ in range(4)]
+        result=dialogue.apply_sections(wrong,ledger,CAST,sections)
+        actual=[b['text'] for s in result for b in s['bubbles']]
+        self.assertEqual(actual,['Bereit?','Ja.','Wir sind fertig.','Danke!'])
+        self.assertEqual(result[-1]['bubbles'][-1]['text'],'Danke!')
+        self.assertEqual(sections[0]['start'],0);self.assertEqual(sections[-1]['end'],len(text))
+        self.assertTrue(all(a['end']==b['start'] for a,b in zip(sections,sections[1:])))
+        self.assertTrue(all(s['dialog']=='' for s in result))
+        self.assertEqual(wrong[0]['quote_ids'],['q999','q003'])
+        for section in sections:
+            for q in ledger:self.assertFalse(q['start']<section['end']<q['end'])

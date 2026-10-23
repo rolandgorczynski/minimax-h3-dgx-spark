@@ -1,5 +1,6 @@
 """Originalzitate vor der Szenenplanung sichern und unverändert als Sprechblasen setzen."""
 import copy
+from bisect import bisect_right
 import json
 import re
 
@@ -84,6 +85,8 @@ def fragments(text,limit=64):
 def clean_caption(caption,bubbles,cast):
     normalize=lambda s:''.join(c for c in s.casefold() if c.isalnum())
     texts={normalize(b['text']) for b in bubbles}
+    prefixes=[normalize(name) for c in cast for name in [c['name'],*c.get('aliases',[])]]
+    if normalize(caption) in {name+text for name in prefixes for text in texts}:return ''
     if normalize(caption) in texts or (bubbles and normalize(caption)==normalize(' '.join(b['text'] for b in bubbles))):return ''
     changed=False
     for bubble in bubbles:
@@ -93,10 +96,42 @@ def clean_caption(caption,bubbles,cast):
             changed=True
     if not changed:return caption
     caption=caption.strip().lstrip('.,:;!?–—- ').strip()
-    names='|'.join(re.escape(c['name']) for c in cast)
-    if names and re.fullmatch(r'(?:'+names+r')\s+'+VERBS+r'[:.,!?\s]*',caption,re.I):return ''
+    names='|'.join(re.escape(name) for c in cast for name in [c['name'],*c.get('aliases',[])])
+    if names and re.fullmatch(r'(?:'+names+r')(?:\s+'+VERBS+r')?[:.,!?\s]*',caption,re.I):return ''
     return caption
 
+
+
+def sections(article,ledger,count):
+    """Chronologische Quellabschnitte festlegen, ohne Anführungszeichen aufzutrennen."""
+    spoken=[q for q in ledger if q['kind']=='spoken']
+    candidates=[0]+[m.end() for m in re.finditer(r'\s+',article) if not any(q['start']<m.end()<q['end'] for q in ledger)]+[len(article)]
+    candidates=sorted(set(candidates))
+    if len(candidates)<count+1:raise ValueError('Zu wenig Textabschnitte für diese Kachelanzahl. Bitte weniger Kacheln wählen.')
+    weight=lambda pos:pos+sum(250*len(fragments(q['text'])) for q in spoken if q['end']<=pos)
+    weights={p:weight(p) for p in candidates}
+    penalty=lambda p:0 if article[:p].endswith('\n\n') else 40 if article[:p].rstrip().endswith(('.', '!', '?', '“', '”', '«', '»')) else 140
+    total=weights[len(article)];cuts=[0]
+    for index in range(1,count):
+        remaining=count-index
+        available=candidates[bisect_right(candidates,cuts[-1]):len(candidates)-remaining]
+        cuts.append(min(available,key=lambda p:(abs(weights[p]-total*index/count)+penalty(p),-p)))
+    cuts.append(len(article))
+    return [{'panel':i+1,'start':a,'end':b,'source_excerpt':article[a:b].strip(),
+             'quote_ids':[q['id'] for q in spoken if a<=q['start']<b]} for i,(a,b) in enumerate(zip(cuts,cuts[1:]))]
+
+
+def apply_sections(value,ledger,cast,locked):
+    if not isinstance(value,list) or len(value)!=len(locked):raise ValueError('Für jeden Quellabschnitt genau eine Szene liefern.')
+    prepared=copy.deepcopy(value)
+    for scene,section in zip(prepared,locked):
+        if not isinstance(scene,dict):raise ValueError('Ungültige Szene.')
+        # Das Modell besitzt keine Schreibhoheit über Zitate oder ihre Reihenfolge.
+        scene['quote_ids']=section['quote_ids'][:]
+        scene['source_start']=section['start'];scene['source_end']=section['end']
+        scene['dialog']=clean_caption(scene.get('dialog',''),
+            [{'text':q['text']} for q in ledger],cast)
+    return apply(prepared,ledger,cast)
 
 
 def apply(value,ledger,cast):

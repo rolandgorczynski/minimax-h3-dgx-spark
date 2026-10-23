@@ -809,3 +809,14 @@ Kopien der gemeinsam verwendeten Layoutmodule und Schrift. Die Compose-Datei
 übergibt diese Verzeichnisse als zusätzliche Build-Kontexte; normale Builds über
 `docker compose -p comic-automation -f docker-compose.comic-automation.yml build`
 übernehmen sie automatisch.
+
+Die Aufteilung der Originalgespräche wird vom Skript vor der Bildbeschreibung
+festgelegt. Dazu entstehen chronologische Quellabschnitte, die den gesamten
+Artikel einschließlich des Schlusses abdecken und keine Zitate zerschneiden.
+Sprechlast und Textumfang fließen in die Aufteilung ein. Das lokale Modell
+formuliert für jeden vorgegebenen Abschnitt die Bildkomposition. Seine eigenen
+`quote_ids` oder `bubbles` werden nicht übernommen; gesicherte Sprecher und
+Originaltexte werden aus der Dialogliste eingesetzt. Dadurch führen erfundene
+Zitat-IDs oder versehentlich verwendete unsichere Zitate nicht mehr zum Abbruch
+`Nur gesprochene Zitat-IDs als Sprechblasen verwenden`. Bildbeschreibungen und
+Sprecherzuordnungen aus dem Kontext bleiben vor dem Rendern redaktionell zu prüfen.

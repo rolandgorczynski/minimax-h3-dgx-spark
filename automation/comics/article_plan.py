@@ -35,6 +35,8 @@ def prepare(engine,stories,job):
     store.stage(job,'article_scenes')
     import json
     profiles=[narrative(c) for c in cast]
+    locked=dialogue.sections(article,ledger,count)
+    store.write(job,'source-sections.json',locked)
     prompt=(f'Adaptiere den gelieferten Ausgangstext in genau {count} chronologisch unterschiedliche Comic-Kacheln. '
         'Keine neue Geschichte, keine zusätzlichen Ereignisse, kein erfundenes Ende, keine erfundenen Zitate. '
         'Der vorhandene Schluss darf offen bleiben. Den Anfang und den Schluss abdecken. Das ist eine Vorplanung, die der Nutzer prüft. '
@@ -42,7 +44,9 @@ def prepare(engine,stories,job):
         'Szenen konkret und bildlich unterschiedlich beschreiben. Veränderungen von Haarlänge und Kleidung zeitlich korrekt abbilden. '
         'Pro Szene genau die sichtbaren Figuren-IDs angeben. Erzählertext nur für notwendige Handlung, Ort, Zeit oder Übergänge, höchstens 130 Zeichen. '
         'Eine Szene darf ganz ohne Erzählerkasten auskommen. Keine Gespräche im Erzählerkasten wiederholen oder indirekt nacherzählen. '
-        'Alle als spoken markierten Originalzitate aus der Dialogliste chronologisch auf die Kacheln verteilen: Jedes genau einmal in quote_ids angeben. '
+        'Die QUELLABSCHNITTE legen die Reihenfolge fest: Ergebnis 1 gehört zu Abschnitt 1, Ergebnis 2 zu Abschnitt 2 und so weiter. '
+        'Nur die Bildkomposition und einen optionalen Erzählertext für den jeweiligen source_excerpt formulieren. '
+        'Die Dialogverteilung ist bereits festgelegt und wird vom Skript eingesetzt. quote_ids und bubbles nicht selbst schreiben. '
         'Möglichst ein Gespräch mit Frage und Antwort gemeinsam zeigen. Meist höchstens zwei kurze Sprechblasen je Kachel planen. '
         'Für Sprechblasen freie Flächen in der Bildkomposition vorsehen; Gesichter, Hände und wichtige Handlungen sichtbar halten. '
         'Bei Gesprächen die erste sprechende Figur links und die antwortende Figur rechts anordnen und im Bildtext ausdrücklich benennen. '
@@ -51,10 +55,10 @@ def prepare(engine,stories,job):
         'Return ONLY JSON als Array mit genau '+str(count)+' Objekten: '
         '[{"heading":"Kurzer deutscher Titel","story":"Bildkomposition, höchstens 600 Zeichen",'
         '"dialog":"Deutscher Erzählertext","characters":["Figuren-ID"],'
-        '"quote_ids":["q001","q002"]}]. '
-        'Alle Texte ausschließlich auf Deutsch.\nFIGUREN:\n'+json.dumps(profiles,ensure_ascii=False)+'\nDIALOGLISTE:\n'+json.dumps(ledger,ensure_ascii=False)+'\nAUSGANGSTEXT:\n'+article)
+        '"character_states":{}}]. '
+        'Alle Texte ausschließlich auf Deutsch.\nFIGUREN:\n'+json.dumps(profiles,ensure_ascii=False)+'\nDIALOGLISTE:\n'+json.dumps(ledger,ensure_ascii=False)+'\nQUELLABSCHNITTE:\n'+json.dumps(locked,ensure_ascii=False)+'\nAUSGANGSTEXT:\n'+article)
     def validate(value):
-        scenes=engine.validate_scenes(dialogue.apply(value,ledger,cast),count,cast)
+        scenes=engine.validate_scenes(dialogue.apply_sections(value,ledger,cast,locked),count,cast)
         for scene in scenes:
             for bubble in scene['bubbles']:
                 if bubble.get('expression','normal') not in ('normal','shout','whisper'):bubble['expression']='normal'
