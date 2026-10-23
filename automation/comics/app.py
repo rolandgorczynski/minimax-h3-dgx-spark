@@ -92,6 +92,9 @@ class Service:
                 elif job.get('character_mode'):
                     from character_profiles import regenerate
                     result=regenerate(self.engine,ident)
+                elif job.get('experiment_mode'):
+                    from experiments import run
+                    result=run(self.engine,ident)
                 elif job.get('improvement_mode'):
                     from improvement import improve
                     result=improve(self.engine,ident)
@@ -145,7 +148,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -189,6 +192,12 @@ class Handler(BaseHTTPRequestHandler):
             job=self.service.store.get(parts[1])
             if not job:return self.reply(404,{'error':'Auftrag nicht gefunden.'})
             if len(parts)==2:return self.reply(200,self.public(job))
+            if len(parts)==3 and parts[2]=='experiment-options':
+                try:
+                    from experiments import options
+                    return self.reply(200,options(self.service.store,job))
+                except Conflict as exc:return self.reply(409,{'error':str(exc)})
+                except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
             if len(parts)==3 and parts[2]=='book-settings':
                 try:
                     import books
@@ -249,6 +258,22 @@ class Handler(BaseHTTPRequestHandler):
         if urlsplit(self.path).path in ('/sources','/source-tasks') or urlsplit(self.path).path.startswith('/source-tasks/'):
             return self.source_action()
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='experiment':
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=16384:raise ValueError('Experiment-Einstellungen maximal 16 KB.')
+                value=json.loads(self.rfile.read(size))
+                from experiments import enqueue
+                with self.service.stories.lock:
+                    parent=self.service.store.get(parts[1])
+                    if not parent:raise KeyError(parts[1])
+                    result=enqueue(self.service.store,parent,value)
+                return self.reply(202,self.public(result))
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
+            except KeyError:return self.reply(404,{'error':'Basis-Ausgabe nicht gefunden.'})
+            except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+            except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-export':
             return self.book_action(parts[1],True)
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='correct-panel':

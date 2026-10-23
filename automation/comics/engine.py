@@ -126,7 +126,7 @@ class Engine:
                     for child in item:walk(child)
                 elif isinstance(item,dict):
                     for key,child in item.items():
-                        if key not in ('id','speaker','expression','alignment','references','inline_references','source_id'):walk(child)
+                        if key not in ('id','speaker','expression','bubble_style','alignment','references','inline_references','source_id'):walk(child)
             walk(candidate);return found
         def check(candidate,iteration):
             content=texts(candidate)

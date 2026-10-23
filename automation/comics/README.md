@@ -908,3 +908,10 @@ Prüfung gestartet. Quellen sind erweiterbar und bleiben gespeichert.
 und Referenzbildern anlegen. Feste Fakten, offene Fäden und der bisherige Schluss
 gehen als Kontext in die Szenenplanung ein. Das Anlegen startet keinen Modell-
 oder Bildlauf. [Bedienung und API](../../docs/Comic_Serien.md).
+
+## Experimentelle Regiefassungen
+
+„Mehr Wow · Experiment“ erzeugt aus der ausgewählten fertigen Ausgabe eine
+eigene Variante mit Reglern für Spannung, Wut, Action, Blut, Dialoge und Bildwirkung.
+Dramaturgie und Dialoge dürfen optional frei überarbeitet werden. Das Original
+bleibt erhalten. [Ablauf und API](../../docs/Comic_Experimente.md).

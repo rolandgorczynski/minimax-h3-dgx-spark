@@ -280,3 +280,5 @@ KDP. Siehe [Comic-Bücher für KDP](docs/Comic_Buecher_KDP.md).
 Comic-Vorlagen aus Büchern und Filmen: [Quellengenerator](docs/Comic_Quellengenerator.md).
 
 Comic-Serien: [Fortsetzungen auf Basis vorhandener Geschichten](docs/Comic_Serien.md).
+
+Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Comic_Experimente.md).
