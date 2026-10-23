@@ -57,8 +57,8 @@ class ComicTests(unittest.TestCase):
         with patch.object(design,'lettering',wraps=design.lettering) as draw:
             image=design.panel(art,'Erzählertext.',1,bubbles,{'a'*32:'Markus'})
             texts=[call.args[1] for call in draw.call_args_list]
-            self.assertIn('Markus',texts)
-            self.assertIn('Verbrecher',texts)
+            self.assertNotIn('Markus',texts)
+            self.assertNotIn('Verbrecher',texts)
             self.assertIn('Nein! Nein!',texts)
             self.assertIn('Halt die Klappe, Idiot!',texts)
         moved=[{**bubbles[0],'tip_x':.1,'tip_y':.8},bubbles[1]]
@@ -74,12 +74,28 @@ class ComicTests(unittest.TestCase):
             calls={call.args[1]:call.kwargs for call in draw.call_args_list}
             self.assertEqual(calls['Ein neuer Morgen.']['minimum'],24)
             self.assertEqual(calls['Guten Morgen!']['minimum'],22)
-            self.assertEqual(calls['Ria']['minimum'],16)
+            self.assertNotIn('Ria',calls)
         with patch.object(design,'lettering',wraps=design.lettering) as draw:
             design.panel(art,'',1,[{'speaker':'a'*32,'text':'Psst.','expression':'whisper'}],{'a'*32:'Ria'})
             self.assertEqual(next(call.kwargs['minimum'] for call in draw.call_args_list if call.args[1]=='Psst.'),20)
         with self.assertRaisesRegex(ValueError,'zu lang'):
             design.panel(art,'',1,[{'speaker':'a'*32,'text':'Dieser Text passt niemals in diese kleine Sprechblase. '*6}],{'a'*32:'Ria'})
+
+    def test_bubble_styles_are_distinct_and_keep_speaker_without_printing_name(self):
+        art=Image.new('RGB',(1024,704),'#334455');renders=[]
+        for style in design.BUBBLE_STYLES:
+            bubble={'speaker':'a'*32,'text':'Hallo!','bubble_style':style,'show_name':True,'w':.43,'h':.24}
+            normalized=design.validate_bubbles([bubble])[0]
+            self.assertEqual(normalized['speaker'],'a'*32);self.assertFalse(normalized['show_name'])
+            self.assertEqual(normalized['bubble_style'],style)
+            with patch.object(design,'lettering',wraps=design.lettering) as draw:
+                result=design.panel(art,'',1,[bubble],{'a'*32:'Markus'})
+                self.assertNotIn('Markus',[call.args[1] for call in draw.call_args_list])
+            if style!='auto':renders.append(result.tobytes())
+            parsed=design.parse_scenes(json.dumps([{'story':'Markus spricht.','bubbles':[bubble]}]),1)
+            self.assertEqual(parsed[0]['bubbles'][0]['bubble_style'],style)
+        self.assertEqual(len(set(renders)),6)
+        with self.assertRaises(ValueError):design.validate_bubbles([{'speaker':'Ria','bubble_style':'falsch'}])
 
     def test_invalid_bubbles_and_overflow_fail_before_generation(self):
         for bubble in [{'speaker':''},{'speaker':'Markus','x':float('nan')},

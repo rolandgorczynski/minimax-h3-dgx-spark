@@ -44,6 +44,8 @@ def parse_scenes(serialized, count):
     return result
 
 
+BUBBLE_STYLES={'rounded':'Abgerundet','oval':'Oval','box':'Eckig','thought':'Gedankenwolke','burst':'Gezackt','dashed':'Gestrichelt','auto':'Nach Sprechweise'}
+
 def validate_bubbles(value):
     if not isinstance(value, list) or len(value)>6:
         raise ValueError('Maximal sechs Sprechblasen pro Kachel.')
@@ -60,7 +62,9 @@ def validate_bubbles(value):
             raise ValueError('Sprechblasentext maximal 400 Zeichen.')
         if expression not in ('normal','shout','whisper'):
             raise ValueError('Ungültiger Sprechblasen-Ausdruck.')
-        b={'speaker':speaker.strip(),'text':text.strip(),'expression':expression}
+        style=bubble.get('bubble_style','rounded')
+        if not isinstance(style,str) or style not in BUBBLE_STYLES:raise ValueError('Unbekannter Sprechblasenstil.')
+        b={'speaker':speaker.strip(),'text':text.strip(),'expression':expression,'bubble_style':style}
         defaults={'x':.08+(i%2)*.46,'y':.23+(i//2)*.24,'w':.38,'h':.18,
                   'tip_x':.25+(i%2)*.5,'tip_y':min(.96,.48+(i//2)*.22)}
         for key,default in defaults.items():
@@ -70,9 +74,9 @@ def validate_bubbles(value):
             b[key]=v
         if b['w']<.15 or b['h']<.08 or b['x']+b['w']>.995 or b['y']+b['h']>.995:
             raise ValueError('Die Sprechblase muss innerhalb der Kachel liegen und groß genug sein.')
-        show=bubble.get('show_name',True)
+        show=bubble.get('show_name',False)
         if not isinstance(show,bool): raise ValueError('Ungültige Sprecheranzeige.')
-        b['show_name']=show
+        b['show_name']=False
         result.append(b)
     return result
 
@@ -88,24 +92,34 @@ def _speech(draw, bubble, names):
     else:
         edge=y+h if dy>=0 else y
         base=[(cx-12,edge),(cx+12,edge)]
-    # Draw the tail first, then the body to keep the join clean.
-    draw.polygon([*base,(tx,ty)],fill='white',outline='black',width=3)
-    if bubble['expression']=='shout':
-        points=[]
-        for i in range(32):
-            angle=i*math.pi/16
-            radius=1 if i%2==0 else .9
-            points.append((cx+math.cos(angle)*w/2*radius,cy+math.sin(angle)*h/2*radius))
+    style=bubble.get('bubble_style','rounded')
+    if style=='auto':style='burst' if bubble['expression']=='shout' else 'dashed' if bubble['expression']=='whisper' else 'rounded'
+    if style=='thought':
+        # Gedanken werden durch kleine Blasen statt eines Sprechschweifs verbunden.
+        distance=math.hypot(dx,dy) or 1
+        edge_scale=min(w/(2*abs(dx)) if dx else 1,h/(2*abs(dy)) if dy else 1,1)
+        ex,ey=cx+dx*edge_scale,cy+dy*edge_scale
+        for t,r in ((.25,9),(.60,6),(.9,3)):
+            px,py=ex+(tx-ex)*t,ey+(ty-ey)*t
+            draw.ellipse((px-r,py-r,px+r,py+r),fill='white',outline='black',width=2)
+    else:draw.polygon([*base,(tx,ty)],fill='white',outline='black',width=3)
+    if style in ('burst','thought'):
+        count=64 if style=='burst' else 96;points=[]
+        for i in range(count):
+            angle=i*2*math.pi/count
+            radius=(1 if i%2==0 else .9) if style=='burst' else 1+.055*math.sin(angle*12)
+            points.append((cx+math.cos(angle)*w/2*radius/(1.055 if style=='thought' else 1),cy+math.sin(angle)*h/2*radius/(1.055 if style=='thought' else 1)))
         draw.polygon(points,fill='white',outline='black',width=3)
-        inset_x,inset_y=w*.18,h*.22
+        inset_x,inset_y=(w*.18,h*.22) if style=='burst' else (w*.16,h*.20)
+    elif style in ('oval','dashed'):
+        draw.ellipse((x,y,x+w,y+h),fill='white',outline='black' if style=='oval' else None,width=3)
+        if style=='dashed':
+            for angle in range(0,360,20):draw.arc((x,y,x+w,y+h),angle,angle+11,fill='black',width=3)
+        inset_x,inset_y=w*.15,h*.17
     else:
-        draw.rounded_rectangle((x,y,x+w,y+h),radius=min(25,h/3),fill='white',outline='black',width=3)
+        draw.rounded_rectangle((x,y,x+w,y+h),radius=0 if style=='box' else min(25,h/3),fill='white',outline='black',width=3)
         inset_x,inset_y=14,10
     top=y+inset_y
-    if bubble['show_name']:
-        speaker=names.get(bubble['speaker'],bubble['speaker'])
-        lettering(draw,speaker,(x+inset_x,top,x+w-inset_x,top+22),size=16,minimum=16)
-        top+=24
     size=28 if bubble['expression']=='shout' else 24
     if bubble['expression']=='whisper':size=20
     lettering(draw,bubble['text'],(x+inset_x,top,x+w-inset_x,y+h-inset_y),size=size,minimum=20 if bubble['expression']=='whisper' else 22)

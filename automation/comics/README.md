@@ -741,8 +741,8 @@ Text und Sprechweise bearbeiten, hinzufügen oder entfernen. Positionen und
 weitere Angaben bleiben im aufklappbaren JSON-Editor verfügbar.
 
 Die Schrift wird bei neuen gerenderten Sprechblasen nicht unter 22 Pixel,
-beim Flüstern nicht unter 20 Pixel verkleinert. Figurenbeschriftungen bleiben
-mindestens 16 Pixel, neue Erzählerkästen mindestens 24 Pixel groß, jeweils
+beim Flüstern nicht unter 20 Pixel verkleinert. Sprechernamen werden nur im Editor angezeigt; neue Erzählerkästen bleiben
+mindestens 24 Pixel groß, jeweils
 bezogen auf die 768 × 672 Pixel große Einzelkachel. Passt Text damit nicht,
 meldet die Layoutprüfung den Platzmangel. Das garantiert keine Lesbarkeit
 nach beliebiger Verkleinerung durch Plattformen; die Original-PNGs vor dem
@@ -829,3 +829,25 @@ Szenen oder die gespeicherte Fehlerdiagnose zu löschen. Ein Neustart geschieht
 nur nach ausdrücklichem Klick. Dafür steht auch weiterhin **Erweiterte Optionen →
 Szenen neu planen** zur Verfügung. Die Hauptschaltflächen werden nach einem
 Fehler wieder freigegeben.
+
+## Blasenform wählen, ohne Sprechernamen im Bild
+
+In **Gespräche / Sprechblasen** sowie **Sprechblasen positionieren** besitzt jede
+Blase die Auswahl **Blasenstil**: Abgerundet, Oval, Eckig, Gedankenwolke, Gezackt,
+Gestrichelt oder Nach Sprechweise. Die Sprechweise steuert die Betonung und
+Schriftgröße; die separat gewählte Blasenform bleibt davon unabhängig. Nur
+**Nach Sprechweise** wählt bei Rufen eine gezackte und bei Flüstern eine
+gestrichelte Form. Gedankenwolken haben kleine Verbindungsblasen statt eines
+durchgehenden Schweifs.
+
+Im Positionierungsdialog kann **Stil auf alle Blasen anwenden** die ausgewählte
+Form für den gesamten Comic setzen. Das ändert zunächst den Entwurf im Dialog;
+**Rückgängig** stellt die vorherigen Stile wieder her. Erst **Neue Beschriftung
+übernehmen** speichert eine neue Ausgabe und prüft alle Kacheln auf Textpassung.
+
+Sprechernamen erscheinen nicht mehr als zusätzliche Überschrift in den Blasen.
+Die Figurenzuordnung bleibt als `speaker` erhalten und ist im Editor sichtbar.
+Auch ältere Angaben `show_name: true` erzeugen bei einer neuen Beschriftung
+keine Namen mehr. Die Form liegt im Feld `bubble_style`; ohne Angabe ist sie
+abgerundet. Fertige PNGs ändern sich erst, wenn die neue Beschriftung ausdrücklich
+übernommen wird. Die vorhandenen Zeichnungen werden dafür nicht neu erzeugt.

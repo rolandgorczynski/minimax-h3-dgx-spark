@@ -146,7 +146,7 @@ def apply(value,ledger,cast):
         for ident in ids:
             if ident in seen:raise ValueError('Zitat '+ident+' wird mehrfach verwendet.')
             seen.append(ident);q=spoken[ident]
-            bubbles.extend({'speaker':q['speaker'],'text':part,'expression':'normal','source_quote_id':ident} for part in fragments(q['text']))
+            bubbles.extend({'speaker':q['speaker'],'text':part,'expression':'normal','bubble_style':'rounded','show_name':False,'source_quote_id':ident} for part in fragments(q['text']))
         if len(bubbles)>6:raise ValueError('Zu viele Gesprächsteile in einer Kachel. Auf mehrere Kacheln verteilen.')
         speakers=list(dict.fromkeys(b['speaker'] for b in bubbles));rows=[0,0]
         for bubble in bubbles:
