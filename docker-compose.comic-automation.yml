@@ -3,6 +3,9 @@ services:
   comic-automation:
     build:
       context: ./automation/comics
+      additional_contexts:
+        comic-design: ./extensions/dgx-comics
+        comic-fonts: ./extensions/dgx-invitations/fonts
     image: local/comic-automation:latest
     restart: unless-stopped
     init: true

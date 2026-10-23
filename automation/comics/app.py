@@ -75,7 +75,10 @@ class Service:
                 self.stop.wait(3);continue
             ident=job['id'];LOG.info('Starting %s',ident)
             try:
-                if job.get('character_mode'):
+                if job.get('lettering_mode'):
+                    from lettering import render
+                    result=render(self.store,ident)
+                elif job.get('character_mode'):
                     from character_profiles import regenerate
                     result=regenerate(self.engine,ident)
                 elif job.get('improvement_mode'):
@@ -98,7 +101,9 @@ class Service:
             except Exception as exc:
                 LOG.exception('Job %s failed',ident)
                 self.store.stage(ident,'failed',status='failed',error=str(exc)[:5000],cleanup_pending=True)
-            finally:self.cleanup(ident)
+            finally:
+                if not job.get('lettering_mode'):self.cleanup(ident)
+                else:self.store.update(ident,cleanup_pending=False)
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -129,7 +134,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -165,6 +170,12 @@ class Handler(BaseHTTPRequestHandler):
             job=self.service.store.get(parts[1])
             if not job:return self.reply(404,{'error':'Auftrag nicht gefunden.'})
             if len(parts)==2:return self.reply(200,self.public(job))
+            if len(parts)==3 and parts[2]=='lettering':
+                try:
+                    import lettering
+                    return self.reply(200,lettering.manifest(self.service.store,job))
+                except Conflict as exc:return self.reply(409,{'error':str(exc)})
+                except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
             if len(parts)>=3 and parts[2]=='share':
                 try:
                     if len(parts)==3:return self.reply(200,sharing.manifest(self.service.store,job))
@@ -209,6 +220,26 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
+        if len(parts) in (3,4) and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='lettering':
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=65536:raise ValueError('Beschriftung maximal 64 KB.')
+                value=json.loads(self.rfile.read(size))
+                if not isinstance(value,dict):raise ValueError('JSON-Objekt erforderlich.')
+                job=self.service.store.get(parts[1])
+                if not job:raise KeyError(parts[1])
+                import lettering
+                if len(parts)==3:
+                    with self.service.stories.lock:result=lettering.enqueue(self.service.store,job,value)
+                    return self.reply(202,self.public(result))
+                if parts[3]=='preview':return self.reply(200,lettering.preview(self.service.store,job,value))
+                if parts[3]=='automatic':return self.reply(200,lettering.automatic(self.service.store,job,value))
+                return self.reply(404,{'error':'Endpunkt nicht gefunden.'})
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
+            except KeyError:return self.reply(404,{'error':'Ausgabe nicht gefunden.'})
+            except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+            except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
         if parts==['characters','regenerate']:
             if not self.authorized():return
             try:

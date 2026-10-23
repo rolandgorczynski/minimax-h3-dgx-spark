@@ -759,3 +759,53 @@ Szenen neu planen** die neue Dialogübernahme ausdrücklich gestartet werden. De
 bisherige Szenenentwurf wird nach Bestätigung ersetzt; Figurenprofile, Artikel
 und bereits erzeugte Comics bleiben erhalten. Erst nach der anschließenden
 Prüfung auf **Comic erzeugen** klicken. Die Installation selbst startet nichts.
+
+## Sprechblasen mit der Maus positionieren
+
+Bei einer fertigen Ausgabe mit vorhandenen Originalzeichnungen steht
+**Sprechblasen positionieren** neben den Downloads. Der Dialog arbeitet mit der
+ausgewählten Comic-Ausgabe; die bearbeitbare Geschichten-Definition bleibt dabei
+unverändert.
+
+- **Verschieben:** den blauen Rahmen einer ausgewählten Sprechblase ziehen.
+- **Größe:** eine der vier blauen Ecken ziehen. Die Schrift wird nicht unter die
+  festgelegte Mindestgröße verkleinert.
+- **Sprecherziel:** den gelben Punkt am Schweif zur sprechenden Figur ziehen.
+- **Schutzbereiche:** **Bereich schützen** aktivieren und ein Rechteck um Gesicht,
+  Hand oder ein wichtiges Detail ziehen. Bereiche lassen sich einzeln entfernen.
+- **Automatisch anordnen:** sucht freie Positionen mit wenig Bildstruktur,
+  berücksichtigt Leserichtung, andere Blasen, Randabstand, Erzählerkasten und
+  markierte Schutzbereiche. Die Schweifziele bleiben erhalten. Es findet keine
+  automatische Gesichtserkennung statt; die Positionen anschließend prüfen.
+- **Rückgängig:** stellt die vorherige Bearbeitung wieder her.
+
+Während des Ziehens wird eine vereinfachte Vorschau gezeigt. Nach dem Loslassen
+folgt die exakte Beschriftung aus demselben Layoutmodul wie beim Export.
+Überschneidungen mit anderen Blasen, Erzählerkasten oder Schutzbereichen werden
+angezeigt. Bei zu wenig Platz für lesbaren Text ist das Übernehmen gesperrt.
+Beim Speichern werden alle Kacheln erneut geprüft, auch die gerade nicht sichtbaren.
+
+**Neue Beschriftung übernehmen** erzeugt eine eigene Ausgabe mit aktualisierten
+PNG-Kacheln, Gesamtbild, Teilseiten, PDF und Downloadpaket. Die Dateien
+`panels/NN_art.png` werden bytegleich übernommen. Der ursprüngliche Comic und
+seine Dateien bleiben erhalten. Das läuft als CPU-Layout ohne LLM, Diffusionsmodell,
+ComfyUI-Auftrag oder Änderung an gespeicherten Workflows. Lediglich die Illustration
+wird wiederverwendet; Sprechblasen und Erzählerkästen werden neu gezeichnet.
+
+| Aufruf | Zweck |
+|---|---|
+| `GET /jobs/<ID>/lettering` | Kacheln, Figuren und Versionskennung zum Positionieren |
+| `POST /jobs/<ID>/lettering/preview` | Exakte Vorschau und Layoutprüfung ohne Speichern |
+| `POST /jobs/<ID>/lettering/automatic` | Vorschlag unter Beachtung geschützter Bereiche |
+| `POST /jobs/<ID>/lettering` | Geprüfte Beschriftung als neue Ausgabe vormerken |
+
+Die POST-Anfragen verwenden `version` aus dem GET-Aufruf. Vorschau und automatische
+Anordnung erwarten zusätzlich `panel` (ab 0) und `layout` mit `dialog`, `bubbles`
+und `protected_areas`. Zum Übernehmen `panels` mit genau einem solchen Layout pro
+Kachel senden. Der vorhandene lokale Zugangsschutz gilt auch für diese Endpunkte.
+
+Das Automationsimage enthält dafür [Pillow](https://pypi.org/project/pillow/) und
+Kopien der gemeinsam verwendeten Layoutmodule und Schrift. Die Compose-Datei
+übergibt diese Verzeichnisse als zusätzliche Build-Kontexte; normale Builds über
+`docker compose -p comic-automation -f docker-compose.comic-automation.yml build`
+übernehmen sie automatisch.

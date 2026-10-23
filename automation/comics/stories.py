@@ -213,7 +213,7 @@ class Stories:
             if not row:raise KeyError(ident)
             if json.loads(row['doc'])['status'] in ('queued','running'):raise Conflict('Laufende oder wartende Ausgaben können nicht gelöscht werden.')
             dependents=[json.loads(r['doc']) for r in db.execute('SELECT doc FROM jobs').fetchall()]
-            if any(j.get('parent_job')==ident and j.get('improvement_mode') and j['status'] in ('queued','running') for j in dependents):
+            if any(j.get('parent_job')==ident and (j.get('improvement_mode') or j.get('lettering_mode')) and j['status'] in ('queued','running') for j in dependents):
                 raise Conflict('Die Ausgabe wird gerade als Grundlage einer Verbesserung verwendet.')
             self._delete_row(db,ident)
         shutil.rmtree(self.store.root/'jobs'/ident,ignore_errors=True)
