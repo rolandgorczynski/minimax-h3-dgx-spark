@@ -16,6 +16,7 @@ function drawCharacterEditor(){
  const cast=editorPayload.characters||[];$('story-characters').replaceChildren(...cast.map(c=>characterCard(c,'story',ticket)));
  $('story-character-empty').hidden=cast.length>0;
  $('library-characters').replaceChildren(...characterLibrary.map(c=>characterCard(c,'library',ticket)));
+ refreshSpeechCastOptions();
  $('cast-summary').textContent=cast.length?'Figuren dieser Geschichte: '+cast.map(c=>c.name).join(' · '):'Noch keine Figuren in dieser Geschichte.';
 }
 function characterCard(c,scope,ticket){
@@ -25,7 +26,7 @@ function characterCard(c,scope,ticket){
  const picture=characterPicture(c,scope);if(picture?.inline){image.src='data:image/png;base64,'+picture.inline;image.hidden=false;placeholder.hidden=true}else if(picture?.path){file(picture.path).then(blob=>{if(ticket!==characterRenderTicket)return;const url=URL.createObjectURL(blob);characterImageUrls.push(url);image.src=url;image.hidden=false;placeholder.hidden=true}).catch(()=>{placeholder.textContent='Referenzbild nicht verfügbar'})}
  const id=document.createElement('small');id.textContent='Figuren-ID: '+c.id;box.append(id);
  const controls=document.createElement('fieldset');controls.className='character-fields';box.append(controls);
- for(const [key,label,limit,tag] of characterFields){const l=document.createElement('label'),e=document.createElement(tag);l.append(document.createTextNode(label));e.value=c[key]||'';e.maxLength=limit;e.dataset.characterField=key;l.append(e);controls.append(l);e.oninput=event=>{event.stopPropagation();c[key]=e.value;if(key==='name'){name.textContent=e.value;image.alt='Referenzbild von '+e.value}if(scope==='story')markCharacterDirty();else status.textContent='Ungespeicherte Änderungen in der Bibliothek.'}}
+ for(const [key,label,limit,tag] of characterFields){const l=document.createElement('label'),e=document.createElement(tag);l.append(document.createTextNode(label));e.value=c[key]||'';e.maxLength=limit;e.dataset.characterField=key;l.append(e);controls.append(l);e.oninput=event=>{event.stopPropagation();c[key]=e.value;if(key==='name'){name.textContent=e.value;image.alt='Referenzbild von '+e.value;refreshSpeechCastOptions()}if(scope==='story')markCharacterDirty();else status.textContent='Ungespeicherte Änderungen in der Bibliothek.'}}
  const alignLabel=document.createElement('label'),align=document.createElement('select');align.dataset.characterField='alignment';alignLabel.append(document.createTextNode('Gesinnung (freiwillig)'));for(const [value,label] of Object.entries(characterAlignments)){const o=document.createElement('option');o.value=value;o.textContent=label;align.append(o)}align.value=c.alignment||'';alignLabel.append(align);controls.append(alignLabel);
  align.oninput=event=>{event.stopPropagation();c.alignment=align.value;if(scope==='story')markCharacterDirty();else status.textContent='Ungespeicherte Änderungen in der Bibliothek.'};
  const hint=document.createElement('p');hint.textContent='Ordnung: rechtschaffen – neutral – chaotisch. Moral: gut – neutral – böse. „Nicht festgelegt“ lässt die Gesinnung offen und ist keine neutrale Gesinnung.';controls.append(hint);

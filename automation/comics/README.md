@@ -711,3 +711,51 @@ verhindert, bis diese Geschichte eine eigene Kopie enthält.
 
 Der Figurenauftrag läuft in derselben dauerhaften Warteschlange wie Comics,
 übernimmt deren lokalen Zugangsschutz und bereinigt nur seine eigene ComfyUI-Sitzung.
+
+## Originalgespräche von Anfang an als Sprechblasen
+
+Beim Klick auf **Szenen erstellen** werden zuerst die Figuren erkannt. Danach
+werden die Gesprächszitate aus dem Ausgangstext in einer Dialogliste gesichert.
+Unterstützt sind deutsche, französische und gerade Anführungszeichen sowie
+Sprecherzeilen wie `Markus: Nein! Nein!`. Eindeutige Sprecherangaben vor oder
+nach dem Zitat werden direkt übernommen. Für Zuordnungen aus dem Gesprächskontext
+wird das bereits eingerichtete lokale Sprachmodell verwendet.
+
+Zitierte Begriffe, Schriftstücke und Gedanken werden von gesprochenen Worten
+getrennt. Unsichere Sprecher und unbestimmte Alternativen wie „Oh!“ oder „Uh!“
+bleiben als offene Hinweise sichtbar; sie werden nicht als sichere Aussage
+übernommen. Eine Modellzuordnung ist trotzdem vor dem Rendern redaktionell zu prüfen.
+
+Der Szenenplan verteilt ausschließlich die IDs der erkannten Gesprächszitate
+auf die Kacheln. Der Originalwortlaut und die Figur werden anschließend aus
+der Dialogliste eingesetzt. Die Prüfung verhindert fehlende, doppelte,
+vertauschte und frei erfundene Gesprächseinträge. Längere Originalzitate werden
+an Wortgrenzen auf mehrere Sprechblasen verteilt, ohne sie umzuschreiben oder
+Auslassungszeichen einzufügen. Bei zu viel Text wird die Verteilung erneut
+geprüft; ungeklärte Platzprobleme bleiben als Hinweise am bearbeitbaren Entwurf.
+
+**Erzählertext** ist optional und dient Handlung, Ort, Zeit oder Übergängen.
+Gesprochene Originalzitate gehören in **Gespräche / Sprechblasen**. Wortgleiche
+Doppelungen werden entfernt. Jede Sprechblase lässt sich mit Figurenauswahl,
+Text und Sprechweise bearbeiten, hinzufügen oder entfernen. Positionen und
+weitere Angaben bleiben im aufklappbaren JSON-Editor verfügbar.
+
+Die Schrift wird bei neuen gerenderten Sprechblasen nicht unter 22 Pixel,
+beim Flüstern nicht unter 20 Pixel verkleinert. Figurenbeschriftungen bleiben
+mindestens 16 Pixel, neue Erzählerkästen mindestens 24 Pixel groß, jeweils
+bezogen auf die 768 × 672 Pixel große Einzelkachel. Passt Text damit nicht,
+meldet die Layoutprüfung den Platzmangel. Das garantiert keine Lesbarkeit
+nach beliebiger Verkleinerung durch Plattformen; die Original-PNGs vor dem
+Posten in der tatsächlichen Darstellung prüfen.
+
+Die Dialogliste liegt unter `dialogue_ledger` in der bearbeitbaren Geschichte
+und als `dialogue-ledger.json` im privaten Planungsauftrag. Sie wird nicht in
+das öffentliche Bildpaket für Substack oder X aufgenommen. Das Einspielen
+dieser Funktion verändert weder vorhandene Szenenpläne noch fertige Comics
+und startet keinen neuen Lauf.
+
+Für eine bereits gespeicherte Geschichte kann unter **Erweiterte Optionen →
+Szenen neu planen** die neue Dialogübernahme ausdrücklich gestartet werden. Der
+bisherige Szenenentwurf wird nach Bestätigung ersetzt; Figurenprofile, Artikel
+und bereits erzeugte Comics bleiben erhalten. Erst nach der anschließenden
+Prüfung auf **Comic erzeugen** klicken. Die Installation selbst startet nichts.

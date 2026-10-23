@@ -2,6 +2,7 @@
 import copy
 import uuid
 from character_profiles import narrative
+import dialogue
 
 
 def prepare(engine,stories,job):
@@ -29,6 +30,8 @@ def prepare(engine,stories,job):
     for c in result:
         old=next((p for p in existing if c['name'].casefold() in [p['name'].casefold(),*[a.casefold() for a in p.get('aliases',[])]]),None)
         cast.append(copy.deepcopy(old) if old else {**c,'id':uuid.uuid5(uuid.UUID(entry['story_id']),c['name'].casefold()).hex,'aliases':[],'variants':{},'references':[]})
+    store.stage(job,'article_dialogue')
+    ledger=dialogue.collect(engine,job,article,cast)
     store.stage(job,'article_scenes')
     import json
     profiles=[narrative(c) for c in cast]
@@ -37,15 +40,21 @@ def prepare(engine,stories,job):
         'Der vorhandene Schluss darf offen bleiben. Den Anfang und den Schluss abdecken. Das ist eine Vorplanung, die der Nutzer prüft. '
         'Vorgegebene Vorgeschichte, Persönlichkeit, Motivation und Gesinnung beachten, soweit sie dem Ausgangstext nicht widersprechen. Nicht festgelegte Eigenschaften offen lassen. '
         'Szenen konkret und bildlich unterschiedlich beschreiben. Veränderungen von Haarlänge und Kleidung zeitlich korrekt abbilden. '
-        'Pro Szene genau die sichtbaren Figuren-IDs angeben. Erzählertext knapp und sachgetreu, höchstens 130 Zeichen. '
-        'Gesprochene Worte nur als kurze Originalzitate mit eindeutiger Sprecher-ID; im Zweifel keine Sprechblase. '
+        'Pro Szene genau die sichtbaren Figuren-IDs angeben. Erzählertext nur für notwendige Handlung, Ort, Zeit oder Übergänge, höchstens 130 Zeichen. '
+        'Eine Szene darf ganz ohne Erzählerkasten auskommen. Keine Gespräche im Erzählerkasten wiederholen oder indirekt nacherzählen. '
+        'Alle als spoken markierten Originalzitate aus der Dialogliste chronologisch auf die Kacheln verteilen: Jedes genau einmal in quote_ids angeben. '
+        'Möglichst ein Gespräch mit Frage und Antwort gemeinsam zeigen. Meist höchstens zwei kurze Sprechblasen je Kachel planen. '
+        'Für Sprechblasen freie Flächen in der Bildkomposition vorsehen; Gesichter, Hände und wichtige Handlungen sichtbar halten. '
+        'Bei Gesprächen die erste sprechende Figur links und die antwortende Figur rechts anordnen und im Bildtext ausdrücklich benennen. '
+        'Keine Zitate kürzen, zusammenfassen oder weglassen. Keine eigenen bubbles schreiben: Text und Sprecher werden aus der Dialogliste eingesetzt. '
+        'Andere Zitatarten (Begriffe, Gedanken, Schrift, unsichere Angaben) nicht als Gespräch einsetzen. '
         'Return ONLY JSON als Array mit genau '+str(count)+' Objekten: '
         '[{"heading":"Kurzer deutscher Titel","story":"Bildkomposition, höchstens 600 Zeichen",'
         '"dialog":"Deutscher Erzählertext","characters":["Figuren-ID"],'
-        '"bubbles":[{"speaker":"Figuren-ID","text":"Originalzitat","expression":"normal"}]}]. '
-        'Alle Texte ausschließlich auf Deutsch.\nFIGUREN:\n'+json.dumps(profiles,ensure_ascii=False)+'\nAUSGANGSTEXT:\n'+article)
+        '"quote_ids":["q001","q002"]}]. '
+        'Alle Texte ausschließlich auf Deutsch.\nFIGUREN:\n'+json.dumps(profiles,ensure_ascii=False)+'\nDIALOGLISTE:\n'+json.dumps(ledger,ensure_ascii=False)+'\nAUSGANGSTEXT:\n'+article)
     def validate(value):
-        scenes=engine.validate_scenes(value,count,cast)
+        scenes=engine.validate_scenes(dialogue.apply(value,ledger,cast),count,cast)
         for scene in scenes:
             for bubble in scene['bubbles']:
                 if bubble.get('expression','normal') not in ('normal','shout','whisper'):bubble['expression']='normal'
@@ -57,15 +66,9 @@ def prepare(engine,stories,job):
         store.stage(job,'article_adjust')
         scenes=engine.json_call(job,'article-scenes-fit',prompt+'\nKorrigiere diese Beschriftungsprobleme, ohne die Handlung zu ändern: '+json.dumps(fit['issues'],ensure_ascii=False)+'\nENTWURF:'+json.dumps(scenes,ensure_ascii=False),validate,tokens=min(8000,count*420+500))
         fit=engine.preflight({'scenes':scenes},cast)
-    # Spoken quotations are checked literally, never silently replaced or invented.
     quote_warnings=[f'Kachel {issue.get("panel","?")}: {issue["message"]}' for issue in fit['issues']] if not fit['valid'] else []
-    for i,scene in enumerate(scenes):
-        kept=[]
-        for bubble in scene['bubbles']:
-            if bubble['text'] and bubble['text'] in article:kept.append(bubble)
-            else:quote_warnings.append(f'Kachel {i+1}: nicht wörtlich belegte Sprechblase entfernt.')
-        scene['bubbles']=kept
-    payload={**source,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{}}
+    quote_warnings.extend('Zitat '+q['id']+': Sprecher oder Wortlaut offen, bitte prüfen: „'+q['text']+'“' for q in ledger if q['kind']=='uncertain')
+    payload={**source,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
     store.stage(job,'article_save')
     store.write(job,'planned-storyboard.json',payload)
     # A later user edit must never be overwritten by a delayed model response.

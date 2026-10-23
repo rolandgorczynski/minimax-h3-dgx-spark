@@ -104,11 +104,11 @@ def _speech(draw, bubble, names):
     top=y+inset_y
     if bubble['show_name']:
         speaker=names.get(bubble['speaker'],bubble['speaker'])
-        lettering(draw,speaker,(x+inset_x,top,x+w-inset_x,top+22),size=16,minimum=12)
+        lettering(draw,speaker,(x+inset_x,top,x+w-inset_x,top+22),size=16,minimum=16)
         top+=24
     size=28 if bubble['expression']=='shout' else 24
     if bubble['expression']=='whisper':size=20
-    lettering(draw,bubble['text'],(x+inset_x,top,x+w-inset_x,y+h-inset_y),size=size,minimum=14)
+    lettering(draw,bubble['text'],(x+inset_x,top,x+w-inset_x,y+h-inset_y),size=size,minimum=20 if bubble['expression']=='whisper' else 22)
 
 
 def lettering(draw, value, bounds, size=30, minimum=18):
@@ -148,7 +148,7 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None):
     draw = ImageDraw.Draw(tile)
     if dialogue and bubbles is not None:
         draw.rectangle((65,10,width-15,band-20),fill='white',outline='black',width=3)
-        lettering(draw,dialogue,(80,20,width-30,band-30))
+        lettering(draw,dialogue,(80,20,width-30,band-30),minimum=24)
     elif dialogue:
         draw.rounded_rectangle((65, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
         draw.polygon([(width-165, band-21), (width-120, band-21), (width-125, band+8)], fill='white', outline='black', width=3)

@@ -129,8 +129,8 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js'):
-            body=Path(__file__).with_name('character-editor.js' if path.endswith('.js') else 'index.html').read_bytes()
+        if path in ('/','/character-editor.js','/speech-editor.js'):
+            body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
         if not self.authorized():return

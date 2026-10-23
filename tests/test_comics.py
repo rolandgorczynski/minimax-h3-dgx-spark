@@ -67,6 +67,20 @@ class ComicTests(unittest.TestCase):
         scenes=design.parse_scenes(json.dumps([{'story':'Markus wartet.','dialog':'','bubbles':bubbles}]),1)
         self.assertEqual(scenes[0]['bubbles'],bubbles)
 
+    def test_speech_and_narration_enforce_readable_font_minima(self):
+        art=Image.new('RGB',(1024,704),'#224466')
+        with patch.object(design,'lettering',wraps=design.lettering) as draw:
+            design.panel(art,'Ein neuer Morgen.',1,[{'speaker':'a'*32,'text':'Guten Morgen!'}],{'a'*32:'Ria'})
+            calls={call.args[1]:call.kwargs for call in draw.call_args_list}
+            self.assertEqual(calls['Ein neuer Morgen.']['minimum'],24)
+            self.assertEqual(calls['Guten Morgen!']['minimum'],22)
+            self.assertEqual(calls['Ria']['minimum'],16)
+        with patch.object(design,'lettering',wraps=design.lettering) as draw:
+            design.panel(art,'',1,[{'speaker':'a'*32,'text':'Psst.','expression':'whisper'}],{'a'*32:'Ria'})
+            self.assertEqual(next(call.kwargs['minimum'] for call in draw.call_args_list if call.args[1]=='Psst.'),20)
+        with self.assertRaisesRegex(ValueError,'zu lang'):
+            design.panel(art,'',1,[{'speaker':'a'*32,'text':'Dieser Text passt niemals in diese kleine Sprechblase. '*6}],{'a'*32:'Ria'})
+
     def test_invalid_bubbles_and_overflow_fail_before_generation(self):
         for bubble in [{'speaker':''},{'speaker':'Markus','x':float('nan')},
                        {'speaker':'Markus','x':.9,'w':.4}, {'speaker':'Markus','expression':'invalid'}]:

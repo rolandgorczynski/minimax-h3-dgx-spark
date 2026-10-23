@@ -19,8 +19,8 @@ class FakeEngine:
         self.calls.append(step)
         if step=='article-people':return validator({'characters':[{'name':'Ria','description':'Erwachsene Person, braune Augen. Frisur ändert sich je Szene.','outfit':'Friseurumhang'}]})
         import json
-        people=json.loads(prompt.split('FIGUREN:\n')[1].split('\nAUSGANGSTEXT:')[0])
-        return validator([{'story':'Ria sitzt vor dem Spiegel.','dialog':'Die Veränderung beginnt.','characters':[people[0]['id']],'bubbles':[{'speaker':people[0]['id'],'text':text,'expression':'toneless'}]} for text in ['Bereit?','Erfundenes Zitat']])
+        people=json.loads(prompt.split('FIGUREN:\n')[1].split('\nDIALOGLISTE:')[0])
+        return validator([{'story':'Ria sitzt vor dem Spiegel.','dialog':'Bereit?','characters':[people[0]['id']],'quote_ids':['q001'],'bubbles':[{'speaker':people[0]['id'],'text':'Erfundenes Zitat'}]}, {'story':'Ria sieht zum Spiegel.','dialog':'Die Veränderung beginnt.','characters':[people[0]['id']],'quote_ids':[]}])
     def preflight(self,*args):return {'valid':True,'issues':[]}
 
 
@@ -28,7 +28,7 @@ class ArticlePlanTests(unittest.TestCase):
     def test_layout_issue_keeps_editable_draft_without_rendering(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store)
-            story=stories.save({'name':'HG1','mode':'editorial','payload':{'article':'„Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'scenes':[]}})
+            story=stories.save({'name':'HG1','mode':'editorial','payload':{'article':'Ria: „Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'scenes':[]}})
             job=stories.plan(story['id'],1);engine=FakeEngine(store)
             engine.preflight=lambda *args:{'valid':False,'issues':[{'panel':1,'message':'Text zu lang.'}]}
             result=prepare(engine,stories,job['id'])
@@ -39,7 +39,7 @@ class ArticlePlanTests(unittest.TestCase):
     def test_prepare_without_rewriting_or_rendering(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store)
-            story=stories.save({'name':'HG1','mode':'editorial','payload':{'article':'„Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'scenes':[]}})
+            story=stories.save({'name':'HG1','mode':'editorial','payload':{'article':'Ria: „Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'scenes':[]}})
             job=stories.plan(story['id'],1)
             with self.assertRaises(Conflict):stories.plan(story['id'],1)
             store.claim();engine=FakeEngine(store);result=prepare(engine,stories,job['id'])
@@ -47,13 +47,16 @@ class ArticlePlanTests(unittest.TestCase):
             self.assertEqual(len(saved['payload']['scenes']),2)
             self.assertEqual(saved['payload']['scenes'][1]['bubbles'],[])
             self.assertEqual(saved['payload']['scenes'][0]['bubbles'][0]['expression'],'normal')
+            self.assertEqual(saved['payload']['scenes'][0]['bubbles'][0]['text'],'Bereit?')
+            self.assertEqual(saved['payload']['scenes'][0]['dialog'],'')
+            self.assertEqual(saved['payload']['dialogue_ledger'][0]['speaker'],saved['payload']['characters'][0]['id'])
             self.assertEqual(saved['payload']['planned_article'],story['payload']['article'])
             self.assertEqual(result['status'],'completed');self.assertEqual(engine.calls,['article-people','article-scenes'])
 
     def test_late_result_cannot_overwrite_user_edit(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store)
-            story=stories.save({'name':'HG1','mode':'editorial','payload':{'article':'„Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'scenes':[]}})
+            story=stories.save({'name':'HG1','mode':'editorial','payload':{'article':'Ria: „Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'scenes':[]}})
             job=stories.plan(story['id'],1)
             stories.save({**story,'name':'Mein neuer Titel'},story['id'],1)
             with self.assertRaises(Conflict):prepare(FakeEngine(store),stories,job['id'])
