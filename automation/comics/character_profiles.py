@@ -15,7 +15,9 @@ LIMITS = {'name':100, 'description':2500, 'outfit':1000, 'backstory':2500, 'pers
 def validate(profile):
     if not isinstance(profile,dict):raise ValueError('Ungültiges Figurenprofil.')
     for key,limit in LIMITS.items():
-        if not isinstance(profile.get(key,''),str) or len(profile.get(key,''))>limit:
+        if not isinstance(profile.get(key,''),str):
+            raise ValueError(f'{key}: Text erwartet, kein null oder anderer Datentyp.')
+        if len(profile.get(key,''))>limit:
             raise ValueError(f'{key}: maximal {limit} Zeichen.')
     alignment=profile.get('alignment','')
     if not isinstance(alignment,str) or alignment not in ALIGNMENTS:raise ValueError('Unbekannte Gesinnung.')

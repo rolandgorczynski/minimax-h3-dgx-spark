@@ -45,6 +45,25 @@ class SourceTests(unittest.TestCase):
         for text in [example().replace('KACHEL 2:','KACHEL 3:'),example().replace('Sprecher: Ria','Sprecher: Niemand'),example().replace('KACHELANZAHL: 2','KACHELANZAHL: 3'),example().replace('flüsternd','lautlos')]:
             with self.assertRaises(ValueError):sources.parse(text,STYLE)
 
+    def test_outline_accepts_null_clothing_and_removes_voice_only_narrator(self):
+        original={'characters':[{'name':'Siegfried','description':'Junger Mann.','outfit':'Tunika.'},{'name':'Lindwurm','description':'Großer Drache.','outfit':None,'backstory':None},{'name':'Erzähler','description':'Unsichtbare Stimme, die die Geschichte kommentiert.','outfit':None}],'arc':['Begegnung.','Kampf.','Ende.'],'mood':'Spannend.'}
+        result=sources.check_outline(original)
+        self.assertEqual([c['name'] for c in result['characters']],['Siegfried','Lindwurm'])
+        self.assertEqual(result['characters'][1]['outfit'],'Keine Kleidung festgelegt.')
+        self.assertEqual(result['characters'][1]['backstory'],'')
+        self.assertEqual(result['arc'],'Begegnung.\nKampf.\nEnde.')
+        malformed=copy.deepcopy(original);malformed['arc']=[{'unerwartet':'Kein Text'}]
+        with self.assertRaisesRegex(ValueError,'Handlungsbogen fehlt'):sources.check_outline(malformed)
+        self.assertEqual(len(original['characters']),3);self.assertIsNone(original['characters'][1]['outfit'])
+        visible={'characters':[{'name':'Erzähler','description':'Mann im schwarzen Mantel.','outfit':'Mantel.'}],'arc':'Ein Mann betritt den Raum.','mood':''}
+        self.assertEqual(len(sources.check_outline(visible)['characters']),1)
+        original['characters'][0]['outfit']='x'*1001
+        with self.assertRaisesRegex(ValueError,'maximal 1000'):sources.check_outline(original)
+
+    def test_profile_type_errors_are_not_reported_as_length_errors(self):
+        from character_profiles import validate
+        with self.assertRaisesRegex(ValueError,'outfit: Text erwartet'):validate({'outfit':None})
+
     def test_catalog_persists_user_sources_and_never_overwrites_defaults(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);original=copy.deepcopy(sources.BUILTINS);entry=sources.save_source(store,{'title':'Mein alter Film','kind':'Film','edition':'Konkrete Fassung','text':'Eigene Szenenzusammenfassung.','rights':'Noch zu prüfen.','territories':'Deutschland'})
