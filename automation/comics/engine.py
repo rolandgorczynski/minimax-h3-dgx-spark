@@ -127,8 +127,8 @@ class Engine:
                 node['widgets_values']=values;node['properties']['cast_initialized']=True
         return workflow
 
-    def studio(self,job,step,doc,cast,plan=None,revisions=None):
-        req=self.store.get(job)['request'];graph=copy.deepcopy(self.loaders)
+    def studio(self,job,step,doc,cast,plan=None,revisions=None,request_override=None):
+        req=request_override or self.store.get(job)['request'];graph=copy.deepcopy(self.loaders)
         fields=dict(zip(['artikel','comic_art','anzahl_kacheln','aktion','titel','spalten','signatur','seed','bearbeiteter_plan','kachel_revisionen','figuren'],
             [doc['story'],req['stil'],req['kacheln'],'Comic generieren' if plan else 'Szenen planen',doc['title'],min(3,req['kacheln']),req['signatur'],req['seed'],json.dumps(plan,ensure_ascii=False) if plan else '',json.dumps(revisions or {}),json.dumps(cast,ensure_ascii=False)]))
         fields.update(model=[self.model,0],clip=[self.clip,0],vae=[self.vae,0],automation_session=job)

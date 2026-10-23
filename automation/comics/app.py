@@ -75,7 +75,10 @@ class Service:
                 self.stop.wait(3);continue
             ident=job['id'];LOG.info('Starting %s',ident)
             try:
-                if job.get('lettering_mode'):
+                if job.get('panel_correction_mode'):
+                    from panel_correction import run
+                    result=run(self.engine,ident)
+                elif job.get('lettering_mode'):
                     from lettering import render
                     result=render(self.store,ident)
                 elif job.get('character_mode'):
@@ -134,7 +137,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -205,7 +208,7 @@ class Handler(BaseHTTPRequestHandler):
     def public(self,job):
         result={k:v for k,v in job.items() if k not in ('steps','planning_source')}
         preview=self.story_preview(job)
-        result['story_available']=preview['available'];result['story_title']=preview.get('title','') or job.get('improvement_title','')
+        result['story_available']=preview['available'];result['story_title']=preview.get('title','') or job.get('improvement_title','') or job.get('story_title','')
         result['status_url']='/jobs/'+job['id'];return result
 
     def story_preview(self,job):
@@ -220,6 +223,22 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='correct-panel':
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=16384:raise ValueError('Korrekturanfrage maximal 16 KB.')
+                import panel_correction
+                value=json.loads(self.rfile.read(size))
+                with self.service.stories.lock:
+                    parent=self.service.store.get(parts[1])
+                    if not parent:raise KeyError(parts[1])
+                    job=panel_correction.enqueue(self.service.store,parent,value)
+                return self.reply(202,self.public(job))
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
+            except KeyError:return self.reply(404,{'error':'Ausgabe nicht gefunden.'})
+            except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+            except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts) in (3,4) and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='lettering':
             if not self.authorized():return
             try:

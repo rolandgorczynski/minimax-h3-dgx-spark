@@ -7,13 +7,7 @@ from PIL import Image,ImageDraw,ImageFont,ImageOps
 from PIL.PngImagePlugin import PngInfo
 
 
-def render_layout(output,source,workflow,design):
-    output=Path(output)
-    metadata=PngInfo()
-    with Image.open(output/'comic.png') as original:
-        for key,value in original.info.items():
-            if isinstance(value,str):metadata.add_text(key,value)
-    tiles=[Image.open(output/f'panels/{i+1:02}_panel.png').convert('RGB') for i in range(len(source['scenes']))]
+def decorate_tiles(tiles,source,design):
     if source.get('narrator_badge'):
         ident=source.get('narrator_character_id') or next(iter(source.get('library_ids',[])),None)
         if not ident or not source.get('reference_overrides',{}).get(ident):raise ValueError('Referenzbild für das Erzählerporträt fehlt.')
@@ -24,6 +18,16 @@ def render_layout(output,source,workflow,design):
             tile.paste(avatar,(10,66));draw=ImageDraw.Draw(tile)
             draw.rectangle((9,65,58,114),outline='#172535',width=1)
             draw.text((12,119),'SYSOP',font=font,fill='#172535')
+
+
+def render_layout(output,source,workflow,design,decorate=True):
+    output=Path(output)
+    metadata=PngInfo()
+    with Image.open(output/'comic.png') as original:
+        for key,value in original.info.items():
+            if isinstance(value,str):metadata.add_text(key,value)
+    tiles=[Image.open(output/f'panels/{i+1:02}_panel.png').convert('RGB') for i in range(len(source['scenes']))]
+    if decorate:decorate_tiles(tiles,source,design)
     layout_info={'narrator_badge':bool(source.get('narrator_badge')),'reproduce':'scripts/layout_editorial_comic.py','panels_per_sharing_page':4}
     workflow.setdefault('extra',{})['editorial_layout']=layout_info
     for node in workflow.get('nodes',[]):

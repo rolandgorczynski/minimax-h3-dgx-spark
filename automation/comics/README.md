@@ -851,3 +851,32 @@ Auch ältere Angaben `show_name: true` erzeugen bei einer neuen Beschriftung
 keine Namen mehr. Die Form liegt im Feld `bubble_style`; ohne Angabe ist sie
 abgerundet. Fertige PNGs ändern sich erst, wenn die neue Beschriftung ausdrücklich
 übernommen wird. Die vorhandenen Zeichnungen werden dafür nicht neu erzeugt.
+
+## Genau ein Bild mit einem Korrekturtext neu erzeugen
+
+Unter **Sprechblasen positionieren** steht bei einer fertigen Ausgabe das Feld
+**Ein Bild korrigieren**. Bild auswählen, den Korrekturwunsch eingeben und auf
+**Nur dieses Bild neu erzeugen** klicken. Beispiel: **Bild 4** auswählen und
+`Bei Ria die Haare kürzer, kinnlanger Bob. Alles andere beibehalten.` eintragen.
+Die kleine Vorschau zeigt die ausgewählte bisherige Kachel.
+
+Der Auftrag übernimmt die Figurenreferenzen und den Bildstil dieser Ausgabe.
+Ein lokales Modell liest das Bild und übersetzt den Wunsch in eine korrigierte
+Bildbeschreibung und gegebenenfalls einen Figurenzustand nur für diese Kachel.
+Danach enthält der Bildgenerierungsgraph genau **eine** Kachel. Die anderen
+Originalzeichnungen und fertig beschrifteten Kacheln werden bytegleich übernommen;
+Titel, Artikel, Dialoge, Sprecher, Blasenstile und Kachelanzahl bleiben erhalten.
+Figurenbibliothek und gespeicherte Workflows werden nicht geändert.
+
+Das Ergebnis ist eine eigene Ausgabe mit aktualisiertem Gesamtbild, Teilseiten,
+PDF und Downloadpaket. Die Originalausgabe bleibt erhalten. Korrigierte Kachel
+und Blasenpositionen anschließend prüfen. Für eine weitere Korrektur die neue
+Ausgabe verwenden, wenn die erste Änderung erhalten bleiben soll.
+
+`POST /jobs/<ID>/correct-panel` erwartet `version` aus
+`GET /jobs/<ID>/lettering`, `panel` als Index ab 0 und `correction` mit 1–2000
+Zeichen. Stil und Kachelanzahl werden vom Ausgangscomic übernommen und sind in
+diesem Aufruf nicht überschreibbar. Eine andere Bildnummer im Kommentar als in
+der Auswahl wird zurückgewiesen. Doppelte laufende Korrekturen derselben Kachel
+werden verhindert. Das private `panel-correction-report.json` dokumentiert
+Korrektur, betroffene Kachel, übernommene Bilder und die geänderte Bildbeschreibung.
