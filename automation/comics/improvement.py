@@ -124,6 +124,8 @@ def improve(engine,job):
     for panel in report['retained_art_panels']:
         path=store.directory(snapshot['parent_job'])/f'panels/{panel:02}_art.png'
         if not path.is_file():raise ValueError('Originalillustration fehlt. Die Originalausgabe bitte nicht während der Verbesserung löschen.')
+        if len(source['scenes'])>12:
+            store.write(job,f'checkpoints/retained-panels/{panel:02}_art.png',path.read_bytes());continue
         engine.client.request('POST','/dgx-comics/automation/retain-panel',{'session':job,'panel':panel-1,'png':base64.b64encode(path.read_bytes()).decode()})
     from editorial import render,export
     render(store,engine.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,job,worker=True)

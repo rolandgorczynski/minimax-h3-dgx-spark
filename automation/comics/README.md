@@ -98,7 +98,7 @@ Parameter:
 | Feld | Standard / Bedeutung |
 |---|---|
 | `thema` | Leer: eigene Idee; sonst Thema oder kurze Vorgabe, maximal 8000 Zeichen |
-| `kacheln` | 12; erlaubt sind 1–12 |
+| `kacheln` | 12 als Vorgabe; jede positive ganze Zahl ist möglich |
 | `stil` | Großstadt-Noir (düster), Klassischer Comic, Ligne claire, Manga Schwarzweiß oder Aquarell-Reportage |
 | `sprache` | Fest `de`; andere Sprachen werden abgelehnt |
 | `max_korrekturrunden` | 2; erlaubt sind 0–3, insgesamt über alle Phasen hinweg |
@@ -880,3 +880,17 @@ diesem Aufruf nicht überschreibbar. Eine andere Bildnummer im Kommentar als in
 der Auswahl wird zurückgewiesen. Doppelte laufende Korrekturen derselben Kachel
 werden verhindert. Das private `panel-correction-report.json` dokumentiert
 Korrektur, betroffene Kachel, übernommene Bilder und die geänderte Bildbeschreibung.
+
+## Freie Kachelanzahl, EPUB und Taschenbuch
+
+Die feste Begrenzung auf zwölf Kacheln ist entfernt. Große Aufträge werden in
+Abschnitten geplant und in Einzelbildern gezeichnet. Der Szeneneditor zeigt
+je zwölf Kacheln pro Bearbeitungsseite; beim Blättern bleiben alle Eingaben
+erhalten. `comic.png` zeigt bei großen Comics eine gekennzeichnete Vorschau,
+Teilseiten und Buch-Exporte enthalten alle Kacheln.
+
+Unter **Buch exportieren: EPUB & Taschenbuch** können Autor, Buchtitel,
+Impressum, Texte für Anfang und Ende, Klappentext und Druckeinstellungen
+festgelegt werden. Die Dateien entstehen aus vorhandenen Kacheln ohne neuen
+Bildlauf. Details, KDP-Prüfungen, Einschränkungen und API stehen in
+[Comic-Bücher für KDP](../../docs/Comic_Buecher_KDP.md).

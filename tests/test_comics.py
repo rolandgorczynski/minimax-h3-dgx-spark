@@ -21,7 +21,7 @@ class ComicTests(unittest.TestCase):
             design.parse_scenes(scenes, 3)
         with self.assertRaisesRegex(ValueError, 'Kachel 1'):
             design.parse_scenes('[{"story": ""}]', 1)
-        for count in (0, 13):
+        for count in (0, -1):
             with self.assertRaises(ValueError):
                 design.parse_scenes(scenes, count)
 

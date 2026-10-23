@@ -75,7 +75,7 @@ def render(store,client,template,payload,job,worker=False):
         store.write(job,f'panels/{index+1:02}_panel.png',client.download(job,panel))
         store.write(job,f'panels/{index+1:02}_art.png',client.download(job,{**panel,'filename':panel['filename'].replace('_panel.png','_art.png')}))
     store.write(job,'workflow.json',engine.workflow(req,doc,cast,plan,revisions))
-    if worker:
+    if worker and not output.get('local_layout'):
         # Same layout code as the host export; the helper only writes into this session.
         layout_source={k:v for k,v in payload.items() if k not in ('characters','article','notes','outfits')}
         layout=client.request('POST','/dgx-comics/automation/layout',{'session':job,'source':layout_source,
@@ -86,6 +86,9 @@ def render(store,client,template,payload,job,worker=False):
             kind={'.png':'png','.pdf':'pdf','.json':'json','.txt':'text'}.get(path.suffix)
             if not kind:raise ValueError('Unbekanntes Layoutformat.')
             store.write(job,str(path),client.download(job,artifact['image'],kind=kind))
+    if worker and output.get('local_layout'):
+        from lettering import LAYOUT,DESIGN
+        LAYOUT.render_layout(store.directory(job),payload,engine.workflow(req,doc,cast,plan,revisions),DESIGN)
     store.write(job,'report.json',{'editorial_mode':True,'text_rewritten_by_local_llm':False,'fiction':False,
         'source':'Vom Nutzer bereitgestellter Artikel','story_language':'de','lettering':fit,'notes':payload.get('notes',[]),'visual_review':'pending'})
     store.stage(job,'editorial_review',artifacts=export(store,job))

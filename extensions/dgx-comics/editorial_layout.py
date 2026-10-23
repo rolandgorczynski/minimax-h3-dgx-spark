@@ -26,9 +26,10 @@ def render_layout(output,source,workflow,design,decorate=True):
     with Image.open(output/'comic.png') as original:
         for key,value in original.info.items():
             if isinstance(value,str):metadata.add_text(key,value)
-    tiles=[Image.open(output/f'panels/{i+1:02}_panel.png').convert('RGB') for i in range(len(source['scenes']))]
-    if decorate:decorate_tiles(tiles,source,design)
-    layout_info={'narrator_badge':bool(source.get('narrator_badge')),'reproduce':'scripts/layout_editorial_comic.py','panels_per_sharing_page':4}
+    count_panels=len(source['scenes'])
+    def read_tile(i):
+        with Image.open(output/f'panels/{i+1:02}_panel.png') as im:return im.convert('RGB')
+    layout_info={'narrator_badge':bool(source.get('narrator_badge')),'reproduce':'scripts/layout_editorial_comic.py','panels_per_sharing_page':4,'overview_is_preview':count_panels>12}
     workflow.setdefault('extra',{})['editorial_layout']=layout_info
     for node in workflow.get('nodes',[]):
         if node.get('type')=='Note':
@@ -36,13 +37,33 @@ def render_layout(output,source,workflow,design,decorate=True):
             break
     (output/'workflow.json').write_text(json.dumps(workflow,ensure_ascii=False,indent=2)+'\n')
     metadata.add_text('workflow',json.dumps(workflow,ensure_ascii=False));metadata.add_text('editorial_layout',json.dumps(layout_info))
-    for i,tile in enumerate(tiles):tile.save(output/f'panels/{i+1:02}_panel.png',pnginfo=metadata)
-    design.assemble(tiles,min(3,len(tiles)),source['title'],source.get('signature','')).save(output/'comic.png',pnginfo=metadata)
+    tile_metadata=metadata
+    if count_panels>12:
+        tile_metadata=PngInfo();tile_metadata.add_text('editorial_layout',json.dumps(layout_info))
+    for i in range(count_panels):
+        tile=read_tile(i)
+        if decorate:decorate_tiles([tile],source,design)
+        tile.save(output/f'panels/{i+1:02}_panel.png',pnginfo=tile_metadata)
+    preview=[read_tile(i) for i in range(min(12,count_panels))]
+    design.assemble_preview(preview,min(3,count_panels),source['title'],source.get('signature',''),count_panels).save(output/'comic.png',pnginfo=metadata)
+    del preview
     pages=[];(output/'pages').mkdir(exist_ok=True)
-    count=(len(tiles)+3)//4
-    for start in range(0,len(tiles),4):
-        page=design.assemble(tiles[start:start+4],2,f'{source["title"]} · {start//4+1}/{count}',source.get('signature',''))
-        page.save(output/f'pages/{start//4+1:02}.png',pnginfo=metadata);pages.append(page)
-    pages[0].save(output/'comic.pdf','PDF',resolution=144,save_all=True,append_images=pages[1:])
+    count=(count_panels+3)//4
+    for start in range(0,count_panels,4):
+        group=[read_tile(i) for i in range(start,min(start+4,count_panels))]
+        page=design.assemble(group,2,f'{source["title"]} · {start//4+1}/{count}',source.get('signature',''))
+        path=output/f'pages/{start//4+1:02}.png';page.save(path,pnginfo=tile_metadata);pages.append(path)
+    try:
+        from reportlab.pdfgen.canvas import Canvas
+        pdf=Canvas(str(output/'comic.pdf'))
+        for path in pages:
+            with Image.open(path) as im:w,h=im.size
+            pdf.setPageSize((w/2,h/2));pdf.drawImage(str(path),0,0,width=w/2,height=h/2);pdf.showPage()
+        pdf.save()
+    except ImportError:
+        opened=[Image.open(path) for path in pages]
+        try:opened[0].save(output/'comic.pdf','PDF',resolution=144,save_all=True,append_images=opened[1:])
+        finally:
+            for im in opened:im.close()
     (output/'README.txt').write_text('Redaktioneller Comic auf Basis des bereitgestellten Artikels.\ncomic.png: alle Kacheln. pages/: Teilseiten zum Teilen. comic.pdf: mehrseitige Fassung.\nworkflow.json: in ComfyUI öffnen, Figurenreferenzen sind eingebettet.\nDas Workflow-Rendering erzeugt die Illustrationen und Texte. scripts/layout_editorial_comic.py ergänzt das Erzähler-Porträt und die Druckseiten.\nPersonen sind symbolisch dargestellt; Angaben und Zeitbezüge stammen aus dem bereitgestellten Artikel.\n',encoding='utf-8')
-    return {'panels':len(tiles),'pages':len(pages)}
+    return {'panels':count_panels,'pages':len(pages)}

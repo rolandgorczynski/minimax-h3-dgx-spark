@@ -271,3 +271,8 @@ Geschichten anlegen, Storyboards importieren, Szenen bearbeiten und neue Ausgabe
 erzeugen. Definitionen und Ausgaben sind getrennt löschbar. Elf Bildstile stehen
 im Studio und im Automationsdienst zur Auswahl.
 [Anleitung zur Verwaltung und Stilauswahl](automation/comics/README.md#geschichten-auf-der-redaktionsseite-verwalten).
+
+Der Comic-Automat unterstützt außerdem eine frei wählbare positive Kachelanzahl
+und einen Buch-Export mit Autor, Vor-/Nachwort, Kindle-EPUB, Taschenbuch-Buchblock
+und vollständigem Umschlag. Die Druckdateien enthalten Prüfhinweise für Amazon
+KDP. Siehe [Comic-Bücher für KDP](docs/Comic_Buecher_KDP.md).

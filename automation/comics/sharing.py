@@ -52,7 +52,7 @@ def clean_png(data):
 
 def image_sources(job):
     names={a['name'] for a in job.get('artifacts',[])}
-    panels=sorted(n for n in names if re.fullmatch(r'panels/\d{2}_panel\.png',n))
+    panels=sorted((n for n in names if re.fullmatch(r'panels/\d+_panel\.png',n)),key=lambda n:int(n.split('/')[1].split('_')[0]))
     if panels:return panels
     if 'comic.png' in names:return ['comic.png']
     raise ValueError('Diese Ausgabe hat noch keine fertigen Comic-Bilder.')
@@ -60,12 +60,12 @@ def image_sources(job):
 
 def manifest(store,job):
     if job['status'] not in ('completed','needs_review','editing'):raise ValueError('Zuerst die Erzeugung abschließen.')
-    sources=image_sources(job);title='Comic'
+    sources=image_sources(job);width=max(2,len(str(len(sources))));title='Comic'
     path=store.directory(job['id'])/'story.json'
     if path.exists():title=json.loads(path.read_text()).get('title',title)
     return {'job_id':job['id'],'title':title,'targets':settings(store),'text':title,
-            'images':[{'name':f'{i+1:02}.png','label':f'Kachel {i+1}' if len(sources)>1 else 'Comic',
-                       'url':f'/jobs/{job["id"]}/share/images/{i+1:02}.png'} for i,_ in enumerate(sources)],
+            'images':[{'name':f'{i+1:0{width}}.png','label':f'Kachel {i+1}' if len(sources)>1 else 'Comic',
+                       'url':f'/jobs/{job["id"]}/share/images/{i+1:0{width}}.png'} for i,_ in enumerate(sources)],
             'download_url':f'/jobs/{job["id"]}/share/images.zip','published':False}
 
 

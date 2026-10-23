@@ -55,7 +55,7 @@ class FakeComfy:
 
 class AutomationTests(unittest.TestCase):
     def test_request_validation_and_durable_idempotency(self):
-        for value in ({'kacheln':True},{'kacheln':13},{'max_korrekturrunden':99},{'stil':'invalid'},{'shell':'rm -rf'},{'sprache':'en'}):
+        for value in ({'kacheln':True},{'kacheln':0},{'max_korrekturrunden':99},{'stil':'invalid'},{'shell':'rm -rf'},{'sprache':'en'}):
             with self.assertRaises(ValueError):validate_request(value)
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);ident=uuid.uuid4().hex;req=validate_request({'seed':42})

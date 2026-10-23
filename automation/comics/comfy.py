@@ -69,6 +69,15 @@ class Comfy:
             time.sleep(self.poll)
 
     def download(self,session,descriptor,kind='png'):
+        if isinstance(descriptor,dict) and descriptor.get('local_path'):
+            from pathlib import Path
+            import re
+            relative=Path(descriptor['local_path'])
+            if descriptor.get('filename'):relative=relative.with_name(descriptor['filename'])
+            if not re.fullmatch(r'comic\.png|panels/\d+_(?:art|panel)\.png',str(relative)):raise ComfyError('Ungültige lokale Comic-Datei.')
+            root=self.store.directory(session).resolve();path=(root/relative).resolve()
+            if not path.is_relative_to(root) or not path.is_file():raise ComfyError('Lokale Comic-Datei fehlt.')
+            return path.read_bytes()
         prefix='comic-automation/'+session
         folder=descriptor.get('subfolder','')
         if descriptor.get('type')!='temp' or not (folder==prefix or folder.startswith(prefix+'/')) or any(part in ('.','..') for part in folder.split('/')) or '\\' in folder or '/' in descriptor.get('filename','') or '..' in descriptor.get('filename',''):

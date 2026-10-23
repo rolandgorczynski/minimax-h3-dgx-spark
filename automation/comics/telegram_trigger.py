@@ -15,7 +15,7 @@ LOG=logging.getLogger('comic-telegram')
 ALIASES=dict(zip(('klassisch','noir','ligne','manga','aquarell'),STYLES))
 HELP=('Sende ein Thema als Nachricht oder:\n/comic 12 noir Eine geheimnisvolle Nacht im Archiv\n'
       'Ohne Thema erfinde ich selbst eine Geschichte.\n'
-      'Stile: noir, klassisch, ligne, manga, aquarell. Kacheln: 1–12.\n'
+      'Stile: noir, klassisch, ligne, manga, aquarell. Kacheln: positive ganze Zahl.\n'
       '/status zeigt deinen letzten Auftrag. Alle Geschichten sind auf Deutsch.')
 
 

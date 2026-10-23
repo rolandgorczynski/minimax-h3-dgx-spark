@@ -90,8 +90,8 @@ def plan_story(clip, story, count, seed, edited='', style='', cast=None):
         raise ValueError('Bitte zuerst den Originalartikel oder die Gesamtgeschichte in das Artikelfeld einfügen. Figurenbeschreibungen ersetzen die Geschichte nicht.')
     if len(story) > 16000:
         raise ValueError('Die Gesamtgeschichte darf maximal 16000 Zeichen enthalten.')
-    if not 1 <= count <= 12:
-        raise ValueError('Bitte 1–12 Kacheln auswählen.')
+    if type(count) is not int or count<1:
+        raise ValueError('Bitte eine positive Kachelanzahl auswählen.')
     fingerprint = source_hash(story, count, seed, style)
     if edited.strip():
         try:

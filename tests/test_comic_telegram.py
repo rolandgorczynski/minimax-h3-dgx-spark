@@ -38,7 +38,7 @@ class TelegramTests(unittest.TestCase):
         self.assertEqual(parse_message('/comic\n4 manga Ein alter Brief'),{'kacheln':4,'stil':'Manga Schwarzweiß','thema':'Ein alter Brief'})
         self.assertEqual(validate_request(parse_message('/comic'))['sprache'],'de')
         self.assertEqual(parse_message('Ein Hausmeister entdeckt einen Raum')['thema'],'Ein Hausmeister entdeckt einen Raum')
-        with self.assertRaises(ValueError):validate_request(parse_message('/comic 99 noir'))
+        with self.assertRaises(ValueError):validate_request(parse_message('/comic 0 noir'))
 
     def test_initial_backlog_is_skipped_and_cursor_survives_restart(self):
         with tempfile.TemporaryDirectory() as root:

@@ -5,6 +5,29 @@ from character_profiles import narrative
 import dialogue
 
 
+def draft_batches(engine,job,prompt,article,cast,ledger,locked,tag='article-scenes',issues=None,existing=None):
+    import json
+    result=[];states={}
+    for start in range(0,len(locked),8):
+        group=locked[start:start+8];ids={q for section in group for q in section['quote_ids']}
+        local_ledger=[q for q in ledger if q['id'] in ids]
+        relevant=[issue for issue in issues or [] if start<issue.get('panel',0)<=start+len(group)]
+        if existing is not None and not relevant:scenes=copy.deepcopy(existing[start:start+len(group)])
+        else:
+            engine.store.stage(job,'article_adjust' if issues else 'article_scenes',planned_panels=start,total_panels=len(locked))
+            intro=prompt.split('\nDIALOGLISTE:')[0].replace('genau '+str(len(locked)), 'genau '+str(len(group)))
+            context=(article if len(article)<=16000 else '\n'.join(x['source_excerpt'] for x in group))
+            instruction=intro+'\nErzeuge ausschließlich die folgenden '+str(len(group))+' Quellabschnitte, in dieser Reihenfolge. '+                'Frisur und Kleidung gelten weiter, bis der Ausgangstext eine Änderung nennt. Änderungen in character_states festhalten. '+                'Gesprochene Texte nicht selbst schreiben; das Skript setzt die festgelegten Zitate ein.'+                '\nBISHERIGE FIGURENZUSTÄNDE:'+json.dumps(states,ensure_ascii=False)+                '\nDIALOGLISTE:'+json.dumps(local_ledger,ensure_ascii=False)+                '\nQUELLABSCHNITTE:'+json.dumps(group,ensure_ascii=False)+'\nAUSGANGSTEXT:'+context
+            if relevant:instruction+='\nPLATZPROBLEME:'+json.dumps(relevant,ensure_ascii=False)
+            def validate(value):return engine.validate_scenes(dialogue.apply_sections(value,local_ledger,cast,group),len(group),cast)
+            scenes=engine.json_call(job,tag+'-'+str(start+1).zfill(5),instruction,validate,tokens=len(group)*500+500)
+        for scene in scenes:
+            states.update(scene.get('character_states',{}))
+            scene['character_states']={**{k:v for k,v in states.items() if k in scene.get('characters',[])},**scene.get('character_states',{})}
+        result.extend(scenes)
+    return result
+
+
 def prepare(engine,stories,job):
     store=engine.store;entry=store.get(job);snapshot=entry['planning_source'];source=copy.deepcopy(snapshot['payload'])
     article=source['article'];count=entry['request']['kacheln']
@@ -63,12 +86,13 @@ def prepare(engine,stories,job):
             for bubble in scene['bubbles']:
                 if bubble.get('expression','normal') not in ('normal','shout','whisper'):bubble['expression']='normal'
         return scenes
-    scenes=engine.json_call(job,'article-scenes',prompt,validate,tokens=min(8000,count*420+500))
+    scenes=(draft_batches(engine,job,prompt,article,cast,ledger,locked) if count>12 else engine.json_call(job,'article-scenes',prompt,validate,tokens=min(8000,count*420+500)))
     store.stage(job,'article_check')
     fit=engine.preflight({'scenes':scenes},cast)
     if not fit['valid']:
         store.stage(job,'article_adjust')
-        scenes=engine.json_call(job,'article-scenes-fit',prompt+'\nKorrigiere diese Beschriftungsprobleme, ohne die Handlung zu ändern: '+json.dumps(fit['issues'],ensure_ascii=False)+'\nENTWURF:'+json.dumps(scenes,ensure_ascii=False),validate,tokens=min(8000,count*420+500))
+        if count>12:scenes=draft_batches(engine,job,prompt,article,cast,ledger,locked,tag='article-scenes-fit',issues=fit['issues'],existing=scenes)
+        else:scenes=engine.json_call(job,'article-scenes-fit',prompt+'\nKorrigiere diese Beschriftungsprobleme, ohne die Handlung zu ändern: '+json.dumps(fit['issues'],ensure_ascii=False)+'\nENTWURF:'+json.dumps(scenes,ensure_ascii=False),validate,tokens=min(8000,count*420+500))
         fit=engine.preflight({'scenes':scenes},cast)
     quote_warnings=[f'Kachel {issue.get("panel","?")}: {issue["message"]}' for issue in fit['issues']] if not fit['valid'] else []
     quote_warnings.extend('Zitat '+q['id']+': Sprecher oder Wortlaut offen, bitte prüfen: „'+q['text']+'“' for q in ledger if q['kind']=='uncertain')

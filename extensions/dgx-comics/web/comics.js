@@ -28,7 +28,7 @@ app.registerExtension({
                 let scenes;
                 try { scenes = JSON.parse(serialized.value); } catch { scenes = []; }
                 if (!Array.isArray(scenes)) scenes = [];
-                const total = Math.min(12, Math.max(1, Number(count.value) || 1));
+                const total = Math.max(1, Math.floor(Number(count.value) || 1));
                 while (scenes.length < total) scenes.push({ story: "", dialog: "" });
                 serialized.value = JSON.stringify(scenes);
                 container.replaceChildren();

@@ -3,7 +3,7 @@
 ## Ziel und Aufgabenteilung
 
 Der Nutzer liefert eine Geschichte oder einen Artikel und wählt Comic-Stil sowie
-Kachelanzahl (1–12). Der Assistent arbeitet daraus eine stimmige Bildgeschichte aus:
+frei gewählte Kachelanzahl. Der Assistent arbeitet daraus eine stimmige Bildgeschichte aus:
 Szenen, Bildkompositionen, Erzählertexte, Figuren und gegebenenfalls Sprechblasen.
 Der Nutzer kann den Szenenplan prüfen und bearbeiten. Das Skript übernimmt danach
 die lokale Bilderzeugung, das Seitenlayout und den Export.

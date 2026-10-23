@@ -11,7 +11,7 @@ class DGXComicWorkflow:
             'referenz': ('IMAGE',), 'model': ('MODEL',), 'clip': ('CLIP',), 'vae': ('VAE',),
             'artikel': ('STRING', {'default': '', 'multiline': True}),
             'comic_art': (list(STYLES),),
-            'anzahl_kacheln': ('INT', {'default': 12, 'min': 1, 'max': 12}),
+            'anzahl_kacheln': ('INT', {'default': 12, 'min': 1, 'max': 9007199254740991}),
             'aktion': (['Szenen planen', 'Comic generieren'],),
             'titel': ('STRING', {'default': ''}),
             'spalten': ('INT', {'default': 3, 'min': 1, 'max': 4}),

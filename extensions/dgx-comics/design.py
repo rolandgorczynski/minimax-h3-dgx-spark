@@ -15,8 +15,8 @@ def validate_character_states(value):
 
 
 def parse_scenes(serialized, count):
-    if not 1 <= count <= 12:
-        raise ValueError('Bitte 1 bis 12 Kacheln auswählen.')
+    if type(count) is not int or count<1:
+        raise ValueError('Bitte eine positive Kachelanzahl auswählen.')
     try:
         scenes = json.loads(serialized)
     except (ValueError, TypeError) as exc:
@@ -160,19 +160,22 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None):
     art = ImageOps.fit(image.convert('RGB'), (width-8, height-band-8), Image.Resampling.LANCZOS)
     tile.paste(art, (4, band+4))
     draw = ImageDraw.Draw(tile)
+    badge_font=ImageFont.truetype(str(FONT),26);badge_font.set_variation_by_axes([750])
+    badge_width=max(43,math.ceil(draw.textlength(str(number),font=badge_font))+14)
+    caption_left=max(65,12+badge_width+10)
     if dialogue and bubbles is not None:
-        draw.rectangle((65,10,width-15,band-20),fill='white',outline='black',width=3)
-        lettering(draw,dialogue,(80,20,width-30,band-30),minimum=24)
+        draw.rectangle((caption_left,10,width-15,band-20),fill='white',outline='black',width=3)
+        lettering(draw,dialogue,(caption_left+15,20,width-30,band-30),minimum=24)
     elif dialogue:
-        draw.rounded_rectangle((65, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
+        draw.rounded_rectangle((caption_left, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
         draw.polygon([(width-165, band-21), (width-120, band-21), (width-125, band+8)], fill='white', outline='black', width=3)
         draw.line((width-161, band-21, width-125, band-21), fill='white', width=5)
-        lettering(draw, dialogue, (85, 20, width-35, band-30))
+        lettering(draw, dialogue, (caption_left+20, 20, width-35, band-30))
     if bubbles is not None:
         for bubble in validate_bubbles(bubbles):
             _speech(draw,bubble,speaker_names or {})
-    draw.ellipse((12, 12, 55, 55), fill='white', outline='black', width=3)
-    lettering(draw, str(number), (15, 15, 52, 52), size=26)
+    draw.rounded_rectangle((12,12,12+badge_width,55),radius=21,fill='white',outline='black',width=3)
+    lettering(draw,str(number),(15,15,9+badge_width,52),size=26,minimum=26)
     draw.rectangle((1, 1, width-2, height-2), outline='black', width=4)
     return tile
 
@@ -197,3 +200,9 @@ def assemble(tiles, columns, title='', signature='sysop1984.substack.com'):
     if signature.strip():
         lettering(draw, signature, (margin, height-55, width-margin, height-10), 27)
     return page
+
+
+def assemble_preview(tiles,columns,title='',signature='',total_count=None):
+    total=total_count if total_count is not None else len(tiles)
+    label=title if total<=12 else title+' · Vorschau 1–12 von '+str(total)
+    return assemble(tiles[:12],columns,label,signature)

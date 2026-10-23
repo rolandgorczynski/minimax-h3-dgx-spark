@@ -35,7 +35,7 @@ def validate_definition(value):
         if payload.get('style') not in STYLES:raise ValueError('Unbekannter Comic-Stil.')
         if not isinstance(payload.get('article',''),str) or len(payload.get('article',''))>16000:raise ValueError('Artikel maximal 16000 Zeichen.')
         scenes=payload.get('scenes',[])
-        if not isinstance(scenes,list) or len(scenes)>12:raise ValueError('Maximal zwölf Szenen.')
+        if not isinstance(scenes,list):raise ValueError('Szenen als Liste senden.')
         for scene in scenes:
             if not isinstance(scene,dict) or not isinstance(scene.get('story'),str) or len(scene['story'])>4000 or not isinstance(scene.get('dialog',''),str) or len(scene.get('dialog',''))>400:
                 raise ValueError('Ungültige Szene oder zu langer Text.')
@@ -220,7 +220,7 @@ class Stories:
             if not row:raise KeyError(ident)
             if json.loads(row['doc'])['status'] in ('queued','running'):raise Conflict('Laufende oder wartende Ausgaben können nicht gelöscht werden.')
             dependents=[json.loads(r['doc']) for r in db.execute('SELECT doc FROM jobs').fetchall()]
-            if any(j.get('parent_job')==ident and (j.get('improvement_mode') or j.get('lettering_mode') or j.get('panel_correction_mode')) and j['status'] in ('queued','running') for j in dependents):
+            if any(j.get('parent_job')==ident and (j.get('improvement_mode') or j.get('lettering_mode') or j.get('panel_correction_mode') or j.get('book_mode')) and j['status'] in ('queued','running') for j in dependents):
                 raise Conflict('Die Ausgabe wird gerade als Grundlage einer Verbesserung verwendet.')
             self._delete_row(db,ident)
         shutil.rmtree(self.store.root/'jobs'/ident,ignore_errors=True)

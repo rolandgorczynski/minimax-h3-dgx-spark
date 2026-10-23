@@ -60,6 +60,8 @@ class Service:
             'backend':'comfyui','text_model':self.engine.text_model,'vision_model':self.engine.vision_model},'workflow':'04_Comic_Automat_9B'}
 
     def cleanup(self,job):
+        if (self.store.get(job) or {}).get('book_mode') or (self.store.get(job) or {}).get('lettering_mode'):
+            self.store.update(job,cleanup_pending=False);return
         try:self.client.cleanup(job)
         except Exception as exc:
             LOG.warning('Cleanup pending for %s: %s',job,str(exc)[:200])
@@ -75,7 +77,10 @@ class Service:
                 self.stop.wait(3);continue
             ident=job['id'];LOG.info('Starting %s',ident)
             try:
-                if job.get('panel_correction_mode'):
+                if job.get('book_mode'):
+                    from books import run
+                    result=run(self.store,ident)
+                elif job.get('panel_correction_mode'):
                     from panel_correction import run
                     result=run(self.engine,ident)
                 elif job.get('lettering_mode'):
@@ -105,7 +110,7 @@ class Service:
                 LOG.exception('Job %s failed',ident)
                 self.store.stage(ident,'failed',status='failed',error=str(exc)[:5000],cleanup_pending=True)
             finally:
-                if not job.get('lettering_mode'):self.cleanup(ident)
+                if not (job.get('lettering_mode') or job.get('book_mode')):self.cleanup(ident)
                 else:self.store.update(ident,cleanup_pending=False)
 
 
@@ -137,7 +142,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -155,7 +160,7 @@ class Handler(BaseHTTPRequestHandler):
         if path=='/ready':
             try:return self.reply(200,self.service.capabilities())
             except Exception as exc:return self.reply(503,{'ready':False,'error':str(exc)[:2000]})
-        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list() if not job.get('character_mode')]})
+        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list() if not job.get('character_mode') and not job.get('book_mode')]})
         parts=path.strip('/').split('/')
         if len(parts)==3 and parts[:2]==['characters','regenerations'] and ID.fullmatch(parts[2]):
             job=self.service.store.get(parts[2])
@@ -173,6 +178,12 @@ class Handler(BaseHTTPRequestHandler):
             job=self.service.store.get(parts[1])
             if not job:return self.reply(404,{'error':'Auftrag nicht gefunden.'})
             if len(parts)==2:return self.reply(200,self.public(job))
+            if len(parts)==3 and parts[2]=='book-settings':
+                try:
+                    import books
+                    return self.reply(200,books.settings(self.service.store,job))
+                except Conflict as exc:return self.reply(409,{'error':str(exc)})
+                except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
             if len(parts)==3 and parts[2]=='lettering':
                 try:
                     import lettering
@@ -183,9 +194,9 @@ class Handler(BaseHTTPRequestHandler):
                 try:
                     if len(parts)==3:return self.reply(200,sharing.manifest(self.service.store,job))
                     if len(parts)==4 and parts[3]=='images.zip':return self.binary(sharing.bundle(self.service.store,job),'application/zip','comic-'+job['id'][:8]+'-bilder.zip')
-                    if len(parts)==5 and parts[3]=='images' and __import__('re').fullmatch(r'\d{2}\.png',parts[4]):
+                    if len(parts)==5 and parts[3]=='images' and __import__('re').fullmatch(r'\d+\.png',parts[4]):
                         sharing.manifest(self.service.store,job)
-                        return self.binary(sharing.image(self.service.store,job,int(parts[4][:2])-1),'image/png')
+                        return self.binary(sharing.image(self.service.store,job,int(parts[4][:-4])-1),'image/png')
                 except (ValueError,TypeError) as exc:return self.reply(409,{'error':str(exc)})
                 except (KeyError,OSError):return self.reply(404,{'error':'Bild nicht gefunden.'})
             if len(parts)==3 and parts[2]=='story':return self.reply(200,self.story_preview(job))
@@ -223,6 +234,8 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-export':
+            return self.book_action(parts[1],True)
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='correct-panel':
             if not self.authorized():return
             try:
@@ -304,6 +317,8 @@ class Handler(BaseHTTPRequestHandler):
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(False)
     def do_PUT(self):
+        parts=urlsplit(self.path).path.strip('/').split('/')
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-settings':return self.book_action(parts[1],False)
         if urlsplit(self.path).path=='/sharing':
             if not self.authorized():return
             try:
@@ -312,6 +327,22 @@ class Handler(BaseHTTPRequestHandler):
                 return self.reply(200,sharing.save_settings(self.service.store,json.loads(self.rfile.read(size))))
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(True)
+
+    def book_action(self,ident,generate):
+        if not self.authorized():return
+        try:
+            size=int(self.headers.get('Content-Length','0'))
+            if not 0<size<=2_000_000:raise ValueError('Buchangaben maximal 2 MB.')
+            value=json.loads(self.rfile.read(size));import books
+            with self.service.stories.lock:
+                parent=self.service.store.get(ident)
+                if not parent:raise KeyError(ident)
+                result=books.enqueue(self.service.store,parent,value) if generate else books.save_settings(self.service.store,parent,value)
+            return self.reply(202 if generate else 200,self.public(result) if generate else result)
+        except Conflict as exc:return self.reply(409,{'error':str(exc)})
+        except KeyError:return self.reply(404,{'error':'Comic nicht gefunden.'})
+        except OverflowError as exc:return self.reply(429,{'error':str(exc)})
+        except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
 
     def do_PATCH(self):
         self.story_action(unquote(urlsplit(self.path).path).strip('/').split('/'),'PATCH')

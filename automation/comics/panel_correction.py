@@ -96,9 +96,9 @@ def run(engine,ident):
     store.write(ident,'scenes.json',full_plan)
     workflow=engine.workflow(request,doc,cast,full_plan,revisions)
     tiles=[]
-    for i in range(len(source['scenes'])):
+    for i in range(min(12,len(source['scenes']))):
         with Image.open(root/f'panels/{i+1:02}_panel.png') as image:tiles.append(image.convert('RGB'))
-    DESIGN.assemble(tiles,min(3,len(tiles)),source['title'],source.get('signature','')).save(root/'comic.png')
+    DESIGN.assemble_preview(tiles,min(3,len(tiles)),source['title'],source.get('signature',''),len(source['scenes'])).save(root/'comic.png')
     LAYOUT.render_layout(root,source,workflow,DESIGN,decorate=False)
     # Auch die PNG-Dateien der unberührten Kacheln bytegleich erhalten.
     for i in range(len(source['scenes'])):

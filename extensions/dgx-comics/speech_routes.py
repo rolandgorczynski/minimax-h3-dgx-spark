@@ -22,7 +22,7 @@ def register_speech_routes():
             if not isinstance(names,dict) or len(names)>8 or any(not isinstance(k,str) or not isinstance(v,str) or len(v)>100 for k,v in names.items()):
                 raise ValueError('Ungültige Sprechernamen.')
             number=data.get('number',1)
-            if isinstance(number,bool) or not isinstance(number,int) or not 1<=number<=12:
+            if isinstance(number,bool) or not isinstance(number,int) or number<1:
                 raise ValueError('Ungültige Kachelnummer.')
             art=data.get('art')
             image=Image.new('RGB',(1024,704),'#75808b')

@@ -11,7 +11,7 @@ from PIL import Image
 from PIL.PngImagePlugin import PngInfo
 import torch
 import comfy.utils
-from .design import assemble, panel, parse_scenes
+from .design import assemble, assemble_preview, panel, parse_scenes
 
 WEB_DIRECTORY = './web'
 DEFAULT_SCENES = [
@@ -27,7 +27,7 @@ class DGXSysopComic:
     def INPUT_TYPES(cls):
         return {'required': {
             'referenz': ('IMAGE',), 'model': ('MODEL',), 'clip': ('CLIP',), 'vae': ('VAE',),
-            'anzahl_kacheln': ('INT', {'default': 4, 'min': 1, 'max': 12}),
+            'anzahl_kacheln': ('INT', {'default': 4, 'min': 1, 'max': 9007199254740991}),
             'spalten': ('INT', {'default': 2, 'min': 1, 'max': 4}),
             'titel': ('STRING', {'default': 'Sysop · Nur ein kleines Update'}),
             'hauptfigur': ('STRING', {'default': 'Sysop: middle-aged man, shoulder-length wavy dark brown hair, full dark beard with subtle grey strands, strong eyebrows, black tuxedo jacket, white shirt and black bow tie. Match the same person and drawing style as the reference.', 'multiline': True}),
@@ -44,7 +44,7 @@ class DGXSysopComic:
     FUNCTION = 'create'
     CATEGORY = 'DGX/Comics'
     OUTPUT_NODE = True
-    DESCRIPTION = '1–12 Kacheln. Pro Kachel Szene und Dialog eingeben. Sysop wird für jedes Bild als Referenz an das ComfyUI-Modell FLUX.2 Klein 9B übergeben. Texte werden separat gesetzt.'
+    DESCRIPTION = 'Frei wählbare Kachelanzahl. Pro Kachel Szene und Dialog eingeben. Sysop wird für jedes Bild als Referenz an das ComfyUI-Modell FLUX.2 Klein 9B übergeben. Texte werden separat gesetzt.'
 
     def create(self, referenz, model, clip, vae, anzahl_kacheln, spalten, titel, hauptfigur, stil, szenen,
                signatur, seed, dateiname, prompt=None, extra_pnginfo=None, szenenplan=None, revisions=None, reuse_panels=False, model_identity=None, cast=None, library_cast=False, output_directory=None, image_type='output', image_subfolder_prefix=''):
@@ -63,7 +63,7 @@ class DGXSysopComic:
         # Check lettering for every panel before starting expensive generation.
         for i, scene in enumerate(scenes):
             panel(Image.new('RGB', (768, 512)), scene['dialog'], i+1, scene.get('bubbles'), speaker_names)
-        assemble([Image.new('RGB', (768, 672))]*len(scenes), spalten, titel, signatur)
+        assemble_preview([Image.new('RGB', (768, 672))]*min(12,len(scenes)), spalten, titel, signatur,len(scenes))
         from .generation import prepare_reference, generate_panel
         reference_latent = None
         character_latents = {}
@@ -152,9 +152,9 @@ class DGXSysopComic:
             tile.save(run/f'{i+1:02}_panel.png')
             previews.append({'filename': f'{i+1:02}_panel.png',
                 'subfolder': str(Path(image_subfolder_prefix)/subfolder/run.name), 'type': image_type})
-            tiles.append(tile)
+            if len(tiles)<12:tiles.append(tile)
             progress.update_absolute(i+1)
-        comic = assemble(tiles, spalten, titel, signatur)
+        comic = assemble_preview(tiles, spalten, titel, signatur,len(scenes))
         metadata = PngInfo()
         if prompt is not None:
             metadata.add_text('prompt', json.dumps(prompt, ensure_ascii=False))
@@ -177,7 +177,7 @@ class DGXComicStory:
         return {'required': {
             'clip': ('CLIP',),
             'gesamtgeschichte': ('STRING', {'default': 'Sysop genießt einen ruhigen Tag im Serverraum. Er installiert ein vermeintlich kleines Update. Plötzlich funktioniert das Netzwerk nicht mehr und er steht im Kabelchaos. Zum Glück hat er ein Backup. Nach der Wiederherstellung läuft alles wieder und Sysop hebt erleichtert seine Kaffeetasse. Die Pointe: Backup. Aus gutem Grund.', 'multiline': True}),
-            'anzahl_kacheln': ('INT', {'default': 4, 'min': 1, 'max': 12}),
+            'anzahl_kacheln': ('INT', {'default': 4, 'min': 1, 'max': 9007199254740991}),
             'seed': ('INT', {'default': 1984, 'min': 0, 'max': 2147483647, 'control_after_generate': True}),
             'bearbeiteter_plan': ('STRING', {'default': '', 'multiline': True}),
         }, 'optional': {'comic_art': (list(STYLES),)}}

@@ -46,8 +46,8 @@ def run(args):
     from layout_editorial_comic import layout
     source = args.source.resolve()
     payload = json.loads(source.read_text(encoding='utf-8'))
-    if not isinstance(payload.get('scenes'), list) or not 1 <= len(payload['scenes']) <= 12:
-        raise ValueError('Storyboard benötigt 1–12 Szenen.')
+    if not isinstance(payload.get('scenes'), list) or not payload['scenes']:
+        raise ValueError('Storyboard benötigt mindestens eine Szene.')
     if not payload.get('title') or not payload.get('article'):
         raise ValueError('Titel und Artikel fehlen im Storyboard.')
     job = args.job or uuid.uuid4().hex

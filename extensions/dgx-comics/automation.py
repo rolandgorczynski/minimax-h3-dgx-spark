@@ -106,7 +106,7 @@ def register_automation_routes():
     async def retain_panel(request):
         try:
             data=await request.json();root=session_directory(data['session']);index=data['panel']
-            if type(index) is not int or not 0<=index<12 or root.is_symlink():raise ValueError('Ungültige Kachel.')
+            if type(index) is not int or index<0 or root.is_symlink():raise ValueError('Ungültige Kachel.')
             running,pending=PromptServer.instance.prompt_queue.get_current_queue()
             for entry in [*running,*pending]:
                 if entry[3].get('comic_automation_session')==data['session']:raise ValueError('Auftrag wird bereits gezeichnet.')
@@ -128,7 +128,7 @@ def register_automation_routes():
             if root.is_symlink():raise ValueError('Ungültiges temporäres Verzeichnis.')
             root=root.resolve()
             source=data['source'];panels=data['panels']
-            if not isinstance(panels,list) or not 1<=len(panels)<=12 or len(source['scenes'])!=len(panels):raise ValueError('Ungültige Kachelzahl.')
+            if not isinstance(panels,list) or not panels or len(source['scenes'])!=len(panels):raise ValueError('Ungültige Kachelzahl.')
             def resolve(descriptor):
                 if descriptor.get('type')!='temp':raise ValueError('Nur private temporäre Bilder erlaubt.')
                 file=(Path(folder_paths.get_temp_directory())/descriptor['subfolder']/descriptor['filename']).resolve()
@@ -153,7 +153,7 @@ def register_automation_routes():
         from .design import parse_scenes, panel
         try:
             data=await request.json();cast=read_cast(data.get('cast',[]));scenes=data['scenes']
-            if not isinstance(scenes,list) or not 1<=len(scenes)<=12:raise ValueError('1–12 Szenen erforderlich.')
+            if not isinstance(scenes,list) or not scenes:raise ValueError('Mindestens eine Szene erforderlich.')
             issues=[];names={c['id']:c['name'] for c in cast}
             for i,scene in enumerate(scenes):
                 try:

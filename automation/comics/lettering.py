@@ -30,7 +30,7 @@ def source(store,job):
         story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text())
         value={'title':story['title'],'article':story['story'],'style':job['request']['stil'],'scenes':plan['scenes']}
     value['characters']=json.loads((root/'characters.json').read_text())
-    if not 1<=len(value['scenes'])<=12:raise ValueError('Ungültige Kachelzahl.')
+    if len(value['scenes'])<1:raise ValueError('Ungültige Kachelzahl.')
     for index in range(len(value['scenes'])):
         name=f'panels/{index+1:02}_art.png'
         if name not in names or not(root/name).is_file():raise ValueError('Die unbeschriftete Originalzeichnung fehlt für Kachel '+str(index+1)+'.')
@@ -165,8 +165,9 @@ def render(store,job):
         p=panel({k:scene.get(k,[] if k!='dialog' else '') for k in ('dialog','bubbles','protected_areas')},cast)
         if issues(p):raise ValueError('Kachel '+str(i+1)+': '+' '.join(issues(p)))
         with Image.open(root/f'panels/{i+1:02}_art.png') as image:tile=DESIGN.panel(image,p['dialog'],i+1,p['bubbles'],names)
-        tile.save(root/f'panels/{i+1:02}_panel.png');tiles.append(tile)
-    DESIGN.assemble(tiles,min(3,len(tiles)),value['title'],value.get('signature','')).save(root/'comic.png')
+        tile.save(root/f'panels/{i+1:02}_panel.png');
+        if len(tiles)<12:tiles.append(tile)
+    DESIGN.assemble_preview(tiles,min(3,len(tiles)),value['title'],value.get('signature',''),len(value['scenes'])).save(root/'comic.png')
     workflow=json.loads((root/'workflow.json').read_text()) if (root/'workflow.json').exists() else {'nodes':[]}
     # Aktualisierte Metadaten, aber keine gespeicherten ComfyUI-Workflows ändern.
     workflow.setdefault('extra',{})['lettering_only']={'parent_job':store.get(job)['parent_job'],'scenes':value['scenes']}
@@ -175,7 +176,7 @@ def render(store,job):
             node.setdefault('properties',{})['lettering_only_export']=True
             if len(node.get('widgets_values',[]))>=9:node['widgets_values'][8]=json.dumps({'scenes':value['scenes']},ensure_ascii=False)
     LAYOUT.render_layout(root,value,workflow,DESIGN)
-    store.write(job,'README.txt',(root/'README.txt').read_text()+'\nDiese Fassung setzt ausschließlich die Beschriftung neu. Originalzeichnungen sind bytegleich übernommen. Kein Modellaufruf und keine neue Bildgenerierung.\n')
+    store.write(job,'README.txt',((root/'README.txt').read_text()+'\nDiese Fassung setzt ausschließlich die Beschriftung neu. Originalzeichnungen sind bytegleich übernommen. Kein Modellaufruf und keine neue Bildgenerierung.\n').encode())
     store.write(job,'scenes.json',{'scenes':value['scenes']})
     store.write(job,'lettering-report.json',{'image_generation':False,'model_calls':0,'original_art_preserved':True,'visual_review':'pending'})
     return {'status':'needs_review','artifacts':export(store,job),'warnings':['Nur Beschriftung geändert. Zeichnungen unverändert übernommen. Ergebnis vor Veröffentlichung prüfen.']}

@@ -47,7 +47,7 @@ Der Installer sichert geänderte vorhandene Vorlagen vor dem Aktualisieren in
 **03_Comic_Studio_9B** enthält einen gemeinsamen Editor. Der bisherige
 **02_Sysop_Gesamtgeschichte_9B** funktioniert ebenfalls weiter:
 
-1. Originalartikel in das große Feld **Originalartikel / Gesamtgeschichte** einfügen, **comic_art** und **anzahl_kacheln** (1–12) wählen.
+1. Originalartikel in das große Feld **Originalartikel / Gesamtgeschichte** einfügen, **comic_art** und **anzahl_kacheln** (positive ganze Zahl) wählen.
 2. **1 · Szenen planen** anklicken. Qwen3 erstellt pro Kachel eine eigene Szene
    und einen Erzählertext. In diesem Schritt werden keine Bilder generiert.
 3. Die Szenen und Texte direkt im Editor prüfen und korrigieren.
@@ -173,7 +173,7 @@ abgelehnt; dann die Blase vergrößern oder den Text kürzen.
 
 ## Jede Kachel selbst schreiben
 
-Im ersten Workflow **anzahl_kacheln** auf 1–12 einstellen. Darunter erscheinen
+Im ersten Workflow **anzahl_kacheln** auf die gewünschte positive Zahl einstellen. Darunter erscheinen
 pro Kachel **Szene / Handlung** und **Sprechblase (optional)**.
 Die Szene beschreibt das sichtbare Geschehen, der Dialog wird separat gesetzt.
 Bei verringerter Kachelanzahl bleiben die ausgeblendeten Einträge gespeichert.

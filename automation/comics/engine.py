@@ -25,8 +25,9 @@ def validate_request(value):
     if result['sprache']!='de':raise ValueError('Alle Geschichten werden ausschließlich auf Deutsch erstellt (sprache: de).')
     for key,limit in [('thema',8000),('sprache',40),('signatur',200)]:
         if not isinstance(result[key],str) or len(result[key])>limit:raise ValueError(f'Ungültiger Parameter {key}.')
-    for key,low,high in [('kacheln',1,12),('max_korrekturrunden',0,3),('seed',0,2147483647)]:
+    for key,low,high in [('max_korrekturrunden',0,3),('seed',0,2147483647)]:
         if type(result[key]) is not int or not low<=result[key]<=high:raise ValueError(f'{key}: {low}–{high} wählen.')
+    if type(result['kacheln']) is not int or result['kacheln']<1:raise ValueError('Kacheln: eine positive ganze Zahl wählen.')
     if result['stil'] not in STYLES:raise ValueError('Unbekannter Comic-Stil.')
     ids=result['figuren_ids']
     if not isinstance(ids,list) or len(ids)>4 or len(set(ids))!=len(ids) or any(not isinstance(x,str) or not ID.fullmatch(x) for x in ids):raise ValueError('Maximal vier eindeutige Figuren-IDs.')
@@ -106,6 +107,14 @@ class Engine:
         return self.json_call(job,step,'You are a strict comic editor. Review this fictional draft for coherent cause and effect, a clear ending, stable characters, exact speaker attribution and concise readable text. Check story, captions and dialogue use the requested language: '+language+'. '+extra+
             '\nReturn ONLY JSON {"approved":true or false,"issues":["specific actionable issue"]}. At most three concrete issues, each under 180 characters. Be critical about actual plot or attribution errors, but do not invent defects or demand unnecessary detail.\nDRAFT:\n'+json.dumps(subject,ensure_ascii=False),valid_review,tokens=500)
 
+    def review_scene_chunks(self,job,step,subject,extra):
+        if len(subject['scenes'])<=12:return self.review(job,step,subject,extra)
+        findings=[]
+        for start in range(0,len(subject['scenes']),8):
+            review=self.review(job,step+'-'+str(start),{**subject,'scenes':subject['scenes'][start:start+8]},extra)
+            findings.extend(review['issues'])
+        return {'approved':not findings,'issues':findings[:12]}
+
     def require_german(self,job,step,value,validator,tokens):
         """Mandatory language gate; one translation attempt, then stop before rendering."""
         def check(candidate,iteration):
@@ -128,13 +137,39 @@ class Engine:
         return workflow
 
     def studio(self,job,step,doc,cast,plan=None,revisions=None,request_override=None):
-        req=request_override or self.store.get(job)['request'];graph=copy.deepcopy(self.loaders)
+        req=request_override or self.store.get(job)['request']
+        if req['kacheln']>12 and plan:return self.studio_many(job,step,doc,cast,plan,revisions or {},req)
+        graph=copy.deepcopy(self.loaders)
         fields=dict(zip(['artikel','comic_art','anzahl_kacheln','aktion','titel','spalten','signatur','seed','bearbeiteter_plan','kachel_revisionen','figuren'],
             [doc['story'],req['stil'],req['kacheln'],'Comic generieren' if plan else 'Szenen planen',doc['title'],min(3,req['kacheln']),req['signatur'],req['seed'],json.dumps(plan,ensure_ascii=False) if plan else '',json.dumps(revisions or {}),json.dumps(cast,ensure_ascii=False)]))
         fields.update(model=[self.model,0],clip=[self.clip,0],vae=[self.vae,0],automation_session=job)
         graph[self.node]={'class_type':'DGXComicStudio','inputs':fields}
         workflow=self.workflow(req,doc,cast,plan or {},revisions or {})
         return self.client.run(job,step,graph,workflow)[self.node]
+
+    def studio_many(self,job,step,doc,cast,plan,revisions,request):
+        from lettering import DESIGN
+        from PIL import Image
+        root=self.store.directory(job);panels=[];preview=[];count=len(plan['scenes'])
+        for index,scene in enumerate(plan['scenes']):
+            self.store.stage(job,'editorial_rendering',rendered_panels=index,total_panels=count)
+            retained=root/f'checkpoints/retained-panels/{index+1:02}_art.png'
+            if retained.exists():raw=retained.read_bytes()
+            else:
+                one={**request,'kacheln':1,'seed':(request['seed']+index)%2147483648}
+                digest=hashlib.sha256(json.dumps([doc['story'].strip(),1,one['seed']],ensure_ascii=False).encode()).hexdigest()
+                piece={'source_hash':digest,'scenes':[scene]}
+                rendered=self.studio(job,step+'-panel-'+str(index+1),doc,cast,piece,{'0':revisions.get(str(index),0)},request_override=one)
+                if len(rendered.get('comic_panels',[]))!=1:raise ValueError('Einzelkachel fehlt.')
+                desc=rendered['comic_panels'][0];raw=self.client.download(job,{**desc,'filename':desc['filename'].replace('_panel.png','_art.png')})
+            self.store.write(job,f'panels/{index+1:02}_art.png',raw)
+            import io
+            with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast})
+            tile.save(root/f'panels/{index+1:02}_panel.png')
+            if len(preview)<12:preview.append(tile)
+            panels.append({'local_path':f'panels/{index+1:02}_panel.png','filename':f'{index+1:02}_panel.png'})
+        DESIGN.assemble_preview(preview,min(3,count),doc['title'],request['signatur'],count).save(root/'comic.png')
+        return {'images':[{'local_path':'comic.png'}],'comic_panels':panels,'local_layout':True}
 
     def validate_scenes(self,value,count,cast):
         if not isinstance(value,list) or len(value)!=count:raise ValueError(f'Genau {count} Szenen erforderlich.')
@@ -160,7 +195,11 @@ class Engine:
         return result
 
     def preflight(self,plan,cast):
-        result=self.client.request('POST','/dgx-comics/automation/check-plan',{'scenes':plan['scenes'],'cast':cast})
+        result={'valid':True,'issues':[]}
+        for start in range(0,len(plan['scenes']),12):
+            checked=self.client.request('POST','/dgx-comics/automation/check-plan',{'scenes':plan['scenes'][start:start+12],'cast':cast})
+            result['valid']=result['valid'] and checked['valid']
+            result['issues'].extend({**issue,'panel':issue['panel']+start} for issue in checked['issues'])
         known={c['id'] for c in cast}
         for i,scene in enumerate(plan['scenes']):
             for bubble in scene.get('bubbles',[]):
@@ -269,13 +308,18 @@ class Engine:
         profiles=[narrative(c) for c in cast]
         instructions=f'Adapt this fictional story into exactly {req["kacheln"]} distinct comic panels in {req["sprache"]}. Cover the beginning and ending in order. Return ONLY a JSON array. Each object has story (concrete camera composition under 300 characters), dialog (NARRATOR caption under 120 characters), characters (list of cast IDs visible), bubbles (at most two, each with speaker as an exact cast ID, text under 60 characters, expression normal). Only use the given people and story. Keep faces below the top third of the image to leave space for bubbles. Do not add text inside the illustration. Spoken lines must belong to the correct person; narration goes in dialog.\nCAST:'+json.dumps(profiles,ensure_ascii=False)+'\nSTORY:'+doc['story']
         instructions=learning_context+'\n'+instructions+'\nAll story, dialog and bubble text must be in '+language+'.'
-        scenes=self.json_call(job,'scene-plan',instructions,lambda value:self.validate_scenes(value,req['kacheln'],cast),tokens=min(6500,req['kacheln']*350+300))
+        if req['kacheln']>12:
+            from article_plan import draft_batches
+            import dialogue
+            ledger=dialogue.collect(self,job,doc['story'],cast);locked=dialogue.sections(doc['story'],ledger,req['kacheln'])
+            scenes=draft_batches(self,job,instructions,doc['story'],cast,ledger,locked,tag='scene-plan')
+        else:scenes=self.json_call(job,'scene-plan',instructions,lambda value:self.validate_scenes(value,req['kacheln'],cast),tokens=min(6500,req['kacheln']*350+300))
         plan={'source_hash':hashlib.sha256(json.dumps([doc['story'].strip(),req['kacheln'],req['seed']],ensure_ascii=False).encode()).hexdigest(),'scenes':scenes}
         best_plan=None
         for iteration in range(budget+1):
             self.stage(job,'scene_review')
             fit=self.preflight(plan,cast)
-            review=self.review(job,'scene-review-'+str(iteration),{'story':doc['story'],'scenes':plan['scenes'],'characters':[{k:c[k] for k in ('id','name','description','outfit')} for c in cast]},'Scene schema: story is the visual composition, dialog is a NARRATOR CAPTION (not spoken dialogue), bubbles are spoken lines. Narration may summarize speech indirectly. A short adaptation may omit incidental words while preserving the plot and ending. Check one distinct moment per panel, no repeated scene, stable people and correctly attributed bubbles.')
+            review=self.review_scene_chunks(job,'scene-review-'+str(iteration),{'story':doc['story'],'scenes':plan['scenes'],'characters':[{k:c[k] for k in ('id','name','description','outfit')} for c in cast]},'Scene schema: story is the visual composition, dialog is a NARRATOR CAPTION (not spoken dialogue), bubbles are spoken lines. Narration may summarize speech indirectly. A short adaptation may omit incidental words while preserving the plot and ending. Check one distinct moment per panel, no repeated scene, stable people and correctly attributed bubbles.')
             reports['scenes']=review;reports['lettering']=fit
             record(reports,'scenes',iteration,review);record(reports,'lettering',iteration,fit)
             grade=(not fit['valid'],not review['approved'],len(review['issues'])+len(fit['issues']))
@@ -286,7 +330,7 @@ class Engine:
             best_plan=(grade,copy.deepcopy(plan),copy.deepcopy(review),copy.deepcopy(fit))
             if review['approved'] and fit['valid']:break
             issues=review['issues']+[item['message'] for item in fit['issues']]
-            if used>=budget:
+            if used>=budget or req['kacheln']>12:
                 warnings.extend(issues);break
             instructions='Improve the storyboard below to resolve the issues. Preserve plot, identities, language and exactly '+str(req['kacheln'])+' panels. Return ONLY a JSON array of scene objects with story, dialog (under 150 characters), characters (IDs), bubbles (speaker ID, text under 70 characters, expression normal). At most two short bubbles per panel. Concrete visual scenes.\nCAST:'+json.dumps([{k:c[k] for k in ('id','name','description','outfit')} for c in cast],ensure_ascii=False)+'\nSCENES:'+json.dumps(plan['scenes'],ensure_ascii=False)+'\nISSUES:'+json.dumps(issues)
             plan['scenes']=self.json_call(job,'scene-revision-'+str(iteration),instructions,lambda x:self.validate_scenes(x,req['kacheln'],cast),tokens=min(6500,req['kacheln']*350+300))
@@ -299,7 +343,17 @@ class Engine:
                 if not isinstance(item,dict) or not isinstance(item.get('dialog'),str) or len(item['dialog'])>400 or not isinstance(item.get('bubbles'),list) or len(item['bubbles'])!=len(original['bubbles']) or any(not isinstance(text,str) or len(text)>400 for text in item['bubbles']):
                     raise ValueError('Beschriftungsstruktur bei der Übersetzung verändert.')
             return value
-        translated=self.require_german(job,'german-panels',visible,validate_visible,min(6500,req['kacheln']*300+300))
+        if len(visible)>12:
+            translated=[]
+            for start in range(0,len(visible),12):
+                chunk=visible[start:start+12]
+                def check_chunk(value):
+                    if not isinstance(value,list) or len(value)!=len(chunk):raise ValueError('Kachelanzahl verändert.')
+                    for before,item in zip(chunk,value):
+                        if not isinstance(item,dict) or not isinstance(item.get('dialog'),str) or len(item['dialog'])>400 or not isinstance(item.get('bubbles'),list) or len(item['bubbles'])!=len(before['bubbles']) or any(not isinstance(t,str) or len(t)>400 for t in item['bubbles']):raise ValueError('Ungültige Beschriftung.')
+                    return value
+                translated.extend(self.require_german(job,'german-panels-'+str(start),chunk,check_chunk,min(6500,len(chunk)*300+300)))
+        else:translated=self.require_german(job,'german-panels',visible,validate_visible,min(6500,req['kacheln']*300+300))
         for scene,text in zip(plan['scenes'],translated):
             scene['dialog']=text['dialog']
             for bubble,words in zip(scene.get('bubbles',[]),text['bubbles']):bubble['text']=words
@@ -373,7 +427,10 @@ class Engine:
                 'fiction':True,'review_is_model_based':True}
         self.store.write(job,'report.json',report)
         folder=self.store.directory(job)
-        self.store.write(job,'README.txt',b'Comic-Studio export. workflow.json can be opened in ComfyUI. Character references are embedded. Reports are model-based, not a guarantee. No automatic publishing.\n')
+        if req['kacheln']>12 and (folder/'comic.png').exists():
+            from lettering import LAYOUT,DESIGN
+            LAYOUT.render_layout(folder,{'title':doc['title'],'scenes':plan['scenes'],'signature':req['signatur']},self.workflow(req,doc,cast,plan,revisions),DESIGN)
+        self.store.write(job,'README.txt','Comic-Studio-Export. workflow.json kann in ComfyUI geöffnet werden. Figurenreferenzen sind eingebettet. Modellprüfungen ersetzen keine Sichtprüfung. Keine automatische Veröffentlichung.\nBei großen Comics ist comic.png eine Vorschau; pages/ und die PDF enthalten alle Kacheln.\n'.encode())
         zip_path=folder/'comic-bundle.zip'
         with zipfile.ZipFile(zip_path.with_suffix('.tmp'), 'w',zipfile.ZIP_DEFLATED) as archive:
             for p in sorted(folder.rglob('*')):
