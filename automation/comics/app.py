@@ -148,7 +148,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js','/guided-reader.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -199,6 +199,15 @@ class Handler(BaseHTTPRequestHandler):
                 try:
                     from experiments import options
                     return self.reply(200,options(self.service.store,job))
+                except Conflict as exc:return self.reply(409,{'error':str(exc)})
+                except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
+            if len(parts)>=3 and parts[2]=='reader':
+                try:
+                    import guided_reader
+                    if len(parts)==3:return self.reply(200,guided_reader.manifest(self.service.store,job))
+                    if len(parts)==5 and parts[3]=='pages' and parts[4].endswith('.png'):
+                        return self.binary(guided_reader.image(self.service.store,job,int(parts[4][:-4])),'image/png')
+                    return self.reply(404,{'error':'Leseseite nicht gefunden.'})
                 except Conflict as exc:return self.reply(409,{'error':str(exc)})
                 except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
             if len(parts)==3 and parts[2]=='book-settings':
@@ -363,6 +372,19 @@ class Handler(BaseHTTPRequestHandler):
         if urlsplit(self.path).path.startswith('/source-tasks/'):
             return self.source_action()
         parts=urlsplit(self.path).path.strip('/').split('/')
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='reader':
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=1000000:raise ValueError('Ungültige Größe der Leseordnung.')
+                job=self.service.store.get(parts[1])
+                if not job:return self.reply(404,{'error':'Auftrag nicht gefunden.'})
+                import guided_reader
+                value=json.loads(self.rfile.read(size))
+                with self.service.stories.lock:result=guided_reader.save(self.service.store,job,value)
+                return self.reply(200,result)
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
+            except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-settings':return self.book_action(parts[1],False)
         if urlsplit(self.path).path=='/sharing':
             if not self.authorized():return

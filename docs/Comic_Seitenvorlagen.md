@@ -49,8 +49,10 @@ rückwirkend auf andere Folgen oder bereits erzeugte Comics.
 - Beim Teilen auf Substack oder X werden für diese Vorlagen die vollständigen
   Seiten in numerischer Reihenfolge angeboten.
 - **Bisheriges Layout** erhält das bisherige Verhalten einschließlich Übersicht.
-- EPUB und KDP-Taschenbuch verwenden weiterhin ihre eigenen Bucheinstellungen;
-  diese Vorlagenauswahl ersetzt deren Druckformat und Kacheln-pro-Seite nicht.
+- EPUB und KDP-Taschenbuch können die Vorlage und gespeicherte Leseordnung
+  übernehmen: im Buchbereich das entsprechende Buchlayout wählen. Druckformat
+  und Ränder bleiben eigene Einstellungen. Siehe
+  [Geführt lesen und Buchexport](Comic_Gefuehrt_Lesen.md).
 
 Die Vorlagen setzen bereits beschriftete Kacheln zusammen. Keine Kachel wird
 beschnitten oder unter ihre ursprüngliche Pixelgröße verkleinert. Unterschiedliche

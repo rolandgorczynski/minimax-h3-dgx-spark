@@ -925,3 +925,18 @@ oder Bildlauf. [Bedienung und API](../../docs/Comic_Serien.md).
 eigene Variante mit Reglern für Spannung, Wut, Action, Blut, Dialoge und Bildwirkung.
 Dramaturgie und Dialoge dürfen optional frei überarbeitet werden. Das Original
 bleibt erhalten. [Ablauf und API](../../docs/Comic_Experimente.md).
+
+
+## Geführte Leseansicht und gemeinsame Buchseiten
+
+Fertige Ausgabe auswählen → **Geführt lesen · Seiten ordnen**. Die Vorschau
+bietet Seitenansicht, Panel-Zoom und eine schmale Handyansicht. Seitenreihenfolge,
+ausgelassene Seiten und Panel-Lesereihenfolge getrennt speichern.
+
+Im Buchbereich **Seitenvorlage und gespeicherte Leseordnung übernehmen** wählen.
+EPUB und Taschenbuch verwenden dann dieselben zusammengesetzten Comic-Seiten.
+Das EPUB erhält Panel-Zoombereiche. Zusätzlich entsteht ein Kindle-Create-Paket
+mit vollständigen Buchseiten sowie hochauflösenden Comic-PNGs. Die KPF-Datei
+wird anschließend in Kindle Create erzeugt; kein automatischer Amazon-Upload.
+
+[Bedienung, Grenzen und Schnittstellen](../../docs/Comic_Gefuehrt_Lesen.md).

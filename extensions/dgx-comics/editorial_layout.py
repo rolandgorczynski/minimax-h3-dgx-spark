@@ -63,21 +63,32 @@ def validate_template(value):
     return value
 
 
-def assemble_template(tiles,template,title,signature,design):
+def template_geometry(sizes,template):
     import math
-    template=TEMPLATES[validate_template(template)];slots=template['slots']
-    if not tiles or len(tiles)>len(slots):raise ValueError('Ungültige Kachelanzahl für die Seitenvorlage.')
-    # Fertig beschriftete Kacheln niemals beschneiden oder kleiner als das Original setzen.
-    width=max(1560,max(math.ceil((tile.width+24)/slot[2]) for tile,slot in zip(tiles,slots)))
-    content_h=max(1400,max(math.ceil((tile.height+24)/slot[3]) for tile,slot in zip(tiles,slots)))
-    page=Image.new('RGB',(width+40,content_h+155),'white');draw=ImageDraw.Draw(page)
-    design.lettering(draw,title,(20,15,width+20,75),42)
-    for tile,(x,y,w,h) in zip(tiles,slots):
-        box=(20+round(x*width)+6,90+round(y*content_h)+6,20+round((x+w)*width)-6,90+round((y+h)*content_h)-6)
-        fitted=ImageOps.contain(tile,(box[2]-box[0]-4,box[3]-box[1]-4),Image.Resampling.LANCZOS)
-        page.paste(fitted,(box[0]+(box[2]-box[0]-fitted.width)//2,box[1]+(box[3]-box[1]-fitted.height)//2))
-        draw.rectangle(box,outline='#172535',width=2)
-    if signature:design.lettering(draw,signature,(20,content_h+102,width+20,content_h+145),27)
+    slots=TEMPLATES[validate_template(template)]['slots']
+    if not sizes or len(sizes)>len(slots):raise ValueError('Ungültige Kachelanzahl für die Seitenvorlage.')
+    width=max(1560,max(math.ceil((w+24)/slot[2]) for (w,h),slot in zip(sizes,slots)))
+    height=max(1400,max(math.ceil((h+24)/slot[3]) for (w,h),slot in zip(sizes,slots)))
+    regions=[]
+    for (iw,ih),(x,y,w,h) in zip(sizes,slots):
+        box=[20+round(x*width)+6,90+round(y*height)+6,20+round((x+w)*width)-6,90+round((y+h)*height)-6]
+        # Pillow verwendet dieselbe Größenberechnung wie ImageOps.contain.
+        ratio=iw/ih;target_w=box[2]-box[0]-4;target_h=box[3]-box[1]-4
+        if ratio>target_w/target_h:fw=target_w;fh=round(ih/iw*fw)
+        else:fh=target_h;fw=round(iw/ih*fh)
+        px=box[0]+(box[2]-box[0]-fw)//2;py=box[1]+(box[3]-box[1]-fh)//2
+        regions.append({'box':box,'rect':[px,py,fw,fh],'original_size':[iw,ih]})
+    return {'width':width+40,'height':height+155,'regions':regions}
+
+
+def assemble_template(tiles,template,title,signature,design):
+    geometry=template_geometry([t.size for t in tiles],template)
+    page=Image.new('RGB',(geometry['width'],geometry['height']),'white');draw=ImageDraw.Draw(page)
+    design.lettering(draw,title,(20,15,page.width-20,75),42)
+    for tile,region in zip(tiles,geometry['regions']):
+        x,y,w,h=region['rect'];page.paste(tile.resize((w,h),Image.Resampling.LANCZOS),(x,y))
+        draw.rectangle(region['box'],outline='#172535',width=2)
+    if signature:design.lettering(draw,signature,(20,page.height-53,page.width-20,page.height-10),27)
     return page
 
 

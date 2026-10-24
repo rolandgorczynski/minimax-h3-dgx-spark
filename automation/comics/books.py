@@ -17,11 +17,11 @@ from stories import Conflict
 TRIMS={'6x9':(6.,9.),'8.5x11':(8.5,11.)}
 INKS={'premium':(24,828,.002347),'standard':(72,600,.002252),'black':(24,828,.002252)}
 TEXT_LIMITS={'title':200,'subtitle':300,'author':200,'publisher':200,'isbn':30,'imprint':12000,'front_heading':200,'front_text':100000,'back_heading':200,'back_text':100000,'blurb':2000}
-SOURCES={'druck':'https://kdp.amazon.com/en_US/help/topic/G201857950','raender':'https://kdp.amazon.com/en_US/help/topic/GVBQ3CMEQW3W2VL6','umschlag':'https://kdp.amazon.com/en_US/help/topic/G201953020','epub':'https://kdp.amazon.com/en_US/help/topic/G9GSTY4LTRT39D4Z','inhalt':'https://kdp.amazon.com/en_US/help/topic/G200672390'}
+SOURCES={'kindle_create':'https://kdp.amazon.com/de_DE/help/topic/GJMRD9F78MS9F43R','panelansicht':'https://kdp.amazon.com/en_US/help/topic/G9GSTY4LTRT39D4Z','druck':'https://kdp.amazon.com/en_US/help/topic/G201857950','raender':'https://kdp.amazon.com/en_US/help/topic/GVBQ3CMEQW3W2VL6','umschlag':'https://kdp.amazon.com/en_US/help/topic/G201953020','epub':'https://kdp.amazon.com/en_US/help/topic/G9GSTY4LTRT39D4Z','inhalt':'https://kdp.amazon.com/en_US/help/topic/G200672390'}
 
 
 def defaults(title=''):
-    return {**{k:'' for k in TEXT_LIMITS},'title':title,'front_heading':'Vorwort','back_heading':'Nachwort','trim':'6x9','ink':'premium','panels_per_page':1,'cover_panel':0}
+    return {**{k:'' for k in TEXT_LIMITS},'title':title,'front_heading':'Vorwort','back_heading':'Nachwort','trim':'6x9','ink':'premium','panels_per_page':1,'cover_panel':0,'layout_mode':'legacy'}
 
 
 def validate(value,required=False):
@@ -33,6 +33,7 @@ def validate(value,required=False):
         result[key]=text.strip()
     if required and (not result['title'] or not result['author']):raise ValueError('Buchtitel und Autor bitte ausfüllen.')
     if result['trim'] not in TRIMS or result['ink'] not in INKS:raise ValueError('Buchformat und Druckfarbe auswählen.')
+    if result['layout_mode'] not in ('legacy','template'):raise ValueError('Buchlayout auswählen.')
     if type(result['panels_per_page']) is not int or result['panels_per_page'] not in (1,2,4):raise ValueError('1, 2 oder 4 Kacheln pro Druckseite wählen.')
     if type(result['cover_panel']) is not int or result['cover_panel']<0:raise ValueError('Vorhandenes Titelbild wählen.')
     isbn=re.sub(r'[\s-]','',result['isbn'])
@@ -45,20 +46,20 @@ def source(store,parent):
     root=store.directory(parent['id'])
     if (root/'editorial-source.json').exists():data=json.loads((root/'editorial-source.json').read_text())
     else:
-        story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text());data={'title':story['title'],'scenes':plan['scenes']}
+        story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text());data={'title':story['title'],'scenes':plan['scenes'],'page_template':parent['request'].get('page_template','standard')}
     scenes=data.get('scenes',[])
     if not isinstance(scenes,list) or not scenes:raise ValueError('Comic-Kacheln fehlen.')
     listed={a['name'] for a in parent.get('artifacts',[])}
     for i in range(len(scenes)):
         if f'panels/{i+1:02}_panel.png' not in listed or not(root/f'panels/{i+1:02}_panel.png').is_file():raise ValueError('Unvollständiger Comic: Kachel '+str(i+1)+' fehlt.')
     cast=json.loads((root/'characters.json').read_text()) if (root/'characters.json').exists() else []
-    return {'book_author':data.get('book_author',''),'title':data.get('title',parent.get('story_title','Comic')),'narrator_badge':bool(data.get('narrator_badge')),'scenes':scenes,'characters':[{'id':c['id'],'name':c['name']} for c in cast]}
+    return {'page_template':data.get('page_template','standard'),'signature':data.get('signature',''),'reader_settings':copy.deepcopy(store.integration_get('reader-'+parent['id']) or {}),'book_author':data.get('book_author',''),'title':data.get('title',parent.get('story_title','Comic')),'narrator_badge':bool(data.get('narrator_badge')),'scenes':scenes,'characters':[{'id':c['id'],'name':c['name']} for c in cast]}
 
 
 def settings(store,parent):
     data=store.integration_get('book-'+parent['id']) or {};src=source(store,parent)
-    initial=defaults(src['title']);initial['author']=src.get('book_author','')
-    return {'settings':data.get('settings',initial),'panel_count':len(src['scenes']),'last_export':data.get('last_export')}
+    initial=defaults(src['title']);initial['author']=src.get('book_author','');initial['layout_mode']='template' if src.get('page_template','standard')!='standard' else 'legacy'
+    return {'settings':{**initial,**data.get('settings',{})},'panel_count':len(src['scenes']),'last_export':data.get('last_export')}
 
 
 def save_settings(store,parent,value):
@@ -163,10 +164,23 @@ def epub(path,settings,src,panels,font_path,cover_image):
         z.writestr('mimetype','application/epub+zip',compress_type=zipfile.ZIP_STORED)
         z.writestr('META-INF/container.xml','<?xml version="1.0" encoding="UTF-8"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="EPUB/package.opf" media-type="application/oebps-package+xml"/></rootfiles></container>')
         z.writestr('EPUB/style.css',css)
-        def add(image,label,alt='',is_cover=False,magnify=False):
+        def add(image,label,alt='',is_cover=False,magnify=False,regions=None):
             nonlocal index
             index+=1;stem=f'page-{index:05}';buffer=io.BytesIO();image.convert('RGB').save(buffer,format='JPEG',quality=94,subsampling=0,dpi=(300,300));z.writestr('EPUB/images/'+stem+'.jpg',buffer.getvalue(),compress_type=zipfile.ZIP_DEFLATED)
             zoom='<div class="tap"><a class="app-amzn-magnify" data-app-amzn-magnify=\'{"targetId":"zoom","ordinal":1}\'></a></div><div id="zoom" class="target-mag-parent"><div class="target-mag"><img src="../images/'+stem+'.jpg" alt="'+esc(alt)+'"/></div></div>' if magnify else ''
+            if regions:
+                zoom=''
+                for region in sorted(regions,key=lambda r:r['ordinal']):
+                    target='panel-'+str(region['panel']);x,y,w,h=region['rect'];ordinal=region['ordinal']
+                    image_name='panel-'+str(region['panel']).zfill(5)+'.jpg'
+                    with Image.open(panels[region['panel']-1]) as panel_image:
+                        panel_image=panel_image.convert('RGB');pw,ph=panel_image.size
+                        panel_bytes=io.BytesIO();panel_image.save(panel_bytes,format='JPEG',quality=95,subsampling=0)
+                        z.writestr('EPUB/images/'+image_name,panel_bytes.getvalue())
+                        items.append('<item id="zoom-image-'+str(index)+'-'+str(ordinal)+'" href="images/'+image_name+'" media-type="image/jpeg"/>')
+                    scale=min(1480/pw,2320/ph);tw=round(pw*scale);th=round(ph*scale)
+                    zoom+='<div style="position:absolute;left:'+str(x)+'px;top:'+str(y)+'px;width:'+str(w)+'px;height:'+str(h)+'px"><a style="display:block;width:100%;height:100%" class="app-amzn-magnify" data-app-amzn-magnify=\'{"targetId":"'+target+'","ordinal":'+str(ordinal)+'}\'></a></div>'
+                    zoom+='<div id="'+target+'" class="target-mag-parent" style="background:white"><img style="position:absolute;left:'+str((1600-tw)//2)+'px;top:'+str((2560-th)//2)+'px;width:'+str(tw)+'px;height:'+str(th)+'px" src="../images/'+image_name+'" alt="Kachel '+str(region['panel'])+'"/></div>'
             page='<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="de"><head><title>'+esc(label)+'</title><meta name="viewport" content="width=1600,height=2560"/><link rel="stylesheet" type="text/css" href="../style.css"/></head><body><img class="page" src="../images/'+stem+'.jpg" alt="'+esc(alt or label)+'"/>'+zoom+'</body></html>'
             z.writestr('EPUB/pages/'+stem+'.xhtml',page,compress_type=zipfile.ZIP_DEFLATED)
             items.extend([f'<item id="i{index}" href="images/{stem}.jpg" media-type="image/jpeg"'+(' properties="cover-image"' if is_cover else '')+'/>',f'<item id="p{index}" href="pages/{stem}.xhtml" media-type="application/xhtml+xml"/>']);spine.append(f'<itemref idref="p{index}" properties="rendition:page-spread-center"/>');nav.append((stem,label));return stem
@@ -176,12 +190,23 @@ def epub(path,settings,src,panels,font_path,cover_image):
                 for image in text_images(heading,text,font_path):add(image,heading or 'Buchanfang',text[:1000])
         first_content=None
         names={c['id']:c['name'] for c in src.get('characters',[])}
-        for i,file in enumerate(panels):
-            with Image.open(file) as im:picture=ImageOps.contain(im.convert('RGB'),(1480,2320),Image.Resampling.LANCZOS)
-            page=Image.new('RGB',(1600,2560),'white');page.paste(picture,((1600-picture.width)//2,(2560-picture.height)//2))
-            scene=src['scenes'][i];alt=scene.get('dialog','')+' '+ ' '.join(names.get(b['speaker'],'Figur')+': '+b['text'] for b in scene.get('bubbles',[]))
-            stem=add(page,'Kachel '+str(i+1),alt.strip() or scene.get('story','Comic-Kachel'),magnify=True)
-            if first_content is None:first_content=stem
+        if src.get('layout_pages'):
+            for i,layout in enumerate(src['layout_pages']):
+                file=Path(path).parent/'kindle-create'/layout['filename']
+                with Image.open(file) as im:picture=ImageOps.contain(im.convert('RGB'),(1480,2320),Image.Resampling.LANCZOS)
+                page=Image.new('RGB',(1600,2560),'white');ox=(1600-picture.width)//2;oy=(2560-picture.height)//2;page.paste(picture,(ox,oy))
+                regions=[]
+                for r in layout['regions']:
+                    x,y,w,h=r['rect'];regions.append({**r,'rect':[round(ox+x*picture.width/layout['width']),round(oy+y*picture.height/layout['height']),max(1,round(w*picture.width/layout['width'])),max(1,round(h*picture.height/layout['height']))]})
+                stem=add(page,'Comic-Seite '+str(i+1),regions=regions)
+                if first_content is None:first_content=stem
+        else:
+            for i,file in enumerate(panels):
+                with Image.open(file) as im:picture=ImageOps.contain(im.convert('RGB'),(1480,2320),Image.Resampling.LANCZOS)
+                page=Image.new('RGB',(1600,2560),'white');page.paste(picture,((1600-picture.width)//2,(2560-picture.height)//2))
+                scene=src['scenes'][i];alt=scene.get('dialog','')+' '+ ' '.join(names.get(b['speaker'],'Figur')+': '+b['text'] for b in scene.get('bubbles',[]))
+                stem=add(page,'Kachel '+str(i+1),alt.strip() or scene.get('story','Comic-Kachel'),magnify=True)
+                if first_content is None:first_content=stem
         if settings['back_text']:
             for image in text_images(settings['back_heading'],settings['back_text'],font_path):add(image,settings['back_heading'] or 'Buchende',settings['back_text'][:1000])
         navigation='<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="de"><head><title>Inhalt</title></head><body><nav epub:type="toc"><h1>Inhalt</h1><ol>'+''.join('<li><a href="pages/'+stem+'.xhtml">'+esc(label)+'</a></li>' for stem,label in nav)+'</ol></nav><nav epub:type="landmarks" hidden="hidden"><ol><li><a epub:type="cover" href="pages/'+cover_stem+'.xhtml">Umschlag</a></li><li><a epub:type="bodymatter" href="pages/'+first_content+'.xhtml">Comic</a></li></ol></nav></body></html>'
@@ -246,16 +271,21 @@ def print_pdf(path,settings,src,panels,font_path,_pages_hint=None):
     text_pages(settings['title'],settings['subtitle']+'\n\n'+settings['author'])
     if settings['imprint'] or settings['isbn']:text_pages('Impressum',settings['imprint']+('\n\nISBN '+settings['isbn'] if settings['isbn'] else ''))
     if settings['front_text']:text_pages(settings['front_heading'],settings['front_text'])
-    per=settings['panels_per_page'];columns=2 if per==4 else 1;rows=2 if per in (2,4) else 1;gap=12
+    per=1 if src.get('layout_pages') else settings['panels_per_page'];columns=2 if per==4 else 1;rows=2 if per in (2,4) else 1;gap=12
     for start in range(0,len(panels),per):
         x0=left();cell_w=(content_w-gap*(columns-1))/columns;cell_h=(content_h-gap*(rows-1))/rows
         for slot,file in enumerate(panels[start:start+per]):
             with Image.open(file) as im:original=im.convert('RGB')
             scale=min(cell_w/original.width,cell_h/original.height);dw,dh=original.width*scale,original.height*scale;dpi=72/scale;min_effective=min(min_effective,dpi)
-            scene=src['scenes'][start+slot];smallest=min([20 if b.get('expression')=='whisper' else 22 for b in scene.get('bubbles',[])]+([24] if scene.get('dialog') else [100]))
-            if src.get('narrator_badge'):smallest=min(smallest,11)
-            if any(b.get('show_name') is True for b in scene.get('bubbles',[])):smallest=min(smallest,16)
-            if smallest*scale<7:blockers.append('Kachel '+str(start+slot+1)+': Schrift wäre kleiner als 7 Punkt. Weniger Kacheln pro Druckseite oder ein größeres Format wählen.')
+            regions=src['layout_pages'][start+slot]['regions'] if src.get('layout_pages') else [{'panel':start+slot+1,'rect':[0,0,original.width,original.height],'original_size':[original.width,original.height]}]
+            for region in regions:
+                panel_index=region['panel']-1;scene=src['scenes'][panel_index]
+                panel_scale=scale*region['rect'][2]/region['original_size'][0]
+                min_effective=min(min_effective,72/panel_scale)
+                smallest=min([20 if b.get('expression')=='whisper' else 22 for b in scene.get('bubbles',[])]+([24] if scene.get('dialog') else [100]))
+                if src.get('narrator_badge'):smallest=min(smallest,11)
+                if any(b.get('show_name') is True for b in scene.get('bubbles',[])):smallest=min(smallest,16)
+                if smallest*panel_scale<7:blockers.append('Kachel '+str(panel_index+1)+': Schrift wäre kleiner als 7 Punkt. Weniger Kacheln pro Druckseite oder ein größeres Format wählen.')
             target=(max(1,round(dw/72*300)),max(1,round(dh/72*300)));pixels=original.resize(target,Image.Resampling.LANCZOS).convert('L' if settings['ink']=='black' else 'CMYK')
             buffer=io.BytesIO();pixels.save(buffer,format='JPEG',quality=95,dpi=(300,300));buffer.seek(0)
             col=slot%columns;row=slot//columns;x=x0+col*(cell_w+gap)+(cell_w-dw)/2;y=h-top-row*(cell_h+gap)-(cell_h+dh)/2
@@ -300,17 +330,33 @@ def cover_pdf(path,settings,front,font_path,report):
 def run(store,ident):
     from PIL import Image
     root=store.directory(ident);data=json.loads((root/'checkpoints/book-input.json').read_text());settings=validate(data['settings'],True);src=data['source'];out=root/'books';out.mkdir(exist_ok=True);font=resources();panels=[root/f'checkpoints/book-panels/{i+1:02}.png' for i in range(len(src['scenes']))]
+    layout_pages=[]
+    if settings['layout_mode']=='template':
+        from guided_reader import export_pages
+        layout_pages=export_pages(out/'kindle-create',src,panels,src.get('reader_settings'))
+        src={**src,'layout_pages':layout_pages}
+        (out/'kindle-create/navigation.json').write_text(json.dumps({'page_template':src.get('page_template','standard'),'pages':layout_pages},ensure_ascii=False,indent=2)+'\n')
+        (out/'kindle-create/Anleitung.txt').write_text('In Kindle Create ein neues Comic-Projekt erstellen und comic-0001.png usw. in numerischer Reihenfolge importieren. Panels automatisch erkennen lassen und mit navigation.json bzw. der Lesevorschau abgleichen. Danach das Projekt als KCB sichern und als KPF exportieren. navigation.json ist eine Orientierungshilfe, kein Kindle-Create-Importformat. KPF wird durch Kindle Create erzeugt, nicht durch dieses Paket.\n')
     store.stage(ident,'book_epub')
     with Image.open(root/'checkpoints/book-cover.png') as im:cover_art=im.convert('RGB')
     ebook_cover=cover(settings,cover_art,font);ebook_cover.save(out/'ebook-cover.jpg',quality=95,subsampling=0,dpi=(300,300))
     epub_pages=epub(out/'comic.epub',settings,src,panels,font,ebook_cover)
+    if layout_pages:
+        with zipfile.ZipFile(out/'kindle-create.zip','w',zipfile.ZIP_DEFLATED) as archive:
+            for file in sorted((out/'kindle-create').iterdir()):archive.write(file,file.name)
+            # Vollständige Buchfassung samt Titel, Vorwort, Impressum und Nachwort.
+            # Die JPEG-Seiten sind dieselben wie im EPUB; Panel-Zoom-Bilder auslassen.
+            with zipfile.ZipFile(out/'comic.epub') as ebook:
+                book_images=sorted(n for n in ebook.namelist() if re.fullmatch(r'EPUB/images/page-\d+\.jpg',n))
+                for i,name in enumerate(book_images):archive.writestr(f'Buchseiten/seite-{i+1:04}.jpg',ebook.read(name))
+            archive.writestr('IMPORT-LESEN.txt','Für die vollständige Buchfassung alle JPG-Dateien im Ordner Buchseiten in numerischer Reihenfolge in Kindle Create importieren. Sie enthalten auch Titel, Vorwort, Impressum und Nachwort, soweit ausgefüllt. Die comic-0001.png usw. im Hauptordner sind zusätzliche hochauflösende Comic-Seiten ohne diese Buchtexte; nicht beide Fassungen gleichzeitig importieren. navigation.json beschreibt die Comic-Seiten. Navigationsbereiche nach dem Import prüfen. Anschließend als KCB speichern und als KPF exportieren.\n')
     store.stage(ident,'book_print')
-    report=print_pdf(out/'taschenbuch-inhalt.pdf',settings,src,panels,font)
+    report=print_pdf(out/'taschenbuch-inhalt.pdf',settings,src,[out/'kindle-create'/p['filename'] for p in layout_pages] if layout_pages else panels,font)
     front=cover(settings,cover_art,font,tuple(round(n*300) for n in TRIMS[settings['trim']]))
     report['cover']=cover_pdf(out/'taschenbuch-umschlag.pdf',settings,front,font,report)
     for filename in ('taschenbuch-inhalt.pdf','taschenbuch-umschlag.pdf'):
         if (out/filename).stat().st_size>650*1024*1024:report['blockers'].append(filename+': größer als das KDP-Dateilimit von 650 MB.')
-    report.update({'title':settings['title'],'author':settings['author'],'panel_count':len(panels),'epub_pages':epub_pages,'epub_structure_valid':True,'kdp_acceptance_verified':False,'print_upload_ready':not report['blockers'],'sources':SOURCES,'model_calls':0,'original_comic_unchanged':True,'kdp_rules_checked':'2026-10-23'})
+    report.update({'title':settings['title'],'author':settings['author'],'panel_count':len(panels),'epub_pages':epub_pages,'layout_mode':settings['layout_mode'],'comic_pages':len(layout_pages) if layout_pages else len(panels),'guided_panel_count':sum(len(p['regions']) for p in layout_pages),'page_template':src.get('page_template','standard'),'epub_structure_valid':True,'kdp_acceptance_verified':False,'print_upload_ready':not report['blockers'],'sources':SOURCES,'model_calls':0,'original_comic_unchanged':True,'kdp_rules_checked':'2026-10-23'})
     if report['blockers']:
         (out/'taschenbuch-inhalt.pdf').rename(out/'taschenbuch-inhalt-ENTWURF.pdf');(out/'taschenbuch-umschlag.pdf').rename(out/'taschenbuch-umschlag-ENTWURF.pdf')
     (out/'buchpruefung.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
@@ -318,6 +364,6 @@ def run(store,ident):
     (out/'KDP-Anleitung.txt').write_text(notes)
     with zipfile.ZipFile(out/'buchpaket.zip','w',zipfile.ZIP_DEFLATED) as archive:
         for path in sorted(out.iterdir()):
-            if path.suffix!='.zip':archive.write(path,path.name)
+            if path.is_file() and path.name!='buchpaket.zip':archive.write(path,path.name)
     artifacts=[{'name':str(p.relative_to(root)),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'url':f'/jobs/{ident}/artifacts/{p.relative_to(root)}'} for p in sorted(out.iterdir()) if p.is_file()]
     return {'status':'needs_review','artifacts':artifacts,'book_report':report,'warnings':report['blockers']+report['warnings']}
