@@ -11,6 +11,9 @@
 <p>Quelle wählen → deutsches Comic-Skript lokal erstellen → prüfen → als neue Geschichte übernehmen → Comic erzeugen.</p>
 <div class="row"><label>Vorlage <select id="source-select"></select></label><button id="source-new">Neue Quelle</button></div>
 <p id="source-rights-summary" style="white-space:pre-wrap"></p>
+<label>Kurzbeschreibung zum Posten<textarea id="source-post_summary" maxlength="1200" rows="4" placeholder="Kurze Zusammenfassung der Geschichte für deinen Comic-Post."></textarea></label><div class="row"><button id="source-copy-post" type="button">Zusammenfassung kopieren</button><button id="source-save-post" type="button">Kurztext mit der Quelle speichern</button></div>
+<label>Kompakte Fassung für X<textarea id="source-post-short" maxlength="250" rows="3"></textarea></label><button id="source-copy-short" type="button">Kurzfassung kopieren</button><small id="source-post-count"></small><p id="source-post-status" role="status"></p>
+<small>Beide Texte sind bearbeitbar. Beim fertigen Skript erscheint die Zusammenfassung der Adaption, sofern du den Kurztext noch nicht selbst geändert hast. Nach größeren Skriptänderungen den Begleittext ebenfalls prüfen.</small>
 <details id="source-data"><summary>Quellendaten und Rechtehinweise bearbeiten</summary>
 <label>Titel <input id="source-title" maxlength="2000"></label>
 <label>Art <select id="source-kind"><option>Buch</option><option>Film</option><option>Eigene Vorlage</option></select></label>

@@ -66,6 +66,20 @@ class SourceTests(unittest.TestCase):
         from character_profiles import validate
         with self.assertRaisesRegex(ValueError,'outfit: Text erwartet'):validate({'outfit':None})
 
+    def test_post_summary_is_copyable_saved_and_adopted_without_model_calls(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);entries=sources.catalog(store)
+            self.assertTrue(entries[0]['post_summary']);self.assertNotIn('kein Volltext:',entries[0]['post_summary'])
+            self.assertLessEqual(len(entries[0]['post_summary']),600)
+            summary='Ein persönlicher Begleittext.\n\n'+('Die Reise führt ins Unbekannte. '*22)
+            saved=sources.save_source(store,{**entries[0],'post_summary':summary})
+            self.assertEqual(sources.catalog(store)[0]['post_summary'],summary.strip())
+            job=sources.enqueue(store,{'source_id':saved['id'],'count':2,'style':STYLE});sources.run(FakeEngine(store),job['id']);store.stage(job['id'],'finished',status='completed')
+            script=(store.directory(job['id'])/'source-script.txt').read_text()
+            story=sources.adopt(Stories(store),store,job['id'],{'script':script,'post_summary':'Ein Sohn begegnet seinem Vater.'})
+            self.assertEqual(story['payload']['post_summary'],'Ein Sohn begegnet seinem Vater.')
+            with self.assertRaisesRegex(ValueError,'Begleittext'):sources.adopt(Stories(store),store,job['id'],{'script':script,'post_summary':'x'*1201})
+
     def test_catalog_persists_user_sources_and_never_overwrites_defaults(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);original=copy.deepcopy(sources.BUILTINS);entry=sources.save_source(store,{'title':'Mein alter Film','kind':'Film','edition':'Konkrete Fassung','text':'Eigene Szenenzusammenfassung.','rights':'Noch zu prüfen.','territories':'Deutschland'})

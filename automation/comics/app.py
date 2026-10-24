@@ -429,6 +429,8 @@ class Handler(BaseHTTPRequestHandler):
         result['source_input']=json.loads((self.service.store.directory(job['id'])/'source-input.json').read_text())
         if job['status']=='completed':
             result['script']=(self.service.store.directory(job['id'])/'source-script.txt').read_text()
+            draft=json.loads((self.service.store.directory(job['id'])/'source-draft.json').read_text())
+            result['post_summary']=draft.get('post_summary',result['source_input']['source'].get('post_summary',''))
         return self.reply(200,result)
 
     def source_action(self):

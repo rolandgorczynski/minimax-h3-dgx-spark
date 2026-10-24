@@ -45,6 +45,16 @@ class SharingTests(unittest.TestCase):
             for address in ['javascript:alert(1)','http://substack.com/@name','https://user:password@example.com']:
                 with self.assertRaises(ValueError):save_settings(store,{**value,'substack_url':address})
 
+    def test_post_summary_is_in_share_text_and_image_package(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);ident=uuid.uuid4().hex;store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
+            store.write(ident,'panels/01_panel.png',png());store.write(ident,'story.json',{'title':'Heimkehr','story':'Nicht als technisches Skript veröffentlichen.'})
+            store.write(ident,'editorial-source.json',{'post_summary':'Ein Vater kehrt heim und begegnet seinem Sohn.'})
+            store.stage(ident,'finished',status='needs_review',artifacts=[{'name':'panels/01_panel.png'}]);job=store.get(ident)
+            self.assertEqual(manifest(store,job)['text'],'Heimkehr\n\nEin Vater kehrt heim und begegnet seinem Sohn.')
+            with zipfile.ZipFile(io.BytesIO(bundle(store,job))) as archive:
+                self.assertIn('Ein Vater kehrt heim',archive.read('Beitragstext.txt').decode())
+
     def test_authenticated_download_does_not_start_or_change_jobs(self):
         with tempfile.TemporaryDirectory() as root,patch.dict(os.environ,{'DATA_DIR':root,'WORKFLOW_TEMPLATE':str(Path(__file__).resolve().parents[1]/'examples/comics/workflows/04_Comic_Automat_9B.json'),'LLM_BACKEND':'comfyui','API_TOKEN':'test'}):
             service=Service();ident=uuid.uuid4().hex

@@ -73,7 +73,10 @@ def manifest(store,job):
     sources=selected_sources(store,job);width=max(2,len(str(len(sources))));title='Comic'
     path=store.directory(job['id'])/'story.json'
     if path.exists():title=json.loads(path.read_text()).get('title',title)
-    return {'job_id':job['id'],'title':title,'targets':settings(store),'text':title,
+    source=store.directory(job['id'])/'editorial-source.json'
+    summary=json.loads(source.read_text()).get('post_summary','') if source.exists() else ''
+    text=title+('\n\n'+summary if isinstance(summary,str) and summary.strip() else '')
+    return {'job_id':job['id'],'title':title,'targets':settings(store),'text':text,
             'images':[{'name':f'{i+1:0{width}}.png','label':(f'Seite {i+1}' if sources[i].startswith('pages/') else f'Kachel {i+1}') if len(sources)>1 else 'Comic',
                        'url':f'/jobs/{job["id"]}/share/images/{i+1:0{width}}.png'} for i,_ in enumerate(sources)],
             'download_url':f'/jobs/{job["id"]}/share/images.zip','published':False}
@@ -91,6 +94,6 @@ def bundle(store,job):
     info=manifest(store,job);buffer=io.BytesIO()
     with zipfile.ZipFile(buffer,'w',zipfile.ZIP_DEFLATED) as archive:
         for index,item in enumerate(info['images']):archive.writestr(item['name'],image(store,job,index))
-        archive.writestr('Beitragstext.txt',info['title']+'\n')
-        archive.writestr('Anleitung.txt','Comic als Bilder veröffentlichen\n\nDie nummerierten PNG-Dateien in aufsteigender Reihenfolge in den Substack-Beitrag einfügen.\nTitel aus Beitragstext.txt übernehmen. In Substack prüfen und veröffentlichen.\nFür X: nummerierte PNGs im Beitragseditor anhängen. Längere Comics als Thread, beispielsweise vier Kacheln je Beitrag, veröffentlichen. Konto, Reihenfolge und Lesbarkeit vor dem Absenden prüfen.\nDieses Paket enthält keine PDF, Figurenreferenzen oder Workflow-Dateien.\nDas Vorbereiten dieses Pakets veröffentlicht nichts automatisch.\n')
+        archive.writestr('Beitragstext.txt',info['text']+'\n')
+        archive.writestr('Anleitung.txt','Comic als Bilder veröffentlichen\n\nDie nummerierten PNG-Dateien in aufsteigender Reihenfolge in den Substack-Beitrag einfügen.\nTitel und Begleittext aus Beitragstext.txt übernehmen. In Substack prüfen und veröffentlichen.\nFür X: nummerierte PNGs im Beitragseditor anhängen. Längere Comics als Thread, beispielsweise vier Kacheln je Beitrag, veröffentlichen. Konto, Reihenfolge und Lesbarkeit vor dem Absenden prüfen.\nDieses Paket enthält keine PDF, Figurenreferenzen oder Workflow-Dateien.\nDas Vorbereiten dieses Pakets veröffentlicht nichts automatisch.\n')
     return buffer.getvalue()
