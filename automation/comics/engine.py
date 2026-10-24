@@ -186,6 +186,9 @@ class Engine:
 
     def studio(self,job,step,doc,cast,plan=None,revisions=None,request_override=None):
         req=request_override or self.store.get(job)['request']
+        if plan and req.get('page_template','standard')!='standard' and not all(s.get('canvas_size') for s in plan['scenes']):
+            from panel_formats import apply
+            plan={**plan,'scenes':apply(plan['scenes'],req['page_template'])}
         if req['kacheln']>12 and plan:return self.studio_many(job,step,doc,cast,plan,revisions or {},req)
         graph=copy.deepcopy(self.loaders)
         fields=dict(zip(['artikel','comic_art','anzahl_kacheln','aktion','titel','spalten','signatur','seed','bearbeiteter_plan','kachel_revisionen','figuren'],
@@ -202,7 +205,10 @@ class Engine:
         for index,scene in enumerate(plan['scenes']):
             self.store.stage(job,'editorial_rendering',rendered_panels=index,total_panels=count)
             retained=root/f'checkpoints/retained-panels/{index+1:02}_art.png'
-            if retained.exists():raw=retained.read_bytes()
+            compatible=retained.exists()
+            if compatible and scene.get('render_size'):
+                with Image.open(retained) as image:compatible=list(image.size)==scene['render_size']
+            if compatible:raw=retained.read_bytes()
             else:
                 one={**request,'kacheln':1,'seed':(request['seed']+index)%2147483648}
                 digest=hashlib.sha256(json.dumps([doc['story'].strip(),1,one['seed']],ensure_ascii=False).encode()).hexdigest()
@@ -212,7 +218,7 @@ class Engine:
                 desc=rendered['comic_panels'][0];raw=self.client.download(job,{**desc,'filename':desc['filename'].replace('_panel.png','_art.png')})
             self.store.write(job,f'panels/{index+1:02}_art.png',raw)
             import io
-            with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast})
+            with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast},canvas_size=scene.get('canvas_size'))
             tile.save(root/f'panels/{index+1:02}_panel.png')
             if len(preview)<12:preview.append(tile)
             panels.append({'local_path':f'panels/{index+1:02}_panel.png','filename':f'{index+1:02}_panel.png'})
@@ -237,6 +243,13 @@ class Engine:
             if ids is None:
                 ids=[c['id'] for c in cast if any(re.search(r'(?<!\w)'+re.escape(name)+r'(?!\w)',scene['story']+' '+dialog,re.I) for name in [c['name'],*c.get('aliases',[])])]
             if not isinstance(ids,list) or any(x not in known for x in ids):raise ValueError('Unbekannte Figuren-Zuordnung.')
+            if 'canvas_size' in scene:
+                from lettering import DESIGN
+                DESIGN.validate_canvas_size(scene['canvas_size'])
+            if 'render_size' in scene:
+                dims=scene['render_size']
+                from lettering import DESIGN
+                DESIGN.validate_render_size(dims)
             states=scene.get('character_states',{})
             if not isinstance(states,dict) or len(states)>8 or any(key not in known or not isinstance(v,str) or not v.strip() or len(v)>1000 for key,v in states.items()):raise ValueError('Ungültiger Figuren-Zustand je Kachel.')
             result.append({**scene,'dialog':dialog,'bubbles':bubbles,'characters':ids})
@@ -407,6 +420,8 @@ class Engine:
             for bubble,words in zip(scene.get('bubbles',[]),text['bubbles']):bubble['text']=words
         from continuity import enforce
         plan['scenes'],reports['continuity']=enforce(self,job,plan['scenes'],cast,doc['story'],tag='automatic')
+        from panel_formats import apply
+        plan['scenes']=apply(plan['scenes'],req.get('page_template','standard'))
         revisions={};self.store.write(job,'scenes.json',plan)
         if not self.preflight(plan,cast)['valid']:
             warnings.append('Beschriftung passt noch nicht; Bilderzeugung vor teurem Modelllauf angehalten.')

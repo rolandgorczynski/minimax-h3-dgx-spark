@@ -16,6 +16,28 @@ spec=importlib.util.spec_from_file_location('comic_test_extension',p/'__init__.p
 m=importlib.util.module_from_spec(spec);sys.modules[spec.name]=m;spec.loader.exec_module(m)
 g=__import__('comic_test_extension.generation',fromlist=['generate_panel'])
 class ComicRuntimeTests(unittest.TestCase):
+    def test_sampling_uses_requested_latent_and_scheduler_dimensions(self):
+        from types import SimpleNamespace
+        clip=SimpleNamespace(tokenize=lambda text:text,encode_from_tokens_scheduled=lambda tokens:'conditioning')
+        vae=SimpleNamespace(decode=lambda samples:'decoded')
+        with patch.object(g.EmptyFlux2LatentImage,'execute',return_value=({'samples':'empty'},)) as latent, patch.object(g.Flux2Scheduler,'execute',return_value=('sigmas',)) as scheduler, patch.object(g.BasicGuider,'execute',return_value=('guider',)), patch.object(g.RandomNoise,'execute',return_value=('noise',)), patch.object(g.SamplerCustomAdvanced,'execute',return_value=({'samples':'sampled'},)), patch.object(g.comfy.samplers,'sampler_object',return_value='sampler'):
+            self.assertEqual(g.generate_panel(object(),clip,vae,[],'Bild',1984,1408,448),'decoded')
+            latent.assert_called_with(1408,448,1);scheduler.assert_called_with(4,1408,448)
+            g.generate_panel(object(),clip,vae,[],'Bild',1984)
+            latent.assert_called_with(1024,704,1);scheduler.assert_called_with(4,1024,704)
+
+    def test_canvas_dimensions_reach_sampler_and_lettered_tile(self):
+        from PIL import Image
+        ref=torch.zeros((1,32,32,3))
+        scene={'story':'Eine breite Landschaft.','dialog':'','characters':[],'bubbles':[],'canvas_size':[1280,384],'render_size':[1536,448]}
+        from comic_test_extension.story import read_plan
+        self.assertEqual(read_plan([scene],1)[0]['canvas_size'],[1280,384])
+        with tempfile.TemporaryDirectory() as folder, patch.object(folder_paths,'get_output_directory',return_value=folder), patch.object(g,'generate_panel',return_value=torch.zeros((1,448,1536,3))) as sample:
+            m.DGXSysopComic().create(ref,object(),object(),object(),1,1,'','','Tusche',json.dumps([scene]),'',1984,'canvas-test',cast=[],library_cast=True)
+            self.assertEqual(sample.call_args.args[-2:],(1536,448))
+            with Image.open(next(Path(folder).rglob('01_art.png'))) as art:self.assertEqual(art.size,(1536,448))
+            with Image.open(next(Path(folder).rglob('01_panel.png'))) as tile:self.assertEqual(tile.size,(1280,384))
+
     def test_planning_boundary_and_selective_regeneration(self):
         ref=torch.zeros((1,32,32,3)); model=object(); clip=object(); vae=object()
         scenes=[{'story':'First distinct scene','dialog':'One'},{'story':'Second distinct scene','dialog':'Two'}]

@@ -41,7 +41,7 @@ def source(store,job):
 def manifest(store,job):
     value,version=source(store,job)
     return {'job_id':job['id'],'version':version,'title':value['title'],'characters':[{'id':c['id'],'name':c['name']} for c in value['characters']],
-            'panels':[{'story':s['story'],'dialog':s.get('dialog',''),'bubbles':s.get('bubbles',[]),'protected_areas':s.get('protected_areas',[])} for s in value['scenes']]}
+            'panels':[{'canvas_size':s.get('canvas_size',[768,672]),'story':s['story'],'dialog':s.get('dialog',''),'bubbles':s.get('bubbles',[]),'protected_areas':s.get('protected_areas',[])} for s in value['scenes']]}
 
 
 def area(value):
@@ -53,7 +53,8 @@ def area(value):
 
 
 def panel(value,cast):
-    if not isinstance(value,dict) or set(value)-{'dialog','bubbles','protected_areas'}:raise ValueError('Nur Erzählertext, Sprechblasen und geschützte Bereiche ändern.')
+    if not isinstance(value,dict) or set(value)-{'dialog','bubbles','protected_areas','canvas_size'}:raise ValueError('Nur Erzählertext, Sprechblasen und geschützte Bereiche ändern.')
+    if 'canvas_size' in value:DESIGN.validate_canvas_size(value['canvas_size'])
     caption=value.get('dialog','')
     if not isinstance(caption,str) or len(caption)>400:raise ValueError('Erzählertext maximal 400 Zeichen.')
     bubbles=DESIGN.validate_bubbles(value.get('bubbles',[]));known={c['id'] for c in cast}
@@ -71,13 +72,14 @@ def contains(rect,x,y):
     return rect['x']<x<rect['x']+rect['w'] and rect['y']<y<rect['y']+rect['h']
 
 
-def issues(value):
+def issues(value,canvas_size=None):
+    size=DESIGN.validate_canvas_size(canvas_size) if canvas_size else (768,672)
     result=[];bubbles=value['bubbles']
     for i,b in enumerate(bubbles):
         if contains(b,b['tip_x'],b['tip_y']):result.append(f'Sprechblase {i+1}: Schweifspitze liegt in der Blase. Den gelben Punkt zur Figur ziehen.')
         if b['x']<.005 or b['y']<.005 or b['x']+b['w']>.995 or b['y']+b['h']>.995:result.append(f'Sprechblase {i+1}: mehr Abstand zum Kachelrand lassen.')
         if intersects(b,{'x':.01,'y':.01,'w':.07,'h':.085}):result.append(f'Sprechblase {i+1} verdeckt die Kachelnummer.')
-        if value['dialog'] and b['y']<150/672+.01:result.append(f'Sprechblase {i+1} verdeckt den Erzählerkasten.')
+        if value['dialog'] and b['y']<DESIGN.caption_band(value['dialog'],size)/size[1]+.01:result.append(f'Sprechblase {i+1} verdeckt den Erzählerkasten.')
         if any(intersects(b,a) for a in value['protected_areas']):result.append(f'Sprechblase {i+1} verdeckt einen geschützten Bereich.')
         for j,other in enumerate(bubbles[:i]):
             if intersects(b,other):result.append(f'Sprechblasen {j+1} und {i+1} überlappen.')
@@ -100,9 +102,11 @@ def preview(store,job,value):
     if value.get('version')!=version:raise Conflict('Ausgabe wurde geändert. Positionierung neu öffnen.')
     index=value.get('panel')
     if type(index) is not int or not 0<=index<len(original['scenes']):raise ValueError('Ungültige Kachel.')
+    layout=value.get('layout')
+    if isinstance(layout,dict) and 'canvas_size' in layout and DESIGN.validate_canvas_size(layout['canvas_size'])!=tuple(original['scenes'][index].get('canvas_size',[768,672])):raise ValueError('Das Kachelformat wird durch die Seitenvorlage festgelegt.')
     p=panel(value.get('layout'),original['characters']);image=art(store,job,index);names={c['id']:c['name'] for c in original['characters']}
-    background=DESIGN.panel(image,p['dialog'],index+1,[],names);problems=issues(p);png=None
-    try:png=encoded(DESIGN.panel(image,p['dialog'],index+1,p['bubbles'],names))
+    size=original['scenes'][index].get('canvas_size');background=DESIGN.panel(image,p['dialog'],index+1,[],names,canvas_size=size);problems=issues(p,size);png=None
+    try:png=encoded(DESIGN.panel(image,p['dialog'],index+1,p['bubbles'],names,canvas_size=size))
     except ValueError as exc:problems.append(str(exc)+' Blase vergrößern oder den Text aufteilen.')
     return {'valid':not problems,'issues':problems,'background':encoded(background),'png':png,'layout':p}
 
@@ -114,7 +118,7 @@ def automatic(store,job,value):
     index=value.get('panel')
     if type(index) is not int or not 0<=index<len(original['scenes']):raise ValueError('Ungültige Kachel.')
     p=panel(value.get('layout'),original['characters']);names={c['id']:c['name'] for c in original['characters']}
-    blank=DESIGN.panel(art(store,job,index),p['dialog'],index+1,[],names);edges=blank.convert('L').filter(ImageFilter.FIND_EDGES)
+    size=original['scenes'][index].get('canvas_size');blank=DESIGN.panel(art(store,job,index),p['dialog'],index+1,[],names,canvas_size=size);edges=blank.convert('L').filter(ImageFilter.FIND_EDGES)
     placed=[];last=(-1,-1)
     for b in p['bubbles']:
         options=[];w=max(.32,min(.47,b['w']));h=max(.20,min(.28,b['h']))
@@ -122,9 +126,9 @@ def automatic(store,job,value):
             for x in (.02,.51):
                 candidate={**b,'x':x,'y':y,'w':w,'h':h}
                 if y+h>.99 or (y,x)<last or any(contains(candidate,other['tip_x'],other['tip_y']) for other in p['bubbles']) or any(intersects(candidate,a) for a in [*p['protected_areas'],*placed]):continue
-                try:DESIGN.panel(blank,'',index+1,[candidate],names)
+                try:DESIGN.panel(blank,'',index+1,[candidate],names,canvas_size=size)
                 except ValueError:continue
-                score=ImageStat.Stat(edges.crop((int(x*768),int(y*672),int((x+w)*768),int((y+h)*672)))).mean[0]
+                score=ImageStat.Stat(edges.crop((int(x*blank.width),int(y*blank.height),int((x+w)*blank.width),int((y+h)*blank.height)))).mean[0]
                 score+=abs(x+w/2-b['tip_x'])*12+y*1000
                 options.append((score,candidate))
         if not options:raise ValueError('Keine passende freie Position gefunden. Blasen manuell anpassen oder geschützte Bereiche prüfen.')
@@ -163,8 +167,9 @@ def render(store,job):
     store.stage(job,'lettering_rendering')
     for i,scene in enumerate(value['scenes']):
         p=panel({k:scene.get(k,[] if k!='dialog' else '') for k in ('dialog','bubbles','protected_areas')},cast)
-        if issues(p):raise ValueError('Kachel '+str(i+1)+': '+' '.join(issues(p)))
-        with Image.open(root/f'panels/{i+1:02}_art.png') as image:tile=DESIGN.panel(image,p['dialog'],i+1,p['bubbles'],names)
+        size=scene.get('canvas_size')
+        if issues(p,size):raise ValueError('Kachel '+str(i+1)+': '+' '.join(issues(p,size)))
+        with Image.open(root/f'panels/{i+1:02}_art.png') as image:tile=DESIGN.panel(image,p['dialog'],i+1,p['bubbles'],names,canvas_size=size)
         tile.save(root/f'panels/{i+1:02}_panel.png');
         if len(tiles)<12:tiles.append(tile)
     DESIGN.assemble_preview(tiles,min(3,len(tiles)),value['title'],value.get('signature',''),len(value['scenes'])).save(root/'comic.png')

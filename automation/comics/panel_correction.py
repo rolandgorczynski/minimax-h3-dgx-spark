@@ -100,7 +100,7 @@ def run(engine,ident):
     raw=engine.client.download(ident,{**descriptor,'filename':descriptor['filename'].replace('_panel.png','_art.png')})
     store.write(ident,f'panels/{index+1:02}_art.png',raw)
     import io
-    with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast})
+    with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast},canvas_size=scene.get('canvas_size'))
     LAYOUT.decorate_tiles([tile],source,DESIGN);tile.save(root/f'panels/{index+1:02}_panel.png')
     for i in range(len(source['scenes'])):
         if i==index:continue

@@ -40,6 +40,10 @@ def parse_scenes(serialized, count):
         if 'bubbles' in scene:
             item['bubbles'] = validate_bubbles(scene['bubbles'])
         if 'character_states' in scene:item['character_states']=validate_character_states(scene['character_states'])
+        if 'canvas_size' in scene:item['canvas_size']=list(validate_canvas_size(scene['canvas_size']))
+        if 'render_size' in scene:
+            dims=scene['render_size']
+            item['render_size']=list(validate_render_size(dims))
         result.append(item)
     return result
 
@@ -81,9 +85,32 @@ def validate_bubbles(value):
     return result
 
 
-def _speech(draw, bubble, names):
-    x,y,w,h=[bubble[key]*scale for key,scale in [('x',768),('y',672),('w',768),('h',672)]]
-    tx,ty=bubble['tip_x']*768,bubble['tip_y']*672
+def validate_canvas_size(value):
+    if not isinstance(value,(list,tuple)) or len(value)!=2 or any(type(n) is not int or n%16 for n in value) or not 384<=value[0]<=2304 or not 320<=value[1]<=3072:raise ValueError('Ungültiges Kachelformat: Breite 384–2304, Höhe 320–3072, jeweils durch 16 teilbar.')
+    return tuple(value)
+
+
+def validate_render_size(value):
+    if not isinstance(value,(list,tuple)) or len(value)!=2 or any(type(n) is not int or n%16 or not 128<=n<=2304 for n in value) or value[0]*value[1]>2359296:raise ValueError('Ungültiges Illustrationsformat.')
+    return tuple(value)
+
+
+def caption_band(dialogue,size):
+    return min(round(150*size[0]/768),round(size[1]*.38)) if dialogue else 0
+
+
+def art_render_size(canvas_size,dialogue):
+    width,height=validate_canvas_size(canvas_size);ratio=(width-8)/(height-caption_band(dialogue,(width,height))-8)
+    budget=720896*min(2.5,max(1,width/768*height/672))
+    w=round(math.sqrt(budget*ratio)/16)*16;h=round(w/ratio/16)*16
+    scale=min(1,2304/max(w,h));w=max(128,round(w*scale/16)*16);h=max(128,round(h*scale/16)*16)
+    return [w,h]
+
+
+def _speech(draw, bubble, names, canvas_size=(768,672)):
+    width,height=canvas_size;scale=width/768
+    x,y,w,h=[bubble[key]*scale for key,scale in [('x',width),('y',height),('w',width),('h',height)]]
+    tx,ty=bubble['tip_x']*width,bubble['tip_y']*height
     cx,cy=x+w/2,y+h/2
     dx,dy=tx-cx,ty-cy
     if abs(dx)/(w/2)>abs(dy)/(h/2):
@@ -120,9 +147,9 @@ def _speech(draw, bubble, names):
         draw.rounded_rectangle((x,y,x+w,y+h),radius=0 if style=='box' else min(25,h/3),fill='white',outline='black',width=3)
         inset_x,inset_y=14,10
     top=y+inset_y
-    size=28 if bubble['expression']=='shout' else 24
-    if bubble['expression']=='whisper':size=20
-    lettering(draw,bubble['text'],(x+inset_x,top,x+w-inset_x,y+h-inset_y),size=size,minimum=20 if bubble['expression']=='whisper' else 22)
+    size=round((28 if bubble['expression']=='shout' else 24)*scale)
+    if bubble['expression']=='whisper':size=round(20*scale)
+    lettering(draw,bubble['text'],(x+inset_x,top,x+w-inset_x,y+h-inset_y),size=size,minimum=round((20 if bubble['expression']=='whisper' else 22)*scale))
 
 
 def lettering(draw, value, bounds, size=30, minimum=18):
@@ -152,10 +179,11 @@ def lettering(draw, value, bounds, size=30, minimum=18):
     raise ValueError('Der Text ist zu lang für die Sprechblase. Bitte kürzen.')
 
 
-def panel(image, dialogue, number, bubbles=None, speaker_names=None):
+def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size=None):
     # Keep legacy single-bubble layouts; new scenes use a narrator band and positioned speech.
-    width, height = 768, 672
-    band = 150 if dialogue else 0
+    width,height=validate_canvas_size(canvas_size) if canvas_size else (768,672)
+    scale=width/768
+    band=caption_band(dialogue,(width,height)) if canvas_size else (150 if dialogue else 0)
     tile = Image.new('RGB', (width, height), 'white')
     art = ImageOps.fit(image.convert('RGB'), (width-8, height-band-8), Image.Resampling.LANCZOS)
     tile.paste(art, (4, band+4))
@@ -165,7 +193,7 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None):
     caption_left=max(65,12+badge_width+10)
     if dialogue and bubbles is not None:
         draw.rectangle((caption_left,10,width-15,band-20),fill='white',outline='black',width=3)
-        lettering(draw,dialogue,(caption_left+15,20,width-30,band-30),minimum=24)
+        lettering(draw,dialogue,(caption_left+15,20,width-30,band-30),size=round(30*scale),minimum=round(24*scale))
     elif dialogue:
         draw.rounded_rectangle((caption_left, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
         draw.polygon([(width-165, band-21), (width-120, band-21), (width-125, band+8)], fill='white', outline='black', width=3)
@@ -173,7 +201,7 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None):
         lettering(draw, dialogue, (caption_left+20, 20, width-35, band-30))
     if bubbles is not None:
         for bubble in validate_bubbles(bubbles):
-            _speech(draw,bubble,speaker_names or {})
+            _speech(draw,bubble,speaker_names or {},(width,height))
     draw.rounded_rectangle((12,12,12+badge_width,55),radius=21,fill='white',outline='black',width=3)
     lettering(draw,str(number),(15,15,9+badge_width,52),size=26,minimum=26)
     draw.rectangle((1, 1, width-2, height-2), outline='black', width=4)
@@ -196,7 +224,9 @@ def assemble(tiles, columns, title='', signature='sysop1984.substack.com'):
     for i, tile in enumerate(tiles):
         x = margin+(i%columns)*(768+gap)
         y = top+(i//columns)*(672+gap)
-        page.paste(tile, (x, y))
+        if tile.size!=(768,672):
+            fitted=ImageOps.contain(tile,(768,672),Image.Resampling.LANCZOS);page.paste(fitted,(x+(768-fitted.width)//2,y+(672-fitted.height)//2))
+        else:page.paste(tile, (x, y))
     if signature.strip():
         lettering(draw, signature, (margin, height-55, width-margin, height-10), 27)
     return page

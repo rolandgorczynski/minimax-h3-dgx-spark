@@ -67,6 +67,13 @@ def read_plan(value, count):
         if 'character_states' in scene:
             from .design import validate_character_states
             result['character_states']=validate_character_states(scene['character_states'])
+        if 'canvas_size' in scene:
+            from .design import validate_canvas_size
+            result['canvas_size']=list(validate_canvas_size(scene['canvas_size']))
+        if 'render_size' in scene:
+            dims=scene['render_size']
+            from .design import validate_render_size
+            result['render_size']=list(validate_render_size(dims))
         scenes.append(result)
     return scenes
 

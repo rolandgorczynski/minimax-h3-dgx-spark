@@ -54,10 +54,11 @@ rückwirkend auf andere Folgen oder bereits erzeugte Comics.
   und Ränder bleiben eigene Einstellungen. Siehe
   [Geführt lesen und Buchexport](Comic_Gefuehrt_Lesen.md).
 
-Die Vorlagen setzen bereits beschriftete Kacheln zusammen. Keine Kachel wird
-beschnitten oder unter ihre ursprüngliche Pixelgröße verkleinert. Unterschiedliche
-Seitenverhältnisse können deshalb freie Ränder enthalten. Es handelt sich um
-eigene geometrische Seitenlayouts; Canva-Dateien werden nicht importiert.
+Neue Ausgaben erzeugen die Kacheln passend zu ihren Vorlagenfeldern: große
+Hauptbilder, schmale Details und breite Streifen erhalten unterschiedliche
+Formate. Alte Ausgaben bleiben erhalten. Details zu Sampling, Beschriftung und
+Lesbarkeit: [Adaptive Kachelformate](Comic_Adaptive_Kachelformate.md).
+Die Vorlagen sind eigene geometrische Seitenlayouts; Canva-Dateien werden nicht importiert.
 
 API: `GET /page-templates` liefert IDs, deutsche Bezeichnungen, Gruppen und
 normalisierte Kachelrechtecke. In der Storydefinition steht die Auswahl in

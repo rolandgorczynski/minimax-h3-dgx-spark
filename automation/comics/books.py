@@ -283,8 +283,14 @@ def print_pdf(path,settings,src,panels,font_path,_pages_hint=None):
                 panel_scale=scale*region['rect'][2]/region['original_size'][0]
                 min_effective=min(min_effective,72/panel_scale)
                 smallest=min([20 if b.get('expression')=='whisper' else 22 for b in scene.get('bubbles',[])]+([24] if scene.get('dialog') else [100]))
+                smallest*=scene.get('canvas_size',[768,672])[0]/768
                 if src.get('narrator_badge'):smallest=min(smallest,11)
                 if any(b.get('show_name') is True for b in scene.get('bubbles',[])):smallest=min(smallest,16)
+                if scene.get('render_size'):
+                    from lettering import DESIGN
+                    cw,ch=scene['canvas_size'];rw,rh=scene['render_size']
+                    art_h=ch-DESIGN.caption_band(scene.get('dialog',''),(cw,ch))-8
+                    min_effective=min(min_effective,72*rw/((cw-8)*panel_scale),72*rh/(art_h*panel_scale))
                 if smallest*panel_scale<7:blockers.append('Kachel '+str(panel_index+1)+': Schrift wäre kleiner als 7 Punkt. Weniger Kacheln pro Druckseite oder ein größeres Format wählen.')
             target=(max(1,round(dw/72*300)),max(1,round(dh/72*300)));pixels=original.resize(target,Image.Resampling.LANCZOS).convert('L' if settings['ink']=='black' else 'CMYK')
             buffer=io.BytesIO();pixels.save(buffer,format='JPEG',quality=95,dpi=(300,300));buffer.seek(0)

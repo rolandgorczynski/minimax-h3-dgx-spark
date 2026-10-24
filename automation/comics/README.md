@@ -961,3 +961,12 @@ Seitenvorlage und Szenen bleiben erhalten. Die Vorschaubilder werden lokal
 erzeugt und zeigen ein allgemeines Vergleichsmotiv ohne private Figurenreferenzen.
 
 [Vollständiger Katalog und Vorschauerzeugung](../../docs/Comic_Bildstile.md).
+
+
+## Adaptive Kachelformate
+
+Neue Ausgaben mit Seitenvorlage erzeugen Illustrationen und beschriftete Kacheln
+im Format ihrer jeweiligen Felder. Hauptbilder, hohe Details und Filmstreifen
+werden dadurch unterschiedlich groß und füllen die vorgesehenen Bereiche.
+Die Textprüfung berücksichtigt die tatsächlichen Maße; alte Ausgaben bleiben
+erhalten. [Bedienung und Grenzen](../../docs/Comic_Adaptive_Kachelformate.md).

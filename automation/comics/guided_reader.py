@@ -25,7 +25,7 @@ def pages_for(src,panels,settings=None):
         sizes=[]
         for path in panels[start:start+per]:
             with Image.open(path) as im:sizes.append(im.size)
-        page={'id':start//per+1,'template':template,**LAYOUT.template_geometry(sizes,template)}
+        page={'id':start//per+1,'template':template,'adaptive':all(s.get('canvas_size') for s in src['scenes'][start:start+per]),**LAYOUT.template_geometry(sizes,template,adaptive=all(s.get('canvas_size') for s in src['scenes'][start:start+per]))}
         for i,r in enumerate(page['regions']):r.update(panel=start+i+1,ordinal=i+1)
         pages.append(page)
     if settings:
@@ -46,7 +46,7 @@ def render_page(src,panels,page):
     try:
         for r in page['regions']:
             with Image.open(panels[r['panel']-1]) as im:images.append(im.convert('RGB'))
-        return LAYOUT.assemble_template(images,page['template'],src['title']+' · '+str(page['id']),src.get('signature',''),DESIGN)
+        return LAYOUT.assemble_template(images,page['template'],src['title']+' · '+str(page['id']),src.get('signature',''),DESIGN,adaptive=page.get('adaptive',False))
     finally:
         for im in images:im.close()
 

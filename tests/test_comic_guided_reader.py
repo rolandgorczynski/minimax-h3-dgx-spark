@@ -72,6 +72,23 @@ class GuidedReaderTests(unittest.TestCase):
             self.assertTrue(any('mindestens 24' in b for b in report['blockers']))
             self.assertTrue((out/'taschenbuch-inhalt-ENTWURF.pdf').exists())
 
+    def test_adaptive_kachel_sizes_survive_epub_and_print_export(self):
+        from panel_formats import apply
+        from lettering import DESIGN
+        with tempfile.TemporaryDirectory() as folder:
+            store,job,src=fixture(folder);src['scenes']=apply(src['scenes'],'hero_top');root=store.directory(job['id'])
+            for i,scene in enumerate(src['scenes']):
+                raw=Image.new('RGB',tuple(scene['render_size']),'#426a8c')
+                DESIGN.panel(raw,'',i+1,[],canvas_size=scene['canvas_size']).save(root/f'panels/{i+1:02}_panel.png')
+            store.write(job['id'],'editorial-source.json',src)
+            settings=books.settings(store,job)['settings'];settings['author']='Sysop';task=books.enqueue(store,job,settings)
+            report=books.run(store,task['id'])['book_report'];out=store.directory(task['id'])/'books'
+            navigation=json.loads((out/'kindle-create/navigation.json').read_text());first=navigation['pages'][0]
+            self.assertTrue(first['adaptive']);self.assertEqual(first['regions'][0]['original_size'],src['scenes'][0]['canvas_size'])
+            self.assertGreater(first['regions'][0]['rect'][2],first['regions'][1]['rect'][2]*1.8)
+            self.assertEqual(report['guided_panel_count'],7);self.assertEqual(report['comic_pages'],3)
+            with zipfile.ZipFile(out/'comic.epub') as archive:self.assertIn('EPUB/images/panel-00001.jpg',archive.namelist())
+
     def test_http_reader_requires_token_and_rejects_stale_saves(self):
         from app import Handler,Service
         from stories import Stories

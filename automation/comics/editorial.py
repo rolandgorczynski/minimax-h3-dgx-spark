@@ -53,7 +53,11 @@ def render(store,client,template,payload,job,worker=False):
             images=overrides[c['id']]
             if not isinstance(images,list) or not 1<=len(images)<=2 or any(not isinstance(image,str) or len(image)>8_000_000 or not base64.b64decode(image,validate=True).startswith(b'\x89PNG\r\n\x1a\n') for image in images):raise ValueError('Ungültige eingebettete Porträtreferenz.')
             c['inline_references']=images;c['references']=[]
-    scenes=engine.validate_scenes(copy.deepcopy(payload['scenes']),req['kacheln'],cast)
+    from panel_formats import apply
+    payload=copy.deepcopy(payload)
+    keep_legacy=bool(previous and previous.get('improvement_mode') and not any(s.get('canvas_size') for s in payload['scenes']))
+    scenes=engine.validate_scenes(payload['scenes'] if keep_legacy else apply(payload['scenes'],payload.get('page_template','standard')),req['kacheln'],cast)
+    payload['scenes']=scenes
     plan={'source_hash':hashlib.sha256(json.dumps([doc['story'].strip(),req['kacheln'],req['seed']],ensure_ascii=False).encode()).hexdigest(),'scenes':scenes}
     revisions=payload.get('revisions',{})
     if not isinstance(revisions,dict) or any(not str(k).isdigit() or not 0<=int(k)<req['kacheln'] or type(v) is not int or v<0 for k,v in revisions.items()):raise ValueError('Ungültige Kachelrevisionen.')

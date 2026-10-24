@@ -292,3 +292,6 @@ Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Com
 
 
 [64 Bildstile mit Kategorien und lokalen Vorschaubildern](docs/Comic_Bildstile.md).
+
+
+[Adaptive Kachelformate passend zu den Canvas-Seitenvorlagen](docs/Comic_Adaptive_Kachelformate.md).

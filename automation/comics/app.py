@@ -170,7 +170,7 @@ class Handler(BaseHTTPRequestHandler):
             return self.source_read(path)
         if path=='/page-templates':
             from lettering import LAYOUT
-            return self.reply(200,{'templates':list(LAYOUT.TEMPLATES.values())})
+            return self.reply(200,{'templates':[{**t,'aspect_ratio':LAYOUT.template_aspect(t['id'])} for t in LAYOUT.TEMPLATES.values()]})
         if path=='/styles':
             from art_styles import public
             return self.reply(200,{'styles':STYLES,'catalog':public()})

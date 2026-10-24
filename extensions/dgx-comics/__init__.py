@@ -116,11 +116,15 @@ class DGXSysopComic:
                 *reference_instructions,
                 *(['The saved character profiles and current clothing define the assigned subjects.'] if active else []),
                 'One scene only, no grid, no lettering, no words, no speech bubbles, no captions, no watermark.'])
+            if scene.get('render_size'):text+='\nFrame this scene for an illustration of '+str(scene['render_size'][0])+' by '+str(scene['render_size'][1])+' pixels. Keep all assigned subjects and important objects inside the frame.'
             panel_seed = (seed+i+100003*(revisions or {}).get(str(i), 0)) % 2147483648
             cache_key = hashlib.sha256(json.dumps([text, panel_seed, reference_key, [(c['id'], asset) for c, asset in references],
                 model_identity if model_identity is not None else [id(model), id(clip), id(vae)]]).encode()).hexdigest()
             cached = cache/(cache_key+'.png')
             retained = Path(output)/'retained-panels'/f'{i+1:02}_art.png' if image_type=='temp' else None
+            if retained and retained.is_file() and scene.get('render_size'):
+                with Image.open(retained) as check:
+                    if list(check.size)!=scene['render_size']:retained=None
             if retained and retained.is_file():
                 with Image.open(retained) as existing:art=existing.convert('RGB')
             elif reuse_panels and cached.exists():
@@ -141,14 +145,14 @@ class DGXSysopComic:
                             pixels = torch.from_numpy(np.asarray(image.convert('RGB')).copy().astype(np.float32)/255).unsqueeze(0)
                         character_latents[key] = prepare_reference(vae, pixels)
                     panel_references.append(character_latents[key])
-                pixels = generate_panel(model, clip, vae, panel_references, text, panel_seed)
+                pixels = generate_panel(model, clip, vae, panel_references, text, panel_seed, *scene['render_size']) if scene.get('render_size') else generate_panel(model, clip, vae, panel_references, text, panel_seed)
                 art = Image.fromarray(np.clip(pixels[0].detach().cpu().numpy()*255, 0, 255).astype(np.uint8)).convert('RGB')
                 if reuse_panels:
                     temporary = cached.with_suffix('.tmp.png')
                     art.save(temporary)
                     temporary.replace(cached)
             art.save(run/f'{i+1:02}_art.png')
-            tile = panel(art, scene['dialog'], i+1, scene.get('bubbles'), speaker_names)
+            tile = panel(art, scene['dialog'], i+1, scene.get('bubbles'), speaker_names,canvas_size=scene.get('canvas_size'))
             tile.save(run/f'{i+1:02}_panel.png')
             previews.append({'filename': f'{i+1:02}_panel.png',
                 'subfolder': str(Path(image_subfolder_prefix)/subfolder/run.name), 'type': image_type})

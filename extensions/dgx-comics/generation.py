@@ -17,8 +17,9 @@ def prepare_reference(vae, image):
         return {'samples': vae.encode(pixels[:, :, :, :3])}
 
 
-def generate_panel(model, clip, vae, reference_latent, text, seed):
-    width, height = 1024, 704
+def generate_panel(model, clip, vae, reference_latent, text, seed, width=1024, height=704):
+    from .design import validate_render_size
+    validate_render_size((width,height))
     with torch.inference_mode():
         conditioning = clip.encode_from_tokens_scheduled(clip.tokenize(text))
         references = reference_latent if isinstance(reference_latent, list) else [reference_latent]

@@ -63,12 +63,20 @@ def validate_template(value):
     return value
 
 
-def template_geometry(sizes,template):
+def template_aspect(template):
+    if template in ('scroll_short','scroll_long'):return (768/672)/TEMPLATES[template]['count']
+    return {'standard':768/672,'duo_horizontal':2*768/672,'triple_strip':3*768/672,'six_landscape':1.5*768/672}.get(template,5/6)
+
+
+def template_geometry(sizes,template,adaptive=False):
     import math
     slots=TEMPLATES[validate_template(template)]['slots']
     if not sizes or len(sizes)>len(slots):raise ValueError('Ungültige Kachelanzahl für die Seitenvorlage.')
     width=max(1560,max(math.ceil((w+24)/slot[2]) for (w,h),slot in zip(sizes,slots)))
     height=max(1400,max(math.ceil((h+24)/slot[3]) for (w,h),slot in zip(sizes,slots)))
+    if adaptive:
+        width=max(width,max(math.ceil(h*template_aspect(template)/slot[3]) for (w,h),slot in zip(sizes,slots)))
+        height=round(width/template_aspect(template))
     regions=[]
     for (iw,ih),(x,y,w,h) in zip(sizes,slots):
         box=[20+round(x*width)+6,90+round(y*height)+6,20+round((x+w)*width)-6,90+round((y+h)*height)-6]
@@ -76,13 +84,14 @@ def template_geometry(sizes,template):
         ratio=iw/ih;target_w=box[2]-box[0]-4;target_h=box[3]-box[1]-4
         if ratio>target_w/target_h:fw=target_w;fh=round(ih/iw*fw)
         else:fh=target_h;fw=round(iw/ih*fh)
+        if adaptive:fw=target_w;fh=target_h
         px=box[0]+(box[2]-box[0]-fw)//2;py=box[1]+(box[3]-box[1]-fh)//2
         regions.append({'box':box,'rect':[px,py,fw,fh],'original_size':[iw,ih]})
     return {'width':width+40,'height':height+155,'regions':regions}
 
 
-def assemble_template(tiles,template,title,signature,design):
-    geometry=template_geometry([t.size for t in tiles],template)
+def assemble_template(tiles,template,title,signature,design,adaptive=False):
+    geometry=template_geometry([t.size for t in tiles],template,adaptive)
     page=Image.new('RGB',(geometry['width'],geometry['height']),'white');draw=ImageDraw.Draw(page)
     design.lettering(draw,title,(20,15,page.width-20,75),42)
     for tile,region in zip(tiles,geometry['regions']):
@@ -140,7 +149,7 @@ def render_layout(output,source,workflow,design,decorate=True):
     for start in range(0,count_panels,per_page):
         group=[read_tile(i) for i in range(start,min(start+per_page,count_panels))]
         title=f'{source["title"]} · {start//per_page+1}/{count}'
-        page=design.assemble(group,2,title,source.get('signature','')) if template=='standard' else assemble_template(group,template,title,source.get('signature',''),design)
+        page=design.assemble(group,2,title,source.get('signature','')) if template=='standard' else assemble_template(group,template,title,source.get('signature',''),design,adaptive=all(s.get('canvas_size') for s in source['scenes'][start:start+per_page]))
         if start==0 and template!='standard':page.save(output/'comic.png',pnginfo=metadata)
         path=output/f'pages/{start//per_page+1:02}.png';page.save(path,pnginfo=tile_metadata);pages.append(path)
     try:

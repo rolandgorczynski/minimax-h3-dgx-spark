@@ -111,7 +111,8 @@ def register_automation_routes():
             for entry in [*running,*pending]:
                 if entry[3].get('comic_automation_session')==data['session']:raise ValueError('Auftrag wird bereits gezeichnet.')
             image=decode_image(data['png'])
-            if image.size!=(1024,704):raise ValueError('Unerwartete Größe der Originalillustration.')
+            from .design import validate_render_size
+            validate_render_size(image.size)
             target=root/'retained-panels'
             if target.is_symlink():raise ValueError('Ungültiges temporäres Verzeichnis.')
             target.mkdir(parents=True,exist_ok=True);image.save(target/f'{index+1:02}_art.png')
@@ -158,8 +159,11 @@ def register_automation_routes():
             for i,scene in enumerate(scenes):
                 try:
                     scene=parse_scenes(json.dumps([scene]),1)[0]
-                    panel(Image.new('RGB',(768,512)),scene['dialog'],i+1,scene.get('bubbles'),names)
-                except (ValueError,TypeError) as exc:issues.append({'panel':i+1,'message':str(exc)})
+                    panel(Image.new('RGB',(768,512)),scene['dialog'],i+1,scene.get('bubbles'),names,canvas_size=scene.get('canvas_size'))
+                except (ValueError,TypeError) as exc:
+                    message=str(exc)
+                    if isinstance(scene,dict) and scene.get('canvas_size'):message+=' Im gewählten Kachelformat '+str(scene['canvas_size'])+' bitte Blasen vergrößern, Text aufteilen oder eine höhere Seitenvorlage wählen.'
+                    issues.append({'panel':i+1,'message':message})
             return web.json_response({'valid':not issues,'issues':issues})
         except (ValueError,KeyError,TypeError) as exc:
             return web.json_response({'error':str(exc)},status=400)
