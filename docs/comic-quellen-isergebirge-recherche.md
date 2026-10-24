@@ -15,7 +15,7 @@ allgemeinen Gebirgssagen lediglich durch Ortsumbenennung zu regionalen Stoffen m
 
 | Sammlung | Nachweis | Stand |
 |---|---|---|
-| Hermann Blumrich: *100 Volkssagen des Friedländer Bezirkes*, 1937 | [Regionalbibliothek Liberec](https://kramerius.kvkli.cz/search/r.jsp?pid=uuid:b1a5ca84-99c9-4398-96ce-e63054270aa2), [Archivverzeichnis](https://www.frydlantsko.com/archiv/archiv_D.html) | Genau 100 regionale Sagen angekündigt; Friedländer Bezirk, nicht ausschließlich Gebirge. Lebensdaten des Autors und Nutzbarkeit der konkreten Textfassung noch nicht geklärt. Der Kramerius-API-Abruf lieferte bei der Recherche einen Serverfehler; kein vollständiger Textbestand gesichert. |
+| Hermann Blumrich: *100 Volkssagen des Friedländer Bezirkes*, 1937 | [Regionalbibliothek Liberec](https://kramerius.kvkli.cz/search/r.jsp?pid=uuid:b1a5ca84-99c9-4398-96ce-e63054270aa2), [Archivverzeichnis](https://www.frydlantsko.com/archiv/archiv_D.html) | Genau 100 regionale Sagen angekündigt; Friedländer Bezirk, nicht ausschließlich Gebirge. Lebensdaten des Autors und Nutzbarkeit der konkreten Textfassung noch nicht geklärt. Die öffentliche Kramerius-Metadatenliste wurde inzwischen abgerufen: Sämtliche 188 verzeichneten Seiten haben `policy: private`. Der vollständige Text ist über diesen öffentlichen Zugang nicht verfügbar; keine geschützten Seiten abgerufen. |
 | Theodor Hutter: *Nordböhmische Sagen*, Warnsdorf 1883 | [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/item/QD7UC3K25IX4NHUZFTPY6NRKVPF6MMA2), [BSB-Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb11670638) | Bibliografie und Inhaltsverzeichnis geprüft. Enthält auch räumlich andere nordböhmische Stoffe und Gedichte, keine Sammlung von 100 Isergebirgssagen. Autor 1860–1932. Digitalisat mit NoC-NC-Hinweis; Bilder/Transkription nicht pauschal zur kommerziellen Weiterverwendung übernehmen. |
 | Friedrich Maschek: *Geschichten aus dem Isergebirge*, 1888 | [Google Books / bibliografischer Nachweis](https://play.google.com/store/books/details/Friedrich_Maschek_Geschichten_aus_dem_Isergebirge?id=qrXtBcd3EzQC) | Sammlung mit 104 Seiten nachgewiesen; Zahl und einzelne Handlungsgrundlagen noch nicht geprüft. |
 | Wilhelm Müller-Rüdersdorf: *Volkssagen aus dem Isergebirge*, 1918 und 1919 | [Primärdruck 1918](https://sbc.org.pl/Content/299380/ii4045-1918-00-0001.pdf), [Primärdruck 1919](https://sbc.org.pl/Content/299377/ii4045-1919-00-0001.pdf) | Einzelne Abschnitte im Suchindex lesbar, darunter Engmann bei der Kupferzeche und Das Tier in der Steinrücke. Vollständiger lokaler PDF-Abruf wegen Zeitüberschreitung nicht gelungen. |
@@ -44,3 +44,13 @@ allgemeinen Gebirgssagen lediglich durch Ortsumbenennung zu regionalen Stoffen m
    Quellen- und Rechtehinweise erzeugen. Keine bloßen Titel als fertige Quellen anlegen.
 5. Anzahl, Eigenständigkeit und vorhandene Katalogeinträge prüfen. Ein Paket mit
    weniger als 100 belegten Stoffen nicht als fertiges 100er-Paket bezeichnen.
+
+## Nachprüfung des Bibliothekszugangs
+
+Der öffentliche Metadaten-Endpunkt
+[Seitenverzeichnis des Blumrich-Bands](https://kramerius.kvkli.cz/search/api/v5.0/item/uuid:b1a5ca84-99c9-4398-96ce-e63054270aa2/children)
+antwortet mit den Seitenbezeichnungen und Zugriffsmarkierungen. Alle verzeichneten
+Seiten sind als `private` markiert. Das ist eine Zugangsbeschränkung und für sich
+allein keine Aussage über die urheberrechtliche Schutzdauer. Katalogeintrag und
+Seitenmetadaten ersetzen weder den Erzähltext noch einen Rechtebeleg. Deshalb
+wurden keine Vorlagen aus diesem Band in den Comic-Katalog importiert.
