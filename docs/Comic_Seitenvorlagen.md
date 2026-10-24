@@ -1,13 +1,13 @@
 # Comic-Seitenvorlagen
 
-Im Dashboard unter **Bildstil → Seitenvorlage** stehen 33 Vorlagen mit nummerierten
+Im Dashboard unter **Bildstil → Canvas-/Seitenvorlagen** stehen 33 Vorlagen mit nummerierten
 Vorschaubildern zur Wahl. Der Gruppenfilter hilft beim Vergleichen. Zeichenstil
 und Seitenaufteilung sind unabhängig voneinander.
 
 ## Bedienung
 
 1. Geschichte öffnen oder neu anlegen.
-2. **Seitenvorlage** aufklappen und eine Vorschau anklicken.
+2. In der geöffneten Auswahl **Canvas-/Seitenvorlagen** eine Vorschau anklicken.
 3. **Speichern** oder anschließend den normalen Erstellungsablauf verwenden.
 
 Ein Vorlagenwechsel löscht weder Szenen noch Figuren oder Dialoge und startet
