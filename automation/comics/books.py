@@ -42,6 +42,7 @@ def validate(value,required=False):
 
 
 def source(store,parent):
+    if parent.get('lettering_unresolved'):raise Conflict('Entwurf: Zuerst die Beschriftung unter „Sprechblasen positionieren“ korrigieren.')
     if parent['status'] not in ('completed','needs_review'):raise Conflict('Zuerst eine fertige Comic-Ausgabe wählen.')
     root=store.directory(parent['id'])
     if (root/'editorial-source.json').exists():data=json.loads((root/'editorial-source.json').read_text())

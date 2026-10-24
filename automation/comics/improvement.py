@@ -86,16 +86,9 @@ def revise(engine,job,snapshot):
     removed=sorted(set(removed+remove_duplicates(source)))
     engine.store.stage(job,'feedback_check')
     source['scenes']=engine.validate_scenes(source['scenes'],count,cast)
-    fit=engine.preflight({'scenes':source['scenes']},cast)
-    if not fit['valid']:
-        # Keep the proposed descriptions; retain already validated captions if a new caption doesn't fit.
-        for issue in fit['issues']:
-            index=issue['panel']-1
-            source['scenes'][index]['dialog']=original['scenes'][index].get('dialog','')
-        removed=sorted(set(removed+remove_duplicates(source)))
-        fit=engine.preflight({'scenes':source['scenes']},cast)
-        if not fit['valid']:raise ValueError('Beschriftung der Überarbeitung muss geprüft werden: '+json.dumps(fit['issues'],ensure_ascii=False))
-        notes.append('Nicht passende neue Erzählertexte wurden durch die bisherige Beschriftung ersetzt.')
+    from lettering_plan import accept_preflight
+    lettering_report={'unresolved_panels':[],'warnings':[]}
+    accept_preflight(source['scenes'],engine.preflight({'scenes':source['scenes']},cast),lettering_report)
     style_changed=source['style']!=snapshot['original_style']
     mentioned={int(number)-1 for number in re.findall(r'\b(?:bild|kachel|panel)\s*(\d+)\b',snapshot['feedback'].get('kommentar',''),re.I) if 1<=int(number)<=count}
     redrawn=[];retained=[];changes=[]
@@ -129,6 +122,6 @@ def improve(engine,job):
         engine.client.request('POST','/dgx-comics/automation/retain-panel',{'session':job,'panel':panel-1,'png':base64.b64encode(path.read_bytes()).decode()})
     from editorial import render,export
     render(store,engine.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,job,worker=True)
-    return {'status':'needs_review','artifacts':export(store,job),'warnings':[
+    return {'status':'needs_review','artifacts':export(store,job),'warnings':store.get(job).get('lettering_warnings',[])+[
         f'Bewertung auf denselben Comic angewendet: {len(report["rerendered_panels"])} Bilder neu gezeichnet, {len(report["retained_art_panels"])} Originalillustrationen übernommen.',
         f'{len(report["duplicate_captions_removed"])} doppelte Erzählertexte entfernt. Neue Ausgabe bitte prüfen.']}

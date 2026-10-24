@@ -105,7 +105,7 @@ def preview(store,job,value):
     layout=value.get('layout')
     if isinstance(layout,dict) and 'canvas_size' in layout and DESIGN.validate_canvas_size(layout['canvas_size'])!=tuple(original['scenes'][index].get('canvas_size',[768,672])):raise ValueError('Das Kachelformat wird durch die Seitenvorlage festgelegt.')
     p=panel(value.get('layout'),original['characters']);image=art(store,job,index);names={c['id']:c['name'] for c in original['characters']}
-    size=original['scenes'][index].get('canvas_size');background=DESIGN.panel(image,p['dialog'],index+1,[],names,canvas_size=size);problems=issues(p,size);png=None
+    size=original['scenes'][index].get('canvas_size');background=DESIGN.panel(image,p['dialog'],index+1,[],names,canvas_size=size,draft=True);problems=issues(p,size);png=None
     try:png=encoded(DESIGN.panel(image,p['dialog'],index+1,p['bubbles'],names,canvas_size=size))
     except ValueError as exc:problems.append(str(exc)+' Blase vergrößern oder den Text aufteilen.')
     return {'valid':not problems,'issues':problems,'background':encoded(background),'png':png,'layout':p}
@@ -146,6 +146,7 @@ def enqueue(store,job,value):
         result=preview(store,job,{'version':version,'panel':i,'layout':patch})
         if not result['valid']:raise ValueError('Kachel '+str(i+1)+': '+' '.join(result['issues']))
         original['scenes'][i].update(result['layout'])
+        original['scenes'][i].pop('lettering_draft',None)
     ident=uuid.uuid4().hex;store.create(ident,copy.deepcopy(job['request']),initial_status='editing')
     root=store.directory(ident);parent=store.directory(job['id'])
     try:
@@ -153,7 +154,7 @@ def enqueue(store,job,value):
             if (parent/name).exists():store.write(ident,name,(parent/name).read_bytes())
         for i in range(len(patches)):store.write(ident,f'panels/{i+1:02}_art.png',(parent/f'panels/{i+1:02}_art.png').read_bytes())
         store.write(ident,'editorial-source.json',original)
-        store.update(ident,lettering_mode=True,parent_job=job['id'],editorial_mode=True,story_id=job.get('story_id'),story_version=job.get('story_version'),story_title=original['title'])
+        store.update(ident,lettering_unresolved=False,lettering_warnings=[],lettering_mode=True,parent_job=job['id'],editorial_mode=True,story_id=job.get('story_id'),story_version=job.get('story_version'),story_title=original['title'])
         store.stage(ident,'queued',status='queued')
     except Exception:
         store.stage(ident,'failed',status='failed',error='Beschriftung konnte nicht vorbereitet werden.');raise

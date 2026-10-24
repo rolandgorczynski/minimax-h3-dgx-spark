@@ -62,7 +62,7 @@ class DGXSysopComic:
         speaker_names = {c['id']:c['name'] for c in cast or []}
         # Check lettering for every panel before starting expensive generation.
         for i, scene in enumerate(scenes):
-            panel(Image.new('RGB', (768, 512)), scene['dialog'], i+1, scene.get('bubbles'), speaker_names)
+            panel(Image.new('RGB', (768, 512)), scene['dialog'], i+1, scene.get('bubbles'), speaker_names,canvas_size=scene.get('canvas_size'),draft=scene.get('lettering_draft',False))
         assemble_preview([Image.new('RGB', (768, 672))]*min(12,len(scenes)), spalten, titel, signatur,len(scenes))
         from .generation import prepare_reference, generate_panel
         reference_latent = None
@@ -152,7 +152,7 @@ class DGXSysopComic:
                     art.save(temporary)
                     temporary.replace(cached)
             art.save(run/f'{i+1:02}_art.png')
-            tile = panel(art, scene['dialog'], i+1, scene.get('bubbles'), speaker_names,canvas_size=scene.get('canvas_size'))
+            tile = panel(art, scene['dialog'], i+1, scene.get('bubbles'), speaker_names,canvas_size=scene.get('canvas_size'),draft=scene.get('lettering_draft',False))
             tile.save(run/f'{i+1:02}_panel.png')
             previews.append({'filename': f'{i+1:02}_panel.png',
                 'subfolder': str(Path(image_subfolder_prefix)/subfolder/run.name), 'type': image_type})

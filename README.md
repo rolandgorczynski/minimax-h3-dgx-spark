@@ -295,3 +295,9 @@ Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Com
 
 
 [Adaptive Kachelformate passend zu den Canvas-Seitenvorlagen](docs/Comic_Adaptive_Kachelformate.md).
+
+### Übervolle Sprechblasen nachträglich bearbeiten
+
+Vor dem Zeichnen passt das Comic-Studio Blasengröße und Position an das gewählte Kachelformat an. Texte werden dabei nicht umgeschrieben und die Mindestschriftgröße bleibt erhalten. Technische Leerzeichenfehler werden bereinigt.
+
+Passt eine Beschriftung weiterhin nicht, entsteht trotzdem ein **sichtbar markierter Entwurf**. Der vollständige Text bleibt unter **Sprechblasen positionieren** erhalten. Dort Text kürzen, aufteilen oder Blasen verschieben und vergrößern und die neue Beschriftung speichern. Die neue Ausgabe übernimmt die Originalzeichnungen bytegleich; es werden keine Bilder neu erzeugt. Erst nach erfolgreicher Beschriftungsprüfung stehen Teilen und Buchausgabe wieder zur Verfügung. Fehlerhafte Figuren-Zuordnungen oder ungültige Eingaben bleiben echte Fehler.

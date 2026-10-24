@@ -67,6 +67,9 @@ def read_plan(value, count):
         if 'character_states' in scene:
             from .design import validate_character_states
             result['character_states']=validate_character_states(scene['character_states'])
+        if 'lettering_draft' in scene:
+            if type(scene['lettering_draft']) is not bool:raise ValueError('Ungültige Entwurfsmarkierung.')
+            result['lettering_draft']=scene['lettering_draft']
         if 'canvas_size' in scene:
             from .design import validate_canvas_size
             result['canvas_size']=list(validate_canvas_size(scene['canvas_size']))

@@ -218,7 +218,7 @@ class Engine:
                 desc=rendered['comic_panels'][0];raw=self.client.download(job,{**desc,'filename':desc['filename'].replace('_panel.png','_art.png')})
             self.store.write(job,f'panels/{index+1:02}_art.png',raw)
             import io
-            with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast},canvas_size=scene.get('canvas_size'))
+            with Image.open(io.BytesIO(raw)) as image:tile=DESIGN.panel(image,scene.get('dialog',''),index+1,scene.get('bubbles',[]),{c['id']:c['name'] for c in cast},canvas_size=scene.get('canvas_size'),draft=scene.get('lettering_draft',False))
             tile.save(root/f'panels/{index+1:02}_panel.png')
             if len(preview)<12:preview.append(tile)
             panels.append({'local_path':f'panels/{index+1:02}_panel.png','filename':f'{index+1:02}_panel.png'})
@@ -231,11 +231,14 @@ class Engine:
         result=[]
         for scene in value:
             if not isinstance(scene,dict) or not isinstance(scene.get('story'),str) or not scene['story'].strip() or len(scene['story'])>4000:raise ValueError('Ungültige Szene.')
-            dialog=scene.get('dialog','')
+            from lettering import DESIGN
+            dialog=DESIGN.clean_text(scene.get('dialog',''))
+            if 'lettering_draft' in scene and type(scene['lettering_draft']) is not bool:raise ValueError('Ungültige Entwurfsmarkierung.')
             if not isinstance(dialog,str) or len(dialog)>400:raise ValueError('Erzählertext maximal 400 Zeichen.')
             bubbles=scene.get('bubbles',[])
             if not isinstance(bubbles,list) or len(bubbles)>6:raise ValueError('Maximal sechs Sprechblasen.')
             for bubble in bubbles:
+                if isinstance(bubble,dict):bubble['text']=DESIGN.clean_text(bubble.get('text'))
                 if not isinstance(bubble,dict) or not isinstance(bubble.get('speaker'),str) or not isinstance(bubble.get('text'),str) or len(bubble['text'])>400:raise ValueError('Ungültige Sprechblase.')
                 bubble['speaker']=names.get(bubble['speaker'].casefold(),bubble['speaker'])
                 if bubble['speaker'] not in known:raise ValueError('Sprechblase braucht eine eindeutige Figuren-ID: '+bubble['speaker'])
@@ -422,10 +425,11 @@ class Engine:
         plan['scenes'],reports['continuity']=enforce(self,job,plan['scenes'],cast,doc['story'],tag='automatic')
         from panel_formats import apply
         plan['scenes']=apply(plan['scenes'],req.get('page_template','standard'))
+        from lettering_plan import prepare,accept_preflight,record as record_lettering
+        plan['scenes'],reports['lettering_layout']=prepare(plan['scenes'],cast)
+        accept_preflight(plan['scenes'],self.preflight(plan,cast),reports['lettering_layout'])
+        warnings.extend(record_lettering(self.store,job,reports['lettering_layout']))
         revisions={};self.store.write(job,'scenes.json',plan)
-        if not self.preflight(plan,cast)['valid']:
-            warnings.append('Beschriftung passt noch nicht; Bilderzeugung vor teurem Modelllauf angehalten.')
-            return self.finish(job,req,doc,cast,plan,revisions,reports,warnings,used)
         for iteration in range(budget+1):
             self.stage(job,'rendering')
             output=self.studio(job,'render-'+str(iteration),doc,cast,plan,revisions)
@@ -436,6 +440,8 @@ class Engine:
                 self.store.write(job,f'panels/{i+1:02}_panel.png',self.client.download(job,panel))
                 raw={**panel,'filename':panel['filename'].replace('_panel.png','_art.png')}
                 self.store.write(job,f'panels/{i+1:02}_art.png',self.client.download(job,raw))
+            if reports['lettering_layout']['unresolved_panels']:
+                return self.finish(job,req,doc,cast,plan,revisions,reports,warnings,used)
             self.stage(job,'visual_review');reviews=[];failed=[]
             for i,scene in enumerate(plan['scenes']):
                 folder=self.store.directory(job);pictures=[(folder/f'panels/{i+1:02}_panel.png').read_bytes()]

@@ -57,12 +57,15 @@ def render(store,client,template,payload,job,worker=False):
     payload=copy.deepcopy(payload)
     keep_legacy=bool(previous and previous.get('improvement_mode') and not any(s.get('canvas_size') for s in payload['scenes']))
     scenes=engine.validate_scenes(payload['scenes'] if keep_legacy else apply(payload['scenes'],payload.get('page_template','standard')),req['kacheln'],cast)
+    from lettering_plan import prepare,accept_preflight,record
+    scenes,lettering_report=prepare(scenes,cast)
     payload['scenes']=scenes
     plan={'source_hash':hashlib.sha256(json.dumps([doc['story'].strip(),req['kacheln'],req['seed']],ensure_ascii=False).encode()).hexdigest(),'scenes':scenes}
     revisions=payload.get('revisions',{})
     if not isinstance(revisions,dict) or any(not str(k).isdigit() or not 0<=int(k)<req['kacheln'] or type(v) is not int or v<0 for k,v in revisions.items()):raise ValueError('Ungültige Kachelrevisionen.')
     fit=engine.preflight(plan,cast)
-    if not fit['valid']:raise ValueError('Beschriftung passt nicht: '+json.dumps(fit['issues'],ensure_ascii=False))
+    accept_preflight(scenes,fit,lettering_report)
+    record(store,job,lettering_report)
     store.write(job,'story.json',doc);store.write(job,'scenes.json',plan);store.write(job,'editorial-source.json',payload)
     store.stage(job,'editorial_characters')
     needed={ident for scene in scenes for ident in scene['characters']}
@@ -94,7 +97,7 @@ def render(store,client,template,payload,job,worker=False):
         from lettering import LAYOUT,DESIGN
         LAYOUT.render_layout(store.directory(job),payload,engine.workflow(req,doc,cast,plan,revisions),DESIGN)
     store.write(job,'report.json',{'editorial_mode':True,'text_rewritten_by_local_llm':False,'fiction':False,
-        'source':'Vom Nutzer bereitgestellter Artikel','story_language':'de','lettering':fit,'notes':payload.get('notes',[]),'visual_review':'pending'})
+        'source':'Vom Nutzer bereitgestellter Artikel','story_language':'de','lettering':fit,'lettering_layout':lettering_report,'notes':payload.get('notes',[]),'visual_review':'pending'})
     store.stage(job,'editorial_review',artifacts=export(store,job))
     return job
 
@@ -104,6 +107,7 @@ def finalize(store,client,job,review):
     if not doc or doc['status']!='editing':raise ValueError('Kein offener Redaktionsauftrag.')
     if not any(a['name']=='comic.png' for a in doc['artifacts']):raise ValueError('Comic fehlt.')
     report_path=store.directory(job)/'report.json';report=json.loads(report_path.read_text())
+    if doc.get('lettering_unresolved'):raise ValueError('Entwurf: Zuerst die Beschriftung korrigieren.')
     report['visual_review']=review;store.write(job,'report.json',report)
     store.stage(job,'finished',status='completed',artifacts=export(store,job),cleanup_pending=True)
     client.cleanup(job)

@@ -38,6 +38,17 @@ class ComicRuntimeTests(unittest.TestCase):
             with Image.open(next(Path(folder).rglob('01_art.png'))) as art:self.assertEqual(art.size,(1536,448))
             with Image.open(next(Path(folder).rglob('01_panel.png'))) as tile:self.assertEqual(tile.size,(1280,384))
 
+    def test_overflow_draft_survives_native_render_and_can_be_corrected(self):
+        from PIL import Image
+        from comic_test_extension.story import read_plan
+        scene={'story':'Eine Tür.','dialog':'W'*390,'characters':[],'bubbles':[],'lettering_draft':True,'canvas_size':[1088,672]}
+        self.assertTrue(read_plan([scene],1)[0]['lettering_draft'])
+        with tempfile.TemporaryDirectory() as folder, patch.object(folder_paths,'get_output_directory',return_value=folder), patch.object(g,'generate_panel',return_value=torch.zeros((1,64,64,3))) as sample:
+            m.DGXSysopComic().create(torch.zeros((1,32,32,3)),object(),object(),object(),1,1,'','','Tusche',json.dumps([scene]),'',1984,'draft-test',cast=[],library_cast=True)
+            self.assertEqual(sample.call_count,1)
+            with Image.open(next(Path(folder).rglob('01_panel.png'))) as tile:
+                self.assertEqual(tile.size,(1088,672));self.assertEqual(tile.getpixel((10,640)),(255,223,138))
+
     def test_planning_boundary_and_selective_regeneration(self):
         ref=torch.zeros((1,32,32,3)); model=object(); clip=object(); vae=object()
         scenes=[{'story':'First distinct scene','dialog':'One'},{'story':'Second distinct scene','dialog':'Two'}]

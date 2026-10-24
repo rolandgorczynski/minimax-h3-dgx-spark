@@ -51,6 +51,7 @@ def clean_png(data):
 
 
 def image_sources(job,page_template='standard'):
+    if job.get('lettering_unresolved'):raise ValueError('Entwurf: Zuerst die Beschriftung unter „Sprechblasen positionieren“ korrigieren.')
     names={a['name'] for a in job.get('artifacts',[])}
     pages=sorted((n for n in names if re.fullmatch(r'pages/\d+\.png',n)),key=lambda n:int(n.split('/')[1].split('.')[0]))
     if page_template!='standard' and pages:return pages

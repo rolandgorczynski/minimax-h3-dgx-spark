@@ -8,6 +8,13 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 FONT = Path(__file__).parent.parent/'dgx-invitations/fonts/manrope.ttf'
 
 
+def clean_text(value):
+    if not isinstance(value,str):return value
+    value=value.replace('\r\n','\n').replace('\r','\n').replace('\u200b','').replace('\ufeff','')
+    value='\n'.join(re.sub(r'[^\S\n]+',' ',line).strip() for line in value.split('\n'))
+    return re.sub(r'\n{3,}','\n\n',value).strip()
+
+
 def validate_character_states(value):
     if not isinstance(value,dict) or len(value)>8 or any(not isinstance(key,str) or not re.fullmatch(r'[a-f0-9]{32}',key) or not isinstance(state,str) or not state.strip() or len(state)>1000 for key,state in value.items()):
         raise ValueError('Ungültiger Figuren-Zustand je Kachel.')
@@ -29,9 +36,10 @@ def parse_scenes(serialized, count):
             raise ValueError(f'Kachel {i+1}: Die Szenenbeschreibung fehlt.')
         if not isinstance(scene.get('dialog', ''), str):
             raise ValueError(f'Kachel {i+1}: Der Dialog muss Text sein.')
-        if len(scene['story']) > 4000 or len(scene.get('dialog', '')) > 400:
+        dialogue=clean_text(scene.get('dialog',''))
+        if len(scene['story']) > 4000 or len(dialogue) > 400:
             raise ValueError(f'Kachel {i+1}: Szene maximal 4000, Dialog maximal 400 Zeichen.')
-        item = {'story': scene['story'].strip(), 'dialog': scene.get('dialog', '').strip()}
+        item = {'story': scene['story'].strip(), 'dialog': dialogue}
         if 'characters' in scene:
             ids = scene['characters']
             if not isinstance(ids, list) or len(ids)>8 or any(not isinstance(x,str) or not re.fullmatch(r'[a-f0-9]{32}',x) for x in ids):
@@ -40,6 +48,9 @@ def parse_scenes(serialized, count):
         if 'bubbles' in scene:
             item['bubbles'] = validate_bubbles(scene['bubbles'])
         if 'character_states' in scene:item['character_states']=validate_character_states(scene['character_states'])
+        if 'lettering_draft' in scene:
+            if type(scene['lettering_draft']) is not bool:raise ValueError('Ungültige Entwurfsmarkierung.')
+            item['lettering_draft']=scene['lettering_draft']
         if 'canvas_size' in scene:item['canvas_size']=list(validate_canvas_size(scene['canvas_size']))
         if 'render_size' in scene:
             dims=scene['render_size']
@@ -58,7 +69,7 @@ def validate_bubbles(value):
         if not isinstance(bubble,dict):
             raise ValueError('Ungültige Sprechblase.')
         speaker=bubble.get('speaker','')
-        text=bubble.get('text','')
+        text=clean_text(bubble.get('text',''))
         expression=bubble.get('expression','normal')
         if not isinstance(speaker,str) or not speaker.strip() or len(speaker)>100:
             raise ValueError('Jede Sprechblase braucht einen Sprecher (maximal 100 Zeichen).')
@@ -179,7 +190,7 @@ def lettering(draw, value, bounds, size=30, minimum=18):
     raise ValueError('Der Text ist zu lang für die Sprechblase. Bitte kürzen.')
 
 
-def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size=None):
+def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size=None,draft=False):
     # Keep legacy single-bubble layouts; new scenes use a narrator band and positioned speech.
     width,height=validate_canvas_size(canvas_size) if canvas_size else (768,672)
     scale=width/768
@@ -193,17 +204,28 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size
     caption_left=max(65,12+badge_width+10)
     if dialogue and bubbles is not None:
         draw.rectangle((caption_left,10,width-15,band-20),fill='white',outline='black',width=3)
-        lettering(draw,dialogue,(caption_left+15,20,width-30,band-30),size=round(30*scale),minimum=round(24*scale))
+        try:lettering(draw,clean_text(dialogue),(caption_left+15,20,width-30,band-30),size=round(30*scale),minimum=round(24*scale))
+        except ValueError:
+            if not draft:raise
+            lettering(draw,'TEXT PRÜFEN',(caption_left+15,20,width-30,band-30),size=24,minimum=18)
     elif dialogue:
         draw.rounded_rectangle((caption_left, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
         draw.polygon([(width-165, band-21), (width-120, band-21), (width-125, band+8)], fill='white', outline='black', width=3)
         draw.line((width-161, band-21, width-125, band-21), fill='white', width=5)
-        lettering(draw, dialogue, (caption_left+20, 20, width-35, band-30))
+        try:lettering(draw,clean_text(dialogue),(caption_left+20,20,width-35,band-30))
+        except ValueError:
+            if not draft:raise
+            lettering(draw,'TEXT PRÜFEN',(caption_left+20,20,width-35,band-30),size=24,minimum=18)
     if bubbles is not None:
         for bubble in validate_bubbles(bubbles):
-            _speech(draw,bubble,speaker_names or {},(width,height))
+            try:_speech(draw,bubble,speaker_names or {},(width,height))
+            except ValueError:
+                if not draft:raise
     draw.rounded_rectangle((12,12,12+badge_width,55),radius=21,fill='white',outline='black',width=3)
     lettering(draw,str(number),(15,15,9+badge_width,52),size=26,minimum=26)
+    if draft:
+        draw.rectangle((4,height-52,width-4,height-4),fill='#ffdf8a',outline='#a56500',width=2)
+        lettering(draw,'ENTWURF – Text bearbeiten',(12,height-48,width-12,height-8),size=24,minimum=18)
     draw.rectangle((1, 1, width-2, height-2), outline='black', width=4)
     return tile
 

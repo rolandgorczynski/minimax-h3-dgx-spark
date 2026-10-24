@@ -186,7 +186,7 @@ class AutomationTests(unittest.TestCase):
             client.run=run;Engine(store,client,TEMPLATE,'text','vision').execute(ident)
             doc=json.loads((store.directory(ident)/'story.json').read_text())
             self.assertEqual(doc['title'],'Der Brief');self.assertIn('sucht einen Brief',doc['story'])
-            self.assertEqual(rendered[0]['scenes'][0]['bubbles'][0],{'speaker':speaker[0],'text':'Hier ist er!'})
+            self.assertEqual({k:rendered[0]['scenes'][0]['bubbles'][0][k] for k in ('speaker','text')},{'speaker':speaker[0],'text':'Hier ist er!'})
 
     def test_unresolved_language_failure_blocks_all_image_generation(self):
         with tempfile.TemporaryDirectory() as root:

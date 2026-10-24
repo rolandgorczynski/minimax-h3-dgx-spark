@@ -106,7 +106,7 @@ class Service:
                     source=json.loads((self.store.directory(ident)/'editorial-source.json').read_text())
                     render(self.store,self.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,ident,worker=True)
                     result={'status':'needs_review','artifacts':self.store.get(ident)['artifacts'],
-                            'warnings':['Storyboard unverändert gerendert. Bilder und Texte vor Veröffentlichung prüfen.']}
+                            'warnings':self.store.get(ident).get('lettering_warnings',[])+['Bilder und Texte vor Veröffentlichung prüfen.']}
                 else:
                     self.capabilities()
                     result=self.engine.execute(ident)
