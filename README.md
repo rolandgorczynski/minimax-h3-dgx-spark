@@ -321,3 +321,9 @@ Die Waffenprüfung unterscheidet sichtbare Waffen von Besitz: Eine verdeckte Waf
 Zehn weitere Vorlagen sind als ergänzendes Quellenpaket in [mythen-sagen-maerchen-weitere-10.json](examples/comics/sources/mythen-sagen-maerchen-weitere-10.json) enthalten: Thors gestohlener Hammer, Thor in Utgard, Tyr und Fenrir, Iduns Rettung, Hermods Fahrt nach Hel, Lokis Schmiedewette, Eisenhans am Goldbrunnen, das tapfere Schneiderlein, der Rattenfänger und die Kölner Heinzelmännchen. Jeder Eintrag enthält eine eigene deutsche Inhaltsfassung, einen historischen Quellenbeleg, einen kurzen Begleittext sowie Hinweise zu Bildlogik und Handlungsgrenzen.
 
 Importvorschau: `python3 scripts/import_comic_sources.py examples/comics/sources/mythen-sagen-maerchen-weitere-10.json`. Mit `--apply` werden die neuen IDs mit Sicherung ergänzt; vorhandene Quellen und Änderungen bleiben erhalten. Der Import startet keinen Skript- oder Bildlauf.
+
+### Weitere 30 Comic-Vorlagen
+
+Die Quellenpakete [deutsche-maerchen-sagen-naechste-10.json](examples/comics/sources/deutsche-maerchen-sagen-naechste-10.json) und [abenteuer-mythen-weitere-20.json](examples/comics/sources/abenteuer-mythen-weitere-20.json) ergänzen den Katalog von 23 auf 53 Einträge: Grimm und Hauff, Weinsberg, fünf griechische Mythen sowie Verne, Stevenson, Defoe und Carroll. Enthalten sind eigene deutsche Inhaltsfassungen historischer gemeinfreier Texte, kurze Begleittexte und konkrete Hinweise zu Handlungsgrenzen und Bildkontinuität. Lange Romane sind als ausgewählte Episoden angelegt.
+
+[Titelliste, Quellenbelege und Importbefehle](examples/comics/sources/README.md#weitere-30-vorlagen-deutsche-märchen-mythen-und-abenteuer). Der vorhandene Importer ergänzt fehlende IDs mit Sicherung, erhält bisherige Quellen und startet keinen Comic-Lauf.

@@ -1,4 +1,4 @@
-# Zehn Heldensagen als Comic-Quellen
+# Quellenpakete für Comics
 
 Die zehn Einträge werden einzeln im Quellenmenü auswählbar. Sie sind neu formulierte
 Inhaltsgrundlagen zu alten, gemeinfreien Stoffen; moderne Übersetzungen, Filme und
@@ -53,3 +53,76 @@ keine wörtlichen Übernahmen aus heutigen Nacherzählungen. Für selbst später
 ergänzte Texte und Bilder deren Rechte separat beachten. Grundlage:
 [§ 64 UrhG](https://www.gesetze-im-internet.de/urhg/__64.html) und
 [§ 69 UrhG](https://www.gesetze-im-internet.de/urhg/__69.html).
+
+## Weitere 30 Vorlagen: deutsche Märchen, Mythen und Abenteuer
+
+Die folgenden zwei Pakete ergänzen die bisherigen 23 Katalogeinträge auf insgesamt 53.
+Alle Einträge enthalten eigene deutsche Inhaltsfassungen, historische Quellenlinks,
+Begleittexte für Beiträge sowie konkrete Handlungsgrenzen und Kontinuitätshinweise.
+Bei langen Romanen wird ein zusammenhängender Ausschnitt statt des vollständigen
+Romans adaptiert. Die Hinweise sind Planungsgrundlagen, keine Garantie für fehlerfreie
+Modellbilder.
+
+### Zehn deutsche Märchen und Sagen für Comics
+
+Datei: [deutsche-maerchen-sagen-naechste-10.json](deutsche-maerchen-sagen-naechste-10.json)
+
+| Vorlage | Historischer Quellenbeleg |
+|---|---|
+| Frau Holle – Zwei Wege durch den Brunnen | [Ausgangstext](https://de.wikisource.org/wiki/Frau_Holle_(1857)) |
+| Das Wasser des Lebens – Vor Mitternacht | [Ausgangstext](https://de.wikisource.org/wiki/Das_Wasser_des_Lebens_(1857)) |
+| Tischchen deck dich – Die gestohlenen Wundergaben | [Ausgangstext](https://de.wikisource.org/wiki/Tischchen_deck_dich,_Goldesel,_und_Knüppel_aus_dem_Sack_(1857)) |
+| Hans mein Igel – Der Reiter auf dem Hahn | [Ausgangstext](https://de.wikisource.org/wiki/Hans_mein_Igel_(1857)) |
+| Die vier kunstreichen Brüder – Gemeinsam gegen den Drachen | [Ausgangstext](https://de.wikisource.org/wiki/Die_vier_kunstreichen_Brüder_(1857)) |
+| Das Fürchten lernen – Drei Nächte im Spukschloss | [Ausgangstext](https://de.wikisource.org/wiki/Mährchen_von_einem,_der_auszog_das_Fürchten_zu_lernen_(1857)) |
+| Der Teufel mit den drei goldenen Haaren – Drei Fragen an die Hölle | [Ausgangstext](https://de.wikisource.org/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren_(1857)) |
+| Das kalte Herz – Der Preis des Reichtums | [Ausgangstext](https://de.wikisource.org/wiki/Das_kalte_Herz/Zweite_Abteilung) |
+| Zwerg Nase – Das verlorene Gesicht | [Ausgangstext](https://de.wikisource.org/wiki/Der_Zwerg_Nase) |
+| Die treuen Frauen von Weinsberg – Was wir tragen können | [Ausgangstext](https://de.wikisource.org/wiki/Die_Weiber_zu_Weinsperg) |
+
+```bash
+python3 scripts/import_comic_sources.py examples/comics/sources/deutsche-maerchen-sagen-naechste-10.json
+python3 scripts/import_comic_sources.py examples/comics/sources/deutsche-maerchen-sagen-naechste-10.json --apply
+```
+
+### Zwanzig weitere Märchen, Mythen und Abenteuer für Comics
+
+Datei: [abenteuer-mythen-weitere-20.json](abenteuer-mythen-weitere-20.json)
+
+| Vorlage | Historischer Quellenbeleg |
+|---|---|
+| Kalif Storch – Das vergessene Zauberwort | [Ausgangstext](https://de.wikisource.org/wiki/Die_Geschichte_von_Kalif_Storch) |
+| Das Gespensterschiff – Die Toten an Deck | [Ausgangstext](https://de.wikisource.org/wiki/Die_Geschichte_von_dem_Gespensterschiff) |
+| Der kleine Muck – Die gestohlenen Zauberschuhe | [Ausgangstext](https://de.wikisource.org/wiki/Die_Geschichte_von_dem_kleinen_Muck) |
+| Hänsel und Gretel – Hinter dem süßen Haus | [Ausgangstext](https://de.wikisource.org/wiki/Hänsel_und_Grethel_(1857)) |
+| Rapunzel – Der Turm ohne Tür | [Ausgangstext](https://de.wikisource.org/wiki/Rapunzel_(1857)) |
+| Rumpelstilzchen – Drei Tage für einen Namen | [Ausgangstext](https://de.wikisource.org/wiki/Rumpelstilzchen_(1857)) |
+| Dornröschen – Hundert Jahre hinter den Dornen | [Ausgangstext](https://de.wikisource.org/wiki/Dornröschen_(1857)) |
+| König Drosselbart – Der Mann in der Verkleidung | [Ausgangstext](https://de.wikisource.org/wiki/König_Drosselbart_(1857)) |
+| Sechse kommen durch die ganze Welt – Jeder kann etwas Unmögliches | [Ausgangstext](https://de.wikisource.org/wiki/Sechse_kommen_durch_die_ganze_Welt_(1857)) |
+| Theseus – Der Faden durch die Finsternis | [Ausgangstext](https://www.gutenberg.org/ebooks/3327) |
+| Dädalus und Ikarus – Zwischen Meer und Sonne | [Ausgangstext](https://www.gutenberg.org/ebooks/3327) |
+| Perseus – Der Blick im Schild | [Ausgangstext](https://www.gutenberg.org/ebooks/3327) |
+| Orpheus – Nicht zurückblicken | [Ausgangstext](https://www.gutenberg.org/ebooks/3327) |
+| Herakles – Der Löwe, den keine Waffe trifft | [Ausgangstext](https://www.gutenberg.org/ebooks/3327) |
+| Reise zum Mittelpunkt der Erde – Das Meer unter dem Vulkan | [Ausgangstext](https://www.gutenberg.org/ebooks/4791) |
+| In 80 Tagen um die Welt – Der gewonnene Tag | [Ausgangstext](https://www.gutenberg.org/ebooks/20973) |
+| 20.000 Meilen unter den Meeren – Angriff auf die Nautilus | [Ausgangstext](https://www.gutenberg.org/ebooks/5097) |
+| Die Schatzinsel – Das leere Loch | [Ausgangstext](https://www.gutenberg.org/ebooks/120) |
+| Robinson Crusoe – Die ersten Tage allein | [Ausgangstext](https://www.gutenberg.org/ebooks/521) |
+| Alice im Wunderland – Zu groß für die kleine Tür | [Ausgangstext](https://www.gutenberg.org/ebooks/11) |
+
+```bash
+python3 scripts/import_comic_sources.py examples/comics/sources/abenteuer-mythen-weitere-20.json
+python3 scripts/import_comic_sources.py examples/comics/sources/abenteuer-mythen-weitere-20.json --apply
+```
+
+Der Import ergänzt nur fehlende IDs und sichert den vorherigen Katalog. Wiederholte
+Aufrufe erzeugen keine doppelten Einträge. Vorhandene Bearbeitungen bleiben erhalten.
+Es werden weder Modelle aufgerufen noch Comics erzeugt oder ComfyUI-Workflows geändert.
+Nach dem Import das Quellenmenü neu öffnen oder die Dashboard-Seite neu laden.
+
+Die Gemeinfreiheit bezieht sich auf die historischen Originaltexte beziehungsweise
+die genannten alten Bearbeitungen in Deutschland. Die englischen und französischen
+Belege werden hier ausschließlich durch eigene deutsche Inhaltsfassungen erschlossen;
+keine moderne deutsche Übersetzung oder fremde Illustration wird übernommen.
