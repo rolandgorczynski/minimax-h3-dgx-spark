@@ -1,0 +1,450 @@
+[
+  {
+    "id": "stil-01",
+    "name": "Klassischer Comic",
+    "category": "Comic und Abenteuer",
+    "description": "Kräftige Tuschekonturen, gedämpfte Farben und ausdrucksstarke Figuren.",
+    "prompt": "European editorial comic illustration, confident ink outlines, muted colors, realistic expressive people."
+  },
+  {
+    "id": "stil-02",
+    "name": "Großstadt-Noir (düster)",
+    "category": "Noir und Horror",
+    "description": "Kaltes Blau, tiefe Schatten, Nebel und filmisches Großstadtlicht.",
+    "prompt": "Cinematic urban noir in a fictional metropolis, wet asphalt, cold blue and black, deep shadows, fog, hard beams of light, imposing tall buildings, realistic people. Sysop is a narrator silhouette in a dark coat. No superhero costumes or logos. No explicit violence."
+  },
+  {
+    "id": "stil-03",
+    "name": "Ligne claire",
+    "category": "Comic und Abenteuer",
+    "description": "Gleichmäßige klare Linien, flächige Farben und präzise Architektur.",
+    "prompt": "Franco-Belgian ligne claire comic, clean uniform ink lines, flat colors, precise architecture, readable compositions."
+  },
+  {
+    "id": "stil-04",
+    "name": "Manga Schwarzweiß",
+    "category": "Manga und asiatische Kunst",
+    "description": "Schwarzweiße Tusche, Rastertöne und expressive Mimik.",
+    "prompt": "Black and white manga, expressive ink drawing, screentones, cinematic compositions, consistent realistic character proportions."
+  },
+  {
+    "id": "stil-05",
+    "name": "Aquarell-Reportage",
+    "category": "Malerei",
+    "description": "Durchscheinende Aquarellfarben auf Papier mit zarten Tuschekonturen.",
+    "prompt": "Watercolor reportage comic, subtle ink contours, textured paper, restrained colors, realistic people, thoughtful journalistic mood."
+  },
+  {
+    "id": "stil-06",
+    "name": "Graphic Novel realistisch",
+    "category": "Comic und Abenteuer",
+    "description": "Natürliche Proportionen, detaillierte Oberflächen und filmische Beleuchtung.",
+    "prompt": "Realistic graphic novel illustration, cinematic framing, detailed textures, natural proportions, textured ink shading, restrained sophisticated colors, dramatic but plausible light."
+  },
+  {
+    "id": "stil-07",
+    "name": "Holzschnitt / Linolschnitt",
+    "category": "Druck und Grafik",
+    "description": "Geschnittene Schwarzflächen, kräftige Kontraste und sichtbare Werkzeugspuren.",
+    "prompt": "Expressive woodcut and linocut comic illustration, bold carved black shapes, strong black and white contrast, visible cut marks, simplified readable forms, restrained paper texture."
+  },
+  {
+    "id": "stil-08",
+    "name": "Retro-Zeitungscomic",
+    "category": "Retro und Zukunft",
+    "description": "Begrenzte warme Farben, grobes Druckraster und klassische Konturen.",
+    "prompt": "Vintage newspaper comic illustration, limited warm color palette, coarse halftone print texture, clear black ink outlines, expressive faces, readable classic staging. No printed lettering."
+  },
+  {
+    "id": "stil-09",
+    "name": "Europäischer Abenteuercomic",
+    "category": "Comic und Abenteuer",
+    "description": "Klare Tuschelinien, lebendige Farben und detaillierte Schauplätze.",
+    "prompt": "European adventure comic illustration, lively controlled colors, precise detailed locations, clear consistent forms, crisp ink contours, dynamic readable cinematic staging."
+  },
+  {
+    "id": "stil-10",
+    "name": "Science-Fiction / Cyberpunk",
+    "category": "Retro und Zukunft",
+    "description": "Neonakzente, atmosphärischer Dunst und futuristische Technik.",
+    "prompt": "Science fiction cyberpunk comic illustration, luminous neon accents, blue and magenta palette, layered futuristic city architecture, technological details, atmospheric haze, realistic proportions."
+  },
+  {
+    "id": "stil-11",
+    "name": "Warme Alltagsillustration",
+    "category": "Humor und Familie",
+    "description": "Weiches Tageslicht, warme Farben und sanfte Konturen.",
+    "prompt": "Warm intimate everyday-life comic illustration, soft natural light, muted warm colors, gentle ink contours, natural proportions, inviting lived-in environments, thoughtful quiet compositions."
+  },
+  {
+    "id": "stil-12",
+    "name": "Epischer Sagencomic",
+    "category": "Sagen und Fantasy",
+    "description": "Monumentale Landschaften, kräftige Figuren und dramatisches Licht.",
+    "prompt": "Epic mythological comic illustration, monumental landscapes, heroic natural anatomy, dramatic shafts of light, earthy colors, detailed ink and painted textures."
+  },
+  {
+    "id": "stil-13",
+    "name": "Historischer Kupferstich",
+    "category": "Historisch",
+    "description": "Feine Linien, Kreuzschraffur und historische Buchillustration.",
+    "prompt": "Historical copperplate engraving, intricate fine burin lines and crosshatching, monochrome ink on warm ivory paper, detailed original book illustration."
+  },
+  {
+    "id": "stil-14",
+    "name": "Dunkle Fantasy",
+    "category": "Sagen und Fantasy",
+    "description": "Erdige Farben, bedrohliche Atmosphäre und tiefe Schatten.",
+    "prompt": "Dark fantasy graphic novel, desaturated earth tones, deep shadows, ominous mist, weathered textures, dramatic readable compositions."
+  },
+  {
+    "id": "stil-15",
+    "name": "Gemalter Abenteuercomic",
+    "category": "Malerei",
+    "description": "Sichtbare Pinselstriche, satte Farben und lebendige Gesichter.",
+    "prompt": "Painterly adventure comic, visible brush strokes, rich colors, expressive original characters, layered painted surfaces, cinematic staging."
+  },
+  {
+    "id": "stil-16",
+    "name": "Expressionistischer Comic",
+    "category": "Druck und Grafik",
+    "description": "Kantige Formen, verzerrte Perspektiven und starke Emotionen.",
+    "prompt": "Expressionist comic illustration, angular forms, deliberately distorted perspective, emotionally charged color contrasts, bold ink shapes."
+  },
+  {
+    "id": "stil-17",
+    "name": "Franco-belgischer Humorcomic",
+    "category": "Humor und Familie",
+    "description": "Klare Farben, lebendige Mimik und überzeichnete Formen.",
+    "prompt": "Franco-Belgian humorous comic, lively elastic facial acting, clean colorful drawing, slightly exaggerated original characters, precise readable staging."
+  },
+  {
+    "id": "stil-18",
+    "name": "Farbmanga",
+    "category": "Manga und asiatische Kunst",
+    "description": "Expressive Mimik, dynamische Perspektiven und kräftige Farben.",
+    "prompt": "Full color manga illustration, expressive faces, dynamic perspective, precise ink contours, lively colors, clean cel-like shading."
+  },
+  {
+    "id": "stil-19",
+    "name": "Tusche mit Akzentfarbe",
+    "category": "Druck und Grafik",
+    "description": "Schwarzweiße Tusche mit sparsam gesetzten roten Akzenten.",
+    "prompt": "Black and white ink comic illustration with a single restrained red accent color, strong linework, dramatic negative space, no other saturated colors."
+  },
+  {
+    "id": "stil-20",
+    "name": "Retro-Pulp",
+    "category": "Retro und Zukunft",
+    "description": "Kräftige Farben, grobe Druckstruktur und dramatische Inszenierung.",
+    "prompt": "Vintage pulp adventure illustration, bold saturated inks, coarse halftone paper printing, dramatic spotlight, original adventurous characters."
+  },
+  {
+    "id": "stil-21",
+    "name": "Jugendstil-Fantasy",
+    "category": "Sagen und Fantasy",
+    "description": "Ornamentale Linien, elegante Formen und märchenhafte Farben.",
+    "prompt": "Art nouveau fantasy illustration, flowing ornamental contours, elegant botanical shapes, muted jewel colors, decorative organic framing."
+  },
+  {
+    "id": "stil-22",
+    "name": "Mittelalterliche Buchmalerei",
+    "category": "Historisch",
+    "description": "Flächige Figuren, Goldakzente und dekorative Handschriftenoptik.",
+    "prompt": "Medieval illuminated manuscript painting, flat spatial arrangement, tempera pigments, gold leaf accents, ornamental borders, no lettering."
+  },
+  {
+    "id": "stil-23",
+    "name": "Holzstich des 19. Jahrhunderts",
+    "category": "Historisch",
+    "description": "Dichte feine Schraffuren und klassische Schwarzweiß-Illustration.",
+    "prompt": "Nineteenth century wood engraving illustration, dense fine parallel hatch lines, detailed monochrome forms, antique printed book paper."
+  },
+  {
+    "id": "stil-24",
+    "name": "Antike Vasenmalerei",
+    "category": "Historisch",
+    "description": "Terrakotta, schwarze Silhouetten und klare Profilansichten.",
+    "prompt": "Ancient Greek vase painting aesthetic, terracotta red and matte black, clear profile figures, simplified contour details, ceramic surface."
+  },
+  {
+    "id": "stil-25",
+    "name": "Wandfresko",
+    "category": "Historisch",
+    "description": "Mineralische Farben, matte Flächen und gealterter Putz.",
+    "prompt": "Historical wall fresco painting, mineral earth pigments, matte plaster texture, subtle weathering, broad painted forms, coherent original figure."
+  },
+  {
+    "id": "stil-26",
+    "name": "Nordische Saga mit Runenornamenten",
+    "category": "Sagen und Fantasy",
+    "description": "Kühle Erdfarben, rauer Strich und nordische Flechtornamente.",
+    "prompt": "Norse saga comic illustration, cold earth colors, rugged ink drawing, interlaced Nordic geometric ornament, weathered wood and cloth, no readable rune text."
+  },
+  {
+    "id": "stil-27",
+    "name": "Romantische Landschaftsmalerei",
+    "category": "Malerei",
+    "description": "Atmosphärische Weite, dramatischer Himmel und weiches Licht.",
+    "prompt": "Romantic landscape painting aesthetic, atmospheric depth, luminous dramatic sky, subtle oil brushwork, contemplative original traveler in natural scenery."
+  },
+  {
+    "id": "stil-28",
+    "name": "Düstere Märchenillustration",
+    "category": "Sagen und Fantasy",
+    "description": "Geheimnisvolle Schatten, verwunschene Details und matte Farben.",
+    "prompt": "Dark fairy tale book illustration, mysterious shadows, enchanted organic detail, muted forest colors, delicate ink and painted texture."
+  },
+  {
+    "id": "stil-29",
+    "name": "Heroische Ölmalerei",
+    "category": "Malerei",
+    "description": "Kräftige Modellierung, satte Ölfarben und dramatisches Licht.",
+    "prompt": "Heroic oil painting, solid natural anatomy, rich layered oil pigments, dramatic chiaroscuro lighting, visible canvas brushwork."
+  },
+  {
+    "id": "stil-30",
+    "name": "Japanischer Farbholzschnitt",
+    "category": "Manga und asiatische Kunst",
+    "description": "Flächige Farben, elegante Konturen und Holzschnittstruktur.",
+    "prompt": "Japanese ukiyo-e color woodblock print aesthetic, flat pigment fields, elegant outlines, patterned surfaces, visible paper fibers, no lettering."
+  },
+  {
+    "id": "stil-31",
+    "name": "Tuschelavierung",
+    "category": "Manga und asiatische Kunst",
+    "description": "Fließende Grautöne, auslaufende Tusche und viel Weißraum.",
+    "prompt": "Monochrome ink wash illustration, fluid diluted black ink, soft bleeding edges, expressive brush marks, generous white negative space."
+  },
+  {
+    "id": "stil-32",
+    "name": "Koreanischer Webtoon",
+    "category": "Manga und asiatische Kunst",
+    "description": "Saubere digitale Konturen, weiche Verläufe und klare Figuren.",
+    "prompt": "Korean webtoon illustration, polished clean digital contours, expressive original adult face, soft gradient lighting, readable bright colors."
+  },
+  {
+    "id": "stil-33",
+    "name": "Chinesische Pinselmalerei",
+    "category": "Manga und asiatische Kunst",
+    "description": "Kalligrafischer Pinselstrich, Reispapier und dezente Farben.",
+    "prompt": "Traditional Chinese brush painting aesthetic, calligraphic brush strokes, rice paper texture, restrained ink with subtle mineral colors, no calligraphy text."
+  },
+  {
+    "id": "stil-34",
+    "name": "Amerikanischer Superheldencomic",
+    "category": "Comic und Abenteuer",
+    "description": "Kräftige Konturen, dynamische Perspektiven und satte Farben.",
+    "prompt": "American superhero comic illustration aesthetic, bold muscular contours, strong foreshortening, saturated colors, dynamic ink shading, entirely original civilian costume, no logos or existing characters."
+  },
+  {
+    "id": "stil-35",
+    "name": "Kantiger Spionagecomic",
+    "category": "Noir und Horror",
+    "description": "Geometrische Schatten, reduzierte Farben und kühle Spannung.",
+    "prompt": "Angular espionage comic, geometric shadow shapes, restricted cool color palette, sharp silhouettes, tense cinematic atmosphere."
+  },
+  {
+    "id": "stil-36",
+    "name": "Westerncomic",
+    "category": "Comic und Abenteuer",
+    "description": "Staubige Erdfarben, klare Tusche und hartes Sonnenlicht.",
+    "prompt": "Western comic illustration, dusty ochre earth colors, confident ink lines, hard sunlight, textured frontier atmosphere, original adult traveler."
+  },
+  {
+    "id": "stil-37",
+    "name": "Piraten-Abenteuer",
+    "category": "Comic und Abenteuer",
+    "description": "Lebendige Farben, maritime Details und schwungvolle Konturen.",
+    "prompt": "Swashbuckling pirate adventure comic aesthetic, lively teal and ochre colors, confident flowing ink, weathered fabric and maritime material detail."
+  },
+  {
+    "id": "stil-38",
+    "name": "Gothic-Horror",
+    "category": "Noir und Horror",
+    "description": "Tiefe Schatten, kaltes Licht und gotische Formen.",
+    "prompt": "Gothic horror comic illustration, towering gothic forms, deep ink shadows, cold moonlight, elegant eerie atmosphere, no gore."
+  },
+  {
+    "id": "stil-39",
+    "name": "Kosmischer Horror",
+    "category": "Noir und Horror",
+    "description": "Unheimliche Größenverhältnisse und fremdartige Farbkontraste.",
+    "prompt": "Cosmic horror illustration aesthetic, unsettling scale and perspective, unnatural muted violet and green lighting, mysterious atmospheric shadows, no gore."
+  },
+  {
+    "id": "stil-40",
+    "name": "Schauerroman Schwarzweiß",
+    "category": "Noir und Horror",
+    "description": "Dichte Schwarzweiß-Schraffuren und unheimliche Lichtführung.",
+    "prompt": "Black and white gothic novel illustration, dense detailed pen hatching, uncanny chiaroscuro, antique paper, dramatic lantern light."
+  },
+  {
+    "id": "stil-41",
+    "name": "Expressionistische Schattenszenen",
+    "category": "Noir und Horror",
+    "description": "Schiefe Winkel, harte Schwarzflächen und extreme Schatten.",
+    "prompt": "Expressionist shadow illustration, dramatically tilted angular forms, hard black silhouettes, extreme contrasting shadows, stark monochrome."
+  },
+  {
+    "id": "stil-42",
+    "name": "Schwarzweiß mit großen Schwarzflächen",
+    "category": "Druck und Grafik",
+    "description": "Reduzierte Konturen, tiefe Schwarzflächen und klarer Weißraum.",
+    "prompt": "High contrast black and white comic illustration, large solid black masses, minimal clean contours, deliberate white negative space, no gray wash."
+  },
+  {
+    "id": "stil-43",
+    "name": "Zweifarbendruck",
+    "category": "Druck und Grafik",
+    "description": "Zwei Druckfarben, sichtbare Überlagerungen und Papierstruktur.",
+    "prompt": "Two color risograph print illustration, navy blue and warm coral inks only on cream paper, visible overprint and slight print registration texture."
+  },
+  {
+    "id": "stil-44",
+    "name": "Linienstil ohne Schattierung",
+    "category": "Druck und Grafik",
+    "description": "Reine Linienzeichnung ohne Grauflächen oder Schatten.",
+    "prompt": "Pure contour line art comic illustration, clean consistent black lines on white, no shading, no gray tones, no hatching, no color fill."
+  },
+  {
+    "id": "stil-45",
+    "name": "Flächige Siebdruckoptik",
+    "category": "Druck und Grafik",
+    "description": "Große Farbflächen, klare Kanten und körnige Druckfarbe.",
+    "prompt": "Flat screen print illustration, large graphic color planes, crisp edges, subtle grainy opaque ink texture, limited bold palette."
+  },
+  {
+    "id": "stil-46",
+    "name": "Papiercollage",
+    "category": "Experimentell",
+    "description": "Gerissene Papierkanten, überlagerte Formen und fühlbare Struktur.",
+    "prompt": "Handmade cut paper collage illustration, layered torn colored paper, visible paper fibers and edges, tactile shadows, coherent original figure."
+  },
+  {
+    "id": "stil-47",
+    "name": "Scherenschnitt",
+    "category": "Experimentell",
+    "description": "Klare ausgeschnittene Silhouetten und starke Hell-Dunkel-Kontraste.",
+    "prompt": "Traditional paper silhouette cutout illustration, precise cut black shapes against warm ivory, delicate negative space, flat profile details."
+  },
+  {
+    "id": "stil-48",
+    "name": "Bleistift-Skizzenbuch",
+    "category": "Experimentell",
+    "description": "Lebendige Graphitlinien, lockere Schraffur und sichtbares Papier.",
+    "prompt": "Graphite pencil sketchbook illustration, lively hand drawn construction lines, varied pencil pressure, loose hatching, textured off-white paper."
+  },
+  {
+    "id": "stil-49",
+    "name": "Pastellkreide",
+    "category": "Experimentell",
+    "description": "Weiche körnige Farbflächen und sichtbarer Kreideauftrag.",
+    "prompt": "Soft pastel chalk illustration, visible granular pigment on toothy paper, softly blended colors, expressive hand drawn edges."
+  },
+  {
+    "id": "stil-50",
+    "name": "Mosaik",
+    "category": "Experimentell",
+    "description": "Kleine farbige Steinflächen und klar erkennbare Fugen.",
+    "prompt": "Decorative stone mosaic illustration, small colored tesserae, visible grout lines, simplified coherent figure and material-rich surface."
+  },
+  {
+    "id": "stil-51",
+    "name": "Glasfensteroptik",
+    "category": "Experimentell",
+    "description": "Leuchtende Glasfarben, schwarze Bleikonturen und Lichtwirkung.",
+    "prompt": "Stained glass window illustration, luminous translucent jewel colored glass, bold black lead contours, patterned panes and transmitted light."
+  },
+  {
+    "id": "stil-52",
+    "name": "Art-déco-Abenteuer",
+    "category": "Retro und Zukunft",
+    "description": "Elegante Geometrie, Goldakzente und klare dekorative Formen.",
+    "prompt": "Art deco adventure illustration, elegant geometric shapes, restrained gold and midnight blue palette, streamlined original figure, crisp decorative forms."
+  },
+  {
+    "id": "stil-53",
+    "name": "Dieselpunk",
+    "category": "Retro und Zukunft",
+    "description": "Industrielle Formen, dunkle Metalltöne und raue Druckstruktur.",
+    "prompt": "Dieselpunk comic illustration, retro industrial design aesthetic, dark steel and rust palette, smoky lighting, gritty ink texture."
+  },
+  {
+    "id": "stil-54",
+    "name": "Steampunk",
+    "category": "Retro und Zukunft",
+    "description": "Warme Kupfertöne, feine Mechanik und viktorianische Texturen.",
+    "prompt": "Steampunk comic illustration, warm copper and brass tones, fine clockwork material detail, Victorian fabric textures, precise engraved ink outlines."
+  },
+  {
+    "id": "stil-55",
+    "name": "Weltraumcomic der 1950er",
+    "category": "Retro und Zukunft",
+    "description": "Optimistische Raumfahrt, klare Farben und nostalgischer Druck.",
+    "prompt": "Nineteen fifties space adventure comic aesthetic, optimistic retro space age design, vivid primary inks, clean outlines, vintage halftone printing, original civilian traveler."
+  },
+  {
+    "id": "stil-56",
+    "name": "Retro-Futurismus",
+    "category": "Retro und Zukunft",
+    "description": "Runde Zukunftsformen, pastellige Farben und nostalgische Technik.",
+    "prompt": "Retro futuristic illustration, rounded optimistic future design, pastel mint and orange palette, smooth geometric forms, nostalgic analog technology details."
+  },
+  {
+    "id": "stil-57",
+    "name": "Karikatur",
+    "category": "Humor und Familie",
+    "description": "Überzeichnete Gesichtszüge, schwungvolle Linien und starke Mimik.",
+    "prompt": "Editorial caricature illustration of an original fictional adult, exaggerated distinctive facial proportions, lively pen strokes, expressive acting, readable humor."
+  },
+  {
+    "id": "stil-58",
+    "name": "Cartoon mit runden Formen",
+    "category": "Humor und Familie",
+    "description": "Weiche Formen, freundliche Farben und elastische Mimik.",
+    "prompt": "Rounded shape cartoon illustration, appealing soft forms, expressive elastic face, clean outlines, cheerful balanced colors, original adult character."
+  },
+  {
+    "id": "stil-59",
+    "name": "Bilderbuch in Gouache",
+    "category": "Humor und Familie",
+    "description": "Deckende matte Farben, sichtbare Pinselspuren und warme Formen.",
+    "prompt": "Gouache picture book illustration, opaque matte painted colors, visible brush textures, warm gentle original adult figure, charming simplified shapes."
+  },
+  {
+    "id": "stil-60",
+    "name": "Stop-Motion-Puppenoptik",
+    "category": "Humor und Familie",
+    "description": "Handgefertigte Figuren, Stofftexturen und räumliches Licht.",
+    "prompt": "Stop motion handmade puppet aesthetic, tactile cloth and felt surfaces, small practical set lighting, dimensional original adult puppet, visible crafted details."
+  },
+  {
+    "id": "stil-61",
+    "name": "Cel-Shading",
+    "category": "Digital und 3D",
+    "description": "Klare Konturen und scharf abgegrenzte Licht- und Schattenflächen.",
+    "prompt": "Cel shaded digital comic illustration, crisp black contours, distinct hard edged shadow bands, clean bold color planes, controlled dynamic lighting."
+  },
+  {
+    "id": "stil-62",
+    "name": "Pixel-Art",
+    "category": "Digital und 3D",
+    "description": "Sichtbare quadratische Pixel und eine begrenzte Farbpalette.",
+    "prompt": "Pixel art illustration, clearly visible square pixels, limited carefully selected color palette, intentional pixel clusters, no smooth gradients or anti-aliasing."
+  },
+  {
+    "id": "stil-63",
+    "name": "Low-Poly",
+    "category": "Digital und 3D",
+    "description": "Facettierte Flächen, einfache Geometrie und klare Lichtkanten.",
+    "prompt": "Low poly three dimensional illustration, visible flat polygon facets, simplified geometric original adult figure, clean directional light, matte colors."
+  },
+  {
+    "id": "stil-64",
+    "name": "Plastische 3D-Animationsoptik",
+    "category": "Digital und 3D",
+    "description": "Räumliche Figuren, weiches Licht und ausdrucksstarke Gesichter.",
+    "prompt": "Stylized three dimensional animation illustration, appealing dimensional original adult character, expressive face, soft cinematic lighting, rich tactile material surfaces."
+  }
+]

@@ -77,10 +77,12 @@ class StoriesTests(unittest.TestCase):
         self.assertFalse(job['editorial_mode']);self.assertEqual(job['request']['thema'],'Ein verlorener Brief')
 
     def test_all_styles_match_renderer_and_request_validation(self):
-        module=ast.parse((ROOT/'extensions/dgx-comics/story.py').read_text())
-        styles=next(ast.literal_eval(n.value) for n in module.body if isinstance(n,ast.Assign) and any(isinstance(t,ast.Name) and t.id=='STYLES' for t in n.targets))
-        self.assertEqual(list(styles),STYLES);self.assertEqual(len(STYLES),11)
-        for style in styles:self.assertEqual(validate_request({'stil':style})['stil'],style)
+        from art_styles import CATALOG
+        import importlib.util
+        spec=importlib.util.spec_from_file_location('style_registry_test',ROOT/'extensions/dgx-comics/story.py');native=importlib.util.module_from_spec(spec);spec.loader.exec_module(native)
+        self.assertEqual(list(native.STYLES),STYLES);self.assertEqual(len(STYLES),64)
+        self.assertEqual([s['name'] for s in CATALOG],STYLES)
+        for style in STYLES:self.assertEqual(validate_request({'stil':style})['stil'],style)
 
     def test_layout_download_keeps_scope_and_format_checks(self):
         from comfy import Comfy,ComfyError

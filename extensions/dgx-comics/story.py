@@ -18,6 +18,10 @@ STYLES = {
     'Warme Alltagsillustration': 'Warm intimate everyday-life comic illustration, soft natural light, muted warm colors, gentle ink contours, natural proportions, inviting lived-in environments, thoughtful quiet compositions.',
 }
 
+from pathlib import Path
+for _style in json.loads(Path(__file__).with_name('style_catalog.json').read_text()):
+    STYLES[_style['name']]=_style['prompt']
+
 
 def source_hash(story, count, seed, style=""):
     return hashlib.sha256(json.dumps([story.strip(), count, seed], ensure_ascii=False).encode()).hexdigest()

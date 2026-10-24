@@ -11,7 +11,7 @@ import uuid
 import zipfile
 from learning import evidence,record,validate_lessons
 
-STYLES=['Klassischer Comic', 'Großstadt-Noir (düster)', 'Ligne claire', 'Manga Schwarzweiß', 'Aquarell-Reportage', 'Graphic Novel realistisch', 'Holzschnitt / Linolschnitt', 'Retro-Zeitungscomic', 'Europäischer Abenteuercomic', 'Science-Fiction / Cyberpunk', 'Warme Alltagsillustration']
+from art_styles import NAMES as STYLES, BY_NAME
 ID=re.compile(r'^[a-f0-9]{32}$')
 TERMINAL=('completed','needs_review','failed')
 
@@ -45,6 +45,13 @@ def parse_json(text):
 
 
 def valid_review(value):
+    if isinstance(value,dict):
+        normalized={}
+        for key,item in value.items():
+            target=key.lower() if isinstance(key,str) and key.lower() in ('approved','issues') else key
+            if target in normalized and normalized[target]!=item:raise ValueError('Widersprüchliche Schreibweisen im Prüfbericht.')
+            normalized[target]=item
+        value=normalized
     if not isinstance(value,dict) or type(value.get('approved')) is not bool or not isinstance(value.get('issues'),list) or any(not isinstance(x,str) or len(x)>2000 for x in value['issues']):
         raise ValueError('Ungültiger Prüfbericht.')
     if value['approved'] and value['issues']:raise ValueError('Prüfbericht widerspricht sich.')
@@ -252,7 +259,7 @@ class Engine:
     def portrait(self,job,character,index,style):
         graph=copy.deepcopy(self.loaders);req=self.store.get(job)['request']
         graph['80']={'class_type':'DGXComicPortrait','inputs':{'model':[self.model,0],'clip':[self.clip,0],'vae':[self.vae,0],
-            'beschreibung':character['description']+' Clothing: '+character['outfit'],'stil':style,'session':job,'figur_id':character['id'],'seed':(req['seed']+index*103)%2147483648}}
+            'beschreibung':character['description']+' Clothing: '+character['outfit'],'stil':BY_NAME.get(style,{}).get('prompt',style),'session':job,'figur_id':character['id'],'seed':(req['seed']+index*103)%2147483648}}
         output=self.client.run(job,'portrait-'+str(index),graph)['80']
         image=self.client.download(job,output['images'][0])
         self.store.write(job,'characters/'+character['id']+'.png',image)

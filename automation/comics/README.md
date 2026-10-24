@@ -951,3 +951,13 @@ Bildbeschreibungen daran angepasst und auf Widersprüche geprüft. Dialoge und
 Erzählertexte bleiben dabei erhalten. Vorhandene Ausgaben werden nicht verändert.
 
 [Bedienung, Grenzen und Zustandsprotokoll](../../docs/Comic_Skript_Kontinuitaet.md).
+
+
+## Bildstil-Bibliothek
+
+**Bildstile mit Vorschau** öffnet 64 Stile mit Kategorien und Suche. Die Auswahl
+ist im Storyeditor, im Quellengenerator und bei Serienfolgen verfügbar.
+Seitenvorlage und Szenen bleiben erhalten. Die Vorschaubilder werden lokal
+erzeugt und zeigen ein allgemeines Vergleichsmotiv ohne private Figurenreferenzen.
+
+[Vollständiger Katalog und Vorschauerzeugung](../../docs/Comic_Bildstile.md).

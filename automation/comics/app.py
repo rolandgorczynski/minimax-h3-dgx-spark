@@ -148,10 +148,17 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js','/guided-reader.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js','/guided-reader.js','/style-library.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
+        if path.startswith('/style-previews/'):
+            from art_styles import BY_ID
+            name=path.rsplit('/',1)[-1];ident=name.removesuffix('.webp')
+            if path!='/style-previews/'+ident+'.webp' or ident not in BY_ID:return self.reply(404,{'error':'Stilvorschau nicht gefunden.'})
+            asset=Path(__file__).with_name('style-previews')/name
+            if not asset.is_file():return self.reply(404,{'error':'Stilvorschau noch nicht vorhanden.'})
+            return self.binary(asset.read_bytes(),'image/webp')
         if not self.authorized():return
         if path=='/series/bases':
             from series import bases
@@ -164,7 +171,9 @@ class Handler(BaseHTTPRequestHandler):
         if path=='/page-templates':
             from lettering import LAYOUT
             return self.reply(200,{'templates':list(LAYOUT.TEMPLATES.values())})
-        if path=='/styles':return self.reply(200,{'styles':STYLES})
+        if path=='/styles':
+            from art_styles import public
+            return self.reply(200,{'styles':STYLES,'catalog':public()})
         if path=='/sharing':return self.reply(200,sharing.settings(self.service.store))
         if path=='/characters':
             try:

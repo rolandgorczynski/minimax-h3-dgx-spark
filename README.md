@@ -289,3 +289,6 @@ Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Com
 
 
 [Logische Skriptführung: körperliche Zustände und Übergänge](docs/Comic_Skript_Kontinuitaet.md).
+
+
+[64 Bildstile mit Kategorien und lokalen Vorschaubildern](docs/Comic_Bildstile.md).
