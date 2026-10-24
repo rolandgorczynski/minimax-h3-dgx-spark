@@ -93,12 +93,12 @@ class ComicRuntimeTests(unittest.TestCase):
         from comic_test_extension.characters import CharacterLibrary
         with tempfile.TemporaryDirectory() as folder:
             lib=CharacterLibrary(Path(folder)/'library')
-            char=lib.save({'name':'Hildebrand','description':'Älterer Krieger.','outfit':'Ein Schwert am Gürtel.'})
+            char=lib.save({'name':'Hildebrand','description':'Älterer Krieger.','outfit':'Ein Schwert auf der linken Seite am Gürtel.'})
             scene={'story':'Hildebrand zieht sein einziges Schwert. Seine Scheide ist leer, kein zweiter Griff.','dialog':'','characters':[char['id']],'bubbles':[]}
             with patch('comic_test_extension.characters.library',return_value=lib),patch.object(folder_paths,'get_output_directory',return_value=str(Path(folder)/'output')),patch.object(g,'generate_panel',return_value=torch.zeros((1,32,32,3))) as sample:
                 m.DGXSysopComic().create(torch.zeros((1,32,32,3)),object(),object(),object(),1,1,'','','Tusche',json.dumps([scene]),'',1984,'sword-test',cast=[char],library_cast=True)
                 prompt=sample.call_args.args[4]
-                self.assertIn('exactly ONE physical sword',prompt);self.assertIn('NO SECOND HILT',prompt);self.assertIn('Current scene and explicit physical state override default outfit placement',prompt)
+                self.assertIn('exactly ONE physical sword',prompt);self.assertIn('NO SECOND HILT',prompt);self.assertIn('OWN LEFT hip',prompt);self.assertIn('Current scene and explicit physical state override default outfit placement',prompt)
 
     def test_cast_references_and_clothing_only_affect_assigned_panel(self):
         import io

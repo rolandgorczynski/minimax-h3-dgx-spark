@@ -61,6 +61,10 @@ class ContinuityTests(unittest.TestCase):
         self.assertIn('leer',state_text(states[1][H]));self.assertIn('ohne zweiten Schwertgriff',state_text(states[1][H]))
         self.assertIn('Kein zusätzliches Schwert in den Händen',state_text(final[H]))
         self.assertIn('NO SECOND HILT',EQUIPMENT.instruction(cast[0]))
+        for text in ('Ein Schwert auf der linke Seite hängt an seinem Gürtel.','Ein Schwert an der linken Hüfte.'):
+            instruction=EQUIPMENT.instruction({'name':'Hildebrand','outfit':text})
+            self.assertIn('OWN LEFT hip',instruction);self.assertIn('NOT the viewer',instruction)
+        self.assertNotIn('OWN LEFT',EQUIPMENT.instruction({'name':'Hildebrand','outfit':'Ein Schwert in seiner linken Hand.'}))
         for outfit in ('Zwei Schwerter hängen am Gürtel.','Kein Schwert.','Mantel.','Ein Schild und zwei Schwerter.'):
             self.assertFalse(EQUIPMENT.single_sword({'outfit':outfit}),outfit)
         with self.assertRaisesRegex(ValueError,'Quellenbeleg'):

@@ -259,6 +259,8 @@ class Handler(BaseHTTPRequestHandler):
 
     def public(self,job):
         result={k:v for k,v in job.items() if k not in ('steps','planning_source')}
+        from equipment_review import presentation
+        result.update(presentation(job))
         preview=self.story_preview(job)
         result['story_available']=preview['available'];result['story_title']=preview.get('title','') or job.get('improvement_title','') or job.get('story_title','')
         result['status_url']='/jobs/'+job['id'];return result

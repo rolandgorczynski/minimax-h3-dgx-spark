@@ -24,9 +24,18 @@ def initial(cast):
     return {c['id']:{'sword_position':'in der Scheide' if re.search(r'Scheide|Gürtel|an (?:seiner|der) Seite',c.get('story_outfit') or c.get('outfit',''),re.I) else 'nicht festgelegt'} for c in cast if single_sword(c)}
 
 
+def sheath_side(character):
+    text=character.get('story_outfit') or character.get('outfit','')
+    for side,pattern in [('left',r'\blink(?:e[nrm]?|s)\s+(?:Seite|Hüfte|Gürtelseite)\b|\blinks\s+(?:am|an der|auf der)\s+(?:Gürtel|Hüfte|Seite)\b'),('right',r'\brecht(?:e[nrm]?|s)\s+(?:Seite|Hüfte|Gürtelseite)\b|\brechts\s+(?:am|an der|auf der)\s+(?:Gürtel|Hüfte|Seite)\b')]:
+        if re.search(pattern,text,re.I):return side
+    return ''
+
+
 def instruction(character):
     if not single_sword(character):return ''
+    side=sheath_side(character)
+    placement=(' The scabbard stays on the CHARACTER’S OWN '+side.upper()+' hip, their anatomical '+side+' side, NOT the viewer’s '+side+'. Keep it on this same body side when empty. Do not mirror the equipment between panels.') if side else ''
     return (character['name']+': exactly ONE physical sword in total. Drawing the sword is a change of location of that SAME sword, never a new copy. '
         'When drawn, the scabbard is EMPTY: no blade and NO SECOND HILT at the belt or back. When sheathed, no sword remains in a hand. '
         'When laid down, the same sword is on the ground, not also in a hand or scabbard. '
-        'Current scene and explicit physical state override default outfit placement. Reference portraits do not add equipment. Never multiply the sword, its blade, or its hilt.')
+        'Current scene and explicit physical state override default outfit placement. Reference portraits do not add equipment. Never multiply the sword, its blade, or its hilt.'+placement)
