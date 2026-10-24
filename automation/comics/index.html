@@ -9,10 +9,13 @@
 <div id="message" role="status"></div>
 <section><details id="source-generator"><summary><strong>Buch oder Film als Comic-Vorlage</strong></summary>
 <p>Quelle wählen → deutsches Comic-Skript lokal erstellen → prüfen → als neue Geschichte übernehmen → Comic erzeugen.</p>
-<div class="row"><label>Vorlage <select id="source-select"></select></label><button id="source-new">Neue Quelle</button></div>
+<div class="row"><label>Kategorie <select id="source-category-filter"><option value="">Alle Kategorien</option></select></label><label>Sammlung / Herkunft <select id="source-collection-filter"><option value="">Alle Sammlungen</option></select></label><label>Vorlagen suchen <input id="source-search" type="search" placeholder="Titel, Autor oder Stichwort" autocomplete="off"></label></div>
+<p id="source-result-count" role="status" aria-live="polite"></p>
+<div class="row"><label>Vorlage <select id="source-select" style="max-width:100%;width:600px"></select></label><button id="source-new">Neue Quelle</button><button id="source-reload" type="button">Auswahl neu laden</button></div>
 <p id="source-rights-summary" style="white-space:pre-wrap"></p>
 <details id="source-data"><summary>Quellendaten und Rechtehinweise bearbeiten</summary>
 <label>Titel <input id="source-title" maxlength="2000"></label>
+<label>Kategorie <input id="source-category" list="source-category-options" maxlength="120" placeholder="Leer lassen: automatisch zuordnen"></label><datalist id="source-category-options"></datalist>
 <label>Art <select id="source-kind"><option>Buch</option><option>Film</option><option>Eigene Vorlage</option></select></label>
 <label>Urheber <input id="source-creator" maxlength="2000"></label>
 <label>Ausgabe / Filmfassung <input id="source-edition" maxlength="2000"></label>
@@ -21,7 +24,7 @@
 <label>Rechte-Status und Begründung<textarea id="source-rights" maxlength="2000"></textarea></label>
 <label>Kurze Inhaltszusammenfassung (optional)<textarea id="source-post_summary" maxlength="1200" rows="3"></textarea></label>
 <label>Textgrundlage / Inhaltszusammenfassung<textarea id="source-text" maxlength="16000" style="min-height:180px"></textarea></label>
-<p>Keine automatische Rechtefreigabe. Originalwerk, Übersetzung, Bilder und Filmfassung unterscheiden. Die Textgrundlage wird gespeichert; URLs werden nicht automatisch heruntergeladen. Die mitgelieferten Vorlagen sind Zusammenfassungen für freie Adaptionen.</p>
+<p>Keine automatische Rechtefreigabe. Originalwerk, Übersetzung, Bilder und Filmfassung unterscheiden. Die Textgrundlage wird gespeichert; URLs werden nicht automatisch heruntergeladen. Die mitgelieferten Vorlagen enthalten Zusammenfassungen oder ausdrücklich gekennzeichnete historische Originaltexte für freie Adaptionen.</p>
 <button id="source-save">Quelle speichern</button></details>
 <div class="row"><label>Comic-Stil <select id="source-style"></select></label><button id="source-style-library-open" type="button">Bildstile mit Vorschau</button><label>Kacheln <input id="source-count" type="number" min="1" step="1" value="12"></label><label>Autor / Pseudonym <input id="source-author" maxlength="200"></label></div>
 <label>Wünsche zur Adaption<textarea id="source-instructions" maxlength="4000" placeholder="Zum Beispiel: poetisch, keine erfundenen Nebenhandlungen, kurze Dialoge, Schwerpunkt auf der Begegnung mit dem Fuchs."></textarea></label>

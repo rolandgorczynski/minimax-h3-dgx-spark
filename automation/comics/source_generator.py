@@ -5,6 +5,7 @@ import re
 import uuid
 from engine import Engine, STYLES, validate_request, valid_review
 from stories import Conflict
+from source_categories import decorate
 from character_profiles import validate as validate_profile
 
 BUILTINS=[
@@ -12,7 +13,7 @@ BUILTINS=[
  {'id':'bremer-stadtmusikanten','title':'Die Bremer Stadtmusikanten','kind':'Buch','creator':'Jacob und Wilhelm Grimm','edition':'Märchen der Brüder Grimm; eigene Inhaltszusammenfassung','url':'https://de.wikisource.org/wiki/Die_Bremer_Stadtmusikanten_(1857)','territories':'Deutschland; weitere Absatzländer prüfen','rights':'Historisches Original; keine moderne Bearbeitung oder Illustration verwenden. Rechte der konkret verwendeten Ausgabe getrennt erfassen.','text':'Ein alter Esel soll getötet werden und läuft davon. Auf dem Weg nach Bremen trifft er einen erschöpften Hund, eine alte Katze und einen Hahn. Gemeinsam wollen sie als Musiker ein neues Leben beginnen. Im Wald entdecken sie ein Haus voller Räuber. Sie stellen sich vor dem Fenster aufeinander und vertreiben die Räuber durch ihren gemeinsamen Lärm. Die Tiere essen und schlafen im Haus. Ein zurückkehrender Räuber gerät nacheinander an Katze, Hund, Esel und Hahn und flieht erschrocken. Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.'},
  {'id':'weihnachtsgeschichte','title':'Eine Weihnachtsgeschichte','kind':'Buch','creator':'Charles Dickens','edition':'A Christmas Carol, Original von 1843; eigene Zusammenfassung, neue deutsche Dialoge','url':'https://www.gutenberg.org/ebooks/46','territories':'Deutschland; weitere Absatzländer prüfen','rights':'Original von Dickens; moderne deutsche Übersetzungen und Verfilmungen sind nicht automatisch frei.','text':'Der geizige Ebenezer Scrooge weist an Weihnachten jede menschliche Nähe zurück. Der Geist seines verstorbenen Geschäftspartners warnt ihn. Drei Geister zeigen ihm seine einsame Vergangenheit, die Wärme und Not der Familie seines Angestellten Bob Cratchit und eine düstere Zukunft, in der niemand um Scrooge trauert. Besonders das Schicksal des kranken Kindes Tiny Tim bewegt ihn. Am Weihnachtsmorgen erwacht Scrooge und nutzt seine neue Chance: Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.'}
 ]
-FIELDS=('title','kind','creator','edition','url','territories','rights','text','post_summary')
+FIELDS=('title','kind','creator','edition','url','territories','rights','text','post_summary','category')
 
 def post_summary(source,limit=600):
     text=source.get('post_summary') or source.get('text','')
@@ -32,7 +33,7 @@ def clean_source(value):
     result={}
     for key in FIELDS:
         val=value.get(key,'')
-        limit=1200 if key=='post_summary' else 16000 if key=='text' else 200 if key=='title' else 2000
+        limit=120 if key=='category' else 1200 if key=='post_summary' else 16000 if key=='text' else 200 if key=='title' else 2000
         if not isinstance(val,str) or len(val)>limit:raise ValueError(f'{key}: maximal {limit} Zeichen.')
         result[key]=val.strip()
     if not result['title'] or not result['text']:raise ValueError('Titel und Textgrundlage sind erforderlich.')
@@ -41,15 +42,16 @@ def clean_source(value):
 
 def catalog(store):
     saved=store.integration_get('source-catalog')
-    return [{**copy.deepcopy(entry),'post_summary':entry.get('post_summary') or post_summary(entry)} for entry in (saved if saved is not None else BUILTINS)]
+    return [decorate({**copy.deepcopy(entry),'post_summary':entry.get('post_summary') or post_summary(entry)}) for entry in (saved if saved is not None else BUILTINS)]
 
 def save_source(store,value):
     result=clean_source(value);ident=value.get('id') or uuid.uuid4().hex
-    entries=catalog(store)
+    saved=store.integration_get('source-catalog')
+    entries=copy.deepcopy(saved if saved is not None else BUILTINS)
     if value.get('id') and not any(x['id']==ident for x in entries):raise KeyError(ident)
     result['id']=ident;entries=[result if x['id']==ident else x for x in entries]
     if not any(x['id']==ident for x in entries):entries.append(result)
-    store.integration_set('source-catalog',entries);return result
+    store.integration_set('source-catalog',entries);return decorate(result)
 
 def enqueue(store,value):
     source=next((s for s in catalog(store) if s['id']==value.get('source_id')),None)

@@ -226,3 +226,32 @@ Der Generator führt selbst keine Netz- oder Modellaufrufe aus. Er ergänzt die
 mitgelieferten Quellpakete und drei eingebauten Vorlagen rechnerisch auf 1.000;
 bei zu wenigen vollständigen Texten bricht er ab, statt Platzhalter anzulegen.
 Das bereits erzeugte Paket ist direkt importierbar, auch ohne erneuten Download.
+
+## Kategorien und Suche im Dashboard
+
+Die Quellenansicht bietet kombinierbare Filter für Thema und Sammlung sowie eine
+Suche nach Titel, Autor und Stichwort. Alphabetische Gruppen und Trefferzahlen
+machen auch den großen Katalog übersichtlich. Die automatische Themenzuordnung
+ist eine Orientierung und kann unter den Quellendaten verändert und gespeichert
+werden. Eigene Kategorien erscheinen danach ebenfalls im Filter.
+
+Die Standardthemen sind:
+
+- Heldensagen und Mythen
+- Märchen und Verwandlungen
+- Geister und Spuk
+- Drachen und Ungeheuer
+- Schätze und verborgene Orte
+- Teufel und Zauberei
+- Heilige und Legenden
+- Historische Sagen
+- Abenteuer und Entdeckungen
+- Fabeln und Tiergeschichten
+- Liebe und Treue
+- Regionale Sagen
+
+Eigene, noch nicht thematisch eingeordnete Quellen erscheinen bei **Eigene
+Vorlagen**. Sammlungen wie Bechsteins Sagenbuch, Grimm, Andersen, Hauff oder
+nordische Mythen werden getrennt gefiltert. Die Einordnung startet keine Modelle,
+ändert keine Geschichten oder Bilder und verändert beim Lesen keine gespeicherten
+Quelltexte. Ein bearbeiteter Entwurf bleibt beim Filtern oder Neuladen erhalten.

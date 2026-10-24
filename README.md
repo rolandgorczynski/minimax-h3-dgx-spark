@@ -341,3 +341,20 @@ Quellenbelege, historische Textauszüge als Begleittexte und Vorgaben zur Adapti
 Die Sammlung wurde strukturell geprüft und nicht für jede Sage einzeln dramaturgisch
 redigiert. [Herkunft, Rechte, Import und Offline-Generator](examples/comics/sources/README.md#katalog-auf-1000-vorlagen-ergänzen).
 Vorhandene Quellen bleiben erhalten; der Import startet keinen Comic-Lauf.
+
+### Quellen nach Kategorien auswählen
+
+Unter **Buch oder Film als Comic-Vorlage** lassen sich die Vorlagen nach
+**Kategorie** und **Sammlung / Herkunft** filtern und nach Titel, Autor oder
+Stichwort durchsuchen. Die Trefferzahl bleibt sichtbar; die Vorlagen sind innerhalb
+der Kategorien alphabetisch sortiert. Wird die aktuell geöffnete Vorlage vom Filter
+nicht erfasst, bleibt sie separat ausgewählt. Filtern und **Auswahl neu laden**
+verwerfen keine ungespeicherten Quellendaten.
+
+Die Themenzuordnung erfolgt lokal anhand der bekannten Sammlung, des Titels und
+bei Sagen zusätzlich des Erzähltexts. Es wird kein LLM aufgerufen. Unter
+**Quellendaten und Rechtehinweise bearbeiten → Kategorie** kann eine Zuordnung
+geändert oder eine eigene Kategorie eingetragen und mit **Quelle speichern**
+gespeichert werden. Ein leeres Feld verwendet wieder die automatische Zuordnung.
+Die Sammlung wird unabhängig davon aus der Quellenherkunft abgeleitet. Alte
+Katalogeinträge benötigen keine Migration; das bloße Laden schreibt nichts zurück.
