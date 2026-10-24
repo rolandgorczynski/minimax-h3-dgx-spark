@@ -168,3 +168,61 @@ Gemeinfreiheit bezieht sich auf die historischen Stoffe und Originaltexte in
 Deutschland, nicht auf moderne Übersetzungen, Verfilmungen oder Illustrationen.
 Der Import sichert den bisherigen Katalog, ergänzt nur fehlende IDs und startet
 keinen Comic-Lauf. Nach dem Import die Quellenansicht neu öffnen.
+
+## Katalog auf 1.000 Vorlagen ergänzen
+
+[bechstein-sagen-bis-1000.json](bechstein-sagen-bis-1000.json) ergänzt die bisherigen
+73 Vorlagen um 927 eigenständige nummerierte Sagen aus Ludwig Bechsteins
+**Deutschem Sagenbuch** (zuerst 1853). Die historischen deutschen Erzähltexte sind
+vollständig als Textgrundlage hinterlegt. Anders als die zuvor redigierten Pakete
+sind dies **keine eigens geschriebenen Zusammenfassungen**. Der kurze Begleittext
+ist ein Auszug aus dem jeweiligen historischen Erzähltext.
+
+Die Texte wurden aus einem einzigen Sammelexport der Digitalen Bibliothek von
+TextGrid gewonnen: [Sammlung kf14.0](https://textgridrep.org/browse/kf14.0).
+Kein Abruf von 927 einzelnen Webseiten und kein Modellaufruf waren nötig.
+Vorworte, bloße Metadaten, zu lange oder zu kurze Texte sowie erkannte bereits
+vorhandene Stoffe wurden nicht übernommen. Alle aufgenommenen Titel und IDs
+sind eindeutig. Die Auswahl ist strukturell geprüft, nicht für jeden einzelnen
+Stoff dramaturgisch redigiert; Varianten und historische Aussagen vor einer
+Veröffentlichung am konkreten Comic prüfen.
+
+### Herkunft und Rechte
+
+Ludwig Bechstein starb 1860. Sein historischer Originaltext ist in Deutschland
+gemeinfrei. Grundlage dieser Transkription ist der Druck Meersburg und Leipzig
+1930. Transkriptionsnachweis: **TextGrid und www.editura.de, Digitale Bibliothek**,
+[CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/).
+Diese Lizenz betrifft den annotierten Datenbestand, nicht den gemeinfreien
+literarischen Originaltext. XML-Auszeichnung, editorische Fußnoten, Seitenmarken
+und Bilder wurden entfernt; Leerraum wurde normalisiert. Moderne Bearbeitungen
+oder fremde Illustrationen sind nicht Bestandteil des Pakets.
+
+[Maschinenlesbarer Herkunftsnachweis](../../../docs/comic-quellen-bechstein-nachweis.json)
+nennt Archiv-Prüfsumme, ausgewählte TextGrid-IDs, Sagenummern, Einzelprüfsummen
+und Ausschlussgründe. Die individuellen Quellenbelege stehen auch in jedem
+Dashboard-Eintrag.
+
+### Import und erneute Erstellung
+
+```bash
+python3 scripts/import_comic_sources.py examples/comics/sources/bechstein-sagen-bis-1000.json
+python3 scripts/import_comic_sources.py examples/comics/sources/bechstein-sagen-bis-1000.json --apply
+```
+
+Der Import ergänzt nur fehlende IDs und sichert den bisherigen Katalog.
+Er überschreibt keine bearbeiteten Quellen und startet keine Comic-Erstellung.
+Ein zweiter Import ergänzt nichts. Im Dashboard die Quellenansicht neu laden.
+
+Der Offline-Generator kann das Paket aus dem TextGrid-Sammelexport erneut
+aufbauen. Die genaue Archiv-Adresse steht im Herkunftsnachweis; einmal lokal
+herunterladen und anschließend ausführen:
+
+```bash
+python3 scripts/build_comic_legend_pack.py /pfad/zum/textgrid-export.zip
+```
+
+Der Generator führt selbst keine Netz- oder Modellaufrufe aus. Er ergänzt die
+mitgelieferten Quellpakete und drei eingebauten Vorlagen rechnerisch auf 1.000;
+bei zu wenigen vollständigen Texten bricht er ab, statt Platzhalter anzulegen.
+Das bereits erzeugte Paket ist direkt importierbar, auch ohne erneuten Download.

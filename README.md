@@ -331,3 +331,13 @@ Die Quellenpakete [deutsche-maerchen-sagen-naechste-10.json](examples/comics/sou
 ### Quellenkatalog auf 73 Vorlagen erweitert
 
 Das Paket [maerchen-klassiker-weitere-20.json](examples/comics/sources/maerchen-klassiker-weitere-20.json) ergänzt weitere 20 Vorlagen: zehn Grimm-Märchen, fünf Andersen-Geschichten und fünf Abenteuerklassiker, darunter die Zeitmaschine, Rikki-Tikki-Tavi, der kopflose Reiter, der geheime Garten und der Zauberer von Oz. Jeder Eintrag enthält eine eigene deutsche Inhaltsfassung, einen Quellenbeleg, einen Begleittext und Kontinuitätshinweise. [Vollständige Titelliste und Importbefehle](examples/comics/sources/README.md#weitere-20-vorlagen-grimm-andersen-und-abenteuerklassiker). Vorhandene Einträge bleiben beim Import erhalten; kein Generierungslauf wird gestartet.
+
+### 1.000 Comic-Vorlagen
+
+Der Quellenkatalog umfasst jetzt 1.000 Einträge: die bisherigen 73 Vorlagen plus
+927 nummerierte historische Sagen von Ludwig Bechstein. Das ergänzende Paket
+enthält vollständige deutsche Originaltexte statt neu verfasster Zusammenfassungen,
+Quellenbelege, historische Textauszüge als Begleittexte und Vorgaben zur Adaption.
+Die Sammlung wurde strukturell geprüft und nicht für jede Sage einzeln dramaturgisch
+redigiert. [Herkunft, Rechte, Import und Offline-Generator](examples/comics/sources/README.md#katalog-auf-1000-vorlagen-ergänzen).
+Vorhandene Quellen bleiben erhalten; der Import startet keinen Comic-Lauf.
