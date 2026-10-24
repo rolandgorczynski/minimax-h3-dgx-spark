@@ -42,7 +42,7 @@ class ContinuityTests(unittest.TestCase):
                     if '-events-' in step:return validator({'events':[event(1,'movement','beritten','kommt angeritten'),event(2,'movement','zu Fuß','Alebrand spricht mit Hildebrand')]} if step.endswith('-1') else {'events':[]})
                     if '-review-' in step:return validator({'issues':[]})
                     panels=json.loads(prompt.split('KACHELN:')[1])
-                    return validator([{'panel':p['panel'],'story':'Hildebrand bleibt im Sattel seines Pferdes. Alebrand steht auf dem Boden und blickt zu ihm hinauf.'} for p in panels])
+                    return validator([{'panel':p['panel'],'story':'Hildebrand bleibt im Sattel seines Pferdes. Alebrand steht auf dem Boden und blickt zu ihm hinauf.','dialog':'Nicht übernehmen!','bubbles':[],'characters':[],'required_states':{}} for p in panels])
             fixed,report=enforce(Fake(),'c'*32,scenes,CAST,SOURCE)
             self.assertEqual(scenes,before);self.assertEqual(report['checked_panels'],7);self.assertEqual(len(report['discarded_unproven_events']),1)
             self.assertIn('script-continuity-events-7',calls)

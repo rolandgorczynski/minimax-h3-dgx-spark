@@ -115,7 +115,7 @@ def enforce(engine,job,scenes,cast,source,initial=None,anchors=None,tag='script'
                 if not isinstance(value,list) or len(value)!=len(chunk):raise ValueError('Je Kachel genau eine Bildbeschreibung liefern.')
                 fixed=copy.deepcopy(chunk)
                 for i,item in enumerate(value):
-                    if not isinstance(item,dict) or set(item)!={'panel','story'} or item['panel']!=start+i+1 or not isinstance(item['story'],str) or not item['story'].strip() or len(item['story'])>2400:raise ValueError('Kachelnummern erhalten; nur vollständige Bildbeschreibung bis 2400 Zeichen ändern.')
+                    if not isinstance(item,dict) or not {'panel','story'}<=set(item) or type(item['panel']) is not int or item['panel']!=start+i+1 or not isinstance(item['story'],str) or not item['story'].strip() or len(item['story'])>2400:raise ValueError('Kachelnummern erhalten; nur vollständige Bildbeschreibung bis 2400 Zeichen ändern.')
                     fixed[i]['story']=item['story']
                 return engine.validate_scenes(fixed,len(fixed),cast)
             rewrite=(RULES+'\nPräzisiere nur die Bildbeschreibungen anhand der verbindlichen Zustände. Keine neuen Ereignisse, keine Änderung von Handlung, Figurenliste, Erzählertext oder Gesprächen. '
