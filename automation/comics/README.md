@@ -881,6 +881,16 @@ der Auswahl wird zurückgewiesen. Doppelte laufende Korrekturen derselben Kachel
 werden verhindert. Das private `panel-correction-report.json` dokumentiert
 Korrektur, betroffene Kachel, übernommene Bilder und die geänderte Bildbeschreibung.
 
+Figurenzustände werden pro exakter Figuren-ID als deutscher Text gespeichert.
+Liefert ein lokales Modell stattdessen ein flaches Objekt aus Textfeldern wie
+`status` und `details`, wird es vor der Prüfung verlustfrei zu Text verbunden.
+Unbekannte oder in der Kachel nicht sichtbare Figuren, verschachtelte Nichttextwerte
+und Zustände über 1000 Zeichen werden weiterhin zurückgewiesen. Bereits vorhandene
+Zustände anderer Figuren bleiben erhalten.
+Bei einem fehlgeschlagenen Versuch die erhaltene Ausgangsausgabe auswählen und
+die Einzelbildkorrektur dort erneut starten; der fehlgeschlagene Auftrag bleibt
+als Fehlerprotokoll erhalten.
+
 ## Freie Kachelanzahl, EPUB und Taschenbuch
 
 Die feste Begrenzung auf zwölf Kacheln ist entfernt. Große Aufträge werden in

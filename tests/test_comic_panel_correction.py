@@ -41,7 +41,7 @@ class PanelCorrectionTests(unittest.TestCase):
                 validate_scenes=Engine.validate_scenes
                 def __init__(self):self.store=store;self.client=Client()
                 def json_call(self,ident,step,prompt,validator,images,tokens):
-                    self.asserted_image=images[0];return validator({'story':'Ria mit sichtbar kürzerem Bob sitzt am Eingang.','character_states':{'b'*32:'Kinnlanger Bob.'}})
+                    self.asserted_image=images[0];return validator({'story':'Ria mit sichtbar kürzerem Bob sitzt am Eingang.','character_states':{'b'*32:{'Aussehen':'Kinnlanger Bob.'}}})
                 def preflight(self,plan,cast):self.checked_count=len(plan['scenes']);return {'valid':True,'issues':[]}
                 def studio(self,ident,step,doc,cast,plan,revisions,request_override):studio_calls.append((request_override,copy.deepcopy(plan)));return {'comic_panels':[{'filename':'01_panel.png','type':'temp','subfolder':'test'}]}
                 def workflow(self,*args):return {'nodes':[]}
@@ -50,8 +50,21 @@ class PanelCorrectionTests(unittest.TestCase):
             out=store.directory(job['id']);self.assertEqual((out/'panels/01_art.png').read_bytes(),original['panels/01_art.png']);self.assertEqual((out/'panels/01_panel.png').read_bytes(),original['panels/01_panel.png']);self.assertEqual((out/'panels/02_art.png').read_bytes(),generated)
             source=json.loads((out/'editorial-source.json').read_text());old=json.loads(original['editorial-source.json'])
             self.assertEqual(source['scenes'][0],old['scenes'][0]);self.assertEqual(source['scenes'][1]['bubbles'],old['scenes'][1]['bubbles']);self.assertEqual(source['scenes'][1]['dialog'],old['scenes'][1]['dialog']);self.assertEqual(source['article'],old['article'])
-            self.assertEqual(source['scenes'][1]['character_states']['b'*32],'Kinnlanger Bob.');self.assertTrue((out/'comic.pdf').exists());self.assertTrue((out/'comic-bundle.zip').exists())
+            self.assertEqual(source['scenes'][1]['character_states']['b'*32],'Aussehen: Kinnlanger Bob.');self.assertTrue((out/'comic.pdf').exists());self.assertTrue((out/'comic-bundle.zip').exists())
             self.assertEqual(original,{str(p.relative_to(store.directory(parent['id']))):p.read_bytes() for p in store.directory(parent['id']).rglob('*') if p.is_file()})
+
+    def test_nested_local_model_states_are_normalized_without_mutating_input(self):
+        cast=[{'id':'a'*32,'name':'Siegfried'},{'id':'b'*32,'name':'Lindwurm'}]
+        before={'story':'Der Lindwurm liegt besiegt.','dialog':'Er hat ihn bezwungen.','characters':['a'*32,'b'*32],'bubbles':[],'character_states':{'a'*32:'Schwert gesenkt.'}}
+        value={'story':'Der besiegte Lindwurm liegt verletzt am Boden.','character_states':{'b'*32:{'status':'erschlagen','details':'Liegt reglos am Boden.'}}}
+        original=copy.deepcopy(value)
+        class Validator:
+            validate_scenes=Engine.validate_scenes
+        result=panel_correction.validate_proposal(value,before,cast,Validator())
+        self.assertEqual(result['character_states']['b'*32],'status: erschlagen; details: Liegt reglos am Boden.')
+        self.assertEqual(value,original);self.assertEqual(before['character_states'],{'a'*32:'Schwert gesenkt.'})
+        for states in ({'Unbekannt':'Andere Haare.'},{'c'*32:'Andere Haare.'},{'b'*32:{'details':['kein Text']}},{'b'*32:{'details':'x'*1001}},[] ):
+            with self.subTest(states=states),self.assertRaises(ValueError):panel_correction.validate_proposal({**value,'character_states':states},before,cast,Validator())
 
     def test_single_panel_graph_keeps_full_job_request_unchanged(self):
         with tempfile.TemporaryDirectory() as root:

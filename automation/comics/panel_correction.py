@@ -45,16 +45,29 @@ def enqueue(store,parent,value):
     return store.get(ident)
 
 
+def validate_proposal(value,before,cast,engine):
+    if not isinstance(value,dict) or set(value)-{'story','character_states'}:raise ValueError('Nur Bildbeschreibung und sichtbaren Figurenzustand ändern.')
+    if not isinstance(value.get('story'),str) or not value['story'].strip():raise ValueError('Konkrete Bildbeschreibung erforderlich.')
+    result=copy.deepcopy(value);states=result.get('character_states',{})
+    if not isinstance(states,dict):raise ValueError('Figurenzustände als Objekt mit exakten Figuren-IDs senden.')
+    if set(states)-set(before.get('characters',[])):raise ValueError('Nur sichtbare Figuren dieser Kachel korrigieren; exakte Figuren-ID verwenden.')
+    for ident,state in states.items():
+        if isinstance(state,dict):
+            # Lokale Modelle liefern oft Status/Details statt des angeforderten Klartexts.
+            # Nur flache Textfelder verlustfrei verbinden; keine fremden IDs zuordnen.
+            if not state or any(not isinstance(k,str) or not k.strip() or not isinstance(v,str) or not v.strip() for k,v in state.items()):
+                raise ValueError('Figurenzustand als Text oder flaches Objekt mit Textfeldern senden.')
+            states[ident]='; '.join(k+': '+v for k,v in state.items())
+    result['character_states']=states
+    candidate={**before,**result,'character_states':{**before.get('character_states',{}),**states}}
+    engine.validate_scenes([candidate],1,cast)
+    return result
+
+
 def run(engine,ident):
     store=engine.store;root=store.directory(ident);snapshot=json.loads((root/'panel-correction-input.json').read_text());source=copy.deepcopy(snapshot['source']);index=snapshot['panel'];scene=source['scenes'][index];before=copy.deepcopy(scene);cast=source['characters']
     store.stage(ident,'panel_correction_planning')
-    def validate(value):
-        if not isinstance(value,dict) or set(value)-{'story','character_states'}:raise ValueError('Nur Bildbeschreibung und sichtbaren Figurenzustand ändern.')
-        candidate={**before,**value};engine.validate_scenes([candidate],1,cast)
-        if 'story' not in value or not value['story'].strip():raise ValueError('Konkrete Bildbeschreibung erforderlich.')
-        states=value.get('character_states',{})
-        if set(states)-set(before.get('characters',[])):raise ValueError('Nur sichtbare Figuren dieser Kachel korrigieren.')
-        return value
+    def validate(value):return validate_proposal(value,before,cast,engine)
     proposal=engine.json_call(ident,'panel-correction-plan',
         'Korrigiere ausschließlich die Bildkomposition der ausgewählten Comic-Kachel anhand des Nutzerwunsches und des vorhandenen Bildes. '
         'Keine neue Geschichte, keine Änderungen an anderen Kacheln, keine neuen Figuren. Gesicht und Identität bleiben erhalten. '
@@ -62,7 +75,9 @@ def run(engine,ident):
         'Bei kürzeren Haaren oder anderer Kleidung den neuen konkreten sichtbaren Zustand in character_states für die richtige Figuren-ID festhalten. '
         'Dieser Zustand gilt nur für die ausgewählte Kachel und ändert die Figurenbibliothek nicht. '
         'Die vorhandene Szene beibehalten und nur die ausdrücklich verlangte Änderung deutlich in die Bildbeschreibung einarbeiten. '
-        'Return ONLY JSON {"story":"vollständige korrigierte Bildbeschreibung auf Deutsch","character_states":{}}. '
+        'character_states ist eine Zuordnung exakter sichtbarer Figuren-IDs zu je EINEM deutschen Text mit maximal 1000 Zeichen. '
+        'Keine Namen als Schlüssel und keine verschachtelten Objekte verwenden. Bereits vorhandene Zustände erhalten. '
+        'Return ONLY JSON {"story":"vollständige korrigierte Bildbeschreibung auf Deutsch","character_states":{"exakte Figuren-ID":"konkreter sichtbarer Zustand als Text"}}. Ohne Zustandsänderung character_states leer lassen. '
         '\nKACHEL:'+str(index+1)+'\nKORREKTUR:'+snapshot['correction']+
         '\nFIGUREN:'+json.dumps([{k:c.get(k,'') for k in ('id','name','description','outfit')} for c in cast],ensure_ascii=False)+
         '\nAKTUELLE SZENE:'+json.dumps(before,ensure_ascii=False),validate,
