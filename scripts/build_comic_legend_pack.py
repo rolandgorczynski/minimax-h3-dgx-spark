@@ -9,6 +9,8 @@ import unicodedata
 import xml.etree.ElementTree as ET
 import zipfile
 
+BASE_PACKS=('germanische-heldensagen-10.json','mythen-sagen-maerchen-weitere-10.json','deutsche-maerchen-sagen-naechste-10.json','abenteuer-mythen-weitere-20.json','maerchen-klassiker-weitere-20.json')
+
 NS={'t':'http://www.tei-c.org/ns/1.0'}
 TEI='{'+NS['t']+'}'
 # Bereits vorhandene Stoffe beziehungsweise entsprechende bekannte Varianten.
@@ -112,7 +114,7 @@ def main():
     p.add_argument('archive',type=Path);p.add_argument('--target',type=int,default=1000)
     p.add_argument('--output',type=Path,default=Path('examples/comics/sources/bechstein-sagen-bis-1000.json'))
     p.add_argument('--report',type=Path,default=Path('docs/comic-quellen-bechstein-nachweis.json'))
-    args=p.parse_args();existing=sorted(x for x in args.output.parent.glob('*.json') if x!=args.output and not x.name.endswith('.nachweis.json'))
+    args=p.parse_args();existing=[args.output.parent/name for name in BASE_PACKS]
     pack,report=build(args.archive,existing,args.target)
     args.output.write_text(json.dumps(pack,ensure_ascii=False,indent=2)+'\n')
     args.report.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')

@@ -44,7 +44,8 @@ class LegendBuilderTests(unittest.TestCase):
 
     def test_shipped_catalog_has_exactly_one_thousand_distinct_entries(self):
         sources=[]
-        for p in (ROOT/'examples/comics/sources').glob('*.json'):
+        for name in (*builder.BASE_PACKS,'bechstein-sagen-bis-1000.json'):
+            p=ROOT/'examples/comics/sources'/name
             sources.extend(json.loads(p.read_text())['sources'])
         self.assertEqual(len(sources)+3,1000)
         self.assertEqual(len({x['id'] for x in sources}),len(sources))
