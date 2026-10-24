@@ -28,7 +28,7 @@ def source(store,job):
     if (root/'editorial-source.json').exists():value=json.loads((root/'editorial-source.json').read_text())
     else:
         story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text())
-        value={'title':story['title'],'article':story['story'],'style':job['request']['stil'],'scenes':plan['scenes']}
+        value={'title':story['title'],'article':story['story'],'style':job['request']['stil'],'scenes':plan['scenes'],'page_template':job['request'].get('page_template','standard')}
     value['characters']=json.loads((root/'characters.json').read_text())
     if len(value['scenes'])<1:raise ValueError('Ungültige Kachelzahl.')
     for index in range(len(value['scenes'])):

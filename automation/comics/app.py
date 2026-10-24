@@ -148,7 +148,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -161,6 +161,9 @@ class Handler(BaseHTTPRequestHandler):
             return self.reply(200,{'sources':catalog(self.service.store)})
         if path.startswith('/source-tasks/'):
             return self.source_read(path)
+        if path=='/page-templates':
+            from lettering import LAYOUT
+            return self.reply(200,{'templates':list(LAYOUT.TEMPLATES.values())})
         if path=='/styles':return self.reply(200,{'styles':STYLES})
         if path=='/sharing':return self.reply(200,sharing.settings(self.service.store))
         if path=='/characters':

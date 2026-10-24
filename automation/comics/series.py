@@ -39,7 +39,7 @@ def snapshot(stories,kind,ident):
         root=store.directory(ident)
         if (root/'editorial-source.json').is_file():p=json.loads((root/'editorial-source.json').read_text())
         elif (root/'story.json').is_file() and (root/'scenes.json').is_file():
-            story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text());p={'title':story['title'],'article':story['story'],'scenes':plan['scenes'],'style':job['request']['stil']}
+            story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text());p={'title':story['title'],'article':story['story'],'scenes':plan['scenes'],'style':job['request']['stil'],'page_template':job['request'].get('page_template','standard')}
         else:raise ValueError('Diese Ausgabe hat keinen vollständigen Szenenplan.')
         if not (root/'characters.json').is_file():raise ValueError('Figurenprofile dieser Ausgabe fehlen.')
         p['characters']=json.loads((root/'characters.json').read_text());p['library_ids']=[];version=None;title=p.get('title') or job.get('story_title') or 'Comic'
@@ -116,7 +116,7 @@ def create(stories,value):
     meta={'id':root,'name':values['name'],'episode':values['episode'],'mode':values['mode'],
           'based_on':{k:base[k] for k in ('kind','id','version','title')},'canon':values['canon'],'open_threads':values['open_threads'],
           'previous_article':p.get('article',''),'previous_ending':copy.deepcopy(p.get('scenes',[])[-3:]),'initial_states':base['states']}
-    inherited={k:copy.deepcopy(p[k]) for k in ('characters','library_ids','signature','narrator_badge','narrator_character_id','book_author','source_provenance') if k in p}
+    inherited={k:copy.deepcopy(p[k]) for k in ('page_template','characters','library_ids','signature','narrator_badge','narrator_character_id','book_author','source_provenance') if k in p}
     payload={**inherited,'style':values['style'],'seed':p.get('seed',1984),'article':values['article'],'scenes':[],'panel_count':values['count'],'planned_article':'','planned_count':0,'revisions':{},'series':meta}
     return stories.save({'mode':'editorial','name':values['title'],'payload':payload})
 

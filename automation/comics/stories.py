@@ -30,6 +30,8 @@ def validate_definition(value):
     if not name or len(name)>200:raise ValueError('Titel mit 1–200 Zeichen eingeben.')
     payload=copy.deepcopy(value.get('payload',{}))
     if not isinstance(payload,dict):raise ValueError('Ungültige Definition.')
+    from lettering import LAYOUT
+    LAYOUT.validate_template(payload.get('page_template','standard'))
     if value['mode']=='automatic':payload=validate_request(payload)
     else:
         if payload.get('style') not in STYLES:raise ValueError('Unbekannter Comic-Stil.')
@@ -97,7 +99,7 @@ class Stories:
         elif all((root/name).exists() for name in ('story.json','scenes.json','characters.json')):
             story=json.loads((root/'story.json').read_text());plan=json.loads((root/'scenes.json').read_text())
             payload={'title':story['title'],'article':story['story'],'scenes':plan['scenes'],'characters':[],
-                     'style':job['request']['stil'],'seed':job['request']['seed'],'signature':job['request']['signatur']}
+                     'style':job['request']['stil'],'seed':job['request']['seed'],'signature':job['request']['signatur'],'page_template':job['request'].get('page_template','standard')}
         else:return self.save({'mode':'automatic','name':job.get('story_title') or 'Kopie des Auftrags','payload':job['request']})
         if (root/'characters.json').exists():
             # Retain the job's private reference snapshots, even if library figures were later removed.

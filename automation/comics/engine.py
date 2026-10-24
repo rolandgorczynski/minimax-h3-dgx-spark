@@ -18,10 +18,13 @@ TERMINAL=('completed','needs_review','failed')
 
 def validate_request(value):
     if not isinstance(value,dict):raise ValueError('JSON-Objekt erwartet.')
-    allowed={'thema','kacheln','stil','sprache','max_korrekturrunden','figuren_ids','seed','signatur'}
+    allowed={'thema','kacheln','stil','sprache','max_korrekturrunden','figuren_ids','seed','signatur','page_template'}
     if set(value)-allowed:raise ValueError('Unbekannte Parameter: '+', '.join(sorted(set(value)-allowed)))
     result={'thema':'','kacheln':12,'stil':'Großstadt-Noir (düster)','sprache':'de','max_korrekturrunden':2,'figuren_ids':[],'seed':int.from_bytes(os.urandom(4),'big')%2147483648,'signatur':''}
     result.update(value)
+    if 'page_template' in result:
+        from lettering import LAYOUT
+        LAYOUT.validate_template(result['page_template'])
     if result['sprache']!='de':raise ValueError('Alle Geschichten werden ausschließlich auf Deutsch erstellt (sprache: de).')
     for key,limit in [('thema',8000),('sprache',40),('signatur',200)]:
         if not isinstance(result[key],str) or len(result[key])>limit:raise ValueError(f'Ungültiger Parameter {key}.')
@@ -465,9 +468,9 @@ class Engine:
                 'fiction':True,'review_is_model_based':True}
         self.store.write(job,'report.json',report)
         folder=self.store.directory(job)
-        if req['kacheln']>12 and (folder/'comic.png').exists():
+        if (req['kacheln']>12 or req.get('page_template','standard')!='standard') and (folder/'comic.png').exists():
             from lettering import LAYOUT,DESIGN
-            LAYOUT.render_layout(folder,{'title':doc['title'],'scenes':plan['scenes'],'signature':req['signatur']},self.workflow(req,doc,cast,plan,revisions),DESIGN)
+            LAYOUT.render_layout(folder,{'title':doc['title'],'scenes':plan['scenes'],'signature':req['signatur'],'page_template':req.get('page_template','standard')},self.workflow(req,doc,cast,plan,revisions),DESIGN)
         self.store.write(job,'README.txt','Comic-Studio-Export. workflow.json kann in ComfyUI geöffnet werden. Figurenreferenzen sind eingebettet. Modellprüfungen ersetzen keine Sichtprüfung. Keine automatische Veröffentlichung.\nBei großen Comics ist comic.png eine Vorschau; pages/ und die PDF enthalten alle Kacheln.\n'.encode())
         zip_path=folder/'comic-bundle.zip'
         with zipfile.ZipFile(zip_path.with_suffix('.tmp'), 'w',zipfile.ZIP_DEFLATED) as archive:

@@ -281,4 +281,6 @@ Comic-Vorlagen aus Büchern und Filmen: [Quellengenerator](docs/Comic_Quellengen
 
 Comic-Serien: [Fortsetzungen auf Basis vorhandener Geschichten](docs/Comic_Serien.md).
 
+[33 Comic-Seitenvorlagen mit Vorschau und automatischer Übernahme in Serien](docs/Comic_Seitenvorlagen.md).
+
 Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Comic_Experimente.md).

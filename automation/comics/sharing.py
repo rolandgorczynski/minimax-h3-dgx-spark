@@ -50,27 +50,35 @@ def clean_png(data):
     return bytes(result)
 
 
-def image_sources(job):
+def image_sources(job,page_template='standard'):
     names={a['name'] for a in job.get('artifacts',[])}
+    pages=sorted((n for n in names if re.fullmatch(r'pages/\d+\.png',n)),key=lambda n:int(n.split('/')[1].split('.')[0]))
+    if page_template!='standard' and pages:return pages
     panels=sorted((n for n in names if re.fullmatch(r'panels/\d+_panel\.png',n)),key=lambda n:int(n.split('/')[1].split('_')[0]))
     if panels:return panels
     if 'comic.png' in names:return ['comic.png']
     raise ValueError('Diese Ausgabe hat noch keine fertigen Comic-Bilder.')
 
 
+def selected_sources(store,job):
+    path=store.directory(job['id'])/'editorial-source.json'
+    template=json.loads(path.read_text()).get('page_template','standard') if path.exists() else job.get('request',{}).get('page_template','standard')
+    return image_sources(job,template)
+
+
 def manifest(store,job):
     if job['status'] not in ('completed','needs_review','editing'):raise ValueError('Zuerst die Erzeugung abschließen.')
-    sources=image_sources(job);width=max(2,len(str(len(sources))));title='Comic'
+    sources=selected_sources(store,job);width=max(2,len(str(len(sources))));title='Comic'
     path=store.directory(job['id'])/'story.json'
     if path.exists():title=json.loads(path.read_text()).get('title',title)
     return {'job_id':job['id'],'title':title,'targets':settings(store),'text':title,
-            'images':[{'name':f'{i+1:0{width}}.png','label':f'Kachel {i+1}' if len(sources)>1 else 'Comic',
+            'images':[{'name':f'{i+1:0{width}}.png','label':(f'Seite {i+1}' if sources[i].startswith('pages/') else f'Kachel {i+1}') if len(sources)>1 else 'Comic',
                        'url':f'/jobs/{job["id"]}/share/images/{i+1:0{width}}.png'} for i,_ in enumerate(sources)],
             'download_url':f'/jobs/{job["id"]}/share/images.zip','published':False}
 
 
 def image(store,job,index):
-    sources=image_sources(job)
+    sources=selected_sources(store,job)
     if not 0<=index<len(sources):raise KeyError(index)
     root=store.directory(job['id']).resolve();path=(root/sources[index]).resolve()
     if not path.is_relative_to(root) or not path.is_file():raise KeyError(index)
