@@ -188,3 +188,41 @@ unveränderte unmittelbare Basis, ohne etwas neu zu zeichnen oder die Variante
 zu löschen. Ein laufender Auftrag läuft dabei weiter. Über die Auswahlliste
 kann jederzeit wieder zum Experiment gewechselt werden. Bei mehreren aufeinander
 aufbauenden Experimenten führt der Knopf jeweils eine Stufe zurück.
+
+## Feste Texte: Widersprüche und Stilhinweise trennen
+
+Bei **nur Bildkomposition** haben Handlung und Wortlaut Vorrang vor Intensität,
+Erzählvorbild und Regieplan. Vor der Prüfung werden die Bildbeschreibungen deshalb
+noch einmal eigenständig aus der Originalhandlung, den festen Erzählertexten und
+Sprechblasen entworfen. Die widersprüchliche Experimentbeschreibung wird dafür
+nicht wieder als Vorlage verwendet. Jede Kachel zeigt genau einen Zeitpunkt.
+Ein bereits bezwungener Gegner wird nach dem Kampf gezeigt, nicht erneut mitten
+im Angriff. Die festen Texte und Sprecher werden dabei nicht geändert.
+
+Die anschließende Prüfung trennt:
+
+- **Belegte Widersprüche:** falscher Bildzeitpunkt, widersprüchliche Ereignisse,
+  falsche Identitäten oder Sprecher, gebrochene Kontinuität, falsches Ende oder
+  nicht lesbare Beschriftung. Der Befund muss die betroffene Kachel und einen
+  vorhandenen Bildtext wörtlich nennen. Bei Bild-Text-Konflikten muss zusätzlich
+  der passende Erzähler- oder Sprechblasentext belegt werden.
+- **Optionale Regievorschläge:** mehr Subtext, weniger erklärende Texte, stärkere
+  Bildwirkung oder andere persönliche Stilpräferenzen. Sie werden im Bericht
+  unter **Optionale Regievorschläge** angezeigt und brechen den Auftrag nicht ab.
+
+Eine sichtbare Figur braucht keine Sprechblase. Leere Figurenzustände sind kein
+Fehler, solange Aussehen und Kleidung unverändert aus den Profilen folgen.
+Bei einem belegten verbleibenden Bild-Text-Konflikt korrigiert der feste Modus
+gezielt die betreffende Bildbeschreibung. Bleibt danach ein belegter Widerspruch,
+stoppt die Erzeugung weiterhin vor dem Zeichnen. Modellprüfungen bleiben fehlbar;
+die abschließende Sichtprüfung wird dadurch nicht ersetzt.
+
+Bei einem fehlgeschlagenen Experiment lautet die Schaltfläche
+**Experiment erneut versuchen**. Sie öffnet die bisherigen Einstellungen und
+verwendet die erhaltene Basis für einen neuen eigenen Versuch. Erst ein weiterer
+Klick auf **Experiment als neue Ausgabe erzeugen** startet diesen Versuch.
+
+Nicht belegbare Kritikerbehauptungen bleiben als ausdrücklich unbelegte Hinweise
+im Bericht sichtbar. Sie lösen keine Bildkorrektur und keinen Abbruch aus.
+Die Anpassung fester Texte ändert ausschließlich Bildbeschreibungen; gespeicherte
+Figurenzustände bleiben erhalten.

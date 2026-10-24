@@ -41,13 +41,18 @@ def settings(store,parent,**changes):
 
 
 class FakeEngine:
+    validate_scenes=Engine.validate_scenes
     def __init__(self,store,fail_review=False):self.store=store;self.calls=[];self.sizes=[];self.fail_review=fail_review
     def json_call(self,ident,step,prompt,validator,tokens,images=None):
         self.calls.append(step)
         if step.startswith('experiment-direction-'):
             if step.endswith('vision'):assert images and images[0].startswith(b'\xff\xd8')
             slots=json.loads(prompt.split('BEATRASTER:\n')[-1]);return validator({'core':'Eine Tür und eine Entscheidung.','emotion':'Ria überwindet ihre Angst.','goal':'Ria will die Tür öffnen.','stakes':'Sie verliert die letzte Gelegenheit.','obstacle':'Die Tür ist schwer zu bewegen.','choice':'Ria riskiert ihren sicheren Rückweg.','turning_point':'Ria entscheidet sich zu handeln.','visual_rhythm':'Erst Stille, dann eine dynamische Bewegung.','continuity':'Die Tür bleibt nach dem Öffnen offen.','ending':'Ria öffnet wie zuvor die Tür.','beats':[{**slot,'event':'Ria muss an dieser Stelle eine konkrete Entscheidung treffen.','change':'Ihr Wissen über die Tür ändert sich sichtbar.'} for slot in slots]})
-        if 'review' in step:return validator({'approved':not self.fail_review,'issues':['Unklarer Handlungsanschluss.'] if self.fail_review else []})
+        if step.startswith('experiment-locked-text-alignment-'):
+            original=json.JSONDecoder().raw_decode(prompt.split('KACHELN MIT FESTEN TEXTEN:')[1].lstrip())[0];numbers=json.JSONDecoder().raw_decode(prompt.split('FESTE KACHELNUMMERN:')[1].lstrip())[0]
+            return validator([{'panel':number,'story':'Tiefe Froschperspektive: Ria hält inne und betrachtet die Tür.','character_states':s.get('character_states',{})} for number,s in zip(numbers,original)])
+        if 'review' in step:
+            panel=int(re.search(r'GEPRÜFTER ABSCHNITT (\d+)',prompt)[1]);return validator({'issues':[{'panel':panel,'kind':'sequence','message':'Der dargestellte Handlungsanschluss widerspricht der vorigen Szene.','image_quote':'Ria hält inne'}] if self.fail_review else [],'suggestions':[]})
         start,end,count=map(int,re.search(r'für Position (\d+) bis (\d+) von insgesamt (\d+)',prompt).groups());self.sizes.append(end-start+1)
         return validator([{'heading':'Neue Szene '+str(i),'story':'Tiefe Froschperspektive: Ria hält inne und entscheidet sich, die schwere Tür aufzustoßen. Bildmoment '+str(i),'dialog':'Ein Moment verändert alles.','characters':[WHO],'bubbles':[{'speaker':WHO,'text':'Ich entscheide mich jetzt.','expression':'shout','bubble_style':'burst'}],'character_states':{},'dramatic_change':'Ria verlässt ihren sicheren Standpunkt.','visual_device':'Nahaufnahme ihrer entschlossenen Hand.','reason':'Aus passivem Warten wird eine sichtbare Entscheidung.'} for i in range(start,end+1)])
     def require_german(self,ident,step,value,validator,tokens):return validator(value)
@@ -105,7 +110,7 @@ class ExperimentTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as root:
             store,parent=fixture(root);job=experiments.enqueue(store,parent,settings(store,parent));engine=FakeEngine(store,True)
             with patch('editorial.render') as render:
-                with self.assertRaisesRegex(ValueError,'dramaturgische Korrektur'):experiments.run(engine,job['id'])
+                with self.assertRaisesRegex(ValueError,'belegten Widerspruch'):experiments.run(engine,job['id'])
                 render.assert_not_called()
 
     def test_complete_branch_export_uses_only_own_job_and_preserves_parent(self):
@@ -127,6 +132,53 @@ class ExperimentTests(unittest.TestCase):
             report=json.loads((store.directory(job['id'])/'report.json').read_text());self.assertTrue(report['experimental']);self.assertTrue(report['fiction']);self.assertTrue(report['text_rewritten_by_local_llm'])
             self.assertEqual(store.get(parent['id']),before)
             self.assertTrue(any(a['name']=='experiment-report.json' for a in result['artifacts']))
+
+    def test_failed_experiment_retries_from_its_original_with_preserved_controls(self):
+        with tempfile.TemporaryDirectory() as root:
+            store,parent=fixture(root);selected=settings(store,parent,mode='staging',narrative_profile='batman',notes='Meine Regie behalten.');failed=experiments.enqueue(store,parent,selected);store.update(failed['id'],status='failed')
+            info=experiments.options(store,store.get(failed['id']))
+            self.assertEqual(info['parent_job'],parent['id']);self.assertEqual(info['retry_of'],failed['id']);self.assertEqual(info['settings']['notes'],'Meine Regie behalten.');self.assertEqual(info['settings']['mode'],'staging')
+            self.assertEqual(info['version'],experiments.options(store,parent)['version']);self.assertEqual(store.get(parent['id']),parent)
+            retry=experiments.enqueue(store,parent,{'version':info['version'],**info['settings']})
+            self.assertNotEqual(retry['id'],failed['id']);self.assertEqual(retry['parent_job'],parent['id'])
+
+    def test_stylistic_advice_and_silent_visible_figures_do_not_block(self):
+        from experiment_review import validate_review
+        scenes=[{'story':'Siegfried und der Lindwurm stehen in der Höhle.','dialog':'Vor ihm steht der Lindwurm.','characters':[WHO],'bubbles':[],'character_states':{}}]
+        result=validate_review({'issues':[{'panel':1,'kind':'redundancy','message':'Der Erzähler benennt das sichtbare Wesen.'},{'panel':1,'kind':'missing_annotation','message':'Kleidung ist nicht eigens wiederholt.'},{'panel':1,'kind':'speaker','message':'Der Lindwurm hat keine Sprechblase.'}],'suggestions':[]},scenes,0)
+        self.assertTrue(result['approved']);self.assertEqual(len(result['suggestions']),3)
+
+    def test_locked_alignment_keeps_saved_states_even_if_model_adds_unrequested_metadata(self):
+        from experiment_review import align_locked_texts
+        scene={'story':'Der Kampf läuft.','dialog':'Der Gegner ist bezwungen.','characters':[WHO],'bubbles':[],'character_states':{WHO:'Gelbe Jacke.'}}
+        self_test=self
+        class AlignEngine:
+            validate_scenes=Engine.validate_scenes
+            def json_call(self,ident,step,prompt,validator,tokens):
+                self_test.assertNotIn('Der Kampf läuft.',prompt)
+                self_test.assertIn('Ria hat den Gegner bezwungen.',prompt)
+                self_test.assertIn('genau EINEN gleichzeitigen Moment',prompt)
+                return validator([{'panel':1,'story':'Ria steht vor dem besiegten Gegner.','character_states':{'Ria':{'kleidung':'Geänderte, nicht angeforderte Kleidung.'}}}])
+        result=align_locked_texts(AlignEngine(),'f'*32,[scene],0,[{'id':WHO,'name':'Ria'}],[{**scene,'story':'Ria hat den Gegner bezwungen.'}])
+        self.assertEqual(result[0]['character_states'],scene['character_states']);self.assertEqual(result[0]['dialog'],scene['dialog']);self.assertIn('besiegten',result[0]['story'])
+
+    def test_actual_image_text_conflict_is_targeted_and_fixed_text_is_preserved(self):
+        from experiment_review import validate_review,repair_staging
+        scenes=[{'story':'Siegfried steht ruhig.','dialog':'Er wartet.','characters':[WHO],'bubbles':[]},
+                {'story':'Der Lindwurm stürzt sich auf Siegfried.','dialog':'Er hat den Lindwurm bezwungen.','characters':[WHO],'bubbles':[],'character_states':{}}]
+        before=copy.deepcopy(scenes)
+        result=validate_review({'issues':[{'panel':5,'kind':'image_text_conflict','message':'Kampf läuft im Bild noch, der Erzähler beschreibt bereits den Sieg.','image_quote':'stürzt sich auf Siegfried','text_quote':'den Lindwurm bezwungen'}],'suggestions':['Der feste Erzählertext könnte kürzer sein.']},scenes,3)
+        self.assertFalse(result['approved'])
+        class RepairEngine:
+            validate_scenes=Engine.validate_scenes
+            def json_call(self,ident,step,prompt,validator,tokens):
+                self_test.assertEqual(step,'experiment-locked-image-repair-5');self_test.assertIn('Er hat den Lindwurm bezwungen.',prompt)
+                return validator({'story':'Der besiegte Lindwurm liegt reglos. Siegfried steht über ihm.','character_states':{}})
+        self_test=self
+        repaired=repair_staging(RepairEngine(),'f'*32,scenes,3,result['issues'],[{'id':WHO,'name':'Siegfried'}])
+        self.assertEqual(repaired[0],before[0]);self.assertEqual(repaired[1]['dialog'],before[1]['dialog']);self.assertEqual(repaired[1]['bubbles'],before[1]['bubbles']);self.assertIn('reglos',repaired[1]['story']);self.assertEqual(scenes,before)
+        unproven=validate_review({'issues':[{'panel':5,'kind':'image_text_conflict','message':'Erfundener Befund.','image_quote':'Nicht im Bildtext','text_quote':'den Lindwurm bezwungen'}]},scenes,3)
+        self.assertTrue(unproven['approved']);self.assertIn('Unbelegter Prüfhinweis',unproven['suggestions'][0])
 
     def test_authenticated_api_only_enqueues_a_new_branch(self):
         from app import Service,Handler

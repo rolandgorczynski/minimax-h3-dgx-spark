@@ -8,16 +8,23 @@ import os
 import secrets
 import uuid
 from PIL import Image,ImageDraw
-from engine import Engine,validate_request,valid_review
+from engine import Engine,validate_request
 from lettering import source as original_source,DESIGN
 from stories import Conflict
 from narrative_profiles import PROFILES,profile_prompt,beat_slots
+from experiment_review import assess,repair_staging,align_locked_texts
 
 DIRECTIONS={'tension':'Spannung','anger':'Wut / emotionale Reibung','action':'Action','blood':'Blut / sichtbare Konsequenzen','dialogue':'Dialoge mit Biss','visuals':'Filmische Bildwirkung'}
 DEFAULTS={'tension':2,'anger':1,'action':1,'blood':0,'dialogue':2,'visuals':2}
 
 
 def options(store,parent):
+    if parent.get('experiment_mode') and parent['status']=='failed':
+        snapshot=json.loads((store.directory(parent['id'])/'experiment-input.json').read_text())
+        base=store.get(snapshot['parent_job'])
+        if not base:raise ValueError('Die Basis dieses Experiments ist nicht mehr vorhanden.')
+        result=options(store,base);result.update(parent_job=base['id'],retry_of=parent['id'],settings=controls(snapshot['controls']))
+        return result
     if parent['status'] not in ('completed','needs_review'):raise Conflict('Eine fertige Comic-Ausgabe als Basis auswählen.')
     source,version=original_source(store,parent)
     return {'version':version,'title':source['title'],'count':len(source['scenes']),'style':parent['request']['stil'],'directions':DIRECTIONS,'narrative_profiles':PROFILES,'settings':{'mode':'rewrite','narrative_profile':'auto','keep_ending':True,'levels':DEFAULTS.copy(),'notes':''}}
@@ -134,7 +141,7 @@ def plan(engine,ident):
         notes.append('Bildgestützte Regieanalyse nicht verfügbar; Textanalyse verwendet: '+str(exc)[:300])
         guide=engine.json_call(ident,'experiment-direction-text',analysis_prompt,diagnosis,tokens=3200)
     guide=engine.require_german(ident,'experiment-direction-german',guide,diagnosis,3200)
-    scenes=[];reasons=[];states=copy.deepcopy(source.get('series',{}).get('initial_states',{}))
+    scenes=[];reasons=[];advice=[];reviews=[];states=copy.deepcopy(source.get('series',{}).get('initial_states',{}))
     for start in range(0,count,6):
         size=min(6,count-start);store.stage(ident,'experiment_writing',planned_panels=start,total_panels=count)
         batch=original[start:start+size]
@@ -142,6 +149,8 @@ def plan(engine,ident):
         instruction+=f'\nErstelle genau {size} Kacheln für Position {start+1} bis {start+size} von insgesamt {count}. Verteile Aufbau und Höhepunkt über die GESAMTE Folge; nur die letzte Kachel endet sie. '
         relevant=[b for b in guide['beats'] if b['start']<=start+size and b['end']>=start+1]
         instruction+='\nVERBINDLICHE AUFGABEN DIESES ABSCHNITTS:'+json.dumps(relevant,ensure_ascii=False)
+        if settings['mode']=='staging':
+            instruction+='\nHÖCHSTE PRIORITÄT: Originalhandlung und feste Texte bestimmen den Bildzeitpunkt. Ein Text über den bereits bezwungenen Gegner verlangt ein Bild NACH dem Kampf. Keine neue Kampfrunde oder andere Ereignisse hinzufügen. Im festen Modus darf dramatischer Wandel die sichtbare Bedeutung des bestehenden Moments sein; neue Dialoge oder Konflikte sind nicht erforderlich.\n'
         instruction+='Jede Kachel muss etwas verändern: Handlung, Wissen, Beziehung, Gefahr oder bewusste emotionale Bedeutung. Keine drei gleichartigen Standbilder. Erzählertext nicht einfach das sichtbare Bild erklären lassen. Eine stille Kachel ist sinnvoll, wenn sie eine neue emotionale Bedeutung schafft. Konsequenzen gelten weiter: ein besiegtes oder totes Wesen greift später nicht ohne ausdrücklich vorbereitete Wendung erneut an. Kleidung, Blutspuren, Gegenstände und Wissen zeitlich korrekt führen. Je Kachel ein klarer Moment. Erste sprechende Figur links, Antwort rechts; freie Textflächen einplanen. Maximal zwei kurze Blasen, je 100 Zeichen, Erzählertext maximal 130 Zeichen. Keine alten Textkoordinaten übernehmen. Return ONLY JSON als Array [{"heading":"Titel","story":"vollständige Bildkomposition bis 1200 Zeichen","dialog":"Erzählertext oder leer","characters":["exakte ID"],"bubbles":[{"speaker":"exakte ID","text":"Wortlaut","expression":"normal oder shout oder whisper","bubble_style":"auto"}],"character_states":{},"dramatic_change":"Was ändert diese Kachel konkret?","visual_device":"sichtbar andere Einstellung oder bewusste stille Betonung","reason":"konkrete dramaturgische Verbesserung"}].'
         def check(value):
             result=Engine.validate_scenes(None,copy.deepcopy(value),size,cast)
@@ -157,13 +166,23 @@ def plan(engine,ident):
                 result[j]=clean_geometry(result[j]);result[j]['bubbles']=DESIGN.validate_bubbles(result[j].get('bubbles',[]))
             return Engine.validate_scenes(None,result,size,cast)
         chunk=engine.json_call(ident,'experiment-scenes-'+str(start+1),instruction,check,tokens=850*size+400)
+        if settings['mode']=='staging':
+            store.stage(ident,'experiment_repair',planned_panels=start,total_panels=count)
+            chunk=check(align_locked_texts(engine,ident,chunk,start,cast,batch))
         store.stage(ident,'experiment_review',planned_panels=start,total_panels=count)
-        review_prompt=premise+'\nPrüfe Motivation, Ursache und Wirkung, Sprecher, Figurenkontinuität, Auflösung und Lesbarkeit. Verlange echte Bewegung im Erzählbogen: Die Felder dramatic_change und visual_device sind Behauptungen und müssen in der konkreten Szene erkennbar werden. Beanstande bloß wiederholtes Stehen, Schauen und bedeutungslose Erklärkästen. Ein ruhiger Moment mit neuer emotionaler Bedeutung ist erlaubt. Prüfe gegen den Beatplan und die bisherigen Ereignisse, insbesondere Tod, Verletzungen, Gegenstände und Blutspuren. Eine freie Variante darf die Vorlage im erlaubten Umfang verändern; neue Dialoge sind keine Zitatfehler. Keine pauschalen Stilurteile. Return ONLY JSON {"approved":true,"issues":[]} oder {"approved":false,"issues":["konkreter Fehler"]}.\nREGIEPLAN:'+json.dumps(guide,ensure_ascii=False)+'\nVORIGE NEUE SZENEN:'+json.dumps(scenes[-2:],ensure_ascii=False)+'\nORIGINALSCHLUSS:'+ending+'\nGEPRÜFTER ABSCHNITT '+str(start+1)+' bis '+str(start+size)+' von '+str(count)+': '
-        review=engine.json_call(ident,'experiment-review-'+str(start+1),review_prompt+json.dumps(chunk,ensure_ascii=False),valid_review,tokens=800)
+        review=assess(engine,ident,'experiment-review-v2-'+str(start+1),chunk,start,count,settings,guide,scenes,batch,cast)
+        reviews.append({'start':start+1,'round':'initial',**review});advice.extend(review['suggestions'])
         if not review['approved']:
-            chunk=engine.json_call(ident,'experiment-revise-'+str(start+1),instruction+'\nENTWURF:'+json.dumps(chunk,ensure_ascii=False)+'\nZU KORRIGIEREN:'+json.dumps(review['issues'],ensure_ascii=False),check,tokens=850*size+400)
-            review=engine.json_call(ident,'experiment-review-final-'+str(start+1),review_prompt+json.dumps(chunk,ensure_ascii=False),valid_review,tokens=800)
-            if not review['approved']:raise ValueError('Experiment braucht eine weitere dramaturgische Korrektur: '+'; '.join(review['issues']))
+            if settings['mode']=='staging':
+                store.stage(ident,'experiment_repair',planned_panels=start,total_panels=count)
+                chunk=check(repair_staging(engine,ident,chunk,start,review['issues'],cast))
+            else:
+                chunk=engine.json_call(ident,'experiment-revise-v2-'+str(start+1),instruction+'\nENTWURF:'+json.dumps(chunk,ensure_ascii=False)+'\nBELEGTE WIDERSPRÜCHE:'+json.dumps(review['issues'],ensure_ascii=False),check,tokens=850*size+400)
+            review=assess(engine,ident,'experiment-review-v2-final-'+str(start+1),chunk,start,count,settings,guide,scenes,batch,cast)
+            reviews.append({'start':start+1,'round':'corrected',**review});advice.extend(review['suggestions'])
+            if not review['approved']:
+                store.write(ident,'reports/experiment-review-v2.json',{'reviews':reviews,'suggestions':list(dict.fromkeys(advice))})
+                raise ValueError('Experiment enthält noch einen belegten Widerspruch: '+'; '.join('Kachel '+str(i['panel'])+': '+i['message'] for i in review['issues']))
         chunk=engine.require_german(ident,'experiment-german-'+str(start+1),chunk,check,850*size+400)
         for j,s in enumerate(chunk):
             states.update(s.get('character_states',{}));s['character_states']={k:v for k,v in states.items() if k in s['characters']}
@@ -182,7 +201,8 @@ def plan(engine,ident):
     source['article']=article if len(article)<=16000 else article[:15880]+'\nVollständige Handlung und Dialoge stehen im Szenenplan.'
     fit=engine.preflight({'scenes':scenes},cast)
     if not fit['valid']:raise ValueError('Experiment-Beschriftung passt nicht: '+json.dumps(fit['issues'],ensure_ascii=False))
-    report={'parent_job':snapshot['parent_job'],'parent_version':snapshot['parent_version'],'experimental':True,'fiction':True,'original_unchanged':True,'controls':settings,'narrative_profile':copy.deepcopy(PROFILES[settings.get('narrative_profile','auto')]),'direction':guide,'changes':reasons,'notes':notes,'panel_count':count,'visual_review':'pending','original_art_sha256':snapshot['original_art_sha256']}
+    report={'parent_job':snapshot['parent_job'],'parent_version':snapshot['parent_version'],'experimental':True,'fiction':True,'original_unchanged':True,'controls':settings,'narrative_profile':copy.deepcopy(PROFILES[settings.get('narrative_profile','auto')]),'direction':guide,'changes':reasons,'notes':notes,'suggestions':list(dict.fromkeys(advice)),'reviews':reviews,'panel_count':count,'visual_review':'pending','original_art_sha256':snapshot['original_art_sha256']}
+    store.write(ident,'reports/experiment-review-v2.json',{'reviews':reviews,'suggestions':list(dict.fromkeys(advice))})
     source['experiment']={'parent_job':snapshot['parent_job'],'controls':settings,'fiction':True}
     store.write(ident,'editorial-source.json',source);store.write(ident,'story.json',{'title':source['title'],'story':source['article']});store.write(ident,'experiment-report.json',report)
     return source,report
