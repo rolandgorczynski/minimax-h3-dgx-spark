@@ -126,3 +126,45 @@ Die Gemeinfreiheit bezieht sich auf die historischen Originaltexte beziehungswei
 die genannten alten Bearbeitungen in Deutschland. Die englischen und französischen
 Belege werden hier ausschließlich durch eigene deutsche Inhaltsfassungen erschlossen;
 keine moderne deutsche Übersetzung oder fremde Illustration wird übernommen.
+
+## Weitere 20 Vorlagen: Grimm, Andersen und Abenteuerklassiker
+
+[maerchen-klassiker-weitere-20.json](maerchen-klassiker-weitere-20.json) ergänzt den
+Katalog von 53 auf 73 Einträge. Zehn Grimm-Märchen, fünf Andersen-Geschichten und
+fünf klassische Abenteuer bringen weitere Tonlagen hinzu: Rettung, Rätsel, Spuk,
+Satire, Naturentdeckung und frühe Science-Fiction. Tragische oder offene Enden
+bleiben erhalten. Längere Werke sind auf ausdrücklich benannte Episoden begrenzt.
+
+| Vorlage | Historischer Quellenbeleg |
+|---|---|
+| Der goldene Vogel – Der Rat des Fuchses | [Ausgangstext](https://de.wikisource.org/wiki/Der_goldene_Vogel_(1857)) |
+| Die weiße Schlange – Wer die Tiere versteht | [Ausgangstext](https://de.wikisource.org/wiki/Die_weiße_Schlange_(1857)) |
+| Die zertanzten Schuhe – Der Weg unter dem Bett | [Ausgangstext](https://de.wikisource.org/wiki/Die_zertanzten_Schuhe_(1857)) |
+| Die Sterntaler – Das letzte Stück Brot | [Ausgangstext](https://de.wikisource.org/wiki/Die_Sternthaler_(1857)) |
+| Jorinde und Joringel – Die Blume gegen den Bann | [Ausgangstext](https://de.wikisource.org/wiki/Jorinde_und_Joringel_(1857)) |
+| Fundevogel – Wenn du mich nicht verlässt | [Ausgangstext](https://de.wikisource.org/wiki/Fundevogel_(1857)) |
+| Das blaue Licht – Der Ausweg aus dem Brunnen | [Ausgangstext](https://de.wikisource.org/wiki/Das_blaue_Licht_(1857)) |
+| Die Kristallkugel – Das Ei im Feuervogel | [Ausgangstext](https://de.wikisource.org/wiki/Die_Krystallkugel_(1857)) |
+| Die drei Federn – Der unterschätzte Weg | [Ausgangstext](https://de.wikisource.org/wiki/Die_drei_Federn_(1857)) |
+| Die Gänsemagd – Die vertauschte Braut | [Ausgangstext](https://de.wikisource.org/wiki/Die_Gänsemagd_(1857)) |
+| Die Schneekönigin – Wärme im Eispalast | [Ausgangstext](https://www.gutenberg.org/ebooks/1597) |
+| Des Kaisers neue Kleider – Was niemand sehen darf | [Ausgangstext](https://www.gutenberg.org/ebooks/1597) |
+| Der Tannenbaum – Immer erst morgen | [Ausgangstext](https://www.gutenberg.org/ebooks/1597) |
+| Der Schatten – Der Diener wird zum Herrn | [Ausgangstext](https://www.gutenberg.org/ebooks/1597) |
+| Das Mädchen mit den Schwefelhölzern – Ein Licht nach dem anderen | [Ausgangstext](https://www.gutenberg.org/ebooks/1597) |
+| Die Zeitmaschine – Der erste Blick auf das Jahr 802701 | [Ausgangstext](https://www.gutenberg.org/ebooks/35) |
+| Rikki-Tikki-Tavi – Der Wächter des Gartens | [Ausgangstext](https://www.gutenberg.org/ebooks/236) |
+| Der kopflose Reiter – Die letzte Brücke | [Ausgangstext](https://www.gutenberg.org/ebooks/41) |
+| Der geheime Garten – Die Tür hinter dem Efeu | [Ausgangstext](https://www.gutenberg.org/ebooks/113) |
+| Der Zauberer von Oz – Hinter dem Vorhang | [Ausgangstext](https://www.gutenberg.org/ebooks/55) |
+
+```bash
+python3 scripts/import_comic_sources.py examples/comics/sources/maerchen-klassiker-weitere-20.json
+python3 scripts/import_comic_sources.py examples/comics/sources/maerchen-klassiker-weitere-20.json --apply
+```
+
+Alle Inhaltsfassungen und Begleittexte sind auf Deutsch neu formuliert. Die
+Gemeinfreiheit bezieht sich auf die historischen Stoffe und Originaltexte in
+Deutschland, nicht auf moderne Übersetzungen, Verfilmungen oder Illustrationen.
+Der Import sichert den bisherigen Katalog, ergänzt nur fehlende IDs und startet
+keinen Comic-Lauf. Nach dem Import die Quellenansicht neu öffnen.
