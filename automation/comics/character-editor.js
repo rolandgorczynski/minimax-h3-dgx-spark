@@ -19,9 +19,13 @@ function drawCharacterEditor(){
  refreshSpeechCastOptions();
  $('cast-summary').textContent=cast.length?'Figuren dieser Geschichte: '+cast.map(c=>c.name).join(' · '):'Noch keine Figuren in dieser Geschichte.';
 }
+function openCharacterPicture(image,name){if(image.hidden||!image.src)return;const dialog=$('character-picture-dialog');$('character-picture-title').textContent=name||'Figurenbild';$('character-picture-large').src=image.src;$('character-picture-large').alt='Referenzbild von '+(name||'Figur');if(!dialog.open)dialog.showModal()}
+document.getElementById('character-picture-close').onclick=()=>document.getElementById('character-picture-dialog').close();
+document.getElementById('character-picture-dialog').addEventListener('close',()=>document.getElementById('character-picture-large').removeAttribute('src'));
 function characterCard(c,scope,ticket){
  const box=document.createElement('details');box.className='character-card';box.dataset.characterId=c.id;box.dataset.scope=scope;
  const heading=document.createElement('summary'),image=document.createElement('img'),name=document.createElement('strong'),placeholder=document.createElement('span');
+ image.tabIndex=0;image.setAttribute('role','button');image.title='Figurenbild vergrößern';image.setAttribute('aria-label','Figurenbild vergrößern');image.onclick=e=>{e.preventDefault();e.stopPropagation();openCharacterPicture(image,c.name)};image.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();e.stopPropagation();openCharacterPicture(image,c.name)}};
  image.className='character-photo';image.alt='Referenzbild von '+c.name;image.hidden=true;name.textContent=c.name;placeholder.textContent='Kein Referenzbild';placeholder.className='character-placeholder';heading.append(image,name,placeholder);box.append(heading);
  const picture=characterPicture(c,scope);if(picture?.inline){image.src='data:image/png;base64,'+picture.inline;image.hidden=false;placeholder.hidden=true}else if(picture?.path){file(picture.path).then(blob=>{if(ticket!==characterRenderTicket)return;const url=URL.createObjectURL(blob);characterImageUrls.push(url);image.src=url;image.hidden=false;placeholder.hidden=true}).catch(()=>{placeholder.textContent='Referenzbild nicht verfügbar'})}
  const id=document.createElement('small');id.textContent='Figuren-ID: '+c.id;box.append(id);

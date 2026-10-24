@@ -40,7 +40,9 @@ def source(store,job):
 
 def manifest(store,job):
     value,version=source(store,job)
-    return {'job_id':job['id'],'version':version,'title':value['title'],'characters':[{'id':c['id'],'name':c['name']} for c in value['characters']],
+    story_path=store.directory(job['id'])/'story.json'
+    story=json.loads(story_path.read_text()).get('story',value.get('article','')) if story_path.exists() else value.get('article','')
+    return {'job_id':job['id'],'version':version,'title':value['title'],'story_text':story,'characters':[{'id':c['id'],'name':c['name']} for c in value['characters']],
             'panels':[{'canvas_size':s.get('canvas_size',[768,672]),'story':s['story'],'dialog':s.get('dialog',''),'bubbles':s.get('bubbles',[]),'protected_areas':s.get('protected_areas',[])} for s in value['scenes']]}
 
 
