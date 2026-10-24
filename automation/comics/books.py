@@ -283,8 +283,8 @@ def print_pdf(path,settings,src,panels,font_path,_pages_hint=None):
                 panel_index=region['panel']-1;scene=src['scenes'][panel_index]
                 panel_scale=scale*region['rect'][2]/region['original_size'][0]
                 min_effective=min(min_effective,72/panel_scale)
-                smallest=min([20 if b.get('expression')=='whisper' else 22 for b in scene.get('bubbles',[])]+([24] if scene.get('dialog') else [100]))
-                smallest*=scene.get('canvas_size',[768,672])[0]/768
+                font_scale=scene.get('canvas_size',[768,672])[0]/768
+                smallest=min([round((20 if b.get('expression')=='whisper' else 22)*font_scale) for b in scene.get('bubbles',[])]+([20] if scene.get('dialog') else [100]))
                 if src.get('narrator_badge'):smallest=min(smallest,11)
                 if any(b.get('show_name') is True for b in scene.get('bubbles',[])):smallest=min(smallest,16)
                 if scene.get('render_size'):

@@ -106,8 +106,22 @@ def validate_render_size(value):
     return tuple(value)
 
 
+def caption_font(size):
+    # Lesbare, zurückhaltende Erzählschrift statt proportional riesiger Buchstaben.
+    return max(20,min(28,round(24*size[0]/768)))
+
+
 def caption_band(dialogue,size):
-    return min(round(150*size[0]/768),round(size[1]*.38)) if dialogue else 0
+    if not dialogue:return 0
+    face=ImageFont.truetype(str(FONT),caption_font(size));face.set_variation_by_axes([750])
+    available=max(40,size[0]-110);lines=0
+    for paragraph in clean_text(dialogue).split('\n'):
+        line='';lines+=1
+        for word in paragraph.split():
+            candidate=(line+' '+word).strip()
+            if line and face.getlength(candidate)>available:lines+=1;line=word
+            else:line=candidate
+    return min(max(80,40+lines*math.ceil(caption_font(size)*1.25)),round(size[1]*.38))
 
 
 def art_render_size(canvas_size,dialogue):
@@ -194,17 +208,18 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size
     # Keep legacy single-bubble layouts; new scenes use a narrator band and positioned speech.
     width,height=validate_canvas_size(canvas_size) if canvas_size else (768,672)
     scale=width/768
-    band=caption_band(dialogue,(width,height)) if canvas_size else (150 if dialogue else 0)
+    band=caption_band(dialogue,(width,height))
     tile = Image.new('RGB', (width, height), 'white')
-    art = ImageOps.fit(image.convert('RGB'), (width-8, height-band-8), Image.Resampling.LANCZOS)
-    tile.paste(art, (4, band+4))
+    # Auch nachträglich ergänzte Erzählertexte dürfen keine Köpfe wegschneiden.
+    art = ImageOps.contain(image.convert('RGB'), (width-12, height-band-12), Image.Resampling.LANCZOS)
+    tile.paste(art, (6+(width-12-art.width)//2,band+6+(height-band-12-art.height)//2))
     draw = ImageDraw.Draw(tile)
     badge_font=ImageFont.truetype(str(FONT),26);badge_font.set_variation_by_axes([750])
     badge_width=max(43,math.ceil(draw.textlength(str(number),font=badge_font))+14)
     caption_left=max(65,12+badge_width+10)
     if dialogue and bubbles is not None:
         draw.rectangle((caption_left,10,width-15,band-20),fill='white',outline='black',width=3)
-        try:lettering(draw,clean_text(dialogue),(caption_left+15,20,width-30,band-30),size=round(30*scale),minimum=round(24*scale))
+        try:lettering(draw,clean_text(dialogue),(caption_left+15,20,width-30,band-30),size=caption_font((width,height)),minimum=20)
         except ValueError:
             if not draft:raise
             lettering(draw,'TEXT PRÜFEN',(caption_left+15,20,width-30,band-30),size=24,minimum=18)
@@ -212,7 +227,7 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size
         draw.rounded_rectangle((caption_left, 10, width-15, band-20), radius=35, fill='white', outline='black', width=3)
         draw.polygon([(width-165, band-21), (width-120, band-21), (width-125, band+8)], fill='white', outline='black', width=3)
         draw.line((width-161, band-21, width-125, band-21), fill='white', width=5)
-        try:lettering(draw,clean_text(dialogue),(caption_left+20,20,width-35,band-30))
+        try:lettering(draw,clean_text(dialogue),(caption_left+20,20,width-35,band-30),size=caption_font((width,height)),minimum=20)
         except ValueError:
             if not draft:raise
             lettering(draw,'TEXT PRÜFEN',(caption_left+20,20,width-35,band-30),size=24,minimum=18)

@@ -52,9 +52,21 @@ class AdaptiveCanvasTests(unittest.TestCase):
             node=graphs[0][engine.node]['inputs'];planned=json.loads(node['bearbeiteter_plan'])['scenes']
             self.assertNotEqual(planned[0]['render_size'],planned[1]['render_size']);self.assertNotEqual(planned[0]['canvas_size'],planned[1]['canvas_size'])
 
+    def test_added_narrator_preserves_entire_art_instead_of_cropping_heads(self):
+        from PIL import ImageChops,ImageDraw,ImageOps
+        raw=Image.new('RGB',(1296,800),'#555555');draw=ImageDraw.Draw(raw)
+        draw.rectangle((0,0,1295,35),fill='red');draw.rectangle((0,765,1295,799),fill='blue')
+        size=(1088,672);caption='Ein Anflug';band=DESIGN.caption_band(caption,size)
+        self.assertEqual(band,80);self.assertEqual(DESIGN.caption_font(size),28)
+        tile=DESIGN.panel(raw,caption,4,[],canvas_size=size)
+        expected=ImageOps.contain(raw,(1076,672-band-12),Image.Resampling.LANCZOS)
+        left=6+(1076-expected.width)//2;top=band+6+(672-band-12-expected.height)//2
+        self.assertIsNone(ImageChops.difference(tile.crop((left,top,left+expected.width,top+expected.height)),expected).getbbox())
+        self.assertGreater(DESIGN.caption_band('Ein längerer Erzählertext. '*12,size),band)
+
     def test_long_text_in_thin_panel_is_rejected_instead_of_shrunk(self):
         size=sizes('four_strips')[0]
-        caption='Der Reiter kommt näher und spricht mit seinem Sohn. Beide hören aufmerksam zu und halten einen Moment inne, bevor sie antworten.'
+        caption=('Der Reiter kommt näher und spricht mit seinem Sohn. Beide hören aufmerksam zu und halten einen Moment inne, bevor sie antworten. ')*3
         DESIGN.panel(Image.new('RGB',(1024,704)),caption,1,[])
         with self.assertRaises(ValueError):DESIGN.panel(Image.new('RGB',(1024,704)),caption,1,[],canvas_size=size)
 

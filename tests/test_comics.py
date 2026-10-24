@@ -40,7 +40,7 @@ class ComicTests(unittest.TestCase):
         without_dialogue = design.panel(art, '', 1)
         self.assertEqual(with_dialogue.size, (768, 672))
         self.assertEqual(with_dialogue.getpixel((300, 50)), (255, 255, 255))
-        self.assertEqual(without_dialogue.getpixel((300, 50)), (255, 0, 0))
+        self.assertEqual(without_dialogue.getpixel((300, 300)), (255, 0, 0))
         with self.assertRaisesRegex(ValueError, 'zu lang'):
             design.panel(art, 'W'*500, 1)
 
@@ -72,7 +72,7 @@ class ComicTests(unittest.TestCase):
         with patch.object(design,'lettering',wraps=design.lettering) as draw:
             design.panel(art,'Ein neuer Morgen.',1,[{'speaker':'a'*32,'text':'Guten Morgen!'}],{'a'*32:'Ria'})
             calls={call.args[1]:call.kwargs for call in draw.call_args_list}
-            self.assertEqual(calls['Ein neuer Morgen.']['minimum'],24)
+            self.assertEqual(calls['Ein neuer Morgen.']['minimum'],20)
             self.assertEqual(calls['Guten Morgen!']['minimum'],22)
             self.assertNotIn('Ria',calls)
         with patch.object(design,'lettering',wraps=design.lettering) as draw:
