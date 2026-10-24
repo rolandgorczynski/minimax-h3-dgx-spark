@@ -68,15 +68,45 @@ def selected_sources(store,job):
     return image_sources(job,template)
 
 
+def compact_post(title,summary,url):
+    from source_generator import post_summary
+    budget=250-len(title)-len(url)-4
+    short=post_summary({'text':summary},budget) if summary and budget>=30 else ''
+    return '\n\n'.join(s for s in (title,short,url) if s)
+
+
+def save_post(store,job,value):
+    if not isinstance(value,dict) or set(value)!={'version','title','summary','source_url','short_text'}:raise ValueError('Titel, Zusammenfassung, Quellenlink, X-Text und Version senden.')
+    current=manifest(store,job)
+    if type(value['version']) is not int or value['version']!=current['post_version']:raise ValueError('Beitragstext wurde inzwischen geändert. Teilen-Dialog neu öffnen.')
+    result={}
+    for key,limit in [('title',200),('summary',1200),('source_url',2000),('short_text',4000)]:
+        if not isinstance(value[key],str) or len(value[key])>limit:raise ValueError(f'{key}: maximal {limit} Zeichen.')
+        result[key]=value[key].strip()
+    if not result['title']:raise ValueError('Beitragstitel eingeben.')
+    if result['source_url']:
+        url=urllib.parse.urlsplit(result['source_url'])
+        if url.scheme not in ('http','https') or not url.netloc or url.username or url.password:raise ValueError('Quellenlink als HTTP- oder HTTPS-Adresse ohne Zugangsdaten angeben.')
+    result['version']=current['post_version']+1;store.integration_set('comic-post-'+job['id'],result)
+    return manifest(store,job)
+
+
 def manifest(store,job):
     if job['status'] not in ('completed','needs_review','editing'):raise ValueError('Zuerst die Erzeugung abschließen.')
     sources=selected_sources(store,job);width=max(2,len(str(len(sources))));title='Comic'
     path=store.directory(job['id'])/'story.json'
     if path.exists():title=json.loads(path.read_text()).get('title',title)
     source=store.directory(job['id'])/'editorial-source.json'
-    summary=json.loads(source.read_text()).get('post_summary','') if source.exists() else ''
-    text=title+('\n\n'+summary if isinstance(summary,str) and summary.strip() else '')
-    return {'job_id':job['id'],'title':title,'targets':settings(store),'text':text,
+    data=json.loads(source.read_text()) if source.exists() else {}
+    provenance=data.get('source_provenance',{})
+    from source_generator import post_summary
+    summary=data.get('post_summary') or (post_summary(provenance) if isinstance(provenance,dict) else '')
+    url=provenance.get('url','') if isinstance(provenance,dict) else ''
+    if not isinstance(url,str) or not url.startswith(('https://','http://')):url=''
+    saved=store.integration_get('comic-post-'+job['id']) or {}
+    title=saved.get('title',title);summary=saved.get('summary',summary);url=saved.get('source_url',url)
+    text='\n\n'.join(s for s in (title,summary,url) if isinstance(s,str) and s.strip())
+    return {'job_id':job['id'],'title':title,'summary':summary,'source_url':url,'short_text':saved.get('short_text',compact_post(title,summary,url)),'post_version':saved.get('version',0),'targets':settings(store),'text':text,
             'images':[{'name':f'{i+1:0{width}}.png','label':(f'Seite {i+1}' if sources[i].startswith('pages/') else f'Kachel {i+1}') if len(sources)>1 else 'Comic',
                        'url':f'/jobs/{job["id"]}/share/images/{i+1:0{width}}.png'} for i,_ in enumerate(sources)],
             'download_url':f'/jobs/{job["id"]}/share/images.zip','published':False}

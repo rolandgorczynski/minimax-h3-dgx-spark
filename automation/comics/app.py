@@ -381,6 +381,17 @@ class Handler(BaseHTTPRequestHandler):
         if urlsplit(self.path).path.startswith('/source-tasks/'):
             return self.source_action()
         parts=urlsplit(self.path).path.strip('/').split('/')
+        if len(parts)==4 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2:] == ['share','post']:
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=40000:raise ValueError('Beitragstext zu groß.')
+                job=self.service.store.get(parts[1])
+                if not job:return self.reply(404,{'error':'Ausgabe nicht gefunden.'})
+                value=json.loads(self.rfile.read(size))
+                with self.service.stories.lock:result=sharing.save_post(self.service.store,job,value)
+                return self.reply(200,result)
+            except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='reader':
             if not self.authorized():return
             try:

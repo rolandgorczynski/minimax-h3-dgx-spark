@@ -55,6 +55,23 @@ class SharingTests(unittest.TestCase):
             with zipfile.ZipFile(io.BytesIO(bundle(store,job))) as archive:
                 self.assertIn('Ein Vater kehrt heim',archive.read('Beitragstext.txt').decode())
 
+    def test_post_edits_are_separate_for_each_output_and_do_not_change_comic(self):
+        from sharing import save_post
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);ident=uuid.uuid4().hex;store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
+            store.write(ident,'panels/01_panel.png',png());store.write(ident,'story.json',{'title':'Heimkehr','story':'Die fertige Geschichte.'})
+            store.write(ident,'editorial-source.json',{'source_provenance':{'text':'Ein Vater kehrt heim. Er trifft seinen Sohn.','url':'https://example.org/original'}})
+            store.stage(ident,'finished',status='needs_review',artifacts=[{'name':'panels/01_panel.png'}]);job=store.get(ident)
+            before={str(p):p.read_bytes() for p in store.directory(ident).rglob('*') if p.is_file()}
+            initial=manifest(store,job);self.assertTrue(initial['summary']);self.assertEqual(initial['source_url'],'https://example.org/original')
+            value={'version':0,'title':'Mein Post-Titel','summary':'Meine Zusammenfassung zur finalen Fassung.','source_url':'https://example.org/beleg','short_text':'Meine eigene X-Fassung.'}
+            edited=save_post(store,job,value);self.assertEqual(edited['post_version'],1);self.assertEqual(edited['short_text'],value['short_text']);self.assertEqual(edited['title'],value['title'])
+            self.assertEqual(manifest(Store(root),job)['summary'],value['summary'])
+            self.assertEqual(before,{str(p):p.read_bytes() for p in store.directory(ident).rglob('*') if p.is_file()})
+            with zipfile.ZipFile(io.BytesIO(bundle(store,job))) as archive:self.assertIn(value['source_url'],archive.read('Beitragstext.txt').decode())
+            with self.assertRaisesRegex(ValueError,'inzwischen'):save_post(store,job,value)
+            with self.assertRaisesRegex(ValueError,'HTTP'):save_post(store,job,{**value,'version':1,'source_url':'javascript:alert(1)'})
+
     def test_authenticated_download_does_not_start_or_change_jobs(self):
         with tempfile.TemporaryDirectory() as root,patch.dict(os.environ,{'DATA_DIR':root,'WORKFLOW_TEMPLATE':str(Path(__file__).resolve().parents[1]/'examples/comics/workflows/04_Comic_Automat_9B.json'),'LLM_BACKEND':'comfyui','API_TOKEN':'test'}):
             service=Service();ident=uuid.uuid4().hex
@@ -76,6 +93,11 @@ class SharingTests(unittest.TestCase):
                     self.assertEqual(set(archive.namelist()),{'01.png','Beitragstext.txt','Anleitung.txt'})
                     self.assertNotIn(b'PRIVATE',archive.read('01.png'))
                 with call(info['images'][0]['url']) as r:self.assertTrue(r.read().startswith(b'\x89PNG'))
+                post={'version':0,'title':'Titel für meinen Post','summary':'Zusammenfassung der fertigen Ausgabe.','source_url':'https://example.org/quelle','short_text':'Meine X-Fassung.'}
+                with self.assertRaises(urllib.error.HTTPError) as missing:call('/jobs/'+ident+'/share/post',auth=False,data=post)
+                self.assertEqual(missing.exception.code,401)
+                with call('/jobs/'+ident+'/share/post',data=post) as response:self.assertEqual(json.load(response)['title'],post['title'])
+                with call('/jobs/'+ident+'/share') as response:self.assertEqual(json.load(response)['summary'],post['summary'])
                 self.assertEqual(service.store.get(ident),before);self.assertEqual(len(service.store.list()),1)
             finally:server.shutdown();server.server_close();thread.join()
 
