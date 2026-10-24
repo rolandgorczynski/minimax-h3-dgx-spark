@@ -71,7 +71,7 @@ def prepare(engine,stories,job):
         'Keine neue Geschichte, keine zusätzlichen Ereignisse, kein erfundenes Ende, keine erfundenen Zitate. '
         'Der vorhandene Schluss darf offen bleiben. Den Anfang und den Schluss abdecken. Das ist eine Vorplanung, die der Nutzer prüft. '
         'Vorgegebene Vorgeschichte, Persönlichkeit, Motivation und Gesinnung beachten, soweit sie dem Ausgangstext nicht widersprechen. Nicht festgelegte Eigenschaften offen lassen. '
-        'Szenen konkret und bildlich unterschiedlich beschreiben. Veränderungen von Haarlänge und Kleidung zeitlich korrekt abbilden. '
+        'Szenen konkret und bildlich unterschiedlich beschreiben. Wer reitend ankommt, bleibt ohne ausdrücklich beschriebenes Absteigen im Sattel. Reittier, Haltung, Waffen, Gegenstände und Verletzungen pro Kachel eindeutig beschreiben. Veränderungen von Haarlänge und Kleidung zeitlich korrekt abbilden. '
         'Pro Szene genau die sichtbaren Figuren-IDs angeben. Erzählertext nur für notwendige Handlung, Ort, Zeit oder Übergänge, höchstens 130 Zeichen. '
         'Eine Szene darf ganz ohne Erzählerkasten auskommen. Keine Gespräche im Erzählerkasten wiederholen oder indirekt nacherzählen. '
         'Die QUELLABSCHNITTE legen die Reihenfolge fest: Ergebnis 1 gehört zu Abschnitt 1, Ergebnis 2 zu Abschnitt 2 und so weiter. '
@@ -112,7 +112,9 @@ def prepare(engine,stories,job):
     for scene in scenes:
         initial_states.update(scene.get('character_states',{}))
         scene['character_states']={k:v for k,v in initial_states.items() if k in scene.get('characters',[])}
-    payload={**source,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
+    from continuity import enforce
+    scenes,continuity_ledger=enforce(engine,job,scenes,cast,article,source.get('series',{}).get('initial_continuity_state',{}),[g['source_excerpt'] for g in locked],tag='article')
+    payload={**source,'continuity_ledger':continuity_ledger,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
     store.stage(job,'article_save')
     store.write(job,'planned-storyboard.json',payload)
     # A later user edit must never be overwritten by a delayed model response.

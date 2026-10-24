@@ -398,6 +398,8 @@ class Engine:
         for scene,text in zip(plan['scenes'],translated):
             scene['dialog']=text['dialog']
             for bubble,words in zip(scene.get('bubbles',[]),text['bubbles']):bubble['text']=words
+        from continuity import enforce
+        plan['scenes'],reports['continuity']=enforce(self,job,plan['scenes'],cast,doc['story'],tag='automatic')
         revisions={};self.store.write(job,'scenes.json',plan)
         if not self.preflight(plan,cast)['valid']:
             warnings.append('Beschriftung passt noch nicht; Bilderzeugung vor teurem Modelllauf angehalten.')

@@ -27,6 +27,7 @@ def example():
 class FakeEngine:
     def __init__(self,store):self.store=store;self.sizes=[];self.reviewed=[];self.languages=[]
     def json_call(self,ident,step,prompt,validator,tokens):
+        if '-continuity-events-' in step:return validator({'events':[]})
         if step=='source-outline':return validator({'characters':[{'name':'Ria','description':'Junge Frau mit kurzen schwarzen Haaren.','outfit':'Gelber Mantel.','backstory':'Sie sucht einen neuen Weg.'}],'arc':'Anfang, Reise, Heimkehr.','mood':'Warm und ruhig.'})
         if step.startswith('source-review'):
             if 'TEXTGRUNDLAGE:' not in prompt:raise AssertionError('Die Logikprüfung braucht die Originalgrundlage, nicht nur den erzeugten Bogen.')

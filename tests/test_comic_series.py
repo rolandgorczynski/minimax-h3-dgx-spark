@@ -27,6 +27,15 @@ def options(stories,parent,**changes):
     return {**series.preview(stories,{'base_kind':'story','base_id':parent['id']})['settings'],**changes}
 
 class SeriesTests(unittest.TestCase):
+    def test_direct_episode_inherits_physical_states_but_new_universe_story_does_not(self):
+        with tempfile.TemporaryDirectory() as root:
+            stories=Stories(Store(root));parent=original(stories);parent['payload']['scenes'][-1]['continuity_state']={FIGURE:{'movement':'beritten','held':'Zügel'}}
+            parent=stories.save(parent,parent['id'],parent['version'])
+            direct=series.create(stories,options(stories,parent,title='Direkte Folge',mode='direct'))
+            self.assertEqual(direct['payload']['series']['initial_continuity_state'][FIGURE]['movement'],'beritten')
+            later=series.create(stories,options(stories,parent,title='Neue Handlung',mode='universe',episode=3))
+            self.assertNotIn('initial_continuity_state',later['payload']['series'])
+
     def test_new_episode_keeps_id_images_and_last_state_without_mutating_original(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store);parent=original(stories);before=copy.deepcopy(parent)
@@ -70,7 +79,8 @@ class SeriesTests(unittest.TestCase):
                 validate_scenes=Engine.validate_scenes
                 def __init__(self):self.store=store
                 def json_call(self,ident,step,prompt,validator,tokens):
-                    prompts.append(prompt)
+                    if '-continuity-events-' not in step:prompts.append(prompt)
+                    if '-continuity-events-' in step:return validator({'events':[]})
                     if step=='article-people':return validator({'characters':[{'name':'Ria','description':'Andere Beschreibung, darf nicht übernommen werden.','outfit':'Andere Kleidung.'}]})
                     return validator([{'story':'Ria geht durch den Flur.','dialog':'','characters':[FIGURE],'bubbles':[]},{'story':'Ria schaut in die Bibliothek.','dialog':'','characters':[FIGURE],'bubbles':[]}])
                 def preflight(self,*args):return {'valid':True,'issues':[]}

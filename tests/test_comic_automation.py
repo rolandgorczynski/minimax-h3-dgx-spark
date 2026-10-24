@@ -37,6 +37,7 @@ class FakeComfy:
         self.calls.append(('run',step))
         if '91' in graph:self.prompts.append(graph['91']['inputs']['auftrag'])
         image=lambda name:{'filename':name,'subfolder':'comic-automation/'+job,'type':'temp'}
+        if '-continuity-events-' in step:return {'91':{'assistant_text':[json.dumps({'events':[]})]}}
         if step.startswith('portrait-'):return {'80':{'images':[image(step+'.png')]}}
         if step=='scene-plan':
             prompt=graph['91']['inputs']['auftrag'];people=json.loads(prompt.split('CAST:',1)[1].split('\nSTORY:',1)[0])

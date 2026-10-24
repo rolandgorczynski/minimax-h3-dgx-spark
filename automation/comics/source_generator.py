@@ -58,7 +58,8 @@ def emit(doc):
         for j,b in enumerate(s.get('bubbles',[])):
             lines += [f'Dialog {j+1}:','  Sprecher: '+names[b['speaker']],'  Sprechweise: '+{'normal':'normal','shout':'schreiend','whisper':'flüsternd'}.get(b.get('expression'),'normal'),'  Sichtbarkeit: '+('im Bild' if b['speaker'] in s['characters'] else 'außerhalb des Bildes'),'  Text: „'+b['text']+'“']
         if not s.get('bubbles'):lines+=['Dialoge: keine']
-        lines+=['Kontinuität / Änderung: '+(s.get('continuity') or 'keine')]
+        physical='' if s.get('continuity_state') else '; '.join(names[k]+': '+v for k,v in s.get('character_states',{}).items() if k in s['characters'])
+        lines+=['Kontinuität / Änderung: '+('; '.join(x for x in (s.get('continuity') or '',physical) if x) or 'keine')]
     return '\n'.join(lines)+'\n'
 
 def fields(text):
@@ -169,7 +170,9 @@ def run(engine,ident):
             states.update(scene.get('character_states',{}))
             scene['character_states']={k:v for k,v in states.items() if k in scene['characters']}
         scenes.extend(chunk)
-    doc={'title':src['title'],'author':data['author'],'style':req['stil'],'mood':outline.get('mood',''),'characters':cast,'scenes':scenes}
+    from continuity import enforce
+    scenes,continuity_ledger=enforce(engine,ident,scenes,cast,src['text'],tag='source')
+    doc={'continuity_ledger':continuity_ledger,'title':src['title'],'author':data['author'],'style':req['stil'],'mood':outline.get('mood',''),'characters':cast,'scenes':scenes}
     script=emit(doc);parse(script,req['stil'])
     store.write(ident,'source-script.txt',script.encode('utf-8'));store.write(ident,'source-draft.json',doc)
     store.stage(ident,'source_check');fit=engine.preflight({'scenes':scenes},cast)
@@ -180,9 +183,11 @@ def adopt(stories,store,ident,value):
     job=store.get(ident)
     if not job or not job.get('source_mode') or job['status']!='completed':raise Conflict('Zuerst ein fertiges Quellenskript auswählen.')
     doc=parse(value.get('script'),job['request']['stil']);original=json.loads((store.directory(ident)/'source-draft.json').read_text());old_names={c['id']:c['name'] for c in original['characters']};new_ids={c['name']:c['id'] for c in doc['characters']}
+    original_script=parse(emit(original),job['request']['stil'])
     for i,scene in enumerate(doc['scenes']):
-        if i<len(original['scenes']) and scene.get('continuity')==original['scenes'][i].get('continuity','keine'):
+        if i<len(original['scenes']) and scene.get('continuity')==original_script['scenes'][i].get('continuity','keine'):
             scene['character_states']={new_ids[old_names[k]]:v for k,v in original['scenes'][i].get('character_states',{}).items() if old_names.get(k) in new_ids}
+            scene['continuity_state']={new_ids[old_names[k]]:v for k,v in original['scenes'][i].get('continuity_state',{}).items() if old_names.get(k) in new_ids}
         context='; '.join(x for x in [scene.get('setting'),scene.get('continuity') if scene.get('continuity','').casefold()!='keine' else ''] if x)
         if context:scene['story']=scene['story']+'\n'+context
         visual='; '.join(x for x in [doc.get('style_description'),doc.get('mood')] if x)

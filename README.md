@@ -286,3 +286,6 @@ Comic-Serien: [Fortsetzungen auf Basis vorhandener Geschichten](docs/Comic_Serie
 [Geführte Leseansicht, gemeinsame Buchseiten und Kindle-Create-Seitenpaket](docs/Comic_Gefuehrt_Lesen.md).
 
 Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Comic_Experimente.md).
+
+
+[Logische Skriptführung: körperliche Zustände und Übergänge](docs/Comic_Skript_Kontinuitaet.md).

@@ -17,6 +17,7 @@ class FakeEngine:
     validate_scenes=Engine.validate_scenes
     def json_call(self,job,step,prompt,validator,tokens):
         self.calls.append(step)
+        if '-continuity-events-' in step:return validator({'events':[]})
         if step=='article-people':return validator({'characters':[{'name':'Ria','description':'Erwachsene Person, braune Augen. Frisur ändert sich je Szene.','outfit':'Friseurumhang'}]})
         import json
         people=json.loads(prompt.split('FIGUREN:\n')[1].split('\nDIALOGLISTE:')[0])
@@ -34,7 +35,7 @@ class ArticlePlanTests(unittest.TestCase):
             result=prepare(engine,stories,job['id'])
             self.assertEqual(result['planning_issues'][0]['panel'],1)
             self.assertEqual(len(stories.get(story['id'])['payload']['scenes']),2)
-            self.assertEqual(engine.calls,['article-people','article-scenes','article-scenes-fit'])
+            self.assertEqual(engine.calls,['article-people','article-scenes','article-scenes-fit','article-continuity-events-1'])
 
     def test_prepare_without_rewriting_or_rendering(self):
         with tempfile.TemporaryDirectory() as root:
@@ -51,7 +52,7 @@ class ArticlePlanTests(unittest.TestCase):
             self.assertEqual(saved['payload']['scenes'][0]['dialog'],'')
             self.assertEqual(saved['payload']['dialogue_ledger'][0]['speaker'],saved['payload']['characters'][0]['id'])
             self.assertEqual(saved['payload']['planned_article'],story['payload']['article'])
-            self.assertEqual(result['status'],'completed');self.assertEqual(engine.calls,['article-people','article-scenes'])
+            self.assertEqual(result['status'],'completed');self.assertEqual(engine.calls,['article-people','article-scenes','article-continuity-events-1'])
 
     def test_late_result_cannot_overwrite_user_edit(self):
         with tempfile.TemporaryDirectory() as root:

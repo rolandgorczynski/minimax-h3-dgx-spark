@@ -49,7 +49,10 @@ def snapshot(stories,kind,ident):
     known={c['id'] for c in p['characters']}
     for scene in p.get('scenes',[]):states.update(scene.get('character_states',{}))
     states={k:v for k,v in states.items() if k in known}
-    return {'kind':kind,'id':ident,'version':version,'title':title,'payload':p,'states':states,'root_id':ident if kind=='story' else job.get('story_id') or ident}
+    physical=copy.deepcopy(p.get('series',{}).get('initial_continuity_state',{}))
+    for scene in p.get('scenes',[]):physical.update(scene.get('continuity_state',{}))
+    physical={k:v for k,v in physical.items() if k in known}
+    return {'kind':kind,'id':ident,'version':version,'title':title,'payload':p,'states':states,'physical_states':physical,'root_id':ident if kind=='story' else job.get('story_id') or ident}
 
 
 def settings(stories,base):
@@ -86,7 +89,7 @@ def context(p):
     return ('SERIENKONTEXT (Hintergrund, nicht als neue Handlung nacherzählen):\n'+json.dumps({
         'serie':meta['name'],'folge':meta['episode'],'anschluss':'Direkte Fortsetzung' if meta['mode']=='direct' else 'Neue Handlung im selben Universum',
         'basierend_auf':meta['based_on']['title'],'feste_fakten':meta['canon'],'offene_faeden':meta['open_threads'],
-        'bisherige_folge':meta['previous_article'],'letzte_szenen':meta['previous_ending'],'letzte_figuren_zustaende':meta['initial_states']},ensure_ascii=False)+
+        'bisherige_folge':meta['previous_article'],'letzte_szenen':meta['previous_ending'],'letzte_figuren_zustaende':meta['initial_states'],'koerperliche_zustaende':meta.get('initial_continuity_state',{})},ensure_ascii=False)+
         '\nIdentitäten, Aussehen und bestehende Referenzen erhalten. Neue Ereignisse stehen nur im NEUEN Ausgangstext. '
         'Abgeschlossene Ereignisse nicht neu beginnen, verstorbene Figuren nicht unbegründet zurückholen. '
         'Explizite Veränderungen im neuen Text haben Vorrang vor dem letzten Zustand.\n')
@@ -116,6 +119,7 @@ def create(stories,value):
     meta={'id':root,'name':values['name'],'episode':values['episode'],'mode':values['mode'],
           'based_on':{k:base[k] for k in ('kind','id','version','title')},'canon':values['canon'],'open_threads':values['open_threads'],
           'previous_article':p.get('article',''),'previous_ending':copy.deepcopy(p.get('scenes',[])[-3:]),'initial_states':base['states']}
+    if values['mode']=='direct':meta['initial_continuity_state']=copy.deepcopy(base.get('physical_states',{}))
     inherited={k:copy.deepcopy(p[k]) for k in ('page_template','characters','library_ids','signature','narrator_badge','narrator_character_id','book_author','source_provenance') if k in p}
     payload={**inherited,'style':values['style'],'seed':p.get('seed',1984),'article':values['article'],'scenes':[],'panel_count':values['count'],'planned_article':'','planned_count':0,'revisions':{},'series':meta}
     return stories.save({'mode':'editorial','name':values['title'],'payload':payload})
@@ -132,5 +136,8 @@ def validate(meta):
     if not isinstance(based,dict) or based.get('kind') not in ('story','job') or not isinstance(based.get('id'),str) or not ID.fullmatch(based['id']) or not isinstance(based.get('title'),str):raise ValueError('Ungültige Basis der Serienfolge.')
     states=meta.get('initial_states',{})
     if not isinstance(states,dict) or any(not isinstance(k,str) or not ID.fullmatch(k) or not isinstance(v,str) or len(v)>1000 for k,v in states.items()):raise ValueError('Ungültige Figuren-Zustände der Serie.')
+    if not isinstance(meta.get('initial_continuity_state',{}),dict) or any(not isinstance(k,str) or not ID.fullmatch(k) for k in meta.get('initial_continuity_state',{})):raise ValueError('Ungültige Figuren-ID in physischen Anfangszuständen.')
+    from continuity import check_initial
+    check_initial(meta.get('initial_continuity_state',{}),[{'id':i} for i in set(states)|set(meta.get('initial_continuity_state',{}))])
     ending=meta.get('previous_ending',[])
     if not isinstance(ending,list) or len(ending)>3 or any(not isinstance(s,dict) for s in ending):raise ValueError('Ungültiger Schluss der vorigen Folge.')

@@ -940,3 +940,14 @@ mit vollständigen Buchseiten sowie hochauflösenden Comic-PNGs. Die KPF-Datei
 wird anschließend in Kindle Create erzeugt; kein automatischer Amazon-Upload.
 
 [Bedienung, Grenzen und Schnittstellen](../../docs/Comic_Gefuehrt_Lesen.md).
+
+
+## Körperliche Kontinuität bei der Skripterstellung
+
+Artikelplanung, Quellenskripte und automatische Geschichten führen Reiten,
+Körperhaltung, Ort, Gegenstände, Verletzungen, Lebenszustand und Kleidung fort,
+bis die Textgrundlage eine Änderung nennt. Vor dem Zeichnen werden die
+Bildbeschreibungen daran angepasst und auf Widersprüche geprüft. Dialoge und
+Erzählertexte bleiben dabei erhalten. Vorhandene Ausgaben werden nicht verändert.
+
+[Bedienung, Grenzen und Zustandsprotokoll](../../docs/Comic_Skript_Kontinuitaet.md).

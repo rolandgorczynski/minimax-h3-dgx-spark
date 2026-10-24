@@ -58,6 +58,7 @@ class LargeComicTests(unittest.TestCase):
                 validate_scenes=Engine.validate_scenes
                 def __init__(self):self.store=store
                 def json_call(self,ident,step,prompt,validator,tokens):
+                    if '-continuity-events-' in step:return validator({'events':[]})
                     if step=='article-people':return validator({'characters':[{'name':'Ria','description':'Erwachsene Frau.','outfit':'Jacke'}]})
                     group=json.JSONDecoder().raw_decode(prompt.split('QUELLABSCHNITTE:')[1].lstrip())[0];sizes.append(len(group))
                     people=json.JSONDecoder().raw_decode(prompt.split('FIGUREN:\n')[1].lstrip())[0]
