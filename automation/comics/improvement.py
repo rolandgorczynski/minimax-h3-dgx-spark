@@ -121,7 +121,7 @@ def improve(engine,job):
             store.write(job,f'checkpoints/retained-panels/{panel:02}_art.png',path.read_bytes());continue
         engine.client.request('POST','/dgx-comics/automation/retain-panel',{'session':job,'panel':panel-1,'png':base64.b64encode(path.read_bytes()).decode()})
     from editorial import render,export
-    render(store,engine.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,job,worker=True)
-    return {'status':'needs_review','artifacts':export(store,job),'warnings':store.get(job).get('lettering_warnings',[])+[
+    render(store,engine.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,job,worker=True,review_engine=engine)
+    return {'status':'needs_review','artifacts':export(store,job),'warnings':store.get(job).get('lettering_warnings',[])+store.get(job).get('equipment_warnings',[])+[
         f'Bewertung auf denselben Comic angewendet: {len(report["rerendered_panels"])} Bilder neu gezeichnet, {len(report["retained_art_panels"])} Originalillustrationen übernommen.',
         f'{len(report["duplicate_captions_removed"])} doppelte Erzählertexte entfernt. Neue Ausgabe bitte prüfen.']}

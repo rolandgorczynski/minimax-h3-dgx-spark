@@ -120,4 +120,6 @@ def run(engine,ident):
         if i!=index:store.write(ident,f'panels/{i+1:02}_panel.png',(root/f'checkpoints/panel-originals/{i+1:02}_panel.png').read_bytes())
     store.write(ident,'panel-correction-report.json',{'parent_job':snapshot['parent_job'],'correction':snapshot['correction'],'rerendered_panels':[index+1],
         'retained_art_panels':[i+1 for i in range(len(source['scenes'])) if i!=index],'other_panel_files_identical':True,'before':before,'after':scene,'visual_review':'pending'})
-    return {'status':'needs_review','artifacts':export(store,ident),'warnings':[f'Nur Kachel {index+1} neu gezeichnet. Andere Kacheln unverändert übernommen. Korrektur und Blasenpositionen bitte prüfen.']}
+    from equipment_review import audit
+    audit(engine,ident,cast,source['scenes'])
+    return {'status':'needs_review','artifacts':export(store,ident),'warnings':store.get(ident).get('equipment_warnings',[])+[f'Nur Kachel {index+1} neu gezeichnet. Andere Kacheln unverändert übernommen. Korrektur und Blasenpositionen bitte prüfen.']}

@@ -104,9 +104,9 @@ class Service:
                 elif job.get('editorial_mode'):
                     from editorial import render
                     source=json.loads((self.store.directory(ident)/'editorial-source.json').read_text())
-                    render(self.store,self.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,ident,worker=True)
+                    render(self.store,self.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,ident,worker=True,review_engine=self.engine)
                     result={'status':'needs_review','artifacts':self.store.get(ident)['artifacts'],
-                            'warnings':self.store.get(ident).get('lettering_warnings',[])+['Bilder und Texte vor Veröffentlichung prüfen.']}
+                            'warnings':self.store.get(ident).get('lettering_warnings',[])+self.store.get(ident).get('equipment_warnings',[])+['Bilder und Texte vor Veröffentlichung prüfen.']}
                 else:
                     self.capabilities()
                     result=self.engine.execute(ident)

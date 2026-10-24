@@ -12,6 +12,7 @@ from PIL.PngImagePlugin import PngInfo
 import torch
 import comfy.utils
 from .design import assemble, assemble_preview, panel, parse_scenes
+from .equipment import instruction as equipment_instruction
 
 WEB_DIRECTORY = './web'
 DEFAULT_SCENES = [
@@ -114,6 +115,7 @@ class DGXSysopComic:
                 *identity_rules, stil, 'Scene: '+scene['story'],
                 *([character_prompt(c,scene.get('character_states',{}).get(c['id'],'')) for c in active]),
                 *reference_instructions,
+                *[equipment_instruction(c) for c in active if equipment_instruction(c)],
                 *(['The saved character profiles and current clothing define the assigned subjects.'] if active else []),
                 'One scene only, no grid, no lettering, no words, no speech bubbles, no captions, no watermark.'])
             if scene.get('render_size'):text+='\nFrame this scene for an illustration of '+str(scene['render_size'][0])+' by '+str(scene['render_size'][1])+' pixels. Keep all assigned subjects and important objects inside the frame.'

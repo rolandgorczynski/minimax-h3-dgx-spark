@@ -25,7 +25,7 @@ def export(store,job):
     return artifacts
 
 
-def render(store,client,template,payload,job,worker=False):
+def render(store,client,template,payload,job,worker=False,review_engine=None):
     req=validate_request({'kacheln':len(payload['scenes']),'stil':payload.get('style','Großstadt-Noir (düster)'),
         'seed':payload.get('seed',1984),'max_korrekturrunden':0,'figuren_ids':payload.get('library_ids',[]),'signatur':payload.get('signature','')})
     previous=store.get(job)
@@ -96,6 +96,9 @@ def render(store,client,template,payload,job,worker=False):
     if worker and (output.get('local_layout') or payload.get('page_template','standard')!='standard'):
         from lettering import LAYOUT,DESIGN
         LAYOUT.render_layout(store.directory(job),payload,engine.workflow(req,doc,cast,plan,revisions),DESIGN)
+    if review_engine is not None:
+        from equipment_review import audit
+        audit(review_engine,job,cast,scenes)
     store.write(job,'report.json',{'editorial_mode':True,'text_rewritten_by_local_llm':False,'fiction':False,
         'source':'Vom Nutzer bereitgestellter Artikel','story_language':'de','lettering':fit,'lettering_layout':lettering_report,'notes':payload.get('notes',[]),'visual_review':'pending'})
     store.stage(job,'editorial_review',artifacts=export(store,job))
@@ -107,6 +110,7 @@ def finalize(store,client,job,review):
     if not doc or doc['status']!='editing':raise ValueError('Kein offener Redaktionsauftrag.')
     if not any(a['name']=='comic.png' for a in doc['artifacts']):raise ValueError('Comic fehlt.')
     report_path=store.directory(job)/'report.json';report=json.loads(report_path.read_text())
+    if doc.get('equipment_unresolved'):raise ValueError('Zusätzliche Schwerter erkannt. Erst die Bilder korrigieren.')
     if doc.get('lettering_unresolved'):raise ValueError('Entwurf: Zuerst die Beschriftung korrigieren.')
     report['visual_review']=review;store.write(job,'report.json',report)
     store.stage(job,'finished',status='completed',artifacts=export(store,job),cleanup_pending=True)
@@ -121,7 +125,14 @@ def main():
     if args.finalize:finalize(store,client,job,args.review)
     else:
         if not args.source:parser.error('Storyboard-JSON erforderlich.')
-        render(store,client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),json.loads(Path(args.source).read_text()),job)
+        template=os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json')
+        reviewer=Engine(store,client,template,os.getenv('TEXT_MODEL','qwen3vl_8b_fp8_scaled.safetensors'),os.getenv('VISION_MODEL','qwen3vl_8b_fp8_scaled.safetensors'))
+        backend=os.getenv('LLM_BACKEND','comfyui')
+        if backend not in ('comfyui','ollama'):raise ValueError('Nur lokale Modelle erlaubt.')
+        if backend=='ollama':
+            from local_llm import LocalOllama
+            reviewer.llm=LocalOllama(os.getenv('OLLAMA_URL','http://host.docker.internal:11434'),store,os.getenv('OLLAMA_TEXT_MODEL','gemma3:27b'),os.getenv('OLLAMA_CRITIC_MODEL','qwen3.6:35b-a3b'),os.getenv('OLLAMA_VISION_MODEL','qwen3.6:35b-a3b'))
+        render(store,client,template,json.loads(Path(args.source).read_text()),job,review_engine=reviewer)
     print(json.dumps({'id':job,'status':store.get(job)['status']},ensure_ascii=False))
 
 

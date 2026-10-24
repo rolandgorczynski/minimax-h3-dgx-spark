@@ -212,6 +212,6 @@ def run(engine,ident):
     source,report=plan(engine,ident)
     engine.store.stage(ident,'experiment_rendering')
     from editorial import render,export
-    render(engine.store,engine.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,ident,worker=True)
+    render(engine.store,engine.client,os.getenv('WORKFLOW_TEMPLATE','/app/workflow_template.json'),source,ident,worker=True,review_engine=engine)
     root=engine.store.directory(ident);metadata=json.loads((root/'report.json').read_text());metadata.update(experimental=True,fiction=True,text_rewritten_by_local_llm=report['controls']['mode']=='rewrite',source='Experimentelle Variante der Ausgabe '+report['parent_job']);engine.store.write(ident,'report.json',metadata)
-    return {'status':'needs_review','artifacts':export(engine.store,ident),'warnings':engine.store.get(ident).get('lettering_warnings',[])+['Experimentelle, fiktionale Variante. Das Original und seine gespeicherte Geschichte wurden nicht verändert. Neue Dramaturgie, Bilder und Sprechblasen bitte prüfen.']+report['notes']}
+    return {'status':'needs_review','artifacts':export(engine.store,ident),'warnings':engine.store.get(ident).get('lettering_warnings',[])+engine.store.get(ident).get('equipment_warnings',[])+['Experimentelle, fiktionale Variante. Das Original und seine gespeicherte Geschichte wurden nicht verändert. Neue Dramaturgie, Bilder und Sprechblasen bitte prüfen.']+report['notes']}

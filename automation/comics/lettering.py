@@ -152,11 +152,11 @@ def enqueue(store,job,value):
     ident=uuid.uuid4().hex;store.create(ident,copy.deepcopy(job['request']),initial_status='editing')
     root=store.directory(ident);parent=store.directory(job['id'])
     try:
-        for name in ('characters.json','workflow.json','story.json'):
+        for name in ('characters.json','workflow.json','story.json','equipment-report.json'):
             if (parent/name).exists():store.write(ident,name,(parent/name).read_bytes())
         for i in range(len(patches)):store.write(ident,f'panels/{i+1:02}_art.png',(parent/f'panels/{i+1:02}_art.png').read_bytes())
         store.write(ident,'editorial-source.json',original)
-        store.update(ident,lettering_unresolved=False,lettering_warnings=[],lettering_mode=True,parent_job=job['id'],editorial_mode=True,story_id=job.get('story_id'),story_version=job.get('story_version'),story_title=original['title'])
+        store.update(ident,equipment_unresolved=bool(job.get('equipment_unresolved')),equipment_warnings=job.get('equipment_warnings',[]),equipment_review_status=job.get('equipment_review_status'),lettering_unresolved=False,lettering_warnings=[],lettering_mode=True,parent_job=job['id'],editorial_mode=True,story_id=job.get('story_id'),story_version=job.get('story_version'),story_title=original['title'])
         store.stage(ident,'queued',status='queued')
     except Exception:
         store.stage(ident,'failed',status='failed',error='Beschriftung konnte nicht vorbereitet werden.');raise
@@ -187,4 +187,4 @@ def render(store,job):
     store.write(job,'README.txt',((root/'README.txt').read_text()+'\nDiese Fassung setzt ausschließlich die Beschriftung neu. Originalzeichnungen sind bytegleich übernommen. Kein Modellaufruf und keine neue Bildgenerierung.\n').encode())
     store.write(job,'scenes.json',{'scenes':value['scenes']})
     store.write(job,'lettering-report.json',{'image_generation':False,'model_calls':0,'original_art_preserved':True,'visual_review':'pending'})
-    return {'status':'needs_review','artifacts':export(store,job),'warnings':['Nur Beschriftung geändert. Zeichnungen unverändert übernommen. Ergebnis vor Veröffentlichung prüfen.']}
+    return {'status':'needs_review','artifacts':export(store,job),'warnings':store.get(job).get('equipment_warnings',[])+['Nur Beschriftung geändert. Zeichnungen unverändert übernommen. Ergebnis vor Veröffentlichung prüfen.']}

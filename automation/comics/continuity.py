@@ -2,19 +2,22 @@
 import copy
 import json
 import re
+from lettering import core
+EQUIPMENT=core('equipment')
 
-FIELDS={'movement','mount','posture','location','held','injury','life','clothing'}
-LABELS={'movement':'Fortbewegung','mount':'Reittier / Fahrzeug','posture':'Körperhaltung','location':'Ort','held':'Mitgeführte Gegenstände','injury':'Verletzungen','life':'Lebenszustand','clothing':'Kleidung'}
+FIELDS={'movement','mount','posture','location','held','injury','life','clothing','sword_position'}
+LABELS={'movement':'Fortbewegung','mount':'Reittier / Fahrzeug','posture':'Körperhaltung','location':'Ort','held':'Mitgeführte Gegenstände','injury':'Verletzungen','life':'Lebenszustand','clothing':'Kleidung','sword_position':'Verbindlicher Schwertzustand'}
 MOVEMENT={'beritten','zu Fuß','in einem Fahrzeug','fliegend','schwimmend'}
 RULES=('Zustände gelten weiter, auch bei Schweigen oder vorübergehender Abwesenheit. Fehlende Angabe bedeutet KEINE Änderung. '
        'Wer beritten ankommt, bleibt beim Gespräch im Sattel, solange die Quelle kein Absteigen nennt. '
        'Gegenüberstehen ist eine räumliche Beziehung und kein Beleg für Absteigen. Nicht eigenständig Übergangshandlungen erfinden. '
        'Bei Gesprächen zwischen Reiter und Fußgänger den Höhenunterschied nennen. '
        'Waffen, Gegenstände, Verletzungen, Lebenszustand, Kleidung und Ort ebenso zeitlich korrekt fortführen. '
+       'Gegenstände haben eine feste Identität und dürfen nicht vervielfacht werden. Ziehen ist ein Ortswechsel desselben Schwertes: in der Hand bedeutet leere Scheide ohne zweiten Griff. Einstecken bedeutet kein Schwert mehr in der Hand. Ablegen bedeutet am Boden, nicht zugleich in Hand oder Scheide. Diese Folgen ausdrücklich beschreiben und bis zur belegten nächsten Änderung fortführen. '
        'Ein bereits besiegter oder toter Gegner greift nicht wieder an. Ein Bild zeigt genau einen Zeitpunkt. ')
 
 
-def state_text(state):return '; '.join(LABELS[k]+': '+v for k,v in state.items() if k!='mount' or state.get('movement')!='zu Fuß')
+def state_text(state):return '; '.join(LABELS[k]+': '+(EQUIPMENT.DETAILS[v] if k=='sword_position' else v) for k,v in state.items() if k!='mount' or state.get('movement')!='zu Fuß')
 
 
 def track(value,scenes,cast,start,source,initial,anchors=None):
@@ -33,6 +36,17 @@ def track(value,scenes,cast,start,source,initial,anchors=None):
             if text not in MOVEMENT:raise ValueError('Fortbewegung: beritten, zu Fuß, in einem Fahrzeug, fliegend oder schwimmend.')
             if text=='beritten' and not re.search(r'\breit\w*|\bgeritten\b|\bangeritten\b|\bsattel\b|\bpferd\w*|\bro[sß]s\b',evidence,re.I):raise ValueError('Beritten braucht einen eindeutigen Reitbeleg.')
             if text=='zu Fuß' and not re.search(r'absteig\w*|steig\w*[^.!?]{0,55}\bab\b|abgestiegen|stieg[^.!?]{0,55}\bab\b|zu fu[ßs]|\bgeh\w*|\bging\w*|\bläuft\b|\blauf\w*|\bschreit\w*|\bstapf\w*|\bwandert\b',evidence,re.I):raise ValueError('Steht gegenüber oder spricht belegt kein Absteigen. Vorherige Fortbewegung beibehalten.')
+        if field=='sword_position':
+            if text not in EQUIPMENT.POSITIONS:raise ValueError('Ungültiger Schwertzustand.')
+            if ident not in EQUIPMENT.initial(cast):raise ValueError('Schwertzustand nur bei einer ausdrücklich mit einem Schwert ausgestatteten Figur.')
+            patterns={
+                'in der Scheide':r'(?:(?:steck|schob|schieb|gesteckt|geschoben)[^.!?]{0,80}Scheide|Schwert[^.!?]{0,30}in (?:der|seiner|die) Scheide)',
+                'gezogen':r'(?:zieh|zieht|zog|gezogen|schwing|Schwert[^.!?]{0,45}Hand|(?:kämpf|focht|fecht|kreuz)[^.!?]{0,80}(?:Schwert|Klinge)|(?:Schwert|Klinge)[^.!?]{0,80}(?:kämpf|Kampf|kreuz))',
+                'rechte Hand':r'(?:recht[^.!?]{0,30}Hand|rechtshändig)',
+                'linke Hand':r'(?:link[^.!?]{0,30}Hand|linkshändig)',
+                'am Boden':r'(?:leg|legt|lag|liegen|Boden|fallen|fällt|warf|werfen|verliert|verlor)',
+                'nicht sichtbar':r'(?:verdeckt|unsichtbar|verborgen|außerhalb|aus dem Bild)'}
+            if text in patterns and not re.search(patterns[text],evidence,re.I):raise ValueError('Schwertzustand braucht einen eindeutigen Quellenbeleg.')
         if field=='mount' and not re.search(r'pferd|sattel|ross|roß|wagen|fahrzeug|auto|boot|kutsche|esel|muli|kamel|reit',evidence,re.I):raise ValueError('Reittier oder Fahrzeug braucht einen eindeutigen Quellenbeleg.')
         # Zwei unterschiedliche Werte desselben Felds im selben Bild wären eine zeitliche Montage.
         identity=(panel,ident,field)
@@ -54,12 +68,15 @@ def check_initial(initial,cast):
     if not isinstance(initial,dict) or set(initial)-{c['id'] for c in cast}:raise ValueError('Ungültige Anfangszustände der Kontinuität.')
     for facts in initial.values():
         if not isinstance(facts,dict) or set(facts)-FIELDS or any(not isinstance(v,str) or not v.strip() or len(v)>180 for v in facts.values()):raise ValueError('Ungültige physische Anfangszustände.')
+    if any('sword_position' in facts and facts['sword_position'] not in EQUIPMENT.POSITIONS for facts in initial.values()):raise ValueError('Ungültiger Schwertzustand.')
     return copy.deepcopy(initial)
 
 
 def enforce(engine,job,scenes,cast,source,initial=None,anchors=None,tag='script'):
     """Originaldialoge erhalten; nur Bildanweisungen korrigieren und Zustände sichtbar festschreiben."""
-    state=check_initial(initial or {},cast);result=[];reports=[];discarded=[]
+    defaults=EQUIPMENT.initial(cast)
+    for ident,facts in check_initial(initial or {},cast).items():defaults.setdefault(ident,{}).update(facts)
+    state=check_initial(defaults,cast);result=[];reports=[];discarded=[]
     for start in range(0,len(scenes),6):
         chunk=copy.deepcopy(scenes[start:start+6]);local_anchors=anchors[start:start+len(chunk)] if anchors is not None else None
         engine.store.stage(job,'script_continuity',planned_panels=start,total_panels=len(scenes))
@@ -69,8 +86,9 @@ def enforce(engine,job,scenes,cast,source,initial=None,anchors=None,tag='script'
             'posture nur für eindeutige Körperhaltung verwenden, nicht für räumliches Gegenüber. Besitz bedeutet nicht automatisch, dass ein Gegenstand in der Hand gehalten wird. '
             'Bei erstmaligem Auftreten einen Zustand setzen, danach nur ausdrücklich geänderte Felder. Zeitpunkte müssen zur jeweiligen Kachel passen. '
             'Wenn der Zustand unverändert ist, kein Ereignis. Kein erneutes Reiten aus einem späteren Satz vorziehen. '
-            'Feldnamen: movement, mount, posture, location, held, injury, life, clothing. Werte knapp auf Deutsch, maximal 180 Zeichen. '
-            'Bei einer Änderung den neuen vollständigen Feldinhalt angeben, etwa alle weiterhin gehaltenen Gegenstände. '
+            'Für Figuren mit sword_position jedes Ziehen, Einstecken oder Ablegen zwingend erfassen. sword_position nur in der Scheide, gezogen, rechte Hand, linke Hand, am Boden, nicht sichtbar oder nicht festgelegt. Bei gezogen ohne ausdrücklich genannte Hand keine rechte oder linke Hand erfinden. Ein ausdrücklich geführter Schwertkampf belegt ein gezogenes Schwert; bloße Drohung oder Waffenbesitz nicht. Keine Ereignisse aus späteren Kacheln vorziehen. '
+            'Feldnamen: movement, mount, posture, location, held, injury, life, clothing, sword_position. Werte knapp auf Deutsch, maximal 180 Zeichen. '
+            'Bei einer Änderung den neuen vollständigen Feldinhalt angeben, etwa alle weiterhin gehaltenen Gegenstände. Bei bekanntem sword_position das Schwert dort separat führen, nicht zusätzlich im allgemeinen held-Feld. '
             'movement nur beritten, zu Fuß, in einem Fahrzeug, fliegend oder schwimmend. evidence ist ein kurzes wörtliches Zitat der Textgrundlage dieser Kachel. '
             'Return ONLY JSON {"events":[{"panel":1,"character":"exakte ID","field":"movement","value":"beritten","evidence":"exaktes zusammenhängendes Zitat aus der Textgrundlage"}]}. '
             'Ereignisse in chronologischer Reihenfolge; bei keinen belegten Angaben events leer lassen. '

@@ -50,6 +50,42 @@ class ContinuityTests(unittest.TestCase):
                 self.assertEqual(a['dialog'],b['dialog']);self.assertEqual(a['bubbles'],b['bubbles']);self.assertEqual(a['characters'],b['characters']);self.assertIn('beritten',b['character_states'][H]);self.assertIn('Sattel',b['story']);self.assertIn('Hildebrand: Fortbewegung: beritten',b['story'])
             self.assertEqual(fixed[-1]['continuity_state'][H]['movement'],'beritten')
 
+    def test_drawing_a_single_sword_empties_scabbard_until_resheathed(self):
+        from continuity import EQUIPMENT,state_text
+        cast=copy.deepcopy(CAST);cast[0]['outfit']='Ein schweres Schwert hängt an seinem Gürtel.'
+        source='Hildebrand zieht sein Schwert. Alebrand spricht. Hildebrand steckt sein Schwert in die Scheide.'
+        scenes=[scene('Zieht.'),scene('Antwortet.'),scene('Steckt ein.')]
+        initial=EQUIPMENT.initial(cast);self.assertEqual(initial[H]['sword_position'],'in der Scheide')
+        _,states,final=track({'events':[event(1,'sword_position','gezogen','zieht sein Schwert'),event(3,'sword_position','in der Scheide','steckt sein Schwert in die Scheide')]},scenes,cast,0,source,initial)
+        self.assertEqual([s[H]['sword_position'] for s in states],['gezogen','gezogen','in der Scheide'])
+        self.assertIn('leer',state_text(states[1][H]));self.assertIn('ohne zweiten Schwertgriff',state_text(states[1][H]))
+        self.assertIn('Kein zusätzliches Schwert in den Händen',state_text(final[H]))
+        self.assertIn('NO SECOND HILT',EQUIPMENT.instruction(cast[0]))
+        for outfit in ('Zwei Schwerter hängen am Gürtel.','Kein Schwert.','Mantel.','Ein Schild und zwei Schwerter.'):
+            self.assertFalse(EQUIPMENT.single_sword({'outfit':outfit}),outfit)
+        with self.assertRaisesRegex(ValueError,'Quellenbeleg'):
+            track({'events':[event(2,'sword_position','in der Scheide','Alebrand spricht')]},scenes,cast,0,source,initial)
+        with self.assertRaisesRegex(ValueError,'Schwertzustand'):
+            track({'events':[event(1,'sword_position','in der Hand und Scheide','zieht sein Schwert')]},scenes,cast,0,source,initial)
+
+    def test_sword_state_is_written_explicitly_into_every_image_description(self):
+        from continuity import EQUIPMENT
+        with tempfile.TemporaryDirectory() as folder:
+            store=Store(folder);store.create('c'*32,validate_request({'kacheln':2}));cast=copy.deepcopy(CAST);cast[0]['outfit']='Ein Schwert am Gürtel.'
+            class Fake:
+                validate_scenes=Engine.validate_scenes
+                def __init__(self):self.store=store
+                def json_call(self,job,step,prompt,validator,tokens):
+                    if '-events-' in step:return validator({'events':[event(1,'sword_position','gezogen','Hildebrand zieht sein Schwert')]})
+                    if '-review-' in step:return validator({'issues':[]})
+                    return validator([{'panel':1,'story':'Hildebrand hält sein einziges gezogenes Schwert. Seine Scheide ist leer.'},{'panel':2,'story':'Hildebrand spricht und hält dasselbe Schwert, die Scheide bleibt leer.'}])
+            fixed,report=enforce(Fake(),'c'*32,[scene('Zieht.'),scene('Spricht.')],cast,'Hildebrand zieht sein Schwert. Er spricht.')
+            for panel in fixed:
+                self.assertEqual(panel['continuity_state'][H]['sword_position'],'gezogen')
+                self.assertIn('ohne zweiten Schwertgriff',panel['story'])
+                self.assertIn('ohne zweiten Schwertgriff',panel['character_states'][H])
+            self.assertEqual(report['final_state'][H]['sword_position'],'gezogen')
+
     def test_unresolved_contradiction_stops_before_any_render(self):
         with tempfile.TemporaryDirectory() as folder:
             store=Store(folder);store.create('c'*32,validate_request({'kacheln':1}))

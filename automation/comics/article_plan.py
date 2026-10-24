@@ -50,6 +50,7 @@ def prepare(engine,stories,job):
         'Zerlege den folgenden deutschen Ausgangstext für einen Comic. Plane ausschließlich die darin auftretenden Hauptfiguren. '
         'Erfinde keine Handlung und keine Namen für unbenannte Personen; verwende dann eine neutrale Rollenbezeichnung. '
         'Aussehen ohne Angaben im Text nur als symbolische Gestaltung kennzeichnen. Personen mit konstantem Gesicht beschreiben. '
+        'Bei Waffen und wichtigen Requisiten die belegte Anzahl pro Figur ausdrücklich im outfit nennen, etwa genau ein einziges Schwert. Scheide und Schwert sind keine zwei Schwerter. Keine dekorativen Zusatzwaffen erfinden. '
         'Bei Veränderungen von Frisur oder Kleidung im Verlauf ausdrücklich festhalten, dass diese sich je Szene ändern dürfen. '
         'Return ONLY JSON {"characters":[{"name":"Name oder Rolle","description":"Gesicht und Identitätsmerkmale","outfit":"Kleidung"}]}. '
         '1–4 Figuren, alle Texte auf Deutsch. Bei vorhandenen Figuren deren Namen exakt übernehmen. '
