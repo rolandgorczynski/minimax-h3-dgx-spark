@@ -1,0 +1,641 @@
+{
+  "mode": "editorial",
+  "name": "Thor – Der gestohlene Hammer · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Altnordischer Mythos; ein listiger Plan statt eines unmittelbaren Kampfes.\nÜBERLIEFERUNG: Die Edda, Simrock, 6. Auflage 1876: Thrymskvidha oder Hamarsheimt.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nThor erwacht und entdeckt, dass sein Hammer Mjölnir fehlt. Loki erfährt auf der Suche, dass der Riese Thrym ihn verborgen hat und nur gegen eine Hochzeit mit Freyja herausgeben will. Freyja lehnt empört ab. Die Götter entwickeln eine List: Thor soll verschleiert als Braut auftreten, Loki begleitet ihn. Beim Hochzeitsmahl verrät Thors gewaltiger Hunger beinahe die Verkleidung; Loki erklärt die Auffälligkeiten weg. Erst als Thrym den Hammer zur Weihe der Braut herbeibringen lässt, gelangt die einzige verlorene Waffe wieder in Thors Hände. Thor enttarnt sich, überwältigt Thrym und gewinnt den Hammer zurück.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Visuelle Komödie mit gefährlicher Tarnung, wachsender Entdeckungsgefahr und einer klar vorbereiteten Wendung.\nABGRENZUNG: Freyja wird nicht verheiratet. Thor ist derselbe Mann vor, während und nach der Verkleidung; keine zweite Brautfigur erfinden. Mjölnir befindet sich bis zur Rückgabe bei Thrym und darf vorher weder in Thors Hand noch an seinem Gürtel auftauchen. Bei der Weihe wird derselbe einzelne Hammer übergeben. Keine modernen Superheldenfassungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen und mitgeführte Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel und Zustandsänderungen ausdrücklich beschreiben. Den gewählten Handlungsbogen mit seinem angegebenen Ende erhalten.",
+    "planned_article": "STOFF UND HERKUNFT: Altnordischer Mythos; ein listiger Plan statt eines unmittelbaren Kampfes.\nÜBERLIEFERUNG: Die Edda, Simrock, 6. Auflage 1876: Thrymskvidha oder Hamarsheimt.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nThor erwacht und entdeckt, dass sein Hammer Mjölnir fehlt. Loki erfährt auf der Suche, dass der Riese Thrym ihn verborgen hat und nur gegen eine Hochzeit mit Freyja herausgeben will. Freyja lehnt empört ab. Die Götter entwickeln eine List: Thor soll verschleiert als Braut auftreten, Loki begleitet ihn. Beim Hochzeitsmahl verrät Thors gewaltiger Hunger beinahe die Verkleidung; Loki erklärt die Auffälligkeiten weg. Erst als Thrym den Hammer zur Weihe der Braut herbeibringen lässt, gelangt die einzige verlorene Waffe wieder in Thors Hände. Thor enttarnt sich, überwältigt Thrym und gewinnt den Hammer zurück.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Visuelle Komödie mit gefährlicher Tarnung, wachsender Entdeckungsgefahr und einer klar vorbereiteten Wendung.\nABGRENZUNG: Freyja wird nicht verheiratet. Thor ist derselbe Mann vor, während und nach der Verkleidung; keine zweite Brautfigur erfinden. Mjölnir befindet sich bis zur Rückgabe bei Thrym und darf vorher weder in Thors Hand noch an seinem Gürtel auftauchen. Bei der Weihe wird derselbe einzelne Hammer übergeben. Keine modernen Superheldenfassungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen und mitgeführte Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel und Zustandsänderungen ausdrücklich beschreiben. Den gewählten Handlungsbogen mit seinem angegebenen Ende erhalten.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Der leere Platz",
+        "setting": "Thors Schlafraum, Morgen",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1"
+        ],
+        "story": "Halbtotale. Thor links am Bett, daneben ein leerer Holzständer für den Hammer. Seine rechte Hand liegt suchend auf der leeren Fläche, nicht an einem zweiten Hammer. Keine Silhouette der Waffe an seinem Gürtel und kein modernes Kostüm. Ein kurzer Erzählerkasten oben, das leere Fach ist deutlich sichtbar. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links neben dem niedrigen Bett; Körperhaltung: sitzend, rechte Hand am leeren Ablageplatz; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen..",
+        "dialog": "Thor erwachte. Sein Hammer war fort.",
+        "bubbles": [],
+        "continuity": "Zu Beginn fehlt Mjölnir vollständig. Er darf bis Kachel 10 weder als Schattenwaffe am Gürtel noch als Werkzeug im Hintergrund bei Thor erscheinen.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links neben dem niedrigen Bett",
+            "posture": "sitzend, rechte Hand am leeren Ablageplatz",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen."
+          }
+        }
+      },
+      {
+        "heading": "Ein hoher Preis",
+        "setting": "Bei Thrym, während Lokis Suche",
+        "characters": [
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Weite Gegenüberstellung. Loki links mit leeren Händen, Thrym rechts vor einem verschlossenen steinernen Versteck. Kein sichtbarer Hammer in seiner Hand; die verborgene Lage ist eindeutig. Der Größenunterschied ist groß, aber beide stehen auf festem Boden. Zwei kurze Blasen. Verbindliche Zustände: Loki: Fortbewegung: zu Fuß; Ort: links vor Thrym; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe.. Thrym: Fortbewegung: zu Fuß; Ort: rechts vor einem schweren Felsblock; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "631345f8cf5d5cf689727908c939b845",
+            "text": "Was willst du dafür?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "b0668b30bc375cadbdd449474357584f",
+            "text": "Freyja. Als meine Braut.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Loki erfährt die Forderung. Keine gleichzeitige Übergabe des Hammers während des Gesprächs und keine als gesichert hinzugefügte Flugverwandlung.",
+        "character_states": {},
+        "continuity_state": {
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "links vor Thrym",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts vor einem schweren Felsblock",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      },
+      {
+        "heading": "Keine Ware",
+        "setting": "Bei den Göttern, nach Lokis Rückkehr",
+        "characters": [
+          "30db5055edf05a839ee74211ff7074c0",
+          "631345f8cf5d5cf689727908c939b845",
+          "bfe64cd90307506c955f2e14f8a210d1"
+        ],
+        "story": "Halbtotale. Freyja links, Loki mittig, Thor rechts mit beiden leeren Händen am Gürtel. Keine andere Braut im Bild. Freyja weicht nicht beschämt zurück, sondern begegnet der Forderung gerade. Eine einzige kurze Blase bei ihr; Thor hat noch die braune Alltagstunika. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: rechts neben Loki; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen.. Loki: Fortbewegung: zu Fuß; Ort: mittig vor Freyja; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe.. Freyja: Fortbewegung: zu Fuß; Ort: links im Raum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelrotes Kleid und schlichtes goldenes Halsband; keine Waffe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "30db5055edf05a839ee74211ff7074c0",
+            "text": "Dann soll er lernen, dass ich nicht zu seinem Preis gehöre.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Freyja lehnt ab. Sie bleibt in dieser Geschichte unverheiratet mit Thrym und wird nicht auf die Reise geschickt.",
+        "character_states": {},
+        "continuity_state": {
+          "30db5055edf05a839ee74211ff7074c0": {
+            "movement": "zu Fuß",
+            "location": "links im Raum",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelrotes Kleid und schlichtes goldenes Halsband; keine Waffe."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig vor Freyja",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe."
+          },
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "rechts neben Loki",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen."
+          }
+        }
+      },
+      {
+        "heading": "Der andere Zugang",
+        "setting": "Derselbe Raum, etwas später",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845"
+        ],
+        "story": "Halbnahe. Thor links in unveränderter Kleidung, Loki rechts neben dem für die Verkleidung bereitliegenden hellen Stoff. Das Tuch hängt noch separat und ist nicht zugleich über Thors Gesicht. Keine moderne Perücke. Zwei Blasen mit eindeutigem Blickkontakt. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links vor Loki; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen.. Loki: Fortbewegung: zu Fuß; Ort: rechts neben einem aufgehängten hellen Tuch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "bfe64cd90307506c955f2e14f8a210d1",
+            "text": "Ich gehe da nicht als Braut hinein.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "631345f8cf5d5cf689727908c939b845",
+            "text": "Als Thor lässt er dich eben nicht zu deinem Hammer.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Die List wird besprochen, noch nicht ausgeführt. Andere Götter dürfen unbenannt im Hintergrund angedeutet werden; keine zweite namensgleiche Loki-Figur.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links vor Loki",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "rechts neben einem aufgehängten hellen Tuch",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe."
+          }
+        }
+      },
+      {
+        "heading": "Derselbe unter dem Stoff",
+        "setting": "Weg zu Thryms Halle, nach der Verkleidung",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845"
+        ],
+        "story": "Weite Ansicht zweier Reisender zu Fuß. Thor links breit unter hellem Brautgewand und Schleier; durch den Stoffrand bleibt derselbe rote Bart angedeutet. Loki rechts schlanker mit grauem Kopftuch. Kein Hammer, keine weitere Brautfigur, keine Freyja im Gefolge. Der Weg führt zur entfernten Halle. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: rechts neben Thor; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock, braune Hose, dunkle Schuhe und graues Kopftuch als Verkleidung..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "bfe64cd90307506c955f2e14f8a210d1",
+            "text": "Du redest.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "631345f8cf5d5cf689727908c939b845",
+            "text": "Nur wenn du mich lässt.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Zwischen 4 und 5 ziehen beide die Verkleidung an. Thor bleibt derselbe Mann; Reise frei zu Fuß inszeniert, keine unbeschriebene Kutsche.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Weg",
+            "posture": "gehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "rechts neben Thor",
+            "posture": "gehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock, braune Hose, dunkle Schuhe und graues Kopftuch als Verkleidung."
+          }
+        }
+      },
+      {
+        "heading": "Der erwartete Gast",
+        "setting": "Thryms Hochzeitshalle, Ankunft",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Breite Tischansicht. Die verschleierte breite Braut Thor links, Loki daneben mittig, Thrym rechts ihnen gegenüber. Schalen und Brot auf dem Tisch, aber kein Hammer im Raum. Stumme Festgäste nur Hintergrund. Thrym beugt sich erwartungsvoll vor, Thor hält die Hände noch im Schoß. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am großen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig neben Thor; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "b0668b30bc375cadbdd449474357584f",
+            "text": "Endlich.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Die List hat Zugang zur Halle eröffnet. Freyja nicht im Bild. Der Hammer bleibt bei Thrym verborgen, bis er zur Weihe gebracht wird.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links am großen Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig neben Thor",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts am Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      },
+      {
+        "heading": "Ein großer Appetit",
+        "setting": "Derselbe Tisch während des Mahls",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Halbtotale. Vor Thor links mehrere sichtbar geleerte Schalen, das helle Gewand unverändert; ein Brotstück in seiner rechten Hand und ein angehobener Schleiersaum am Mund. Roter Bart bleibt derselbe. Thrym rechts erstaunt, Loki mittig beobachtend. Eine kurze Blase Thryms, keine gleichzeitige Hammerübergabe. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: großes Brotstück in der rechten Hand; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig neben Thor; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: sitzend, erstaunt zum Essen blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "b0668b30bc375cadbdd449474357584f",
+            "text": "So viel isst meine Braut?",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Thor isst auffällig viel. Keine Geschlechtsverwandlung, nur Verkleidung. Genau ein Brotstück in der Hand, keine Waffe als Besteck.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch",
+            "posture": "sitzend",
+            "held": "großes Brotstück in der rechten Hand",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig neben Thor",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts gegenüber",
+            "posture": "sitzend, erstaunt zum Essen blickend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      },
+      {
+        "heading": "Eine schnelle Antwort",
+        "setting": "Derselbe Tisch, unmittelbar danach",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Halbnahe auf Loki mittig und Thrym rechts, Thor am linken Rand schweigend hinter wieder gesenktem Schleier. Das Brotstück liegt jetzt auf dem Teller, Hände im Schoß. Loki gibt die Erklärung gelassen, nicht als übernatürliche Gedankenübertragung. Eine kurze Blase. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend, Hände im Schoß; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig zu Thrym gewandt; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "631345f8cf5d5cf689727908c939b845",
+            "text": "Vor Vorfreude hat sie tagelang nichts heruntergebracht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Loki erklärt den Hunger weg; dies ist erfundene Figurenrede im Dienst der überlieferten List, kein historisches Zitat. Hammer weiterhin abwesend.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch",
+            "posture": "sitzend, Hände im Schoß",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig zu Thrym gewandt",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts gegenüber",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      },
+      {
+        "heading": "Zu nah gesehen",
+        "setting": "Hochzeitstisch, ein späterer Moment",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Halbnahe. Thrym rechts beugt sich zum Schleier vor, Thor links blickt ihn aus dem Stoff heraus scharf an; keine Gewalthandlung. Loki mittig spricht schnell. Genau eine Hand hebt den Saum leicht, keine schon vollständig entkleidete zweite Thorfigur. Der Tisch bleibt ohne Hammer. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend, Kopf zu Thrym gewandt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig zwischen beiden; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts vorgebeugt; Körperhaltung: sitzend, eine leere Hand am Schleiersaum; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "b0668b30bc375cadbdd449474357584f",
+            "text": "Und diese Augen?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "631345f8cf5d5cf689727908c939b845",
+            "text": "Schlaf fand sie auch nicht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Zweite Entdeckungsgefahr als freie Verdichtung der Auffälligkeiten. Schleier noch vorhanden. Thrym erkennt Thor noch nicht sicher; keine vorzeitige offene Kampfpose.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch",
+            "posture": "sitzend, Kopf zu Thrym gewandt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig zwischen beiden",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts vorgebeugt",
+            "posture": "sitzend, eine leere Hand am Schleiersaum",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      },
+      {
+        "heading": "Das eine Stück Eisen",
+        "setting": "Am Hochzeitstisch, bei der Weihe",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Breite klare Ansicht. Genau ein kurzer Eisenhammer mit Holzgriff liegt nun quer auf Thors verhülltem Schoß; seine beiden Hände noch daneben und leer. Thrym rechts hat ihn bereits zur Weihe herbeibringen und niederlegen lassen. Keine zweite Waffe am Gürtel, auf dem Tisch oder in Lokis Hand. Thors rote Bartkante unter dem Schleier, gespannte Stille. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links auf dem Sitz; Körperhaltung: sitzend, beide Hände leer neben dem Hammer; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig neben Thor; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts neben dem Sitz; Körperhaltung: stehend, Hände vom Hammer zurückgezogen; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "Dann wurde der Hammer zur Weihe der Braut gebracht.",
+        "bubbles": [],
+        "continuity": "Erste Rückkehr desselben Mjölnir zu Thor. Übergabe ist abgeschlossen; Waffe liegt auf dem Schoß, nicht gleichzeitig noch bei Thrym im Versteck. Noch kein Schlag in derselben Kachel.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Sitz",
+            "posture": "sitzend, beide Hände leer neben dem Hammer",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig neben Thor",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts neben dem Sitz",
+            "posture": "stehend, Hände vom Hammer zurückgezogen",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      },
+      {
+        "heading": "Wer darunter saß",
+        "setting": "Neben dem Hochzeitstisch, unmittelbar danach",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "b0668b30bc375cadbdd449474357584f",
+          "631345f8cf5d5cf689727908c939b845"
+        ],
+        "story": "Halbtotale. Thor links steht nun auf, das Brautgewand bleibt am Körper, nur der Schleier ist in seiner linken Hand heruntergezogen. Sein bekanntes rotes Gesicht und der Bart vollständig sichtbar. Mjölnir genau einmal rechts in seiner Hand, nicht zugleich auf dem Schoß. Thrym rechts weicht zurück, Loki hinter Thor bleibt aus der Schlagrichtung. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links vor dem Sitz; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: Mjölnir in der rechten Hand; Schleier in der linken Hand; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig hinter Thor; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts vom Tisch weg; Körperhaltung: zurückweichend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "bfe64cd90307506c955f2e14f8a210d1",
+            "text": "Jetzt können wir ohne Schleier reden.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Zwischen 10 und 11 nimmt Thor den einzigen Hammer rechts, hebt den Schleier links ab und steht auf. Kein Wechsel in die braune Tunika ohne Umziehen, keine zweite männliche Figur aus der Braut hervorgezeichnet.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Sitz",
+            "posture": "aufgestanden",
+            "held": "Mjölnir in der rechten Hand; Schleier in der linken Hand",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "rechts vom Tisch weg",
+            "posture": "zurückweichend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "mittig hinter Thor",
+            "posture": "aufgestanden",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          }
+        }
+      },
+      {
+        "heading": "Die andere Art Stärke",
+        "setting": "Ausgang der Halle nach der Überwältigung Thryms",
+        "characters": [
+          "bfe64cd90307506c955f2e14f8a210d1",
+          "631345f8cf5d5cf689727908c939b845",
+          "b0668b30bc375cadbdd449474357584f"
+        ],
+        "story": "Weite Einstellung nach der Auseinandersetzung. Thor und Loki gehen zusammen zum Ausgang, Thrym hinten am Boden ohne offene Verletzung. Thor noch im Brautgewand, Mjölnir einmal rechts, Schleier links. Niemand hat Freyja geheiratet. Zwei kurze Blasen über den Fortgehenden, kein neues Riesenheer. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Ausgang; Körperhaltung: gehend; Mitgeführte Gegenstände: Mjölnir in der rechten Hand; gefalteter Schleier links; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: hinten rechts am Boden; Körperhaltung: sitzend, überwältigt, nicht erneut angreifend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "631345f8cf5d5cf689727908c939b845",
+            "text": "Am Ende also doch mit dem Hammer.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "bfe64cd90307506c955f2e14f8a210d1",
+            "text": "Aber ohne dich wäre ich nicht hingekommen.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Thrym wurde zwischen 11 und 12 überwältigt; kein expliziter Gewaltschlag und keine automatische Wiederauferstehung. Waffe zurückgewonnen. Freyja bleibt frei; keine neue Waffe als Belohnung.",
+        "character_states": {},
+        "continuity_state": {
+          "bfe64cd90307506c955f2e14f8a210d1": {
+            "movement": "zu Fuß",
+            "location": "links am Ausgang",
+            "posture": "gehend",
+            "held": "Mjölnir in der rechten Hand; gefalteter Schleier links",
+            "life": "lebend",
+            "clothing": "Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel."
+          },
+          "631345f8cf5d5cf689727908c939b845": {
+            "movement": "zu Fuß",
+            "location": "rechts neben ihm",
+            "posture": "gehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüner Rock und graues Kopftuch."
+          },
+          "b0668b30bc375cadbdd449474357584f": {
+            "movement": "zu Fuß",
+            "location": "hinten rechts am Boden",
+            "posture": "sitzend, überwältigt, nicht erneut angreifend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "bfe64cd90307506c955f2e14f8a210d1",
+        "name": "Thor",
+        "description": "Sehr kräftiger erwachsener Mann mit rotem Vollbart, rotem schulterlangem Haar und breitem Gesicht. Dieselbe männliche Figur auch unter dem Brautschleier.",
+        "outfit": "Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen.",
+        "backstory": "Stolz auf seine Stärke. Muss eine Verkleidung und Lokis Hilfe akzeptieren, um Zugang zum einzigen verlorenen Hammer zu erhalten.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "631345f8cf5d5cf689727908c939b845",
+        "name": "Loki",
+        "description": "Schlanker erwachsener Mann mit schwarzen glatten Haaren, schmalem glattem Gesicht und wachen Augen.",
+        "outfit": "Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe.",
+        "backstory": "Sucht nach dem Hammer und hält die gefährliche Tarnung mit schnellen Erklärungen aufrecht. Nicht Utgardloki.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "30db5055edf05a839ee74211ff7074c0",
+        "name": "Freyja",
+        "description": "Erwachsene Frau mit langem dunkelblondem geflochtenem Haar, ernstem selbstbewusstem Gesicht.",
+        "outfit": "Dunkelrotes Kleid und schlichtes goldenes Halsband; keine Waffe.",
+        "backstory": "Verweigert eine erzwungene Hochzeit. Wird nicht als Gegenleistung hergegeben und reist nicht mit zur Hochzeit.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "b0668b30bc375cadbdd449474357584f",
+        "name": "Thrym",
+        "description": "Sehr großer breiter Riese mit grauem lockigem Bart und kurzen dunkelgrauen Haaren. Zwei Arme und Beine.",
+        "outfit": "Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen.",
+        "backstory": "Will den Hammer nur gegen Freyja herausgeben. Seine Forderung eröffnet die Gefahr, an der sein Verlangen die Täuschung übersieht.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Kann die Bereitschaft zur ungewohnten Rolle eine verlorene Handlungsmacht zurückbringen?",
+      "core": "Stolz auf die eigene Stärke reicht nicht immer; Zusammenarbeit und eine ertragene Verkleidung ermöglichen den entscheidenden Zugang.",
+      "ending": "Thor erhält den Hammer zurück und überwältigt Thrym.",
+      "reason": "Verlust, Forderung, gemeinsamer Plan, gefährdetes Täuschungsmanöver und Wiedergewinnung verlangen einen klaren Aufbau.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Erst als Thrym den Hammer zur Weihe der Braut herbeibringen lässt, gelangt die einzige verlorene Waffe wieder in Thors Hände.",
+          "meaning": "Die List schafft eine Möglichkeit, die offene Kraft zuvor nicht hatte."
+        }
+      ],
+      "causal_chain": [
+        "Erst als Thrym den Hammer zur Weihe der Braut herbeibringen lässt, gelangt die einzige verlorene Waffe wieder in Thors Hände.",
+        "Thor erhält den Hammer zurück und überwältigt Thrym."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "919cb36b9c6ecb258c5f895c28369053dae55c3c76e5d62ee9b019c38f97b6a1",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623636+00:00"
+    },
+    "post_summary": "Thors Hammer ist verschwunden. Um ihn zurückzubekommen, muss der Starke ausgerechnet eine Verkleidung und Lokis Worte ertragen. Eine gefährliche Komödie über Zusammenarbeit – mit genau einem gestohlenen und zurückgewonnenen Mjölnir.",
+    "source_provenance": {
+      "title": "Thor – Der gestohlene Hammer",
+      "kind": "Buch",
+      "creator": "Anonyme altnordische Überlieferung; historische deutsche Fassung: Karl Simrock (1802–1876).",
+      "edition": "Die Edda, Simrock, 6. Auflage 1876: Thrymskvidha oder Hamarsheimt. Eigene neu formulierte Inhaltszusammenfassung.",
+      "url": "https://de.wikisource.org/wiki/Die_Edda_(Simrock_1876)/Ältere_Edda/Thrymskvidha_oder_Hamarsheimt",
+      "territories": "Deutschland; Rechtehinweis bezieht sich auf den historischen Ausgangstext und diese eigene Inhaltsfassung.",
+      "rights": "Gemeinfreier historischer Ausgangsstoff beziehungsweise historische deutsche Fassung eines seit mehr als 70 Jahren verstorbenen Bearbeiters. Dieser Eintrag enthält eine eigene Zusammenfassung, keine übernommene moderne Übersetzung, Filmfassung oder fremde Illustration. Grundlage für Deutschland: § 64 UrhG.",
+      "text": "STOFF UND HERKUNFT: Altnordischer Mythos; ein listiger Plan statt eines unmittelbaren Kampfes.\nÜBERLIEFERUNG: Die Edda, Simrock, 6. Auflage 1876: Thrymskvidha oder Hamarsheimt.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nThor erwacht und entdeckt, dass sein Hammer Mjölnir fehlt. Loki erfährt auf der Suche, dass der Riese Thrym ihn verborgen hat und nur gegen eine Hochzeit mit Freyja herausgeben will. Freyja lehnt empört ab. Die Götter entwickeln eine List: Thor soll verschleiert als Braut auftreten, Loki begleitet ihn. Beim Hochzeitsmahl verrät Thors gewaltiger Hunger beinahe die Verkleidung; Loki erklärt die Auffälligkeiten weg. Erst als Thrym den Hammer zur Weihe der Braut herbeibringen lässt, gelangt die einzige verlorene Waffe wieder in Thors Hände. Thor enttarnt sich, überwältigt Thrym und gewinnt den Hammer zurück.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Visuelle Komödie mit gefährlicher Tarnung, wachsender Entdeckungsgefahr und einer klar vorbereiteten Wendung.\nABGRENZUNG: Freyja wird nicht verheiratet. Thor ist derselbe Mann vor, während und nach der Verkleidung; keine zweite Brautfigur erfinden. Mjölnir befindet sich bis zur Rückgabe bei Thrym und darf vorher weder in Thors Hand noch an seinem Gürtel auftauchen. Bei der Weihe wird derselbe einzelne Hammer übergeben. Keine modernen Superheldenfassungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen und mitgeführte Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel und Zustandsänderungen ausdrücklich beschreiben. Den gewählten Handlungsbogen mit seinem angegebenen Ende erhalten.",
+      "post_summary": "Ohne seinen Hammer muss Thor eine Rolle spielen, die ihm gar nicht liegt. Zwischen Hochzeitsmahl und Enttarnung entscheidet sich, ob die List gelingt.",
+      "id": "comic-quellen-2-thor-gestohlener-hammer",
+      "category": "Heldensagen und Mythen",
+      "collection": "Nordische Mythen"
+    },
+    "source_script": "TITEL: Thor – Der gestohlene Hammer\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Gefährliche Tischkomödie mit klarer Tarnung und sichtbarer Waffenkontinuität. Bildstil offen, keine Superheldenfilmfassung.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Thor\nAussehen: Sehr kräftiger erwachsener Mann mit rotem Vollbart, rotem schulterlangem Haar und breitem Gesicht. Dieselbe männliche Figur auch unter dem Brautschleier.\nKleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen.\nPersönlichkeit und Vorgeschichte: Stolz auf seine Stärke. Muss eine Verkleidung und Lokis Hilfe akzeptieren, um Zugang zum einzigen verlorenen Hammer zu erhalten.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Loki\nAussehen: Schlanker erwachsener Mann mit schwarzen glatten Haaren, schmalem glattem Gesicht und wachen Augen.\nKleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe.\nPersönlichkeit und Vorgeschichte: Sucht nach dem Hammer und hält die gefährliche Tarnung mit schnellen Erklärungen aufrecht. Nicht Utgardloki.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Freyja\nAussehen: Erwachsene Frau mit langem dunkelblondem geflochtenem Haar, ernstem selbstbewusstem Gesicht.\nKleidung: Dunkelrotes Kleid und schlichtes goldenes Halsband; keine Waffe.\nPersönlichkeit und Vorgeschichte: Verweigert eine erzwungene Hochzeit. Wird nicht als Gegenleistung hergegeben und reist nicht mit zur Hochzeit.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Thrym\nAussehen: Sehr großer breiter Riese mit grauem lockigem Bart und kurzen dunkelgrauen Haaren. Zwei Arme und Beine.\nKleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen.\nPersönlichkeit und Vorgeschichte: Will den Hammer nur gegen Freyja herausgeben. Seine Forderung eröffnet die Gefahr, an der sein Verlangen die Täuschung übersieht.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der leere Platz\nOrt und Zeit: Thors Schlafraum, Morgen\nSichtbare Figuren: Thor\nBildbeschreibung: Halbtotale. Thor links am Bett, daneben ein leerer Holzständer für den Hammer. Seine rechte Hand liegt suchend auf der leeren Fläche, nicht an einem zweiten Hammer. Keine Silhouette der Waffe an seinem Gürtel und kein modernes Kostüm. Ein kurzer Erzählerkasten oben, das leere Fach ist deutlich sichtbar. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links neben dem niedrigen Bett; Körperhaltung: sitzend, rechte Hand am leeren Ablageplatz; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen..\nErzählertext: Thor erwachte. Sein Hammer war fort.\nDialoge: keine\nKontinuität / Änderung: Zu Beginn fehlt Mjölnir vollständig. Er darf bis Kachel 10 weder als Schattenwaffe am Gürtel noch als Werkzeug im Hintergrund bei Thor erscheinen.\n\nKACHEL 2: Ein hoher Preis\nOrt und Zeit: Bei Thrym, während Lokis Suche\nSichtbare Figuren: Loki, Thrym\nBildbeschreibung: Weite Gegenüberstellung. Loki links mit leeren Händen, Thrym rechts vor einem verschlossenen steinernen Versteck. Kein sichtbarer Hammer in seiner Hand; die verborgene Lage ist eindeutig. Der Größenunterschied ist groß, aber beide stehen auf festem Boden. Zwei kurze Blasen. Verbindliche Zustände: Loki: Fortbewegung: zu Fuß; Ort: links vor Thrym; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe.. Thrym: Fortbewegung: zu Fuß; Ort: rechts vor einem schweren Felsblock; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Loki\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Was willst du dafür?“\nDialog 2:\n  Sprecher: Thrym\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Freyja. Als meine Braut.“\nKontinuität / Änderung: Loki erfährt die Forderung. Keine gleichzeitige Übergabe des Hammers während des Gesprächs und keine als gesichert hinzugefügte Flugverwandlung.\n\nKACHEL 3: Keine Ware\nOrt und Zeit: Bei den Göttern, nach Lokis Rückkehr\nSichtbare Figuren: Freyja, Loki, Thor\nBildbeschreibung: Halbtotale. Freyja links, Loki mittig, Thor rechts mit beiden leeren Händen am Gürtel. Keine andere Braut im Bild. Freyja weicht nicht beschämt zurück, sondern begegnet der Forderung gerade. Eine einzige kurze Blase bei ihr; Thor hat noch die braune Alltagstunika. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: rechts neben Loki; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen.. Loki: Fortbewegung: zu Fuß; Ort: mittig vor Freyja; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe.. Freyja: Fortbewegung: zu Fuß; Ort: links im Raum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelrotes Kleid und schlichtes goldenes Halsband; keine Waffe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Freyja\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann soll er lernen, dass ich nicht zu seinem Preis gehöre.“\nKontinuität / Änderung: Freyja lehnt ab. Sie bleibt in dieser Geschichte unverheiratet mit Thrym und wird nicht auf die Reise geschickt.\n\nKACHEL 4: Der andere Zugang\nOrt und Zeit: Derselbe Raum, etwas später\nSichtbare Figuren: Thor, Loki\nBildbeschreibung: Halbnahe. Thor links in unveränderter Kleidung, Loki rechts neben dem für die Verkleidung bereitliegenden hellen Stoff. Das Tuch hängt noch separat und ist nicht zugleich über Thors Gesicht. Keine moderne Perücke. Zwei Blasen mit eindeutigem Blickkontakt. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links vor Loki; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs braune Tunika, dunkle Hose, feste Stiefel und Ledergürtel. Kein Schwert, kein Flügelhelm. Genau ein kurzer Eisenhammer Mjölnir existiert, zu Beginn aber gestohlen.. Loki: Fortbewegung: zu Fuß; Ort: rechts neben einem aufgehängten hellen Tuch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner schlichter Rock, braune Hose, dunkle Schuhe; bei der Verkleidung ein graues Tuch über dem Kopf. Kein moderner Helm und keine Waffe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Thor\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich gehe da nicht als Braut hinein.“\nDialog 2:\n  Sprecher: Loki\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Als Thor lässt er dich eben nicht zu deinem Hammer.“\nKontinuität / Änderung: Die List wird besprochen, noch nicht ausgeführt. Andere Götter dürfen unbenannt im Hintergrund angedeutet werden; keine zweite namensgleiche Loki-Figur.\n\nKACHEL 5: Derselbe unter dem Stoff\nOrt und Zeit: Weg zu Thryms Halle, nach der Verkleidung\nSichtbare Figuren: Thor, Loki\nBildbeschreibung: Weite Ansicht zweier Reisender zu Fuß. Thor links breit unter hellem Brautgewand und Schleier; durch den Stoffrand bleibt derselbe rote Bart angedeutet. Loki rechts schlanker mit grauem Kopftuch. Kein Hammer, keine weitere Brautfigur, keine Freyja im Gefolge. Der Weg führt zur entfernten Halle. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: rechts neben Thor; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock, braune Hose, dunkle Schuhe und graues Kopftuch als Verkleidung..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Thor\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du redest.“\nDialog 2:\n  Sprecher: Loki\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nur wenn du mich lässt.“\nKontinuität / Änderung: Zwischen 4 und 5 ziehen beide die Verkleidung an. Thor bleibt derselbe Mann; Reise frei zu Fuß inszeniert, keine unbeschriebene Kutsche.\n\nKACHEL 6: Der erwartete Gast\nOrt und Zeit: Thryms Hochzeitshalle, Ankunft\nSichtbare Figuren: Thor, Loki, Thrym\nBildbeschreibung: Breite Tischansicht. Die verschleierte breite Braut Thor links, Loki daneben mittig, Thrym rechts ihnen gegenüber. Schalen und Brot auf dem Tisch, aber kein Hammer im Raum. Stumme Festgäste nur Hintergrund. Thrym beugt sich erwartungsvoll vor, Thor hält die Hände noch im Schoß. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am großen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig neben Thor; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Thrym\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Endlich.“\nKontinuität / Änderung: Die List hat Zugang zur Halle eröffnet. Freyja nicht im Bild. Der Hammer bleibt bei Thrym verborgen, bis er zur Weihe gebracht wird.\n\nKACHEL 7: Ein großer Appetit\nOrt und Zeit: Derselbe Tisch während des Mahls\nSichtbare Figuren: Thor, Loki, Thrym\nBildbeschreibung: Halbtotale. Vor Thor links mehrere sichtbar geleerte Schalen, das helle Gewand unverändert; ein Brotstück in seiner rechten Hand und ein angehobener Schleiersaum am Mund. Roter Bart bleibt derselbe. Thrym rechts erstaunt, Loki mittig beobachtend. Eine kurze Blase Thryms, keine gleichzeitige Hammerübergabe. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: großes Brotstück in der rechten Hand; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig neben Thor; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: sitzend, erstaunt zum Essen blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Thrym\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „So viel isst meine Braut?“\nKontinuität / Änderung: Thor isst auffällig viel. Keine Geschlechtsverwandlung, nur Verkleidung. Genau ein Brotstück in der Hand, keine Waffe als Besteck.\n\nKACHEL 8: Eine schnelle Antwort\nOrt und Zeit: Derselbe Tisch, unmittelbar danach\nSichtbare Figuren: Thor, Loki, Thrym\nBildbeschreibung: Halbnahe auf Loki mittig und Thrym rechts, Thor am linken Rand schweigend hinter wieder gesenktem Schleier. Das Brotstück liegt jetzt auf dem Teller, Hände im Schoß. Loki gibt die Erklärung gelassen, nicht als übernatürliche Gedankenübertragung. Eine kurze Blase. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend, Hände im Schoß; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig zu Thrym gewandt; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Loki\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Vor Vorfreude hat sie tagelang nichts heruntergebracht.“\nKontinuität / Änderung: Loki erklärt den Hunger weg; dies ist erfundene Figurenrede im Dienst der überlieferten List, kein historisches Zitat. Hammer weiterhin abwesend.\n\nKACHEL 9: Zu nah gesehen\nOrt und Zeit: Hochzeitstisch, ein späterer Moment\nSichtbare Figuren: Thor, Loki, Thrym\nBildbeschreibung: Halbnahe. Thrym rechts beugt sich zum Schleier vor, Thor links blickt ihn aus dem Stoff heraus scharf an; keine Gewalthandlung. Loki mittig spricht schnell. Genau eine Hand hebt den Saum leicht, keine schon vollständig entkleidete zweite Thorfigur. Der Tisch bleibt ohne Hammer. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend, Kopf zu Thrym gewandt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig zwischen beiden; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts vorgebeugt; Körperhaltung: sitzend, eine leere Hand am Schleiersaum; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Thrym\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Und diese Augen?“\nDialog 2:\n  Sprecher: Loki\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Schlaf fand sie auch nicht.“\nKontinuität / Änderung: Zweite Entdeckungsgefahr als freie Verdichtung der Auffälligkeiten. Schleier noch vorhanden. Thrym erkennt Thor noch nicht sicher; keine vorzeitige offene Kampfpose.\n\nKACHEL 10: Das eine Stück Eisen\nOrt und Zeit: Am Hochzeitstisch, bei der Weihe\nSichtbare Figuren: Thor, Loki, Thrym\nBildbeschreibung: Breite klare Ansicht. Genau ein kurzer Eisenhammer mit Holzgriff liegt nun quer auf Thors verhülltem Schoß; seine beiden Hände noch daneben und leer. Thrym rechts hat ihn bereits zur Weihe herbeibringen und niederlegen lassen. Keine zweite Waffe am Gürtel, auf dem Tisch oder in Lokis Hand. Thors rote Bartkante unter dem Schleier, gespannte Stille. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links auf dem Sitz; Körperhaltung: sitzend, beide Hände leer neben dem Hammer; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig neben Thor; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts neben dem Sitz; Körperhaltung: stehend, Hände vom Hammer zurückgezogen; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: Dann wurde der Hammer zur Weihe der Braut gebracht.\nDialoge: keine\nKontinuität / Änderung: Erste Rückkehr desselben Mjölnir zu Thor. Übergabe ist abgeschlossen; Waffe liegt auf dem Schoß, nicht gleichzeitig noch bei Thrym im Versteck. Noch kein Schlag in derselben Kachel.\n\nKACHEL 11: Wer darunter saß\nOrt und Zeit: Neben dem Hochzeitstisch, unmittelbar danach\nSichtbare Figuren: Thor, Thrym, Loki\nBildbeschreibung: Halbtotale. Thor links steht nun auf, das Brautgewand bleibt am Körper, nur der Schleier ist in seiner linken Hand heruntergezogen. Sein bekanntes rotes Gesicht und der Bart vollständig sichtbar. Mjölnir genau einmal rechts in seiner Hand, nicht zugleich auf dem Schoß. Thrym rechts weicht zurück, Loki hinter Thor bleibt aus der Schlagrichtung. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links vor dem Sitz; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: Mjölnir in der rechten Hand; Schleier in der linken Hand; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: mittig hinter Thor; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: rechts vom Tisch weg; Körperhaltung: zurückweichend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Thor\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Jetzt können wir ohne Schleier reden.“\nKontinuität / Änderung: Zwischen 10 und 11 nimmt Thor den einzigen Hammer rechts, hebt den Schleier links ab und steht auf. Kein Wechsel in die braune Tunika ohne Umziehen, keine zweite männliche Figur aus der Braut hervorgezeichnet.\n\nKACHEL 12: Die andere Art Stärke\nOrt und Zeit: Ausgang der Halle nach der Überwältigung Thryms\nSichtbare Figuren: Thor, Loki, Thrym\nBildbeschreibung: Weite Einstellung nach der Auseinandersetzung. Thor und Loki gehen zusammen zum Ausgang, Thrym hinten am Boden ohne offene Verletzung. Thor noch im Brautgewand, Mjölnir einmal rechts, Schleier links. Niemand hat Freyja geheiratet. Zwei kurze Blasen über den Fortgehenden, kein neues Riesenheer. Verbindliche Zustände: Thor: Fortbewegung: zu Fuß; Ort: links am Ausgang; Körperhaltung: gehend; Mitgeführte Gegenstände: Mjölnir in der rechten Hand; gefalteter Schleier links; Lebenszustand: lebend; Kleidung: Helles schweres Brautgewand über den Stiefeln, heller Schleier vor dem roten Bart; gleiche männliche Statur. Kein Schwert, kein Hammer am Gürtel.. Loki: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüner Rock und graues Kopftuch.. Thrym: Fortbewegung: zu Fuß; Ort: hinten rechts am Boden; Körperhaltung: sitzend, überwältigt, nicht erneut angreifend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer Fellmantel, braune Hose, grobe Stiefel. Keine eigene Waffe; der gestohlene Hammer ist bis zur Weihe verborgen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Loki\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Am Ende also doch mit dem Hammer.“\nDialog 2:\n  Sprecher: Thor\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Aber ohne dich wäre ich nicht hingekommen.“\nKontinuität / Änderung: Thrym wurde zwischen 11 und 12 überwältigt; kein expliziter Gewaltschlag und keine automatische Wiederauferstehung. Waffe zurückgewonnen. Freyja bleibt frei; keine neue Waffe als Belohnung.\n",
+    "book_author": "",
+    "editorial_script_id": "thor-gestohlener-hammer-12",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Thor – Der gestohlene Hammer · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

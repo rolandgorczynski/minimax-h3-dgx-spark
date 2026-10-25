@@ -1,0 +1,212 @@
+TITEL: Walther und Hildegund – Gemeinsam in die Freiheit
+AUTOR: 
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Vom verlockenden weiten Weg zur Enge des Kampfplatzes und einem erschöpften gemeinsamen Aufbruch. Bildstil offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Walther
+Aussehen: Junger erwachsener Mann, kräftig, lange dunkelbraune Haare im Nacken gebunden, kurzer Bart.
+Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.
+Persönlichkeit und Vorgeschichte: Als Geisel mit Hildegund am fremden Hof. Will gemeinsam heim und gerät durch den mitgeführten Schatz in neue Gewalt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hildegund
+Aussehen: Junge erwachsene Frau, kräftige aufrechte Haltung, langes blondes Haar zu einem festen Zopf.
+Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Handelnde Gefährtin: trägt bei der Flucht mit, hält die gemeinsame Richtung und versorgt später auch die gegnerischen Verwundeten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gunther
+Aussehen: Erwachsener breiter Mann mit kurzem schwarzem Haar, glattem Gesicht, scharfem Blick.
+Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.
+Persönlichkeit und Vorgeschichte: Verfolgt das Paar wegen seines Goldes. Die Gier beschädigt auch jene, die sie durchsetzen sollen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hagen
+Aussehen: Erwachsener sehniger Mann mit schulterlangem schwarzem Haar und schmalem dunklem Bart. Nicht der junge Hagen der Greifeninsel.
+Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.
+Persönlichkeit und Vorgeschichte: Walthers früherer Gefährte, hier auf Gunthers Seite. Die Begegnung zwingt ihn zwischen Bindung und Gewalt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Hof ohne Ausgang
+Ort und Zeit: Hof Attilas, vor der Flucht
+Sichtbare Figuren: Walther, Hildegund
+Bildbeschreibung: Breite Einstellung eines belebten fremden Hofs; Walther und Hildegund stehen vorn dicht zusammen, im fernen Tor unbenannte Wachen. Keine Kerkergitter als Ersatz für den Geiselstatus und keine Schlacht. Ihre Hände sind leer, Walthers Klinge steckt links. Zwei kleine Blasen im ruhigen Vordergrund. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links im Innenhof; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hildegund: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Walther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir könnten es hier noch Jahre aushalten.“
+Dialog 2:
+  Sprecher: Hildegund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Aushalten ist nicht heimkommen.“
+Kontinuität / Änderung: Beide leben als Geiseln an Attilas Hof, keine frei reisenden Gäste. Der Hofherr bleibt Hintergrund, keine zusätzliche persönliche Handlung.
+
+KACHEL 2: Die Gelegenheit
+Ort und Zeit: Seitlicher Durchgang desselben Hofs, später
+Sichtbare Figuren: Walther, Hildegund
+Bildbeschreibung: Halbnahe. Die zwei stehen bereits an einem gerade unbeaufsichtigten seitlichen Durchgang. Jeder hält genau einen geschlossenen Ledersack; kein verstreutes Gold über dem ganzen Boden. Hildegund blickt auf den freien Weg, Walther zu ihr. Die Gelegenheit bleibt knapp, kein erfundener Gift- oder Festtrick wird als Überlieferung ausgeführt. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links im Durchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossener kleiner Ledersack rechts; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hildegund: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossener kleiner Ledersack links; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hildegund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt. Zusammen.“
+Kontinuität / Änderung: Zwischen 1 und 2 haben sie je einen Teil des mitgeführten Schatzes aufgenommen. Insgesamt zwei Säcke, keine plötzlich vervielfachten Truhen. Fluchtgelegenheit ist überliefert, ihre genaue Inszenierung frei.
+
+KACHEL 3: Zwei Schritte
+Ort und Zeit: Waldweg nach dem Entkommen, Nacht
+Sichtbare Figuren: Walther, Hildegund
+Bildbeschreibung: Totale im Mondlicht. Das Paar geht zu Fuß auf demselben Waldpfad; jeder trägt seinen einen Sack in der bekannten Hand. Kein Pferd, kein plötzliches Gefolge, keine neue Waffe. Walther schaut seitlich zu Hildegund, diese nach vorn. Der dunkle Hof ist nicht mehr sichtbar. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: ein Ledersack rechts; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hildegund: Fortbewegung: zu Fuß; Ort: rechts auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: ein Ledersack links; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe..
+Erzählertext: Die Freiheit begann nicht mit Sicherheit.
+Dialoge: keine
+Kontinuität / Änderung: Hof verlassen, Heimreise begonnen. Beide zu Fuß; keine ungenannten Auf- und Abstiege. Die zwei Säcke bleiben geschlossen.
+
+KACHEL 4: Bis zum anderen Ufer
+Ort und Zeit: Weg in der Rheingegend, später Tag
+Sichtbare Figuren: Walther, Hildegund
+Bildbeschreibung: Ruhige Rast oberhalb eines breiten Flusses in der Ferne. Beide sitzen erschöpft am gleichen Weg, die zwei Säcke neben ihren Füßen statt gleichzeitig in ihren Händen. Keine Karte mit behaupteter exakter Route. Hildegund zeigt mit leerer rechter Hand in die gemeinsame Richtung. Zwei kurze Blasen oben. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links neben Hildegund; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Sack neben dem rechten Fuß; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hildegund: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Sack neben dem linken Fuß; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Walther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Noch ein Stück?“
+Dialog 2:
+  Sprecher: Hildegund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Erst atmen. Dann noch eins.“
+Kontinuität / Änderung: Ausdrücklicher späterer Reisetag. Säcke zum Rasten abgestellt; das gemeinsame Durchhalten ist keine mühelose schnelle Reise.
+
+KACHEL 5: Ein Preis auf dem Weg
+Ort und Zeit: Gunthers Aufenthaltsort am Rhein, später
+Sichtbare Figuren: Gunther, Hagen
+Bildbeschreibung: Halbtotale. Gunther links und Hagen rechts an einem schlichten Tisch, beide mit leeren Händen und eingesteckten Klingen. Auf dem Tisch keine Karte mit erfundener Geheimroute und kein entwendeter Teil des Schatzes. Gunther wendet den Blick erwartungsvoll zum Ausgang, Hagen bleibt ernst. Ein kleiner Erzählerkasten statt zusätzlicher sprechender Botenfigur. Verbindliche Zustände: Gunther: Fortbewegung: zu Fuß; Ort: links an einem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hagen: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt.
+Erzählertext: Am Rhein erfuhr Gunther von ihrem Gold. Er brach zur Verfolgung auf.
+Dialog 1:
+  Sprecher: Gunther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wer so viel trägt, kommt nicht schnell voran.“
+Kontinuität / Änderung: Neuer Blickpunkt: Gunther hört vom Schatz, besitzt ihn aber nicht. Hagen ist sein Begleiter und noch nicht im persönlichen Gespräch mit Walther.
+
+KACHEL 6: Enger als gedacht
+Ort und Zeit: Waldiger Engpass in den Vogesen, nach weiterer Reise
+Sichtbare Figuren: Walther, Hildegund, Gunther, Hagen
+Bildbeschreibung: Breite Übersicht mit klaren Seiten. Links Walther am Durchgang, Hildegund dahinter geschützt am Felsen. Neben ihr liegen genau zwei geschlossene Säcke. Rechts blockieren Gunther und Hagen den Zugang. Noch alle Schwerter eingesteckt, kein bereits überstandener Kampf. Keine zusätzliche Heerschar im engen Raum. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links vor dem engen Durchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hildegund: Fortbewegung: zu Fuß; Ort: hinter Walther links am Felsen; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe.. Gunther: Fortbewegung: zu Fuß; Ort: rechts am Zugang zum Engpass; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hagen: Fortbewegung: zu Fuß; Ort: rechts hinter Gunther; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Gunther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Das Gold bleibt hier.“
+Kontinuität / Änderung: Zwischen 4 und 6 Reisezumraum mit längerem Ortswechsel; Säcke wurden am Felsen abgestellt. Der Schatz ist der Streitgrund, keine neu erfundene persönliche Beleidigung.
+
+KACHEL 7: Ein altes Gesicht
+Ort und Zeit: Derselbe Engpass
+Sichtbare Figuren: Walther, Hagen
+Bildbeschreibung: Halbnahe auf Walther links und Hagen rechts, gegenseitiges Wiedererkennen statt erstauntes Kennenlernen. Hände noch ohne Klingen. Hintergrund nur Fels, die übrigen sind nicht verschwunden, sondern außerhalb des Ausschnitts. Zwei kurze Blasen, Blickrichtung eindeutig. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links vor dem Felsen; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt. Hagen: Fortbewegung: zu Fuß; Ort: rechts etwas vor Gunthers Position; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Walther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du weißt, wer ich bin.“
+Dialog 2:
+  Sprecher: Hagen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ja.“
+Kontinuität / Änderung: Walther und Hagen sind frühere Gefährten. Nicht mit Hagen von der Greifeninsel vermischen. Noch kein Einlenken oder beendeter Streit.
+
+KACHEL 8: Kein Gold wird schwerer
+Ort und Zeit: Derselbe Engpass, während der Kämpfe
+Sichtbare Figuren: Walther, Gunther, Hagen
+Bildbeschreibung: Ein übersichtlicher Kampfmoment. Walther links pariert Gunthers rechte Klinge; Hagen kommt rechts seitlich hinzu mit seiner eigenen einen Klinge. Genau drei Männer und genau drei Schwerter; alle linken Scheiden leer. Hildegund bleibt außerhalb dieses engen Ausschnitts bei den Säcken. Keine Verstümmelung im Bild. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links im Engpass; Körperhaltung: mit gebeugten Knien kämpfend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.; Verletzungen: unverletzt. Gunther: Fortbewegung: zu Fuß; Ort: rechts unmittelbar vor Walther; Körperhaltung: vorwärts drängend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.; Verletzungen: unverletzt. Hagen: Fortbewegung: zu Fuß; Ort: rechts seitlich hinter Gunther; Körperhaltung: mit einem Schritt in den Kampf tretend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.; Verletzungen: unverletzt.
+Erzählertext: Die Gier machte aus der Heimreise eine neue Gefangenschaft.
+Dialoge: keine
+Kontinuität / Änderung: Zwischen 7 und 8 ziehen die drei ihre jeweils eigene Klinge. Freie Verdichtung der schweren Kämpfe; keine spätere leichte Wunderheilung.
+
+KACHEL 9: Drei Verwundete
+Ort und Zeit: Derselbe Engpass, nach den Kämpfen
+Sichtbare Figuren: Walther, Gunther, Hagen, Hildegund
+Bildbeschreibung: Ruhiger breiter Blick nach einer Zeitlücke. Die drei Männer sitzen voneinander getrennt, erschöpft und verletzt, ihre jeweils eine Klinge liegt neben ihnen. Keine offenen Wunden. Hildegund kniet in der Mitte mit ihrem abgelegten grauen Tuch, nicht mit einem unvermittelt vollständigen Arztkoffer. Die zwei Säcke bleiben links hinten am Felsen, unberührt. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links an einem Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: linke Schulter schwer verletzt, schmerzhaft eingeschränkt. Hildegund: Fortbewegung: zu Fuß; Ort: mittig vor den Verwundeten; Körperhaltung: knieend; Mitgeführte Gegenstände: graues Schultertuch in beiden Händen; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe.. Gunther: Fortbewegung: zu Fuß; Ort: rechts am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: rechtes Bein schwer verletzt, Gehen eingeschränkt. Hagen: Fortbewegung: zu Fuß; Ort: rechts zwischen den beiden; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: linker Oberarm schwer verletzt, Bewegung eingeschränkt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hildegund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Keiner greift mehr nach einer Klinge.“
+Kontinuität / Änderung: Die konkreten verdeckten Verletzungsorte sind freie bildliche Festlegung statt expliziter Verstümmelung. Sie bleiben in den folgenden Kacheln bestehen. Hildegund hat ihr eigenes Tuch abgenommen.
+
+KACHEL 10: Zuerst halten
+Ort und Zeit: Beim linken Felsen, kurz danach
+Sichtbare Figuren: Walther, Hildegund
+Bildbeschreibung: Nahe auf Hildegunds Hände am bereits angelegten grauen Schulterverband. Walther sitzt still, sein Schwert liegt weiterhin am Boden außerhalb des Ausschnitts. Das Tuch ist jetzt in Stoffstreifen geteilt, kein zweites volles Tuch gleichzeitig an Hildegunds Schultern. Kein blutiger Detailblick. Eine knappe Blase. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: linke Schulter schwer verletzt, jetzt mit grauem Tuch verbunden. Hildegund: Fortbewegung: zu Fuß; Ort: rechts vor Walther; Körperhaltung: knieend; Mitgeführte Gegenstände: kurzes Ende des grauen Tuchverbands in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Walther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du musst das bei ihnen nicht auch tun.“
+Kontinuität / Änderung: Zwischen 9 und 10 hat Hildegund das eigene Tuch in Streifen geteilt und Walther verbunden. Sie bleibt handelnde Person, kein bloßes Ziel der männlichen Rettung.
+
+KACHEL 11: Auch die andere Seite
+Ort und Zeit: Beim rechten Felsen, unmittelbar danach
+Sichtbare Figuren: Hagen, Hildegund, Gunther
+Bildbeschreibung: Halbnahe. Hildegund links versorgt Hagens linken Oberarm. Gunther sitzt rechts hinten mit bereits bandagiertem rechten Bein; kein gesunder gehender König. Zwei Klingen liegen getrennt bei ihren Besitzern. Hildegunds eigene Schultern sind ohne das ursprüngliche graue Tuch. Eine kurze Antwortblase bei ihr. Verbindliche Zustände: Hildegund: Fortbewegung: zu Fuß; Ort: links vor Hagen; Körperhaltung: knieend; Mitgeführte Gegenstände: ein Ende des grauen Verbandstreifens in beiden Händen; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe.. Gunther: Fortbewegung: zu Fuß; Ort: rechts hinter Hagen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: rechtes Bein schwer verletzt, mit einem grauen Tuchstreifen verbunden. Hagen: Fortbewegung: zu Fuß; Ort: rechts am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: linker Oberarm schwer verletzt, grauer Verband angelegt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hildegund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Eine Wunde wird nicht kleiner, weil sie einem anderen gehört.“
+Kontinuität / Änderung: Zwischen den Bildern versorgt Hildegund auch Gunthers rechtes Bein; hier ist der Abschluss der Versorgung Hagens zu sehen. Keine zusätzlichen Verletzungen und keine heilenden Zauber.
+
+KACHEL 12: Was noch genommen werden könnte
+Ort und Zeit: Engpass nach der Versorgung
+Sichtbare Figuren: Walther, Gunther, Hagen, Hildegund
+Bildbeschreibung: Weite stille Gegenüberstellung. Drei verbundenene Männer, drei weiterhin abgelegte Schwerter. Die beiden geschlossenen Goldsäcke liegen links unter Hildegunds Blick; kein Sieger sitzt auf einem Schatzberg. Gesichter erschöpft, nicht fröhlich versöhnt. Zwei kurze Blasen im freien oberen Felsraum. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: linke Schulter schwer verletzt, grau verbunden. Hildegund: Fortbewegung: zu Fuß; Ort: links hinter Walther; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe.. Gunther: Fortbewegung: zu Fuß; Ort: rechts am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: rechtes Bein schwer verletzt, grau verbunden. Hagen: Fortbewegung: zu Fuß; Ort: mittig am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: linker Oberarm schwer verletzt, grau verbunden.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Gunther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und wenn wir weiterkämpfen?“
+Dialog 2:
+  Sprecher: Walther
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann bleibt bald keiner, der etwas heimtragen kann.“
+Kontinuität / Änderung: Alle Verletzungen bestehen fort, keine sofortige Genesung. Die Auseinandersetzung wird beendet, nicht rückwirkend für ungeschehen erklärt.
+
+KACHEL 13: Aufheben ohne Angriff
+Ort und Zeit: Derselbe Engpass, vor dem Aufbruch
+Sichtbare Figuren: Walther, Hildegund, Hagen, Gunther
+Bildbeschreibung: Halbtotale. Walther steht langsam auf, Hildegund stützt ihn von seiner rechten Seite und trägt ihren Sack links. Walther trägt den anderen Sack rechts; die linke Schulter bleibt verbunden. Die Schwerter sind jetzt je in der eigenen Scheide, keine Klinge mehr im Sand. Gunther und Hagen bleiben erschöpft sitzend zurück. Kein neuer Kampf. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links neben Hildegund; Körperhaltung: mühsam stehend; Mitgeführte Gegenstände: ein geschlossener Sack in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: linke Schulter schwer verletzt, grau verbunden. Hildegund: Fortbewegung: zu Fuß; Ort: rechts bei Walther; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossener Sack links, rechte Hand an Walthers unverletzter rechter Seite; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe.. Gunther: Fortbewegung: zu Fuß; Ort: hinten links am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weinroter Rock, dunkle Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: rechtes Bein schwer verletzt, grau verbunden. Hagen: Fortbewegung: zu Fuß; Ort: hinten rechts am Felsen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Rock, braune Hose und schwarze Stiefel. Ein Schwert mit einer linken Gürtelscheide; kein Helm und kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: linker Oberarm schwer verletzt, grau verbunden.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hildegund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Langsam. Wir haben noch einen Weg.“
+Kontinuität / Änderung: Zwischen 12 und 13 wurden die Klingen ohne neuen Angriff eingesteckt und die zwei Säcke aufgenommen. Hildegund trägt wieder ihren Sack links; das graue Tuch bleibt als Verbände verbraucht.
+
+KACHEL 14: Gemeinsam weiter
+Ort und Zeit: Weg aus den Vogesen, später
+Sichtbare Figuren: Walther, Hildegund
+Bildbeschreibung: Weite Rückenansicht des fortgehenden Paars. Walther links geht langsam, Hildegund rechts bleibt dicht bei ihm. Keine geheilte Schulter, keine neuen Pferde und keine vertauschte Tragehand. In der Ferne öffnet sich der Weg, die Gegner sind aus dem Bild. Viel freier Himmel, kein triumphaler Schatzglanz. Verbindliche Zustände: Walther: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: langsam gehend; Mitgeführte Gegenstände: ein Sack in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelblaue Tunika, braune Hose und Stiefel. Ein Schwert und eine linke Gürtelscheide; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.; Verletzungen: linke Schulter schwer verletzt, grau verbunden. Hildegund: Fortbewegung: zu Fuß; Ort: rechts neben Walther; Körperhaltung: gehend; Mitgeführte Gegenstände: ein Sack links, rechte Hand stützt Walther von rechts; Lebenszustand: lebend; Kleidung: Dunkelgrünes Reisekleid, graues Schultertuch, braune Schuhe, brauner Gürtel. Keine Waffe..
+Erzählertext: Die Freiheit ging weiter. Leichter war sie nicht geworden.
+Dialoge: keine
+Kontinuität / Änderung: Die Heimreise wird fortgesetzt, ihr vollständiger späterer Ausgang hier nicht vorweggenommen. Überlebende verwundet, kein müheloser Triumph und kein anschließend gekrönter Hagen.

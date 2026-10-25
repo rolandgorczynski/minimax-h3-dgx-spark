@@ -1,0 +1,181 @@
+TITEL: Wolfdietrich – Die Gefährten nicht vergessen
+AUTOR: 
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Wiederkehrende leere und besetzte Plätze, kalte Trennung und gemeinsamer Ausgang ins Licht. Bildstil offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Wolfdietrich
+Aussehen: Junger erwachsener Mann, kräftige Statur, dunkelbraune schulterlange Haare, kurzer Bart. Nicht Dietrich von Bern.
+Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.
+Persönlichkeit und Vorgeschichte: Nach dem Tod des Vaters verdrängt. Die Rückkehr gilt nicht nur seinem Reich, sondern den Menschen, die wegen ihrer Treue zu ihm gefangen sind.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Berchtung
+Aussehen: Älterer breitschultriger Mann, weißgrauer Vollbart, kurze graue Haare, ernster Blick.
+Kleidung: Dunkelbrauner Wollrock, grober Ledergürtel, graue Hose und braune Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Hält mit seinen Söhnen zu Wolfdietrich und verliert durch diese Entscheidung seine Freiheit.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Berchtungs erster Sohn
+Aussehen: Erwachsener kräftiger Mann mit braunem kurzen Bart und lockigem Haar.
+Kleidung: Ockerfarbene Tunika, dunkle Hose und braune Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Einer der Söhne Berchtungs, bleibt an dessen Seite. Anonyme repräsentative Rolle, kein erfundener historischer Eigenname.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Berchtungs zweiter Sohn
+Aussehen: Erwachsener schlanker Mann mit glattem Gesicht und dunkelblondem Haar.
+Kleidung: Dunkelgrüne Tunika, braune Hose und graue Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Weiterer Sohn Berchtungs, teilt die Gefangenschaft. Kleidung und Gesicht unterscheiden ihn vom Bruder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wolfdietrichs Bruder
+Aussehen: Erwachsener Mann mit schwarzem kurzen Haar und schmalem dunklem Bart, hageres Gesicht.
+Kleidung: Dunkelblauer langer Rock, breiter verzierter Gürtel, schwarze Schuhe. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Repräsentative Gegenfigur des Streits mit den Brüdern, ohne neue Einzelbiografie oder eigene Nebenhandlung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Nach dem Vater
+Ort und Zeit: Herrschaftssaal, nach dem Tod des Vaters
+Sichtbare Figuren: Wolfdietrich, Wolfdietrichs Bruder
+Bildbeschreibung: Totale. Ein leerer Herrschaftssessel rechts, der Bruder davor, Wolfdietrich links mit Abstand und leerer Hand. Keine Vaterleiche und keine weitere Krone in Wolfdietrichs Hand. Seine eine Klinge steckt links. Der Raum wirkt groß und fremd statt festlich. Zwei kurze Blasen im freien Hintergrund. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links vor dem Thronsessel; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wolfdietrichs Bruder: Fortbewegung: zu Fuß; Ort: rechts neben dem leeren Sessel; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer langer Rock, breiter verzierter Gürtel, schwarze Schuhe. Keine sichtbare Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wolfdietrich
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier war auch mein Platz.“
+Dialog 2:
+  Sprecher: Wolfdietrichs Bruder
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „War.“
+Kontinuität / Änderung: Die Intrigen und der Streit haben Wolfdietrichs Stellung bereits zerstört. Nicht Dietrich von Bern einsetzen; keine neue historische Reichszuordnung.
+
+KACHEL 2: Die Seite wählen
+Ort und Zeit: Hof am Ausgang derselben Burg
+Sichtbare Figuren: Wolfdietrich, Berchtung, Berchtungs erster Sohn, Berchtungs zweiter Sohn
+Bildbeschreibung: Halbtotale. Wolfdietrich links am Tor, Berchtung rechts und die zwei verschieden gekleideten Söhne dicht hinter ihm. Leere Hände und keine aufgestellten Waffen. Das offene Tor liegt hinter Wolfdietrich. Berchtung tritt ihm einen Schritt näher statt sich von ihm abzuwenden. Zwei Blasen oben. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links am Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Berchtung: Fortbewegung: zu Fuß; Ort: rechts ihm zugewandt; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelbrauner Wollrock, grober Ledergürtel, graue Hose und braune Schuhe. Keine Waffe.. Berchtungs erster Sohn: Fortbewegung: zu Fuß; Ort: hinter Berchtung links; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Tunika, dunkle Hose und braune Schuhe. Keine Waffe.. Berchtungs zweiter Sohn: Fortbewegung: zu Fuß; Ort: hinter Berchtung rechts; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika, braune Hose und graue Schuhe. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wolfdietrich
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wer jetzt zu mir hält, verliert mehr als Worte.“
+Dialog 2:
+  Sprecher: Berchtung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann lass uns nicht nur bei Worten bleiben.“
+Kontinuität / Änderung: Die beiden sichtbaren Söhne vertreten den Beistand der Söhne in der verdichteten Vorlage. Keine Behauptung, dies sei deren vollständige überlieferte Anzahl.
+
+KACHEL 3: Die andere Seite des Tores
+Ort und Zeit: Äußeres Burgtor, kurz nach Wolfdietrichs Entkommen
+Sichtbare Figuren: Wolfdietrich, Berchtung, Berchtungs erster Sohn, Berchtungs zweiter Sohn
+Bildbeschreibung: Ein klarer Moment der Trennung. Wolfdietrich links bereits außerhalb, Berchtung und Söhne rechts hinter der schließenden Torhälfte. Unbenannte Wachen im Hintergrund halten sie zurück; keine Hinrichtung oder neuen Verletzungen. Wolfdietrich greift nicht mit einem plötzlich gezogenen Schwert durch das Tor. Eine kurze Blase aus dem Inneren. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links außerhalb der Mauer; Körperhaltung: stehend, zum Tor zurückgewandt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Berchtung: Fortbewegung: zu Fuß; Ort: rechts hinter dem halbgeschlossenen Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelbrauner Wollrock, grober Ledergürtel, graue Hose und braune Schuhe. Keine Waffe.. Berchtungs erster Sohn: Fortbewegung: zu Fuß; Ort: hinter Berchtung im Tordurchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Tunika, dunkle Hose und braune Schuhe. Keine Waffe.. Berchtungs zweiter Sohn: Fortbewegung: zu Fuß; Ort: neben dem ersten Sohn im Tordurchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika, braune Hose und graue Schuhe. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Berchtung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Geh!“
+Kontinuität / Änderung: Wolfdietrich entkommt, die Unterstützer bleiben in Gefangenschaft. Ihre Lage darf in späteren Bildern nicht als freiwilliges bequemes Warten umgedeutet werden.
+
+KACHEL 4: Freiheit für einen
+Ort und Zeit: Landweg weit von der Burg, später
+Sichtbare Figuren: Wolfdietrich
+Bildbeschreibung: Weite Rückenansicht Wolfdietrichs auf einem menschenleeren Landweg. Die Heimatburg ist nicht mehr zu sehen. Mantel hängt schwer, Schritte müde, Schwert eingesteckt. Kein triumphierender Gefolgstrupp. Die leere Wegbreite neben ihm erinnert an die fehlenden Gefährten. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: mittig auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Er war entkommen. Sie nicht.
+Dialoge: keine
+Kontinuität / Änderung: Zeitsprung zur Zeit fern der Heimat. Keine Begleiter tauchen ohne Freilassung wieder auf; Wolfdietrich ist allein zu Fuß.
+
+KACHEL 5: Der leere Platz
+Ort und Zeit: Ein schlichter Rastplatz, Abend in der Fremde
+Sichtbare Figuren: Wolfdietrich
+Bildbeschreibung: Halbtotale. Wolfdietrich allein links vor einem kleinen Feuer, rechts nur ein unbesetzter Stein, auf dem jemand sitzen könnte. Kein weiteres Abenteuer, kein neues Tier und kein verlorener Schatz. Eine Hand hält den Mantel geschlossen, kein neues Werkzeug. Das Schwert bleibt eingesteckt. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links vor einem niedrigen Rastfeuer; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wolfdietrich
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich könnte weitergehen.“
+Kontinuität / Änderung: Eine Rast innerhalb der unbestimmt langen Bewährungszeit, keine konkrete neue Sage. Der leere Platz ist Bildmotiv, keine tatsächliche Geistererscheinung Berchtungs.
+
+KACHEL 6: Was weitergehen hieße
+Ort und Zeit: Derselbe Rastplatz, derselbe Abend
+Sichtbare Figuren: Wolfdietrich
+Bildbeschreibung: Näher und ruhiger als zuvor. Wolfdietrich steht jetzt neben dem Feuer und blickt gegen die Richtung des bisherigen Weiterwegs. Beide Hände leer. Auf dem leeren Stein liegt nur Licht, kein plötzlich empfangener Brief. Eine einzelne Blase oben, keine erklärende Folge von Fantasiekämpfen. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links neben dem Rastfeuer; Körperhaltung: aufgestanden, Blick zurück in Richtung Heimat; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wolfdietrich
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann blieben sie dort.“
+Kontinuität / Änderung: Wolfdietrich ist zwischen 5 und 6 aufgestanden. Die Rückkehrentscheidung entsteht aus nicht vergessener Verpflichtung, nicht aus einem neu erfundenen Nachrichtengeber.
+
+KACHEL 7: Derselbe Weg zurück
+Ort und Zeit: Vor dem Heimattor, nach weiterer Bewährung
+Sichtbare Figuren: Wolfdietrich, Wolfdietrichs Bruder
+Bildbeschreibung: Weite Gegenüberstellung wie beim ersten Ausschluss, nun von außen. Wolfdietrich links vor dem Tor, sein Bruder rechts erhöht auf der Plattform; kein Pferd und kein neuer riesiger Heerzug. Nur entfernte unbenannte Menschen an der Mauer. Die eigentliche Auseinandersetzung ist noch nicht entschieden. Eine kurze Blase Wolfdietrichs. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links vor dem Burgtor; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wolfdietrichs Bruder: Fortbewegung: zu Fuß; Ort: rechts auf der Torplattform; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer langer Rock, breiter verzierter Gürtel, schwarze Schuhe. Keine sichtbare Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wolfdietrich
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich bin nicht nur für meinen Platz zurück.“
+Kontinuität / Änderung: Ausdrücklicher Zeitsprung der Rückkehr. Der zuvor staubige Mantel ist derselbe, keine neu verliehene Rüstung; Schwert noch eingesteckt.
+
+KACHEL 8: Der Preis der Rückkehr
+Ort und Zeit: Burghof während der Rückgewinnung
+Sichtbare Figuren: Wolfdietrich
+Bildbeschreibung: Ein einzelner kämpferischer Moment im Gegenlicht: Wolfdietrich links im Hof, seine eine Klinge vor dem Körper, leere Scheide links sichtbar. Rechts nur zurückweichende unbenannte bewaffnete Silhouetten mit eigenen einzelnen Waffen. Kein Blut und kein abgetrennter Körper. Kein erfundener benannter neuer Gegner. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links im Burghof; Körperhaltung: mit gesenktem Körper vorwärtsdrängend; Mitgeführte Gegenstände: ein Schwert in der rechten Hand; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..
+Erzählertext: Die Rückkehr blieb nicht ohne Kampf.
+Dialoge: keine
+Kontinuität / Änderung: Zwischen 7 und 8 zieht Wolfdietrich seine Klinge. Die Vorlage fasst die Rückgewinnung zusammen; keine zusätzliche Schlacht mit eigenem Namen, neuem Monster oder neuer Magie hinzufügen.
+
+KACHEL 9: Nicht zum Sessel
+Ort und Zeit: Herrschaftssaal nach der Rückgewinnung
+Sichtbare Figuren: Wolfdietrich
+Bildbeschreibung: Ruhige Totale desselben Saals wie in Kachel 1. Der Bruder ist nicht mehr im Raum, sein Schicksal bleibt unbestimmt. Wolfdietrich geht am leeren Herrschaftssessel vorbei zum seitlichen Ausgang. Seine eine Klinge ist wieder eingesteckt, beide Hände leer. Keine Krönung und keine Jubelmenge. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links am unbesetzten Sessel vorbei; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Nach der gewonnenen Rückkehr hat Wolfdietrich die Klinge wieder eingesteckt. Er sucht zuerst die Gefangenen; der Bruder wird nicht ohne Quellenbeleg getötet dargestellt.
+
+KACHEL 10: Die Tür für andere
+Ort und Zeit: Vor dem Haftzimmer, unmittelbar danach
+Sichtbare Figuren: Wolfdietrich, Berchtung, Berchtungs erster Sohn, Berchtungs zweiter Sohn
+Bildbeschreibung: Blick durch eine geöffnete Tür. Wolfdietrich links im Licht des Gangs, die drei Gefangenen rechts auf einfachen Bänken. Ihre bekannte Kleidung ist verbraucht und staubig, Gesichter dieselben. Keine plötzlich nachgewachsenen Körperteile, keine offenen Wunden. Das geöffnete Schloss ist ohne Detail im Türrahmen. Eine kurze Blase Berchtungs. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links an der bereits geöffneten Zellentür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Berchtung: Fortbewegung: zu Fuß; Ort: rechts im Raum; Körperhaltung: auf einer Bank sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelbrauner Wollrock, grober Ledergürtel, graue Hose und braune Schuhe. Keine Waffe.. Berchtungs erster Sohn: Fortbewegung: zu Fuß; Ort: hinter Berchtung; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Tunika, dunkle Hose und braune Schuhe. Keine Waffe.. Berchtungs zweiter Sohn: Fortbewegung: zu Fuß; Ort: rechts neben dem Bruder; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika, braune Hose und graue Schuhe. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Berchtung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du bist wieder da.“
+Kontinuität / Änderung: Die Gefangenschaft endet erst jetzt mit der geöffneten Tür. Den genauen Schlüsselweg nicht als zusätzliches Abenteuer erfinden; die Figuren sind lebend.
+
+KACHEL 11: Die Antwort
+Ort und Zeit: Im geöffneten Haftzimmer
+Sichtbare Figuren: Wolfdietrich, Berchtung, Berchtungs erster Sohn, Berchtungs zweiter Sohn
+Bildbeschreibung: Halbnahe. Wolfdietrich links kniet auf Augenhöhe des sitzenden Berchtung, beide Hände offen und leer. Die zwei Söhne stehen im Hintergrund schon bereit, die offene Tür bleibt sichtbar. Kein Dolch in einer angebotenen Hand. Eine Blase Wolfdietrichs, Berchtungs Reaktion im Gesicht. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links vor Berchtung; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Berchtung: Fortbewegung: zu Fuß; Ort: rechts auf der Bank; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelbrauner Wollrock, grober Ledergürtel, graue Hose und braune Schuhe. Keine Waffe.. Berchtungs erster Sohn: Fortbewegung: zu Fuß; Ort: hinter der Bank; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Tunika, dunkle Hose und braune Schuhe. Keine Waffe.. Berchtungs zweiter Sohn: Fortbewegung: zu Fuß; Ort: rechts neben der Bank; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika, braune Hose und graue Schuhe. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wolfdietrich
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nicht, um euch hierzulassen.“
+Kontinuität / Änderung: Beide Söhne sind zwischen 10 und 11 von den Bänken aufgestanden. Wolfdietrich kniet aus Nähe, nicht weil er erneut besiegt oder verwundet wurde.
+
+KACHEL 12: Vier Plätze im Licht
+Ort und Zeit: Ausgang in den Burghof, später
+Sichtbare Figuren: Wolfdietrich, Berchtung, Berchtungs erster Sohn, Berchtungs zweiter Sohn
+Bildbeschreibung: Breite Rückenansicht der gemeinsam ins Tageslicht tretenden vier Männer. Wolfdietrich geht in ihrer Mitte statt allein voraus; sein Schwert steckt links, die anderen sind unbewaffnet. Der leere Thronsessel ist nicht mehr im Bild. Keine Flucht vor neuen Verfolgern. Die freie Wegbreite von Kachel 4 ist jetzt von Menschen gefüllt. Verbindliche Zustände: Wolfdietrich: Fortbewegung: zu Fuß; Ort: links neben Berchtung; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Mantel über dunkelroter Tunika, braune Hose und Stiefel. Ein Schwert mit einer Scheide links am Gürtel. Kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Berchtung: Fortbewegung: zu Fuß; Ort: mittig neben Wolfdietrich; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelbrauner Wollrock, grober Ledergürtel, graue Hose und braune Schuhe. Keine Waffe.. Berchtungs erster Sohn: Fortbewegung: zu Fuß; Ort: rechts hinter Berchtung; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Tunika, dunkle Hose und braune Schuhe. Keine Waffe.. Berchtungs zweiter Sohn: Fortbewegung: zu Fuß; Ort: rechts neben seinem Bruder; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika, braune Hose und graue Schuhe. Keine Waffe..
+Erzählertext: Erst jetzt war seine Rückkehr vollständig.
+Dialoge: keine
+Kontinuität / Änderung: Wolfdietrich ist zwischen 11 und 12 wieder aufgestanden. Die Unterstützer sind tatsächlich frei und gehen mit ihm. Erfolg bedeutet hier gemeinsamen Ausgang, nicht allein erlangte Herrschaft.

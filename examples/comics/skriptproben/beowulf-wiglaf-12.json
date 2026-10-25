@@ -1,0 +1,543 @@
+{
+  "mode": "editorial",
+  "name": "Beowulf und Wiglaf – Treue, wenn es schwer wird · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Angelsächsische Heldendichtung mit skandinavischem Schauplatz.\nÜBERLIEFERUNG: Anonymer Beowulf; abschließende Drachen-Episode mit Wiglaf. Historischer Vergleichstext: Gummere (1855–1919).\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nViele Jahre sind vergangen. Beowulf ist ein alter König. Nachdem ein Becher aus einem bewachten Schatz entwendet wird, verwüstet ein Drache das Land. Beowulf stellt sich der Gefahr. Im entscheidenden Kampf ziehen sich seine Begleiter zurück; nur der junge Wiglaf bleibt und hilft ihm. Gemeinsam bezwingen sie den Drachen. Beowulf ist jedoch tödlich verwundet. Wiglaf steht ihm bei und erlebt seinen Tod. Der Sieg hebt den Verlust nicht auf. Am Ende stehen Trauer, Erinnerung und die offene Frage, wie die Gemeinschaft ohne ihren König bestehen wird. Wiglafs Beistand bleibt als Beispiel gelebter Treue sichtbar.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Verlässlichkeit im entscheidenden Augenblick und Verantwortung, die an die nächste Generation weitergegeben wird.\nABGRENZUNG: Das überlieferte tragische Ende erhalten: Beowulf überlebt nicht. Wiglaf nicht ohne Beleg zu einem gekrönten Nachfolger machen. Keine Verherrlichung des Sterbens; Beistand, Verantwortung und die Kosten des Kampfes ins Zentrum stellen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_article": "STOFF UND HERKUNFT: Angelsächsische Heldendichtung mit skandinavischem Schauplatz.\nÜBERLIEFERUNG: Anonymer Beowulf; abschließende Drachen-Episode mit Wiglaf. Historischer Vergleichstext: Gummere (1855–1919).\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nViele Jahre sind vergangen. Beowulf ist ein alter König. Nachdem ein Becher aus einem bewachten Schatz entwendet wird, verwüstet ein Drache das Land. Beowulf stellt sich der Gefahr. Im entscheidenden Kampf ziehen sich seine Begleiter zurück; nur der junge Wiglaf bleibt und hilft ihm. Gemeinsam bezwingen sie den Drachen. Beowulf ist jedoch tödlich verwundet. Wiglaf steht ihm bei und erlebt seinen Tod. Der Sieg hebt den Verlust nicht auf. Am Ende stehen Trauer, Erinnerung und die offene Frage, wie die Gemeinschaft ohne ihren König bestehen wird. Wiglafs Beistand bleibt als Beispiel gelebter Treue sichtbar.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Verlässlichkeit im entscheidenden Augenblick und Verantwortung, die an die nächste Generation weitergegeben wird.\nABGRENZUNG: Das überlieferte tragische Ende erhalten: Beowulf überlebt nicht. Wiglaf nicht ohne Beleg zu einem gekrönten Nachfolger machen. Keine Verherrlichung des Sterbens; Beistand, Verantwortung und die Kosten des Kampfes ins Zentrum stellen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Ein Becher",
+        "setting": "Dunkler Schatzraum, vor dem Angriff auf das Land",
+        "characters": [
+          "0afa7569194057958f9df7a015348b0e",
+          "a6b77a04e53459f4b082e900e1fbbd79"
+        ],
+        "story": "Weite dunkle Einstellung. Links der Dieb geduckt mit einem einzigen goldenen Becher in der rechten Hand; rechts im Hintergrund der ruhende Drache. Weitere kleine Metallstücke sind unbestimmter Schatz, keine vervielfachten Becher in seinen Händen. Keine zusätzliche gewonnene Krone und kein neuer Auftraggeber. Verbindliche Zustände: Schatzdrache: Ort: rechts hinten über dem Schatz; Körperhaltung: zusammengerollt, ruhend; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck.. Becherdieb: Fortbewegung: zu Fuß; Ort: links zwischen Steinen; Körperhaltung: geduckt; Mitgeführte Gegenstände: genau ein goldener Becher rechts; Lebenszustand: lebend; Kleidung: Abgetragene braune Jacke, graue Hose und dunkle Schuhe, keine Waffe..",
+        "dialog": "Ein Becher wurde aus dem bewachten Schatz genommen.",
+        "bubbles": [],
+        "continuity": "Beginn vor der Verwüstung. Genau ein entwendeter Becher. Seine spätere Position wird nicht ohne Quelle mit Wiglaf oder dem König verknüpft.",
+        "character_states": {},
+        "continuity_state": {
+          "0afa7569194057958f9df7a015348b0e": {
+            "movement": "zu Fuß",
+            "location": "links zwischen Steinen",
+            "posture": "geduckt",
+            "held": "genau ein goldener Becher rechts",
+            "life": "lebend",
+            "clothing": "Abgetragene braune Jacke, graue Hose und dunkle Schuhe, keine Waffe."
+          },
+          "a6b77a04e53459f4b082e900e1fbbd79": {
+            "location": "rechts hinten über dem Schatz",
+            "posture": "zusammengerollt, ruhend",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Rüstung, kein Schmuck."
+          }
+        }
+      },
+      {
+        "heading": "Ein ganzes Land",
+        "setting": "Verwüsteter Landstrich, später",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b"
+        ],
+        "story": "Breite ruhige Ansicht nach der Zerstörung. Beschädigte Dächer, verlassene Alltagsgeräte und Rauch in der Ferne. Beowulf alt links, Wiglaf jung rechts, beide zu Fuß mit eingesteckter einzelner Klinge. Keine leidenden Leichen im Vordergrund. Der Becher ist hier nicht in der Hand eines der Helden. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor einem beschädigten Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "Der Zorn des Drachen traf nicht nur den Dieb.",
+        "bubbles": [],
+        "continuity": "Zeitlich nach dem Diebstahl. Beowulf ist hier bereits alter König; keine unvermittelte Wiederverjüngung aus dem früheren Heldenskript.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links vor einem beschädigten Haus",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "in der Scheide"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "rechts neben ihm",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Die Pflicht bleibt",
+        "setting": "Am Rand des beschädigten Dorfes",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b"
+        ],
+        "story": "Halbtotale. Beowulf links steht schwer, aber aufrecht, Wiglaf rechts schaut ihn prüfend an. Leere Hände, Schwerter eingesteckt. Die Verwüstung bleibt hinter ihnen sichtbar; kein prunkvoller Thronsaal. Zwei kurze Blasen mit Abstand über den Köpfen. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links gegenüber Wiglaf; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts neben dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "8a528b4e2ca5579abc0a881139e0077b",
+            "text": "Ihr seid nicht mehr der Jüngste.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "002a6e1bc9a05aa4ac51758a1e37b465",
+            "text": "Das Land ist trotzdem noch meines, wenn es Hilfe braucht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Entscheidung zur Gegenwehr, kein Wunsch nach dem eigenen Tod. Alter bedeutet nicht fehlende Verantwortung, aber begrenzte Kräfte.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links gegenüber Wiglaf",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "in der Scheide"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "rechts neben dem Weg",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Vor der Höhle",
+        "setting": "Felsiger Zugang zum Drachenhort, später",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b",
+          "a6b77a04e53459f4b082e900e1fbbd79"
+        ],
+        "story": "Totale mit eindeutigen Seiten. Beowulf links näher an der Höhle, Wiglaf und unbenannte Gefährten etwas hinter ihm, Drache rechts im Eingang. Alle menschlichen Klingen noch eingesteckt. Ein großer Tierkörper mit vier Beinen, keine Flügel. Keine voreilige Siegerpose. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor dem Felszugang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wiglaf: Fortbewegung: zu Fuß; Ort: weiter links hinter Beowulf; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Schatzdrache: Ort: rechts im großen Felseingang; Körperhaltung: auf vier Beinen, Kopf nach außen; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Der Zugang wurde zu Fuß erreicht. Die Gefährten sind zunächst dabei und gehen erst später zurück. Nicht schon jetzt alle außer Wiglaf abwesend zeichnen.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Felszugang",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "in der Scheide"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "weiter links hinter Beowulf",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "in der Scheide"
+          },
+          "a6b77a04e53459f4b082e900e1fbbd79": {
+            "location": "rechts im großen Felseingang",
+            "posture": "auf vier Beinen, Kopf nach außen",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Rüstung, kein Schmuck."
+          }
+        }
+      },
+      {
+        "heading": "Der erste Widerstand",
+        "setting": "Vor dem gleichen Felszugang, im Kampf",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "a6b77a04e53459f4b082e900e1fbbd79"
+        ],
+        "story": "Breite Seite. Beowulf links mit genau einer rechten Klinge, linke Scheide deutlich leer. Drache rechts drängt mit dem langen Hals vor, kein offenes Maul voller anatomischer Opferdetails. Funken und Staub an den Felsen statt expliziter Wunden. Andere Kämpfer nicht zu zweiten Beowulf-Kopien machen. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor dem Drachen; Körperhaltung: mit gebeugten Knien kämpfend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Schatzdrache: Ort: rechts aus dem Zugang drängend; Körperhaltung: auf vier Beinen, Hals zu Beowulf gestreckt; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Zwischen 4 und 5 hat Beowulf seine Klinge gezogen. Kampf offen. Kein Sieg, keine bestätigte tödliche Verletzung vor der eigentlichen Entscheidung Wiglafs.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Drachen",
+            "posture": "mit gebeugten Knien kämpfend",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "rechte Hand"
+          },
+          "a6b77a04e53459f4b082e900e1fbbd79": {
+            "location": "rechts aus dem Zugang drängend",
+            "posture": "auf vier Beinen, Hals zu Beowulf gestreckt",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Rüstung, kein Schmuck."
+          }
+        }
+      },
+      {
+        "heading": "Die Lücke hinter ihm",
+        "setting": "Rand des Kampfplatzes, gleichzeitig",
+        "characters": [
+          "8a528b4e2ca5579abc0a881139e0077b"
+        ],
+        "story": "Halbtotale vom Rand. Wiglaf links steht dem entfernten Kampf zugewandt. Hinter ihm gehen mehrere unbenannte Gefährten auf dem Rückweg fort; ihre Körperrichtung ist vom Kampf weg. Wiglafs Klinge steckt noch links. Keine lachenden Feiglingsfratzen, sondern Furcht. Viel Raum am verlassenen Weg neben ihm. Verbindliche Zustände: Wiglaf: Fortbewegung: zu Fuß; Ort: links zwischen Kampf und Rückweg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "Die anderen wichen zurück.",
+        "bubbles": [],
+        "continuity": "Begleiter ziehen sich im entscheidenden Kampf zurück. Wiglaf bleibt zunächst stehen und muss noch selbst entscheiden; seine Anwesenheit ist kein magischer Zwang.",
+        "character_states": {},
+        "continuity_state": {
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "links zwischen Kampf und Rückweg",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Nicht mitgehen",
+        "setting": "Derselbe Rand, Sekunden später",
+        "characters": [
+          "8a528b4e2ca5579abc0a881139e0077b"
+        ],
+        "story": "Naher auf Wiglaf. Er geht nach vorn zum Kampf, nicht den davonziehenden Gestalten hinterher. Seine einzige Klinge jetzt rechts, leere linke Scheide klar sichtbar; die linke Hand bleibt leer. Keine zweite Waffe im Hintergrund als Bewegungsduplikat. Eine kurze Blase in Richtung des alten Königs außerhalb des Bildes. Verbindliche Zustände: Wiglaf: Fortbewegung: zu Fuß; Ort: links mit Blick zum Kampf; Körperhaltung: vorwärts in Richtung Beowulf gehend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "8a528b4e2ca5579abc0a881139e0077b",
+            "text": "Ich bin hier!",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Zwischen 6 und 7 zieht Wiglaf sein eigenes Schwert und kehrt der Rückzugsrichtung den Rücken. Kein sofortiges teleportierendes Auftauchen auf dem Drachenrücken.",
+        "character_states": {},
+        "continuity_state": {
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "links mit Blick zum Kampf",
+            "posture": "vorwärts in Richtung Beowulf gehend",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "rechte Hand"
+          }
+        }
+      },
+      {
+        "heading": "Zu zweit gegen die Größe",
+        "setting": "Vor der Höhle, gemeinsamer Kampf",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b",
+          "a6b77a04e53459f4b082e900e1fbbd79"
+        ],
+        "story": "Ein klarer gemeinsamer Kampfmoment. Beowulf links, Wiglaf mittig, Drache rechts. Genau zwei menschliche Klingen, je eine rechts; die linken Scheiden leer. Die Helfer stehen auf derselben Felsfläche statt gleichzeitig auf dem Tier. Keine offene Körperverletzung und keine triumphierende Erzählzeile. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor dem Drachen; Körperhaltung: mühsam auf beiden Füßen; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Wiglaf: Fortbewegung: zu Fuß; Ort: mittig an Beowulfs rechter Seite; Körperhaltung: mit festem Stand kämpfend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Schatzdrache: Ort: rechts quer vor dem Felszugang; Körperhaltung: auf vier Beinen, Körper seitlich zum Kampf; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Wiglaf hat Beowulf erreicht und hilft wirklich. Beowulf bleibt alt und beansprucht, keine plötzlich verjüngte Kraft. Der tödliche Ausgang ist noch nicht aufgehoben.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Drachen",
+            "posture": "mühsam auf beiden Füßen",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "rechte Hand"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "mittig an Beowulfs rechter Seite",
+            "posture": "mit festem Stand kämpfend",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "rechte Hand"
+          },
+          "a6b77a04e53459f4b082e900e1fbbd79": {
+            "location": "rechts quer vor dem Felszugang",
+            "posture": "auf vier Beinen, Körper seitlich zum Kampf",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Rüstung, kein Schmuck."
+          }
+        }
+      },
+      {
+        "heading": "Der Sieg bleibt liegen",
+        "setting": "Kampfplatz nach dem Ende",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b",
+          "a6b77a04e53459f4b082e900e1fbbd79"
+        ],
+        "story": "Weite stille Einstellung. Rechts der tote Drache ohne offene Wunden, links Beowulf am Stein, Wiglaf bei ihm. Zwei Schwerter liegen je nahe ihrem Besitzer auf dem Boden, keine Hand führt eine Klinge. Keine Jubelpose und kein Kronentransfer. Der Gegner liegt still, aber der alte Mann richtet sich nicht mehr auf. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links am Fuß eines Felsens; Körperhaltung: sitzend, erschöpft zusammengesunken; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödlich verletzt; äußere Verletzung unter dem Rock verdeckt. Wiglaf: Fortbewegung: zu Fuß; Ort: mittig neben Beowulf; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.. Schatzdrache: Ort: rechts reglos vor dem Felszugang; Körperhaltung: auf der Seite liegend; Lebenszustand: tot; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..",
+        "dialog": "Der Drache war besiegt. Beowulf war tödlich verwundet.",
+        "bubbles": [],
+        "continuity": "Erst nach dem Kampf der gemeinsame Erfolg und die tödliche Folge. Der Drache bleibt tot. Beide menschlichen Klingen wurden abgelegt; kein zugleich gefüllter Gürtel und Schwert am Boden.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links am Fuß eines Felsens",
+            "posture": "sitzend, erschöpft zusammengesunken",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "am Boden",
+            "injury": "tödlich verletzt; äußere Verletzung unter dem Rock verdeckt"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "mittig neben Beowulf",
+            "posture": "knieend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "am Boden"
+          },
+          "a6b77a04e53459f4b082e900e1fbbd79": {
+            "location": "rechts reglos vor dem Felszugang",
+            "posture": "auf der Seite liegend",
+            "life": "tot",
+            "clothing": "Keine Kleidung, keine Rüstung, kein Schmuck."
+          }
+        }
+      },
+      {
+        "heading": "Dableiben",
+        "setting": "Bei Beowulf am Felsen",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b"
+        ],
+        "story": "Halbnahe. Wiglaf rechts kniet und hält mit seiner linken Hand Beowulfs rechte; die übrigen Hände liegen ruhig und leer. Kein neu erschienener Heiltrank oder glänzendes Wunder. Die beiden Klingen außerhalb des engen Ausschnitts weiterhin am Boden. Zwei kurze Blasen, Augen frei. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links am Felsen; Körperhaltung: sitzend, sehr schwach; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödlich verletzt, keine Besserung. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts unmittelbar bei ihm; Körperhaltung: knieend; Mitgeführte Gegenstände: linke Hand hält Beowulfs rechte Hand; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "002a6e1bc9a05aa4ac51758a1e37b465",
+            "text": "Du bist geblieben.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "8a528b4e2ca5579abc0a881139e0077b",
+            "text": "Ich bleibe.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Beistand statt garantierter Rettung. Keine Erholung zwischen zwei Todesankündigungen und kein bewiesenes letztes Vermächtnis zur Königswahl erfinden.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links am Felsen",
+            "posture": "sitzend, sehr schwach",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "am Boden",
+            "injury": "tödlich verletzt, keine Besserung"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "rechts unmittelbar bei ihm",
+            "posture": "knieend",
+            "held": "linke Hand hält Beowulfs rechte Hand",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "am Boden"
+          }
+        }
+      },
+      {
+        "heading": "Die Hand wird still",
+        "setting": "Derselbe Platz, kurz danach",
+        "characters": [
+          "002a6e1bc9a05aa4ac51758a1e37b465",
+          "8a528b4e2ca5579abc0a881139e0077b"
+        ],
+        "story": "Ruhige Nahaufnahme der gleichen Anordnung. Beowulfs Augen geschlossen, Haltung reglos; Wiglaf hat die Hand nicht losgelassen. Kein Blut, kein wegfliegender bestätigter Geist und keine abrupt heranrückende Krönungsfeier. Keine Sprechblase. Die minimale Veränderung der vorherigen Einstellung trägt den Verlust. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links am Felsen; Körperhaltung: reglos sitzend, Augen geschlossen; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: tot; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödliche Verletzung. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts bei ihm; Körperhaltung: knieend; Mitgeführte Gegenstände: linke Hand hält noch Beowulfs rechte Hand; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Beowulf stirbt jetzt. Er bleibt ab hier tot. Wiglafs Beistand hat Bedeutung, obwohl er den Tod nicht verhindern konnte.",
+        "character_states": {},
+        "continuity_state": {
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "links am Felsen",
+            "posture": "reglos sitzend, Augen geschlossen",
+            "held": "keine Gegenstände",
+            "life": "tot",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "am Boden",
+            "injury": "tödliche Verletzung"
+          },
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "rechts bei ihm",
+            "posture": "knieend",
+            "held": "linke Hand hält noch Beowulfs rechte Hand",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "am Boden"
+          }
+        }
+      },
+      {
+        "heading": "Wer nun bleibt",
+        "setting": "Kampfplatz, später, Blick ins offene Land",
+        "characters": [
+          "8a528b4e2ca5579abc0a881139e0077b",
+          "002a6e1bc9a05aa4ac51758a1e37b465"
+        ],
+        "story": "Weite Einstellung. Wiglaf steht links bei Beowulfs ruhendem Körper, Blick ins Land, das ohne seinen König weiterbestehen muss. Seine eigene Klinge ist wieder eingesteckt, die des Toten bleibt am Boden beim Körper. Keine Krone auf Wiglafs Kopf und keine fertige Antwort durch neue Herrscherpose. Der tote Drache nur fern am Felszugang. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: unten links am Felsen; Körperhaltung: reglos sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: tot; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödliche Verletzung. Wiglaf: Fortbewegung: zu Fuß; Ort: links neben dem toten König; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "Die Gefahr war bezwungen. Die Zukunft blieb offen.",
+        "bubbles": [],
+        "continuity": "Wiglaf ist nach dem Abschied aufgestanden und hat nur seine eigene Klinge wieder eingesteckt. Beowulfs Tod bleibt bestehen. Kein unbelegter gekrönter Nachfolger und kein verwechslungsfähiger alter König, der im Hintergrund wieder lebt.",
+        "character_states": {},
+        "continuity_state": {
+          "8a528b4e2ca5579abc0a881139e0077b": {
+            "movement": "zu Fuß",
+            "location": "links neben dem toten König",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+            "sword_position": "in der Scheide"
+          },
+          "002a6e1bc9a05aa4ac51758a1e37b465": {
+            "movement": "zu Fuß",
+            "location": "unten links am Felsen",
+            "posture": "reglos sitzend",
+            "held": "keine Gegenstände",
+            "life": "tot",
+            "clothing": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+            "sword_position": "am Boden",
+            "injury": "tödliche Verletzung"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "002a6e1bc9a05aa4ac51758a1e37b465",
+        "name": "Alter Beowulf",
+        "description": "Alter kräftiger Mann, graues kurzes Haar, kurzer weißgrauer Bart, tiefe Augenfalten. Nicht das junge Alter der Grendel-Episode.",
+        "outfit": "Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.",
+        "backstory": "Alter König, stellt sich der Gefahr für sein Land. Sein Tod bleibt Teil der Episode und wird nicht durch den Sieg aufgehoben.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "8a528b4e2ca5579abc0a881139e0077b",
+        "name": "Wiglaf",
+        "description": "Junger erwachsener Mann mit kurzem rötlichbraunem Haar, bartlosem Gesicht, kräftigen Händen.",
+        "outfit": "Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.",
+        "backstory": "Bleibt bei Beowulf, als andere weichen. Sein Beistand zählt auch dort, wo er den tödlichen Ausgang nicht verhindern kann.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "a6b77a04e53459f4b082e900e1fbbd79",
+        "name": "Schatzdrache",
+        "description": "Großer bronzebrauner schuppiger Drache, ein langer Hals, ein Kopf, vier Beine und ein langer Schwanz. Keine Flügel in dieser Inszenierung.",
+        "outfit": "Keine Kleidung, keine Rüstung, kein Schmuck.",
+        "backstory": "Bewacht einen Schatz, verwüstet nach dem Diebstahl eines Bechers das Land. Nach der Niederlage reglos und tot.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "0afa7569194057958f9df7a015348b0e",
+        "name": "Becherdieb",
+        "description": "Erwachsener hagerer Mann mit braunem kurzem Haar und glattem Gesicht.",
+        "outfit": "Abgetragene braune Jacke, graue Hose und dunkle Schuhe, keine Waffe.",
+        "backstory": "Unbenannte Rolle des Diebstahls. Keine zusätzliche Abenteuer- oder Erlösungsgeschichte.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was bedeutet Treue, wenn ein Erfolg den Verlust nicht verhindern kann?",
+      "core": "Treue beweist sich im Beistand unter Gefahr. Ein gemeinsamer Sieg hebt Sterblichkeit und die Verantwortung der Überlebenden nicht auf.",
+      "ending": "Beowulf stirbt; Wiglaf bleibt bei ihm, während die Zukunft der Gemeinschaft offensteht.",
+      "reason": "Rückzug der Gefährten, Wiglafs Entscheidung, gemeinsamer Sieg und Tod müssen ohne vorschnellen Triumph erzählt werden.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Der Sieg hebt den Verlust nicht auf.",
+          "meaning": "Wiglafs Dableiben zählt trotz des tödlichen Ausgangs, nicht als Garantie glücklicher Rettung."
+        }
+      ],
+      "causal_chain": [
+        "Der Sieg hebt den Verlust nicht auf.",
+        "Beowulf stirbt; Wiglaf bleibt bei ihm, während die Zukunft der Gemeinschaft offensteht."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "c2b8b6fb417d9eda99e5ab2474bb5b732de7cb4b9f5771a6be0e2d37d3f78527",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623617+00:00"
+    },
+    "post_summary": "Als Beowulf im Kampf gegen den Drachen Hilfe braucht, weichen seine Begleiter. Wiglaf bleibt. Der gemeinsame Sieg kann den König nicht retten – aber das Dableiben verändert, was vom Ende bleibt. Freie Adaption des Beowulf-Schlusses.",
+    "source_provenance": {
+      "title": "Beowulf und Wiglaf – Treue, wenn es schwer wird",
+      "kind": "Eigene Vorlage",
+      "creator": "Anonym überlieferter Sagenstoff; eigene deutsche Inhaltsgrundlage für den Comic",
+      "edition": "Anonymer Beowulf; abschließende Drachen-Episode mit Wiglaf. Historischer Vergleichstext: Gummere (1855–1919).; freie, neu formulierte Inhaltszusammenfassung, keine übernommene moderne Nacherzählung.",
+      "url": "https://www.gutenberg.org/cache/epub/981/pg981-images.html",
+      "territories": "Deutschland: zugrunde liegender mittelalterlicher Stoff gemeinfrei. Keine weltweite Rechtefreigabe für fremde Ausgaben, Bilder oder Verfilmungen.",
+      "rights": "Gemeinfreier historischer Sagenstoff. Dieser Eintrag enthält eine neu formulierte Inhaltsgrundlage, keine kopierte moderne Übersetzung und keine fremden Bilder. Die beigefügte Quellenadresse dient als Werk- oder Sachnachweis; deren moderne Texte werden nicht mitlizenziert. Grundlage: §§ 64 und 69 UrhG.",
+      "text": "STOFF UND HERKUNFT: Angelsächsische Heldendichtung mit skandinavischem Schauplatz.\nÜBERLIEFERUNG: Anonymer Beowulf; abschließende Drachen-Episode mit Wiglaf. Historischer Vergleichstext: Gummere (1855–1919).\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nViele Jahre sind vergangen. Beowulf ist ein alter König. Nachdem ein Becher aus einem bewachten Schatz entwendet wird, verwüstet ein Drache das Land. Beowulf stellt sich der Gefahr. Im entscheidenden Kampf ziehen sich seine Begleiter zurück; nur der junge Wiglaf bleibt und hilft ihm. Gemeinsam bezwingen sie den Drachen. Beowulf ist jedoch tödlich verwundet. Wiglaf steht ihm bei und erlebt seinen Tod. Der Sieg hebt den Verlust nicht auf. Am Ende stehen Trauer, Erinnerung und die offene Frage, wie die Gemeinschaft ohne ihren König bestehen wird. Wiglafs Beistand bleibt als Beispiel gelebter Treue sichtbar.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Verlässlichkeit im entscheidenden Augenblick und Verantwortung, die an die nächste Generation weitergegeben wird.\nABGRENZUNG: Das überlieferte tragische Ende erhalten: Beowulf überlebt nicht. Wiglaf nicht ohne Beleg zu einem gekrönten Nachfolger machen. Keine Verherrlichung des Sterbens; Beistand, Verantwortung und die Kosten des Kampfes ins Zentrum stellen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+      "id": "heldensagen-beowulf-wiglaf",
+      "post_summary": "STOFF UND HERKUNFT: Angelsächsische Heldendichtung mit skandinavischem Schauplatz. ÜBERLIEFERUNG: Anonymer Beowulf; abschließende Drachen-Episode mit Wiglaf. Historischer Vergleichstext: Gummere (1855–1919). HANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG: Viele Jahre sind vergangen. Beowulf ist ein alter König. Nachdem ein Becher aus einem bewachten Schatz entwendet wird, verwüstet ein Drache das Land. Beowulf stellt sich der Gefahr. Im entscheidenden Kampf ziehen sich seine Begleiter zurück; nur der junge Wiglaf bleibt und hilft ihm. Gemeinsam bezwingen sie den Drachen.",
+      "category": "Heldensagen und Mythen",
+      "collection": "Mittelalterliche Heldensagen"
+    },
+    "source_script": "TITEL: Beowulf und Wiglaf – Treue, wenn es schwer wird\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Von der Verwüstung zur stillen Nähe eines letzten Beistands und dem offenen Land danach. Bildstil offen.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Alter Beowulf\nAussehen: Alter kräftiger Mann, graues kurzes Haar, kurzer weißgrauer Bart, tiefe Augenfalten. Nicht das junge Alter der Grendel-Episode.\nKleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.\nPersönlichkeit und Vorgeschichte: Alter König, stellt sich der Gefahr für sein Land. Sein Tod bleibt Teil der Episode und wird nicht durch den Sieg aufgehoben.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Wiglaf\nAussehen: Junger erwachsener Mann mit kurzem rötlichbraunem Haar, bartlosem Gesicht, kräftigen Händen.\nKleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.\nPersönlichkeit und Vorgeschichte: Bleibt bei Beowulf, als andere weichen. Sein Beistand zählt auch dort, wo er den tödlichen Ausgang nicht verhindern kann.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Schatzdrache\nAussehen: Großer bronzebrauner schuppiger Drache, ein langer Hals, ein Kopf, vier Beine und ein langer Schwanz. Keine Flügel in dieser Inszenierung.\nKleidung: Keine Kleidung, keine Rüstung, kein Schmuck.\nPersönlichkeit und Vorgeschichte: Bewacht einen Schatz, verwüstet nach dem Diebstahl eines Bechers das Land. Nach der Niederlage reglos und tot.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Becherdieb\nAussehen: Erwachsener hagerer Mann mit braunem kurzem Haar und glattem Gesicht.\nKleidung: Abgetragene braune Jacke, graue Hose und dunkle Schuhe, keine Waffe.\nPersönlichkeit und Vorgeschichte: Unbenannte Rolle des Diebstahls. Keine zusätzliche Abenteuer- oder Erlösungsgeschichte.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Ein Becher\nOrt und Zeit: Dunkler Schatzraum, vor dem Angriff auf das Land\nSichtbare Figuren: Becherdieb, Schatzdrache\nBildbeschreibung: Weite dunkle Einstellung. Links der Dieb geduckt mit einem einzigen goldenen Becher in der rechten Hand; rechts im Hintergrund der ruhende Drache. Weitere kleine Metallstücke sind unbestimmter Schatz, keine vervielfachten Becher in seinen Händen. Keine zusätzliche gewonnene Krone und kein neuer Auftraggeber. Verbindliche Zustände: Schatzdrache: Ort: rechts hinten über dem Schatz; Körperhaltung: zusammengerollt, ruhend; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck.. Becherdieb: Fortbewegung: zu Fuß; Ort: links zwischen Steinen; Körperhaltung: geduckt; Mitgeführte Gegenstände: genau ein goldener Becher rechts; Lebenszustand: lebend; Kleidung: Abgetragene braune Jacke, graue Hose und dunkle Schuhe, keine Waffe..\nErzählertext: Ein Becher wurde aus dem bewachten Schatz genommen.\nDialoge: keine\nKontinuität / Änderung: Beginn vor der Verwüstung. Genau ein entwendeter Becher. Seine spätere Position wird nicht ohne Quelle mit Wiglaf oder dem König verknüpft.\n\nKACHEL 2: Ein ganzes Land\nOrt und Zeit: Verwüsteter Landstrich, später\nSichtbare Figuren: Alter Beowulf, Wiglaf\nBildbeschreibung: Breite ruhige Ansicht nach der Zerstörung. Beschädigte Dächer, verlassene Alltagsgeräte und Rauch in der Ferne. Beowulf alt links, Wiglaf jung rechts, beide zu Fuß mit eingesteckter einzelner Klinge. Keine leidenden Leichen im Vordergrund. Der Becher ist hier nicht in der Hand eines der Helden. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor einem beschädigten Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: Der Zorn des Drachen traf nicht nur den Dieb.\nDialoge: keine\nKontinuität / Änderung: Zeitlich nach dem Diebstahl. Beowulf ist hier bereits alter König; keine unvermittelte Wiederverjüngung aus dem früheren Heldenskript.\n\nKACHEL 3: Die Pflicht bleibt\nOrt und Zeit: Am Rand des beschädigten Dorfes\nSichtbare Figuren: Alter Beowulf, Wiglaf\nBildbeschreibung: Halbtotale. Beowulf links steht schwer, aber aufrecht, Wiglaf rechts schaut ihn prüfend an. Leere Hände, Schwerter eingesteckt. Die Verwüstung bleibt hinter ihnen sichtbar; kein prunkvoller Thronsaal. Zwei kurze Blasen mit Abstand über den Köpfen. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links gegenüber Wiglaf; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts neben dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Wiglaf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ihr seid nicht mehr der Jüngste.“\nDialog 2:\n  Sprecher: Alter Beowulf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das Land ist trotzdem noch meines, wenn es Hilfe braucht.“\nKontinuität / Änderung: Entscheidung zur Gegenwehr, kein Wunsch nach dem eigenen Tod. Alter bedeutet nicht fehlende Verantwortung, aber begrenzte Kräfte.\n\nKACHEL 4: Vor der Höhle\nOrt und Zeit: Felsiger Zugang zum Drachenhort, später\nSichtbare Figuren: Alter Beowulf, Wiglaf, Schatzdrache\nBildbeschreibung: Totale mit eindeutigen Seiten. Beowulf links näher an der Höhle, Wiglaf und unbenannte Gefährten etwas hinter ihm, Drache rechts im Eingang. Alle menschlichen Klingen noch eingesteckt. Ein großer Tierkörper mit vier Beinen, keine Flügel. Keine voreilige Siegerpose. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor dem Felszugang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Wiglaf: Fortbewegung: zu Fuß; Ort: weiter links hinter Beowulf; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Schatzdrache: Ort: rechts im großen Felseingang; Körperhaltung: auf vier Beinen, Kopf nach außen; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Der Zugang wurde zu Fuß erreicht. Die Gefährten sind zunächst dabei und gehen erst später zurück. Nicht schon jetzt alle außer Wiglaf abwesend zeichnen.\n\nKACHEL 5: Der erste Widerstand\nOrt und Zeit: Vor dem gleichen Felszugang, im Kampf\nSichtbare Figuren: Alter Beowulf, Schatzdrache\nBildbeschreibung: Breite Seite. Beowulf links mit genau einer rechten Klinge, linke Scheide deutlich leer. Drache rechts drängt mit dem langen Hals vor, kein offenes Maul voller anatomischer Opferdetails. Funken und Staub an den Felsen statt expliziter Wunden. Andere Kämpfer nicht zu zweiten Beowulf-Kopien machen. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor dem Drachen; Körperhaltung: mit gebeugten Knien kämpfend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Schatzdrache: Ort: rechts aus dem Zugang drängend; Körperhaltung: auf vier Beinen, Hals zu Beowulf gestreckt; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Zwischen 4 und 5 hat Beowulf seine Klinge gezogen. Kampf offen. Kein Sieg, keine bestätigte tödliche Verletzung vor der eigentlichen Entscheidung Wiglafs.\n\nKACHEL 6: Die Lücke hinter ihm\nOrt und Zeit: Rand des Kampfplatzes, gleichzeitig\nSichtbare Figuren: Wiglaf\nBildbeschreibung: Halbtotale vom Rand. Wiglaf links steht dem entfernten Kampf zugewandt. Hinter ihm gehen mehrere unbenannte Gefährten auf dem Rückweg fort; ihre Körperrichtung ist vom Kampf weg. Wiglafs Klinge steckt noch links. Keine lachenden Feiglingsfratzen, sondern Furcht. Viel Raum am verlassenen Weg neben ihm. Verbindliche Zustände: Wiglaf: Fortbewegung: zu Fuß; Ort: links zwischen Kampf und Rückweg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: Die anderen wichen zurück.\nDialoge: keine\nKontinuität / Änderung: Begleiter ziehen sich im entscheidenden Kampf zurück. Wiglaf bleibt zunächst stehen und muss noch selbst entscheiden; seine Anwesenheit ist kein magischer Zwang.\n\nKACHEL 7: Nicht mitgehen\nOrt und Zeit: Derselbe Rand, Sekunden später\nSichtbare Figuren: Wiglaf\nBildbeschreibung: Naher auf Wiglaf. Er geht nach vorn zum Kampf, nicht den davonziehenden Gestalten hinterher. Seine einzige Klinge jetzt rechts, leere linke Scheide klar sichtbar; die linke Hand bleibt leer. Keine zweite Waffe im Hintergrund als Bewegungsduplikat. Eine kurze Blase in Richtung des alten Königs außerhalb des Bildes. Verbindliche Zustände: Wiglaf: Fortbewegung: zu Fuß; Ort: links mit Blick zum Kampf; Körperhaltung: vorwärts in Richtung Beowulf gehend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Wiglaf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich bin hier!“\nKontinuität / Änderung: Zwischen 6 und 7 zieht Wiglaf sein eigenes Schwert und kehrt der Rückzugsrichtung den Rücken. Kein sofortiges teleportierendes Auftauchen auf dem Drachenrücken.\n\nKACHEL 8: Zu zweit gegen die Größe\nOrt und Zeit: Vor der Höhle, gemeinsamer Kampf\nSichtbare Figuren: Alter Beowulf, Wiglaf, Schatzdrache\nBildbeschreibung: Ein klarer gemeinsamer Kampfmoment. Beowulf links, Wiglaf mittig, Drache rechts. Genau zwei menschliche Klingen, je eine rechts; die linken Scheiden leer. Die Helfer stehen auf derselben Felsfläche statt gleichzeitig auf dem Tier. Keine offene Körperverletzung und keine triumphierende Erzählzeile. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links vor dem Drachen; Körperhaltung: mühsam auf beiden Füßen; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Wiglaf: Fortbewegung: zu Fuß; Ort: mittig an Beowulfs rechter Seite; Körperhaltung: mit festem Stand kämpfend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Schatzdrache: Ort: rechts quer vor dem Felszugang; Körperhaltung: auf vier Beinen, Körper seitlich zum Kampf; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Wiglaf hat Beowulf erreicht und hilft wirklich. Beowulf bleibt alt und beansprucht, keine plötzlich verjüngte Kraft. Der tödliche Ausgang ist noch nicht aufgehoben.\n\nKACHEL 9: Der Sieg bleibt liegen\nOrt und Zeit: Kampfplatz nach dem Ende\nSichtbare Figuren: Alter Beowulf, Wiglaf, Schatzdrache\nBildbeschreibung: Weite stille Einstellung. Rechts der tote Drache ohne offene Wunden, links Beowulf am Stein, Wiglaf bei ihm. Zwei Schwerter liegen je nahe ihrem Besitzer auf dem Boden, keine Hand führt eine Klinge. Keine Jubelpose und kein Kronentransfer. Der Gegner liegt still, aber der alte Mann richtet sich nicht mehr auf. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links am Fuß eines Felsens; Körperhaltung: sitzend, erschöpft zusammengesunken; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödlich verletzt; äußere Verletzung unter dem Rock verdeckt. Wiglaf: Fortbewegung: zu Fuß; Ort: mittig neben Beowulf; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.. Schatzdrache: Ort: rechts reglos vor dem Felszugang; Körperhaltung: auf der Seite liegend; Lebenszustand: tot; Kleidung: Keine Kleidung, keine Rüstung, kein Schmuck..\nErzählertext: Der Drache war besiegt. Beowulf war tödlich verwundet.\nDialoge: keine\nKontinuität / Änderung: Erst nach dem Kampf der gemeinsame Erfolg und die tödliche Folge. Der Drache bleibt tot. Beide menschlichen Klingen wurden abgelegt; kein zugleich gefüllter Gürtel und Schwert am Boden.\n\nKACHEL 10: Dableiben\nOrt und Zeit: Bei Beowulf am Felsen\nSichtbare Figuren: Alter Beowulf, Wiglaf\nBildbeschreibung: Halbnahe. Wiglaf rechts kniet und hält mit seiner linken Hand Beowulfs rechte; die übrigen Hände liegen ruhig und leer. Kein neu erschienener Heiltrank oder glänzendes Wunder. Die beiden Klingen außerhalb des engen Ausschnitts weiterhin am Boden. Zwei kurze Blasen, Augen frei. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links am Felsen; Körperhaltung: sitzend, sehr schwach; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödlich verletzt, keine Besserung. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts unmittelbar bei ihm; Körperhaltung: knieend; Mitgeführte Gegenstände: linke Hand hält Beowulfs rechte Hand; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Alter Beowulf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du bist geblieben.“\nDialog 2:\n  Sprecher: Wiglaf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich bleibe.“\nKontinuität / Änderung: Beistand statt garantierter Rettung. Keine Erholung zwischen zwei Todesankündigungen und kein bewiesenes letztes Vermächtnis zur Königswahl erfinden.\n\nKACHEL 11: Die Hand wird still\nOrt und Zeit: Derselbe Platz, kurz danach\nSichtbare Figuren: Alter Beowulf, Wiglaf\nBildbeschreibung: Ruhige Nahaufnahme der gleichen Anordnung. Beowulfs Augen geschlossen, Haltung reglos; Wiglaf hat die Hand nicht losgelassen. Kein Blut, kein wegfliegender bestätigter Geist und keine abrupt heranrückende Krönungsfeier. Keine Sprechblase. Die minimale Veränderung der vorherigen Einstellung trägt den Verlust. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: links am Felsen; Körperhaltung: reglos sitzend, Augen geschlossen; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: tot; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödliche Verletzung. Wiglaf: Fortbewegung: zu Fuß; Ort: rechts bei ihm; Körperhaltung: knieend; Mitgeführte Gegenstände: linke Hand hält noch Beowulfs rechte Hand; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Beowulf stirbt jetzt. Er bleibt ab hier tot. Wiglafs Beistand hat Bedeutung, obwohl er den Tod nicht verhindern konnte.\n\nKACHEL 12: Wer nun bleibt\nOrt und Zeit: Kampfplatz, später, Blick ins offene Land\nSichtbare Figuren: Wiglaf, Alter Beowulf\nBildbeschreibung: Weite Einstellung. Wiglaf steht links bei Beowulfs ruhendem Körper, Blick ins Land, das ohne seinen König weiterbestehen muss. Seine eigene Klinge ist wieder eingesteckt, die des Toten bleibt am Boden beim Körper. Keine Krone auf Wiglafs Kopf und keine fertige Antwort durch neue Herrscherpose. Der tote Drache nur fern am Felszugang. Verbindliche Zustände: Alter Beowulf: Fortbewegung: zu Fuß; Ort: unten links am Felsen; Körperhaltung: reglos sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: tot; Kleidung: Grauer Wollrock über Kettenhemd, dunkle Hose und Stiefel. Ein Schwert, eine linke Gürtelscheide; kein Schild oder zweites Schwert.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.; Verletzungen: tödliche Verletzung. Wiglaf: Fortbewegung: zu Fuß; Ort: links neben dem toten König; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grüne Tunika über einfachem Kettenhemd, braune Hose und Stiefel. Ein Schwert mit einer linken Gürtelscheide, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: Die Gefahr war bezwungen. Die Zukunft blieb offen.\nDialoge: keine\nKontinuität / Änderung: Wiglaf ist nach dem Abschied aufgestanden und hat nur seine eigene Klinge wieder eingesteckt. Beowulfs Tod bleibt bestehen. Kein unbelegter gekrönter Nachfolger und kein verwechslungsfähiger alter König, der im Hintergrund wieder lebt.\n",
+    "book_author": "",
+    "editorial_script_id": "beowulf-wiglaf-12",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Beowulf und Wiglaf – Treue, wenn es schwer wird · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

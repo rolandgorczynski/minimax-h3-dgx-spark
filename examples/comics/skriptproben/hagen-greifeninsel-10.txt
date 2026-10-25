@@ -1,0 +1,176 @@
+TITEL: Hagen – Von der Greifeninsel zurück
+AUTOR: 
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Vom verlorenen Kind im weiten Raum zur Gemeinschaft und einer Heimkehr, die alle sichtbar mitnimmt. Bildstil offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hagen der Greifeninsel
+Aussehen: Ein und dieselbe Person im Heranwachsen: anfangs kleiner Junge mit rundem Gesicht, braunen Locken und dunklen Augen; nach dem ausdrücklich markierten Zeitsprung junger kräftiger Mann mit denselben Augen und Locken. Nicht Hagen von Tronje.
+Kleidung: Anfangs schlichte blaue Kindertunika, braune Hose und Schuhe. Später größere abgetragene blaue Tunika; kein Schwert, kein Helm, kein Schild.
+Persönlichkeit und Vorgeschichte: Als Kind geraubt. Überlebt durch Gemeinschaft und führt die Gefährtinnen später mit sich hinaus statt allein zu entkommen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Erste Königstochter
+Aussehen: Junges Mädchen mit schwarzen glatten Haaren und länglichem Gesicht; nach dem Zeitsprung junge erwachsene Frau.
+Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Kennt den sicheren Unterschlupf. Repräsentative unbenannte Gefährtin der Vorlage mit eigenem Handlungsbeitrag.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweite Königstochter
+Aussehen: Junges Mädchen mit rotbraunen lockigen Haaren und Sommersprossen; später junge erwachsene Frau.
+Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Teilt mit den anderen ihr Wissen über Nahrung und den Weg zurück zum Schutz.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dritte Königstochter
+Aussehen: Junges Mädchen mit dunkelblondem festen Zopf und rundem Gesicht; später junge erwachsene Frau.
+Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Behält die Umgebung im Blick und unterstützt den gemeinsamen Aufbruch.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Greif
+Aussehen: Großes Sagentier mit Adlerkopf, Löwenrumpf, genau vier Beinen und genau zwei Flügeln, einem Schwanz. Braunbeige Federn und Fell.
+Kleidung: Keine Kleidung oder Gegenstände.
+Persönlichkeit und Vorgeschichte: Entführt den Jungen. Einzelner bildlicher Hauptgegner als Verdichtung der Greifenbedrohung; keine neue menschliche Geschichte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hagens Vater
+Aussehen: Älterer Mann mit grauen Haaren, kurzem grauem Bart und dunklen Augen.
+Kleidung: Dunkelblauer langer Rock, schmaler goldener Stirnreif und braune Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Hat seinen Sohn lange verloren geglaubt. Erlebt am Ende nicht nur dessen Rückkehr, sondern die Ankunft seiner Gefährtinnen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hagens Mutter
+Aussehen: Ältere Frau mit braun-grauem geflochtenem Haar und offenem müdem Gesicht.
+Kleidung: Dunkelgrünes langes Kleid, graues Schultertuch und dunkle Schuhe, kein Schmuck als Zauberzeichen.
+Persönlichkeit und Vorgeschichte: Empfängt den zurückgekehrten Sohn; keine erfundene zweite Entführung oder Prüfung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Aus der vertrauten Welt
+Ort und Zeit: Küste, im Augenblick der Entführung
+Sichtbare Figuren: Hagen der Greifeninsel, Greif
+Bildbeschreibung: Weite nicht grausame Entführungsszene. Ein Greif in der Luft trägt den kleinen Jungen vorsichtig lesbar im Griff seiner Vorderklauen; zwei weitere Beine an seinem Rumpf, insgesamt vier, plus zwei Flügel. Hagen ist klar ein Kind und kein erwachsener Kämpfer. Kein Blut, keine Raubszene an weiteren Kindern. Unter ihnen entfernt sich die Küste. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: fliegend; Ort: unter dem Greifen über dem Küstenland; Körperhaltung: im Griff des Greifen gehalten; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, kleiner Junge; Kleidung: Blaue Kindertunika, braune Hose und Schuhe; keine Waffe.. Greif: Fortbewegung: fliegend; Ort: über dem Küstenland; Körperhaltung: fliegend mit ausgebreiteten zwei Flügeln; Mitgeführte Gegenstände: den kleinen Hagen mit den vorderen Klauen haltend; Lebenszustand: lebend; Kleidung: Keine Kleidung oder Gegenstände..
+Erzählertext: Ein Greif trug Hagen fort von seinen Eltern.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Hagen wird entführt. Sein Alter bleibt bis zum markierten Zeitsprung kindlich; keine erwachsene Porträtform in die erste Kachel übernehmen.
+
+KACHEL 2: Ein anderer Boden
+Ort und Zeit: Fremde Wildnis der Greifeninsel, nach der Entführung
+Sichtbare Figuren: Hagen der Greifeninsel
+Bildbeschreibung: Totale. Das kleine Kind links unter einem Felsvorsprung, fremde hohe Bäume und leeres Land, kein Elternhaus. Der Greif außerhalb des Bildes, kein bestätigter Tod des Kindes. Kleidung unverändert blau. Der Raum ist groß und unübersichtlich, der Junge klein. Keine plötzlich vollständige Überlebensausrüstung. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links unter einem niedrigen Felsvorsprung; Körperhaltung: sitzend, Arme um die Knie; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, kleiner Junge; Kleidung: Blaue Kindertunika, braune Hose und Schuhe; keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hagen der Greifeninsel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ist hier jemand?“
+Kontinuität / Änderung: Nach der Entführung am Boden. Hagen sitzt, nicht mehr in Klauen. Keine Waffe, kein eigener Bau und keine behauptete lange Ernährung im Alleingang.
+
+KACHEL 3: Drei Antworten
+Ort und Zeit: Am selben Felsvorsprung, später
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter
+Bildbeschreibung: Halbtotale. Hagen links, drei eindeutig verschiedene Mädchen rechts: dunkelrot, grün und ocker. Alle jung, keine Erwachsenen. Die erste Gefährtin zeigt mit leerer Hand den Zugang im Felsen. Zwei kleine Blasen oben. Keine erfundenen Eigennamen als angebliche Originalnamen. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links vor dem Unterschlupf; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, kleiner Junge; Kleidung: Blaue Kindertunika, braune Hose und Schuhe; keine Waffe.. Erste Königstochter: Fortbewegung: zu Fuß; Ort: rechts vor dem Zugang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: zu Fuß; Ort: rechts hinter der ersten Gefährtin; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: zu Fuß; Ort: neben der zweiten Gefährtin; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erste Königstochter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Komm aus dem Offenen.“
+Dialog 2:
+  Sprecher: Hagen der Greifeninsel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ihr seid auch hier?“
+Kontinuität / Änderung: Erste Begegnung mit den ebenfalls geraubten Königstöchtern. Genau drei verschiedene Gefährtinnen; Kleidung ermöglicht spätere Wiedererkennung.
+
+KACHEL 4: Ein Platz unter Stein
+Ort und Zeit: Unterschlupf in der Wildnis
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter
+Bildbeschreibung: Breite enge Einstellung im gemeinsamen Unterschlupf. Vier junge Menschen im Schutz des Felsens, keine fünfte helfende Gestalt. Die zweite Gefährtin teilt eine kleine Portion bereits gesammelter Nahrung, keine bestimmte angeblich wundersame Pflanze. Links bleibt für Hagen ein freier Platz. Zwei kurze Blasen. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links im Schutz des Felsens; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, kleiner Junge; Kleidung: Blaue Kindertunika, braune Hose und Schuhe; keine Waffe.. Erste Königstochter: Fortbewegung: zu Fuß; Ort: rechts am Eingang; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: zu Fuß; Ort: mittig neben Hagen; Körperhaltung: sitzend; Mitgeführte Gegenstände: kleine Portion gesammelter Nahrung in beiden Händen; Lebenszustand: lebend, junges Mädchen; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: zu Fuß; Ort: rechts neben der zweiten Gefährtin; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Zweite Königstochter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nicht alles auf einmal.“
+Dialog 2:
+  Sprecher: Dritte Königstochter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und nie allein weit hinaus.“
+Kontinuität / Änderung: Das Wissen wird geteilt. Keine detaillierten modernen Überlebenstechniken, Giftpflanzenhinweise oder erfundene Schatzsuche als Nebenhandlung.
+
+KACHEL 5: Aufeinander achten
+Ort und Zeit: Rand des gemeinsamen Unterschlupfs, ein späterer Tag
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter
+Bildbeschreibung: Weite Ansicht. Hagen und die erste Gefährtin halten am Eingang Ausschau, die zweite und dritte kommen gemeinsam den kurzen sichtbaren Rückweg entlang. Keine Drohung unmittelbar über ihren Köpfen. Die vier sind weiterhin Kinder beziehungsweise junge Mädchen, Kleidung unverändert. Geteilte Aufmerksamkeit statt Held im Alleingang. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links am Felseneingang; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, kleiner Junge; Kleidung: Blaue Kindertunika, braune Hose und Schuhe; keine Waffe.. Erste Königstochter: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: zu Fuß; Ort: weiter rechts am Rückweg; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: zu Fuß; Ort: neben der zweiten Gefährtin; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junges Mädchen; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe..
+Erzählertext: Was einer nicht wusste, wusste eine andere. Und fehlte jemand, wurde gewartet.
+Dialoge: keine
+Kontinuität / Änderung: Späterer Tag vor dem langen Zeitsprung. Nicht bereits plötzlich erwachsene Körper zeichnen. Alle vier kehren zum gleichen Unterschlupf zurück.
+
+KACHEL 6: Jahre im gleichen Blick
+Ort und Zeit: Derselbe Felseneingang, viele Jahre später
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter
+Bildbeschreibung: Gleiche Bildachse wie bei der ersten Begegnung, jetzt ausdrücklich vier junge Erwachsene. Hagen größer und kräftig, dieselben braunen Locken und dunklen Augen; die Frauen mit gleichen Haaren und Kleidfarben, größer und abgetragen. In Hagens rechter Hand ein einfacher Holzstab, keine neu gezauberte Klinge. Keine jüngeren Versionen gleichzeitig daneben. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links am Felseneingang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einfacher langer Holzstab in der rechten Hand; Lebenszustand: lebend, junger erwachsener Mann; Kleidung: Abgetragene blaue Tunika in Erwachsenengröße, braune Hose und Schuhe; kein Schwert.. Erste Königstochter: Fortbewegung: zu Fuß; Ort: rechts vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: zu Fuß; Ort: rechts hinter der ersten; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: zu Fuß; Ort: neben der zweiten; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe..
+Erzählertext: Es vergingen Jahre. Aus dem Jungen wurde einer, der sich stellen konnte.
+Dialog 1:
+  Sprecher: Erste Königstochter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn du gehst, wissen wir, wohin.“
+Kontinuität / Änderung: Langer ausdrücklicher Zeitsprung. Alle vier wachsen, Kleidung entsprechend ersetzt, Identität bleibt. Der Holzstab wurde in der Wildnis genommen, kein Schwert aus einer fremden Sage.
+
+KACHEL 7: Der gemeinsame Raum steht dahinter
+Ort und Zeit: Vor dem Greifenfelsen, nach dem Heranwachsen
+Sichtbare Figuren: Hagen der Greifeninsel, Greif
+Bildbeschreibung: Breite Seitenansicht. Erwachsener Hagen links mit einem Holzstab rechts vor dem Greifen. Genau vier Tierbeine, zwei Flügel; keine Waffe am Gürtel Hagens. Hinter ihm führt der Weg zum gemeinsamen Schutzraum, ohne dort die Frauen in einen neuen Angriff zu setzen. Kein vorgreifender Siegestext und keine explizite Verletzung. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links vor dem Greifen; Körperhaltung: mit festem Stand; Mitgeführte Gegenstände: ein Holzstab rechts; Lebenszustand: lebend, junger erwachsener Mann; Kleidung: Abgetragene blaue Tunika in Erwachsenengröße, braune Hose und Schuhe; kein Schwert.. Greif: Fortbewegung: zu Fuß; Ort: rechts auf dem Felsboden; Körperhaltung: auf vier Beinen, beide Flügel teilweise geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung oder Gegenstände..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Hagen stellt sich der Greifenbedrohung erst als Herangewachsener. Ein bildlicher Hauptgreif verdichtet den Kampf; keine behauptete Einzelkampftechnik aus dem Original.
+
+KACHEL 8: Der offene Weg
+Ort und Zeit: Am Greifenfelsen nach der Überwindung
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter, Greif
+Bildbeschreibung: Totale nach dem Kampf. Hagen links erschöpft und mit leeren Händen, der einfache Stab liegt vor seinen Füßen. Die drei Frauen stehen bei ihm; der Hauptgreif reglos im Hintergrund ohne offene Wunden. Kein neuer fliegender Greif als sofortiger nächster Gegner. Der frühere Weg ist frei, kein Mädchen bleibt im Käfig zurück. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: links vor dem Felsen; Körperhaltung: erschöpft stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junger erwachsener Mann; Kleidung: Abgetragene blaue Tunika in Erwachsenengröße, braune Hose und Schuhe; kein Schwert.. Erste Königstochter: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: zu Fuß; Ort: rechts hinter ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: zu Fuß; Ort: neben der zweiten; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Greif: Fortbewegung: zu Fuß; Ort: rechts hinten am Boden; Körperhaltung: reglos liegend, vier Beine am Körper; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: tot; Kleidung: Keine Kleidung oder Gegenstände..
+Erzählertext: Die Greifen waren überwunden. Nun musste die Rückkehr mehr als einen mitnehmen.
+Dialoge: keine
+Kontinuität / Änderung: Kampf in freier Verdichtung abgeschlossen. Die anderen überwundenen Greifen bleiben außerhalb des gewählten Bildausschnitts. Alle vier Menschen leben; der Holzstab wurde abgelegt.
+
+KACHEL 9: Vier an Bord
+Ort und Zeit: Spätere Rückfahrt über das Meer
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter
+Bildbeschreibung: Weite ruhige Schiffsansicht. Alle vier jungen Erwachsenen zusammen auf einem einfachen fahrenden Schiff, keine Kinderkörper und kein einzelner triumphierender Hagen. Hintergrund nur Meer und ein fernes Küstenband, keine neue Piraten- oder Meutereigeschichte. Keine Waffe an Hagens Körper und kein zurückbehaltener Holzstab. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: in einem Fahrzeug; Ort: links an Bord; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junger erwachsener Mann; Kleidung: Abgetragene blaue Tunika in Erwachsenengröße, braune Hose und Schuhe; kein Schwert.. Erste Königstochter: Fortbewegung: in einem Fahrzeug; Ort: rechts neben Hagen; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: in einem Fahrzeug; Ort: rechts weiter an der Bordwand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: in einem Fahrzeug; Ort: bei der zweiten Gefährtin; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe..
+Erzählertext: Später gelang ihnen der Weg übers Meer.
+Dialog 1:
+  Sprecher: Hagen der Greifeninsel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir sind alle hier.“
+Kontinuität / Änderung: Ausdrücklicher Zeitsprung nach der Befreiung zur Rückfahrt; die unbestimmte Reise wird nicht mit einem neuen Abenteuer gefüllt. Kein Königskind bleibt zurück. Alle Figuren befinden sich an Bord.
+
+KACHEL 10: Nicht allein heim
+Ort und Zeit: Vor dem Elternhaus nach der Rückkehr
+Sichtbare Figuren: Hagen der Greifeninsel, Erste Königstochter, Zweite Königstochter, Dritte Königstochter, Hagens Vater, Hagens Mutter
+Bildbeschreibung: Breite Heimkehrszene. Der erwachsene Hagen mittig vor den gealterten Eltern rechts, die drei Frauen bleiben links deutlich im selben Bild. Keine Rückverwandlung zum kleinen Kind aus Kachel 1. Hände leer, keine Beutekiste als Zentrum. Die Mutter öffnet die Arme, Hagen wendet sich zugleich zu seinen Gefährtinnen. Zwei kleine Blasen oben. Verbindliche Zustände: Hagen der Greifeninsel: Fortbewegung: zu Fuß; Ort: mittig vor den Eltern; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junger erwachsener Mann; Kleidung: Abgetragene blaue Tunika in Erwachsenengröße, braune Hose und Schuhe; kein Schwert.. Erste Königstochter: Fortbewegung: zu Fuß; Ort: links hinter Hagen; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Dunkelrotes schlichtes Kleid, braune Schuhe. Nach dem Zeitsprung gleichfarbiges längeres abgetragenes Kleid. Keine Waffe.. Zweite Königstochter: Fortbewegung: zu Fuß; Ort: neben der ersten Gefährtin; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Grünes schlichtes Kleid, braune Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Dritte Königstochter: Fortbewegung: zu Fuß; Ort: neben der zweiten Gefährtin; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend, junge erwachsene Frau; Kleidung: Ockerfarbenes schlichtes Kleid, dunkle Schuhe, später gleichfarbiges größeres Kleid. Keine Waffe.. Hagens Vater: Fortbewegung: zu Fuß; Ort: rechts vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblauer langer Rock, schmaler goldener Stirnreif und braune Schuhe. Keine Waffe.. Hagens Mutter: Fortbewegung: zu Fuß; Ort: rechts neben dem Vater; Körperhaltung: stehend, Hände zum Sohn geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrünes langes Kleid, graues Schultertuch und dunkle Schuhe, kein Schmuck als Zauberzeichen..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hagens Mutter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hagen?“
+Dialog 2:
+  Sprecher: Hagen der Greifeninsel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ja. Und ich komme nicht allein.“
+Kontinuität / Änderung: Das Elternhaus ist erreicht, Eltern leben. Gefährtinnen als Menschen mit eigener Erfahrung sichtbar lassen; keine zusätzliche Ehezuordnung oder spätere Sage anhängen.

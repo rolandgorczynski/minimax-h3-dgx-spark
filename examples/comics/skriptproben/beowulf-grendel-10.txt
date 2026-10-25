@@ -1,0 +1,131 @@
+TITEL: Beowulf – In der Nacht standhalten
+AUTOR: 
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Von der leeren hölzernen Halle zur wiedergewonnenen gemeinschaftlichen Wärme. Bildstil offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Beowulf
+Aussehen: Junger erwachsener kräftiger Mann mit breiten Schultern, kurzen hellbraunen Haaren, geradem Gesicht und kurzem Bart.
+Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.
+Persönlichkeit und Vorgeschichte: Geate, kommt über das Meer, um der bedrohten Gemeinschaft zu helfen. Stellt sich Grendel bewusst ohne Schwert.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hrothgar
+Aussehen: Alter Mann mit weißem Vollbart, schütterem grauem Haar und müden Augen.
+Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Herr der Halle Heorot. Hat den Menschen keinen sicheren gemeinsamen Ort mehr bieten können.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Grendel
+Aussehen: Sehr große menschenähnliche Gestalt mit graubrauner Haut, langem dunklem Haar und kräftigen Schultern. Genau zwei Arme und zwei Beine, ein Kopf.
+Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.
+Persönlichkeit und Vorgeschichte: Nächtlicher Angreifer auf Heorot. Nach der Niederlage tödlich verletzt und fliehend; keine spätere Mutterfigur in dieser Episode.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Eine Halle ohne Stimmen
+Ort und Zeit: Heorot, Abend vor Beowulfs Ankunft
+Sichtbare Figuren: Hrothgar
+Bildbeschreibung: Totale des hölzernen Hallenraums. Hrothgar links allein an einem langen Tisch, unbenutzte Bänke, eine kleine Feuerstelle und rechts das große geschlossene Tor. Kein üppiges Fest und keine Leichen. Das leere Volumen soll spürbar sein. Ein kurzer Erzählerkasten oben. Verbindliche Zustände: Hrothgar: Fortbewegung: zu Fuß; Ort: links an einem langen leeren Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..
+Erzählertext: Heorot war für gemeinsame Abende gebaut. Nachts wollte niemand mehr bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Die Bedrohung hat den gemeinsamen Raum entleert. Der konkrete Abend ist freie Rahmung, keine zusätzliche erfundene Schlacht.
+
+KACHEL 2: Über das Meer
+Ort und Zeit: Küste nahe Heorot, nächster Tag
+Sichtbare Figuren: Beowulf
+Bildbeschreibung: Weite Küstenansicht. Beowulf links auf festem Land, hinter ihm ein angelegtes offenes Segelschiff und unbenannte Gefährten. Er selbst trägt keine Klinge und keinen Schild. Blickrichtung zum Landesinnern. Keine moderne Nationalflagge und kein deutscher Stammesname als Bildschrift. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links am festen Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode..
+Erzählertext: Beowulf kam über das Meer, weil er von ihrer Not gehört hatte.
+Dialoge: keine
+Kontinuität / Änderung: Geate im skandinavischen Sagenraum, kein deutscher historischer Heerführer. Ufer bereits erreicht; kein gleichzeitiges Stehen auf dem Schiff und am Strand.
+
+KACHEL 3: Keine große Rede
+Ort und Zeit: In Heorot, Tag
+Sichtbare Figuren: Hrothgar, Beowulf
+Bildbeschreibung: Halbtotale, dieselbe Tür rechts im Hintergrund. Hrothgar links vor dem Tisch, Beowulf rechts mit offenen leeren Händen. Er ist nicht als bereits gefeierter Sieger willkommen. Zwei kurze Blasen in freier Wandfläche über den Köpfen. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts ihm gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hrothgar
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Die Nächte gehören uns nicht mehr.“
+Dialog 2:
+  Sprecher: Beowulf
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann bleibe ich heute Nacht.“
+Kontinuität / Änderung: Beowulf bietet Hilfe vor der Begegnung mit Grendel an. Keine Waffe aus einer Tasche und keine Zusage völliger Unverwundbarkeit.
+
+KACHEL 4: Die anderen schlafen
+Ort und Zeit: Heorot, Nacht
+Sichtbare Figuren: Beowulf
+Bildbeschreibung: Breite Innenansicht mit gedämpftem Feuerlicht. Beowulf links wach auf der Bank, im Hintergrund seine Gefährten als schlafende unbenannte Gestalten. Rechts das große Hallentor noch geschlossen. Keine verstreuten Schwerter als versteckte spätere Hilfsmittel. Die freie Strecke vom Tor bis zu seiner Bank bleibt nachvollziehbar. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links neben einer Bank; Körperhaltung: sitzend, wach; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Nachts wartet Beowulf mit seinen Gefährten in der Halle. Die sichtbaren Hintergrundschläfer sind keine zweite Beowulf-Figur. Kein früher Angriff von Grendels Mutter.
+
+KACHEL 5: Die offene Nacht
+Ort und Zeit: Hallentor, wenig später
+Sichtbare Figuren: Beowulf, Grendel
+Bildbeschreibung: Totale in derselben Links-rechts-Achse. Rechts füllt Grendel den nun offenen Türrahmen, links steht Beowulf von der Bank auf. Der Riese hat genau zwei Arme und Beine, keine Keule oder Waffe. Die Gefährten bleiben im dunklen Hintergrund, kein bereits getöteter Held im Vordergrund. Kein Blut. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links vor der Bank; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts im geöffneten Hallentor; Körperhaltung: stehend, Oberkörper nach innen gebeugt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Tor geöffnet, Grendel erst jetzt in der Halle. Beowulf hat sich zwischen 4 und 5 erhoben und bleibt unbewaffnet.
+
+KACHEL 6: Der erste Halt
+Ort und Zeit: Zwischen Tor und Bank
+Sichtbare Figuren: Beowulf, Grendel
+Bildbeschreibung: Halbnahe lesbare Körperanordnung: Beowulf links umfasst mit seinen zwei Händen Grendels einen rechten Unterarm; Grendels linker Arm bleibt frei seitlich. Keine weiteren greifenden Hände. Die Größe des Angreifers bleibt deutlich. Holzstaub und gespannte Körper zeigen Kraft, nicht anatomische Verletzung. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links unmittelbar vor Grendel; Körperhaltung: mit festem Stand, beide Hände am rechten Unterarm Grendels; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts im Hallenraum; Körperhaltung: nach vorn gebeugt, rechter Arm im Griff; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Beowulf
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heute gehst du nicht weiter.“
+Kontinuität / Änderung: Ringkampf ohne Schwert. Griff betrifft genau einen Arm des Gegners. Kein plötzliches Waffenmodell aus der Sagenrüstung anderer Beowulf-Episoden.
+
+KACHEL 7: Die Bank kippt
+Ort und Zeit: Derselbe Hallenbereich, im Kampf
+Sichtbare Figuren: Beowulf, Grendel
+Bildbeschreibung: Weite seitliche Einstellung. Eine Bank ist umgekippt, das Tor bleibt rechts hinten als Fluchtweg erkennbar. Beowulf links hält seinen Griff; Grendel rechts drängt zurück. Keine zerfallende ganze Halle und keine zweiten Körperphasen in einem Bild. Der Holzbruch ersetzt das Zeigen offener Wunden. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links am umgestoßenen Bankende; Körperhaltung: mit gebeugten Knien, Griff weiter gehalten; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts an der Bank; Körperhaltung: rückwärts gegen das Holz gedrängt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Kampf, keine zusätzliche magische Kraft und kein Helferschwert. Die gezeigte Bank wurde durch den Kampf umgestoßen, nicht schon im nächsten Bild wieder aufgerichtet.
+
+KACHEL 8: Zurück ins Dunkel
+Ort und Zeit: Am offenen Hallentor, nach dem entscheidenden Kampf
+Sichtbare Figuren: Beowulf, Grendel
+Bildbeschreibung: Totale vom Inneren nach draußen. Beowulf links steht erschöpft, Hände leer. Rechts flieht Grendel als dunkle verletzte Gestalt durch das offene Tor; Körperdetails von Nacht und Türrahmen verdeckt. Keine abgetrennten Gliedmaßen und kein gezeigter Tod im Wald. Kein lebender zweiter Grendel in der Halle. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links innen vor dem Tor; Körperhaltung: stehend, leere Hände gesenkt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts auf der Außenschwelle; Körperhaltung: vorwärts aus dem Haus fliehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.; Verletzungen: tödlich verletzt; die äußere Verletzung liegt vollständig im Schatten.
+Erzählertext: Grendel floh. Er hatte eine tödliche Wunde davongetragen.
+Dialoge: keine
+Kontinuität / Änderung: Beowulf hat den Ringkampf gewonnen. Grendel ist noch fliehend, nicht bereits tot im selben Bild. Seine spätere Rückkehr ist ausgeschlossen; der Angriff seiner Mutter gehört nicht in diese Episode.
+
+KACHEL 9: Der Morgen bleibt
+Ort und Zeit: Heorot, nächster Morgen
+Sichtbare Figuren: Hrothgar, Beowulf
+Bildbeschreibung: Morgenlicht durch die rechte Tür. Hrothgar links betrachtet den Kampfort, Beowulf rechts ruht sitzend. Die umgestürzte Bank ist noch nicht repariert, die übrigen Holzteile bleiben beschädigt. Keine Goldbelohnung als Ersatz für den gemeinschaftlichen Sinn. Zwei kleine Blasen. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts neben der umgestürzten Bank; Körperhaltung: sitzend, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links im Hallenraum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hrothgar
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Es ist hell.“
+Dialog 2:
+  Sprecher: Beowulf
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ihr müsst nicht mehr bis zum Abend zählen.“
+Kontinuität / Änderung: Nacht überstanden. Erschöpfung bleibt; keine Behauptung, dass damit jede spätere Gefahr im gesamten Epos beendet sei.
+
+KACHEL 10: Stimmen statt Wache
+Ort und Zeit: Heorot, späterer Abend nach der Wiederherstellung
+Sichtbare Figuren: Hrothgar, Beowulf
+Bildbeschreibung: Breite Schlussszene als Gegenbild zur ersten Kachel. Hrothgar und Beowulf sitzen zwischen unbenannten Menschen, die wieder essen und reden. Reparierte Bänke stehen erkennbar an ihrem Ort, das Tor ist geschlossen, Feuerlicht warm. Keine Krönung Beowulfs, kein weiterer anrückender Gegner. Große Raumtiefe nun mit Leben gefüllt. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts bei den anderen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links an einem Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..
+Erzählertext: Die Halle war nicht mehr nur ein Ort, den man verteidigen musste.
+Dialoge: keine
+Kontinuität / Änderung: Späterer Abend mit zwischenzeitlicher Reparatur. Das gemeinschaftliche Leben kehrt zurück. Beowulf bleibt Gast und Helfer; späterer Drachenkampf und Muttermotiv werden nicht eingefügt.

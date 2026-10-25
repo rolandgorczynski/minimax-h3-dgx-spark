@@ -1,0 +1,422 @@
+{
+  "mode": "editorial",
+  "name": "Beowulf – In der Nacht standhalten · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Angelsächsisches Epos über skandinavische Helden; germanischer Sagenraum, nicht eine deutsche Ortssage.\nÜBERLIEFERUNG: Anonymer Beowulf; Grendel-Episode. Historische englische Übersetzung von Francis Barton Gummere (1855–1919) als gemeinfreier Vergleichstext.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nDie dänische Halle Heorot wird nachts von Grendel heimgesucht. Die Menschen haben ihren sicheren Ort verloren. Beowulf, ein junger Held aus dem Volk der Geaten, hört von ihrer Not und kommt über das Meer. Er bietet Hrothgar seine Hilfe an. In der Halle wartet er mit seinen Gefährten auf die nächste Nacht. Als Grendel erscheint, stellt Beowulf sich ihm ohne Schwert im Ringkampf. Er überwindet den Angreifer, der tödlich verwundet flieht. Die Halle kann wieder zum Ort gemeinschaftlichen Lebens werden. Der Comic endet nach diesem Sieg; spätere Kämpfe bleiben außerhalb dieser Episode.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Verantwortung übernehmen und einer bedrohten Gemeinschaft wieder Ruhe ermöglichen.\nABGRENZUNG: Beowulf nicht als deutschen Stammesführer oder historischen Bericht ausgeben. Den Angriff von Grendels Mutter nicht in dieselbe kurze Episode hineinziehen. Neue deutsche Formulierungen verwenden, keine moderne deutsche Übersetzung übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_article": "STOFF UND HERKUNFT: Angelsächsisches Epos über skandinavische Helden; germanischer Sagenraum, nicht eine deutsche Ortssage.\nÜBERLIEFERUNG: Anonymer Beowulf; Grendel-Episode. Historische englische Übersetzung von Francis Barton Gummere (1855–1919) als gemeinfreier Vergleichstext.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nDie dänische Halle Heorot wird nachts von Grendel heimgesucht. Die Menschen haben ihren sicheren Ort verloren. Beowulf, ein junger Held aus dem Volk der Geaten, hört von ihrer Not und kommt über das Meer. Er bietet Hrothgar seine Hilfe an. In der Halle wartet er mit seinen Gefährten auf die nächste Nacht. Als Grendel erscheint, stellt Beowulf sich ihm ohne Schwert im Ringkampf. Er überwindet den Angreifer, der tödlich verwundet flieht. Die Halle kann wieder zum Ort gemeinschaftlichen Lebens werden. Der Comic endet nach diesem Sieg; spätere Kämpfe bleiben außerhalb dieser Episode.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Verantwortung übernehmen und einer bedrohten Gemeinschaft wieder Ruhe ermöglichen.\nABGRENZUNG: Beowulf nicht als deutschen Stammesführer oder historischen Bericht ausgeben. Den Angriff von Grendels Mutter nicht in dieselbe kurze Episode hineinziehen. Neue deutsche Formulierungen verwenden, keine moderne deutsche Übersetzung übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Eine Halle ohne Stimmen",
+        "setting": "Heorot, Abend vor Beowulfs Ankunft",
+        "characters": [
+          "2674119e5d6a571e8451c35819e86886"
+        ],
+        "story": "Totale des hölzernen Hallenraums. Hrothgar links allein an einem langen Tisch, unbenutzte Bänke, eine kleine Feuerstelle und rechts das große geschlossene Tor. Kein üppiges Fest und keine Leichen. Das leere Volumen soll spürbar sein. Ein kurzer Erzählerkasten oben. Verbindliche Zustände: Hrothgar: Fortbewegung: zu Fuß; Ort: links an einem langen leeren Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..",
+        "dialog": "Heorot war für gemeinsame Abende gebaut. Nachts wollte niemand mehr bleiben.",
+        "bubbles": [],
+        "continuity": "Die Bedrohung hat den gemeinsamen Raum entleert. Der konkrete Abend ist freie Rahmung, keine zusätzliche erfundene Schlacht.",
+        "character_states": {},
+        "continuity_state": {
+          "2674119e5d6a571e8451c35819e86886": {
+            "movement": "zu Fuß",
+            "location": "links an einem langen leeren Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe."
+          }
+        }
+      },
+      {
+        "heading": "Über das Meer",
+        "setting": "Küste nahe Heorot, nächster Tag",
+        "characters": [
+          "97b5d697d155573cb71251c9e01a1e43"
+        ],
+        "story": "Weite Küstenansicht. Beowulf links auf festem Land, hinter ihm ein angelegtes offenes Segelschiff und unbenannte Gefährten. Er selbst trägt keine Klinge und keinen Schild. Blickrichtung zum Landesinnern. Keine moderne Nationalflagge und kein deutscher Stammesname als Bildschrift. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links am festen Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode..",
+        "dialog": "Beowulf kam über das Meer, weil er von ihrer Not gehört hatte.",
+        "bubbles": [],
+        "continuity": "Geate im skandinavischen Sagenraum, kein deutscher historischer Heerführer. Ufer bereits erreicht; kein gleichzeitiges Stehen auf dem Schiff und am Strand.",
+        "character_states": {},
+        "continuity_state": {
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "links am festen Ufer",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          }
+        }
+      },
+      {
+        "heading": "Keine große Rede",
+        "setting": "In Heorot, Tag",
+        "characters": [
+          "2674119e5d6a571e8451c35819e86886",
+          "97b5d697d155573cb71251c9e01a1e43"
+        ],
+        "story": "Halbtotale, dieselbe Tür rechts im Hintergrund. Hrothgar links vor dem Tisch, Beowulf rechts mit offenen leeren Händen. Er ist nicht als bereits gefeierter Sieger willkommen. Zwei kurze Blasen in freier Wandfläche über den Köpfen. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts ihm gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "2674119e5d6a571e8451c35819e86886",
+            "text": "Die Nächte gehören uns nicht mehr.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "97b5d697d155573cb71251c9e01a1e43",
+            "text": "Dann bleibe ich heute Nacht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Beowulf bietet Hilfe vor der Begegnung mit Grendel an. Keine Waffe aus einer Tasche und keine Zusage völliger Unverwundbarkeit.",
+        "character_states": {},
+        "continuity_state": {
+          "2674119e5d6a571e8451c35819e86886": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe."
+          },
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "rechts ihm gegenüber",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          }
+        }
+      },
+      {
+        "heading": "Die anderen schlafen",
+        "setting": "Heorot, Nacht",
+        "characters": [
+          "97b5d697d155573cb71251c9e01a1e43"
+        ],
+        "story": "Breite Innenansicht mit gedämpftem Feuerlicht. Beowulf links wach auf der Bank, im Hintergrund seine Gefährten als schlafende unbenannte Gestalten. Rechts das große Hallentor noch geschlossen. Keine verstreuten Schwerter als versteckte spätere Hilfsmittel. Die freie Strecke vom Tor bis zu seiner Bank bleibt nachvollziehbar. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links neben einer Bank; Körperhaltung: sitzend, wach; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Nachts wartet Beowulf mit seinen Gefährten in der Halle. Die sichtbaren Hintergrundschläfer sind keine zweite Beowulf-Figur. Kein früher Angriff von Grendels Mutter.",
+        "character_states": {},
+        "continuity_state": {
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "links neben einer Bank",
+            "posture": "sitzend, wach",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          }
+        }
+      },
+      {
+        "heading": "Die offene Nacht",
+        "setting": "Hallentor, wenig später",
+        "characters": [
+          "97b5d697d155573cb71251c9e01a1e43",
+          "41252d5161ee5aa090ac8840a868d2a4"
+        ],
+        "story": "Totale in derselben Links-rechts-Achse. Rechts füllt Grendel den nun offenen Türrahmen, links steht Beowulf von der Bank auf. Der Riese hat genau zwei Arme und Beine, keine Keule oder Waffe. Die Gefährten bleiben im dunklen Hintergrund, kein bereits getöteter Held im Vordergrund. Kein Blut. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links vor der Bank; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts im geöffneten Hallentor; Körperhaltung: stehend, Oberkörper nach innen gebeugt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Tor geöffnet, Grendel erst jetzt in der Halle. Beowulf hat sich zwischen 4 und 5 erhoben und bleibt unbewaffnet.",
+        "character_states": {},
+        "continuity_state": {
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "links vor der Bank",
+            "posture": "aufgestanden",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          },
+          "41252d5161ee5aa090ac8840a868d2a4": {
+            "movement": "zu Fuß",
+            "location": "rechts im geöffneten Hallentor",
+            "posture": "stehend, Oberkörper nach innen gebeugt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel."
+          }
+        }
+      },
+      {
+        "heading": "Der erste Halt",
+        "setting": "Zwischen Tor und Bank",
+        "characters": [
+          "97b5d697d155573cb71251c9e01a1e43",
+          "41252d5161ee5aa090ac8840a868d2a4"
+        ],
+        "story": "Halbnahe lesbare Körperanordnung: Beowulf links umfasst mit seinen zwei Händen Grendels einen rechten Unterarm; Grendels linker Arm bleibt frei seitlich. Keine weiteren greifenden Hände. Die Größe des Angreifers bleibt deutlich. Holzstaub und gespannte Körper zeigen Kraft, nicht anatomische Verletzung. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links unmittelbar vor Grendel; Körperhaltung: mit festem Stand, beide Hände am rechten Unterarm Grendels; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts im Hallenraum; Körperhaltung: nach vorn gebeugt, rechter Arm im Griff; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "97b5d697d155573cb71251c9e01a1e43",
+            "text": "Heute gehst du nicht weiter.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Ringkampf ohne Schwert. Griff betrifft genau einen Arm des Gegners. Kein plötzliches Waffenmodell aus der Sagenrüstung anderer Beowulf-Episoden.",
+        "character_states": {},
+        "continuity_state": {
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "links unmittelbar vor Grendel",
+            "posture": "mit festem Stand, beide Hände am rechten Unterarm Grendels",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          },
+          "41252d5161ee5aa090ac8840a868d2a4": {
+            "movement": "zu Fuß",
+            "location": "rechts im Hallenraum",
+            "posture": "nach vorn gebeugt, rechter Arm im Griff",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel."
+          }
+        }
+      },
+      {
+        "heading": "Die Bank kippt",
+        "setting": "Derselbe Hallenbereich, im Kampf",
+        "characters": [
+          "97b5d697d155573cb71251c9e01a1e43",
+          "41252d5161ee5aa090ac8840a868d2a4"
+        ],
+        "story": "Weite seitliche Einstellung. Eine Bank ist umgekippt, das Tor bleibt rechts hinten als Fluchtweg erkennbar. Beowulf links hält seinen Griff; Grendel rechts drängt zurück. Keine zerfallende ganze Halle und keine zweiten Körperphasen in einem Bild. Der Holzbruch ersetzt das Zeigen offener Wunden. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links am umgestoßenen Bankende; Körperhaltung: mit gebeugten Knien, Griff weiter gehalten; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts an der Bank; Körperhaltung: rückwärts gegen das Holz gedrängt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Derselbe Kampf, keine zusätzliche magische Kraft und kein Helferschwert. Die gezeigte Bank wurde durch den Kampf umgestoßen, nicht schon im nächsten Bild wieder aufgerichtet.",
+        "character_states": {},
+        "continuity_state": {
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "links am umgestoßenen Bankende",
+            "posture": "mit gebeugten Knien, Griff weiter gehalten",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          },
+          "41252d5161ee5aa090ac8840a868d2a4": {
+            "movement": "zu Fuß",
+            "location": "rechts an der Bank",
+            "posture": "rückwärts gegen das Holz gedrängt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel."
+          }
+        }
+      },
+      {
+        "heading": "Zurück ins Dunkel",
+        "setting": "Am offenen Hallentor, nach dem entscheidenden Kampf",
+        "characters": [
+          "97b5d697d155573cb71251c9e01a1e43",
+          "41252d5161ee5aa090ac8840a868d2a4"
+        ],
+        "story": "Totale vom Inneren nach draußen. Beowulf links steht erschöpft, Hände leer. Rechts flieht Grendel als dunkle verletzte Gestalt durch das offene Tor; Körperdetails von Nacht und Türrahmen verdeckt. Keine abgetrennten Gliedmaßen und kein gezeigter Tod im Wald. Kein lebender zweiter Grendel in der Halle. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links innen vor dem Tor; Körperhaltung: stehend, leere Hände gesenkt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts auf der Außenschwelle; Körperhaltung: vorwärts aus dem Haus fliehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.; Verletzungen: tödlich verletzt; die äußere Verletzung liegt vollständig im Schatten.",
+        "dialog": "Grendel floh. Er hatte eine tödliche Wunde davongetragen.",
+        "bubbles": [],
+        "continuity": "Beowulf hat den Ringkampf gewonnen. Grendel ist noch fliehend, nicht bereits tot im selben Bild. Seine spätere Rückkehr ist ausgeschlossen; der Angriff seiner Mutter gehört nicht in diese Episode.",
+        "character_states": {},
+        "continuity_state": {
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "links innen vor dem Tor",
+            "posture": "stehend, leere Hände gesenkt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          },
+          "41252d5161ee5aa090ac8840a868d2a4": {
+            "movement": "zu Fuß",
+            "location": "rechts auf der Außenschwelle",
+            "posture": "vorwärts aus dem Haus fliehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.",
+            "injury": "tödlich verletzt; die äußere Verletzung liegt vollständig im Schatten"
+          }
+        }
+      },
+      {
+        "heading": "Der Morgen bleibt",
+        "setting": "Heorot, nächster Morgen",
+        "characters": [
+          "2674119e5d6a571e8451c35819e86886",
+          "97b5d697d155573cb71251c9e01a1e43"
+        ],
+        "story": "Morgenlicht durch die rechte Tür. Hrothgar links betrachtet den Kampfort, Beowulf rechts ruht sitzend. Die umgestürzte Bank ist noch nicht repariert, die übrigen Holzteile bleiben beschädigt. Keine Goldbelohnung als Ersatz für den gemeinschaftlichen Sinn. Zwei kleine Blasen. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts neben der umgestürzten Bank; Körperhaltung: sitzend, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links im Hallenraum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "2674119e5d6a571e8451c35819e86886",
+            "text": "Es ist hell.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "97b5d697d155573cb71251c9e01a1e43",
+            "text": "Ihr müsst nicht mehr bis zum Abend zählen.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Nacht überstanden. Erschöpfung bleibt; keine Behauptung, dass damit jede spätere Gefahr im gesamten Epos beendet sei.",
+        "character_states": {},
+        "continuity_state": {
+          "2674119e5d6a571e8451c35819e86886": {
+            "movement": "zu Fuß",
+            "location": "links im Hallenraum",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe."
+          },
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "rechts neben der umgestürzten Bank",
+            "posture": "sitzend, erschöpft",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          }
+        }
+      },
+      {
+        "heading": "Stimmen statt Wache",
+        "setting": "Heorot, späterer Abend nach der Wiederherstellung",
+        "characters": [
+          "2674119e5d6a571e8451c35819e86886",
+          "97b5d697d155573cb71251c9e01a1e43"
+        ],
+        "story": "Breite Schlussszene als Gegenbild zur ersten Kachel. Hrothgar und Beowulf sitzen zwischen unbenannten Menschen, die wieder essen und reden. Reparierte Bänke stehen erkennbar an ihrem Ort, das Tor ist geschlossen, Feuerlicht warm. Keine Krönung Beowulfs, kein weiterer anrückender Gegner. Große Raumtiefe nun mit Leben gefüllt. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts bei den anderen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links an einem Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..",
+        "dialog": "Die Halle war nicht mehr nur ein Ort, den man verteidigen musste.",
+        "bubbles": [],
+        "continuity": "Späterer Abend mit zwischenzeitlicher Reparatur. Das gemeinschaftliche Leben kehrt zurück. Beowulf bleibt Gast und Helfer; späterer Drachenkampf und Muttermotiv werden nicht eingefügt.",
+        "character_states": {},
+        "continuity_state": {
+          "2674119e5d6a571e8451c35819e86886": {
+            "movement": "zu Fuß",
+            "location": "links an einem Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe."
+          },
+          "97b5d697d155573cb71251c9e01a1e43": {
+            "movement": "zu Fuß",
+            "location": "rechts bei den anderen",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "97b5d697d155573cb71251c9e01a1e43",
+        "name": "Beowulf",
+        "description": "Junger erwachsener kräftiger Mann mit breiten Schultern, kurzen hellbraunen Haaren, geradem Gesicht und kurzem Bart.",
+        "outfit": "Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.",
+        "backstory": "Geate, kommt über das Meer, um der bedrohten Gemeinschaft zu helfen. Stellt sich Grendel bewusst ohne Schwert.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "2674119e5d6a571e8451c35819e86886",
+        "name": "Hrothgar",
+        "description": "Alter Mann mit weißem Vollbart, schütterem grauem Haar und müden Augen.",
+        "outfit": "Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe.",
+        "backstory": "Herr der Halle Heorot. Hat den Menschen keinen sicheren gemeinsamen Ort mehr bieten können.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "41252d5161ee5aa090ac8840a868d2a4",
+        "name": "Grendel",
+        "description": "Sehr große menschenähnliche Gestalt mit graubrauner Haut, langem dunklem Haar und kräftigen Schultern. Genau zwei Arme und zwei Beine, ein Kopf.",
+        "outfit": "Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.",
+        "backstory": "Nächtlicher Angreifer auf Heorot. Nach der Niederlage tödlich verletzt und fliehend; keine spätere Mutterfigur in dieser Episode.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Woran bemisst sich die Bedeutung einer Heldentat für andere?",
+      "core": "Mut erhält seinen gemeinschaftlichen Wert dadurch, dass andere wieder sicher zusammenleben können, nicht allein durch den Ruhm des Siegers.",
+      "ending": "Nach Grendels Niederlage kehrt gemeinschaftliches Leben in die Halle zurück.",
+      "reason": "Bedrohte Gemeinschaft, angebotene Hilfe, Nachtwache, Kampf und wiedergewonnene Sicherheit bilden einen geschlossenen Ausschnitt.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Die Halle kann wieder zum Ort gemeinschaftlichen Lebens werden.",
+          "meaning": "Der gerettete Lebensraum begründet den Sinn der bestandenen Nacht."
+        }
+      ],
+      "causal_chain": [
+        "Die Halle kann wieder zum Ort gemeinschaftlichen Lebens werden.",
+        "Nach Grendels Niederlage kehrt gemeinschaftliches Leben in die Halle zurück."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "e5610fcc7f5bb5db95e9109eee73a9d0e69f83d2bc7536793959bf88c47323b0",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623600+00:00"
+    },
+    "post_summary": "Eine Halle verliert jede Nacht ihren Sinn als gemeinsames Zuhause. Beowulf kommt über das Meer und bleibt, wenn andere nur noch fortwollen. Die Bedeutung seines Mutes zeigt sich am Abend danach. Freie Adaption der Grendel-Episode des Beowulf.",
+    "source_provenance": {
+      "title": "Beowulf – In der Nacht standhalten",
+      "kind": "Eigene Vorlage",
+      "creator": "Anonym überlieferter Sagenstoff; eigene deutsche Inhaltsgrundlage für den Comic",
+      "edition": "Anonymer Beowulf; Grendel-Episode. Historische englische Übersetzung von Francis Barton Gummere (1855–1919) als gemeinfreier Vergleichstext.; freie, neu formulierte Inhaltszusammenfassung, keine übernommene moderne Nacherzählung.",
+      "url": "https://www.gutenberg.org/cache/epub/981/pg981-images.html",
+      "territories": "Deutschland: zugrunde liegender mittelalterlicher Stoff gemeinfrei. Keine weltweite Rechtefreigabe für fremde Ausgaben, Bilder oder Verfilmungen.",
+      "rights": "Gemeinfreier historischer Sagenstoff. Dieser Eintrag enthält eine neu formulierte Inhaltsgrundlage, keine kopierte moderne Übersetzung und keine fremden Bilder. Die beigefügte Quellenadresse dient als Werk- oder Sachnachweis; deren moderne Texte werden nicht mitlizenziert. Grundlage: §§ 64 und 69 UrhG.",
+      "text": "STOFF UND HERKUNFT: Angelsächsisches Epos über skandinavische Helden; germanischer Sagenraum, nicht eine deutsche Ortssage.\nÜBERLIEFERUNG: Anonymer Beowulf; Grendel-Episode. Historische englische Übersetzung von Francis Barton Gummere (1855–1919) als gemeinfreier Vergleichstext.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nDie dänische Halle Heorot wird nachts von Grendel heimgesucht. Die Menschen haben ihren sicheren Ort verloren. Beowulf, ein junger Held aus dem Volk der Geaten, hört von ihrer Not und kommt über das Meer. Er bietet Hrothgar seine Hilfe an. In der Halle wartet er mit seinen Gefährten auf die nächste Nacht. Als Grendel erscheint, stellt Beowulf sich ihm ohne Schwert im Ringkampf. Er überwindet den Angreifer, der tödlich verwundet flieht. Die Halle kann wieder zum Ort gemeinschaftlichen Lebens werden. Der Comic endet nach diesem Sieg; spätere Kämpfe bleiben außerhalb dieser Episode.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Verantwortung übernehmen und einer bedrohten Gemeinschaft wieder Ruhe ermöglichen.\nABGRENZUNG: Beowulf nicht als deutschen Stammesführer oder historischen Bericht ausgeben. Den Angriff von Grendels Mutter nicht in dieselbe kurze Episode hineinziehen. Neue deutsche Formulierungen verwenden, keine moderne deutsche Übersetzung übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+      "id": "heldensagen-beowulf-grendel",
+      "post_summary": "STOFF UND HERKUNFT: Angelsächsisches Epos über skandinavische Helden; germanischer Sagenraum, nicht eine deutsche Ortssage. ÜBERLIEFERUNG: Anonymer Beowulf; Grendel-Episode. Historische englische Übersetzung von Francis Barton Gummere (1855–1919) als gemeinfreier Vergleichstext. HANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG: Die dänische Halle Heorot wird nachts von Grendel heimgesucht. Die Menschen haben ihren sicheren Ort verloren. Beowulf, ein junger Held aus dem Volk der Geaten, hört von ihrer Not und kommt über das Meer. Er bietet Hrothgar seine Hilfe an.",
+      "category": "Heldensagen und Mythen",
+      "collection": "Mittelalterliche Heldensagen"
+    },
+    "source_script": "TITEL: Beowulf – In der Nacht standhalten\nAUTOR: \nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Von der leeren hölzernen Halle zur wiedergewonnenen gemeinschaftlichen Wärme. Bildstil offen.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Beowulf\nAussehen: Junger erwachsener kräftiger Mann mit breiten Schultern, kurzen hellbraunen Haaren, geradem Gesicht und kurzem Bart.\nKleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.\nPersönlichkeit und Vorgeschichte: Geate, kommt über das Meer, um der bedrohten Gemeinschaft zu helfen. Stellt sich Grendel bewusst ohne Schwert.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hrothgar\nAussehen: Alter Mann mit weißem Vollbart, schütterem grauem Haar und müden Augen.\nKleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe.\nPersönlichkeit und Vorgeschichte: Herr der Halle Heorot. Hat den Menschen keinen sicheren gemeinsamen Ort mehr bieten können.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Grendel\nAussehen: Sehr große menschenähnliche Gestalt mit graubrauner Haut, langem dunklem Haar und kräftigen Schultern. Genau zwei Arme und zwei Beine, ein Kopf.\nKleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.\nPersönlichkeit und Vorgeschichte: Nächtlicher Angreifer auf Heorot. Nach der Niederlage tödlich verletzt und fliehend; keine spätere Mutterfigur in dieser Episode.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Eine Halle ohne Stimmen\nOrt und Zeit: Heorot, Abend vor Beowulfs Ankunft\nSichtbare Figuren: Hrothgar\nBildbeschreibung: Totale des hölzernen Hallenraums. Hrothgar links allein an einem langen Tisch, unbenutzte Bänke, eine kleine Feuerstelle und rechts das große geschlossene Tor. Kein üppiges Fest und keine Leichen. Das leere Volumen soll spürbar sein. Ein kurzer Erzählerkasten oben. Verbindliche Zustände: Hrothgar: Fortbewegung: zu Fuß; Ort: links an einem langen leeren Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..\nErzählertext: Heorot war für gemeinsame Abende gebaut. Nachts wollte niemand mehr bleiben.\nDialoge: keine\nKontinuität / Änderung: Die Bedrohung hat den gemeinsamen Raum entleert. Der konkrete Abend ist freie Rahmung, keine zusätzliche erfundene Schlacht.\n\nKACHEL 2: Über das Meer\nOrt und Zeit: Küste nahe Heorot, nächster Tag\nSichtbare Figuren: Beowulf\nBildbeschreibung: Weite Küstenansicht. Beowulf links auf festem Land, hinter ihm ein angelegtes offenes Segelschiff und unbenannte Gefährten. Er selbst trägt keine Klinge und keinen Schild. Blickrichtung zum Landesinnern. Keine moderne Nationalflagge und kein deutscher Stammesname als Bildschrift. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links am festen Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode..\nErzählertext: Beowulf kam über das Meer, weil er von ihrer Not gehört hatte.\nDialoge: keine\nKontinuität / Änderung: Geate im skandinavischen Sagenraum, kein deutscher historischer Heerführer. Ufer bereits erreicht; kein gleichzeitiges Stehen auf dem Schiff und am Strand.\n\nKACHEL 3: Keine große Rede\nOrt und Zeit: In Heorot, Tag\nSichtbare Figuren: Hrothgar, Beowulf\nBildbeschreibung: Halbtotale, dieselbe Tür rechts im Hintergrund. Hrothgar links vor dem Tisch, Beowulf rechts mit offenen leeren Händen. Er ist nicht als bereits gefeierter Sieger willkommen. Zwei kurze Blasen in freier Wandfläche über den Köpfen. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts ihm gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hrothgar\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Die Nächte gehören uns nicht mehr.“\nDialog 2:\n  Sprecher: Beowulf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann bleibe ich heute Nacht.“\nKontinuität / Änderung: Beowulf bietet Hilfe vor der Begegnung mit Grendel an. Keine Waffe aus einer Tasche und keine Zusage völliger Unverwundbarkeit.\n\nKACHEL 4: Die anderen schlafen\nOrt und Zeit: Heorot, Nacht\nSichtbare Figuren: Beowulf\nBildbeschreibung: Breite Innenansicht mit gedämpftem Feuerlicht. Beowulf links wach auf der Bank, im Hintergrund seine Gefährten als schlafende unbenannte Gestalten. Rechts das große Hallentor noch geschlossen. Keine verstreuten Schwerter als versteckte spätere Hilfsmittel. Die freie Strecke vom Tor bis zu seiner Bank bleibt nachvollziehbar. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links neben einer Bank; Körperhaltung: sitzend, wach; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Nachts wartet Beowulf mit seinen Gefährten in der Halle. Die sichtbaren Hintergrundschläfer sind keine zweite Beowulf-Figur. Kein früher Angriff von Grendels Mutter.\n\nKACHEL 5: Die offene Nacht\nOrt und Zeit: Hallentor, wenig später\nSichtbare Figuren: Beowulf, Grendel\nBildbeschreibung: Totale in derselben Links-rechts-Achse. Rechts füllt Grendel den nun offenen Türrahmen, links steht Beowulf von der Bank auf. Der Riese hat genau zwei Arme und Beine, keine Keule oder Waffe. Die Gefährten bleiben im dunklen Hintergrund, kein bereits getöteter Held im Vordergrund. Kein Blut. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links vor der Bank; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts im geöffneten Hallentor; Körperhaltung: stehend, Oberkörper nach innen gebeugt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Tor geöffnet, Grendel erst jetzt in der Halle. Beowulf hat sich zwischen 4 und 5 erhoben und bleibt unbewaffnet.\n\nKACHEL 6: Der erste Halt\nOrt und Zeit: Zwischen Tor und Bank\nSichtbare Figuren: Beowulf, Grendel\nBildbeschreibung: Halbnahe lesbare Körperanordnung: Beowulf links umfasst mit seinen zwei Händen Grendels einen rechten Unterarm; Grendels linker Arm bleibt frei seitlich. Keine weiteren greifenden Hände. Die Größe des Angreifers bleibt deutlich. Holzstaub und gespannte Körper zeigen Kraft, nicht anatomische Verletzung. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links unmittelbar vor Grendel; Körperhaltung: mit festem Stand, beide Hände am rechten Unterarm Grendels; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts im Hallenraum; Körperhaltung: nach vorn gebeugt, rechter Arm im Griff; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Beowulf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Heute gehst du nicht weiter.“\nKontinuität / Änderung: Ringkampf ohne Schwert. Griff betrifft genau einen Arm des Gegners. Kein plötzliches Waffenmodell aus der Sagenrüstung anderer Beowulf-Episoden.\n\nKACHEL 7: Die Bank kippt\nOrt und Zeit: Derselbe Hallenbereich, im Kampf\nSichtbare Figuren: Beowulf, Grendel\nBildbeschreibung: Weite seitliche Einstellung. Eine Bank ist umgekippt, das Tor bleibt rechts hinten als Fluchtweg erkennbar. Beowulf links hält seinen Griff; Grendel rechts drängt zurück. Keine zerfallende ganze Halle und keine zweiten Körperphasen in einem Bild. Der Holzbruch ersetzt das Zeigen offener Wunden. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links am umgestoßenen Bankende; Körperhaltung: mit gebeugten Knien, Griff weiter gehalten; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts an der Bank; Körperhaltung: rückwärts gegen das Holz gedrängt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Derselbe Kampf, keine zusätzliche magische Kraft und kein Helferschwert. Die gezeigte Bank wurde durch den Kampf umgestoßen, nicht schon im nächsten Bild wieder aufgerichtet.\n\nKACHEL 8: Zurück ins Dunkel\nOrt und Zeit: Am offenen Hallentor, nach dem entscheidenden Kampf\nSichtbare Figuren: Beowulf, Grendel\nBildbeschreibung: Totale vom Inneren nach draußen. Beowulf links steht erschöpft, Hände leer. Rechts flieht Grendel als dunkle verletzte Gestalt durch das offene Tor; Körperdetails von Nacht und Türrahmen verdeckt. Keine abgetrennten Gliedmaßen und kein gezeigter Tod im Wald. Kein lebender zweiter Grendel in der Halle. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: links innen vor dem Tor; Körperhaltung: stehend, leere Hände gesenkt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Grendel: Fortbewegung: zu Fuß; Ort: rechts auf der Außenschwelle; Körperhaltung: vorwärts aus dem Haus fliehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zerschlissener dunkler Stoff um den Rumpf, keine Waffen oder Rüstung. Keine zusätzlichen Hörner oder Flügel.; Verletzungen: tödlich verletzt; die äußere Verletzung liegt vollständig im Schatten.\nErzählertext: Grendel floh. Er hatte eine tödliche Wunde davongetragen.\nDialoge: keine\nKontinuität / Änderung: Beowulf hat den Ringkampf gewonnen. Grendel ist noch fliehend, nicht bereits tot im selben Bild. Seine spätere Rückkehr ist ausgeschlossen; der Angriff seiner Mutter gehört nicht in diese Episode.\n\nKACHEL 9: Der Morgen bleibt\nOrt und Zeit: Heorot, nächster Morgen\nSichtbare Figuren: Hrothgar, Beowulf\nBildbeschreibung: Morgenlicht durch die rechte Tür. Hrothgar links betrachtet den Kampfort, Beowulf rechts ruht sitzend. Die umgestürzte Bank ist noch nicht repariert, die übrigen Holzteile bleiben beschädigt. Keine Goldbelohnung als Ersatz für den gemeinschaftlichen Sinn. Zwei kleine Blasen. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts neben der umgestürzten Bank; Körperhaltung: sitzend, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links im Hallenraum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hrothgar\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Es ist hell.“\nDialog 2:\n  Sprecher: Beowulf\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ihr müsst nicht mehr bis zum Abend zählen.“\nKontinuität / Änderung: Nacht überstanden. Erschöpfung bleibt; keine Behauptung, dass damit jede spätere Gefahr im gesamten Epos beendet sei.\n\nKACHEL 10: Stimmen statt Wache\nOrt und Zeit: Heorot, späterer Abend nach der Wiederherstellung\nSichtbare Figuren: Hrothgar, Beowulf\nBildbeschreibung: Breite Schlussszene als Gegenbild zur ersten Kachel. Hrothgar und Beowulf sitzen zwischen unbenannten Menschen, die wieder essen und reden. Reparierte Bänke stehen erkennbar an ihrem Ort, das Tor ist geschlossen, Feuerlicht warm. Keine Krönung Beowulfs, kein weiterer anrückender Gegner. Große Raumtiefe nun mit Leben gefüllt. Verbindliche Zustände: Beowulf: Fortbewegung: zu Fuß; Ort: rechts bei den anderen; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Wolltunika, Ledergürtel, braune Hose und Stiefel. Keine Klinge, keine Scheide und kein Schild in dieser Episode.. Hrothgar: Fortbewegung: zu Fuß; Ort: links an einem Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollmantel über grauem Rock, braune Schuhe, schmaler schlichter Stirnreif. Keine Waffe..\nErzählertext: Die Halle war nicht mehr nur ein Ort, den man verteidigen musste.\nDialoge: keine\nKontinuität / Änderung: Späterer Abend mit zwischenzeitlicher Reparatur. Das gemeinschaftliche Leben kehrt zurück. Beowulf bleibt Gast und Helfer; späterer Drachenkampf und Muttermotiv werden nicht eingefügt.\n",
+    "book_author": "",
+    "editorial_script_id": "beowulf-grendel-10",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Beowulf – In der Nacht standhalten · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

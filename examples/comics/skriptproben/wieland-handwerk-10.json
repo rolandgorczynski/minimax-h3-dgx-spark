@@ -1,0 +1,374 @@
+{
+  "mode": "editorial",
+  "name": "Wieland – Freiheit durch Können · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Germanischer Wieland-/Völund-Stoff; hier das Schmiede- und Fluchtmotiv der Überlieferung.\nÜBERLIEFERUNG: Mittelalterliche Wieland-/Völund-Überlieferung; historischer deutscher Bearbeiter unter anderem Karl Simrock (1802–1876). Ausgewähltes Motiv, keine vollständige Wiedergabe der Sage.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nWieland ist ein außergewöhnlicher Schmied. Ein Herrscher hält ihn fest und zwingt ihn, seine Kunst in dessen Dienst zu stellen. Durch Verstümmelung wird ihm die gewöhnliche Flucht genommen. Die Werkstatt wird zum Gefängnis. Doch sein Können und sein Wissen bleiben ihm. Wieland arbeitet an einer Möglichkeit, die Grenzen dieses Gefängnisses anders zu überwinden. Das Flugmotiv der Sage verbindet seine Handwerkskunst mit dem Ausbruch: Mit künstlichen Flügeln erhebt er sich und entkommt dem Zugriff des Herrschers. Die Comic-Episode endet mit dieser Flucht, nicht mit einer Behauptung über sein ganzes Leben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Geduld, schöpferische Arbeit und geistige Beweglichkeit in einer aussichtslos scheinenden Lage.\nABGRENZUNG: Die vollständige Sage enthält brutale Rache und sexualisierte Gewalt. Diese Vorlage wählt ausdrücklich das Gefangenschafts-, Handwerks- und Fluchtmotiv aus; Wieland nicht zum durchweg moralisch makellosen Helden erklären. Keine Darstellung expliziter Verletzungen. Flugtechnik nicht als historisch möglich behaupten.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_article": "STOFF UND HERKUNFT: Germanischer Wieland-/Völund-Stoff; hier das Schmiede- und Fluchtmotiv der Überlieferung.\nÜBERLIEFERUNG: Mittelalterliche Wieland-/Völund-Überlieferung; historischer deutscher Bearbeiter unter anderem Karl Simrock (1802–1876). Ausgewähltes Motiv, keine vollständige Wiedergabe der Sage.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nWieland ist ein außergewöhnlicher Schmied. Ein Herrscher hält ihn fest und zwingt ihn, seine Kunst in dessen Dienst zu stellen. Durch Verstümmelung wird ihm die gewöhnliche Flucht genommen. Die Werkstatt wird zum Gefängnis. Doch sein Können und sein Wissen bleiben ihm. Wieland arbeitet an einer Möglichkeit, die Grenzen dieses Gefängnisses anders zu überwinden. Das Flugmotiv der Sage verbindet seine Handwerkskunst mit dem Ausbruch: Mit künstlichen Flügeln erhebt er sich und entkommt dem Zugriff des Herrschers. Die Comic-Episode endet mit dieser Flucht, nicht mit einer Behauptung über sein ganzes Leben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Geduld, schöpferische Arbeit und geistige Beweglichkeit in einer aussichtslos scheinenden Lage.\nABGRENZUNG: Die vollständige Sage enthält brutale Rache und sexualisierte Gewalt. Diese Vorlage wählt ausdrücklich das Gefangenschafts-, Handwerks- und Fluchtmotiv aus; Wieland nicht zum durchweg moralisch makellosen Helden erklären. Keine Darstellung expliziter Verletzungen. Flugtechnik nicht als historisch möglich behaupten.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Was Hände können",
+        "setting": "Schmiedewerkstatt, vor der dauernden Einschließung",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Halbnahe. Wieland links am Werktisch, mit einem Hammer in der rechten und einer kleinen unfertigen Metallarbeit in der linken Hand. Kein Schwert und keine zerlegten Waffen. Das Licht fällt durch ein offenes Fenster auf seine konzentrierten Hände. Die Tür im Hintergrund ist noch nicht verriegelt. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am Arbeitstisch; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hammer rechts, eine kleine Metallarbeit links; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden..",
+        "dialog": "Wielands Können war selten. Darum wollte ein anderer darüber bestimmen.",
+        "bubbles": [],
+        "continuity": "Ausgangszustand vor der verstümmelnden Gewalt: Wieland kann hier noch stehen. Werkzeug rechts und Werkstück links klar unterscheiden.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links am Arbeitstisch",
+            "posture": "stehend",
+            "held": "ein Hammer rechts, eine kleine Metallarbeit links",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden."
+          }
+        }
+      },
+      {
+        "heading": "Eine andere Bestellung",
+        "setting": "Dieselbe Werkstatt, Beginn der erzwungenen Arbeit",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b",
+          "e00eac45ec6b5cb8b9353dc755436685"
+        ],
+        "story": "Halbtotale. Links Wieland hinter dem Tisch, beide Hände jetzt leer; Hammer und kleines Werkstück liegen getrennt auf der Tischplatte. Rechts steht der Herrscher und nimmt den gesamten Türrahmen ein. Keine gezogene Waffe als Drohgeste und keine dritte sprechende Figur. Zwei kurze Blasen oben. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links hinter dem Arbeitstisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden.. Herrscher: Fortbewegung: zu Fuß; Ort: rechts im geöffneten Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "e00eac45ec6b5cb8b9353dc755436685",
+            "text": "Deine Arbeit bleibt bei mir.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "319f80f51f885cf68a79e69185aed49b",
+            "text": "Und ich?",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Der Herrscher hält Wieland fest. Die scheinbare Bestellung ist keine freie geschäftliche Vereinbarung; die Gegenstände wurden zwischen 1 und 2 auf den Tisch gelegt.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links hinter dem Arbeitstisch",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden."
+          },
+          "e00eac45ec6b5cb8b9353dc755436685": {
+            "movement": "zu Fuß",
+            "location": "rechts im geöffneten Türrahmen",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe."
+          }
+        }
+      },
+      {
+        "heading": "Der gewöhnliche Weg ist fort",
+        "setting": "Werkstatt nach der Gewalt, später",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Ruhige Einstellung nach einer deutlichen Zeitlücke. Wieland sitzt links, beide Beine verbunden unter der dunklen Hose; die Schürze bleibt am Körper. Keine offene Wunde, kein Instrument der Verstümmelung und keine Durchführung des Übergriffs. Die nun verschlossene Tür rechts steht weit außerhalb seiner Reichweite. Leere Hände. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links auf einem niedrigen Arbeitssitz; Körperhaltung: sitzend, Beine ausgestreckt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "Der Herrscher ließ ihm das Können. Den gewöhnlichen Weg hinaus nahm er ihm.",
+        "bubbles": [],
+        "continuity": "Zwischen 2 und 3 wurden Wielands Beine schwer beeinträchtigt. Diese Verletzung bleibt bis zum Ende; nicht wieder unvermittelt gehend oder springend darstellen.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links auf einem niedrigen Arbeitssitz",
+            "posture": "sitzend, Beine ausgestreckt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      },
+      {
+        "heading": "Ein Raum als Grenze",
+        "setting": "Dieselbe verschlossene Werkstatt, ein späterer Tag",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Weite Ansicht des unveränderten Grundrisses: Wieland links am Tisch, rechts die verriegelte Tür, oben rechts das hohe offene Fenster. Nur Werkzeug an der Wand, kein fertiges Fluggerät. Er schaut vom Türverschluss zum Fenster. Die Höhe und die schmale Sitzfläche machen die Begrenzung lesbar, ohne den Körper als bloßes Schauobjekt auszulegen. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am niedrigen Arbeitstisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Mehrere Tage der Gefangenschaft liegen zwischen den Bildern. Die Werkstatt bleibt zugleich Arbeitsort und Gefängnis; noch keine Flügel vorhanden.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links am niedrigen Arbeitstisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      },
+      {
+        "heading": "Anders fragen",
+        "setting": "Werkstatt am offenen Fenster, nach weiterer Arbeitszeit",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Nahe auf Wielands Blick und die Tischplatte. Er hat dort mit einem kleinen Kohlestift eine einfache Flügelform angedeutet; keine technische Bauanleitung, Maße oder real funktionierende Mechanik. Vom offenen Fenster fällt Wind durch lose Holzspäne. Kein neuer übernatürlicher Helfer und kein sprechender Vogel. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am Tisch unterhalb des Fensters; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein kleiner Kohlestift rechts; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "319f80f51f885cf68a79e69185aed49b",
+            "text": "Nicht durch die Tür.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Der Kohlestift wurde vom Arbeitstisch genommen. Die Skizze markiert das überlieferte Flugmotiv in freier Darstellung, keine plötzlich fertige Erfindung.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch unterhalb des Fensters",
+            "posture": "sitzend",
+            "held": "ein kleiner Kohlestift rechts",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      },
+      {
+        "heading": "Zeit in den Händen",
+        "setting": "Derselbe Arbeitstisch, viel später",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Halbtotale. Wieland arbeitet sitzend an genau einem unfertigen leichten Flügelrahmen, der auf dem Tisch liegt. Zweiter Rahmen als unvollständige Umrissform an der Wand; noch kein Flügel an seinem Körper. Stumpfer Hammer, keine Waffe. Staub und wechselnde Lichtrichtung zeigen die vergehende Zeit ohne Montage mehrerer Körper. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am breiteren Werktisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein kleiner Hammer rechts, linke Hand am Flügelrahmen; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "Die Arbeit, die ihn festhalten sollte, begann eine andere Form anzunehmen.",
+        "bubbles": [],
+        "continuity": "Ausdrücklicher Zeitsprung. Rahmen entstehen schrittweise. Beine bleiben verbunden und unter dem Tisch; keine geheilte Arbeitsphase im Stehen.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links am breiteren Werktisch",
+            "posture": "sitzend",
+            "held": "ein kleiner Hammer rechts, linke Hand am Flügelrahmen",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      },
+      {
+        "heading": "Zwei statt einer Tür",
+        "setting": "Werkstatt, nach Abschluss der Vorbereitung",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Weite klare Ansicht. Auf dem Tisch liegen zwei zusammengehörige künstliche Flügel an einem einzigen Tragegestell; keine zusätzlichen einzelnen Flügelteile im Vordergrund als mögliche dritte Flügel. Wieland sitzt daneben, betrachtet die fertige Form und hält kein Werkzeug mehr. Das hohe Fenster bleibt oben rechts. Keine funktionsfähige Detailzeichnung. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend, Hände am Tischrand; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Arbeit abgeschlossen, Fluggerät noch nicht angelegt. Genau ein Gestell mit zwei Flügeln. Verwendete Materialien bleiben freie Sageninszenierung, keine historisch plausible Flugtechnik behaupten.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch",
+            "posture": "sitzend, Hände am Tischrand",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      },
+      {
+        "heading": "Am offenen Rand",
+        "setting": "Hohe Fensteröffnung der Werkstatt, später",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Halbtotale von außen auf das offene Fenster. Wieland sitzt bereits auf der inneren breiten Steinbank und trägt genau ein Gestell mit zwei seitlichen künstlichen Flügeln. Die verbundenen Beine hängen innen, keine stehende oder springende Haltung. Hinter ihm ist eine herangerückte stabile Arbeitsplattform zu erkennen, über die er sich sitzend hochgearbeitet hat. Keine zweite Figur im Fenster. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links auf der inneren Fensterbank; Körperhaltung: sitzend an der offenen Fensterkante; Mitgeführte Gegenstände: beide Hände am Tragegestell; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "319f80f51f885cf68a79e69185aed49b",
+            "text": "Die Beine bleiben, wie sie sind.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Zwischen 7 und 8 hat Wieland das Gerät angelegt und sich mit Armen und Sitzbewegung über eine Arbeitsplattform zur Fensterbank gebracht. Kein plötzlich wieder möglicher Lauf oder Sprung; Hilfskonstruktion freie knappe Inszenierung, kein eigenes neues Abenteuer.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "zu Fuß",
+            "location": "links auf der inneren Fensterbank",
+            "posture": "sitzend an der offenen Fensterkante",
+            "held": "beide Hände am Tragegestell",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      },
+      {
+        "heading": "Außer Reichweite",
+        "setting": "Über der Mauer am Werkstattgebäude",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b",
+          "e00eac45ec6b5cb8b9353dc755436685"
+        ],
+        "story": "Weite Einstellung. Wieland links fliegt mit genau zwei künstlichen Flügeln an einem Gestell über die Mauer. Sein Körper ist einer, Beine hängen verbunden nach unten, keine neuen Vogelfüße. Rechts unten der Herrscher klein und mit leer erhobener Hand. Das Fenster bleibt hinter Wieland offen. Keine Brandzerstörung der Werkstatt und kein Angriff aus der Luft. Verbindliche Zustände: Wieland: Fortbewegung: fliegend; Ort: links in der Luft oberhalb der Mauer; Körperhaltung: im künstlichen Flug getragen; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich.. Herrscher: Fortbewegung: zu Fuß; Ort: rechts unten im Hof; Körperhaltung: stehend, Blick nach oben; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "e00eac45ec6b5cb8b9353dc755436685",
+            "text": "Das habe ich dir nicht erlaubt.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Das Sagenflugmotiv ist eingetreten. Wieland fliegt, er ist weder wieder laufend noch körperlich geheilt. Das Verbot des Herrschers erreicht ihn nur als Stimme.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "fliegend",
+            "location": "links in der Luft oberhalb der Mauer",
+            "posture": "im künstlichen Flug getragen",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          },
+          "e00eac45ec6b5cb8b9353dc755436685": {
+            "movement": "zu Fuß",
+            "location": "rechts unten im Hof",
+            "posture": "stehend, Blick nach oben",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe."
+          }
+        }
+      },
+      {
+        "heading": "Der kleinere Hof",
+        "setting": "Weite Landschaft jenseits der Werkstatt",
+        "characters": [
+          "319f80f51f885cf68a79e69185aed49b"
+        ],
+        "story": "Große Totale. Wieland nur klein oben links, das eine Tragegestell und seine zwei Flügel klar lesbar. Tief rechts unten die Mauer und der Hof, die ihn zuvor ganz ausfüllten. Keine gezeigte Landung, keine neue Heimat, keine Krönung und keine Beurteilung späterer Rachetaten. Viel freier Himmel, ein einzelner kurzer Erzählerkasten. Verbindliche Zustände: Wieland: Fortbewegung: fliegend; Ort: oben links im freien Himmel; Körperhaltung: weiterfliegend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..",
+        "dialog": "Der Hof blieb hinter ihm. Sein weiterer Weg gehört nicht zu dieser Episode.",
+        "bubbles": [],
+        "continuity": "Flucht gelungen, weiterfliegend. Beeinträchtigte Beine bleiben unverändert, kein späterer glücklicher Lebenslauf wird aus dem Motiv abgeleitet. Die vollständige Wielandsage wird nicht moralisch freigesprochen.",
+        "character_states": {},
+        "continuity_state": {
+          "319f80f51f885cf68a79e69185aed49b": {
+            "movement": "fliegend",
+            "location": "oben links im freien Himmel",
+            "posture": "weiterfliegend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.",
+            "injury": "Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "319f80f51f885cf68a79e69185aed49b",
+        "name": "Wieland",
+        "description": "Erwachsener kräftiger Schmied, dunkles lockiges Haar, kurzer schwarzer Bart, breite Hände. Zwei Arme; beide Beine bleiben nach der Gefangenschaft schwer beeinträchtigt.",
+        "outfit": "Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden.",
+        "backstory": "Außergewöhnlicher Schmied, zur Arbeit gezwungen. Die ausgewählte Episode gilt seinem Erfindungsvermögen und seiner Flucht, nicht einer moralischen Entlastung der gesamten Sagenfigur.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "e00eac45ec6b5cb8b9353dc755436685",
+        "name": "Herrscher",
+        "description": "Älterer breiter Mann mit kurzgeschnittenem grauem Bart und glattem grauem Haar.",
+        "outfit": "Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe.",
+        "backstory": "Will Wielands Können besitzen und verwechselt Verfügung über dessen Arbeitsort mit Verfügung über alle seine Möglichkeiten.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was kann einem Menschen bleiben, wenn ihm gewöhnliche Auswege genommen werden?",
+      "core": "Können und Erfindungsvermögen können einen Ausweg eröffnen, den bloße Unterwerfung unter fremde Macht nicht bietet.",
+      "ending": "Wieland entkommt mit künstlichen Flügeln; über sein weiteres Leben wird nichts behauptet.",
+      "reason": "Gefangenschaft, verwehrte Flucht, schöpferische Arbeit und Ausbruch sollen getrennt erfahrbar werden.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Doch sein Können und sein Wissen bleiben ihm.",
+          "meaning": "Die Werkstatt wird durch eigenes Denken vom Zwangsort zum Mittel der Flucht."
+        }
+      ],
+      "causal_chain": [
+        "Doch sein Können und sein Wissen bleiben ihm.",
+        "Wieland entkommt mit künstlichen Flügeln; über sein weiteres Leben wird nichts behauptet."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "2126fb81e7b7cf858ff570a356fd7f3de9178624d9536d09050e3ed2bb934d6e",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623582+00:00"
+    },
+    "post_summary": "Ein Herrscher sperrt Wieland ein und nimmt ihm die Möglichkeit zu gehen. Doch nicht alles, was ihn festhält, bestimmt auch seine Grenzen. Ausgewählte Schmiede- und Fluchtepisode der Wielandüberlieferung – keine vollständige oder beschönigende Lebensgeschichte.",
+    "source_provenance": {
+      "title": "Wieland – Freiheit durch Können",
+      "kind": "Eigene Vorlage",
+      "creator": "Anonym überlieferter Sagenstoff; eigene deutsche Inhaltsgrundlage für den Comic",
+      "edition": "Mittelalterliche Wieland-/Völund-Überlieferung; historischer deutscher Bearbeiter unter anderem Karl Simrock (1802–1876). Ausgewähltes Motiv, keine vollständige Wiedergabe der Sage.; freie, neu formulierte Inhaltszusammenfassung, keine übernommene moderne Nacherzählung.",
+      "url": "https://de.wikisource.org/wiki/Karl_Joseph_Simrock",
+      "territories": "Deutschland: zugrunde liegender mittelalterlicher Stoff gemeinfrei. Keine weltweite Rechtefreigabe für fremde Ausgaben, Bilder oder Verfilmungen.",
+      "rights": "Gemeinfreier historischer Sagenstoff. Dieser Eintrag enthält eine neu formulierte Inhaltsgrundlage, keine kopierte moderne Übersetzung und keine fremden Bilder. Die beigefügte Quellenadresse dient als Werk- oder Sachnachweis; deren moderne Texte werden nicht mitlizenziert. Grundlage: §§ 64 und 69 UrhG.",
+      "text": "STOFF UND HERKUNFT: Germanischer Wieland-/Völund-Stoff; hier das Schmiede- und Fluchtmotiv der Überlieferung.\nÜBERLIEFERUNG: Mittelalterliche Wieland-/Völund-Überlieferung; historischer deutscher Bearbeiter unter anderem Karl Simrock (1802–1876). Ausgewähltes Motiv, keine vollständige Wiedergabe der Sage.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nWieland ist ein außergewöhnlicher Schmied. Ein Herrscher hält ihn fest und zwingt ihn, seine Kunst in dessen Dienst zu stellen. Durch Verstümmelung wird ihm die gewöhnliche Flucht genommen. Die Werkstatt wird zum Gefängnis. Doch sein Können und sein Wissen bleiben ihm. Wieland arbeitet an einer Möglichkeit, die Grenzen dieses Gefängnisses anders zu überwinden. Das Flugmotiv der Sage verbindet seine Handwerkskunst mit dem Ausbruch: Mit künstlichen Flügeln erhebt er sich und entkommt dem Zugriff des Herrschers. Die Comic-Episode endet mit dieser Flucht, nicht mit einer Behauptung über sein ganzes Leben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Geduld, schöpferische Arbeit und geistige Beweglichkeit in einer aussichtslos scheinenden Lage.\nABGRENZUNG: Die vollständige Sage enthält brutale Rache und sexualisierte Gewalt. Diese Vorlage wählt ausdrücklich das Gefangenschafts-, Handwerks- und Fluchtmotiv aus; Wieland nicht zum durchweg moralisch makellosen Helden erklären. Keine Darstellung expliziter Verletzungen. Flugtechnik nicht als historisch möglich behaupten.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+      "id": "heldensagen-wieland-handwerk",
+      "post_summary": "STOFF UND HERKUNFT: Germanischer Wieland-/Völund-Stoff; hier das Schmiede- und Fluchtmotiv der Überlieferung. ÜBERLIEFERUNG: Mittelalterliche Wieland-/Völund-Überlieferung; historischer deutscher Bearbeiter unter anderem Karl Simrock (1802–1876). Ausgewähltes Motiv, keine vollständige Wiedergabe der Sage. HANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG: Wieland ist ein außergewöhnlicher Schmied. Ein Herrscher hält ihn fest und zwingt ihn, seine Kunst in dessen Dienst zu stellen. Durch Verstümmelung wird ihm die gewöhnliche Flucht genommen. Die Werkstatt wird zum Gefängnis.",
+      "category": "Heldensagen und Mythen",
+      "collection": "Mittelalterliche Heldensagen"
+    },
+    "source_script": "TITEL: Wieland – Freiheit durch Können\nAUTOR: \nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Von engen Werkstattachsen zum weiten Himmel. Bildstil offen; Sagenflug, keine Technikdokumentation.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Wieland\nAussehen: Erwachsener kräftiger Schmied, dunkles lockiges Haar, kurzer schwarzer Bart, breite Hände. Zwei Arme; beide Beine bleiben nach der Gefangenschaft schwer beeinträchtigt.\nKleidung: Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden.\nPersönlichkeit und Vorgeschichte: Außergewöhnlicher Schmied, zur Arbeit gezwungen. Die ausgewählte Episode gilt seinem Erfindungsvermögen und seiner Flucht, nicht einer moralischen Entlastung der gesamten Sagenfigur.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Herrscher\nAussehen: Älterer breiter Mann mit kurzgeschnittenem grauem Bart und glattem grauem Haar.\nKleidung: Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe.\nPersönlichkeit und Vorgeschichte: Will Wielands Können besitzen und verwechselt Verfügung über dessen Arbeitsort mit Verfügung über alle seine Möglichkeiten.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Was Hände können\nOrt und Zeit: Schmiedewerkstatt, vor der dauernden Einschließung\nSichtbare Figuren: Wieland\nBildbeschreibung: Halbnahe. Wieland links am Werktisch, mit einem Hammer in der rechten und einer kleinen unfertigen Metallarbeit in der linken Hand. Kein Schwert und keine zerlegten Waffen. Das Licht fällt durch ein offenes Fenster auf seine konzentrierten Hände. Die Tür im Hintergrund ist noch nicht verriegelt. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am Arbeitstisch; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hammer rechts, eine kleine Metallarbeit links; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden..\nErzählertext: Wielands Können war selten. Darum wollte ein anderer darüber bestimmen.\nDialoge: keine\nKontinuität / Änderung: Ausgangszustand vor der verstümmelnden Gewalt: Wieland kann hier noch stehen. Werkzeug rechts und Werkstück links klar unterscheiden.\n\nKACHEL 2: Eine andere Bestellung\nOrt und Zeit: Dieselbe Werkstatt, Beginn der erzwungenen Arbeit\nSichtbare Figuren: Wieland, Herrscher\nBildbeschreibung: Halbtotale. Links Wieland hinter dem Tisch, beide Hände jetzt leer; Hammer und kleines Werkstück liegen getrennt auf der Tischplatte. Rechts steht der Herrscher und nimmt den gesamten Türrahmen ein. Keine gezogene Waffe als Drohgeste und keine dritte sprechende Figur. Zwei kurze Blasen oben. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links hinter dem Arbeitstisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und feste Schuhe. Kein Schwert. Nach der Verletzung bleiben die Beine verbunden.. Herrscher: Fortbewegung: zu Fuß; Ort: rechts im geöffneten Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Herrscher\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Deine Arbeit bleibt bei mir.“\nDialog 2:\n  Sprecher: Wieland\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Und ich?“\nKontinuität / Änderung: Der Herrscher hält Wieland fest. Die scheinbare Bestellung ist keine freie geschäftliche Vereinbarung; die Gegenstände wurden zwischen 1 und 2 auf den Tisch gelegt.\n\nKACHEL 3: Der gewöhnliche Weg ist fort\nOrt und Zeit: Werkstatt nach der Gewalt, später\nSichtbare Figuren: Wieland\nBildbeschreibung: Ruhige Einstellung nach einer deutlichen Zeitlücke. Wieland sitzt links, beide Beine verbunden unter der dunklen Hose; die Schürze bleibt am Körper. Keine offene Wunde, kein Instrument der Verstümmelung und keine Durchführung des Übergriffs. Die nun verschlossene Tür rechts steht weit außerhalb seiner Reichweite. Leere Hände. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links auf einem niedrigen Arbeitssitz; Körperhaltung: sitzend, Beine ausgestreckt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: Der Herrscher ließ ihm das Können. Den gewöhnlichen Weg hinaus nahm er ihm.\nDialoge: keine\nKontinuität / Änderung: Zwischen 2 und 3 wurden Wielands Beine schwer beeinträchtigt. Diese Verletzung bleibt bis zum Ende; nicht wieder unvermittelt gehend oder springend darstellen.\n\nKACHEL 4: Ein Raum als Grenze\nOrt und Zeit: Dieselbe verschlossene Werkstatt, ein späterer Tag\nSichtbare Figuren: Wieland\nBildbeschreibung: Weite Ansicht des unveränderten Grundrisses: Wieland links am Tisch, rechts die verriegelte Tür, oben rechts das hohe offene Fenster. Nur Werkzeug an der Wand, kein fertiges Fluggerät. Er schaut vom Türverschluss zum Fenster. Die Höhe und die schmale Sitzfläche machen die Begrenzung lesbar, ohne den Körper als bloßes Schauobjekt auszulegen. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am niedrigen Arbeitstisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Mehrere Tage der Gefangenschaft liegen zwischen den Bildern. Die Werkstatt bleibt zugleich Arbeitsort und Gefängnis; noch keine Flügel vorhanden.\n\nKACHEL 5: Anders fragen\nOrt und Zeit: Werkstatt am offenen Fenster, nach weiterer Arbeitszeit\nSichtbare Figuren: Wieland\nBildbeschreibung: Nahe auf Wielands Blick und die Tischplatte. Er hat dort mit einem kleinen Kohlestift eine einfache Flügelform angedeutet; keine technische Bauanleitung, Maße oder real funktionierende Mechanik. Vom offenen Fenster fällt Wind durch lose Holzspäne. Kein neuer übernatürlicher Helfer und kein sprechender Vogel. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am Tisch unterhalb des Fensters; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein kleiner Kohlestift rechts; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Wieland\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nicht durch die Tür.“\nKontinuität / Änderung: Der Kohlestift wurde vom Arbeitstisch genommen. Die Skizze markiert das überlieferte Flugmotiv in freier Darstellung, keine plötzlich fertige Erfindung.\n\nKACHEL 6: Zeit in den Händen\nOrt und Zeit: Derselbe Arbeitstisch, viel später\nSichtbare Figuren: Wieland\nBildbeschreibung: Halbtotale. Wieland arbeitet sitzend an genau einem unfertigen leichten Flügelrahmen, der auf dem Tisch liegt. Zweiter Rahmen als unvollständige Umrissform an der Wand; noch kein Flügel an seinem Körper. Stumpfer Hammer, keine Waffe. Staub und wechselnde Lichtrichtung zeigen die vergehende Zeit ohne Montage mehrerer Körper. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am breiteren Werktisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein kleiner Hammer rechts, linke Hand am Flügelrahmen; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: Die Arbeit, die ihn festhalten sollte, begann eine andere Form anzunehmen.\nDialoge: keine\nKontinuität / Änderung: Ausdrücklicher Zeitsprung. Rahmen entstehen schrittweise. Beine bleiben verbunden und unter dem Tisch; keine geheilte Arbeitsphase im Stehen.\n\nKACHEL 7: Zwei statt einer Tür\nOrt und Zeit: Werkstatt, nach Abschluss der Vorbereitung\nSichtbare Figuren: Wieland\nBildbeschreibung: Weite klare Ansicht. Auf dem Tisch liegen zwei zusammengehörige künstliche Flügel an einem einzigen Tragegestell; keine zusätzlichen einzelnen Flügelteile im Vordergrund als mögliche dritte Flügel. Wieland sitzt daneben, betrachtet die fertige Form und hält kein Werkzeug mehr. Das hohe Fenster bleibt oben rechts. Keine funktionsfähige Detailzeichnung. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend, Hände am Tischrand; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Arbeit abgeschlossen, Fluggerät noch nicht angelegt. Genau ein Gestell mit zwei Flügeln. Verwendete Materialien bleiben freie Sageninszenierung, keine historisch plausible Flugtechnik behaupten.\n\nKACHEL 8: Am offenen Rand\nOrt und Zeit: Hohe Fensteröffnung der Werkstatt, später\nSichtbare Figuren: Wieland\nBildbeschreibung: Halbtotale von außen auf das offene Fenster. Wieland sitzt bereits auf der inneren breiten Steinbank und trägt genau ein Gestell mit zwei seitlichen künstlichen Flügeln. Die verbundenen Beine hängen innen, keine stehende oder springende Haltung. Hinter ihm ist eine herangerückte stabile Arbeitsplattform zu erkennen, über die er sich sitzend hochgearbeitet hat. Keine zweite Figur im Fenster. Verbindliche Zustände: Wieland: Fortbewegung: zu Fuß; Ort: links auf der inneren Fensterbank; Körperhaltung: sitzend an der offenen Fensterkante; Mitgeführte Gegenstände: beide Hände am Tragegestell; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Wieland\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Die Beine bleiben, wie sie sind.“\nKontinuität / Änderung: Zwischen 7 und 8 hat Wieland das Gerät angelegt und sich mit Armen und Sitzbewegung über eine Arbeitsplattform zur Fensterbank gebracht. Kein plötzlich wieder möglicher Lauf oder Sprung; Hilfskonstruktion freie knappe Inszenierung, kein eigenes neues Abenteuer.\n\nKACHEL 9: Außer Reichweite\nOrt und Zeit: Über der Mauer am Werkstattgebäude\nSichtbare Figuren: Wieland, Herrscher\nBildbeschreibung: Weite Einstellung. Wieland links fliegt mit genau zwei künstlichen Flügeln an einem Gestell über die Mauer. Sein Körper ist einer, Beine hängen verbunden nach unten, keine neuen Vogelfüße. Rechts unten der Herrscher klein und mit leer erhobener Hand. Das Fenster bleibt hinter Wieland offen. Keine Brandzerstörung der Werkstatt und kein Angriff aus der Luft. Verbindliche Zustände: Wieland: Fortbewegung: fliegend; Ort: links in der Luft oberhalb der Mauer; Körperhaltung: im künstlichen Flug getragen; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich.. Herrscher: Fortbewegung: zu Fuß; Ort: rechts unten im Hof; Körperhaltung: stehend, Blick nach oben; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter langer Rock mit breitem Gürtel, dunkle Schuhe, schmaler goldener Stirnreif. Keine Waffe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Herrscher\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das habe ich dir nicht erlaubt.“\nKontinuität / Änderung: Das Sagenflugmotiv ist eingetreten. Wieland fliegt, er ist weder wieder laufend noch körperlich geheilt. Das Verbot des Herrschers erreicht ihn nur als Stimme.\n\nKACHEL 10: Der kleinere Hof\nOrt und Zeit: Weite Landschaft jenseits der Werkstatt\nSichtbare Figuren: Wieland\nBildbeschreibung: Große Totale. Wieland nur klein oben links, das eine Tragegestell und seine zwei Flügel klar lesbar. Tief rechts unten die Mauer und der Hof, die ihn zuvor ganz ausfüllten. Keine gezeigte Landung, keine neue Heimat, keine Krönung und keine Beurteilung späterer Rachetaten. Viel freier Himmel, ein einzelner kurzer Erzählerkasten. Verbindliche Zustände: Wieland: Fortbewegung: fliegend; Ort: oben links im freien Himmel; Körperhaltung: weiterfliegend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graues Hemd, braune Lederschürze, dunkle Hose und Schuhe. Beide Beine verbunden.; Verletzungen: Beide Beine schwer beeinträchtigt; normales Gehen nicht möglich..\nErzählertext: Der Hof blieb hinter ihm. Sein weiterer Weg gehört nicht zu dieser Episode.\nDialoge: keine\nKontinuität / Änderung: Flucht gelungen, weiterfliegend. Beeinträchtigte Beine bleiben unverändert, kein späterer glücklicher Lebenslauf wird aus dem Motiv abgeleitet. Die vollständige Wielandsage wird nicht moralisch freigesprochen.\n",
+    "book_author": "",
+    "editorial_script_id": "wieland-handwerk-10",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Wieland – Freiheit durch Können · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

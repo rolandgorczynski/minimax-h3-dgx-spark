@@ -1,0 +1,632 @@
+{
+  "mode": "editorial",
+  "name": "Die Bremer Stadtmusikanten · Skriptprobe",
+  "payload": {
+    "article": "Ein alter Esel soll getötet werden und läuft davon. Auf dem Weg nach Bremen trifft er einen erschöpften Hund, eine alte Katze und einen Hahn. Gemeinsam wollen sie als Musiker ein neues Leben beginnen. Im Wald entdecken sie ein Haus voller Räuber. Sie stellen sich vor dem Fenster aufeinander und vertreiben die Räuber durch ihren gemeinsamen Lärm. Die Tiere essen und schlafen im Haus. Ein zurückkehrender Räuber gerät nacheinander an Katze, Hund, Esel und Hahn und flieht erschrocken. Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.",
+    "planned_article": "Ein alter Esel soll getötet werden und läuft davon. Auf dem Weg nach Bremen trifft er einen erschöpften Hund, eine alte Katze und einen Hahn. Gemeinsam wollen sie als Musiker ein neues Leben beginnen. Im Wald entdecken sie ein Haus voller Räuber. Sie stellen sich vor dem Fenster aufeinander und vertreiben die Räuber durch ihren gemeinsamen Lärm. Die Tiere essen und schlafen im Haus. Ein zurückkehrender Räuber gerät nacheinander an Katze, Hund, Esel und Hahn und flieht erschrocken. Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Noch ein Weg",
+        "setting": "Landweg am Hof, später Nachmittag",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84"
+        ],
+        "story": "Halbtotale. Der Esel steht rechts außerhalb eines offenen Hoftors; hinter ihm liegt das verlassene Arbeitsgeschirr links auf dem Boden. Er trägt nichts. Sein Kopf dreht sich vom dunklen Hof zum hellen Weg. Oben links freie Fläche für einen kleinen Erzählerkasten. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: vor dem Hoftor; Körperhaltung: auf vier Beinen, Kopf zum Weg gewandt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr..",
+        "dialog": "Zu alt für die Arbeit. Auf dem Hof sollte es sein letzter Tag sein.",
+        "bubbles": [
+          {
+            "speaker": "6fafa0930a455d3f9aeaebedb5c78f84",
+            "text": "Für den Wagen bin ich zu alt. Für den Weg noch nicht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Beginn der Reise. Der Esel geht ohne Geschirr fort; das Geschirr bleibt auf dem Hof.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "vor dem Hoftor",
+            "posture": "auf vier Beinen, Kopf zum Weg gewandt",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          }
+        }
+      },
+      {
+        "heading": "Nicht allein weiter",
+        "setting": "Weggabelung, etwas später",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "7ec1216eeea657d1bf182330dd4346e9"
+        ],
+        "story": "Halbtotale auf Augenhöhe der Tiere. Links steht der Esel, mittig sitzt der erschöpfte Hund am Wegrand, rechts die Katze unter einem kahlen Busch. Der Esel blickt beide an. Ein einfacher Wegweiser weist nach Bremen; keine lesbare Zusatzschrift verlangen. Freier Himmel über Esel und Hund für zwei kurze Blasen. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links auf der Weggabelung; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: mittig am Wegrand; Körperhaltung: sitzend, müde; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: rechts unter dem Busch; Körperhaltung: sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband..",
+        "dialog": "Am Weg warteten zwei, für die ebenfalls kein Platz mehr war.",
+        "bubbles": [
+          {
+            "speaker": "6fafa0930a455d3f9aeaebedb5c78f84",
+            "text": "Ich will nach Bremen. Als Musiker.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "0546a7c02ba15494a4f2cfa3a7c1897a",
+            "text": "Mit mir wird es langsamer.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Hund und Katze schließen sich ab hier dem Esel an. Beide sind alt und bleiben in allen folgenden Kacheln dieselben Tiere.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "links auf der Weggabelung",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "mittig am Wegrand",
+            "posture": "sitzend, müde",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "rechts unter dem Busch",
+            "posture": "sitzend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          }
+        }
+      },
+      {
+        "heading": "Eine Stimme mehr",
+        "setting": "Zaun an der Landstraße, später Nachmittag",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "7ec1216eeea657d1bf182330dd4346e9",
+          "8c5cc3a656ea5ee6a21d121dc3addb5c"
+        ],
+        "story": "Breite Seitenansicht. Esel, Hund und Katze stehen links unterhalb eines niedrigen Zauns. Der Hahn steht rechts auf der obersten Zaunlatte und beugt sich neugierig zu ihnen. Keine Tiere übereinander. Die Straße führt rechts in den Wald. Platz über Esel und Hahn für ihre Blasen. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links vor dem Zaun; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: neben dem Esel; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: vor dem Hund; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: rechts auf der Zaunlatte; Körperhaltung: auf beiden Füßen sitzend, Flügel angelegt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "8c5cc3a656ea5ee6a21d121dc3addb5c",
+            "text": "Braucht ihr noch eine Stimme?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "6fafa0930a455d3f9aeaebedb5c78f84",
+            "text": "Komm mit. Allein sind wir schon lange genug.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Der Hahn ist hier noch auf dem Zaun. Zwischen dieser und der nächsten Kachel steigt er auf den Weg und folgt zu Fuß. Hund behält sein rotes Halsband.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Zaun",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "neben dem Esel",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "vor dem Hund",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          },
+          "8c5cc3a656ea5ee6a21d121dc3addb5c": {
+            "movement": "zu Fuß",
+            "location": "rechts auf der Zaunlatte",
+            "posture": "auf beiden Füßen sitzend, Flügel angelegt",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Ein Tisch hinter Glas",
+        "setting": "Waldhaus, Abend",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "7ec1216eeea657d1bf182330dd4346e9",
+          "8c5cc3a656ea5ee6a21d121dc3addb5c",
+          "57ec7e05fc49581596e6ba7aa639ff60"
+        ],
+        "story": "Blick schräg von außen durch das niedrige erleuchtete Fenster. Links im Vordergrund die vier Tiere nebeneinander auf dem Boden. Rechts hinter dem Glas sitzt der Räuber am gedeckten Tisch; zwei weitere erwachsene Bandenmitglieder bleiben undeutliche Hintergrundgestalten ohne eigene Dialoge. Brot und ein Krug stehen auf dem Tisch. Keine Waffen. Keine Tiere bereits aufeinander. Freie dunkle Wandfläche über der Katze. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links unter dem Fenster; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: neben dem Esel; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: vor dem Hund; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: neben der Katze; Körperhaltung: stehend, Flügel angelegt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände.. Räuber: Fortbewegung: zu Fuß; Ort: drinnen rechts am Esstisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "7ec1216eeea657d1bf182330dd4346e9",
+            "text": "Ein Dach. Und genug für alle.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Der Hahn hat den Zaun verlassen und steht bei den anderen auf dem Waldboden. Tiere draußen, Räuber drinnen; niemand hat die Tür passiert.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "links unter dem Fenster",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "neben dem Esel",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "vor dem Hund",
+            "posture": "auf vier Beinen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          },
+          "8c5cc3a656ea5ee6a21d121dc3addb5c": {
+            "movement": "zu Fuß",
+            "location": "neben der Katze",
+            "posture": "stehend, Flügel angelegt",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und keine Gegenstände."
+          },
+          "57ec7e05fc49581596e6ba7aa639ff60": {
+            "movement": "zu Fuß",
+            "location": "drinnen rechts am Esstisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet."
+          }
+        }
+      },
+      {
+        "heading": "Das erste Konzert",
+        "setting": "Dasselbe Fenster, Augenblicke später",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "7ec1216eeea657d1bf182330dd4346e9",
+          "8c5cc3a656ea5ee6a21d121dc3addb5c",
+          "57ec7e05fc49581596e6ba7aa639ff60"
+        ],
+        "story": "Seitliche Totale mit klar erkennbarer Tierpyramide vor dem Fenster: Esel unten mit vier Hufen auf dem Boden; Hund mit vier Pfoten ausschließlich auf dem Rücken des Esels; Katze mit vier Pfoten ausschließlich auf dem Rücken des Hundes; Hahn mit zwei Füßen auf dem Rücken der Katze. Jedes Tier genau einmal, keine zusätzlichen Beine. Alle vier rufen im selben Moment ins Fenster. Drinnen rechts weicht der Räuber vom Tisch zurück. Nur eine kurze Sprechblase beim Hahn; übriger Lärm entsteht durch offene Mäuler und Bewegungslinien. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: unter dem Fenster; Körperhaltung: auf vier Hufen am Boden; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: auf dem Rücken des Esels; Körperhaltung: auf vier Pfoten; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: auf dem Rücken des Hundes; Körperhaltung: auf vier Pfoten; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem Rücken der Katze; Körperhaltung: auf zwei Füßen, Flügel geöffnet; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände.. Räuber: Fortbewegung: zu Fuß; Ort: rechts hinter dem Fenster am Tisch; Körperhaltung: vom Stuhl aufgesprungen, zurückweichend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "8c5cc3a656ea5ee6a21d121dc3addb5c",
+            "text": "Jetzt!",
+            "expression": "shout"
+          }
+        ],
+        "continuity": "Aufstieg erfolgt zwischen Kachel 4 und 5. Diese Pyramide bleibt während des gemeinsamen Rufes bestehen; keine Tiere zugleich auf dem Boden verdoppeln. Die Räuber beginnen erst jetzt zu fliehen.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "unter dem Fenster",
+            "posture": "auf vier Hufen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "auf dem Rücken des Esels",
+            "posture": "auf vier Pfoten",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "auf dem Rücken des Hundes",
+            "posture": "auf vier Pfoten",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          },
+          "8c5cc3a656ea5ee6a21d121dc3addb5c": {
+            "movement": "zu Fuß",
+            "location": "auf dem Rücken der Katze",
+            "posture": "auf zwei Füßen, Flügel geöffnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und keine Gegenstände."
+          },
+          "57ec7e05fc49581596e6ba7aa639ff60": {
+            "movement": "zu Fuß",
+            "location": "rechts hinter dem Fenster am Tisch",
+            "posture": "vom Stuhl aufgesprungen, zurückweichend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet."
+          }
+        }
+      },
+      {
+        "heading": "Vier Plätze",
+        "setting": "Innenraum des Waldhauses, später Abend",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "7ec1216eeea657d1bf182330dd4346e9",
+          "8c5cc3a656ea5ee6a21d121dc3addb5c"
+        ],
+        "story": "Ruhige weite Einstellung des leeren Räuberhauses. Links liegt die Katze neben dem nicht mehr brennenden Herd; mittig ruht der Hund innen an der geschlossenen Haustür. Rechts ist durch die offene Hintertür der Esel auf der trockenen Hoffläche zu sehen. Der Hahn sitzt auf einem niedrigen Querbalken draußen über dieser Hintertür. Auf dem Tisch liegen Reste des gemeinsamen Essens. Keine Räuber im Bild. Alle Augen geschlossen; keine Sprechblasen. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: im Hof hinter der Hintertür; Körperhaltung: auf dem Boden liegend, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: innen direkt an der Haustür; Körperhaltung: liegend, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: innen neben dem Herd; Körperhaltung: zusammengerollt, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem Balken über der Hintertür; Körperhaltung: auf zwei Füßen sitzend, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände..",
+        "dialog": "Die Räuber flohen. Nach dem Essen suchte jeder einen Platz.",
+        "bubbles": [],
+        "continuity": "Pyramide zwischen 5 und 6 abgebaut. Tiere betraten das Haus erst nach der Flucht. Der Esel ging danach durch die Hintertür in den Hof, der Hahn auf den Balken darüber. Die Katze schläft am Herd, der Hund innen an der Haustür.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "im Hof hinter der Hintertür",
+            "posture": "auf dem Boden liegend, schlafend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "innen direkt an der Haustür",
+            "posture": "liegend, schlafend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "innen neben dem Herd",
+            "posture": "zusammengerollt, schlafend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          },
+          "8c5cc3a656ea5ee6a21d121dc3addb5c": {
+            "movement": "zu Fuß",
+            "location": "auf dem Balken über der Hintertür",
+            "posture": "auf zwei Füßen sitzend, schlafend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Zwei Augen in der Asche",
+        "setting": "Am Herd im Haus, tiefe Nacht",
+        "characters": [
+          "7ec1216eeea657d1bf182330dd4346e9",
+          "57ec7e05fc49581596e6ba7aa639ff60"
+        ],
+        "story": "Nahe Einstellung am erloschenen Herd. Links die aufgeschreckte Katze mit reflektierenden Augen; rechts kniet der heimlich zurückgekehrte Räuber und zieht seine leere Hand vor ihrem Pfotenhieb zurück. Nur Schreck und Berührung, kein Blut. Der Herd ist dunkel; die Katzenaugen erscheinen aus seiner Sicht wie zwei Glutpunkte. Dunkle obere Ecke für eine kurze Blase. Verbindliche Zustände: Katze: Fortbewegung: zu Fuß; Ort: links am Herd; Körperhaltung: aufgerichtet, eine Vorderpfote angehoben; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Räuber: Fortbewegung: zu Fuß; Ort: rechts vor dem Herd; Körperhaltung: knieend, leere Hand zurückziehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: erschrocken; keine sichtbare Wunde; Kleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet..",
+        "dialog": "Später schlich einer zurück. Er hielt die Katzenaugen für Glut.",
+        "bubbles": [
+          {
+            "speaker": "57ec7e05fc49581596e6ba7aa639ff60",
+            "text": "He! Was kratzt denn da?",
+            "expression": "shout"
+          }
+        ],
+        "continuity": "Der Räuber kam durch die Haustür hinein und am schlafenden Hund vorbei. Die Katze ist jetzt wach. Esel im Hof und Hahn über der Hintertür bleiben außerhalb dieser Nahaufnahme an ihren Plätzen.",
+        "character_states": {},
+        "continuity_state": {
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "links am Herd",
+            "posture": "aufgerichtet, eine Vorderpfote angehoben",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          },
+          "57ec7e05fc49581596e6ba7aa639ff60": {
+            "movement": "zu Fuß",
+            "location": "rechts vor dem Herd",
+            "posture": "knieend, leere Hand zurückziehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "injury": "erschrocken; keine sichtbare Wunde",
+            "clothing": "Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet."
+          }
+        }
+      },
+      {
+        "heading": "Die falsche Tür",
+        "setting": "Innenseite der Haustür, unmittelbar danach",
+        "characters": [
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "57ec7e05fc49581596e6ba7aa639ff60"
+        ],
+        "story": "Halbnahe. Rechts weicht der Räuber vom Herd zur Haustür zurück. Links hat sich der Hund direkt vor dieser Tür erhoben und hält mit den Zähnen nur den Stoff am unteren Hosenbein fest. Der Räuber zieht sein Bein zurück. Hände leer, keine Waffe. Keine Katze in diesem Ausschnitt. Freie Wand über dem Räuber für eine Blase. Verbindliche Zustände: Hund: Fortbewegung: zu Fuß; Ort: innen direkt vor der Haustür; Körperhaltung: stehend, hält Hosenstoff mit den Zähnen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Räuber: Fortbewegung: zu Fuß; Ort: innen vor der Haustür; Körperhaltung: rückwärts ausweichend, Bein zurückziehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: keine sichtbare Körperwunde; Kleidung: Braune Weste, beiges Hemd, dunkle Hose mit gezerrtem Saum, braune Stiefel.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "57ec7e05fc49581596e6ba7aa639ff60",
+            "text": "Lass los!",
+            "expression": "shout"
+          }
+        ],
+        "continuity": "Der Hund ist erst durch den Schreck wach geworden; er bleibt innen an der Haustür. Er beißt in den Stoff, keine blutige Beinverletzung. Der versperrte Weg erklärt die spätere Flucht durch die Hintertür.",
+        "character_states": {},
+        "continuity_state": {
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "innen direkt vor der Haustür",
+            "posture": "stehend, hält Hosenstoff mit den Zähnen",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "57ec7e05fc49581596e6ba7aa639ff60": {
+            "movement": "zu Fuß",
+            "location": "innen vor der Haustür",
+            "posture": "rückwärts ausweichend, Bein zurückziehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "injury": "keine sichtbare Körperwunde",
+            "clothing": "Braune Weste, beiges Hemd, dunkle Hose mit gezerrtem Saum, braune Stiefel"
+          }
+        }
+      },
+      {
+        "heading": "Der Hof ist auch besetzt",
+        "setting": "Hof hinter dem Waldhaus, unmittelbar danach",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "8c5cc3a656ea5ee6a21d121dc3addb5c",
+          "57ec7e05fc49581596e6ba7aa639ff60"
+        ],
+        "story": "Weite Seitenansicht. Der Räuber hat die Hintertür verlassen und taumelt rechts vom Esel weg, im Moment unmittelbar nach einem Tritt. Der Esel steht links mit beiden Vorderhufen fest auf dem Boden, nur seine beiden Hinterbeine sind nach hinten ausgestreckt; niemals zusätzliche Beine zeichnen. Der Hahn sitzt weiterhin auf dem Querbalken über der Hintertür und kräht. Kein Blut, keine sichtbare Verletzung. Freier Himmel über dem Hahn für seine Blase. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links im Hinterhof; Körperhaltung: Vorderhufe am Boden, Hinterbeine im Tritt ausgestreckt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem Balken über der Hintertür; Körperhaltung: auf zwei Füßen sitzend, krähend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände.. Räuber: Fortbewegung: zu Fuß; Ort: rechts im Hinterhof, vom Esel weg; Körperhaltung: aus dem Gleichgewicht taumelnd; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: schmerzhafter Schreck, keine sichtbare Wunde; Kleidung: Braune Weste, beiges Hemd, dunkle Hose mit gezerrtem Saum, braune Stiefel.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "8c5cc3a656ea5ee6a21d121dc3addb5c",
+            "text": "Kikeriki!",
+            "expression": "shout"
+          }
+        ],
+        "continuity": "Der Räuber hat sein Hosenbein vom Hund gelöst, ist innen zur Hintertür ausgewichen und erst jetzt in den Hof getreten. Esel und Hahn sind wach. Der Räuber flieht nach dem Tritt aus dem Hof und kehrt nicht wieder.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "links im Hinterhof",
+            "posture": "Vorderhufe am Boden, Hinterbeine im Tritt ausgestreckt",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "8c5cc3a656ea5ee6a21d121dc3addb5c": {
+            "movement": "zu Fuß",
+            "location": "auf dem Balken über der Hintertür",
+            "posture": "auf zwei Füßen sitzend, krähend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und keine Gegenstände."
+          },
+          "57ec7e05fc49581596e6ba7aa639ff60": {
+            "movement": "zu Fuß",
+            "location": "rechts im Hinterhof, vom Esel weg",
+            "posture": "aus dem Gleichgewicht taumelnd",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "injury": "schmerzhafter Schreck, keine sichtbare Wunde",
+            "clothing": "Braune Weste, beiges Hemd, dunkle Hose mit gezerrtem Saum, braune Stiefel"
+          }
+        }
+      },
+      {
+        "heading": "Noch weit bis Bremen",
+        "setting": "Vor dem Waldhaus, nächster Morgen",
+        "characters": [
+          "6fafa0930a455d3f9aeaebedb5c78f84",
+          "0546a7c02ba15494a4f2cfa3a7c1897a",
+          "7ec1216eeea657d1bf182330dd4346e9",
+          "8c5cc3a656ea5ee6a21d121dc3addb5c"
+        ],
+        "story": "Ruhige Totale in derselben Anordnung wie eine wartende Gemeinschaft: Esel links vor der offenen Haustür, Hund an seiner Seite, Katze auf der Schwelle, Hahn auf dem niedrigen Fensterbrett rechts. Alle wach und entspannt. Auf dem Waldweg im Vordergrund fällt ein Sonnenstreifen in Richtung des ursprünglich geplanten Weiterwegs; niemand macht sich zum Gehen bereit. Großzügiger Himmel für zwei kurze Blasen, Gesichter frei. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links vor der Haustür; Körperhaltung: auf vier Beinen, entspannt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: neben dem Esel; Körperhaltung: sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: auf der Haustürschwelle; Körperhaltung: sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem vorderen niedrigen Fensterbrett; Körperhaltung: auf zwei Füßen sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "0546a7c02ba15494a4f2cfa3a7c1897a",
+            "text": "Und Bremen?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "6fafa0930a455d3f9aeaebedb5c78f84",
+            "text": "Kann warten. Hier fehlt keiner.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Zeitsprung zum Morgen. Der Esel ist vom Hof um das Haus nach vorn gegangen; der Hahn hat den hinteren Balken verlassen und sitzt jetzt am vorderen Fenster. Räuber endgültig fort. Kein plötzliches Verjüngen der Tiere.",
+        "character_states": {},
+        "continuity_state": {
+          "6fafa0930a455d3f9aeaebedb5c78f84": {
+            "movement": "zu Fuß",
+            "location": "links vor der Haustür",
+            "posture": "auf vier Beinen, entspannt",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr."
+          },
+          "0546a7c02ba15494a4f2cfa3a7c1897a": {
+            "movement": "zu Fuß",
+            "location": "neben dem Esel",
+            "posture": "sitzend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ein schmales rotes Halsband; keine weitere Kleidung."
+          },
+          "7ec1216eeea657d1bf182330dd4346e9": {
+            "movement": "zu Fuß",
+            "location": "auf der Haustürschwelle",
+            "posture": "sitzend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und kein Halsband."
+          },
+          "8c5cc3a656ea5ee6a21d121dc3addb5c": {
+            "movement": "zu Fuß",
+            "location": "auf dem vorderen niedrigen Fensterbrett",
+            "posture": "auf zwei Füßen sitzend",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Keine Kleidung und keine Gegenstände."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "6fafa0930a455d3f9aeaebedb5c78f84",
+        "name": "Esel",
+        "description": "Alter grauer Esel; lange Ohren, weiße Schnauze, dunkler Aalstrich, vier Beine. Keine menschlichen Hände.",
+        "outfit": "Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.",
+        "backstory": "Lange als Arbeitstier gebraucht, nun ausrangiert. Bedächtig und ideenreich. Will einen Ort, an dem er bleiben darf.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "0546a7c02ba15494a4f2cfa3a7c1897a",
+        "name": "Hund",
+        "description": "Alter brauner Jagdhund mit grauer Schnauze und langen Schlappohren; vier Beine. Keine menschlichen Hände.",
+        "outfit": "Ein schmales rotes Halsband; keine weitere Kleidung.",
+        "backstory": "Erschöpft und skeptisch, aber wachsam. Erholt sich durch die Gemeinschaft, wird nicht plötzlich jung.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "7ec1216eeea657d1bf182330dd4346e9",
+        "name": "Katze",
+        "description": "Alte schwarz-weiße Katze mit weißem Brustfleck und grünlichen Augen; vier Beine. Keine menschlichen Hände.",
+        "outfit": "Keine Kleidung und kein Halsband.",
+        "backstory": "Vorsichtig, trocken im Ton, überraschend entschlossen, sobald ihr neuer Schlafplatz bedroht ist.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "8c5cc3a656ea5ee6a21d121dc3addb5c",
+        "name": "Hahn",
+        "description": "Kleiner roter Hahn mit rotem Kamm und dunkelgrün schimmernden Schwanzfedern; zwei Beine und zwei Flügel.",
+        "outfit": "Keine Kleidung und keine Gegenstände.",
+        "backstory": "Hat eine laute Stimme und braucht jemanden, der sie nicht für überflüssig hält.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "57ec7e05fc49581596e6ba7aa639ff60",
+        "name": "Räuber",
+        "description": "Erwachsener Mann, kurze dunkle Haare, Bartstoppeln, breite Nase; zwei Arme und zwei Beine.",
+        "outfit": "Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet.",
+        "backstory": "Gehört zur Bande im Waldhaus. Nach der Flucht soll er nachsehen, was im Haus geblieben ist. Seine Angst macht die Tiere größer als sie sind.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Kann aus Ausgestoßenen eine tragfähige Gemeinschaft werden?",
+      "core": "Wer allein als nutzlos gilt, kann im Zusammenspiel mit anderen Schutz und einen neuen Lebensort finden. Das gelungene Leben muss nicht am ursprünglich geplanten Ziel liegen.",
+      "ending": "Die Tiere bleiben im gewonnenen Haus zusammen; Bremen wird nicht erreicht.",
+      "reason": "Ausstoßung, Zusammenschluss, gemeinsame List und unerwartetes Zuhause bilden vier klar unterscheidbare Schritte.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.",
+          "meaning": "Das verfehlte Reiseziel entwertet den gemeinsam gewonnenen Lebensraum nicht."
+        }
+      ],
+      "causal_chain": [
+        "Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.",
+        "Die Tiere bleiben im gewonnenen Haus zusammen; Bremen wird nicht erreicht."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "ce104335a543b40dc985c50150d4d3120f6ecd557eb90dbdbeadafbd7393972d",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623411+00:00"
+    },
+    "post_summary": "Vier ausrangierte Tiere wollen nach Bremen. Auf dem Weg finden sie etwas, das kein Ziel auf einer Karte versprechen kann: einen Platz füreinander. Eine freie Märchenadaption über Gemeinschaft und den Mut, ein anderes Zuhause anzunehmen.",
+    "source_provenance": {
+      "id": "bremer-stadtmusikanten",
+      "title": "Die Bremer Stadtmusikanten",
+      "kind": "Buch",
+      "creator": "Jacob und Wilhelm Grimm",
+      "edition": "Märchen der Brüder Grimm; eigene Inhaltszusammenfassung",
+      "url": "https://de.wikisource.org/wiki/Die_Bremer_Stadtmusikanten_(1857)",
+      "territories": "Deutschland; weitere Absatzländer prüfen",
+      "rights": "Historisches Original; keine moderne Bearbeitung oder Illustration verwenden. Rechte der konkret verwendeten Ausgabe getrennt erfassen.",
+      "text": "Ein alter Esel soll getötet werden und läuft davon. Auf dem Weg nach Bremen trifft er einen erschöpften Hund, eine alte Katze und einen Hahn. Gemeinsam wollen sie als Musiker ein neues Leben beginnen. Im Wald entdecken sie ein Haus voller Räuber. Sie stellen sich vor dem Fenster aufeinander und vertreiben die Räuber durch ihren gemeinsamen Lärm. Die Tiere essen und schlafen im Haus. Ein zurückkehrender Räuber gerät nacheinander an Katze, Hund, Esel und Hahn und flieht erschrocken. Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.",
+      "post_summary": "Ein alter Esel soll getötet werden und läuft davon. Auf dem Weg nach Bremen trifft er einen erschöpften Hund, eine alte Katze und einen Hahn. Gemeinsam wollen sie als Musiker ein neues Leben beginnen. Im Wald entdecken sie ein Haus voller Räuber. Sie stellen sich vor dem Fenster aufeinander und vertreiben die Räuber durch ihren gemeinsamen Lärm. Die Tiere essen und schlafen im Haus. Ein zurückkehrender Räuber gerät nacheinander an Katze, Hund, Esel und Hahn und flieht erschrocken. Die Tiere bleiben zusammen im Haus und erreichen Bremen nie.",
+      "category": "Fabeln und Tiergeschichten",
+      "collection": "Grimm – Märchen"
+    },
+    "source_script": "TITEL: Die Bremer Stadtmusikanten\nAUTOR: \nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Vom kühlen Hof über dunklen Wald zu einem warmen Morgen. Konkreter Bildstil wird erst bei der Comic-Erzeugung gewählt.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Esel\nAussehen: Alter grauer Esel; lange Ohren, weiße Schnauze, dunkler Aalstrich, vier Beine. Keine menschlichen Hände.\nKleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.\nPersönlichkeit und Vorgeschichte: Lange als Arbeitstier gebraucht, nun ausrangiert. Bedächtig und ideenreich. Will einen Ort, an dem er bleiben darf.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hund\nAussehen: Alter brauner Jagdhund mit grauer Schnauze und langen Schlappohren; vier Beine. Keine menschlichen Hände.\nKleidung: Ein schmales rotes Halsband; keine weitere Kleidung.\nPersönlichkeit und Vorgeschichte: Erschöpft und skeptisch, aber wachsam. Erholt sich durch die Gemeinschaft, wird nicht plötzlich jung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Katze\nAussehen: Alte schwarz-weiße Katze mit weißem Brustfleck und grünlichen Augen; vier Beine. Keine menschlichen Hände.\nKleidung: Keine Kleidung und kein Halsband.\nPersönlichkeit und Vorgeschichte: Vorsichtig, trocken im Ton, überraschend entschlossen, sobald ihr neuer Schlafplatz bedroht ist.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hahn\nAussehen: Kleiner roter Hahn mit rotem Kamm und dunkelgrün schimmernden Schwanzfedern; zwei Beine und zwei Flügel.\nKleidung: Keine Kleidung und keine Gegenstände.\nPersönlichkeit und Vorgeschichte: Hat eine laute Stimme und braucht jemanden, der sie nicht für überflüssig hält.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Räuber\nAussehen: Erwachsener Mann, kurze dunkle Haare, Bartstoppeln, breite Nase; zwei Arme und zwei Beine.\nKleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet.\nPersönlichkeit und Vorgeschichte: Gehört zur Bande im Waldhaus. Nach der Flucht soll er nachsehen, was im Haus geblieben ist. Seine Angst macht die Tiere größer als sie sind.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Noch ein Weg\nOrt und Zeit: Landweg am Hof, später Nachmittag\nSichtbare Figuren: Esel\nBildbeschreibung: Halbtotale. Der Esel steht rechts außerhalb eines offenen Hoftors; hinter ihm liegt das verlassene Arbeitsgeschirr links auf dem Boden. Er trägt nichts. Sein Kopf dreht sich vom dunklen Hof zum hellen Weg. Oben links freie Fläche für einen kleinen Erzählerkasten. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: vor dem Hoftor; Körperhaltung: auf vier Beinen, Kopf zum Weg gewandt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr..\nErzählertext: Zu alt für die Arbeit. Auf dem Hof sollte es sein letzter Tag sein.\nDialog 1:\n  Sprecher: Esel\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Für den Wagen bin ich zu alt. Für den Weg noch nicht.“\nKontinuität / Änderung: Beginn der Reise. Der Esel geht ohne Geschirr fort; das Geschirr bleibt auf dem Hof.\n\nKACHEL 2: Nicht allein weiter\nOrt und Zeit: Weggabelung, etwas später\nSichtbare Figuren: Esel, Hund, Katze\nBildbeschreibung: Halbtotale auf Augenhöhe der Tiere. Links steht der Esel, mittig sitzt der erschöpfte Hund am Wegrand, rechts die Katze unter einem kahlen Busch. Der Esel blickt beide an. Ein einfacher Wegweiser weist nach Bremen; keine lesbare Zusatzschrift verlangen. Freier Himmel über Esel und Hund für zwei kurze Blasen. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links auf der Weggabelung; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: mittig am Wegrand; Körperhaltung: sitzend, müde; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: rechts unter dem Busch; Körperhaltung: sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband..\nErzählertext: Am Weg warteten zwei, für die ebenfalls kein Platz mehr war.\nDialog 1:\n  Sprecher: Esel\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich will nach Bremen. Als Musiker.“\nDialog 2:\n  Sprecher: Hund\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Mit mir wird es langsamer.“\nKontinuität / Änderung: Hund und Katze schließen sich ab hier dem Esel an. Beide sind alt und bleiben in allen folgenden Kacheln dieselben Tiere.\n\nKACHEL 3: Eine Stimme mehr\nOrt und Zeit: Zaun an der Landstraße, später Nachmittag\nSichtbare Figuren: Esel, Hund, Katze, Hahn\nBildbeschreibung: Breite Seitenansicht. Esel, Hund und Katze stehen links unterhalb eines niedrigen Zauns. Der Hahn steht rechts auf der obersten Zaunlatte und beugt sich neugierig zu ihnen. Keine Tiere übereinander. Die Straße führt rechts in den Wald. Platz über Esel und Hahn für ihre Blasen. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links vor dem Zaun; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: neben dem Esel; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: vor dem Hund; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: rechts auf der Zaunlatte; Körperhaltung: auf beiden Füßen sitzend, Flügel angelegt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hahn\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Braucht ihr noch eine Stimme?“\nDialog 2:\n  Sprecher: Esel\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Komm mit. Allein sind wir schon lange genug.“\nKontinuität / Änderung: Der Hahn ist hier noch auf dem Zaun. Zwischen dieser und der nächsten Kachel steigt er auf den Weg und folgt zu Fuß. Hund behält sein rotes Halsband.\n\nKACHEL 4: Ein Tisch hinter Glas\nOrt und Zeit: Waldhaus, Abend\nSichtbare Figuren: Esel, Hund, Katze, Hahn, Räuber\nBildbeschreibung: Blick schräg von außen durch das niedrige erleuchtete Fenster. Links im Vordergrund die vier Tiere nebeneinander auf dem Boden. Rechts hinter dem Glas sitzt der Räuber am gedeckten Tisch; zwei weitere erwachsene Bandenmitglieder bleiben undeutliche Hintergrundgestalten ohne eigene Dialoge. Brot und ein Krug stehen auf dem Tisch. Keine Waffen. Keine Tiere bereits aufeinander. Freie dunkle Wandfläche über der Katze. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links unter dem Fenster; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: neben dem Esel; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: vor dem Hund; Körperhaltung: auf vier Beinen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: neben der Katze; Körperhaltung: stehend, Flügel angelegt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände.. Räuber: Fortbewegung: zu Fuß; Ort: drinnen rechts am Esstisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Katze\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ein Dach. Und genug für alle.“\nKontinuität / Änderung: Der Hahn hat den Zaun verlassen und steht bei den anderen auf dem Waldboden. Tiere draußen, Räuber drinnen; niemand hat die Tür passiert.\n\nKACHEL 5: Das erste Konzert\nOrt und Zeit: Dasselbe Fenster, Augenblicke später\nSichtbare Figuren: Esel, Hund, Katze, Hahn, Räuber\nBildbeschreibung: Seitliche Totale mit klar erkennbarer Tierpyramide vor dem Fenster: Esel unten mit vier Hufen auf dem Boden; Hund mit vier Pfoten ausschließlich auf dem Rücken des Esels; Katze mit vier Pfoten ausschließlich auf dem Rücken des Hundes; Hahn mit zwei Füßen auf dem Rücken der Katze. Jedes Tier genau einmal, keine zusätzlichen Beine. Alle vier rufen im selben Moment ins Fenster. Drinnen rechts weicht der Räuber vom Tisch zurück. Nur eine kurze Sprechblase beim Hahn; übriger Lärm entsteht durch offene Mäuler und Bewegungslinien. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: unter dem Fenster; Körperhaltung: auf vier Hufen am Boden; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: auf dem Rücken des Esels; Körperhaltung: auf vier Pfoten; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: auf dem Rücken des Hundes; Körperhaltung: auf vier Pfoten; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem Rücken der Katze; Körperhaltung: auf zwei Füßen, Flügel geöffnet; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände.. Räuber: Fortbewegung: zu Fuß; Ort: rechts hinter dem Fenster am Tisch; Körperhaltung: vom Stuhl aufgesprungen, zurückweichend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hahn\n  Sprechweise: schreiend\n  Sichtbarkeit: im Bild\n  Text: „Jetzt!“\nKontinuität / Änderung: Aufstieg erfolgt zwischen Kachel 4 und 5. Diese Pyramide bleibt während des gemeinsamen Rufes bestehen; keine Tiere zugleich auf dem Boden verdoppeln. Die Räuber beginnen erst jetzt zu fliehen.\n\nKACHEL 6: Vier Plätze\nOrt und Zeit: Innenraum des Waldhauses, später Abend\nSichtbare Figuren: Esel, Hund, Katze, Hahn\nBildbeschreibung: Ruhige weite Einstellung des leeren Räuberhauses. Links liegt die Katze neben dem nicht mehr brennenden Herd; mittig ruht der Hund innen an der geschlossenen Haustür. Rechts ist durch die offene Hintertür der Esel auf der trockenen Hoffläche zu sehen. Der Hahn sitzt auf einem niedrigen Querbalken draußen über dieser Hintertür. Auf dem Tisch liegen Reste des gemeinsamen Essens. Keine Räuber im Bild. Alle Augen geschlossen; keine Sprechblasen. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: im Hof hinter der Hintertür; Körperhaltung: auf dem Boden liegend, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: innen direkt an der Haustür; Körperhaltung: liegend, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: innen neben dem Herd; Körperhaltung: zusammengerollt, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem Balken über der Hintertür; Körperhaltung: auf zwei Füßen sitzend, schlafend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände..\nErzählertext: Die Räuber flohen. Nach dem Essen suchte jeder einen Platz.\nDialoge: keine\nKontinuität / Änderung: Pyramide zwischen 5 und 6 abgebaut. Tiere betraten das Haus erst nach der Flucht. Der Esel ging danach durch die Hintertür in den Hof, der Hahn auf den Balken darüber. Die Katze schläft am Herd, der Hund innen an der Haustür.\n\nKACHEL 7: Zwei Augen in der Asche\nOrt und Zeit: Am Herd im Haus, tiefe Nacht\nSichtbare Figuren: Katze, Räuber\nBildbeschreibung: Nahe Einstellung am erloschenen Herd. Links die aufgeschreckte Katze mit reflektierenden Augen; rechts kniet der heimlich zurückgekehrte Räuber und zieht seine leere Hand vor ihrem Pfotenhieb zurück. Nur Schreck und Berührung, kein Blut. Der Herd ist dunkel; die Katzenaugen erscheinen aus seiner Sicht wie zwei Glutpunkte. Dunkle obere Ecke für eine kurze Blase. Verbindliche Zustände: Katze: Fortbewegung: zu Fuß; Ort: links am Herd; Körperhaltung: aufgerichtet, eine Vorderpfote angehoben; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Räuber: Fortbewegung: zu Fuß; Ort: rechts vor dem Herd; Körperhaltung: knieend, leere Hand zurückziehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: erschrocken; keine sichtbare Wunde; Kleidung: Braune Weste über beigefarbenem Hemd, dunkle Hose, braune Stiefel. Unbewaffnet..\nErzählertext: Später schlich einer zurück. Er hielt die Katzenaugen für Glut.\nDialog 1:\n  Sprecher: Räuber\n  Sprechweise: schreiend\n  Sichtbarkeit: im Bild\n  Text: „He! Was kratzt denn da?“\nKontinuität / Änderung: Der Räuber kam durch die Haustür hinein und am schlafenden Hund vorbei. Die Katze ist jetzt wach. Esel im Hof und Hahn über der Hintertür bleiben außerhalb dieser Nahaufnahme an ihren Plätzen.\n\nKACHEL 8: Die falsche Tür\nOrt und Zeit: Innenseite der Haustür, unmittelbar danach\nSichtbare Figuren: Hund, Räuber\nBildbeschreibung: Halbnahe. Rechts weicht der Räuber vom Herd zur Haustür zurück. Links hat sich der Hund direkt vor dieser Tür erhoben und hält mit den Zähnen nur den Stoff am unteren Hosenbein fest. Der Räuber zieht sein Bein zurück. Hände leer, keine Waffe. Keine Katze in diesem Ausschnitt. Freie Wand über dem Räuber für eine Blase. Verbindliche Zustände: Hund: Fortbewegung: zu Fuß; Ort: innen direkt vor der Haustür; Körperhaltung: stehend, hält Hosenstoff mit den Zähnen; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Räuber: Fortbewegung: zu Fuß; Ort: innen vor der Haustür; Körperhaltung: rückwärts ausweichend, Bein zurückziehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: keine sichtbare Körperwunde; Kleidung: Braune Weste, beiges Hemd, dunkle Hose mit gezerrtem Saum, braune Stiefel.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Räuber\n  Sprechweise: schreiend\n  Sichtbarkeit: im Bild\n  Text: „Lass los!“\nKontinuität / Änderung: Der Hund ist erst durch den Schreck wach geworden; er bleibt innen an der Haustür. Er beißt in den Stoff, keine blutige Beinverletzung. Der versperrte Weg erklärt die spätere Flucht durch die Hintertür.\n\nKACHEL 9: Der Hof ist auch besetzt\nOrt und Zeit: Hof hinter dem Waldhaus, unmittelbar danach\nSichtbare Figuren: Esel, Hahn, Räuber\nBildbeschreibung: Weite Seitenansicht. Der Räuber hat die Hintertür verlassen und taumelt rechts vom Esel weg, im Moment unmittelbar nach einem Tritt. Der Esel steht links mit beiden Vorderhufen fest auf dem Boden, nur seine beiden Hinterbeine sind nach hinten ausgestreckt; niemals zusätzliche Beine zeichnen. Der Hahn sitzt weiterhin auf dem Querbalken über der Hintertür und kräht. Kein Blut, keine sichtbare Verletzung. Freier Himmel über dem Hahn für seine Blase. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links im Hinterhof; Körperhaltung: Vorderhufe am Boden, Hinterbeine im Tritt ausgestreckt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem Balken über der Hintertür; Körperhaltung: auf zwei Füßen sitzend, krähend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände.. Räuber: Fortbewegung: zu Fuß; Ort: rechts im Hinterhof, vom Esel weg; Körperhaltung: aus dem Gleichgewicht taumelnd; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Verletzungen: schmerzhafter Schreck, keine sichtbare Wunde; Kleidung: Braune Weste, beiges Hemd, dunkle Hose mit gezerrtem Saum, braune Stiefel.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hahn\n  Sprechweise: schreiend\n  Sichtbarkeit: im Bild\n  Text: „Kikeriki!“\nKontinuität / Änderung: Der Räuber hat sein Hosenbein vom Hund gelöst, ist innen zur Hintertür ausgewichen und erst jetzt in den Hof getreten. Esel und Hahn sind wach. Der Räuber flieht nach dem Tritt aus dem Hof und kehrt nicht wieder.\n\nKACHEL 10: Noch weit bis Bremen\nOrt und Zeit: Vor dem Waldhaus, nächster Morgen\nSichtbare Figuren: Esel, Hund, Katze, Hahn\nBildbeschreibung: Ruhige Totale in derselben Anordnung wie eine wartende Gemeinschaft: Esel links vor der offenen Haustür, Hund an seiner Seite, Katze auf der Schwelle, Hahn auf dem niedrigen Fensterbrett rechts. Alle wach und entspannt. Auf dem Waldweg im Vordergrund fällt ein Sonnenstreifen in Richtung des ursprünglich geplanten Weiterwegs; niemand macht sich zum Gehen bereit. Großzügiger Himmel für zwei kurze Blasen, Gesichter frei. Verbindliche Zustände: Esel: Fortbewegung: zu Fuß; Ort: links vor der Haustür; Körperhaltung: auf vier Beinen, entspannt; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung, kein Sattel, kein Gepäck, kein Geschirr.. Hund: Fortbewegung: zu Fuß; Ort: neben dem Esel; Körperhaltung: sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Ein schmales rotes Halsband; keine weitere Kleidung.. Katze: Fortbewegung: zu Fuß; Ort: auf der Haustürschwelle; Körperhaltung: sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und kein Halsband.. Hahn: Fortbewegung: zu Fuß; Ort: auf dem vorderen niedrigen Fensterbrett; Körperhaltung: auf zwei Füßen sitzend; Lebenszustand: lebend; Verletzungen: unverletzt; Kleidung: Keine Kleidung und keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hund\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Und Bremen?“\nDialog 2:\n  Sprecher: Esel\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Kann warten. Hier fehlt keiner.“\nKontinuität / Änderung: Zeitsprung zum Morgen. Der Esel ist vom Hof um das Haus nach vorn gegangen; der Hahn hat den hinteren Balken verlassen und sitzt jetzt am vorderen Fenster. Räuber endgültig fort. Kein plötzliches Verjüngen der Tiere.\n",
+    "book_author": "",
+    "editorial_script_id": "bremer-stadtmusikanten-10",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Die Bremer Stadtmusikanten · Skriptprobe",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

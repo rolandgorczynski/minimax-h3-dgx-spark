@@ -1,0 +1,553 @@
+{
+  "mode": "editorial",
+  "name": "Der kleine Prinz · Skript",
+  "payload": {
+    "article": "Eigene Inhaltszusammenfassung, kein Volltext: Ein Pilot strandet in der Sahara. Ein kleiner Reisender bittet ihn um die Zeichnung eines Schafes. Der Pilot zeichnet schließlich eine Kiste, in der das Schaf gedacht werden kann. Der Junge erzählt von seinem kleinen Heimatplaneten und seiner Rose. Auf seiner Reise begegnet er Erwachsenen mit einseitigen Weltbildern. Auf der Erde lernt er durch einen Fuchs, dass Nähe durch Zeit, Geduld und Verantwortung entsteht. Er erkennt seine Verantwortung für die Rose. In der Wüste bereitet er seine rätselhafte Rückkehr vor. Nach einer Begegnung mit einer Schlange verschwindet er. Der Pilot erinnert sich an ihn beim Blick auf die Sterne. Der Abschied bleibt poetisch und offen.",
+    "planned_article": "Eigene Inhaltszusammenfassung, kein Volltext: Ein Pilot strandet in der Sahara. Ein kleiner Reisender bittet ihn um die Zeichnung eines Schafes. Der Pilot zeichnet schließlich eine Kiste, in der das Schaf gedacht werden kann. Der Junge erzählt von seinem kleinen Heimatplaneten und seiner Rose. Auf seiner Reise begegnet er Erwachsenen mit einseitigen Weltbildern. Auf der Erde lernt er durch einen Fuchs, dass Nähe durch Zeit, Geduld und Verantwortung entsteht. Er erkennt seine Verantwortung für die Rose. In der Wüste bereitet er seine rätselhafte Rückkehr vor. Nach einer Begegnung mit einer Schlange verschwindet er. Der Pilot erinnert sich an ihn beim Blick auf die Sterne. Der Abschied bleibt poetisch und offen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Eine leere Seite",
+        "setting": "Sahara, Tageslicht",
+        "characters": [
+          "0891f75992af5a0793860ee6b2d9e858",
+          "dfe55912bee3554ba78ac0b9a737cca9"
+        ],
+        "story": "Halbtotale. Links der Pilot im Schatten eines stillgelegten Flugzeugflügels, rechts der kleine Reisende. Der Motor ist aus, kein Rauch und kein laufender Propeller. Zwischen ihnen die noch leere Papierseite. Große freie Sandfläche oben für zwei kurze Blasen. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links neben dem abgestellten beschädigten Flugzeug; Körperhaltung: am Boden sitzend; Mitgeführte Gegenstände: Zeichenblock auf den Knien; Bleistift in der rechten Hand; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts vor dem Piloten; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..",
+        "dialog": "In der Wüste hatte der Pilot ein Flugzeug zu reparieren. Dann kam eine andere Bitte.",
+        "bubbles": [
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Kannst du mir ein Schaf zeichnen?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "0891f75992af5a0793860ee6b2d9e858",
+            "text": "Hier?",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Erste Begegnung. Der Prinz trägt keine Waffe; der Pilot hat nur Block und Bleistift.",
+        "character_states": {},
+        "continuity_state": {
+          "0891f75992af5a0793860ee6b2d9e858": {
+            "movement": "zu Fuß",
+            "location": "links neben dem abgestellten beschädigten Flugzeug",
+            "posture": "am Boden sitzend",
+            "held": "Zeichenblock auf den Knien; Bleistift in der rechten Hand",
+            "life": "lebend",
+            "clothing": "Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung."
+          },
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "rechts vor dem Piloten",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          }
+        }
+      },
+      {
+        "heading": "Platz für ein Schaf",
+        "setting": "Derselbe Platz, kurz danach",
+        "characters": [
+          "0891f75992af5a0793860ee6b2d9e858",
+          "dfe55912bee3554ba78ac0b9a737cca9"
+        ],
+        "story": "Nahe über den Block. Darauf ausschließlich die einfache Skizze einer geschlossenen Kiste mit Luftlöchern, kein sichtbares Tier. Prinz und Pilot schauen auf dieselbe Zeichnung. Hände des Piloten klar getrennt; Block links, Bleistift rechts. Blasen oberhalb der Gesichter. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links unter dem Flügel; Körperhaltung: sitzend; Mitgeführte Gegenstände: Block in linker und Bleistift in rechter Hand; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts neben dem Block; Körperhaltung: leicht vorgebeugt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "0891f75992af5a0793860ee6b2d9e858",
+            "text": "Ich habe ihm eine Kiste gezeichnet.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Dann hat es einen Ort zum Ausruhen.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Der Kasten existiert nur als Zeichnung, kein echtes Schaf und keine körperliche Kiste erscheinen.",
+        "character_states": {},
+        "continuity_state": {
+          "0891f75992af5a0793860ee6b2d9e858": {
+            "movement": "zu Fuß",
+            "location": "links unter dem Flügel",
+            "posture": "sitzend",
+            "held": "Block in linker und Bleistift in rechter Hand",
+            "life": "lebend",
+            "clothing": "Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung."
+          },
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "rechts neben dem Block",
+            "posture": "leicht vorgebeugt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          }
+        }
+      },
+      {
+        "heading": "Weit weg und doch nah",
+        "setting": "Erzählte Erinnerung: Heimatplanet des Prinzen",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9",
+          "ef44b70da5eb56d7b7812c37716f03fe"
+        ],
+        "story": "Erkennbarer Erinnerungswechsel: runder kleiner Planet vor weitem Nachthimmel. Links kniet der Prinz, rechts wächst genau eine Rose. Er schaut sie an, ohne sie zu pflücken. Keine Glasglocke, kein Gartengerät. Viel freier Himmel für einen Erzählerkasten und eine Blase. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf der kleinen runden Erdfläche; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Rose: Ort: rechts fest im Boden; Körperhaltung: aufrecht wachsend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung; wächst fest in kleiner runder Erdfläche auf dem Heimatplaneten..",
+        "dialog": "Der Junge erzählte von seinem kleinen Planeten. Und von einer Rose.",
+        "bubbles": [
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Ich dachte, ich müsste erst etwas Größeres finden.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Rückblende, keine gleichzeitige Anwesenheit des Piloten. Rose bleibt im Boden; ihr Feststehen ist kein menschliches Gehen.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "links auf der kleinen runden Erdfläche",
+            "posture": "knieend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          },
+          "ef44b70da5eb56d7b7812c37716f03fe": {
+            "location": "rechts fest im Boden",
+            "posture": "aufrecht wachsend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Keine Kleidung; wächst fest in kleiner runder Erdfläche auf dem Heimatplaneten."
+          }
+        }
+      },
+      {
+        "heading": "Viele Welten, wenig Raum",
+        "setting": "Rückblick auf die Reise, ein symbolischer Bildmoment",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9"
+        ],
+        "story": "Ein einzelnes symbolisches Tableau, ausdrücklich keine Abfolge mehrerer Handlungen: Der kleine Prinz unten zwischen weit auseinanderliegenden Lichtkreisen; darin undeutliche erwachsene Silhouetten, jede nur auf den eigenen engen Kreis gerichtet. Keine benannten zusätzlichen Figuren, keine Bücherhandlung aus fremden Fassungen ergänzen. Der Prinz wirkt klein zwischen den abgeschlossenen Bereichen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: unten auf einem dunklen Weg; Körperhaltung: stehend, zum Hintergrund blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..",
+        "dialog": "Er hatte Erwachsene getroffen, die für ihre Welt alles wussten und für andere kaum Platz hatten.",
+        "bubbles": [],
+        "continuity": "Erzählter Reiseeindruck. Die Silhouetten sind namenlose Hintergrundbilder, keine neuen wiederkehrenden Figuren.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "unten auf einem dunklen Weg",
+            "posture": "stehend, zum Hintergrund blickend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          }
+        }
+      },
+      {
+        "heading": "Nicht so nah",
+        "setting": "Erde, Rand einer offenen Wiese, Nachmittag",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9",
+          "916cb4ac2a8c5beb97219334634eeb61"
+        ],
+        "story": "Breite Einstellung mit deutlich leerem Raum zwischen Prinz links und Fuchs rechts. Der Prinz bleibt sitzen und streckt keine Hand aus. Der Fuchs beobachtet ihn, halb am hohen Gras. Zwei kleine Blasen im freien Himmel; die Distanz ist der Bildinhalt. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf der Wiese; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts am Rand des hohen Grases; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Soll ich näher kommen?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "916cb4ac2a8c5beb97219334634eeb61",
+            "text": "Bleib erst einmal. Ich kenne deinen Schritt noch nicht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Neue Begegnung auf der Erde nach der Reise. Fuchs wild und zunächst auf Abstand, nicht schon auf dem Schoß.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "links auf der Wiese",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          },
+          "916cb4ac2a8c5beb97219334634eeb61": {
+            "movement": "zu Fuß",
+            "location": "rechts am Rand des hohen Grases",
+            "posture": "auf vier Pfoten stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Wiederkommen",
+        "setting": "Dieselbe Wiese, ein späterer Nachmittag",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9",
+          "916cb4ac2a8c5beb97219334634eeb61"
+        ],
+        "story": "Wiederholung derselben Blickrichtung und desselben Bildausschnitts wie zuvor. Längere Schatten kennzeichnen einen späteren Tag. Der Prinz sitzt wieder an seinem Platz, der Fuchs ist sichtbar näher, bleibt aber getrennt. Keine Berührung, keine Handfütterung. Ein kleiner Erzählerkasten oben. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links an derselben Stelle; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts auf halber Distanz zum Prinzen; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..",
+        "dialog": "Es ging nicht schneller. Es wurde vertrauter.",
+        "bubbles": [],
+        "continuity": "Ausdrücklicher Zeitsprung: wiederholte Begegnung. Der Abstand hat sich durch Zeit verkürzt, nicht durch ein plötzliches Springen.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "links an derselben Stelle",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          },
+          "916cb4ac2a8c5beb97219334634eeb61": {
+            "movement": "zu Fuß",
+            "location": "rechts auf halber Distanz zum Prinzen",
+            "posture": "auf vier Pfoten stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Eine Stelle für jemanden",
+        "setting": "Dieselbe Wiese, später",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9",
+          "916cb4ac2a8c5beb97219334634eeb61"
+        ],
+        "story": "Halbnahe. Beide schauen in dieselbe Richtung statt einander zu belehren. Der Fuchs sitzt jetzt neben dem Prinzen, ohne vermenschlichte Gestik. Ein schmaler Lichtstreifen verbindet ihre Schatten. Platz über beiden Köpfen für zwei knappe Blasen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf dem Boden; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts unmittelbar neben ihm; Körperhaltung: auf den Hinterbeinen sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Du siehst noch genauso aus.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "916cb4ac2a8c5beb97219334634eeb61",
+            "text": "Aber jetzt weißt du, wer hier fehlt, wenn ich gehe.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Späterer Moment derselben Beziehung. Der Fuchs wurde nicht zum Haustier; Nähe ist freiwillig.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Boden",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          },
+          "916cb4ac2a8c5beb97219334634eeb61": {
+            "movement": "zu Fuß",
+            "location": "rechts unmittelbar neben ihm",
+            "posture": "auf den Hinterbeinen sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Die andere Frage",
+        "setting": "Wiese, beim Abschied",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9",
+          "916cb4ac2a8c5beb97219334634eeb61"
+        ],
+        "story": "Gleiche Achse wie bei der ersten Begegnung, nun nicht als Furcht, sondern als Abschied: Der Prinz links steht zum Weitergehen bereit, der Fuchs rechts hält Blickkontakt. Keine Träne als Pflichtsymbol. Eine ruhige freie Himmelsfläche trägt zwei Blasen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links am Wiesenrand; Körperhaltung: stehend, Blick nach rechts; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts im Gras; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Ich habe meine Rose zurückgelassen.",
+            "expression": "normal"
+          },
+          {
+            "speaker": "916cb4ac2a8c5beb97219334634eeb61",
+            "text": "Du kannst nicht alles bleiben lassen. Aber sie wartet auf dich.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Abschied vom Fuchs. Keine gezeigte Rückkehr zur Rose; der nächste Ortswechsel führt zurück zum Piloten.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "links am Wiesenrand",
+            "posture": "stehend, Blick nach rechts",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          },
+          "916cb4ac2a8c5beb97219334634eeb61": {
+            "movement": "zu Fuß",
+            "location": "rechts im Gras",
+            "posture": "auf vier Pfoten stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Nicht nur eine Blume",
+        "setting": "Sahara beim Flugzeug, später Nachmittag",
+        "characters": [
+          "0891f75992af5a0793860ee6b2d9e858",
+          "dfe55912bee3554ba78ac0b9a737cca9"
+        ],
+        "story": "Halbtotale wie in Kachel 1. Der Pilot hat die praktische Arbeit unterbrochen und hört zu. Der Prinz hält keine Rose in der Hand, sie ist nur Gegenstand des Gesprächs. Der Schal liegt unverändert um seinen Hals. Zwei Blasen oben, keine erläuternde Gedankenmontage. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links am Flugzeug; Körperhaltung: sitzend; Mitgeführte Gegenstände: Zeichenblock geschlossen auf den Knien; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "0891f75992af5a0793860ee6b2d9e858",
+            "text": "Und jetzt weißt du, warum sie wichtig ist?",
+            "expression": "normal"
+          },
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Weil ich mich um sie gekümmert habe. Und noch kümmern will.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Rückkehr zur Rahmenerzählung. Block wieder beim Piloten; Rose weiterhin auf dem fernen Heimatplaneten, nicht in die Wüste versetzt.",
+        "character_states": {},
+        "continuity_state": {
+          "0891f75992af5a0793860ee6b2d9e858": {
+            "movement": "zu Fuß",
+            "location": "links am Flugzeug",
+            "posture": "sitzend",
+            "held": "Zeichenblock geschlossen auf den Knien",
+            "life": "lebend",
+            "clothing": "Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung."
+          },
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "rechts vor ihm",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          }
+        }
+      },
+      {
+        "heading": "Am Rand der Nacht",
+        "setting": "Sahara, abseits des Flugzeugs, Abend",
+        "characters": [
+          "dfe55912bee3554ba78ac0b9a737cca9",
+          "3e524099d47850cda802588f3d939c8e"
+        ],
+        "story": "Weite stille Einstellung. Links der Prinz im letzten Licht, rechts in deutlichem Abstand die schmale Schlange am Boden. Kein Biss, keine Verletzung, kein liegender Körper. Der Himmel nimmt zwei Drittel ein. Nur eine kleine Sprechblase des Prinzen; die Schlange bleibt stumm. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links neben einem niedrigen Wüstenstein; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Schlange: Ort: rechts auf dem Sand vor dem Stein; Körperhaltung: mit einem Körperbogen am Boden ruhend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "dfe55912bee3554ba78ac0b9a737cca9",
+            "text": "Ich möchte wieder für sie da sein.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Der Prinz hat sich vom Flugzeug entfernt. Begegnung mit der Schlange, Ursache und Ausgang bleiben offen; keinen Tod als feststehenden Zustand setzen.",
+        "character_states": {},
+        "continuity_state": {
+          "dfe55912bee3554ba78ac0b9a737cca9": {
+            "movement": "zu Fuß",
+            "location": "links neben einem niedrigen Wüstenstein",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert."
+          },
+          "3e524099d47850cda802588f3d939c8e": {
+            "location": "rechts auf dem Sand vor dem Stein",
+            "posture": "mit einem Körperbogen am Boden ruhend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Keine Kleidung, keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Der Platz im Sand",
+        "setting": "Dieselbe Wüste, nächster Morgen",
+        "characters": [
+          "0891f75992af5a0793860ee6b2d9e858"
+        ],
+        "story": "Totale auf genau den Stein aus Kachel 10. Nur der Pilot ist anwesend. Rechts liegt leerer Sand, keine Leiche, keine zurückgelassene Kleidung, kein sichtbares Schaf und keine Schlange. Der Pilot hält inne; seine Hand berührt den leeren Boden nicht. Weite freie Fläche für einen kurzen Erzählerkasten. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links vor dem niedrigen Stein; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung..",
+        "dialog": "Am Morgen war der Junge fort. Der Pilot fand keine Antwort, die alles erklärte.",
+        "bubbles": [],
+        "continuity": "Der Prinz ist verschwunden, nicht als tot oder heimgekehrt bestätigt. Flugzeug bleibt außerhalb des Bildes. Keinen Schal als unbelegten Fund ergänzen.",
+        "character_states": {},
+        "continuity_state": {
+          "0891f75992af5a0793860ee6b2d9e858": {
+            "movement": "zu Fuß",
+            "location": "links vor dem niedrigen Stein",
+            "posture": "knieend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung."
+          }
+        }
+      },
+      {
+        "heading": "Was mitgeht",
+        "setting": "Sahara, eine spätere klare Nacht",
+        "characters": [
+          "0891f75992af5a0793860ee6b2d9e858"
+        ],
+        "story": "Letzte weite Einstellung. Unten links klein der Pilot mit dem wieder geöffneten Block; darauf nur die vertraute Kistenskizze. Über ihm ein offener Sternenhimmel. Kein körperlich zurückgekehrter Prinz und keine als sicher dargestellte Heimatplaneten-Szene. Große ruhige Fläche für den letzten knappen Erzählerkasten. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: unten links unter freiem Himmel; Körperhaltung: sitzend; Mitgeführte Gegenstände: Zeichenblock mit Kistenskizze auf den Knien; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung..",
+        "dialog": "Er wusste nicht, wohin der Junge gegangen war. Aber er sah nicht mehr gleichgültig hinauf.",
+        "bubbles": [],
+        "continuity": "Spätere Erinnerungsnacht, kein festgelegtes Datum. Verbindung bleibt beim Piloten als Erinnerung, der Abschied bleibt offen.",
+        "character_states": {},
+        "continuity_state": {
+          "0891f75992af5a0793860ee6b2d9e858": {
+            "movement": "zu Fuß",
+            "location": "unten links unter freiem Himmel",
+            "posture": "sitzend",
+            "held": "Zeichenblock mit Kistenskizze auf den Knien",
+            "life": "lebend",
+            "clothing": "Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "0891f75992af5a0793860ee6b2d9e858",
+        "name": "Pilot",
+        "description": "Erwachsener Mann, schmal, kurze dunkle Haare, müde Augen, kantiges Gesicht. Zwei Arme und Beine.",
+        "outfit": "Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.",
+        "backstory": "In der Wüste gestrandet. Gewöhnt, praktische Probleme zu lösen; lernt, die Bindung eines anderen ernst zu nehmen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "dfe55912bee3554ba78ac0b9a737cca9",
+        "name": "Kleiner Prinz",
+        "description": "Kindlicher Reisender, schlank, kurze blonde unordentliche Haare, offener Blick. Eigenständige Gestaltung.",
+        "outfit": "Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.",
+        "backstory": "Reist fern seiner Rose. Glaubt zunächst, etwas müsse einzigartig aussehen, um einzigartig zu sein.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "ef44b70da5eb56d7b7812c37716f03fe",
+        "name": "Rose",
+        "description": "Eine einzelne rote Rose mit genau einem offenen Blütenkopf und zwei grünen Blättern an einem Stiel. Kein menschliches Gesicht und keine Gliedmaßen.",
+        "outfit": "Keine Kleidung; wächst fest in kleiner runder Erdfläche auf dem Heimatplaneten.",
+        "backstory": "Die persönliche Bindung des Prinzen. Ihre Bedeutung entsteht aus der gemeinsamen Geschichte und seiner Verantwortung.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "916cb4ac2a8c5beb97219334634eeb61",
+        "name": "Fuchs",
+        "description": "Schlanker rotbrauner Fuchs mit weißer Brust, dunklen Pfoten und weißer Schwanzspitze. Vier Beine, zwei Ohren, ein Schwanz.",
+        "outfit": "Keine Kleidung, keine Gegenstände.",
+        "backstory": "Begegnet dem Prinzen auf der Erde. Verlangt Zeit und Verlässlichkeit statt sofortiger Vertrautheit.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "3e524099d47850cda802588f3d939c8e",
+        "name": "Schlange",
+        "description": "Schmale sandfarbene Wüstenschlange mit dunkelbraunem Rückenband. Ein Körper, ein Kopf, keine Beine.",
+        "outfit": "Keine Kleidung, keine Gegenstände.",
+        "backstory": "Erscheint am Ende in der Wüste. Ihre Rolle bleibt rätselhaft; der Abschied wird nicht als zweifelsfreier Tod erklärt.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wodurch wird eine Beziehung unverwechselbar?",
+      "core": "Verbundenheit entsteht durch Zeit und Zuwendung; gerade diese Bindung begründet Verantwortung für den anderen.",
+      "ending": "Der Prinz verschwindet; der Pilot bewahrt die Verbindung in seiner Erinnerung. Der Abschied bleibt offen.",
+      "reason": "Begegnung, Rose, Einsicht des Fuchses und offener Abschied benötigen jeweils Raum, ohne alle Erwachsenenbesuche auszuerzählen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Auf der Erde lernt er durch einen Fuchs, dass Nähe durch Zeit, Geduld und Verantwortung entsteht.",
+          "meaning": "Die Begegnung erklärt den Wert der Rose aus der Beziehung statt aus ihrem Besitz."
+        }
+      ],
+      "causal_chain": [
+        "Auf der Erde lernt er durch einen Fuchs, dass Nähe durch Zeit, Geduld und Verantwortung entsteht.",
+        "Der Prinz verschwindet; der Pilot bewahrt die Verbindung in seiner Erinnerung. Der Abschied bleibt offen."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "28b49fd897b5821209c57e07b7856dbd55054a31e935f10fab29e09c9d471a49",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623384+00:00"
+    },
+    "post_summary": "Ein gestrandeter Pilot begegnet einem kleinen Reisenden. Dessen Weg führt zu einer leisen Erkenntnis: Nicht Seltenheit macht jemanden unersetzlich, sondern gemeinsame Zeit und Verantwortung. Eine freie Adaption mit offenem Abschied.",
+    "source_provenance": {
+      "id": "kleiner-prinz",
+      "title": "Der kleine Prinz",
+      "kind": "Buch",
+      "creator": "Antoine de Saint-Exupéry",
+      "edition": "Originalwerk von 1943; keine übernommene deutsche Übersetzung",
+      "url": "https://www.sne.fr/editeur-et-auteur/duree-des-droits-dauteurs/",
+      "territories": "Deutschland; andere Absatzländer gesondert prüfen",
+      "rights": "Länderabhängig. Frankreich: geschützt bis Ende 2032. Keine pauschale weltweite Freigabe. Übersetzungen, Illustrationen und Filmfassungen separat prüfen.",
+      "text": "Eigene Inhaltszusammenfassung, kein Volltext: Ein Pilot strandet in der Sahara. Ein kleiner Reisender bittet ihn um die Zeichnung eines Schafes. Der Pilot zeichnet schließlich eine Kiste, in der das Schaf gedacht werden kann. Der Junge erzählt von seinem kleinen Heimatplaneten und seiner Rose. Auf seiner Reise begegnet er Erwachsenen mit einseitigen Weltbildern. Auf der Erde lernt er durch einen Fuchs, dass Nähe durch Zeit, Geduld und Verantwortung entsteht. Er erkennt seine Verantwortung für die Rose. In der Wüste bereitet er seine rätselhafte Rückkehr vor. Nach einer Begegnung mit einer Schlange verschwindet er. Der Pilot erinnert sich an ihn beim Blick auf die Sterne. Der Abschied bleibt poetisch und offen.",
+      "post_summary": "Ein Pilot strandet in der Sahara. Ein kleiner Reisender bittet ihn um die Zeichnung eines Schafes. Der Pilot zeichnet schließlich eine Kiste, in der das Schaf gedacht werden kann. Der Junge erzählt von seinem kleinen Heimatplaneten und seiner Rose. Auf seiner Reise begegnet er Erwachsenen mit einseitigen Weltbildern. Auf der Erde lernt er durch einen Fuchs, dass Nähe durch Zeit, Geduld und Verantwortung entsteht. Er erkennt seine Verantwortung für die Rose. In der Wüste bereitet er seine rätselhafte Rückkehr vor. Nach einer Begegnung mit einer Schlange verschwindet er.",
+      "category": "Märchen und Verwandlungen",
+      "collection": "Literarische Klassiker"
+    },
+    "source_script": "TITEL: Der kleine Prinz\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Vom leeren Wüstentag über die wachsende Nähe auf der Wiese zum stillen Sternenhimmel. Der konkrete Bildstil bleibt offen.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Pilot\nAussehen: Erwachsener Mann, schmal, kurze dunkle Haare, müde Augen, kantiges Gesicht. Zwei Arme und Beine.\nKleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.\nPersönlichkeit und Vorgeschichte: In der Wüste gestrandet. Gewöhnt, praktische Probleme zu lösen; lernt, die Bindung eines anderen ernst zu nehmen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Kleiner Prinz\nAussehen: Kindlicher Reisender, schlank, kurze blonde unordentliche Haare, offener Blick. Eigenständige Gestaltung.\nKleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.\nPersönlichkeit und Vorgeschichte: Reist fern seiner Rose. Glaubt zunächst, etwas müsse einzigartig aussehen, um einzigartig zu sein.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Rose\nAussehen: Eine einzelne rote Rose mit genau einem offenen Blütenkopf und zwei grünen Blättern an einem Stiel. Kein menschliches Gesicht und keine Gliedmaßen.\nKleidung: Keine Kleidung; wächst fest in kleiner runder Erdfläche auf dem Heimatplaneten.\nPersönlichkeit und Vorgeschichte: Die persönliche Bindung des Prinzen. Ihre Bedeutung entsteht aus der gemeinsamen Geschichte und seiner Verantwortung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Fuchs\nAussehen: Schlanker rotbrauner Fuchs mit weißer Brust, dunklen Pfoten und weißer Schwanzspitze. Vier Beine, zwei Ohren, ein Schwanz.\nKleidung: Keine Kleidung, keine Gegenstände.\nPersönlichkeit und Vorgeschichte: Begegnet dem Prinzen auf der Erde. Verlangt Zeit und Verlässlichkeit statt sofortiger Vertrautheit.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Schlange\nAussehen: Schmale sandfarbene Wüstenschlange mit dunkelbraunem Rückenband. Ein Körper, ein Kopf, keine Beine.\nKleidung: Keine Kleidung, keine Gegenstände.\nPersönlichkeit und Vorgeschichte: Erscheint am Ende in der Wüste. Ihre Rolle bleibt rätselhaft; der Abschied wird nicht als zweifelsfreier Tod erklärt.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Eine leere Seite\nOrt und Zeit: Sahara, Tageslicht\nSichtbare Figuren: Pilot, Kleiner Prinz\nBildbeschreibung: Halbtotale. Links der Pilot im Schatten eines stillgelegten Flugzeugflügels, rechts der kleine Reisende. Der Motor ist aus, kein Rauch und kein laufender Propeller. Zwischen ihnen die noch leere Papierseite. Große freie Sandfläche oben für zwei kurze Blasen. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links neben dem abgestellten beschädigten Flugzeug; Körperhaltung: am Boden sitzend; Mitgeführte Gegenstände: Zeichenblock auf den Knien; Bleistift in der rechten Hand; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts vor dem Piloten; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..\nErzählertext: In der Wüste hatte der Pilot ein Flugzeug zu reparieren. Dann kam eine andere Bitte.\nDialog 1:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Kannst du mir ein Schaf zeichnen?“\nDialog 2:\n  Sprecher: Pilot\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Hier?“\nKontinuität / Änderung: Erste Begegnung. Der Prinz trägt keine Waffe; der Pilot hat nur Block und Bleistift.\n\nKACHEL 2: Platz für ein Schaf\nOrt und Zeit: Derselbe Platz, kurz danach\nSichtbare Figuren: Pilot, Kleiner Prinz\nBildbeschreibung: Nahe über den Block. Darauf ausschließlich die einfache Skizze einer geschlossenen Kiste mit Luftlöchern, kein sichtbares Tier. Prinz und Pilot schauen auf dieselbe Zeichnung. Hände des Piloten klar getrennt; Block links, Bleistift rechts. Blasen oberhalb der Gesichter. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links unter dem Flügel; Körperhaltung: sitzend; Mitgeführte Gegenstände: Block in linker und Bleistift in rechter Hand; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts neben dem Block; Körperhaltung: leicht vorgebeugt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Pilot\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich habe ihm eine Kiste gezeichnet.“\nDialog 2:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann hat es einen Ort zum Ausruhen.“\nKontinuität / Änderung: Der Kasten existiert nur als Zeichnung, kein echtes Schaf und keine körperliche Kiste erscheinen.\n\nKACHEL 3: Weit weg und doch nah\nOrt und Zeit: Erzählte Erinnerung: Heimatplanet des Prinzen\nSichtbare Figuren: Kleiner Prinz, Rose\nBildbeschreibung: Erkennbarer Erinnerungswechsel: runder kleiner Planet vor weitem Nachthimmel. Links kniet der Prinz, rechts wächst genau eine Rose. Er schaut sie an, ohne sie zu pflücken. Keine Glasglocke, kein Gartengerät. Viel freier Himmel für einen Erzählerkasten und eine Blase. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf der kleinen runden Erdfläche; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Rose: Ort: rechts fest im Boden; Körperhaltung: aufrecht wachsend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung; wächst fest in kleiner runder Erdfläche auf dem Heimatplaneten..\nErzählertext: Der Junge erzählte von seinem kleinen Planeten. Und von einer Rose.\nDialog 1:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich dachte, ich müsste erst etwas Größeres finden.“\nKontinuität / Änderung: Rückblende, keine gleichzeitige Anwesenheit des Piloten. Rose bleibt im Boden; ihr Feststehen ist kein menschliches Gehen.\n\nKACHEL 4: Viele Welten, wenig Raum\nOrt und Zeit: Rückblick auf die Reise, ein symbolischer Bildmoment\nSichtbare Figuren: Kleiner Prinz\nBildbeschreibung: Ein einzelnes symbolisches Tableau, ausdrücklich keine Abfolge mehrerer Handlungen: Der kleine Prinz unten zwischen weit auseinanderliegenden Lichtkreisen; darin undeutliche erwachsene Silhouetten, jede nur auf den eigenen engen Kreis gerichtet. Keine benannten zusätzlichen Figuren, keine Bücherhandlung aus fremden Fassungen ergänzen. Der Prinz wirkt klein zwischen den abgeschlossenen Bereichen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: unten auf einem dunklen Weg; Körperhaltung: stehend, zum Hintergrund blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..\nErzählertext: Er hatte Erwachsene getroffen, die für ihre Welt alles wussten und für andere kaum Platz hatten.\nDialoge: keine\nKontinuität / Änderung: Erzählter Reiseeindruck. Die Silhouetten sind namenlose Hintergrundbilder, keine neuen wiederkehrenden Figuren.\n\nKACHEL 5: Nicht so nah\nOrt und Zeit: Erde, Rand einer offenen Wiese, Nachmittag\nSichtbare Figuren: Kleiner Prinz, Fuchs\nBildbeschreibung: Breite Einstellung mit deutlich leerem Raum zwischen Prinz links und Fuchs rechts. Der Prinz bleibt sitzen und streckt keine Hand aus. Der Fuchs beobachtet ihn, halb am hohen Gras. Zwei kleine Blasen im freien Himmel; die Distanz ist der Bildinhalt. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf der Wiese; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts am Rand des hohen Grases; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Soll ich näher kommen?“\nDialog 2:\n  Sprecher: Fuchs\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Bleib erst einmal. Ich kenne deinen Schritt noch nicht.“\nKontinuität / Änderung: Neue Begegnung auf der Erde nach der Reise. Fuchs wild und zunächst auf Abstand, nicht schon auf dem Schoß.\n\nKACHEL 6: Wiederkommen\nOrt und Zeit: Dieselbe Wiese, ein späterer Nachmittag\nSichtbare Figuren: Kleiner Prinz, Fuchs\nBildbeschreibung: Wiederholung derselben Blickrichtung und desselben Bildausschnitts wie zuvor. Längere Schatten kennzeichnen einen späteren Tag. Der Prinz sitzt wieder an seinem Platz, der Fuchs ist sichtbar näher, bleibt aber getrennt. Keine Berührung, keine Handfütterung. Ein kleiner Erzählerkasten oben. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links an derselben Stelle; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts auf halber Distanz zum Prinzen; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..\nErzählertext: Es ging nicht schneller. Es wurde vertrauter.\nDialoge: keine\nKontinuität / Änderung: Ausdrücklicher Zeitsprung: wiederholte Begegnung. Der Abstand hat sich durch Zeit verkürzt, nicht durch ein plötzliches Springen.\n\nKACHEL 7: Eine Stelle für jemanden\nOrt und Zeit: Dieselbe Wiese, später\nSichtbare Figuren: Kleiner Prinz, Fuchs\nBildbeschreibung: Halbnahe. Beide schauen in dieselbe Richtung statt einander zu belehren. Der Fuchs sitzt jetzt neben dem Prinzen, ohne vermenschlichte Gestik. Ein schmaler Lichtstreifen verbindet ihre Schatten. Platz über beiden Köpfen für zwei knappe Blasen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf dem Boden; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts unmittelbar neben ihm; Körperhaltung: auf den Hinterbeinen sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du siehst noch genauso aus.“\nDialog 2:\n  Sprecher: Fuchs\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Aber jetzt weißt du, wer hier fehlt, wenn ich gehe.“\nKontinuität / Änderung: Späterer Moment derselben Beziehung. Der Fuchs wurde nicht zum Haustier; Nähe ist freiwillig.\n\nKACHEL 8: Die andere Frage\nOrt und Zeit: Wiese, beim Abschied\nSichtbare Figuren: Kleiner Prinz, Fuchs\nBildbeschreibung: Gleiche Achse wie bei der ersten Begegnung, nun nicht als Furcht, sondern als Abschied: Der Prinz links steht zum Weitergehen bereit, der Fuchs rechts hält Blickkontakt. Keine Träne als Pflichtsymbol. Eine ruhige freie Himmelsfläche trägt zwei Blasen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links am Wiesenrand; Körperhaltung: stehend, Blick nach rechts; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts im Gras; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich habe meine Rose zurückgelassen.“\nDialog 2:\n  Sprecher: Fuchs\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du kannst nicht alles bleiben lassen. Aber sie wartet auf dich.“\nKontinuität / Änderung: Abschied vom Fuchs. Keine gezeigte Rückkehr zur Rose; der nächste Ortswechsel führt zurück zum Piloten.\n\nKACHEL 9: Nicht nur eine Blume\nOrt und Zeit: Sahara beim Flugzeug, später Nachmittag\nSichtbare Figuren: Pilot, Kleiner Prinz\nBildbeschreibung: Halbtotale wie in Kachel 1. Der Pilot hat die praktische Arbeit unterbrochen und hört zu. Der Prinz hält keine Rose in der Hand, sie ist nur Gegenstand des Gesprächs. Der Schal liegt unverändert um seinen Hals. Zwei Blasen oben, keine erläuternde Gedankenmontage. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links am Flugzeug; Körperhaltung: sitzend; Mitgeführte Gegenstände: Zeichenblock geschlossen auf den Knien; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Pilot\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Und jetzt weißt du, warum sie wichtig ist?“\nDialog 2:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Weil ich mich um sie gekümmert habe. Und noch kümmern will.“\nKontinuität / Änderung: Rückkehr zur Rahmenerzählung. Block wieder beim Piloten; Rose weiterhin auf dem fernen Heimatplaneten, nicht in die Wüste versetzt.\n\nKACHEL 10: Am Rand der Nacht\nOrt und Zeit: Sahara, abseits des Flugzeugs, Abend\nSichtbare Figuren: Kleiner Prinz, Schlange\nBildbeschreibung: Weite stille Einstellung. Links der Prinz im letzten Licht, rechts in deutlichem Abstand die schmale Schlange am Boden. Kein Biss, keine Verletzung, kein liegender Körper. Der Himmel nimmt zwei Drittel ein. Nur eine kleine Sprechblase des Prinzen; die Schlange bleibt stumm. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links neben einem niedrigen Wüstenstein; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Schlange: Ort: rechts auf dem Sand vor dem Stein; Körperhaltung: mit einem Körperbogen am Boden ruhend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Kleiner Prinz\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich möchte wieder für sie da sein.“\nKontinuität / Änderung: Der Prinz hat sich vom Flugzeug entfernt. Begegnung mit der Schlange, Ursache und Ausgang bleiben offen; keinen Tod als feststehenden Zustand setzen.\n\nKACHEL 11: Der Platz im Sand\nOrt und Zeit: Dieselbe Wüste, nächster Morgen\nSichtbare Figuren: Pilot\nBildbeschreibung: Totale auf genau den Stein aus Kachel 10. Nur der Pilot ist anwesend. Rechts liegt leerer Sand, keine Leiche, keine zurückgelassene Kleidung, kein sichtbares Schaf und keine Schlange. Der Pilot hält inne; seine Hand berührt den leeren Boden nicht. Weite freie Fläche für einen kurzen Erzählerkasten. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links vor dem niedrigen Stein; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung..\nErzählertext: Am Morgen war der Junge fort. Der Pilot fand keine Antwort, die alles erklärte.\nDialoge: keine\nKontinuität / Änderung: Der Prinz ist verschwunden, nicht als tot oder heimgekehrt bestätigt. Flugzeug bleibt außerhalb des Bildes. Keinen Schal als unbelegten Fund ergänzen.\n\nKACHEL 12: Was mitgeht\nOrt und Zeit: Sahara, eine spätere klare Nacht\nSichtbare Figuren: Pilot\nBildbeschreibung: Letzte weite Einstellung. Unten links klein der Pilot mit dem wieder geöffneten Block; darauf nur die vertraute Kistenskizze. Über ihm ein offener Sternenhimmel. Kein körperlich zurückgekehrter Prinz und keine als sicher dargestellte Heimatplaneten-Szene. Große ruhige Fläche für den letzten knappen Erzählerkasten. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: unten links unter freiem Himmel; Körperhaltung: sitzend; Mitgeführte Gegenstände: Zeichenblock mit Kistenskizze auf den Knien; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung..\nErzählertext: Er wusste nicht, wohin der Junge gegangen war. Aber er sah nicht mehr gleichgültig hinauf.\nDialoge: keine\nKontinuität / Änderung: Spätere Erinnerungsnacht, kein festgelegtes Datum. Verbindung bleibt beim Piloten als Erinnerung, der Abschied bleibt offen.\n",
+    "book_author": "",
+    "editorial_script_id": "kleiner-prinz-12",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Der kleine Prinz · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}
