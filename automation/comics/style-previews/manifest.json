@@ -812,5 +812,38 @@
       264
     ],
     "local_model": true
+  },
+  "stil-75": {
+    "name": "Märchenhafter Waldhorror",
+    "prompt_sha256": "73d8c6385f6e8dd743cf69b8451bec5b1d3ea6ffda1ad8b116cfabb045b5172a",
+    "sha256": "4c4e79fa6fa01661914c3ddc3b9f7a20089fc25d0700a09f7b2818cae8b1d20d",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-76": {
+    "name": "Kantiger Schattencomic",
+    "prompt_sha256": "246618a12ae556a62b580a7eb33009c35384675228200a4a3972a81edc872bd3",
+    "sha256": "bdc15e9577d8acbb71ed9602e495be3b70c6b35631a645006302b862f151ce67",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-77": {
+    "name": "Geisterfolklore-Manga",
+    "prompt_sha256": "6fe28c129ed103e9f9c83e386d63dab95e50c2c6e4c6bb90385934e8230e1a89",
+    "sha256": "25e1bfeb14eb169fe222b1a23a459fbca795341b9e3ab847b80f50d1a6db587c",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
   }
 }

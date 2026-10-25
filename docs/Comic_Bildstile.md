@@ -1,6 +1,6 @@
-# Bildstil-Bibliothek mit 74 lokalen Vorschaubildern
+# Bildstil-Bibliothek mit 77 lokalen Vorschaubildern
 
-Die Bibliothek umfasst 74 Bildstile in elf Kategorien.
+Die Bibliothek umfasst 77 Bildstile in elf Kategorien.
 Die bisherigen Stilnamen und ihre Bildvorgaben bleiben erhalten.
 
 ## Auswahl im Dashboard
@@ -200,3 +200,19 @@ Fixes die Skripterstellung bei der ausgewählten Quelle erneut starten.
 Die neuen Vorschauen entstehen mit dem vorhandenen lokalen Bildmodell. Sie zeigen
 Stilbeispiele; die Umsetzung in einer konkreten Szene kann abweichen. Für
 Isometrie wird auch die Umgebung in den Vergleich aufgenommen.
+
+## Drei Comic-Richtungen für Geistergeschichten
+
+| Bildstil | Kategorie | Bildwirkung |
+|---|---|---|
+| Märchenhafter Waldhorror | Noir und Horror | Dunkle Wälder, flächiges Schwarz und leuchtendes Rot; stille Bilder mit unheimlichen Details. |
+| Kantiger Schattencomic | Noir und Horror | Kantige Figuren, massive schwarze Schatten und sparsame rostrote Lichtakzente. |
+| Geisterfolklore-Manga | Manga und asiatische Kunst | Eigenwillige Geister und einfache Figuren vor fein getuschten Wäldern und alten Dörfern. |
+
+Die Auswahl entstand aus den besprochenen Referenzen *Through the Woods*,
+*Hellboy* und *Kitaro*. Die eigentlichen Bildvorgaben beschreiben eigenständige
+Gestaltungsmittel und enthalten keine Künstlernamen oder bekannten Figuren.
+Die drei lokalen Vorschauen zeigen dieselbe Waldszene mit einem Reisenden und
+einem Geist, damit Figuren, Landschaft und Schatten gemeinsam vergleichbar sind.
+Vorhandene Szenen und Ausgaben bleiben bei der Auswahl erhalten. Erst die
+anschließende ausdrückliche Generierung setzt den neuen Stil in Bilder um.

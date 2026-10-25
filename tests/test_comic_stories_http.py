@@ -30,7 +30,7 @@ class StoriesHTTPTests(unittest.TestCase):
                 except urllib.error.HTTPError as exc:return exc.code,json.load(exc)
             try:
                 self.assertEqual(call('/stories',auth=False)[0],401)
-                self.assertEqual(len(call('/styles')[1]['styles']),74)
+                self.assertEqual(len(call('/styles')[1]['styles']),77)
                 status,story=call('/stories','POST',definition());self.assertEqual(status,201)
                 ident=story['id'];updated={**definition(),'version':1,'name':'Bearbeitet'}
                 self.assertEqual(call('/stories/'+ident,'PATCH',updated)[0],200)

@@ -516,5 +516,26 @@
     "category": "Humor und Familie",
     "description": "Handgeformte Figuren, sichtbare Fingerspuren und weiches Studiolicht.",
     "prompt": "Hand sculpted claymation illustration, colored plasticine figures with visible fingerprints and sculpting marks, slightly irregular handmade forms, expressive adult clay face, tactile matte clay surfaces, soft miniature studio lighting, no fabric puppet textures."
+  },
+  {
+    "id": "stil-75",
+    "name": "Märchenhafter Waldhorror",
+    "category": "Noir und Horror",
+    "description": "Dunkle Wälder, flächiges Schwarz und leuchtendes Rot; stille Bilder mit unheimlichen Details.",
+    "prompt": "Folk horror sequential comic art, hand drawn expressive ink contours, simplified readable adult figures, flat deep black forest silhouettes, bone white and vermilion red limited palette, ominous negative space, winding branches framing the scene, a tiny unsettling background detail, deliberately quiet suspenseful staging, flat graphic color without realistic rendering. Original characters, no existing comic characters, no lettering."
+  },
+  {
+    "id": "stil-76",
+    "name": "Kantiger Schattencomic",
+    "category": "Noir und Horror",
+    "description": "Kantige Figuren, massive schwarze Schatten und sparsame rostrote Lichtakzente.",
+    "prompt": "Geometric supernatural adventure comic art, bold angular anatomy and chiseled faces, heavy confident ink shapes, enormous solid black shadow masses, minimal internal linework, flat muted ochre rust red and slate blue colors, monumental ruined stone architecture and stark silhouettes, dramatic asymmetrical composition, no hatching, no soft gradients, no photorealism. Original adult human characters, no existing comic characters, no lettering."
+  },
+  {
+    "id": "stil-77",
+    "name": "Geisterfolklore-Manga",
+    "category": "Manga und asiatische Kunst",
+    "description": "Eigenwillige Geister und einfache Figuren vor fein getuschten Wäldern und alten Dörfern.",
+    "prompt": "Black and white supernatural folklore manga, simple rounded expressive human character designs contrasted against meticulously detailed realistic rural backgrounds, dense stippling and fine ink textures on trees stones and old timber houses, eccentric original spirit creatures with strange readable silhouettes, an eerie yet gently humorous atmosphere, clear sequential storytelling composition. Original adult characters and invented spirits, no existing manga characters, no lettering."
   }
 ]

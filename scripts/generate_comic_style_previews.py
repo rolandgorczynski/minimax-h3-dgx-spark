@@ -42,6 +42,8 @@ def main():
             prompt='Character reference portrait, exactly one original fictional adult traveler, short dark hair, plain cloak, holding a small lantern. Head and upper torso clearly visible, neutral background. No known character, no emblem, no text, no lettering. Art style: '+style['prompt']
             if style['id']=='stil-73':
                 prompt='Exactly one original fictional adult traveler with short dark hair and a plain cloak, holding a small lantern, standing beside a stone stairway and a small doorway. Full figure and surrounding architecture clearly visible, consistent isometric overhead projection. No known character, no emblem, no text, no lettering. Art style: '+style['prompt']
+            if style['id'] in ('stil-75','stil-76','stil-77'):
+                prompt='Single comic panel, medium wide view. Exactly one original adult human traveler with short dark hair and a plain cloak holding one small lantern at the left of the image. On the right, one small pale ghost peeks from behind a gnarled tree. An old ruined stone doorway and forest path in the background. Both figures clearly separated and readable. No known characters, no emblems, no text or lettering. Art style: '+style['prompt']
             graph=dict(loaders)
             graph.update({
                 '90':{'class_type':'CLIPTextEncode','inputs':{'clip':[find('CLIPLoader'),0],'text':prompt}},
