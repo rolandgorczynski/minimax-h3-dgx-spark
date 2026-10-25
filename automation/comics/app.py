@@ -182,7 +182,9 @@ class Handler(BaseHTTPRequestHandler):
             return self.reply(200,library_status(self.service.store,self.service.stories))
         if path=='/sources':
             from source_generator import catalog
-            return self.reply(200,{'sources':catalog(self.service.store)})
+            entries=catalog(self.service.store)
+            deferred=set(self.service.store.integration_get('source-catalog-deferred') or [])
+            return self.reply(200,{'sources':[entry for entry in entries if entry['id'] not in deferred],'deferred_count':sum(entry['id'] in deferred for entry in entries)})
         if path.startswith('/source-tasks/'):
             return self.source_read(path)
         if path=='/page-templates':

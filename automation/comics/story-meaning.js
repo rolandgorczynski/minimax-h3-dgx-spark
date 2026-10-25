@@ -59,7 +59,7 @@ async function refreshMeaningLibrary(){
  const status=$('meaning-library-status');if(!status)return;
  try{
   const value=await(await api('/narrative-library')).json();
-  status.textContent=value.completed+' / '+value.total+' fertig · '+value.pending+' offen · '+value.failed+' fehlgeschlagen. '+(value.editorial_active?'Redaktionelle Auswertung läuft.':value.enabled?(value.pending?'Vorarbeit läuft.':'Neue oder geänderte Geschichten werden automatisch ergänzt.'):'Vorarbeit pausiert.');
+  status.textContent=value.completed+' / '+value.total+' fertig · '+value.pending+' offen · '+value.failed+' fehlgeschlagen. '+(value.deferred?value.deferred+' Quellen für später zurückgestellt. ':'')+(!value.pending&&!value.failed?'Redaktionelle Vorarbeit für alle aktiven Einträge abgeschlossen.':value.editorial_active?'Redaktionelle Auswertung läuft.':value.enabled?(value.pending?'Vorarbeit läuft.':'Neue oder geänderte Geschichten werden automatisch ergänzt.'):'Vorarbeit pausiert.');
   $('meaning-library-progress').max=Math.max(1,value.total);$('meaning-library-progress').value=value.completed;
   $('meaning-library-current').textContent=value.current?'Aktuell: '+value.current.title+(value.enabled?'':' · Pause nach dieser Analyse'):'Aktuell keine Analyse in Arbeit.';
   $('meaning-library-error').textContent=value.last_error?'Letzter Fehler bei „'+value.last_error.title+'“: '+value.last_error.error:'';

@@ -120,6 +120,29 @@ class SourceTests(unittest.TestCase):
             self.assertEqual(sources.catalog(store)[-1]['text'],entry['text']);self.assertEqual(sources.BUILTINS,original)
             self.assertIn('Frankreich',sources.catalog(store)[0]['rights'])
 
+    def test_deferred_sources_keep_contents_and_reviewed_sources_remain_available(self):
+        from story_meaning import CACHE_KEY,ANALYSIS_VERSION,fingerprint,library_status
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);original=copy.deepcopy(sources.catalog(store,with_meaning=False))
+            reviewed=original[0];deferred=original[1]
+            cache={fingerprint(reviewed['text']+'\n'):{'analysis_version':ANALYSIS_VERSION,'review_method':'redaktionell'}}
+            store.integration_set(CACHE_KEY,cache)
+            self.assertEqual(sources.set_deferred(store,[deferred['id']]),{'active':2,'deferred':1})
+            self.assertEqual(sources.catalog(store,with_meaning=False),original)
+            self.assertEqual([e['id'] for e in sources.catalog(store,include_deferred=False)],[original[0]['id'],original[2]['id']])
+            self.assertEqual(library_status(store,Stories(store))['total'],2)
+            self.assertEqual(library_status(store,Stories(store))['completed'],1)
+            with self.assertRaisesRegex(ValueError,'bleiben verfügbar'):sources.set_deferred(store,[reviewed['id']])
+            self.assertEqual(store.integration_get('source-catalog-deferred'),[deferred['id']])
+            with self.assertRaisesRegex(ValueError,'Unbekannte'):sources.set_deferred(store,['unbekannt'])
+            added=sources.save_source(store,{'title':'Neues Thema','kind':'Eigene Vorlage','text':'Neue Geschichte.'})
+            self.assertIn(added['id'],[entry['id'] for entry in sources.catalog(store,include_deferred=False)])
+            job=sources.enqueue(store,{'source_id':deferred['id'],'count':2})
+            self.assertEqual(store.get(job['id'])['status'],'queued')
+            sources.set_deferred(store,[])
+            self.assertEqual(len(sources.catalog(store,include_deferred=False)),4)
+            self.assertEqual(store.integration_get(CACHE_KEY),cache)
+
     def test_batches_and_edited_script_adopt_directly_without_another_model_call(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store);job=sources.enqueue(store,{'source_id':'kleiner-prinz','count':13,'style':STYLE,'author':'Mein Pseudonym'});engine=FakeEngine(store)
@@ -149,6 +172,9 @@ class SourceTests(unittest.TestCase):
             try:
                 self.assertEqual(call('/sources',auth=False)[0],401)
                 self.assertEqual(len(call('/sources')[1]['sources']),3)
+                sources.set_deferred(service.store,['bremer-stadtmusikanten'])
+                visible=call('/sources')[1];self.assertEqual(len(visible['sources']),2);self.assertEqual(visible['deferred_count'],1)
+                sources.set_deferred(service.store,[])
                 code,job=call('/source-tasks','POST',{'source_id':'bremer-stadtmusikanten','count':2,'style':STYLE});self.assertEqual(code,202)
                 self.assertEqual(call('/jobs')[1]['jobs'],[]);self.assertEqual(service.stories.list(),[])
                 ident=job['id'];engine=FakeEngine(service.store);result=sources.run(engine,ident);service.store.stage(ident,'finished',**result)

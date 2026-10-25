@@ -40,9 +40,12 @@ def clean_source(value):
     if result['kind'] not in ('Buch','Film','Eigene Vorlage'):raise ValueError('Buch, Film oder Eigene Vorlage wählen.')
     return result
 
-def catalog(store,with_meaning=True):
+def catalog(store,with_meaning=True,include_deferred=True):
     saved=store.integration_get('source-catalog')
     entries=[decorate({**copy.deepcopy(entry),'post_summary':entry.get('post_summary') or post_summary(entry)}) for entry in (saved if saved is not None else BUILTINS)]
+    if not include_deferred:
+        deferred=set(store.integration_get('source-catalog-deferred') or [])
+        entries=[entry for entry in entries if entry['id'] not in deferred]
     if with_meaning:
         from story_meaning import current_cache,fingerprint
         cache=current_cache(store)
@@ -59,6 +62,19 @@ def save_source(store,value):
     result['id']=ident;entries=[result if x['id']==ident else x for x in entries]
     if not any(x['id']==ident for x in entries):entries.append(result)
     store.integration_set('source-catalog',entries);return decorate(result)
+
+def set_deferred(store,ids):
+    """Nur Auswahl und Vorarbeitsumfang ändern, keine Quellen oder Auswertungen löschen."""
+    from story_meaning import current_cache,fingerprint
+    if not isinstance(ids,list) or any(not isinstance(ident,str) for ident in ids) or len(set(ids))!=len(ids):
+        raise ValueError('Eindeutige Quellen-IDs als Liste erforderlich.')
+    entries={entry['id']:entry for entry in catalog(store,with_meaning=False)}
+    if set(ids)-entries.keys():raise ValueError('Unbekannte Quelle in der Zurückstellung.')
+    cache=current_cache(store)
+    if any(cache.get(fingerprint(entries[ident]['text']+'\n'),{}).get('review_method')=='redaktionell' for ident in ids):
+        raise ValueError('Bereits redaktionell bearbeitete Quellen bleiben verfügbar.')
+    store.integration_set('source-catalog-deferred',ids)
+    return {'active':len(entries)-len(ids),'deferred':len(ids)}
 
 def enqueue(store,value):
     source=next((s for s in catalog(store) if s['id']==value.get('source_id')),None)

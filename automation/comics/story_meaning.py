@@ -148,10 +148,10 @@ def remember(store,value):
     store.integration_set(CACHE_KEY,cache)
 
 
-def library_entries(store,stories):
+def library_entries(store,stories,include_deferred=True):
     from source_generator import catalog
     # Ohne angehängte Pläne lesen: rekursive Katalog-/Cache-Aufrufe vermeiden.
-    sources=catalog(store,with_meaning=False)
+    sources=catalog(store,with_meaning=False,include_deferred=include_deferred)
     entries=[{'kind':'source','id':s['id'],'title':s['title'],'text':s['text'],'count':12} for s in sources]
     for item in stories.list():
         story=stories.get(item['id'],with_meaning=False);p=story['payload']
@@ -161,11 +161,11 @@ def library_entries(store,stories):
 
 
 def library_status(store,stories):
-    state=store.integration_get(STATE_KEY) or {};cache=current_cache(store);entries=library_entries(store,stories)
+    state=store.integration_get(STATE_KEY) or {};cache=current_cache(store);entries=library_entries(store,stories,include_deferred=False)
     failures=state.get('failures',{})
     done=sum(fingerprint(e['text']+'\n') in cache for e in entries)
     failed=sum(fingerprint(e['text']+'\n') in failures and fingerprint(e['text']+'\n') not in cache for e in entries)
-    return {'editorial_active':bool(state.get('editorial_active')),'enabled':bool(state.get('enabled')),'total':len(entries),'completed':done,'failed':failed,'pending':len(entries)-done-failed,'current':state.get('current'),'last_error':state.get('last_error'),'started_at':state.get('started_at'),'updated_at':state.get('updated_at')}
+    return {'editorial_active':bool(state.get('editorial_active') and len(entries)>done+failed),'enabled':bool(state.get('enabled')),'total':len(entries),'completed':done,'failed':failed,'pending':len(entries)-done-failed,'deferred':len(store.integration_get('source-catalog-deferred') or []),'current':state.get('current'),'last_error':state.get('last_error'),'started_at':state.get('started_at'),'updated_at':state.get('updated_at')}
 
 
 def configure_library(store,stories,value):
@@ -184,7 +184,7 @@ def process_library_next(engine,stories):
     store=engine.store;state=store.integration_get(STATE_KEY) or {}
     if state.get('editorial_mode') or not state.get('enabled'):return False
     cache=current_cache(store);failures=state.get('failures',{})
-    candidate=next((entry for entry in library_entries(store,stories) if fingerprint(entry['text']+'\n') not in cache and fingerprint(entry['text']+'\n') not in failures),None)
+    candidate=next((entry for entry in library_entries(store,stories,include_deferred=False) if fingerprint(entry['text']+'\n') not in cache and fingerprint(entry['text']+'\n') not in failures),None)
     if candidate is None:return False
     signature=fingerprint(candidate['text']+'\n')
     previous=state.get('current') or {}

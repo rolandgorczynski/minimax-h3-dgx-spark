@@ -27,3 +27,21 @@ Neue Vorlagen werden auf Auftrag im Gespräch angebunden. Das Dashboard stellt k
 ## Daten und Sicherung
 
 Die produktiven Ergebnisse stehen im vorhandenen SQLite-Integrationszustand `narrative-library-cache`. Der Zustand der Vorarbeit steht unter `narrative-library-state`. Beide liegen im bereits gesicherten Docker-Datenverzeichnis. Die exportierten Ausgangstexte für die laufende Redaktion liegen unter `/home/jee/docker-data/comic-sinnanalyse-redaktion/`. Die Manifeste im Git-Repository dokumentieren die redaktionelle Arbeit unabhängig von der Datenbank.
+
+## Quellen für später zurückstellen
+
+Die Auswahl enthält zunächst die 373 bereits redaktionell ausgewerteten Quellen. Die übrigen 627 bleiben vollständig auf der Warteliste gespeichert, erscheinen aber weder in der Vorlagenauswahl noch im Umfang der aktuellen Vorarbeit. Alle bereits redaktionell ausgewerteten Quellen bleiben verfügbar. Neue Themen oder Kategorien können unabhängig davon hinzukommen.
+
+Die Zurückstellung liegt getrennt von den Quellentexten im Studio-Datensatz `source-catalog-deferred`. Quellen-IDs, Auswertungen, vorhandene Skripte und Comics werden nicht geändert oder gelöscht. Der Import und bestehende Quellenverweise können weiterhin auf den vollständigen Katalog zugreifen.
+
+Die genaue Liste steht in [source-availability.json](../examples/comics/source-availability.json). Vom Projektverzeichnis aus:
+
+```bash
+# Gespeicherte Liste anwenden; keine Generierung starten:
+python3 scripts/configure_comic_source_availability.py --apply
+
+# Alle zurückgestellten Quellen wieder freigeben:
+python3 scripts/configure_comic_source_availability.py --restore --apply
+```
+
+Ohne `--apply` wird nur die geplante Anzahl ausgegeben. Das Skript verweigert die Zurückstellung bereits redaktionell bearbeiteter Quellen. Spätere Freigaben erfolgen redaktionell über Codex; es gibt keinen automatischen Ersatzlauf mit einem lokalen Modell.
