@@ -3,19 +3,29 @@ let sourceEntries=[],sourceSelected='',sourceTask='',sourceTimer=null,sourceScri
 const sourceFields=['title','kind','creator','edition','url','territories','rights','text','post_summary','category'];
 function sourceSearchKey(value){return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('de').replace(/ß/g,'ss')}
 function sourceDraftChanged(){const entry=sourceEntries.find(s=>s.id===sourceSelected)||{};return sourceFields.some(k=>$('source-'+k).value!==(entry[k]??(k==='kind'?'Buch':'')))}
+function sourceSearchMatches(entry,words){return words.every(w=>sourceSearchKey([entry.title,entry.creator,entry.edition,entry.category,entry.collection,entry.post_summary].join(' ')).includes(w))}
 function sourceFilterOptions(){
+ const selected={category:$('source-category-filter').value,collection:$('source-collection-filter').value};
+ const words=sourceSearchKey($('source-search').value).trim().split(/\s+/).filter(Boolean);
  for(const [field,label] of [['category','Alle Kategorien'],['collection','Alle Sammlungen']]){
-  const select=$('source-'+field+'-filter'),old=select.value,counts=new Map();
-  for(const entry of sourceEntries){const value=entry[field]||'Nicht zugeordnet';counts.set(value,(counts.get(value)||0)+1)}
-  select.replaceChildren(new Option(label,''),...[...counts].sort((a,b)=>a[0].localeCompare(b[0],'de')).map(([value,count])=>new Option(value+' ('+count+')',value)));
+  const select=$('source-'+field+'-filter'),old=selected[field],other=field==='category'?'collection':'category';
+  const counts=new Map(sourceEntries.map(entry=>[entry[field]||'Nicht zugeordnet',0]));
+  for(const entry of sourceEntries){
+   if((!selected[other]||entry[other]===selected[other])&&sourceSearchMatches(entry,words)){
+    const value=entry[field]||'Nicht zugeordnet';counts.set(value,counts.get(value)+1);
+   }
+  }
+  const total=[...counts.values()].reduce((sum,count)=>sum+count,0);
+  select.replaceChildren(new Option(label+' ('+total+')',''),...[...counts].sort((a,b)=>a[0].localeCompare(b[0],'de')).map(([value,count])=>new Option(value+' ('+count+')',value)));
   if(counts.has(old))select.value=old;
  }
  $('source-category-options').replaceChildren(...[...new Set(sourceEntries.map(s=>s.category).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'de')).map(s=>new Option(s,s)));
 }
 function renderSourceOptions(){
+ sourceFilterOptions();
  const category=$('source-category-filter').value,collection=$('source-collection-filter').value;
  const words=sourceSearchKey($('source-search').value).trim().split(/\s+/).filter(Boolean);
- const matches=sourceEntries.filter(s=>(!category||s.category===category)&&(!collection||s.collection===collection)&&words.every(w=>sourceSearchKey([s.title,s.creator,s.edition,s.category,s.collection,s.post_summary].join(' ')).includes(w)));
+ const matches=sourceEntries.filter(s=>(!category||s.category===category)&&(!collection||s.collection===collection)&&sourceSearchMatches(s,words));
  const select=$('source-select');select.replaceChildren(new Option('Neue Quelle anlegen',''));
  const current=sourceEntries.find(s=>s.id===sourceSelected),pinned=current&&!matches.some(s=>s.id===sourceSelected);
  if(pinned){const group=document.createElement('optgroup');group.label='Aktuell geöffnet · außerhalb des Filters';group.append(new Option(current.title,current.id));select.append(group)}

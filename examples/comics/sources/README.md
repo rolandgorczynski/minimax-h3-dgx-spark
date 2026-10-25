@@ -255,3 +255,10 @@ Vorlagen**. Sammlungen wie Bechsteins Sagenbuch, Grimm, Andersen, Hauff oder
 nordische Mythen werden getrennt gefiltert. Die Einordnung startet keine Modelle,
 ändert keine Geschichten oder Bilder und verändert beim Lesen keine gespeicherten
 Quelltexte. Ein bearbeiteter Entwurf bleibt beim Filtern oder Neuladen erhalten.
+
+Die Zahlen neben Kategorien und Sammlungen berücksichtigen jeweils den anderen
+Filter und den Suchtext. Beispielsweise zeigt „Grimm – Sagen (0)“ bei ausgewählter
+Kategorie „Geister und Spuk“ keine passenden Vorlagen an; mit „Alle Kategorien“
+sind beide Grimm-Sagen verfügbar. Nulltreffer bleiben auswählbar, damit bestehende
+Filterkombinationen nachvollziehbar bleiben. Eine geöffnete Vorlage außerhalb
+der Trefferliste bleibt zum Schutz ungespeicherter Änderungen zusätzlich erhalten.

@@ -34,6 +34,18 @@ print(json.dumps([decorate(x) for x in entries],ensure_ascii=False))
   await page.addScriptTag({path:path.join(__dirname,'../automation/comics/source-generator.js')});
   await page.evaluate(async()=>{installSourceGenerator();await loadSources();document.getElementById('source-generator').open=true});
   assert((await page.locator('#source-result-count').textContent()).includes('1000 passende'));
+  await page.selectOption('#source-category-filter','Geister und Spuk');
+  assert.strictEqual(await page.locator('#source-collection-filter option[value="Grimm – Sagen"]').textContent(),'Grimm – Sagen (0)');
+  await page.selectOption('#source-collection-filter','Grimm – Sagen');
+  assert((await page.locator('#source-result-count').textContent()).startsWith('0 passende'));
+  assert.strictEqual(await page.locator('#source-category-filter').inputValue(),'Geister und Spuk');
+  await page.selectOption('#source-category-filter','');
+  assert((await page.locator('#source-result-count').textContent()).startsWith('2 passende'));
+  await page.locator('#source-search').fill('Rattenfänger');
+  assert.strictEqual(await page.locator('#source-collection-filter option[value="Grimm – Sagen"]').textContent(),'Grimm – Sagen (1)');
+  assert((await page.locator('#source-result-count').textContent()).startsWith('1 passende'));
+  await page.locator('#source-search').fill('');
+  await page.selectOption('#source-collection-filter','');
   const initial=await page.locator('#source-select').inputValue();
   await page.locator('#source-data').evaluate(el=>el.open=true);
   await page.locator('#source-text').fill('Meine ungespeicherte Bearbeitung bleibt erhalten.');
@@ -57,7 +69,7 @@ print(json.dumps([decorate(x) for x in entries],ensure_ascii=False))
   await page.click('#source-save');await page.waitForFunction(()=>document.getElementById('source-status').textContent.includes('Quelle gespeichert'));
   assert.strictEqual(await page.locator('#source-category').inputValue(),'Meine Sammlung');
   assert.strictEqual(await page.locator('#source-select').inputValue(),'neue-probe');
-  assert((await page.locator('#source-category-filter').textContent()).includes('Meine Sammlung (1)'));
+  assert((await page.locator('#source-category-filter').textContent()).includes('Meine Sammlung (0)'));
   assert.strictEqual(await page.evaluate(()=>sourceDraftChanged()),false);
   assert(!(await page.evaluate(()=>testRequests)).some(x=>x.url.includes('source-tasks')));
   assert.deepStrictEqual(errors,[]);
