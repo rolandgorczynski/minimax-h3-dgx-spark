@@ -23,6 +23,7 @@ print(json.dumps([decorate(x) for x in entries],ensure_ascii=False))
     window.testRequests.push({url,method});
     if(url==='/styles')return {json:async()=>({styles:['Ligne claire']})};
     if(url==='/sources'&&method==='GET')return {json:async()=>({sources:window.testEntries})};
+    if(url==='/source-tasks/completed-fixture'&&method==='GET')return {json:async()=>window.completedSourceTask};
     if(url==='/sources'&&method==='POST'){
      const old=window.testEntries.find(s=>s.id===value.id);
      const result={...value,id:value.id||'neue-probe',category:value.category||'Eigene Vorlagen',collection:old?.collection||'Eigene Quellen'};
@@ -71,7 +72,22 @@ print(json.dumps([decorate(x) for x in entries],ensure_ascii=False))
   assert.strictEqual(await page.locator('#source-select').inputValue(),'neue-probe');
   assert((await page.locator('#source-category-filter').textContent()).includes('Meine Sammlung (0)'));
   assert.strictEqual(await page.evaluate(()=>sourceDraftChanged()),false);
-  assert(!(await page.evaluate(()=>testRequests)).some(x=>x.url.includes('source-tasks')));
+  await page.evaluate(async()=>{
+   window.completedSourceTask={status:'completed',source_input:{source:{id:sourceSelected}},post_summary:'Eine geprüfte Zusammenfassung.',script:'TITEL: Eine Geistergeschichte\nKACHEL 1: Ein Reisender begegnet einem Geist.'};
+   sourceTask='completed-fixture';sourcePostDirty=false;sourceScriptDirty=false;
+   await pollSourceTask(sourceTask);
+  });
+  assert.strictEqual(await page.locator('#source-post_summary').inputValue(),'Eine geprüfte Zusammenfassung.');
+  assert((await page.locator('#source-script').inputValue()).includes('Eine Geistergeschichte'));
+  assert.strictEqual(await page.locator('#source-draft').isVisible(),true);
+  assert.strictEqual(await page.locator('#source-adopt').isEnabled(),true);
+  assert((await page.locator('#source-status').textContent()).startsWith('Skript bereit.'));
+  await page.locator('#source-post_summary').fill('Meine eigene Zusammenfassung.');
+  await page.locator('#source-script').fill('Meine eigene Skriptkorrektur.');
+  await page.evaluate(async()=>{sourceScriptDirty=true;await pollSourceTask(sourceTask)});
+  assert.strictEqual(await page.locator('#source-post_summary').inputValue(),'Meine eigene Zusammenfassung.');
+  assert.strictEqual(await page.locator('#source-script').inputValue(),'Meine eigene Skriptkorrektur.');
+  assert(!(await page.evaluate(()=>testRequests)).some(x=>x.url.includes('source-tasks')&&x.method!=='GET'));
   assert.deepStrictEqual(errors,[]);
   console.log('Browserprüfung bestanden: 1.000 Quellen, Themen, Sammlungen, Suche, Entwurfsschutz, Speichern; kein Generierungslauf.');
  }finally{await browser.close()}
