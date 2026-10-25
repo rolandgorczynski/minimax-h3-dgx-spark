@@ -972,3 +972,51 @@ im Format ihrer jeweiligen Felder. Hauptbilder, hohe Details und Filmstreifen
 werden dadurch unterschiedlich groß und füllen die vorgesehenen Bereiche.
 Die Textprüfung berücksichtigt die tatsächlichen Maße; alte Ausgaben bleiben
 erhalten. [Bedienung und Grenzen](../../docs/Comic_Adaptive_Kachelformate.md).
+
+## Direkt in einen Telegram-Kanal veröffentlichen
+
+Der Teilen-Dialog bietet **Auf Telegram veröffentlichen**. Zuerst fertigen Comic
+wählen, Titel und Begleittext prüfen, anschließend im Telegram-Dialog diesen
+Button klicken. Das Öffnen des Dialogs und das Prüfen des Kanals senden nichts.
+Nach erfolgreichem Versand erscheint ein Link zum veröffentlichten Beitrag.
+
+Einrichtung:
+
+1. In der lokalen, nicht versionierten `.env` den Bot-Token als `TELEGRAM_BOT`
+   hinterlegen. Compose reicht ihn ausschließlich an den Server als
+   `TELEGRAM_PUBLISH_BOT_TOKEN` weiter; kein Token im Browser oder Repository.
+2. Den Bot im gewünschten Kanal zum Administrator machen und das Recht
+   **Nachrichten veröffentlichen** vergeben.
+3. Im Telegram-Teilen-Dialog den Kanal als `@benutzername`, `https://t.me/benutzername`
+   oder numerische Kanal-ID eintragen und **Kanal speichern und prüfen** klicken.
+   Das Ziel wird lokal gespeichert und bleibt änderbar; kein Kanal ist im Code
+   festgelegt. Dieser Veröffentlichungsbot benötigt keine Chat-Allowlist und
+   aktiviert keinen Nachrichtentrigger.
+
+Die vorhandenen Comic-Seiten beziehungsweise Kacheln werden in ihrer Reihenfolge
+hochgeladen. Bis zu zehn Bilder bilden ein Album, ein verbleibendes Einzelbild
+wird als Foto gesendet. Titel, Begleittext und Quellenlink stehen beim ersten
+Album; mehr als 1.024 UTF-16-Einheiten erscheinen als separate Textnachricht vor
+den Bildern. Insgesamt maximal 4.096 UTF-16-Einheiten; zu lange Texte werden
+zurückgewiesen statt abgeschnitten. Die Telegram-App kann Fotos komprimieren;
+das originale PNG-Bildpaket bleibt zusätzlich herunterladbar. Technische PNG-Texte
+und Workflow-Metadaten werden vor der Übertragung entfernt.
+
+Ein erfolgreich veröffentlichter Comic wird für diesen Kanal nicht erneut
+versendet. Ein Versandversuch wird vor dem ersten Upload dauerhaft reserviert.
+Bei unklarer Antwort oder Teilversand verhindert diese Reservierung automatische
+Wiederholungen; zuerst den Kanal prüfen. Ein Wechsel des Zielkanals ist möglich.
+Noch offene Beschriftungs- oder Ausrüstungsfehler blockieren das Teilen weiterhin.
+
+Diese Funktion nutzt die normale Telegram Bot API ohne kostenpflichtige
+Broadcast-Option. Es gibt keine automatischen Posts, keine Zeitplanung und keine
+automatischen Änderungen oder Löschungen bereits veröffentlichter Beiträge.
+Die vorhandenen lokalen LLMs müssen für den Versand nicht aufgerufen werden.
+
+API (lokal authentifiziert):
+
+- `GET /telegram-publishing`: Konfiguration und Kanalrechte prüfen.
+- `PUT /telegram-publishing` mit `{"channel":"@mein_kanal"}`: Ziel prüfen und speichern.
+- `GET /jobs/ID/share/telegram`: Kanalstatus und bisherigen Versand anzeigen.
+- `POST /jobs/ID/share/telegram` mit `post_version` und `channel_id`: gespeicherten
+  Beitragstext und vorhandene Bilder ausdrücklich veröffentlichen.

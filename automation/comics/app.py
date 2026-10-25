@@ -21,7 +21,8 @@ from character_profiles import ALIGNMENTS, validate as validate_profile
 from comfy import ComfyError
 from feedback import CRITERIA, validate_feedback
 from local_llm import LocalOllama
-from telegram_trigger import TelegramTrigger
+from telegram_trigger import TelegramTrigger,TelegramError
+from telegram_publishing import Publisher
 
 LOG=logging.getLogger('comic-automation')
 
@@ -39,6 +40,7 @@ class Service:
             self.engine.llm=LocalOllama(os.getenv('OLLAMA_URL','http://host.docker.internal:11434'),self.store,
                 os.getenv('OLLAMA_TEXT_MODEL','gemma3:27b'),os.getenv('OLLAMA_CRITIC_MODEL','qwen3.6:35b-a3b'),
                 os.getenv('OLLAMA_VISION_MODEL','qwen3.6:35b-a3b'))
+        self.publisher=Publisher(self.store)
         self.stop=threading.Event();self.token=os.getenv('API_TOKEN','')
         try:self.telegram=TelegramTrigger(self.store,self.stop,os.getenv('TELEGRAM_BOT_TOKEN',''),os.getenv('TELEGRAM_ALLOWED_CHAT_IDS',''),os.getenv('COMIC_PUBLIC_URL','http://192.168.1.224:8090'))
         except ValueError:
@@ -148,7 +150,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path=unquote(urlsplit(self.path).path)
         if path=='/health':return self.reply(200,{'status':'ok'})
-        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js','/guided-reader.js','/style-library.js'):
+        if path in ('/','/character-editor.js','/speech-editor.js','/bubble-positioner.js','/panel-correction.js','/book-export.js','/source-generator.js','/series-editor.js','/experiments.js','/page-templates.js','/guided-reader.js','/style-library.js','/telegram-publish.js'):
             body=Path(__file__).with_name(path.lstrip('/') if path.endswith('.js') else 'index.html').read_bytes()
             self.send_response(200);self.send_header('Content-Type',('text/javascript' if path.endswith('.js') else 'text/html')+'; charset=utf-8')
             self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body);return
@@ -181,6 +183,10 @@ class Handler(BaseHTTPRequestHandler):
                 return self.reply(200,{**result,'alignments':ALIGNMENTS})
             except (ComfyError,OSError) as exc:return self.reply(502,{'error':str(exc)})
         if path=='/stories':return self.reply(200,{'stories':self.service.stories.list()})
+        if path=='/telegram-publishing':return self.reply(200,self.service.publisher.info(verify=True))
+        parts=path.strip('/').split('/')
+        if len(parts)==4 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2:]==['share','telegram']:
+            return self.reply(200,self.service.publisher.info(parts[1],verify=True))
         if path=='/telegram':return self.reply(200,self.service.telegram.info())
         if path=='/learning':return self.reply(200,self.service.store.learning_memory())
         if path=='/ready':
@@ -281,6 +287,16 @@ class Handler(BaseHTTPRequestHandler):
         if urlsplit(self.path).path in ('/sources','/source-tasks') or urlsplit(self.path).path.startswith('/source-tasks/'):
             return self.source_action()
         parts=unquote(urlsplit(self.path).path).strip('/').split('/')
+        if len(parts)==4 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2:]==['share','telegram']:
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=4096:raise ValueError('Ungültige Veröffentlichungsdaten.')
+                value=json.loads(self.rfile.read(size));job=self.service.store.get(parts[1])
+                if not job:return self.reply(404,{'error':'Ausgabe nicht gefunden.'})
+                with self.service.stories.lock:result=self.service.publisher.publish(job,value)
+                return self.reply(200,result)
+            except (ValueError,TypeError,OSError,TelegramError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='experiment':
             if not self.authorized():return
             try:
@@ -380,6 +396,13 @@ class Handler(BaseHTTPRequestHandler):
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         self.create(False)
     def do_PUT(self):
+        if urlsplit(self.path).path=='/telegram-publishing':
+            if not self.authorized():return
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=4096:raise ValueError('Ungültige Kanaleinstellung.')
+                return self.reply(200,self.service.publisher.configure(json.loads(self.rfile.read(size))))
+            except (ValueError,TypeError,TelegramError) as exc:return self.reply(400,{'error':str(exc)})
         if urlsplit(self.path).path.startswith('/source-tasks/'):
             return self.source_action()
         parts=urlsplit(self.path).path.strip('/').split('/')

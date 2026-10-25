@@ -44,16 +44,19 @@ class BotAPI:
         self.token=token
         self.opener=urllib.request.build_opener(urllib.request.ProxyHandler({}))
 
-    def call(self,method,data=None,file=None):
-        if method not in ('getMe','getWebhookInfo','getUpdates','sendMessage','sendDocument'):raise ValueError('Telegram-Methode nicht erlaubt.')
+    def call(self,method,data=None,file=None,files=None):
+        if method not in ('getMe','getWebhookInfo','getUpdates','sendMessage','sendDocument','getChat','getChatMember','sendPhoto','sendMediaGroup'):raise ValueError('Telegram-Methode nicht erlaubt.')
         data=data or {};headers={}
-        if file:
-            path=Path(file)
-            if path.stat().st_size>49_000_000:raise TelegramError('Comic zu groß für Telegram; bitte in der Oberfläche herunterladen.',3600)
+        if file or files:
+            uploads=files or {'document':Path(file)}
+            if any(Path(path).stat().st_size>49_000_000 for path in uploads.values()):raise TelegramError('Comic zu groß für Telegram; bitte in der Oberfläche herunterladen.',3600)
             boundary='comic-'+uuid.uuid4().hex;parts=[]
             for key,value in data.items():parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="{key}"\r\n\r\n{value}\r\n'.encode())
-            parts.extend([f'--{boundary}\r\nContent-Disposition: form-data; name="document"; filename="comic.png"\r\nContent-Type: image/png\r\n\r\n'.encode(),path.read_bytes(),f'\r\n--{boundary}--\r\n'.encode()])
-            payload=b''.join(parts);headers['Content-Type']='multipart/form-data; boundary='+boundary
+            for key,path in uploads.items():
+                if not re.fullmatch(r'[A-Za-z0-9_]+',key):raise ValueError('Ungültiges Upload-Feld.')
+                path=Path(path);suffix='.jpg' if path.suffix.lower() in ('.jpg','.jpeg') else '.png';mime='image/jpeg' if suffix=='.jpg' else 'image/png'
+                parts.extend([f'--{boundary}\r\nContent-Disposition: form-data; name="{key}"; filename="comic{suffix}"\r\nContent-Type: {mime}\r\n\r\n'.encode(),path.read_bytes(),b'\r\n'])
+            parts.append(f'--{boundary}--\r\n'.encode());payload=b''.join(parts);headers['Content-Type']='multipart/form-data; boundary='+boundary
         else:payload=json.dumps(data).encode();headers['Content-Type']='application/json'
         request=urllib.request.Request('https://api.telegram.org/bot'+self.token+'/'+method,data=payload,headers=headers)
         try:
