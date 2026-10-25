@@ -5,6 +5,7 @@ import os
 import re
 import tempfile
 import threading
+import time
 from pathlib import Path
 from PIL import Image
 import sharing
@@ -53,6 +54,15 @@ class Publisher:
             if ident:result['publication']=self.store.integration_get(self.record_key(ident,saved['channel_id']))
         return result
 
+    def send(self,method,data,**kwargs):
+        try:return self.api.call(method,data,**kwargs)
+        except TelegramError as exc:
+            # Nur eine ausdrückliche Ablehnung wegen Ratenlimit darf wiederholt werden.
+            # Bei Zeitüberschreitung ist unbekannt, ob Telegram bereits gesendet hat.
+            if exc.http_status!=429 or exc.retry_after>60:raise
+            time.sleep(exc.retry_after)
+            return self.api.call(method,data,**kwargs)
+
     def prepare_photo(self,data):
         with Image.open(io.BytesIO(data)) as source:
             image=source.convert('RGB');width,height=image.size
@@ -99,14 +109,15 @@ class Publisher:
                     self.store.integration_set(key,record)
                 try:
                     long_text=units>1024
-                    if long_text:remember(self.api.call('sendMessage',{'chat_id':target['channel_id'],'text':text}))
+                    if long_text:remember(self.send('sendMessage',{'chat_id':target['channel_id'],'text':text}))
                     for offset in range(0,len(paths),10):
+                        if long_text or offset:time.sleep(1.1)
                         batch=paths[offset:offset+10];caption=(info['title'] if long_text else text) if offset==0 else ''
                         if len(batch)==1:
-                            remember(self.api.call('sendPhoto',{'chat_id':target['channel_id'],'caption':caption},files={'photo':batch[0]}))
+                            remember(self.send('sendPhoto',{'chat_id':target['channel_id'],'caption':caption},files={'photo':batch[0]}))
                         else:
                             media=[{'type':'photo','media':'attach://image'+str(i),**({'caption':caption} if i==0 and caption else {})} for i in range(len(batch))]
-                            remember(self.api.call('sendMediaGroup',{'chat_id':target['channel_id'],'media':json.dumps(media,ensure_ascii=False)},files={'image'+str(i):path for i,path in enumerate(batch)}))
+                            remember(self.send('sendMediaGroup',{'chat_id':target['channel_id'],'media':json.dumps(media,ensure_ascii=False)},files={'image'+str(i):path for i,path in enumerate(batch)}))
                     record['status']='sent';self.store.integration_set(key,record);return record
                 except Exception:
                     record['status']='uncertain';record['error']='Versand nicht vollständig bestätigt. Vor einem erneuten Versand den Kanal prüfen.';self.store.integration_set(key,record)

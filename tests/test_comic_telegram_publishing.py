@@ -70,6 +70,16 @@ class PublishingTests(unittest.TestCase):
             with patch('sharing.manifest',return_value=manifest):
                 with self.assertRaises(ValueError):self.publish(pub,job)
             self.assertFalse(any(c[0].startswith('send') for c in api.calls));self.assertIsNone(pub.info(job['id'])['publication'])
+    def test_only_explicit_rate_limit_is_retried(self):
+        with tempfile.TemporaryDirectory() as root:
+            store,api,pub,job,manifest,data=self.fixture(root)
+            with patch.object(api,'call',side_effect=[TelegramError('Ratenlimit',10,http_status=429),{'message_id':1}]) as call,patch('telegram_publishing.time.sleep') as sleep:
+                self.assertEqual(pub.send('sendMessage',{'text':'Test'}),{'message_id':1})
+                self.assertEqual(call.call_count,2);sleep.assert_called_once_with(10)
+            with patch.object(api,'call',side_effect=TelegramError('Unklare Antwort')) as call:
+                with self.assertRaises(TelegramError):pub.send('sendMessage',{'text':'Test'})
+                self.assertEqual(call.call_count,1)
+
     def test_album_transport_uploads_separate_named_files(self):
         from telegram_trigger import BotAPI
         from types import SimpleNamespace

@@ -35,7 +35,7 @@ def parse_message(text):
 
 
 class TelegramError(RuntimeError):
-    def __init__(self,message,retry_after=30):super().__init__(message);self.retry_after=retry_after
+    def __init__(self,message,retry_after=30,http_status=None):super().__init__(message);self.retry_after=retry_after;self.http_status=http_status
 
 
 class BotAPI:
@@ -65,7 +65,7 @@ class BotAPI:
             try:value=json.loads(exc.read(10000))
             except (ValueError,UnicodeError):value={}
             description=str(value.get('description','Telegram HTTP '+str(exc.code))).replace(self.token,'[redacted]')[:300]
-            raise TelegramError(description,max(10,min(3600,int(value.get('parameters',{}).get('retry_after',30))))) from None
+            raise TelegramError(description,max(10,min(3600,int(value.get('parameters',{}).get('retry_after',30)))),http_status=exc.code) from None
         except Exception:
             # Never expose urllib's URL: it contains the token.
             raise TelegramError('Telegram nicht erreichbar oder ungültige Antwort.') from None

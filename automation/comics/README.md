@@ -1005,7 +1005,10 @@ und Workflow-Metadaten werden vor der Übertragung entfernt.
 Ein erfolgreich veröffentlichter Comic wird für diesen Kanal nicht erneut
 versendet. Ein Versandversuch wird vor dem ersten Upload dauerhaft reserviert.
 Bei unklarer Antwort oder Teilversand verhindert diese Reservierung automatische
-Wiederholungen; zuerst den Kanal prüfen. Ein Wechsel des Zielkanals ist möglich.
+Wiederholungen; zuerst den Kanal prüfen. Ein Wechsel des Zielkanals ist möglich. Zwischen Alben liegt eine kurze Pause.
+Ein ausdrücklich von Telegram abgelehnter Aufruf mit HTTP 429 wird einmal nach
+der angegebenen Wartezeit wiederholt, sofern sie höchstens 60 Sekunden beträgt.
+Unklare Netzwerkantworten werden niemals automatisch wiederholt.
 Noch offene Beschriftungs- oder Ausrüstungsfehler blockieren das Teilen weiterhin.
 
 Diese Funktion nutzt die normale Telegram Bot API ohne kostenpflichtige
