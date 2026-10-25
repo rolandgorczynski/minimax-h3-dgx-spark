@@ -1,0 +1,1114 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-25",
+  "source_input": "vips.md",
+  "characters": [
+    {
+      "name": "Donald Trump",
+      "description": "Helles, seitlich gekämmtes Haar, markante Augenbrauen und breites Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkelblauer Anzug, weißes Hemd und rote Krawatte.",
+      "backstory": "US-amerikanischer Politiker und Unternehmer. Er war von 2017 bis 2021 US-Präsident und ist seit 2025 erneut Präsident.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.whitehouse.gov/administration/donald-j-trump/"
+      ],
+      "reference": {
+        "filename": "donald-trump.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+        "artist": "Daniel Torok",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "2025-06-02",
+        "credit": "White House Facebook",
+        "sha256": "436f198ec6799261950c6579c919b09720111286da465f6766685435f40c5efd",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Wladimir Putin",
+      "description": "Kurzes hellgraues Haar, hoher Haaransatz und glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und dunkle gemusterte Krawatte.",
+      "backstory": "Russischer Politiker und ehemaliger KGB-Offizier. Seit 1999 bekleidet er führende Regierungsämter in Russland; seit 2012 ist er erneut Präsident.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://en.putin.kremlin.ru/"
+      ],
+      "reference": {
+        "filename": "wladimir-putin.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2026_02_23)_(cropped).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg",
+        "artist": "Kremlin.ru",
+        "attribution": "Kremlin.ru",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "reference_date": "2026-02-23",
+        "credit": "http://en.kremlin.ru/events/president/news/79211/photos",
+        "sha256": "0c761085bcbd52ed72bb3fd568d51e245e114c34c79635bf2932dda2fb1e108c",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Ursula von der Leyen",
+      "description": "Kurzes blondes, nach hinten gelegtes Haar, schmales Gesicht und helle Augen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Heller Blazer, cremefarbene Bluse und schlichte Halskette.",
+      "backstory": "Deutsche Ärztin und CDU-Politikerin. Sie war Bundesministerin, unter anderem für Verteidigung, und ist seit 2019 Präsidentin der Europäischen Kommission. 2024 begann ihre zweite Amtszeit.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://commission.europa.eu/about/organisation/president_en"
+      ],
+      "reference": {
+        "filename": "ursula-von-der-leyen.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen_2024.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/960px-Ursula_von_der_Leyen_2024.jpg",
+        "artist": "European People's Party",
+        "attribution": "",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "reference_date": "2024-03-27 14:47",
+        "credit": "EPP Lead Candidate Multimedia Content",
+        "sha256": "2ee01a0d3d333dba9dd153ee28a5e626710f9e720e59834a6ce0c3f5e1a64ff8",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Alice Weidel",
+      "description": "Blondes zurückgebundenes Haar, hohe Stirn und längliches Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Weißer Blazer und helles Oberteil.",
+      "backstory": "Deutsche Ökonomin und AfD-Politikerin. Sie arbeitete vor ihrem Einstieg in die Politik im Finanzsektor, gehört seit 2017 dem Bundestag an und ist seit 2022 AfD-Co-Vorsitzende.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.bundestag.de/abgeordnete/biografien/W/weidel_alice-1048026"
+      ],
+      "reference": {
+        "filename": "alice-weidel.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Alice_Weidel_at_CPAC_Hungary.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg/960px-Alice_Weidel_at_CPAC_Hungary.jpg",
+        "artist": "Elekes Andor",
+        "attribution": "",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "reference_date": "2025-05-30 09:33:24",
+        "credit": "Own work",
+        "sha256": "9baf2ff36da025bfa3143cf6516ba4f5fe3faa9af5e3b0cf5b07ab122ef5d71c",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Emmanuel Macron",
+      "description": "Kurzes braunes Haar mit Seitenscheitel, schmale Nase und glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkelblauer Anzug, weißes Hemd und dunkelblaue gepunktete Krawatte.",
+      "backstory": "Französischer Politiker. Vor seiner politischen Laufbahn arbeitete er im Finanzsektor und war Wirtschaftsminister. Seit 2017 ist er Präsident Frankreichs; 2022 wurde er wiedergewählt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.elysee.fr/en/emmanuel-macron"
+      ],
+      "reference": {
+        "filename": "emmanuel-macron.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+        "artist": "Nebojša Tejić",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "2025-10-21 04:41:22",
+        "credit": "https://www.flickr.com/photos/141163381@N04/54869784798/",
+        "sha256": "8a039dcd6586ec46be88156fe1e25f618d041e48a61a767a2db22f0a81a794d6",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Friedrich Merz",
+      "description": "Kurzes graues Haar, hoher Haaransatz und dunkle runde Brille. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Blauer Anzug, weißes Hemd und hellblaue Krawatte.",
+      "backstory": "Deutscher Jurist und CDU-Politiker. Er war Abgeordneter im Europäischen Parlament und im Bundestag sowie Vorsitzender der CDU/CSU-Bundestagsfraktion. Seit dem 6. Mai 2025 ist er Bundeskanzler.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/friedrich-merz-2342660"
+      ],
+      "reference": {
+        "filename": "friedrich-merz.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/960px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+        "artist": "Steffen Prößdorf",
+        "attribution": "Steffen Prößdorf",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "reference_date": "2024-08-21",
+        "credit": "Self-photographed",
+        "sha256": "c40b2414a3fa0959b2984dcf1c67e40a1c9295e184f86927a2caca0a5ba86f22",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Xi Jinping",
+      "description": "Dichtes dunkles, seitlich gekämmtes Haar und rundliches glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und dezente violette Krawatte.",
+      "backstory": "Chinesischer Politiker und Generalsekretär der Kommunistischen Partei Chinas. Seit 2013 ist er Präsident der Volksrepublik China.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://english.www.gov.cn/Homepage/202210/24/content_WS641af593c6d0f528699db898.html"
+      ],
+      "reference": {
+        "filename": "xi-jinping.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_visits_China_(55066713683)_(cropped%2Bangle).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/960px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
+        "artist": "Simon Dawson / No 10 Downing Street",
+        "attribution": "",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "reference_date": "2026-01-29 03:01",
+        "credit": "Prime Minister Keir Starmer visits China",
+        "sha256": "f7b8f8e1e209d75f75bce4f0cef3bc4313cbc5fba932b60ed95f34090ec2d1a0",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Keir Starmer",
+      "description": "Kurzes silbergraues Haar, dunkle rechteckige Brille und glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und weinrote Krawatte.",
+      "backstory": "Britischer Jurist und Labour-Politiker. Er war von Juli 2024 bis Juli 2026 Premierminister des Vereinigten Königreichs und schied anschließend aus dem Amt aus.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.gov.uk/government/people/keir-starmer"
+      ],
+      "reference": {
+        "filename": "keir-starmer.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_Portrait_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg",
+        "artist": "Prime Minister's Office",
+        "attribution": "Simon Dawson / No 10 Downing Street",
+        "license": "OGL 3",
+        "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+        "reference_date": "Taken on 5 July 2024, 13:51:31 (according to Exif data)",
+        "credit": "This image has been extracted from another file",
+        "sha256": "4ec582795d0eb07468efdf80751388a4a31f9ac120685afacfceae9264b05ce7",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Giorgia Meloni",
+      "description": "Schulterlanges gewelltes blondes Haar mit dunklerem Ansatz und ovales Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Beigefarbener Blazer und heller Pullover.",
+      "backstory": "Italienische Politikerin und frühere Journalistin. Sie führt die Partei Fratelli d’Italia und ist seit 2022 Ministerpräsidentin Italiens.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.governo.it/en/governo/meloni/president-council-ministers/giorgia-meloni"
+      ],
+      "reference": {
+        "filename": "giorgia-meloni.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
+        "artist": "Governo Italiano",
+        "attribution": "governo.it",
+        "license": "CC BY 3.0 it",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/it/deed.en",
+        "reference_date": "2025-03-10",
+        "credit": "www.governo.it , for the license see here",
+        "sha256": "dd959af53e8141908d2b47a0ab76d86feebd28703ba86ed6345066561cce7330",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Pedro Sánchez",
+      "description": "Kurzes dunkelgraues Haar und markante dunkle Augenbrauen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkelblauer Anzug, weißes Hemd und rote Krawatte.",
+      "backstory": "Spanischer Politiker der Sozialistischen Arbeiterpartei (PSOE). Er war Parteivorsitzender und ist seit 2018 Ministerpräsident Spaniens.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.lamoncloa.gob.es/lang/en/paginas/index.aspx"
+      ],
+      "reference": {
+        "filename": "pedro-sanchez.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_2026_Portrait_(3x4_cropped).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pedro_S%C3%A1nchez_2026_Portrait_%283x4_cropped%29.jpg",
+        "artist": "Pool Moncloa/ Carlos Spottorno de las Morenas",
+        "attribution": "Ministry of the Presidency. Government of Spain",
+        "license": "Attribution",
+        "license_url": "https://www.lamoncloa.gob.es/lang/en/aviso-legal/Paginas/index.aspx",
+        "reference_date": "2026-02-11",
+        "credit": "La Moncloa",
+        "sha256": "ffb6d9c54223b35cdba41c3f6b59830924f27f838615f8d86db508cb724c0c86",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Recep Tayyip Erdoğan",
+      "description": "Kurzes graues Haar, hoher Haaransatz und schmaler grauer Schnurrbart. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkelblauer Anzug, hellblaues Hemd und gelbe gemusterte Krawatte.",
+      "backstory": "Türkischer Politiker. Er war Bürgermeister von Istanbul und Ministerpräsident der Türkei. Seit 2014 ist er Präsident der Türkei.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.tccb.gov.tr/en/"
+      ],
+      "reference": {
+        "filename": "recep-tayyip-erdogan.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_%28cropped%29.jpg/960px-Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_%28cropped%29.jpg",
+        "artist": "Rory Arnold",
+        "attribution": "",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "reference_date": "2024-01-26 12:14:41",
+        "credit": "https://www.flickr.com/photos/ukgov/53488658156/",
+        "sha256": "10bdf055530fab5bccaf0b06c630b60e72c148444a4f0d0b3526c66a6ff84ae4",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Benjamin Netanjahu",
+      "description": "Kurzes silbergraues Haar und breites glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und blaue Krawatte.",
+      "backstory": "Israelischer Politiker und Vorsitzender der Likud-Partei. Er vertrat Israel als Botschafter bei den Vereinten Nationen und war mehrfach Ministerpräsident; seit 2022 ist er erneut im Amt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://main.knesset.gov.il/EN/About/Lexicon/Pages/netanyahu.aspx"
+      ],
+      "reference": {
+        "filename": "benjamin-netanjahu.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023_(cropped)(b).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/960px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg",
+        "artist": "Avi Ohayon",
+        "attribution": "Avi Ohayon / Government Press Office of Israel",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "reference_date": "2023-02-01",
+        "credit": "Government Press Office of Israel",
+        "sha256": "53b855dbc7bfe8d7911b7ad64c05148a186d4f069f58c674a203180871b7f49d",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Wolodymyr Selenskyj",
+      "description": "Kurzes dunkles Haar und kurzer dunkler Vollbart. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Schwarzer Pullover mit dezentem geometrischem Muster.",
+      "backstory": "Ukrainischer Politiker und ehemaliger Schauspieler und Fernsehproduzent. Er wurde 2019 zum Präsidenten der Ukraine gewählt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.president.gov.ua/en/president/biografiya"
+      ],
+      "reference": {
+        "filename": "wolodymyr-selenskyj.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg",
+        "artist": "Press Service of the President of Ukraine",
+        "attribution": "President.gov.ua",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "reference_date": "2025-12-31",
+        "credit": "Новорічне привітання Президента України Володимира Зеленського (CC BY 4.0)",
+        "sha256": "0611f27f1299dfc1098da41a8f5068eb4b1676e37463d4fd803c8aae1cf76af7",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Narendra Modi",
+      "description": "Kurzes weißes Haar, voller weißer Bart und randlose Brille. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Helle strukturierte Weste mit Stehkragen über weißem langärmeligem Oberteil.",
+      "backstory": "Indischer Politiker der Bharatiya Janata Party (BJP). Vor seiner nationalen politischen Laufbahn war er Ministerpräsident des Bundesstaates Gujarat. Seit 2014 ist er Premierminister Indiens.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.pmindia.gov.in/en/personal_life_story/personal-life-story/"
+      ],
+      "reference": {
+        "filename": "narendra-modi.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_Portrait_2026.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Narendra_Modi_Portrait_2026.jpg",
+        "artist": "Prime Minister's Office",
+        "attribution": "Prime Minister's Office ( GODL-India )",
+        "license": "GODL-India",
+        "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "reference_date": "2026-08-20",
+        "credit": "https://x.com/narendramodi/photo",
+        "sha256": "d665d14a5383b81f03fd91a48e8d4664915a835462a4a62f42091201944d48d4",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Elon Musk",
+      "description": "Kurzes braunes, seitlich gekämmtes Haar, hohe Stirn und glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und schwarze Krawatte.",
+      "backstory": "Unternehmer und Technologieunternehmer, kein gewählter Politiker. Er gründete oder leitet Unternehmen wie SpaceX und Tesla und übernahm 2022 Twitter, das später in X umbenannt wurde. Durch seine öffentliche politische Unterstützung ist er auch politisch einflussreich.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://ir.tesla.com/corporate/elon-musk"
+      ],
+      "reference": {
+        "filename": "elon-musk.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(3x4_cropped,_Rule_of_thirds).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg/960px-Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg",
+        "artist": "Gage Skidmore",
+        "attribution": "",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "reference_date": "2025-09-21 12:59:20",
+        "credit": "https://www.flickr.com/photos/gageskidmore/54820081119/",
+        "sha256": "6d818f96d32de7de579a1fa00ba3e96f8c50821bc4fe7f730db645def1581e92",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Adolf Hitler",
+      "description": "Dunkles Haar mit deutlichem Seitenscheitel und kleinem rechteckigem Oberlippenbart. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Schlichter dunkler historischer Anzug, weißes Hemd und dunkle Krawatte; keine Parteiabzeichen.",
+      "backstory": "Diktator des nationalsozialistischen Deutschlands von 1933 bis 1945. Seine Herrschaft führte zur Zerstörung der Demokratie, zum Zweiten Weltkrieg und zum Holocaust.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://encyclopedia.ushmm.org/content/en/article/adolf-hitler"
+      ],
+      "reference": {
+        "filename": "adolf-hitler.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop_(cropped)(2).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/960px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+        "artist": "Heinrich Hoffmann",
+        "attribution": "Bundesarchiv, Bild 183-H1216-0500-002 / CC-BY-SA",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "reference_date": "1938",
+        "credit": "This is a retouched picture , which means that it has been digitally altered from its original version. Modifications: 3:4 portrait crop, some dust and scratches removed, contrast/brightness changed . The original can be viewed here: Bundesarchiv Bild 183-H1216-0500-002, Adolf Hitler.jpg : . Modifications made by Notwist .",
+        "sha256": "cb1b61c0b6ae0212c21eb0c51bb5f19d08b92eca34e9128340b01a074390eaad",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Josef Stalin",
+      "description": "Dichtes nach hinten gekämmtes dunkles Haar und kräftiger Schnurrbart. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Graue historische Jacke mit Stehkragen und passende Schirmmütze.",
+      "backstory": "Diktator der Sowjetunion von den späten 1920er-Jahren bis zu seinem Tod 1953. Seine Herrschaft war von Zwangskollektivierung, politischer Verfolgung, Säuberungen und staatlicher Gewalt geprägt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Joseph-Stalin"
+      ],
+      "reference": {
+        "filename": "josef-stalin.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg",
+        "artist": "Franklin D. Roosevelt Library Public Domain Photographs",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1943-11-28",
+        "credit": "https://www.flickr.com/photos/fdrlibrary/5692883651/in/photolist-9F4vYp-22ae5pb-pJ7JqW-K3WmE1-aLPLs-6Vabay-NqPyuh-HWjDm-c6vbJb-6nB5GV-2nz3Z3L-2ng3EXs-jPHsby-2mjXbtV-2mk35mZ-2mk1R6S-N3mAhq-badiTV-Tbz48z-8FEJKL-cW5Ai3-6DbnWC-2mk2hny-8r4J3U-rf4YtS-2mk2dbs-Pc4H6w-c7JERw-2mjTwCr-2mk2fmV-2mk33V2-2mjYipt-2mk27yL-c6v3hU-puHocy-2mjXmTY-2mjYHHd-2mk23wn-2mjTgEF-2mjTmiZ-2mk3cUj-2mk23vR-2mjYxkK-2mjX2vj-2mjTfnq-2mk3746-2mjYpQV-2mk33Uv-9qqUDz-2mawZaz",
+        "sha256": "85792dcd1a4ab5c3a69f2e03f735087c8f266ecbb6445f8cb19f8c2914b78bf8",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "description": "Kurzes dunkles Haar, hoher Haaransatz und schmale Gesichtszüge. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Weiße historische Uniform, dunkler Kragen, goldene Schulterstücke und rote Schärpe nach der Gemäldevorlage.",
+      "backstory": "Französischer Militärführer und Staatsmann. Nach der Französischen Revolution stieg er zur Macht auf, wurde Kaiser der Franzosen und veränderte durch seine Kriege und Reformen Europa.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Napoleon-I"
+      ],
+      "reference": {
+        "filename": "napoleon-bonaparte.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/960px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+        "artist": "Jacques-Louis David",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1812 date QS:P571,+1812-00-00T00:00:00Z/9",
+        "credit": "zQEbF0AA9NhCXQ at Google Cultural Institute maximum zoom level",
+        "sha256": "3a0abe0e6112897e440bfdf434ef8c9a81f708d67032e13afe4ef319a64f8876",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Winston Churchill",
+      "description": "Lichter werdendes Haar, rundes Gesicht und kräftige Wangen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Dreiteiler, weißes Hemd und dunkle Fliege.",
+      "backstory": "Britischer Politiker und Schriftsteller. Als Premierminister führte er Großbritannien während eines großen Teils des Zweiten Weltkriegs. 1953 erhielt er den Nobelpreis für Literatur.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.nobelprize.org/prizes/literature/1953/churchill/facts/"
+      ],
+      "reference": {
+        "filename": "winston-churchill.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/960px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+        "artist": "Urheber unbekannt laut Commons-Dateiseite",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "30 December 1941",
+        "credit": "Flickr : Sir Winston Churchill",
+        "sha256": "699695c8d657a5ff3089bff08ee9f2a6d2ea36f2dfa0a3b67c7ac1afb2edbe9f",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "description": "Seitlich gekämmtes dunkles Haar mit grauen Schläfen und längliches Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Nadelstreifenanzug, weißes Hemd und blaue Krawatte.",
+      "backstory": "US-amerikanischer Politiker und Präsident von 1933 bis 1945. Er führte die USA während der Weltwirtschaftskrise und eines großen Teils des Zweiten Weltkriegs.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.fdrlibrary.org/fdr-biography"
+      ],
+      "reference": {
+        "filename": "franklin-d-roosevelt.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/960px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+        "artist": "Leon Perskie",
+        "attribution": "",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "reference_date": "21 August 1944 date QS:P571,+1944-08-21T00:00:00Z/11",
+        "credit": "Flickr (FDR Presidential Library & Museum) – Info – Pic",
+        "sha256": "376836e7e8ce76cda60e9ecceee8db79043e0360cdaf42d719bec3edafb50323",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Mao Zedong",
+      "description": "Zurückgekämmtes dunkles Haar mit hohem Haaransatz und rundes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Graue Jacke mit geschlossenem Stehkragen.",
+      "backstory": "Revolutionär und führender Politiker der Kommunistischen Partei Chinas. Nach der Gründung der Volksrepublik 1949 prägte er deren Politik bis zu seinem Tod 1976.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Mao-Zedong"
+      ],
+      "reference": {
+        "filename": "mao-zedong.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mao_Zedong_1950_Portrait_(3x4_cropped)(2).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg",
+        "artist": "Chen Zhengqing (1917–1966)",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1950-11-10",
+        "credit": "https://newsroom.ap.org/editorial-photos-videos/detail?itemid=dfab0b3b1ce5da11af9f0014c2589dfb&mediatype=photo",
+        "sha256": "bb03b508bbc98292e9ff3b558845cfe85c5b31bd9e1f0a30309d5243b2ccf252",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "description": "Kahler Kopf, runde Drahtbrille und schmaler Schnurrbart. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Weißes Tuch über Schulter und Oberkörper sowie schlichtes helles Wickelgewand.",
+      "backstory": "Indischer Jurist und Unabhängigkeitsführer. Er wurde für den gewaltfreien Widerstand gegen die britische Kolonialherrschaft bekannt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Mahatma-Gandhi"
+      ],
+      "reference": {
+        "filename": "mahatma-gandhi.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/960px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+        "artist": "Elliott & Fry",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1931",
+        "credit": "philogalichet.fr ( context )",
+        "sha256": "48b36530402cb3c145fae6cd539d16a589010286c00bdca55816c9a671c2a240",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Nelson Mandela",
+      "description": "Kurzes grau meliertes, lockiges Haar und markante Wangenknochen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkles Jackett, weißes Hemd und gemusterte Krawatte.",
+      "backstory": "Südafrikanischer Anti-Apartheid-Aktivist und Politiker. Nach 27 Jahren Haft wurde er 1994 zum ersten schwarzen Präsidenten Südafrikas gewählt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.nelsonmandela.org/content/page/biography"
+      ],
+      "reference": {
+        "filename": "nelson-mandela.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/960px-Nelson_Mandela_1994.jpg",
+        "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel",
+        "attribution": "© copyright John Mathew Smith 2001",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "reference_date": "Taken on 4 October 1994",
+        "credit": "Flickr : NELSON MANDELA",
+        "sha256": "3ab3cb48e0700700c88632e7b8635a729ee9ebb5cb075ef49f94cb85b588cfe2",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "description": "Kurzes dunkles Haar, schmaler Schnurrbart und rundliches Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und schlichte dunkle Krawatte.",
+      "backstory": "US-amerikanischer Pastor und Bürgerrechtsführer. Er setzte sich mit gewaltfreiem Protest für die Gleichberechtigung schwarzer US-Amerikaner ein und erhielt 1964 den Friedensnobelpreis.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.nobelprize.org/prizes/peace/1964/king/biographical/"
+      ],
+      "reference": {
+        "filename": "martin-luther-king-jr.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King,_Jr._and_Lyndon_Johnson_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg/960px-Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg",
+        "artist": "Yoichi Okamoto",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1966-03-18",
+        "credit": "Lyndon Baines Johnson Library and Museum. Image Serial Number: A2133-10. http://photolab.lbjlib.utexas.edu/detail.asp?id=1083",
+        "sha256": "0a458a3f827c67a46b7764767e3e71ecd4c5cb9951fce106d95cf578c238a3c3",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "John F. Kennedy",
+      "description": "Dichtes braunes Haar mit Seitenscheitel und markante Kinnpartie. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler Anzug, weißes Hemd und dunkle Krawatte.",
+      "backstory": "US-amerikanischer Politiker und Präsident von 1961 bis zu seiner Ermordung 1963. Seine Amtszeit fiel in eine besonders spannungsreiche Phase des Kalten Krieges.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.jfklibrary.org/learn/about-jfk/life-of-john-f-kennedy"
+      ],
+      "reference": {
+        "filename": "john-f-kennedy.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+        "artist": "Cecil W. Stoughton",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1963-07-11",
+        "credit": "This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+        "sha256": "f77666363ff6a677489cdcd00b2f514916bde6fbaea86cce427b2c47d8b90037",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Julius Caesar",
+      "description": "Lichter werdendes kurzes Haar, hoher Haaransatz, ausgeprägte Stirnfalten und schmale Lippen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Helle römische Tunika und Toga. Die Büste dient als Gesichtsvorlage; lebendiger Mensch, kein steinerner Körper.",
+      "backstory": "Römischer Feldherr und Politiker. Seine militärischen Siege und politischen Machtkämpfe trugen zum Ende der Römischen Republik bei. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler"
+      ],
+      "reference": {
+        "filename": "julius-caesar.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/960px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+        "artist": "Ángel M. Felicísimo from Mérida, España",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "",
+        "credit": "Retrato de Julio César",
+        "sha256": "45018a214134d722297351d22074e5ade32d486a1b0d9e63fff99251f8138348",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Kleopatra VII.",
+      "description": "Gewelltes zurückgenommenes Haar, schmale Nase und feine Gesichtszüge nach der antiken Büste. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Helles antikes Gewand und schlichtes Diadem. Die Büste dient als Gesichtsvorlage; lebendiger Mensch.",
+      "backstory": "Königin des ptolemäischen Ägyptens. Sie regierte in einer Zeit römischer Expansion und ist unter anderem durch ihre politischen Beziehungen zu Julius Caesar und Marcus Antonius bekannt. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+      ],
+      "reference": {
+        "filename": "kleopatra-vii.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/960px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+        "artist": "Louis le Grand",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "40-30 v. Chr. / 40-30 BC / spätptolemäisch / late Ptolemaic dynasty",
+        "credit": "own work / Altes Museum Berlin (Berliner Museumsinsel)",
+        "sha256": "8bc6f6dc405073486b5e319c3e821e8889663ae36c13bdf173f7431284200685",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Alexander der Große",
+      "description": "Lockiges braunes Haar, jugendliches Gesicht und kräftige Nase nach der Mosaikvorlage. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Antiker Brustpanzer und rötlicher Umhang nach der Bildvorlage.",
+      "backstory": "König von Makedonien und Feldherr des 4. Jahrhunderts v. Chr. Seine Eroberungen schufen ein Reich, das sich von Griechenland bis nach Ägypten und in Teile Asiens erstreckte. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Alexander-the-Great"
+      ],
+      "reference": {
+        "filename": "alexander-der-groe.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/960px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+        "artist": "Urheber unbekannt laut Commons-Dateiseite",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "circa 100 BC",
+        "credit": "This image has been extracted from another file",
+        "sha256": "67bd467999fb4765d8589ed7a1956cee0bf469767503373737950c0fb3987230",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Jesus von Nazareth",
+      "description": "Dunkles schulterlanges Haar mit Mittelscheitel, längliches Gesicht und dunkler Bart nach der Ikone. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkelrotes Untergewand und dunkler Mantel nach der traditionellen Bildvorlage.",
+      "backstory": "Jüdischer Prediger des 1. Jahrhunderts und zentrale Gestalt des Christentums. Christliche Glaubensrichtungen verstehen ihn als den Christus; historische und religiöse Deutungen unterscheiden sich. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Jesus"
+      ],
+      "reference": {
+        "filename": "jesus-von-nazareth.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay_(cropped1).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/960px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg",
+        "artist": "Urheber unbekannt laut Commons-Dateiseite",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "6 th century date QS:P571,+550-00-00T00:00:00Z/7",
+        "credit": "https://icons.pstgu.ru/icon/2036",
+        "sha256": "5d5c39fe965e4447e62ebcee4e9c28501c4a1799395c02b627f0a4bb4d939c7f",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Siddhartha Gautama (Buddha)",
+      "description": "Kurze stilisierte Haarlocken, längliche Ohrläppchen und ruhige Gesichtszüge nach der Skulptur. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Schlichtes buddhistisches Wickelgewand. Die Skulptur dient als Gestaltungsvorlage; lebendiger Mensch, kein steinerner Körper.",
+      "backstory": "Spiritueller Lehrer, dessen Lehren die Grundlage des Buddhismus bilden. Der Beiname „Buddha“ bedeutet sinngemäß „der Erwachte“. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Buddha-founder-of-Buddhism"
+      ],
+      "reference": {
+        "filename": "siddhartha-gautama-buddha.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/960px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg",
+        "artist": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เพื่อการศึกษาโดยอยู่ภา่ยใต้ cc-by-sa-3.0) ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+        "attribution": "",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "reference_date": "2013",
+        "credit": "Tevaprapas Makklay (พระมหาเทวประภาส วชิรญาณเมธี)",
+        "sha256": "00135c8d6d3ba3f427e0dae206dfb79670ff0db102465a874c8220715285a369",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Albert Einstein",
+      "description": "Abstehendes weißes Haar, dichter weißer Schnurrbart und tiefliegende Augen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Grauer Strickpullover über hellem Hemd.",
+      "backstory": "In Ulm geborener theoretischer Physiker. Er entwickelte die spezielle und allgemeine Relativitätstheorie. 1921 erhielt er den Nobelpreis für Physik für seine Erklärung des photoelektrischen Effekts.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/"
+      ],
+      "reference": {
+        "filename": "albert-einstein.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
+        "artist": "Oren Jack Turner",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1947",
+        "credit": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID cph.3b46036 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+        "sha256": "c52964845ed4fc539e9118065e6f36686d1e3fd6efd538dd0c1daed1dbb77329",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Isaac Newton",
+      "description": "Langes lockiges braunes Haar, hohe Stirn und schmales glatt rasiertes Gesicht nach dem Gemälde. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Brauner historischer Rock und helles Hemd ohne moderne Krawatte.",
+      "backstory": "Englischer Mathematiker und Naturforscher. Seine Arbeiten zu Bewegung und Gravitation prägten die klassische Physik. Er war Mitglied und später Präsident der Royal Society.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://makingscience.royalsociety.org/people/na8414/isaac-newton"
+      ],
+      "reference": {
+        "filename": "isaac-newton.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/960px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+        "artist": "Godfrey Kneller",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1689",
+        "credit": "File:Portrait of Sir Isaac Newton, 1689.jpg from https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts",
+        "sha256": "fba34e382182941c69209ded5d8b2b8ed77cfe792b428464b4d87f29e957126d",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Marie Skłodowska-Curie",
+      "description": "Dunkles zurückgebundenes Haar mit grauen Strähnen, hohe Stirn und schmales Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkles langärmeliges Kleid mit hochgeschlossenem Ausschnitt.",
+      "backstory": "In Warschau geborene Physikerin und Chemikerin. Sie erforschte Radioaktivität und war an der Entdeckung von Polonium und Radium beteiligt. Sie erhielt Nobelpreise für Physik und Chemie.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/"
+      ],
+      "reference": {
+        "filename": "marie-skodowska-curie.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/960px-Marie_Curie_c._1920s.jpg",
+        "artist": "Henri Manuel",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "circa 1920 date QS:P,+1920-00-00T00:00:00Z/9,P1480,Q5727902",
+        "credit": "cdn-images-1.medium.com",
+        "sha256": "a46ab30e43db4ae84397f0ab2d9906399aefc65f67ad73535ce4c1cd714096eb",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Stephen Hawking",
+      "description": "Dünnes seitlich gekämmtes Haar, große Brille und schmales Gesicht nach dem Foto. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Graues Jackett, Hemd und Krawatte; sitzend im Rollstuhl nach der Referenz.",
+      "backstory": "Britischer theoretischer Physiker und Kosmologe. Er forschte zu Schwarzen Löchern und zur Entstehung des Universums und machte Physik mit Büchern wie *Eine kurze Geschichte der Zeit* einem breiten Publikum zugänglich.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.cam.ac.uk/stories/stephen-hawking"
+      ],
+      "reference": {
+        "filename": "stephen-hawking.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stephen_Hawking.StarChild.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+        "artist": "NASA",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "≈ 1980 (photograph), 1999-01-03 (file's timestamp at starchild.gsfc.nasa.gov)",
+        "credit": "Original . Source (StarChild Learning Center). Archived directory listing at the Wayback Machine .",
+        "sha256": "c88e9267caea230561b56355ff5f7e21f603c6895c6841254b885073f5f763e5",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Galileo Galilei",
+      "description": "Lichter Haaransatz, graues Haar und dichter grauweißer Vollbart nach dem Gemälde. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkles historisches Gewand mit hellem Kragen.",
+      "backstory": "Italienischer Astronom, Physiker und Mathematiker. Seine astronomischen Beobachtungen und Arbeiten zur Bewegung trugen zur Entwicklung der modernen Naturwissenschaften bei.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Galileo-Galilei"
+      ],
+      "reference": {
+        "filename": "galileo-galilei.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Galileo_Galilei_(1564-1642)_RMG_BHC2700.tiff",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-960px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
+        "artist": "Justus Sustermans",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "circa 1640 date QS:P571,+1640-00-00T00:00:00Z/9,P1480,Q5727902",
+        "credit": "http://collections.rmg.co.uk/collections/objects/14174",
+        "sha256": "e116a92e4aed03ccd9141cb2434d713cc3fce03988b9c282fd466e65965b6c31",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Charles Darwin",
+      "description": "Kahler Oberkopf, weißer langer Vollbart und markante buschige Augenbrauen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler historischer Gehrock, Weste und helles Hemd.",
+      "backstory": "Britischer Naturforscher. In *On the Origin of Species* entwickelte er die Evolutionstheorie durch natürliche Selektion, die die Biologie grundlegend veränderte.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.nhm.ac.uk/discover/charles-darwin-biography.html"
+      ],
+      "reference": {
+        "filename": "charles-darwin.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
+        "artist": "Charles_Darwin_seated.jpg : Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [ 3 ] derivative work: Bea o",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "Believed to be 1854",
+        "credit": "Charles_Darwin_seated.jpg",
+        "sha256": "dcf65e0caf6546cac3601ed23e11d47a0ecaafe3066ab6579c0f64ae33d1f46c",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Nikola Tesla",
+      "description": "Dunkles ordentlich gescheiteltes Haar, schmaler Schnurrbart und längliches Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler historischer Dreiteiler, weißes Hemd und dunkle Krawatte.",
+      "backstory": "Serbisch-amerikanischer Erfinder und Elektroingenieur. Seine Arbeiten zur Wechselstromtechnik trugen wesentlich zur Entwicklung moderner Stromversorgungssysteme bei.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Nikola-Tesla"
+      ],
+      "reference": {
+        "filename": "nikola-tesla.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+        "artist": "Napoleon Sarony",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "circa 1890 date QS:P,+1890-00-00T00:00:00Z/9,P1480,Q5727902",
+        "credit": "postcard Tesla Museum, document no. MNT, VI/V 10, via RadioGraphics",
+        "sha256": "1063747c48175f6e359423d5d235a6d07a934e7aa9248b68213451cf2a60689b",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "William Shakespeare",
+      "description": "Hohe Stirn, zurückweichender Haaransatz, dunkles schulterlanges Haar und schmaler Schnurrbart mit Kinnbart. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Dunkler historischer Rock mit hellem Hemdkragen nach dem Chandos-Porträt.",
+      "backstory": "Englischer Dramatiker und Dichter des späten 16. und frühen 17. Jahrhunderts. Stücke wie *Hamlet*, *Macbeth* und *Romeo und Julia* gehören zu den meistgespielten Werken der Weltliteratur. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/William-Shakespeare"
+      ],
+      "reference": {
+        "filename": "william-shakespeare.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+        "artist": "Attributed to John Taylor",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1648",
+        "credit": "one or more third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof . This may be due to recognition of the \" sweat of the brow \" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions. As such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement . Please see Commons:When to use the PD-Art tag for more information.",
+        "sha256": "151aaf52dc87cf7e780c0841e1dc7360fe898ec25073445d01d16eefba2af864",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "description": "Langes welliges Haar, hoher Haaransatz und langer Bart nach der Zeichnung. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Schlichtes historisches Gewand und weicher Hut nach der überlieferten Porträttradition.",
+      "backstory": "Italienischer Künstler, Erfinder und Naturforscher der Renaissance. Zu seinen bekanntesten Gemälden gehören *Mona Lisa* und *Das letzte Abendmahl*. Bildvorlage: überlieferte künstlerische Darstellung; kein verifiziertes tatsächliches Aussehen.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Leonardo-da-Vinci"
+      ],
+      "reference": {
+        "filename": "leonardo-da-vinci.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png",
+        "artist": "Attributed to Francesco Melzi",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "circa 1515–1517",
+        "credit": "File:Francesco_Molzi_-_Portrait_of_Leonardo_-_WGA14795.jpg",
+        "sha256": "aebcaf09380fccb960e559304bee657908210b1a52f0fd58f5d3990b388effba",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Pablo Picasso",
+      "description": "Kurzes graues Haar, runder Kopf und markante dunkle Augenbrauen. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Helle Schiebermütze, kariertes Hemd und dunkler Pullover nach der Fotovorlage.",
+      "backstory": "Spanischer Künstler und Mitbegründer des Kubismus. Er zählt zu den einflussreichsten Malern des 20. Jahrhunderts; zu seinen bekannten Werken gehört *Guernica*.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.museepicassoparis.fr/en/biography-pablo-picasso"
+      ],
+      "reference": {
+        "filename": "pablo-picasso.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/960px-Pablo_picasso_1.jpg",
+        "artist": "Argentina . Revista Vea y Lea",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1962-01",
+        "credit": "https://www.magicasruinas.com.ar/revistero/internacional/pintura-pablo-picasso.htm",
+        "sha256": "f04ca80d6ae5fa13cc6bfd8c65cd2ad871ffe41881809b6a3b83a9832459dd4f",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    },
+    {
+      "name": "Muhammad Ali",
+      "description": "Kurzes dichtes dunkles Haar, breite Nase und glatt rasiertes Gesicht. Gesichtszüge am beigefügten Referenzbild orientieren.",
+      "outfit": "Helles schlichtes Sportoberteil; Boxkleidung erst bei entsprechender Szenenanforderung.",
+      "backstory": "US-amerikanischer Boxer und Bürgerrechtsaktivist. Er wurde dreimal Schwergewichtsweltmeister und galt als einer der bekanntesten Sportler des 20. Jahrhunderts.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [],
+      "variants": {},
+      "biography_sources": [
+        "https://www.britannica.com/biography/Muhammad-Ali-boxer"
+      ],
+      "reference": {
+        "filename": "muhammad-ali.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_NYWTS.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/960px-Muhammad_Ali_NYWTS.jpg",
+        "artist": "Ira Rosenberg",
+        "attribution": "",
+        "license": "Public domain",
+        "license_url": "",
+        "reference_date": "1967",
+        "credit": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID cph.3c15435 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+        "sha256": "7e1a3a1c56e35487b0bf1d37053272cac9f63b107edc7340c9dd9328f8e4aab3",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio."
+      }
+    }
+  ]
+}

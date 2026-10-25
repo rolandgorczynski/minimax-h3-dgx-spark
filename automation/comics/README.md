@@ -697,6 +697,30 @@ Bibliothek. Vorhandene Figuren-IDs werden dabei erhalten. Bibliotheksänderungen
 werden mit Versionsprüfung gespeichert, damit parallele Bearbeitung nicht
 unbemerkt überschrieben wird.
 
+**Durch Bibliotheksfigur ersetzen** steht direkt in jeder geöffneten Figur der
+Geschichte unter **2 · Comic erzeugen → Figuren und Referenzbilder**. Zuerst bei
+Bedarf **Bibliothek laden**, eine Bildkachel mit Namen anklicken und **Diese Figur
+ersetzen** bestätigen. Die gewählte Figur wird hervorgehoben; das zusätzliche
+Vorschaubild lässt sich per Klick vergrößern. Die Namensauswahl bleibt ebenfalls
+verfügbar. Ohne gespeichertes Referenzbild erscheint ein entsprechender Platzhalter.
+Die Bildkacheln laden ihre vorhandenen Referenzen erst beim Sichtbarwerden; hierfür
+werden keine Modelle aufgerufen. Name, Aussehen, Kleidung, Vorgeschichte, Persönlichkeit,
+Motivation, Gesinnung und Referenzbilder werden als bearbeitbare Kopie übernommen.
+Die interne Story-ID bleibt gleich: Szenenzuordnungen, Erzählerrolle, Sprechblasen,
+Positionen und Kachelzustände bleiben erhalten. Bisherige Namen werden als Aliasse
+zugeordnet; Ausgangstext und Zitate werden nicht automatisch umgeschrieben.
+Ungespeicherte Szeneneingaben werden vor dem Tausch eingelesen. Alte globale Bild-
+und Kleidungsüberschreibungen dieser Figur werden entfernt, damit die neue Vorlage
+gilt. Besondere Kleidung oder Aussehensangaben in einzelnen Kachelbeschreibungen
+und Kachelzuständen anschließend selbst prüfen.
+
+Der Tausch fügt keine weitere Figur hinzu und funktioniert auch bei acht Figuren.
+Namens-/Alias-Konflikte oder fehlende Referenzbilder brechen ihn ohne Teiländerungen
+ab. Die Bibliothek und vorhandene Comic-Ausgaben werden nicht geändert. Erst die
+Geschichte speichern; eine neue Bildausgabe muss anschließend ausdrücklich gestartet
+werden. Beim späteren expliziten **In Bibliothek speichern** wird die ursprüngliche
+Bibliotheks-ID verwendet, ohne durch die beibehaltene Story-ID eine Dublette anzulegen.
+
 **Aussehen & Gesinnung neu erzeugen** startet ausschließlich einen Figurenauftrag
 mit den eingerichteten lokalen Modellen: Das lokale Sprachmodell entwirft die
 Beschreibung und optional eine RPG-Gesinnung; ComfyUI zeichnet ein neues

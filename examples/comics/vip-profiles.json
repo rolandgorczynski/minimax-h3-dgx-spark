@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-25",
+  "source_input": "vips.md",
+  "characters": [
+    {
+      "name": "John Maynard Keynes",
+      "description": "Darstellung nach dem Porträt von 1929: hohe Stirn, kurzes dunkles Haar mit Seitenscheitel, markante Augenbrauen und gepflegter schmaler Schnurrbart. Gesicht und Haaransatz am Referenzbild orientieren.",
+      "outfit": "Dunkler dreiteiliger Anzug im Stil der späten 1920er-Jahre, Weste, weißes Hemd und dunkle Krawatte.",
+      "backstory": "Britischer Ökonom (1883–1946), der in Cambridge studierte und für das britische Finanzministerium arbeitete. Seine Ideen zu Nachfrage, Beschäftigung und staatlicher Stabilisierung prägten den Keynesianismus. 1944 wirkte er an der Neuordnung des internationalen Währungssystems in Bretton Woods mit.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Keynes",
+        "John M. Keynes"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.kings.cam.ac.uk/biographies",
+        "https://www.econlib.org/library/Enc/bios/Keynes.html"
+      ],
+      "reference": {
+        "name": "John Maynard Keynes",
+        "commons_title": "File:John_Maynard_Keynes_(1929).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:John_Maynard_Keynes_(1929).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/John_Maynard_Keynes_%281929%29.jpg",
+        "artist": "Fotograf unbekannt; über Bettmann-Archiv",
+        "license": "Public domain",
+        "license_url": "",
+        "credit": "https://www.gettyimages.fr/detail/photo-d%27actualit%C3%A9/famous-economist-predicts-liberal-win-in-election-mr-photo-dactualit%C3%A9/514962842",
+        "reference_date": "1929",
+        "sha256": "5c55949204e3ea2425742dbe804b3119b5877b9f03be624ba66895814a8d062b",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "john-maynard-keynes.png"
+      }
+    },
+    {
+      "name": "Jerome Powell",
+      "description": "Darstellung nach dem offiziellen Porträt von 2022: älterer Mann mit dichtem silbergrauem, seitlich gekämmtem Haar, kräftigen Augenbrauen, breiter Kinnpartie und glatt rasiertem Gesicht. Die Gesichtszüge des Referenzbilds beibehalten.",
+      "outfit": "Dunkelblauer Anzug, helles Hemd und zurückhaltende blaue Krawatte.",
+      "backstory": "US-amerikanischer Jurist und Notenbanker. Er arbeitete als Anwalt und Investmentbanker sowie im US-Finanzministerium. Seit 2012 gehört er dem Direktorium der Federal Reserve an; vom 5. Februar 2018 bis zum 22. Mai 2026 führte er die US-Notenbank als Vorsitzender.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Powell",
+        "Jerome H. Powell"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm"
+      ],
+      "reference": {
+        "name": "Jerome Powell",
+        "commons_title": "File:Jerome_H._Powell,_Federal_Reserve_Chair_(cropped).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jerome_H._Powell,_Federal_Reserve_Chair_(cropped).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jerome_H._Powell%2C_Federal_Reserve_Chair_%28cropped%29.jpg",
+        "artist": "Federalreserve",
+        "license": "Public domain",
+        "license_url": "",
+        "credit": "Official portrait of Jerome H. Powell, Chair: Powell_Jerome_Aug_16_22-674_8x10",
+        "reference_date": "2022-08-16 08:29",
+        "sha256": "37f78cf2202031d72030e79d5fba76ad23ca6d8538d2599bd99c7eddbb4cae43",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "jerome-powell.png"
+      }
+    },
+    {
+      "name": "Janet Yellen",
+      "description": "Darstellung nach dem offiziellen Porträt von 2021: ältere Frau mit kurzem weißem Bob, seitlichem Pony und weichen Gesichtszügen; ohne Brille. Haarform und Gesicht am Referenzbild orientieren.",
+      "outfit": "Violettblauer Blazer über dunklem Oberteil und eine dunkle Perlenkette.",
+      "backstory": "US-amerikanische Ökonomin mit einer langen Laufbahn in Forschung und öffentlichem Dienst. Sie war von 2014 bis 2018 Vorsitzende der Federal Reserve und von 2021 bis 2025 US-Finanzministerin. Zuvor lehrte sie unter anderem an der University of California in Berkeley.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Yellen",
+        "Janet L. Yellen"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://home.treasury.gov/about/history/prior-secretaries/janet-yellen-2021-2025"
+      ],
+      "reference": {
+        "name": "Janet Yellen",
+        "commons_title": "File:Secretary_Janet_Yellen_portrait.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Secretary_Janet_Yellen_portrait.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Secretary_Janet_Yellen_portrait.jpg/960px-Secretary_Janet_Yellen_portrait.jpg",
+        "artist": "US Department of the Treasury",
+        "license": "Public domain",
+        "license_url": "",
+        "credit": "https://home.treasury.gov/system/files/136/Sec_Yellen_Portrait.jpg",
+        "reference_date": "2021-03-04 12:48:50",
+        "sha256": "6f3bde8ad7963340cddd9434e78dc0f6771e6ced1a432a7abf2a732a78aa1d30",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "janet-yellen.png"
+      }
+    },
+    {
+      "name": "Christine Lagarde",
+      "description": "Darstellung nach dem offiziellen IWF-Porträt von 2011: kurze silberweiße Haare mit Seitenscheitel, längliches Gesicht, ausgeprägte Wangenknochen und helle Augen; ohne Brille. Die Gesichtszüge des Referenzporträts beibehalten.",
+      "outfit": "Dunkler Blazer über schwarzem Oberteil, dezente silberfarbene Halskette und heller Schmuck.",
+      "backstory": "Französische Juristin und frühere Politikerin. Sie war französische Wirtschafts- und Finanzministerin und leitete von 2011 bis 2019 den Internationalen Währungsfonds. Seit November 2019 ist sie Präsidentin der Europäischen Zentralbank.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Lagarde"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.ecb.europa.eu/ecb/decisions/html/cvlagarde.en.html"
+      ],
+      "reference": {
+        "name": "Christine Lagarde",
+        "commons_title": "File:Lagarde, Christine (official portrait 2011) (cropped).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lagarde,_Christine_(official_portrait_2011)_(cropped).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lagarde%2C_Christine_%28official_portrait_2011%29_%28cropped%29.jpg",
+        "artist": "Internationaler Währungsfonds (IWF); Fotograf nicht genannt",
+        "license": "Public domain",
+        "license_url": "",
+        "credit": "http://www.imf.org/external/np/adm/pictures/caption2.htm",
+        "reference_date": "2011-07-06",
+        "sha256": "f101f9c13902a6d12dd23c75d3e785a757ab8a6ba14e4c655de779c31eb3e737",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "christine-lagarde.png"
+      }
+    },
+    {
+      "name": "Michael Saylor",
+      "description": "Darstellung nach der Aufnahme von 2022: kurz geschnittenes graubraunes Haar, hoher Haaransatz und gepflegter kurzer grauer Vollbart. Markante Wangenpartie und Gesicht wie im Referenzbild.",
+      "outfit": "Dunkles Jackett und hellblaues Hemd mit offenem Kragen, keine Krawatte.",
+      "backstory": "US-amerikanischer Unternehmer und Mitgründer von MicroStrategy, heute Strategy. Er führte das Unternehmen von 1989 bis 2022 als Geschäftsführer und wechselte 2022 in die Rolle des geschäftsführenden Verwaltungsratsvorsitzenden. Seit 2020 ist er besonders mit der Bitcoin-Strategie des Unternehmens und dem Aufbau seiner Bitcoin-Bestände verbunden.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Saylor",
+        "Michael J. Saylor"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.strategy.com/investor-relations/executive-team/michael-saylor"
+      ],
+      "reference": {
+        "name": "Michael J. Saylor",
+        "commons_title": "File:Michael_Saylor_2022.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Michael_Saylor_2022.png",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Michael_Saylor_2022.png/960px-Michael_Saylor_2022.png",
+        "artist": "ReasonTV",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "credit": "\"Billionaire Michael Saylor Believes in Bitcoin More Than Ever\"",
+        "reference_date": "2022-05-13",
+        "sha256": "b3db6e48fe014d8b2f4043034d6323093bd69f20039dc644037ab5d12e598418",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "michael-j-saylor.png"
+      }
+    },
+    {
+      "name": "Nayib Bukele",
+      "description": "Darstellung nach dem offiziellen Porträt von 2019: nach hinten gekämmtes dunkles Haar, kräftige dunkle Augenbrauen und ein dicht gepflegter dunkler Vollbart. Gesicht und Haaransatz wie im Referenzbild.",
+      "outfit": "Dunkles Jackett und weißes Hemd mit offenem Kragen. Die Präsidentenschärpe des Referenzfotos nur bei ausdrücklich beschriebener Amtszeremonie verwenden.",
+      "backstory": "Politiker und Unternehmer aus El Salvador. Vor seiner Präsidentschaft war er Bürgermeister von Nuevo Cuscatlán und San Salvador. 2019 übernahm er das Präsidentenamt. International wurde er unter anderem durch die Bitcoin-Politik seiner Regierung und das 2021 verabschiedete Bitcoin-Gesetz bekannt.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Bukele",
+        "Nayib Armando Bukele Ortez"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.presidencia.gob.sv/presidente-de-la-republica/",
+        "https://inclusionfinanciera.gob.sv/bitcoin-en-el-salvador/"
+      ],
+      "reference": {
+        "name": "Nayib Bukele",
+        "commons_title": "File:Presidente_Nayib_Bukele_(cropped).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Presidente_Nayib_Bukele_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Presidente_Nayib_Bukele_%28cropped%29.jpg/960px-Presidente_Nayib_Bukele_%28cropped%29.jpg",
+        "artist": "AndreX",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "credit": "Own work",
+        "reference_date": "2019-06-03",
+        "sha256": "1e55e5fc275ec243378a631e558c0184dec10c8fe29c55382c1c6cc698cd41b6",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "nayib-bukele.png"
+      }
+    },
+    {
+      "name": "Lyn Alden",
+      "description": "Darstellung nach der Aufnahme von 2025: erwachsene Frau mit langem geradem braunem Haar, Mittelscheitel und schmaler ovaler Brille. Schmale Gesichtszüge und Brillenform wie im Referenzbild.",
+      "outfit": "Schwarzes Oberteil mit schwarzer offener Strickjacke und dunkler Hose. Ein Vortragsmikrofon nur bei einer entsprechenden Szene.",
+      "backstory": "Ingenieurin, Finanzanalystin und Autorin. Nach einer technischen Laufbahn bei der US-Luftfahrtbehörde FAA gründete sie 2016 das Analyseunternehmen Lyn Alden Investment Strategy. Ihr 2023 erschienenes Buch Broken Money untersucht die Geschichte und technische Entwicklung des Geldes einschließlich Bitcoin.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Alden"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.lynalden.com/about-lyn-alden/"
+      ],
+      "reference": {
+        "name": "Lyn Alden",
+        "commons_title": "File:Lyn_Alden.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lyn_Alden.jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Lyn_Alden.jpg/960px-Lyn_Alden.jpg",
+        "artist": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "credit": "https://www.flickr.com/photos/gageskidmore/54557686691/",
+        "reference_date": "2025-05-29 15:10:41",
+        "sha256": "fc6e8a097e120d77b69eb5b332e1f2469c30eba01a8642dcdf2c0632d169a46c",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "lyn-alden.png"
+      }
+    },
+    {
+      "name": "Jack Dorsey",
+      "description": "Darstellung nach der Aufnahme von 2018: kurzes dunkles Haar, dichter dunkler Vollbart, markante schmale Gesichtszüge und ein kleiner Nasenring wie im Referenzfoto.",
+      "outfit": "Dunkles Jackett über offenem hellblauem Hemd. Ein Rednermikrofon ist kein festes Figurenmerkmal.",
+      "backstory": "US-amerikanischer Technologieunternehmer und Mitgründer von Twitter sowie des Zahlungsunternehmens Square, heute Block. Er leitete Twitter zeitweise als Geschäftsführer. Öffentlich setzt er sich für Bitcoin und offene, dezentrale Zahlungssysteme ein.",
+      "personality": "",
+      "motivation": "",
+      "alignment": "",
+      "aliases": [
+        "Dorsey"
+      ],
+      "variants": {},
+      "biography_sources": [
+        "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+        "https://investors.block.xyz/files/doc_downloads/2024/06/2024_Proxy_ARS.pdf"
+      ],
+      "reference": {
+        "name": "Jack Dorsey",
+        "commons_title": "File:Jack_Dorsey_in_Washington_D.C._-_2018_(44538272181)_(cropped).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jack_Dorsey_in_Washington_D.C._-_2018_(44538272181)_(cropped).jpg",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Jack_Dorsey_in_Washington_D.C._-_2018_%2844538272181%29_%28cropped%29.jpg/960px-Jack_Dorsey_in_Washington_D.C._-_2018_%2844538272181%29_%28cropped%29.jpg",
+        "artist": "Mark Warner",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "credit": "MRW_4445.jpg",
+        "reference_date": "2018-09-05 10:14",
+        "sha256": "337c401d582fdd53126d8895510e24c9aa67fad7fcf7b6ea6f6935390139b6db",
+        "changes": "Technisch verkleinert und nach PNG konvertiert; keine Retusche.",
+        "filename": "jack-dorsey.png"
+      }
+    }
+  ]
+}
