@@ -1,0 +1,604 @@
+{
+  "entries": [
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdsj-0",
+      "source_sha256": "75bb44aab7ba9935f3b86e20cef62c060ef695c3526e765ce9ea846e5331e395",
+      "plan": {
+        "central_question": "Schafft eine genau besiegelte Vereinbarung auch schon eine gemeinsame Bedeutung?",
+        "meaning_type": "Lehre",
+        "core": "Ein scheinbarer Vergleich kann den Streit durch eine nicht ausgesprochene Deutung nur aufschieben. Viele Siegel schützen nicht vor dem Widerspruch zwischen erwartetem Sinn und ausgenutztem Wortlaut.",
+        "evidence": [
+          {
+            "event": "Eine Saat von Eicheln.",
+            "meaning": "Die letzte Ernte wird durch die Art der Saat in eine Zukunft verschoben, die das Kloster nicht mehr erlebt."
+          }
+        ],
+        "causal_chain": [
+          "Eine Saat von Eicheln.",
+          "Die Eichen wachsen weiter, während Kloster und Anspruch in Vergessenheit geraten."
+        ],
+        "ending": "Die Eichen wachsen weiter, während Kloster und Anspruch in Vergessenheit geraten.",
+        "recommended_count": 10,
+        "reason": "Streitkosten, scheinbare Einigung, unerwartete Saat und vergehende Generationen tragen die eigentliche Pointe.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfzz-0",
+      "source_sha256": "e4c3fdb9751205a8e67a5871c6b033459a5cef77e925ca65272b909c67941078",
+      "plan": {
+        "central_question": "Kann ein erfülltes Leben im freiwilligen Verzicht auf hohen Rang liegen?",
+        "meaning_type": "Erkenntnis",
+        "core": "Aus Verlust kann eine Suche nach anderem Sinn entstehen. Der Wert des eigenen Weges muss sich nicht in Herrschaft zeigen, sondern kann im tätigen Dienen und in erneuerter Gemeinschaft liegen.",
+        "evidence": [
+          {
+            "event": "er wollte dienen, nicht herrschen",
+            "meaning": "Eberhard gibt ein angesehenes Amt auf, statt nur die Form seiner Macht zu wechseln."
+          }
+        ],
+        "causal_chain": [
+          "er wollte dienen, nicht herrschen",
+          "Eberhard kehrt mit Brüdern heim und gründet das Kloster; beide leiblichen Brüder enden in gemeinsamer Erinnerung."
+        ],
+        "ending": "Eberhard kehrt mit Brüdern heim und gründet das Kloster; beide leiblichen Brüder enden in gemeinsamer Erinnerung.",
+        "recommended_count": 14,
+        "reason": "Liebesverlust, Abtwürde, schlichter Dienst und spätere Heimkehr als unterschiedliche Entscheidungen zeigen, nicht als bloßes Reiseverzeichnis.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khvv-0",
+      "source_sha256": "1fb1197f0fbfd74b1bc2b308fea29c41faa238258d2c967c9417161449829c5b",
+      "plan": {
+        "central_question": "Wie lässt sich ein gemeinsamer Streit ohne Sieg eines Lagers beenden?",
+        "meaning_type": "Erkenntnis",
+        "core": "Eine akzeptierte Entscheidungsmethode kann den gemeinsamen Beginn ermöglichen, auch wenn niemand seine eigene Vorliebe durchsetzt. Der Verzicht auf Rechthaben schafft hier Raum für ein Werk.",
+        "evidence": [
+          {
+            "event": "die Brüder mit dieser Entscheidung vollkommen einverstanden waren",
+            "meaning": "Die Zustimmung zum Verfahren geht der Entscheidung des Esels voraus."
+          }
+        ],
+        "causal_chain": [
+          "die Brüder mit dieser Entscheidung vollkommen einverstanden waren",
+          "Am vom Esel gewählten Ort wird das neue Kloster erbaut."
+        ],
+        "ending": "Am vom Esel gewählten Ort wird das neue Kloster erbaut.",
+        "recommended_count": 8,
+        "reason": "Unvereinbare Vorschläge, gemeinsamer Verfahrensentscheid und gefundener Bauplatz ergeben den kurzen Bogen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjcb-0",
+      "source_sha256": "10080faddef1ef485dc844be87d6a346875d3ee33702572738f190edd2f43cd9",
+      "plan": {
+        "central_question": "Woran bemisst sich der Wert eines Menschen nach dem Ablegen seiner Würde?",
+        "meaning_type": "Lehre",
+        "core": "Eine überzeugte Haltung kann gerade im freiwilligen Verzicht auf öffentliches Ansehen sichtbar werden. Der frühere Titel ist nicht die einzige Form gelebten Wertes.",
+        "evidence": [
+          {
+            "event": "trat dann als schlichter Zisterziensermönch",
+            "meaning": "Bruno beendet die sichtbare Amtsstellung und bleibt als Bruder in derselben Glaubensgemeinschaft tätig."
+          }
+        ],
+        "causal_chain": [
+          "trat dann als schlichter Zisterziensermönch",
+          "Nach Brunos Tod trägt der abgelegte Stab im Sagenbild Blüten."
+        ],
+        "ending": "Nach Brunos Tod trägt der abgelegte Stab im Sagenbild Blüten.",
+        "recommended_count": 8,
+        "reason": "Amt, freiwilliger Übergang und späteres Erinnerungszeichen tragen den Bogen; kein neuer Aufstieg zum Schluss.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgx8-0",
+      "source_sha256": "f22347ab429517d48fbfacd7b915bf94465fb2c13261b96bea4262a4d5136e9a",
+      "plan": {
+        "central_question": "Kann ein unterschätzter Mensch eine besondere Form von Zuwendung eröffnen?",
+        "meaning_type": "Erkenntnis",
+        "core": "Ein äußerlich gering geachteter Verstand schließt innige Aufmerksamkeit und schöpferischen Glauben nicht aus. Die Legende lässt gerade aus unscheinbarer Arbeit ein bewundertes Zeichen entstehen.",
+        "evidence": [
+          {
+            "event": "doch gar sinnig treu vom Herzen",
+            "meaning": "Der Text setzt den Wert der Haltung gegen das anfänglich niedrige Urteil über den Bruder."
+          }
+        ],
+        "causal_chain": [
+          "doch gar sinnig treu vom Herzen",
+          "Das Wachsgebilde wird in der Kirche bewahrt; am Bienenhaus entsteht die Kapelle."
+        ],
+        "ending": "Das Wachsgebilde wird in der Kirche bewahrt; am Bienenhaus entsteht die Kapelle.",
+        "recommended_count": 10,
+        "reason": "Unterschätzung, unbeholfene gute Absicht, Bienenwerk und gemeinschaftliche Anerkennung unterscheiden.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdxk-0",
+      "source_sha256": "428e8bbb5a7b972916f06ea128e90897233bea817f2255d17511780d3dba0581",
+      "plan": {
+        "central_question": "Muss hilfreicher Beistand jederzeit sichtbar und kontrollierbar sein?",
+        "meaning_type": "Lehre",
+        "core": "Verlässliche Nähe kann bestehen, ohne dass jede Eigenart offenliegt. Eine bloßstellende Enthüllung aus Neugier kann genau den hilfreichen Umgang zerstören, den sie erklären wollte.",
+        "evidence": [
+          {
+            "event": "Da kam der Elbe Goldemar nimmer wieder",
+            "meaning": "Das gewonnene Wissen wird mit dem Verlust der bisherigen Verbindung bezahlt."
+          }
+        ],
+        "causal_chain": [
+          "Da kam der Elbe Goldemar nimmer wieder",
+          "Im ausgewählten Hardenberger Bogen verlässt Goldemar nach der Bloßstellung die Schlösser."
+        ],
+        "ending": "Im ausgewählten Hardenberger Bogen verlässt Goldemar nach der Bloßstellung die Schlösser.",
+        "recommended_count": 12,
+        "reason": "Den Vertrauensbruch vollständig erzählen; Hertlins Entführung und Dietrichs Kampf sind ein eigener nachfolgender Sagenbogen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgjv-0",
+      "source_sha256": "5dac9e9a2f59a26a698aa3cf45c621140dc92993b18918d82329f8a2458af7d5",
+      "plan": {
+        "central_question": "Bedeutet gemeinsamer Glaube auch Einigkeit über weltliche Herrschaft?",
+        "meaning_type": "Offene Frage",
+        "core": "Ein gemeinsam verehrtes Zeichen schafft keine automatische Einigkeit über Macht und Freiheit. Selbst religiöse Erinnerung kann auf Seiten einer widersprechenden Bürgerschaft stehen.",
+        "evidence": [
+          {
+            "event": "ihn unterm Banner ihrer Heiligen und Martyrer verjagte",
+            "meaning": "Die Bürger berufen sich im Konflikt nicht einfach gegen, sondern innerhalb derselben religiösen Welt auf ihre Rechte."
+          }
+        ],
+        "causal_chain": [
+          "ihn unterm Banner ihrer Heiligen und Martyrer verjagte",
+          "Die Stadt bleibt durch Heiligtümer und Freiheiten geprägt; der Konflikt mit Anno führt nicht zu dauerhafter Unabhängigkeit."
+        ],
+        "ending": "Die Stadt bleibt durch Heiligtümer und Freiheiten geprägt; der Konflikt mit Anno führt nicht zu dauerhafter Unabhängigkeit.",
+        "recommended_count": 8,
+        "reason": "Erinnerungszeichen und den knapp überlieferten Konflikt gegenüberstellen; keine im Text nicht erzählte große Schlacht ausmalen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdf3-0",
+      "source_sha256": "850748952a0db374c606c9552021c25bb82660c28b3d995783c3032a2d0ab299",
+      "plan": {
+        "central_question": "Was kann ein Sieg gewinnen, wenn er auf sofortige Vergeltung verzichtet?",
+        "meaning_type": "Lehre",
+        "core": "Eine bestandene Gefahr wird politisch wertvoller, wenn aus der Überlegenheit verlässliche gemeinsame Rechte statt nur ein getöteter Gegner hervorgehen.",
+        "evidence": [
+          {
+            "event": "so sollte euch mein Leben viel nützer sein denn mein Tod.",
+            "meaning": "Der Sieger prüft den Nutzen seiner Macht neu und entscheidet sich für ein bindendes Ergebnis."
+          }
+        ],
+        "causal_chain": [
+          "so sollte euch mein Leben viel nützer sein denn mein Tod.",
+          "Der Kaiser bestätigt die verlangten Rechte; die Stadt bewahrt den Tag und Marsilius' Rat in Erinnerung."
+        ],
+        "ending": "Der Kaiser bestätigt die verlangten Rechte; die Stadt bewahrt den Tag und Marsilius' Rat in Erinnerung.",
+        "recommended_count": 14,
+        "reason": "Gemeinsame List, tatsächlicher Beitrag der Frauen und Maßhalten nach dem Sieg müssen als verschiedene Stärken sichtbar sein.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khzw-0",
+      "source_sha256": "bea8f7d52d329f0c5262dba87a85d24345fce4a700c2756f679b2b2982b3c286",
+      "plan": {
+        "central_question": "Was geschieht, wenn ein Gemeinschaftswerk zum Einsatz persönlicher Rivalität wird?",
+        "meaning_type": "Offene Frage",
+        "core": "Ein großes Vorhaben kann durch den selbst gewählten Konkurrenzmaßstab zerstört werden. Können schützt nicht davor, sich an eine Verpflichtung zu binden, die dem eigentlichen Werk schadet.",
+        "evidence": [
+          {
+            "event": "Nimmer konnte der Dom vollendet werden",
+            "meaning": "Die Wette verwandelt die Niederlage des Einzelnen in einen bleibenden Verlust des Vorhabens."
+          }
+        ],
+        "causal_chain": [
+          "Nimmer konnte der Dom vollendet werden",
+          "Im gewählten Wettbogen stürzt der Baumeister; Dom und Wasserleitung bleiben vom Scheitern gezeichnet."
+        ],
+        "ending": "Im gewählten Wettbogen stürzt der Baumeister; Dom und Wasserleitung bleiben vom Scheitern gezeichnet.",
+        "recommended_count": 12,
+        "reason": "Die Baumeisterwette wählen; die Reliquien- und Regenlegenden gehören zu anderen Kölner Erzählbögen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kd5q-0",
+      "source_sha256": "b87a93eda8dd24e52163542887181e4a98f51b53233a7cef1270431512320836",
+      "plan": {
+        "central_question": "Was verpasst man, wenn Ungewohntes vorschnell als Unsinn gilt?",
+        "meaning_type": "Erkenntnis",
+        "core": "Aufgeschlossenheit kann eine Erfahrung eröffnen, die vertraute Erwartungen übersteigt. Ihre Kostbarkeit liegt auch darin, dass sie nicht einfach festgehalten oder beliebig wiederholt werden kann.",
+        "evidence": [
+          {
+            "event": "erlebte nie wieder solch wunderseltsames Gastmahl.",
+            "meaning": "Das winterliche Wunder endet und bleibt einmalige, dankbar erinnerte Erfahrung."
+          }
+        ],
+        "causal_chain": [
+          "erlebte nie wieder solch wunderseltsames Gastmahl.",
+          "Der Garten kehrt in den Winter zurück; der Kaiser ehrt den Gastgeber."
+        ],
+        "ending": "Der Garten kehrt in den Winter zurück; der Kaiser ehrt den Gastgeber.",
+        "recommended_count": 10,
+        "reason": "Vorurteil, Einladung, rascher Jahreszeitenwechsel und Rückkehr zur Kälte brauchen klare zeitliche Bildstufen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgrb-0",
+      "source_sha256": "106e7c16f8196c582f9ddac219426ddf6316ba5cf7e41fa8cf6eb36b23d41b6f",
+      "plan": {
+        "central_question": "Was verrät eine Macht, die Widerspruch durch heimliche Tötung beseitigen will?",
+        "meaning_type": "Erkenntnis",
+        "core": "Die vermeintlich sichere Überlegenheit einer verräterischen Einladung kann an Mut und Geistesgegenwart des Bedrohten scheitern. Vertraute Form ersetzt kein verlässliches Handeln.",
+        "evidence": [
+          {
+            "event": "stießen ihn unversehens hinein",
+            "meaning": "Die Gastfreundschaft erweist sich im entscheidenden Augenblick als vorsätzlich hergestellte Falle."
+          }
+        ],
+        "causal_chain": [
+          "stießen ihn unversehens hinein",
+          "Gryn überlebt und bestraft die Domherren; sein Löwenkampf wird zum städtischen Erinnerungsbild."
+        ],
+        "ending": "Gryn überlebt und bestraft die Domherren; sein Löwenkampf wird zum städtischen Erinnerungsbild.",
+        "recommended_count": 12,
+        "reason": "Einladung, Verrat, entschlossene Gegenwehr und politische Folge kausal zeigen; nicht sämtliche geistlichen Figuren zu Tätern machen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khf5-0",
+      "source_sha256": "f79bf4782a2ad948e6119a475e641bc3d5120f0a8e16a4fed9fb047e1b6afe28",
+      "plan": {
+        "central_question": "Wie kann eine feste Gewissheit die Rückkehr eines Menschen beinahe verhindern?",
+        "meaning_type": "Erkenntnis",
+        "core": "Ein abgeschlossen geglaubtes Urteil kann zur neuen Schranke werden, wenn unerwartete Wirklichkeit nicht mehr eingelassen wird. Die übersteigerte Unmöglichkeitsbehauptung wird im Sagenbild wörtlich widerlegt.",
+        "evidence": [
+          {
+            "event": "Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden.",
+            "meaning": "Die vorschnell ausgeschlossene Möglichkeit kehrt als Zeichen zurück und erzwingt ein Umdenken."
+          }
+        ],
+        "causal_chain": [
+          "Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden.",
+          "Die Frau wird aufgenommen und erholt sich; das Pferdebild erinnert an die unwahrscheinliche Rückkehr."
+        ],
+        "ending": "Die Frau wird aufgenommen und erholt sich; das Pferdebild erinnert an die unwahrscheinliche Rückkehr.",
+        "recommended_count": 14,
+        "reason": "Ringgier, Erwachen, verweigerter Einlass und Glaubenswechsel getrennt zeigen; die Schweinfurter Variante nicht mit dem Kölner Ende vermischen.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdfp-0",
+      "source_sha256": "6558aa89fc8e643b534226f0cdf2c8dff3f9a3ec8a6e105091812c1443999d38",
+      "plan": {
+        "central_question": "Wann wird ein großer Anspruch vom Eigennutz zum Dienst an vielen?",
+        "meaning_type": "Lehre",
+        "core": "Der Umfang einer Bitte sagt noch nichts über ihre Haltung. Weitreichendes Können und Vorbereitung können gerade dazu dienen, die Not anderer gemeinsam zu lindern.",
+        "evidence": [
+          {
+            "event": "Nicht für mich umritt ich deinen Bürgelwald.",
+            "meaning": "Die Erklärung verändert die moralische Bedeutung des scheinbar unbescheidenen Gewinns."
+          }
+        ],
+        "causal_chain": [
+          "Nicht für mich umritt ich deinen Bürgelwald.",
+          "Karl bestätigt die große Waldgabe, weil sie den umliegenden Dörfern zugutekommen soll."
+        ],
+        "ending": "Karl bestätigt die große Waldgabe, weil sie den umliegenden Dörfern zugutekommen soll.",
+        "recommended_count": 10,
+        "reason": "Geschickte Vorbereitung, überraschende Größe, königlicher Verdacht und offengelegter Gemeinsinn tragen die Wendung.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgj9-0",
+      "source_sha256": "2b91db0f245b80d20bad3e2f72f47b0df1e790918c77ca52479f0d63979a1fa9",
+      "plan": {
+        "central_question": "Wann ist eine spätere Zustimmung nur die Reaktion auf sichtbaren Gewinn?",
+        "meaning_type": "Lehre",
+        "core": "Eine Gelegenheit kann verloren gehen, wenn ein kleiner angebotener Schritt aus bloßem Hochmut verweigert wird und man erst beim erkennbaren Vorteil mitmachen möchte.",
+        "evidence": [
+          {
+            "event": "du bist zu spät gekommen",
+            "meaning": "Die gleiche spätere Handlung erhält ihren früheren Entscheidungswert nicht automatisch zurück."
+          }
+        ],
+        "causal_chain": [
+          "du bist zu spät gekommen",
+          "Karl erhält weder Apfelschnitz noch Land; die beiden anderen Söhne haben ihre Zusagen bekommen."
+        ],
+        "ending": "Karl erhält weder Apfelschnitz noch Land; die beiden anderen Söhne haben ihre Zusagen bekommen.",
+        "recommended_count": 8,
+        "reason": "Angebot, erste Ablehnung, zwei anders beantwortete Gelegenheiten und vergebliche Nachholung genügen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjc8-0",
+      "source_sha256": "ef9b47bebc0a412ef4409d0f71e4ca27b3f048f4233fb78435e400caccf386c2",
+      "plan": {
+        "central_question": "Ist eine Gemeinschaft von einem bösen Handel frei, wenn sie den Preis auf andere überträgt?",
+        "meaning_type": "Offene Frage",
+        "core": "Die List kann die Forderung gegen ihren Urheber wenden und die Gemeinschaft aus ihrer Angst lösen. Der Erfolg lässt jedoch die Frage nach dem geopferten Wehrlosen bestehen.",
+        "evidence": [
+          {
+            "event": "packte mit einem Griff den armen Wolf",
+            "meaning": "Der Verfolger wird getäuscht, aber der verschobene Preis bleibt ein tatsächliches Opfer."
+          }
+        ],
+        "causal_chain": [
+          "packte mit einem Griff den armen Wolf",
+          "Der Dom ist zugänglich, der Teufel fort und der Türspalt bleibt; die alternative Menschenopferfassung ist eine andere Variante."
+        ],
+        "ending": "Der Dom ist zugänglich, der Teufel fort und der Türspalt bleibt; die alternative Menschenopferfassung ist eine andere Variante.",
+        "recommended_count": 12,
+        "reason": "Den Wolfsbogen vollständig zeigen und Varianten trennen; keine verlustfreie Rettung behaupten.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgmw-0",
+      "source_sha256": "effd2de6c722f4aab667937f2891af1579670ceba37e7b3dc92b781cf93b6676",
+      "plan": {
+        "central_question": "Was verspricht ein Ereignis, das im Weltlauf niemals eintreten soll?",
+        "meaning_type": "Erkenntnis",
+        "core": "Ein scheinbarer Termin kann tatsächlich eine endgültige Verneinung ausdrücken. Die Spruchpointe macht den Unterschied zwischen unbestimmtem Warten und ausdrücklicher Unmöglichkeit verständlich.",
+        "evidence": [
+          {
+            "event": "das ist so viel als nimmermehr.",
+            "meaning": "Der Teufel im Turm wird zum sprachlichen Maßstab für ein nicht einzulösendes Versprechen."
+          }
+        ],
+        "causal_chain": [
+          "das ist so viel als nimmermehr.",
+          "Der Teufel bleibt gebannt; die Redensart bezeichnet das niemals Eintretende."
+        ],
+        "ending": "Der Teufel bleibt gebannt; die Redensart bezeichnet das niemals Eintretende.",
+        "recommended_count": 6,
+        "reason": "Sechs kurze Zeichen- und Erwartungsbilder reichen; keine im Text nicht vorhandene Befreiungsmission erfinden.",
+        "series_reason": "Eine einzelne Folge mit sechs Kacheln reicht für den Erkenntnisbogen."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgx1-0",
+      "source_sha256": "f0aa9ac62116d0764925f97170c4e7f3fb356c8b8a56dbfd12f93de23f7696e9",
+      "plan": {
+        "central_question": "Kann Erfahrung eine körperlich überlegene Bedrohung ohne Kampf abwenden?",
+        "meaning_type": "Lehre",
+        "core": "Genaue Beobachtung und kluge Ansprache können eine größere Kraft umlenken. Die unscheinbare Person nutzt die Ungeduld des Gegners, statt sich mit dessen Stärke zu messen.",
+        "evidence": [
+          {
+            "event": "jetzt sind sie zerschlissen",
+            "meaning": "Die vorgezeigten Schuhe lenken den Schluss über die Entfernung, den der erschöpfte Gegner selbst ziehen soll."
+          }
+        ],
+        "causal_chain": [
+          "jetzt sind sie zerschlissen",
+          "Der Teufel wirft den Sand ab und zieht fort; Aachen bleibt verschont."
+        ],
+        "ending": "Der Teufel wirft den Sand ab und zieht fort; Aachen bleibt verschont.",
+        "recommended_count": 10,
+        "reason": "Drohender Racheplan, erschöpfter Weg, erkannte Eigenart und gelenkte Schlussfolgerung bilden den Bogen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh8r-0",
+      "source_sha256": "c84b1b078128bc63fb33669c586b0a02f4704230922753a848e24373484aaf87",
+      "plan": {
+        "central_question": "Wem muss ein ernst gemeintes Hilfsangebot offenstehen?",
+        "meaning_type": "Lehre",
+        "core": "Eine zugesagte Gerechtigkeit verliert ihren Sinn, wenn der unvertraute Hilfesuchende allein wegen seiner Erscheinung ausgeschlossen wird. Das Erkennen eines Bedürfnisses kann eine unerwartete Beziehung begründen.",
+        "evidence": [
+          {
+            "event": "wollte auch dem Tiere Recht sprechen",
+            "meaning": "Karl folgt dem Hilferuf auch jenseits seiner gewohnten menschlichen Antragsteller."
+          }
+        ],
+        "causal_chain": [
+          "wollte auch dem Tiere Recht sprechen",
+          "Die Schlange kann zum Nest zurück und bringt den Ring als Dank; dessen Zauber ist ein weiterer Nachklang."
+        ],
+        "ending": "Die Schlange kann zum Nest zurück und bringt den Ring als Dank; dessen Zauber ist ein weiterer Nachklang.",
+        "recommended_count": 10,
+        "reason": "Angekündigter offener Zugang, scheinbar leerer Ruf, gefundener Hilfesuchender und Antwort darauf zeigen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh4p-0",
+      "source_sha256": "480fef40504763b1b9e1cc8d54d0cd22064054a3c657d09bc6ad1b861b3f5dc4",
+      "plan": {
+        "central_question": "Welche Umstände muss ein Urteil über vermeintliche Untreue berücksichtigen?",
+        "meaning_type": "Lehre",
+        "core": "Eine unter äußerem Druck entstandene Entscheidung ist nicht mit frei gewählter Abkehr gleichzusetzen. Wiederkehr ermöglicht Verbindung, wenn der Betroffene nach den Umständen fragt und Verzeihung zulässt.",
+        "evidence": [
+          {
+            "event": "daß sie gedrungen worden sei",
+            "meaning": "Der Bischof macht die fremden Zwänge zum entscheidenden Teil der Beurteilung."
+          }
+        ],
+        "causal_chain": [
+          "daß sie gedrungen worden sei",
+          "Karl erkennt die bedrängte Lage seiner Frau an und verzeiht; die geplante andere Hochzeit entfällt."
+        ],
+        "ending": "Karl erkennt die bedrängte Lage seiner Frau an und verzeiht; die geplante andere Hochzeit entfällt.",
+        "recommended_count": 14,
+        "reason": "Abwesenheit, unsichere Todesannahme, Druck, Rückkehr und Wiedererkennen brauchen klare Zeiten und Wissensstände.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjcw-0",
+      "source_sha256": "c1fc82fd0e3a46a66022f5938773a39a87df08f392d2c1386305d3c5ada036b1",
+      "plan": {
+        "central_question": "Woran lässt sich Bindung von einer freien Beziehung unterscheiden?",
+        "meaning_type": "Erkenntnis",
+        "core": "Ein überwältigendes Gefühl kann den Blick auf den anderen verdrängen und an einem äußeren Auslöser hängen. Der wechselnde Gegenstand zeigt eine gebundene Aufmerksamkeit, nicht den jeweils neu bewiesenen Wert des Geliebten.",
+        "evidence": [
+          {
+            "event": "nun wandte sich Karls ganze Liebe dem Erzbischof zu",
+            "meaning": "Die sofortige Umlenkung offenbart die Macht des Rings über die scheinbar persönliche Entscheidung."
+          }
+        ],
+        "causal_chain": [
+          "nun wandte sich Karls ganze Liebe dem Erzbischof zu",
+          "Der Ring liegt im See; Karls unfreie Zuneigung bleibt auf diesen Ort gerichtet."
+        ],
+        "ending": "Der Ring liegt im See; Karls unfreie Zuneigung bleibt auf diesen Ort gerichtet.",
+        "recommended_count": 12,
+        "reason": "Tod, entdeckter Auslöser, mehrfacher Wechsel und bleibende Ortsbindung unterscheiden; den Zauber nicht schon mit dem ersten Ringwechsel als beendet zeigen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfnh-0",
+      "source_sha256": "52ce117a23e6a1f36fe27daa3eb7b35a924c4648985af44327255c9473351051",
+      "plan": {
+        "central_question": "Wo endet die Ehrung eines Toten und beginnt der Zugriff auf ihn?",
+        "meaning_type": "Offene Frage",
+        "core": "Bewunderung kann in Aneignung umschlagen und den Respekt vor der Ruhe des anderen verletzen. Das erschreckende Gegenbild erinnert den lebenden Mächtigen an die eigene Endlichkeit.",
+        "evidence": [
+          {
+            "event": "Mußtest du kommen und meine Ruhe stören?",
+            "meaning": "Die Erscheinung deutet den neugierigen Eingriff anders als die ehrfürchtige Selbstdarstellung des Besuchers."
+          }
+        ],
+        "causal_chain": [
+          "Mußtest du kommen und meine Ruhe stören?",
+          "Otto stirbt später und wird nahe Karl bestattet; eine weitere Umbettung bleibt eigener historischer Nachklang."
+        ],
+        "ending": "Otto stirbt später und wird nahe Karl bestattet; eine weitere Umbettung bleibt eigener historischer Nachklang.",
+        "recommended_count": 12,
+        "reason": "Graböffnung, entnommene Reliquie, Traum und erfüllte Todesnähe tragen die Deutung; keine medizinischen Tatsachen aus Leichnamswundern ableiten.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdnt-0",
+      "source_sha256": "95d51c535b25adb0153d2d90309a99977faf176d6a048ae7c2bae72990ca2c48",
+      "plan": {
+        "central_question": "Kann die sichtbare Vernichtung eine Gemeinschaft vollständig aus der Erinnerung tilgen?",
+        "meaning_type": "Erkenntnis",
+        "core": "Ein verlorener Ort kann gerade durch wiederkehrende Zeichen zur beharrlichen Erinnerung an die Getöteten werden. Das Unsichtbarwerden ist nicht dasselbe wie das Verstummen ihrer Geschichte.",
+        "evidence": [
+          {
+            "event": "hört man wohl bei stiller Luft ihre tiefversunknen Glocken läuten",
+            "meaning": "Die verschwundene Kapelle bleibt in der Wahrnehmung der Nachgeborenen gegenwärtig."
+          }
+        ],
+        "causal_chain": [
+          "hört man wohl bei stiller Luft ihre tiefversunknen Glocken läuten",
+          "Quelle, unterirdischer Glockenklang und drei nächtliche Ritter bewahren das Templergedächtnis."
+        ],
+        "ending": "Quelle, unterirdischer Glockenklang und drei nächtliche Ritter bewahren das Templergedächtnis.",
+        "recommended_count": 8,
+        "reason": "Untergang und wiederkehrende Erinnerungszeichen genügen; keine erfolgreiche Wiedererrichtung oder geheime Überlebensorganisation hinzufügen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj1j-0",
+      "source_sha256": "76d92ec3837a4469e0c0db005f3edacf9a502d0ec94aea6a914f2c21214953eb",
+      "plan": {
+        "central_question": "Löst das bloße Vertreiben einer Störung schon ihre Ursache?",
+        "meaning_type": "Lehre",
+        "core": "Eine Maßnahme muss an ihren tatsächlichen Folgen geprüft werden: Vertreiben kann die Not nur verlagern, während ein praktikabler Ausgleich Ruhe schafft. Prahlerische Gewaltbereitschaft kann zur eigenen Gefahr werden.",
+        "evidence": [
+          {
+            "event": "hatte einer den andern durch und durch gestochen.",
+            "meaning": "Der Tod der Spötter wird als Folge ihrer eigenen Auseinandersetzung erzählt, nicht als belegter Mord durch Kobolde."
+          }
+        ],
+        "causal_chain": [
+          "hatte einer den andern durch und durch gestochen.",
+          "Die einfachen Vereinbarungen schaffen zwischenzeitlich Ruhe; später vertreibt ein weiteres Geläut die Hinzlein."
+        ],
+        "ending": "Die einfachen Vereinbarungen schaffen zwischenzeitlich Ruhe; später vertreibt ein weiteres Geläut die Hinzlein.",
+        "recommended_count": 16,
+        "reason": "Erste Verlagerung, brauchbarer Ausgleich, selbstzerstörerischer Spott und späterer Auszug müssen als getrennte Entwicklungen erkennbar bleiben.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh89-0",
+      "source_sha256": "40358585caf46e8b734d3d27088eacea871cb9c5cfc08613d9d9bb087ccc304d",
+      "plan": {
+        "central_question": "Kann neidische Nachahmung den Erfolg eines anderen erzwingen?",
+        "meaning_type": "Lehre",
+        "core": "Die gleiche äußere Lage und eine nachgemachte Handlung sichern kein gleiches Ergebnis. Wer nur den fremden Gewinn sieht, bringt eine andere Haltung in dieselbe Begegnung mit.",
+        "evidence": [
+          {
+            "event": "mir soll das doch wohl auch gelingen, was jenem Lump gelang.",
+            "meaning": "Die Absicht des zweiten Musikanten unterscheidet sich schon vor der scheinbar gleichen Nacht."
+          }
+        ],
+        "causal_chain": [
+          "mir soll das doch wohl auch gelingen, was jenem Lump gelang.",
+          "Der erste Spielmann wird entlastet; der zweite trägt den zusätzlich erhaltenen Buckel weiter."
+        ],
+        "ending": "Der erste Spielmann wird entlastet; der zweite trägt den zusätzlich erhaltenen Buckel weiter.",
+        "recommended_count": 12,
+        "reason": "Zwei parallele Nächte vergleichbar zeigen; unterschiedliche Haltung und Ausgang dürfen nicht erst nachträglich behauptet werden.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfv5-0",
+      "source_sha256": "0c39b93152dfccefef555e41a37987cd61c270984b3ce8e3d193f9055840bcce",
+      "plan": {
+        "central_question": "Was bleibt von einem aus Besitzdenken begangenen Verrat nach der ersten Reue?",
+        "meaning_type": "Erkenntnis",
+        "core": "Verweigerte Anerkennung einer fremden Wahl kann in Schuld münden, die sich nicht durch einfaches Fortgehen ablegen lässt. Die begonnene Reue bleibt ein Kampf gegen erneute Versuchung und ist noch keine gewonnene Erlösung.",
+        "evidence": [
+          {
+            "event": "dieser Kampf, den er im Herzen fühlte und mitkämpfte, war seine Buße",
+            "meaning": "Die Reise bildet die innere Auseinandersetzung ab, statt den Mord bloß räumlich hinter sich zu lassen."
+          }
+        ],
+        "causal_chain": [
+          "dieser Kampf, den er im Herzen fühlte und mitkämpfte, war seine Buße",
+          "Auf dem unbemannten Schiff wird weiter um Reginalds Seele gespielt; eine Erlösung findet nicht statt."
+        ],
+        "ending": "Auf dem unbemannten Schiff wird weiter um Reginalds Seele gespielt; eine Erlösung findet nicht statt.",
+        "recommended_count": 16,
+        "reason": "Tat, Beichte, Weg mit zwei gegensätzlichen Begleitern und endlose Seefahrt bilden den Bogen; keine fremde Holländerfassung mit rettender Geliebter ergänzen.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    }
+  ]
+}
