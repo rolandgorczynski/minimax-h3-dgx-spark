@@ -53,7 +53,11 @@ def validate_definition(value):
             validate_series(payload['series'])
         payload.setdefault('characters',[]);payload.setdefault('library_ids',[]);payload.setdefault('seed',1984)
         validate_request({'kacheln':len(scenes) or 1,'stil':payload['style'],'seed':payload['seed'],'figuren_ids':payload['library_ids'],'signatur':payload.get('signature','')})
-    return {'mode':value['mode'],'name':name,'payload':payload}
+    result={'mode':value['mode'],'name':name,'payload':payload}
+    if 'count_policy' in value:
+        if value['count_policy']!='editorial':raise ValueError('Umfang aus der Erzählplanung ableiten.')
+        result['count_policy']='editorial'
+    return result
 
 
 class Stories:
@@ -69,10 +73,15 @@ class Stories:
         with self.store.connect() as db:rows=db.execute('SELECT doc FROM jobs').fetchall()
         return [j for row in rows if (j:=json.loads(row['doc'])).get('story_id')==ident]
 
-    def get(self,ident):
+    def get(self,ident,with_meaning=True):
         with self.store.connect() as db:row=db.execute('SELECT doc FROM stories WHERE id=?',(ident,)).fetchone()
         if not row:raise KeyError(ident)
-        return json.loads(row['doc'])
+        doc=json.loads(row['doc'])
+        if with_meaning and doc['mode']=='editorial':
+            from story_meaning import cached_plan
+            value=cached_plan(self.store,doc['payload'].get('article',''))
+            if value:doc['payload']['narrative_plan']=value
+        return doc
 
     @serialized
     def save(self,value,ident=None,version=None):
@@ -120,9 +129,13 @@ class Stories:
         else:
             if not source.get('article','').strip():raise ValueError('Zuerst den Artikel einfügen.')
             count=source.get('panel_count',len(source['scenes']) or 12);style=source['style'];seed=source['seed']
+        if story.get('count_policy',source.get('count_policy'))=='editorial':
+            from story_meaning import cached_plan
+            approved=cached_plan(self.store,source.get('article',''))
+            if story['mode']=='automatic' or not approved or approved.get('review_method')!='redaktionell':raise ValueError('Zuerst die neue Geschichte und ihre Sinnanalyse redaktionell mit Codex vorbereiten. Keine lokale Ersatzgeschichte oder Ersatzdeutung gestartet.')
         request=validate_request({'kacheln':count,'stil':style,'seed':seed,'max_korrekturrunden':0})
         ident_job=uuid.uuid4().hex;self.store.create(ident_job,request,initial_status='editing')
-        self.store.update(ident_job,planning_mode=True,planning_source=story,story_id=ident,story_version=version)
+        self.store.update(ident_job,planning_mode=True,planning_source=story,story_id=ident,story_version=version,count_policy=story.get('count_policy',source.get('count_policy','legacy')))
         self.store.stage(ident_job,'queued',status='queued')
         return self.store.get(ident_job)
 

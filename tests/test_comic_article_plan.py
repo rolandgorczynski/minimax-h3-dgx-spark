@@ -14,8 +14,13 @@ from engine import Engine
 
 class FakeEngine:
     def __init__(self,store):self.store=store;self.calls=[]
+    def require_german(self,job,step,value,validator,tokens):return validator(value)
     validate_scenes=Engine.validate_scenes
     def json_call(self,job,step,prompt,validator,tokens):
+        step=step.replace('-v4','')
+        if step=='story-meaning':return validator({'central_question':'Was bewirkt eine Entscheidung?','meaning_type':'Erkenntnis','evidence':[{'event':'Ria handelt.','meaning':'Entscheidungen verändern etwas.'}],'core':'Eine Entscheidung führt zu einer Veränderung.','causal_chain':['Ria handelt.','Ria erlebt die Folge.'],'ending':'Die Handlung bleibt offen.','recommended_count':6,'reason':'Kurzer Handlungsbogen.','series_reason':'Eine kurze Folge reicht für diese Erkenntnis.'})
+        if step=='story-meaning-review':return validator({'approved':True,'issues':[]})
+        if step in ('story-meaning-source-review','story-meaning-source-final-review'):return validator({'approved':True,'issues':[]})
         self.calls.append(step)
         if '-continuity-events-' in step:return validator({'events':[]})
         if step=='article-people':return validator({'characters':[{'name':'Ria','description':'Erwachsene Person, braune Augen. Frisur ändert sich je Szene.','outfit':'Friseurumhang'}]})
@@ -31,6 +36,7 @@ class ArticlePlanTests(unittest.TestCase):
             def existing_cast(self,ids):return []
             def require_german(self,job,step,value,validator,tokens):return validator(value)
             def json_call(self,job,step,prompt,validator,tokens):
+                step=step.replace('-v4','')
                 if step=='automatic-script-story':
                     self.calls.append(step);return validator({'story':'Ria: „Bereit?“ Ria nickt.'})
                 return super().json_call(job,step,prompt,validator,tokens)

@@ -57,7 +57,10 @@ class LargeComicTests(unittest.TestCase):
             class FakeEngine:
                 validate_scenes=Engine.validate_scenes
                 def __init__(self):self.store=store
+                def require_german(self,ident,step,value,validator,tokens):return validator(value)
                 def json_call(self,ident,step,prompt,validator,tokens):
+                    if step=='story-meaning-v4':return validator({'central_question':'Was verändert eine neue Begegnung?','meaning_type':'Erkenntnis','core':'Neue Erfahrungen können Perspektiven verändern.','evidence':[{'event':'Ria entdeckt einen neuen Ort.','meaning':'Eine neue Erfahrung wird möglich.'}],'causal_chain':['Ria geht weiter und entdeckt einen Ort.'],'ending':'Die Entdeckung bleibt offen.','recommended_count':6,'reason':'Ein kurzer Erkenntnisschritt.','series_reason':'Eine Folge reicht.'})
+                    if step.startswith('story-meaning'):return validator({'approved':True,'issues':[]})
                     if '-continuity-events-' in step:return validator({'events':[]})
                     if step=='article-people':return validator({'characters':[{'name':'Ria','description':'Erwachsene Frau.','outfit':'Jacke'}]})
                     group=json.JSONDecoder().raw_decode(prompt.split('QUELLABSCHNITTE:')[1].lstrip())[0];sizes.append(len(group))

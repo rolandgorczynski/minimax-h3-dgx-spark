@@ -45,6 +45,9 @@ def prepare(engine,stories,job):
         result=engine.require_german(job,'automatic-script-german',result,written,3500)
         source={'article':result['story'],'style':source['stil'],'seed':source['seed'],'characters':cast,'scenes':[],'library_ids':[],'page_template':source.get('page_template','standard'),'panel_count':count,'visual_style_pending':True,'automatic_prompt':source.get('thema','')}
     article=source['article']
+    import story_meaning
+    meaning=story_meaning.plan(engine,job,article,count,cached=source.get('narrative_plan'),require_curated=entry.get('count_policy',source.get('count_policy'))=='editorial')
+    if entry.get('count_policy',source.get('count_policy'))=='editorial':count,meaning=story_meaning.use_recommended_count(engine,job,meaning)
     store.stage(job,'article_characters')
     existing=source.get('characters',[])
     def people(value):
@@ -100,7 +103,7 @@ def prepare(engine,stories,job):
         '"dialog":"Deutscher Erzählertext","characters":["Figuren-ID"],'
         '"character_states":{}}]. '
         'Alle Texte ausschließlich auf Deutsch.\nFIGUREN:\n'+json.dumps(profiles,ensure_ascii=False)+'\nDIALOGLISTE:\n'+json.dumps(ledger,ensure_ascii=False)+'\nQUELLABSCHNITTE:\n'+json.dumps(locked,ensure_ascii=False)+'\nAUSGANGSTEXT:\n'+article)
-    prompt=continuity+prompt
+    prompt=continuity+story_meaning.context(meaning)+prompt
     def validate(value):
         scenes=engine.validate_scenes(dialogue.apply_sections(value,ledger,cast,locked),count,cast)
         for scene in scenes:
@@ -127,7 +130,9 @@ def prepare(engine,stories,job):
         scene['character_states']={k:v for k,v in initial_states.items() if k in scene.get('characters',[])}
     from continuity import enforce
     scenes,continuity_ledger=enforce(engine,job,scenes,cast,article,source.get('series',{}).get('initial_continuity_state',{}),[g['source_excerpt'] for g in locked],tag='article')
-    payload={**source,'continuity_ledger':continuity_ledger,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
+    store.write(job,'meaning-check-draft.json',{'scenes':scenes})
+    story_meaning.review(engine,job,article,meaning,scenes)
+    payload={**source,'narrative_plan':meaning,'continuity_ledger':continuity_ledger,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
     store.stage(job,'article_save')
     store.write(job,'planned-storyboard.json',payload)
     # A later user edit must never be overwritten by a delayed model response.

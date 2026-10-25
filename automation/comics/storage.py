@@ -50,8 +50,9 @@ class Store:
         with self.connect() as db:row=db.execute('SELECT job_id FROM telegram_jobs WHERE bot_id=? AND chat_id=? ORDER BY rowid DESC LIMIT 1',(bot,chat)).fetchone()
         return self.get(row['job_id']) if row else None
 
-    def list(self):
-        with self.connect() as db:rows=db.execute('SELECT doc FROM jobs ORDER BY rowid DESC LIMIT 100').fetchall()
+    def list(self,public_only=False):
+        where=" WHERE "+' AND '.join("COALESCE(json_extract(doc,'$."+key+"'),0)=0" for key in ('character_mode','book_mode','source_mode','narrative_mode')) if public_only else ''
+        with self.connect() as db:rows=db.execute('SELECT doc FROM jobs'+where+' ORDER BY rowid DESC LIMIT 100').fetchall()
         return [json.loads(row['doc']) for row in rows]
 
     def create(self,ident,request,initial_status='queued'):
@@ -69,6 +70,19 @@ class Store:
                  'steps':{},'events':[],'artifacts':[],'cleanup_pending':False}
             db.execute('INSERT INTO jobs VALUES (?,?,?,?)',(ident,fingerprint,initial_status,json.dumps(doc)))
             return doc,True
+
+    def revise_request(self,ident,request):
+        """Planungsumfang vor den Szenen atomar einschließlich Request-Hash festlegen."""
+        with self.connect() as db:
+            db.execute('BEGIN IMMEDIATE')
+            row=db.execute('SELECT doc FROM jobs WHERE id=?',(ident,)).fetchone()
+            if not row:raise KeyError(ident)
+            doc=json.loads(row['doc'])
+            if doc['status'] not in ('editing','queued','running'):raise ValueError('Abgeschlossenen Auftrag nicht umplanen.')
+            doc['request']=request;doc['updated_at']=now()
+            digest=hashlib.sha256(json.dumps(request,sort_keys=True).encode()).hexdigest()
+            db.execute('UPDATE jobs SET request_hash=?,doc=? WHERE id=?',(digest,json.dumps(doc),ident))
+            return doc
 
     def update(self,ident,**changes):
         with self.connect() as db:

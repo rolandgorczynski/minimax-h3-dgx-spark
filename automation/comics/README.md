@@ -1068,3 +1068,13 @@ HF-Cache nach `/mnt/backup/comic-studio/`. Die Comic-Dienste werden für die
 Sicherung angehalten und danach wieder gestartet. Kein Recovery-Test.
 
 [Aufruf, Hintergrundbetrieb, Stromausfall und manuelle Wiederherstellung](../../docs/Comic_Studio_Offline_Backup.md).
+
+## Redaktionelle Sinnanalyse und Umfang
+
+Neue Geschichten, Vorlagen und Kategorien werden redaktionell mit Codex vorbereitet. Zuerst kommen menschliche Grundfrage, übertragbare Lehre / Erkenntnis oder offene Frage und konkrete Textbelege. Erst danach folgen Comic-Umfang und Skript. Die technische Umsetzung und Prüfung kann weiterhin die eingerichteten lokalen Modelle verwenden.
+
+Neue Dashboard-Planungen übernehmen den redaktionell festgelegten Umfang automatisch. Empfohlen werden 6–18 Kacheln je Einzelcomic; längere Stoffe werden als Serie mit kurzen Folgen empfohlen. Die freie Kachelvorgabe entfällt. Eine zu enge Zahl darf die Handlung und ihre Pointe nicht beschädigen. Bestehende Comics werden nicht verändert.
+
+Unter **1 · Skript → Vorarbeit für Geschichten und Quellen** stehen Gesamtfortschritt und offene Einträge. Die Anzeige aktualisiert sich alle fünf Sekunden. Bei der Quelle und der eigenen Geschichte stehen die gespeicherte Deutung und Umfangsempfehlung. Noch nicht ausgewertete Texte werden nicht still an ein lokales Modell zur Ersatzdeutung übergeben.
+
+Vorgehen, Import und Datenhaltung: [Redaktion und Sinnanalyse](../../docs/Comic_Redaktion_und_Sinnanalyse.md). Vorbereitete Manifeste liegen unter `examples/comics/sinnanalysen/`. Der geschützte Endpunkt `POST /narrative-library/import` prüft Text-Hash und Belege vor dem Speichern; `GET /narrative-library` zeigt den Fortschritt. `POST /narrative-tasks` kann eine vorhandene redaktionelle Auswertung bereitstellen, erfindet aber keine fehlende. Alte API-Aufträge ohne die neue Umfangspolitik bleiben kompatibel; neue Dashboard-Planungen setzen `count_policy: editorial`.

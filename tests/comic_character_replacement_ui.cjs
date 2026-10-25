@@ -24,6 +24,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
    if(p==='/'||p.endsWith('.js'))return route.fulfill({contentType:p==='/'?'text/html':'text/javascript',body:fs.readFileSync(path.join(web,p==='/'?'index.html':path.basename(p)))});
    if(p==='/styles')return reply({styles:catalog.map(s=>s.name),catalog:catalog.map(s=>({...s,preview:'/preview.webp'}))});
    if(p==='/page-templates')return reply({templates:[{id:'standard',name:'Standard',category:'Raster',count:2,aspect_ratio:1,slots:[[0,0,1,.5],[0,.5,1,.5]]}]});
+   if(p==='/narrative-library')return reply({enabled:false,total:1009,completed:0,pending:1009,failed:0,current:null});
    if(p==='/jobs')return reply({jobs:[]});if(p==='/learning')return reply({analyzed_runs:0,rules:[]});
    if(p==='/stories'&&method==='GET')return reply({stories:[{id:sid,name:story.name,mode:story.mode,version:story.version}]});
    if(p==='/stories/'+sid&&method==='GET')return reply(story);

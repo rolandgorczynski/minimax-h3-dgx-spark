@@ -27,6 +27,10 @@ def example():
 class FakeEngine:
     def __init__(self,store):self.store=store;self.sizes=[];self.reviewed=[];self.languages=[]
     def json_call(self,ident,step,prompt,validator,tokens):
+        step=step.replace('-v4','')
+        if step=='story-meaning':return validator({'central_question':'Was bewirkt eine Entscheidung?','meaning_type':'Erkenntnis','evidence':[{'event':'Ria handelt.','meaning':'Entscheidungen verändern etwas.'}],'core':'Eine Entscheidung führt zu einer Veränderung.','causal_chain':['Ria handelt.','Ria erlebt die Folge.'],'ending':'Die Handlung bleibt offen.','recommended_count':6,'reason':'Kurzer Handlungsbogen.','series_reason':'Eine kurze Folge reicht für diese Erkenntnis.'})
+        if step=='story-meaning-review':return validator({'approved':True,'issues':[]})
+        if step in ('story-meaning-source-review','story-meaning-source-final-review'):return validator({'approved':True,'issues':[]})
         if '-continuity-events-' in step:return validator({'events':[]})
         if step=='source-outline':return validator({'characters':[{'name':'Ria','description':'Junge Frau mit kurzen schwarzen Haaren.','outfit':'Gelber Mantel.','backstory':'Sie sucht einen neuen Weg.'}],'arc':'Anfang, Reise, Heimkehr.','mood':'Warm und ruhig.'})
         if step.startswith('source-review'):
@@ -51,6 +55,22 @@ class SourceTests(unittest.TestCase):
             self.assertTrue(story['payload']['visual_style_pending'])
             self.assertTrue(all('Gemeinsame Bildgestaltung:' not in scene['story'] for scene in story['payload']['scenes']))
             with self.assertRaisesRegex(ValueError,'Bildstil'):stories.enqueue(story['id'],story['version'])
+
+    def test_editorial_count_is_derived_before_scenes(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root)
+            from story_meaning import import_curated
+            entry=json.loads((Path(__file__).resolve().parents[1]/'examples/comics/sinnanalysen/0000-0024.json').read_text())['entries'][0]
+            entry['plan']['recommended_count']=6
+            import_curated(store,Stories(store),{'entries':[entry]})
+            job=sources.enqueue(store,{'source_id':'kleiner-prinz','count':2,'count_policy':'editorial'})
+            engine=FakeEngine(store);sources.run(engine,job['id'])
+            self.assertEqual(store.get(job['id'])['request']['kacheln'],6)
+            draft=json.loads((store.directory(job['id'])/'source-draft.json').read_text())
+            self.assertEqual(len(draft['scenes']),6);self.assertEqual(draft['count_policy'],'editorial')
+            # Der atomar aktualisierte Request-Hash stimmt ebenfalls mit dem neuen Umfang überein.
+            existing,created=store.create(job['id'],store.get(job['id'])['request'])
+            self.assertFalse(created)
 
     def test_documented_format_roundtrip_and_errors(self):
         doc=sources.parse(example(),STYLE);self.assertEqual(len(doc['scenes']),2)
@@ -105,7 +125,7 @@ class SourceTests(unittest.TestCase):
             store=Store(root);stories=Stories(store);job=sources.enqueue(store,{'source_id':'kleiner-prinz','count':13,'style':STYLE,'author':'Mein Pseudonym'});engine=FakeEngine(store)
             with self.assertRaises(Conflict):sources.adopt(stories,store,job['id'],{'script':example()})
             result=sources.run(engine,job['id']);store.stage(job['id'],'finished',**result)
-            self.assertEqual(engine.sizes,[6,6,1]);self.assertEqual(len(engine.reviewed),3);self.assertEqual(len(engine.languages),4)
+            self.assertEqual(engine.sizes,[6,6,1]);self.assertEqual(len(engine.reviewed),3);self.assertEqual(len(engine.languages),5)
             script=(store.directory(job['id'])/'source-script.txt').read_text().replace('Ich gehe weiter.','Ich bleibe hier.')
             story=sources.adopt(stories,store,job['id'],{'script':script})
             self.assertEqual(len(story['payload']['scenes']),13);self.assertEqual(story['payload']['scenes'][0]['bubbles'][0]['text'],'Ich bleibe hier.')
@@ -139,4 +159,18 @@ class SourceTests(unittest.TestCase):
                 self.assertEqual(len(story['payload']['scenes']),2);self.assertEqual(len(service.store.list()),1)
                 self.assertEqual(call('/source-tasks','POST',{'source_id':'missing','style':STYLE})[0],400)
                 self.assertEqual(call('/source-tasks/'+ident+'/adopt','POST',{'script':'falsch'})[0],400)
+                self.assertIn('narrative_plan',story['payload'])
+                self.assertEqual(call('/narrative-tasks','POST',{'text':'Ein Handel wird gebrochen.'},auth=False)[0],401)
+                self.assertEqual(call('/narrative-tasks','POST',{'text':''})[0],400)
+                self.assertEqual(call('/narrative-tasks','POST',{'text':'Ein Handel wird gebrochen.','count':6})[0],400)
+                from story_meaning import import_curated
+                entry=json.loads((Path(__file__).resolve().parents[1]/'examples/comics/sinnanalysen/0000-0024.json').read_text())['entries'][0]
+                import_curated(service.store,service.stories,{'entries':[entry]})
+                code,analysis=call('/narrative-tasks','POST',{'text':sources.catalog(service.store)[0]['text'],'count':6});self.assertEqual(code,202)
+                from story_meaning import run as run_meaning
+                service.store.stage(analysis['id'],'finished',**run_meaning(engine,analysis['id']))
+                code,proposal=call('/jobs/'+analysis['id']);self.assertEqual(code,200)
+                self.assertEqual(proposal['narrative_plan']['fixed_count'],6)
+                self.assertEqual(call('/jobs')[1]['jobs'],[])
+                self.assertEqual(len(service.stories.list()),1)
             finally:server.shutdown();server.server_close();thread.join()

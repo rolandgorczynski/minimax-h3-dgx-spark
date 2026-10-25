@@ -1,0 +1,556 @@
+{
+  "entries": [
+    {
+      "kind": "source",
+      "id": "comic-quellen-4-schatzinsel",
+      "source_sha256": "11c760a37ede635c8041b01fcc3748db587b7793ac7fd7013b68e6f3421411e9",
+      "plan": {
+        "central_question": "Wie sicher ist ein scheinbar eindeutiger Weg zum begehrten Gewinn?",
+        "meaning_type": "Erkenntnis",
+        "core": "Ein Besitzanspruch und eine Karte garantieren keine Kontrolle über die Wirklichkeit. Die Gierigen können am Ziel gerade die Voraussetzung ihres Plans verloren haben.",
+        "evidence": [
+          {
+            "event": "Am Ziel finden sie nur eine leere Grube",
+            "meaning": "Die Enttäuschung entlarvt die vermeintliche Sicherheit des Schatzplans und verändert die Machtverhältnisse."
+          }
+        ],
+        "causal_chain": [
+          "Am Ziel finden sie nur eine leere Grube",
+          "Verbündete retten Jim; die Überlebenden verlassen die Insel mit dem bereits versetzten Schatz."
+        ],
+        "ending": "Verbündete retten Jim; die Überlebenden verlassen die Insel mit dem bereits versetzten Schatz.",
+        "recommended_count": 12,
+        "reason": "Abhängigkeit, vermeintlich sicherer Zugriff, leere Fundstelle und Rettungswendung brauchen einen klaren Aufbau.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-4-robinson",
+      "source_sha256": "fb28bdff139854e19ba7c095c9c086a7fc6f0550b2f4a82184fc26a0ac440b41",
+      "plan": {
+        "central_question": "Wie wird aus überwältigender Not wieder begrenzte Handlungsfähigkeit?",
+        "meaning_type": "Erkenntnis",
+        "core": "Unter extremen Bedingungen kann die Konzentration auf kleine ausführbare Aufgaben den Unterschied zwischen Hilflosigkeit und einem ersten tragfähigen Alltag schaffen.",
+        "evidence": [
+          {
+            "event": "Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.",
+            "meaning": "Der bescheidene Fortschritt zählt, ohne die gesamte Notlage als gelöst auszugeben."
+          }
+        ],
+        "causal_chain": [
+          "Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.",
+          "Robinson hat einen ersten wetterfesteren Schutz; seine Einsamkeit bleibt bestehen."
+        ],
+        "ending": "Robinson hat einen ersten wetterfesteren Schutz; seine Einsamkeit bleibt bestehen.",
+        "recommended_count": 10,
+        "reason": "Bergung, drohender Verlust des Wracks, geordnete Arbeit und begrenzter Erfolg tragen den Ausschnitt.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-4-alice",
+      "source_sha256": "3e111b57c9b33cc90da5eeb58fc5216d38634c3d3f2f2f6220a205d4b39b91db",
+      "plan": {
+        "central_question": "Was geschieht, wenn vertraute Maßstäbe ständig ihren Sinn ändern?",
+        "meaning_type": "Erkenntnis",
+        "core": "Unkontrollierte Veränderungen machen eine scheinbar einfache Aufgabe unberechenbar. Anpassung und gemeinsames Handeln ermöglichen zunächst nur den nächsten sicheren Schritt.",
+        "evidence": [
+          {
+            "event": "Dort suchen die durchnässten Gefährten gemeinsam einen Weg, wieder trocken zu werden.",
+            "meaning": "Aus dem einzelnen Wunsch nach dem Garten entsteht eine gemeinsame praktische Aufgabe nach überstandener Gefahr."
+          }
+        ],
+        "causal_chain": [
+          "Dort suchen die durchnässten Gefährten gemeinsam einen Weg, wieder trocken zu werden.",
+          "Alice und die Tiere erreichen das Ufer; weitere Wunderlandereignisse bleiben außerhalb des Bogens."
+        ],
+        "ending": "Alice und die Tiere erreichen das Ufer; weitere Wunderlandereignisse bleiben außerhalb des Bogens.",
+        "recommended_count": 12,
+        "reason": "Größenwechsel, jeweils neue Grenze und selbst verursachte Wassergefahr müssen zeitlich nachvollziehbar bleiben.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-goldener-vogel",
+      "source_sha256": "1dbb9429c5393a80ca7fd54ee7da202adab5b330b24edff6ea97a32879d034e6",
+      "plan": {
+        "central_question": "Warum kann der glanzvollere Weg den eigentlichen Erfolg verhindern?",
+        "meaning_type": "Lehre",
+        "core": "Wer den hilfreichen Rat dem Eindruck größerer Pracht opfert, kann sich immer neue Schwierigkeiten schaffen. Vertrauen in bewährten Beistand korrigiert diesen Irrweg.",
+        "evidence": [
+          {
+            "event": "Wieder missachtet er den Rat des Fuchses und wählt den prächtigen statt des einfachen Sattels.",
+            "meaning": "Die wiederholte Fehlentscheidung zeigt dasselbe Missverhältnis zwischen Anschein und tauglicher Handlung."
+          }
+        ],
+        "causal_chain": [
+          "Wieder missachtet er den Rat des Fuchses und wählt den prächtigen statt des einfachen Sattels.",
+          "Mit der Hilfe des Fuchses gelingt die gemeinsame Rückgewinnung; die Heimreise beginnt."
+        ],
+        "ending": "Mit der Hilfe des Fuchses gelingt die gemeinsame Rückgewinnung; die Heimreise beginnt.",
+        "recommended_count": 14,
+        "reason": "Die zwei gleichartigen Fehlgriffe müssen erkennbar sein, bevor die abgestimmte Lösung verständlich wird.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-weisse-schlange",
+      "source_sha256": "b3820eead83415b2d2492b692898f44b1ec0f2a6bb10e519eecb92d3d0058594",
+      "plan": {
+        "central_question": "Kann unscheinbare Hilfe Folgen haben, die der Helfende nicht vorausberechnet?",
+        "meaning_type": "Lehre",
+        "core": "Aufmerksamer Beistand gegenüber scheinbar Schwachen kann Beziehungen schaffen, die später über die eigenen Möglichkeiten hinaushelfen.",
+        "evidence": [
+          {
+            "event": "Die zuvor begünstigten Tiere helfen nacheinander.",
+            "meaning": "Die Rettungen erhalten ihren Sinn als Gegenseitigkeit statt als isolierte gute Taten."
+          }
+        ],
+        "causal_chain": [
+          "Die zuvor begünstigten Tiere helfen nacheinander.",
+          "Die Tiere erfüllen die Aufgaben; mit der letzten Gabe gewinnt der Diener die Königstochter."
+        ],
+        "ending": "Die Tiere erfüllen die Aufgaben; mit der letzten Gabe gewinnt der Diener die Königstochter.",
+        "recommended_count": 14,
+        "reason": "Drei frühere Hilfen und drei spätere Gegenhilfen müssen als Paare kenntlich bleiben.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-zertanzte-schuhe",
+      "source_sha256": "6ec44ed327a022936182e5f33548f589b21e22686db47ef4d3e1ac4cb0e0219d",
+      "plan": {
+        "central_question": "Wann wird aus einem unbegreiflichen Geheimnis eine belegte Beobachtung?",
+        "meaning_type": "Offene Frage",
+        "core": "Ein behauptetes Rätsel löst sich nicht durch Vermutungen, sondern durch Aufmerksamkeit, Widerstand gegen Irreführung und überprüfbare Spuren. Die Berechtigung der Überwachung ist damit noch nicht entschieden.",
+        "evidence": [
+          {
+            "event": "Nach drei Nächten legt er dem König seine Beobachtungen und die Gegenstände vor.",
+            "meaning": "Die Erklärung stützt sich auf mitgebrachte Belege; der patriarchale Ausgang ist kein allgemeingültiger moralischer Lohn."
+          }
+        ],
+        "causal_chain": [
+          "Nach drei Nächten legt er dem König seine Beobachtungen und die Gegenstände vor.",
+          "Das nächtliche Geheimnis wird aufgedeckt; der Soldat wählt die älteste Tochter zur Frau."
+        ],
+        "ending": "Das nächtliche Geheimnis wird aufgedeckt; der Soldat wählt die älteste Tochter zur Frau.",
+        "recommended_count": 12,
+        "reason": "Warnung, verdecktes Folgen, gesammelte Spuren und Offenlegung brauchen einen zusammenhängenden Erkenntnisweg.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-sterntaler",
+      "source_sha256": "f22b92ee12da35bb9cf85c5cf4c7b4cc296224fbfa7f03a64051481305267143",
+      "plan": {
+        "central_question": "Wie stellt ein Märchen den Wert uneigennütziger Zuwendung dar?",
+        "meaning_type": "Erkenntnis",
+        "core": "Die Erzählung setzt radikale Freigebigkeit gegen die Angst vor eigenem Mangel. Ihre wunderbare Antwort ist ein Hoffnungsbild, keine reale Garantie für die Belohnung von Selbstaufgabe.",
+        "evidence": [
+          {
+            "event": "Aus der völligen Mittellosigkeit führt das märchenhafte Wunder zu einem gesicherten Leben.",
+            "meaning": "Der Sternenregen gehört zur märchenhaften Wertordnung und darf nicht als praktisches Versorgungsgesetz gelesen werden."
+          }
+        ],
+        "causal_chain": [
+          "Aus der völligen Mittellosigkeit führt das märchenhafte Wunder zu einem gesicherten Leben.",
+          "Sterne werden zu Talern; das Mädchen erhält Kleidung und gesicherten Lebensunterhalt."
+        ],
+        "ending": "Sterne werden zu Talern; das Mädchen erhält Kleidung und gesicherten Lebensunterhalt.",
+        "recommended_count": 8,
+        "reason": "Die gestufte Hingabe benötigt wenige klare Begegnungen und einen nicht vorweggenommenen Wunderumschlag.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-jorinde-joringel",
+      "source_sha256": "466ce51d842d07041ab03dab98ad05ce704275f350ca4fdbdcec8ccd494d3e1a",
+      "plan": {
+        "central_question": "Worin zeigt sich eine Liebe, die sich mit Ohnmacht nicht abfindet?",
+        "meaning_type": "Lehre",
+        "core": "Beharrlichkeit wird befreiend, wenn sie in eine konkrete rettende Handlung mündet und über den eigenen nahen Menschen hinaus auch andere einschließt.",
+        "evidence": [
+          {
+            "event": "Er hebt auch die Verzauberung der übrigen Gefangenen auf.",
+            "meaning": "Die persönliche Rettung wird zur Befreiung aller und begrenzt den Erfolg nicht auf das eigene Glück."
+          }
+        ],
+        "causal_chain": [
+          "Er hebt auch die Verzauberung der übrigen Gefangenen auf.",
+          "Jorinde und die anderen Gefangenen gewinnen ihre menschliche Gestalt zurück."
+        ],
+        "ending": "Jorinde und die anderen Gefangenen gewinnen ihre menschliche Gestalt zurück.",
+        "recommended_count": 12,
+        "reason": "Verlust, Suche, gefundenes Gegenmittel und erweiterte Befreiung bilden den Bogen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-fundevogel",
+      "source_sha256": "ae9a5738357bf4cb5da154ee86f4a5694f765e2d65c1fcb530df41d53b7b8d77",
+      "plan": {
+        "central_question": "Was trägt ein Versprechen, wenn es unter Gefahr eingehalten werden muss?",
+        "meaning_type": "Lehre",
+        "core": "Verlässlicher Zusammenhalt zeigt sich nicht in der Zusage allein, sondern darin, auch wechselnde Bedrohungen miteinander durchzustehen.",
+        "evidence": [
+          {
+            "event": "beide fliehen mit dem Versprechen, einander nicht zu verlassen.",
+            "meaning": "Die folgenden gemeinsamen Verwandlungen stellen dieses Versprechen wiederholt auf die Probe."
+          }
+        ],
+        "causal_chain": [
+          "beide fliehen mit dem Versprechen, einander nicht zu verlassen.",
+          "Die Gefahr durch Sanne endet; die Kinder kehren zusammen heim."
+        ],
+        "ending": "Die Gefahr durch Sanne endet; die Kinder kehren zusammen heim.",
+        "recommended_count": 12,
+        "reason": "Warnung, gemeinsame Flucht und drei veränderte Schutzformen brauchen deutliche Zuordnung der beiden Kinder.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-blaues-licht",
+      "source_sha256": "b21f3cdac9e787af60aa2a535fb197bc01a5ad484d302f111a63b25b4fed2e05",
+      "plan": {
+        "central_question": "Wie kann aus aufgezwungener Abhängigkeit ein erster Ausweg entstehen?",
+        "meaning_type": "Erkenntnis",
+        "core": "Wer die eigene Gefährdung erkennt und ein unerwartetes Mittel klug nutzt, kann eine Ausbeutungssituation verlassen. Die Befreiung löst noch nicht die gesamte soziale Not.",
+        "evidence": [
+          {
+            "event": "Der Ausschnitt endet mit seiner Befreiung und dem Aufbruch.",
+            "meaning": "Das erste gewonnene Stück Selbstbestimmung ist der Schluss, nicht ein späterer Triumph über alle Mächtigen."
+          }
+        ],
+        "causal_chain": [
+          "Der Ausschnitt endet mit seiner Befreiung und dem Aufbruch.",
+          "Der Soldat verlässt den Brunnen mit dem Licht und bricht auf."
+        ],
+        "ending": "Der Soldat verlässt den Brunnen mit dem Licht und bricht auf.",
+        "recommended_count": 10,
+        "reason": "Ausgesetztheit, ausgenutzte Bitte, Verrat und gewonnener Ausweg ergeben einen geschlossenen kurzen Bogen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-kristallkugel",
+      "source_sha256": "a7bdaf33007ee0e20d432d7df78099efa4446da0311fff443d2e7e64097a370e",
+      "plan": {
+        "central_question": "Wie kann selbst eine erlittene Veränderung Teil gemeinsamer Befreiung werden?",
+        "meaning_type": "Erkenntnis",
+        "core": "Unterschiedliche und zunächst verhängnisvolle Lebenslagen können durch Zusammenarbeit zu ergänzenden Möglichkeiten werden. Der Erfolg gehört keinem Einzelnen allein.",
+        "evidence": [
+          {
+            "event": "der Walbruder hilft, als das fallende Ei am Meer Feuer auslöst.",
+            "meaning": "Die Lage, die den Bruder vom menschlichen Leben trennt, ermöglicht hier den entscheidenden Beistand."
+          }
+        ],
+        "causal_chain": [
+          "der Walbruder hilft, als das fallende Ei am Meer Feuer auslöst.",
+          "Die Kugel bricht die Macht des Zauberers; die Königstochter wird frei, die Rettung der Brüder wird möglich."
+        ],
+        "ending": "Die Kugel bricht die Macht des Zauberers; die Königstochter wird frei, die Rettung der Brüder wird möglich.",
+        "recommended_count": 16,
+        "reason": "Stier, Vogel, Ei, Feuer und Kühlung sind klar getrennte Folgeschritte und dürfen nicht zu einem beliebigen Zauberkampf verschwimmen.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-drei-federn",
+      "source_sha256": "a8683ffcf722f0b67d6a9aabe76f375c27587696a69b1018cae1b879b6b27b5f",
+      "plan": {
+        "central_question": "Was übersieht, wer andere und ihre Wege von vornherein gering schätzt?",
+        "meaning_type": "Lehre",
+        "core": "Ein unscheinbarer Weg und ernst genommene Hilfe können weiterführen als selbstsichere Geringschätzung. Wiederholt verlorene Vergleiche werden nicht durch neue Forderungen wahrer.",
+        "evidence": [
+          {
+            "event": "Die älteren Brüder nehmen die Aufgaben auf die leichte Schulter",
+            "meaning": "Die unterschiedlichen Haltungen erklären den Kontrast der Ergebnisse besser als die äußere Größe der Reise."
+          }
+        ],
+        "causal_chain": [
+          "Die älteren Brüder nehmen die Aufgaben auf die leichte Schulter",
+          "Auch die letzte Prüfung bestätigt den Jüngsten; er wird Nachfolger."
+        ],
+        "ending": "Auch die letzte Prüfung bestätigt den Jüngsten; er wird Nachfolger.",
+        "recommended_count": 12,
+        "reason": "Drei vergleichbare Aufgaben müssen die wiederkehrende Fehleinschätzung und deren Scheitern tragen.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-gaensemagd",
+      "source_sha256": "3ab9128e840090906e19c557f72426a8fa0da632a6ad651d1f9afd623d2c10ee",
+      "plan": {
+        "central_question": "Wie kann Wahrheit unter einem erzwungenen Schweigen wieder Gehör finden?",
+        "meaning_type": "Erkenntnis",
+        "core": "Eine unterdrückte Identität wird nicht allein durch Rang sichtbar. Aufmerksames Zuhören und ein sicherer Ausdrucksweg können die Macht einer erzwungenen Täuschung begrenzen.",
+        "evidence": [
+          {
+            "event": "lässt er sie einem Ofen berichten und hört dabei zu.",
+            "meaning": "Der König eröffnet einen Weg, die Wahrheit zu erfahren, ohne sie einfach zu einer direkten Aussage zu zwingen."
+          }
+        ],
+        "causal_chain": [
+          "lässt er sie einem Ofen berichten und hört dabei zu.",
+          "Die wirkliche Königstochter wird anerkannt; die falsche Braut wird entlarvt."
+        ],
+        "ending": "Die wirkliche Königstochter wird anerkannt; die falsche Braut wird entlarvt.",
+        "recommended_count": 14,
+        "reason": "Verlust des Schutzes, erzwungener Tausch, beobachtete Spuren und hörbar gemachtes Leid brauchen Verbindung.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-schneekoenigin",
+      "source_sha256": "34d5d80f12caa26a9a8006b76e7af79a7f21e3d392aa20dbccfb37c15818b381",
+      "plan": {
+        "central_question": "Was kann einen entfremdeten Menschen wieder für Beziehungen erreichbar machen?",
+        "meaning_type": "Erkenntnis",
+        "core": "Unbeirrte Zuwendung kann eine erstarrte Wahrnehmung aufbrechen. Entscheidend ist das Wiedererkennen des anderen, nicht der Sieg in einer kalten Leistungsprüfung.",
+        "evidence": [
+          {
+            "event": "Ihre Tränen lösen das Eis in seinem Herzen.",
+            "meaning": "Die emotionale Verbindung bewirkt, was das isolierte Rätsellösen nicht zustande bringt."
+          }
+        ],
+        "causal_chain": [
+          "Ihre Tränen lösen das Eis in seinem Herzen.",
+          "Kay erkennt Gerda wieder; beide verlassen den Palast und kehren heim."
+        ],
+        "ending": "Kay erkennt Gerda wieder; beide verlassen den Palast und kehren heim.",
+        "recommended_count": 12,
+        "reason": "Unterstützter Weg, alleiniger letzter Zugang, Wiedererkennen und gemeinsamer Ausweg benötigen deutliche Momente.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-kaiser-kleider",
+      "source_sha256": "b12af88827ad8a255e97f77b219c5b213bc7678bd0f7fab40f96fc4eb1587cb3",
+      "plan": {
+        "central_question": "Wie wird eine offenkundige Unwahrheit zur gemeinsam aufrechterhaltenen Wahrheit?",
+        "meaning_type": "Lehre",
+        "core": "Angst um Ansehen kann Menschen dazu bringen, das sichtbar Falsche zu bestätigen. Eine offene Aussage bricht die Täuschung, hebt aber die Macht des Gesichtsverlusts nicht sofort auf.",
+        "evidence": [
+          {
+            "event": "Der Kaiser ahnt die Wahrheit, setzt den Umzug aber fort.",
+            "meaning": "Die öffentliche Entlarvung führt nicht automatisch zur Bereitschaft, den eigenen Irrtum einzugestehen."
+          }
+        ],
+        "causal_chain": [
+          "Der Kaiser ahnt die Wahrheit, setzt den Umzug aber fort.",
+          "Das Kind spricht aus, was alle sehen; die Menge stimmt zu, doch der Umzug geht weiter."
+        ],
+        "ending": "Das Kind spricht aus, was alle sehen; die Menge stimmt zu, doch der Umzug geht weiter.",
+        "recommended_count": 12,
+        "reason": "Erfundene Prüfung, abgestuftes Mitlügen und die unbefangene Gegenstimme müssen aufgebaut sein.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-tannenbaum",
+      "source_sha256": "c8ff74a1db68032575ed9a987313ac872b6324f5b378b07afd8e97bf6a0e6ab3",
+      "plan": {
+        "central_question": "Was verliert ein Leben, das seinen Wert immer in die Zukunft verschiebt?",
+        "meaning_type": "Lehre",
+        "core": "Wer den nächsten Zustand ständig für den einzig lebenswerten hält, kann die unwiederbringliche Gegenwart erst erkennen, wenn sie vorbei ist.",
+        "evidence": [
+          {
+            "event": "Erst am Ende versteht er den Wert der vergangenen Augenblicke.",
+            "meaning": "Die späte Erkenntnis gewährt hier keine zweite Chance; gerade das begründet ihre Dringlichkeit."
+          }
+        ],
+        "causal_chain": [
+          "Erst am Ende versteht er den Wert der vergangenen Augenblicke.",
+          "Der Baum wird verbrannt und erkennt den Wert des längst verlorenen Lebens im Wald."
+        ],
+        "ending": "Der Baum wird verbrannt und erkennt den Wert des längst verlorenen Lebens im Wald.",
+        "recommended_count": 12,
+        "reason": "Sehnsucht, kurzer Glanz, Warten und endgültige Vergänglichkeit sollen die verfehlte Gegenwart wiederholt spiegeln.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-schatten",
+      "source_sha256": "3e1431256009ed0a248a783b656a8a5f77eb27b4c703a8e068491884a5cae26f",
+      "plan": {
+        "central_question": "Was geschieht, wenn gesellschaftliche Wirkung wichtiger wird als die zugrunde liegende Wahrheit?",
+        "meaning_type": "Offene Frage",
+        "core": "Ein wirkungsmächtiger Schein kann seinen Ursprung verdrängen und den wahrhaftigen Menschen auslöschen. Die Erzählung verweigert die tröstliche Gewissheit, Wahrheit setze sich von selbst durch.",
+        "evidence": [
+          {
+            "event": "Der ursprüngliche Mensch wird getötet, ohne dass die Feiernden seine Wahrheit erfahren.",
+            "meaning": "Der erfolgreiche Betrug bleibt bis zum Schluss gesellschaftlich anerkannt."
+          }
+        ],
+        "causal_chain": [
+          "Der ursprüngliche Mensch wird getötet, ohne dass die Feiernden seine Wahrheit erfahren.",
+          "Der Schatten heiratet die Königstochter; der Gelehrte wird getötet."
+        ],
+        "ending": "Der Schatten heiratet die Königstochter; der Gelehrte wird getötet.",
+        "recommended_count": 14,
+        "reason": "Verselbstständigung, sozialer Aufstieg, Rollentausch und gescheiterte Enthüllung müssen den Machtwechsel tragen.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-schwefelhoelzer",
+      "source_sha256": "90d9de4ff47b5e99f4b384c362bf6c33cf8e53463501240a50465e6dbb065c3b",
+      "plan": {
+        "central_question": "Was sehen Außenstehende nicht, wenn ein hilfloser Mensch unbemerkt zugrunde geht?",
+        "meaning_type": "Offene Frage",
+        "core": "Die tröstende innere Erfahrung eines leidenden Kindes hebt das Versagen äußerer Hilfe nicht auf. Zwischen dem erlebten Trost und dem gesellschaftlich sichtbaren Elend bleibt eine schmerzhafte Kluft.",
+        "evidence": [
+          {
+            "event": "Am Morgen finden die Menschen das erfrorene Kind und sehen nur die abgebrannten Hölzer.",
+            "meaning": "Der Außenblick erfasst den Tod, nicht die innere Erfahrung; kein glücklicher Rettungsausgang wird daraus."
+          }
+        ],
+        "causal_chain": [
+          "Am Morgen finden die Menschen das erfrorene Kind und sehen nur die abgebrannten Hölzer.",
+          "Das Kind erfriert; seine Vision und der morgendliche Fund bleiben unterschiedliche Ebenen."
+        ],
+        "ending": "Das Kind erfriert; seine Vision und der morgendliche Fund bleiben unterschiedliche Ebenen.",
+        "recommended_count": 12,
+        "reason": "Wiederholte kurze Lichtvisionen und die abschließende äußere Wirklichkeit brauchen klare Trennung.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-zeitmaschine",
+      "source_sha256": "035a46916ed155f9fc9f066413573b448dfe28b7dcd21f7ca772043498227431",
+      "plan": {
+        "central_question": "Darf eine bequeme Oberfläche mit einem gelösten Menschheitsproblem verwechselt werden?",
+        "meaning_type": "Erkenntnis",
+        "core": "Wohlbefinden im sichtbaren Augenblick ist kein verlässlicher Maßstab für eine Gesellschaft, solange Wissen, Abhängigkeiten und verdrängte Gefahren unbekannt bleiben.",
+        "evidence": [
+          {
+            "event": "dass unter der friedlichen Oberfläche etwas verborgen ist.",
+            "meaning": "Die verlorene Rückkehrmöglichkeit zwingt zur Prüfung der ersten vermeintlichen Utopie."
+          }
+        ],
+        "causal_chain": [
+          "dass unter der friedlichen Oberfläche etwas verborgen ist.",
+          "Der Reisende bleibt vorerst gefangen und beschließt, seine Maschine zu suchen."
+        ],
+        "ending": "Der Reisende bleibt vorerst gefangen und beschließt, seine Maschine zu suchen.",
+        "recommended_count": 12,
+        "reason": "Ankunft, optimistischer Ersteindruck, widersprechende Beobachtungen und verlorener Rückweg begründen die Umwertung.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-rikkitikkitavi",
+      "source_sha256": "618a1152806f5b13597689870ba168f6e24ee43f5044532dc35b774153f6e04e",
+      "plan": {
+        "central_question": "Wie wird aus erhaltener Zuflucht Verantwortung für die anderen?",
+        "meaning_type": "Erkenntnis",
+        "core": "Zugehörigkeit kann tätigen Schutz begründen; Mut wirkt dabei zusammen mit genauer Beobachtung und angenommener Hilfe statt als bloße Angriffslust.",
+        "evidence": [
+          {
+            "event": "Mit Hilfe der Gartenvögel findet Rikki Nagainas Eier",
+            "meaning": "Die Bewahrung des Gartens beruht auch auf dem Wissen der Gemeinschaft."
+          }
+        ],
+        "causal_chain": [
+          "Mit Hilfe der Gartenvögel findet Rikki Nagainas Eier",
+          "Rikki kehrt aus dem Bau zurück; die Familie und der Garten sind wieder sicher."
+        ],
+        "ending": "Rikki kehrt aus dem Bau zurück; die Familie und der Garten sind wieder sicher.",
+        "recommended_count": 14,
+        "reason": "Aufnahme, erkannte Gefahr, Hausangriff, Hilfe der Vögel und entscheidender Rückkehrmoment brauchen kausalen Aufbau.",
+        "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-sleepy-hollow",
+      "source_sha256": "7fc413b7a1b5e9732b0833cfe641ec124f8503013c7d64fb35fc163409bb00ca",
+      "plan": {
+        "central_question": "Wie sicher ist eine Erklärung, die aus Angst und vorgeprägten Bildern entsteht?",
+        "meaning_type": "Offene Frage",
+        "core": "Erwarteter Schrecken prägt Wahrnehmung. Mehrdeutige Spuren können eine übernatürliche Gewissheit erschüttern, ohne eine einzige menschliche Erklärung zu beweisen.",
+        "evidence": [
+          {
+            "event": "ob übernatürlicher Schrecken oder menschlicher Streich, bleibt in der Erzählung offen.",
+            "meaning": "Der Kürbis eröffnet eine andere Lesart, liefert aber keine eindeutige Aufklärung."
+          }
+        ],
+        "causal_chain": [
+          "ob übernatürlicher Schrecken oder menschlicher Streich, bleibt in der Erzählung offen.",
+          "Ichabod bleibt verschwunden; Hut und Kürbis lassen den Ausgang mehrdeutig."
+        ],
+        "ending": "Ichabod bleibt verschwunden; Hut und Kürbis lassen den Ausgang mehrdeutig.",
+        "recommended_count": 12,
+        "reason": "Erzählte Furcht, nächtliche Wahrnehmung, Verfolgung und neue Morgen-Spur müssen getrennt bleiben.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-geheimer-garten",
+      "source_sha256": "75d67a54a9459d01f245ac674f6bda08c942c965d92395fa9df88995c49b0929",
+      "plan": {
+        "central_question": "Wie können Fürsorge und gemeinsame Tätigkeit Einsamkeit verändern?",
+        "meaning_type": "Erkenntnis",
+        "core": "Wer lebendigem Wachstum beständig Raum schafft, kann zugleich wieder Zugang zu Freude und Beziehung gewinnen. Heilung beginnt in kleinen wiederholten Handlungen.",
+        "evidence": [
+          {
+            "event": "Marys neuer Freude an täglicher Arbeit im Freien.",
+            "meaning": "Die sichtbare Veränderung des Gartens steht mit einer veränderten Haltung und neuem Beistand in Verbindung."
+          }
+        ],
+        "causal_chain": [
+          "Marys neuer Freude an täglicher Arbeit im Freien.",
+          "Ein erster Teil des Gartens lebt wieder auf; Mary erlebt Freude an Arbeit und Freundschaft."
+        ],
+        "ending": "Ein erster Teil des Gartens lebt wieder auf; Mary erlebt Freude an Arbeit und Freundschaft.",
+        "recommended_count": 10,
+        "reason": "Verschlossenheit, entdeckter Zugang, eigene Pflege und geteiltes Wachstum tragen diesen begrenzten Ausschnitt.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    },
+    {
+      "kind": "source",
+      "id": "comic-quellen-5-zauberer-oz",
+      "source_sha256": "b832eb09960b5d1617523b848abc9334ac96f8244136ee8da0e7d46dc68444dd",
+      "plan": {
+        "central_question": "Wer darf einem Menschen bestätigen, was er längst selbst bewiesen hat?",
+        "meaning_type": "Erkenntnis",
+        "core": "Verstand, Mitgefühl und Mut können im eigenen Handeln bereits vorhanden sein, bevor eine vermeintliche Autorität sie mit Zeichen beglaubigt.",
+        "evidence": [
+          {
+            "event": "ihre Reise längst Verstand, Mitgefühl und Mut bewiesen hat.",
+            "meaning": "Die Gaben schaffen die Fähigkeiten nicht neu, sondern machen vorhandene Leistungen anerkennbar."
+          }
+        ],
+        "causal_chain": [
+          "ihre Reise längst Verstand, Mitgefühl und Mut bewiesen hat.",
+          "Oz wird entlarvt und gibt symbolische Bestätigungen; Dorothys Heimkehr bleibt noch offen."
+        ],
+        "ending": "Oz wird entlarvt und gibt symbolische Bestätigungen; Dorothys Heimkehr bleibt noch offen.",
+        "recommended_count": 12,
+        "reason": "Verweigerte Belohnung, Enthüllung, neue Bewertung und symbolische Anerkennung bilden die eigentliche Wendung.",
+        "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden."
+      }
+    }
+  ]
+}
