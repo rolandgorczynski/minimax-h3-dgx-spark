@@ -18,6 +18,10 @@ function updateWorkflowState(){
  if(!workflowInstalled)return;
  const selector=$('render-story-list');selector.replaceChildren(new Option('Skript auswählen',''),...definitions.map(doc=>new Option(doc.name,doc.id)));selector.value=definitionId;
  const ready=$('editor-mode').value==='editorial'&&!needsPlan()&&!planningJob;
+ const previous=editorPayload.planned_count??editorPayload.scenes?.length??0,current=Number($('count').value);
+ const changed=previous>0&&current!==previous,valid=Number.isSafeInteger(current)&&current>0;
+ $('count-replan').disabled=$('editor-mode').value!=='editorial'||!!planningJob||!changed||!valid;
+ $('count-change-hint').textContent=changed&&valid?'Kachelanzahl geändert: '+previous+' → '+current+'. Skript neu erstellen, bevor du Bilder erzeugst. Bestehende Comics bleiben erhalten.':'';
  $('script-to-render').disabled=!ready;
  $('render-comic').disabled=!ready||!$('style').value;
  $('workflow-render-summary').textContent=($('story-name').value||'Noch kein Skript gewählt')+' · '+$('count').value+' Kacheln · '+(planningJob?'Skript wird erstellt':ready?'Skript bereit':'Skript zuerst in Schritt 1 erstellen oder aktualisieren');

@@ -28,6 +28,13 @@ zuerst eine Geschichte und erstellt einen prüfbaren Szenenplan. Keine Bilder.
 **Neue Geschichte vorbereiten** übernimmt vorhandene Einstellungen als Ausgangspunkt
 für einen neuen Entwurf, startet aber noch keinen Auftrag.
 
+Bei einer geänderten Kachelanzahl wird direkt daneben **Skript neu erstellen**
+aktiv. Der Hinweis zeigt die bisherige und die neue Anzahl. Nach Bestätigung wird
+das Skript neu aufgeteilt; Bilder werden dabei nicht erzeugt. Bis zur bestätigten
+Neuplanung bleiben die bisherigen Szenen erhalten, auch beim Verkleinern der
+Kachelanzahl. Bei Buch-/Filmvorlagen gibt es denselben Button für ein neues
+Quellenskript; bereits übernommene Geschichten und Comic-Ausgaben bleiben erhalten.
+
 Das Skript speichern und mit **Weiter zur Comic-Gestaltung** fortfahren.
 
 ## 2 · Comic erzeugen
