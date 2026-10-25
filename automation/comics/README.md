@@ -1032,3 +1032,12 @@ API (lokal authentifiziert):
 - `GET /jobs/ID/share/telegram`: Kanalstatus und bisherigen Versand anzeigen.
 - `POST /jobs/ID/share/telegram` mit `post_version` und `channel_id`: gespeicherten
   Beitragstext und vorhandene Bilder ausdrücklich veröffentlichen.
+
+## Vollständige lokale Offline-Sicherung
+
+`scripts/backup_comic_studio.py` sichert die beiden betroffenen Docker-Dienste,
+Anwendungsdaten, installierte Laufzeit, ComfyUI-/Ollama-Modelle und den vorhandenen
+HF-Cache nach `/mnt/backup/comic-studio/`. Die Comic-Dienste werden für die
+Sicherung angehalten und danach wieder gestartet. Kein Recovery-Test.
+
+[Aufruf, Hintergrundbetrieb, Stromausfall und manuelle Wiederherstellung](../../docs/Comic_Studio_Offline_Backup.md).
