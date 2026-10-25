@@ -80,7 +80,7 @@ class StoriesTests(unittest.TestCase):
         from art_styles import CATALOG
         import importlib.util
         spec=importlib.util.spec_from_file_location('style_registry_test',ROOT/'extensions/dgx-comics/story.py');native=importlib.util.module_from_spec(spec);spec.loader.exec_module(native)
-        self.assertEqual(list(native.STYLES),STYLES);self.assertEqual(len(STYLES),64)
+        self.assertEqual(list(native.STYLES),STYLES);self.assertEqual(len(STYLES),74)
         self.assertEqual([s['name'] for s in CATALOG],STYLES)
         for style in STYLES:self.assertEqual(validate_request({'stil':style})['stil'],style)
 

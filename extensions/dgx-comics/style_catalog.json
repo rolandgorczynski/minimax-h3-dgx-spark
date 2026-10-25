@@ -446,5 +446,75 @@
     "category": "Digital und 3D",
     "description": "Räumliche Figuren, weiches Licht und ausdrucksstarke Gesichter.",
     "prompt": "Stylized three dimensional animation illustration, appealing dimensional original adult character, expressive face, soft cinematic lighting, rich tactile material surfaces."
+  },
+  {
+    "id": "stil-65",
+    "name": "Gravierte Dunkelfantasy",
+    "category": "Sagen und Fantasy",
+    "description": "Feine gravierte Schraffuren, verwittertes Metall und düstere Lichtakzente.",
+    "prompt": "Dark fantasy engraving illustration, extremely fine incised crosshatching, etched metal texture, weathered armor and stone, restrained cold gray palette with tiny amber light accents, dramatic chiaroscuro, readable anatomy."
+  },
+  {
+    "id": "stil-66",
+    "name": "Slawische Volkskunst",
+    "category": "Sagen und Fantasy",
+    "description": "Flächige Figuren, kräftiges Rot und traditionelle florale Ornamente.",
+    "prompt": "Slavic folk art inspired narrative illustration, flat cut-paper-like figures, bold vermilion red cream and forest green palette, stylized floral embroidery borders, decorative symmetrical patterns, clear expressive faces, no lettering."
+  },
+  {
+    "id": "stil-67",
+    "name": "Historischer Abenteuer-Manga",
+    "category": "Manga und asiatische Kunst",
+    "description": "Präzise historische Details, dynamische Tusche und ausdrucksstarke Gesichter.",
+    "prompt": "Historical adventure manga illustration, expressive realistic adult faces, precise period clothing and material details, energetic tapered black ink strokes, crisp screentone shadows, dynamic cinematic framing, monochrome with restrained sepia accents."
+  },
+  {
+    "id": "stil-68",
+    "name": "Filmischer Animationscomic",
+    "category": "Digital und 3D",
+    "description": "Gezeichnete Figuren, gemalte Hintergründe und starkes filmisches Licht.",
+    "prompt": "Cinematic hand drawn animation illustration, expressive clean drawn characters against richly painted atmospheric backgrounds, luminous rim lighting, dramatic color script, sophisticated two dimensional animation feature aesthetic, no 3D rendering."
+  },
+  {
+    "id": "stil-69",
+    "name": "Rotoskopie",
+    "category": "Digital und 3D",
+    "description": "Natürliche Körperhaltung, gezeichnete Konturen und vereinfachte Farbflächen.",
+    "prompt": "Rotoscoped animation comic aesthetic, believable live action anatomy and natural gestures, traced flowing contour lines, simplified flat color patches over realistic facial planes, subtle analog grain, observational cinematic composition."
+  },
+  {
+    "id": "stil-70",
+    "name": "Kohlezeichnung",
+    "category": "Malerei",
+    "description": "Raue Papierstruktur, verwischte Schatten und markante Lichtflächen.",
+    "prompt": "Expressive charcoal drawing on rough cream paper, broad dusty black charcoal strokes, smudged soft shadows, erased bright highlights, visible paper tooth, strong facial modeling, strictly monochrome handmade drawing."
+  },
+  {
+    "id": "stil-71",
+    "name": "Schabkarton",
+    "category": "Druck und Grafik",
+    "description": "Fein gekratzte weiße Linien auf tiefschwarzem Grund.",
+    "prompt": "Scratchboard art on a completely solid jet black background. Entire image is predominantly black. The figure is revealed ONLY by very thin bright white scratched contour lines and delicate white parallel hatching. Black face shadows merge into the black background. White engraved highlights on face and cloak. No white background, no gray wash, no color, no solid white silhouette."
+  },
+  {
+    "id": "stil-72",
+    "name": "Risografie",
+    "category": "Druck und Grafik",
+    "description": "Körniger Zweifarbendruck mit versetzten Farbschichten.",
+    "prompt": "Two ink risograph comic print, fluorescent coral and cobalt blue spot colors on warm uncoated paper, visibly misregistered overlapping ink layers, grainy stencil texture, halftone shapes, limited palette, flat graphic composition."
+  },
+  {
+    "id": "stil-73",
+    "name": "Isometrischer Comic",
+    "category": "Digital und 3D",
+    "description": "Schräge Ansicht mit klar lesbaren Figuren und räumlicher Übersicht.",
+    "prompt": "Isometric narrative illustration with orthographic three quarter overhead projection, consistent parallel axes without perspective vanishing points, readable dimensional figures and environment, detailed miniature diorama composition, crisp illustrated edges, no interface or lettering."
+  },
+  {
+    "id": "stil-74",
+    "name": "Knetfigurenoptik",
+    "category": "Humor und Familie",
+    "description": "Handgeformte Figuren, sichtbare Fingerspuren und weiches Studiolicht.",
+    "prompt": "Hand sculpted claymation illustration, colored plasticine figures with visible fingerprints and sculpting marks, slightly irregular handmade forms, expressive adult clay face, tactile matte clay surfaces, soft miniature studio lighting, no fabric puppet textures."
   }
 ]

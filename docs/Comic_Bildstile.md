@@ -1,6 +1,6 @@
-# Bildstil-Bibliothek mit 64 lokalen Vorschaubildern
+# Bildstil-Bibliothek mit 74 lokalen Vorschaubildern
 
-Die Bibliothek ergänzt die vorhandenen elf Bildstile um 53 weitere Richtungen.
+Die Bibliothek umfasst 74 Bildstile in elf Kategorien.
 Die bisherigen Stilnamen und ihre Bildvorgaben bleiben erhalten.
 
 ## Auswahl im Dashboard
@@ -181,3 +181,22 @@ Deutschpflicht wird dadurch nicht abgeschaltet.
 
 Ein alter Fehlereintrag bleibt als Protokoll bestehen. Nach Installation des
 Fixes die Skripterstellung bei der ausgewählten Quelle erneut starten.
+
+## Zehn zusätzliche Richtungen
+
+| Bildstil | Kategorie | Bildwirkung |
+|---|---|---|
+| Gravierte Dunkelfantasy | Sagen und Fantasy | Feine gravierte Schraffuren, verwittertes Metall und düstere Lichtakzente. |
+| Slawische Volkskunst | Sagen und Fantasy | Flächige Figuren, kräftiges Rot und traditionelle florale Ornamente. |
+| Historischer Abenteuer-Manga | Manga und asiatische Kunst | Präzise historische Details, dynamische Tusche und ausdrucksstarke Gesichter. |
+| Filmischer Animationscomic | Digital und 3D | Gezeichnete Figuren, gemalte Hintergründe und starkes filmisches Licht. |
+| Rotoskopie | Digital und 3D | Natürliche Körperhaltung, gezeichnete Konturen und vereinfachte Farbflächen. |
+| Kohlezeichnung | Malerei | Raue Papierstruktur, verwischte Schatten und markante Lichtflächen. |
+| Schabkarton | Druck und Grafik | Fein gekratzte weiße Linien auf tiefschwarzem Grund. |
+| Risografie | Druck und Grafik | Körniger Zweifarbendruck mit versetzten Farbschichten. |
+| Isometrischer Comic | Digital und 3D | Schräge Ansicht mit klar lesbaren Figuren und räumlicher Übersicht. |
+| Knetfigurenoptik | Humor und Familie | Handgeformte Figuren, sichtbare Fingerspuren und weiches Studiolicht. |
+
+Die neuen Vorschauen entstehen mit dem vorhandenen lokalen Bildmodell. Sie zeigen
+Stilbeispiele; die Umsetzung in einer konkreten Szene kann abweichen. Für
+Isometrie wird auch die Umgebung in den Vergleich aufgenommen.

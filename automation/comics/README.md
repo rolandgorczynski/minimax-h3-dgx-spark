@@ -488,7 +488,9 @@ Löschversuch während der Erzeugung liefert HTTP 409.
 
 ## Unterstützte Bildstile
 
-Die Auswahl umfasst elf Stile. Alle verwenden die vorhandenen lokalen Bildmodelle;
+Die Auswahl umfasst 74 Stile in elf Kategorien. Die folgende Tabelle zeigt die
+ursprünglichen elf Richtungen; der vollständige Katalog steht unter
+[Bildstil-Bibliothek](../../docs/Comic_Bildstile.md). Alle verwenden die vorhandenen lokalen Bildmodelle;
 die Unterschiede werden durch die jeweiligen Bildanweisungen definiert.
 
 | Stil | Bildwirkung |
@@ -955,7 +957,7 @@ Erzählertexte bleiben dabei erhalten. Vorhandene Ausgaben werden nicht verände
 
 ## Bildstil-Bibliothek
 
-**Bildstile mit Vorschau** öffnet 64 Stile mit Kategorien und Suche. Die Auswahl
+**Bildstile mit Vorschau** öffnet 74 Stile mit Kategorien und Suche. Die Auswahl
 ist im Storyeditor, im Quellengenerator und bei Serienfolgen verfügbar.
 Seitenvorlage und Szenen bleiben erhalten. Die Vorschaubilder werden lokal
 erzeugt und zeigen ein allgemeines Vergleichsmotiv ohne private Figurenreferenzen.

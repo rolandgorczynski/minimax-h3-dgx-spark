@@ -40,6 +40,8 @@ def main():
                 if not queue['queue_running'] and not queue['queue_pending']:break
                 print('Warte auf freie lokale ComfyUI-Warteschlange.',flush=True);time.sleep(5)
             prompt='Character reference portrait, exactly one original fictional adult traveler, short dark hair, plain cloak, holding a small lantern. Head and upper torso clearly visible, neutral background. No known character, no emblem, no text, no lettering. Art style: '+style['prompt']
+            if style['id']=='stil-73':
+                prompt='Exactly one original fictional adult traveler with short dark hair and a plain cloak, holding a small lantern, standing beside a stone stairway and a small doorway. Full figure and surrounding architecture clearly visible, consistent isometric overhead projection. No known character, no emblem, no text, no lettering. Art style: '+style['prompt']
             graph=dict(loaders)
             graph.update({
                 '90':{'class_type':'CLIPTextEncode','inputs':{'clip':[find('CLIPLoader'),0],'text':prompt}},

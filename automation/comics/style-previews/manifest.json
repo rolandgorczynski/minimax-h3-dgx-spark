@@ -702,5 +702,115 @@
       264
     ],
     "local_model": true
+  },
+  "stil-65": {
+    "name": "Gravierte Dunkelfantasy",
+    "prompt_sha256": "1ee4dda82ae6b1a4509751f54babd4d15dad1cbc0394b8e4bce18d62e04024e3",
+    "sha256": "33b3e2d65126c5a407ef061741f66ba207458fc422dd7580cc7f6a75ffb99263",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-66": {
+    "name": "Slawische Volkskunst",
+    "prompt_sha256": "3ab11d0b5df27e1532e69e0f8066aea208b1fc561d64485486486ca6d2fcad65",
+    "sha256": "174b3423c9fec0018ddf6520916076e89d8decbf5bb3965f684b551dbe23a9b2",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-67": {
+    "name": "Historischer Abenteuer-Manga",
+    "prompt_sha256": "80067cac49c516c0965e48fe0f287a95ecd3377516a0960d4f3751c52cfc92b6",
+    "sha256": "179e9d3771e7e58ad1a7289c57d00253584d8844b6aecb43c893730a2f7d844b",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-68": {
+    "name": "Filmischer Animationscomic",
+    "prompt_sha256": "fe6a7b3f6766464ac7c342201cc818031cba7671ffd6107abc0a65cefc1a2f0e",
+    "sha256": "c304dee0c68b31d23a31d22793b4f19a5328d040f77cbfd57e57837b89ca09d4",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-69": {
+    "name": "Rotoskopie",
+    "prompt_sha256": "e45305314b24dedb417bce215b0e8835157a30de1bd8a01fce1ad8ec2a7d269e",
+    "sha256": "4d2a0955e4437eec14a37229ca2fc4aad9daf802adf135e5ebc7e9f1161119cd",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-70": {
+    "name": "Kohlezeichnung",
+    "prompt_sha256": "d1627d2e1acb0a6a03dd28df90e3172adbcdee2d06b4ab86913faf1373c5dfa9",
+    "sha256": "160b0d26430da0c866454bed7efbfb0625f35ec0d9c30965d0762c916f19ba27",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-71": {
+    "name": "Schabkarton",
+    "prompt_sha256": "66fcaf34bbc5cf57270b5b43a4946f1acbe650a386d0b604a0b5c9ad8ae17d34",
+    "sha256": "29c6a7b852fc96d49a35b593d2385bf586997d5a30d4d589ee0a228952e4d7c2",
+    "seed": 600286581,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-72": {
+    "name": "Risografie",
+    "prompt_sha256": "669611177e906aec5db5ce0e8541e2fa4762fbf5b213e08d1002b9937171afe5",
+    "sha256": "9e123da3daeeab6f3d6f8023c3ed46f3d6054b027a2d274a9f5df94558ecfff4",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-73": {
+    "name": "Isometrischer Comic",
+    "prompt_sha256": "59b016eb35163c12a884aedc0c2b31fe4ae8f35d996649d45aedd4dcc81290d9",
+    "sha256": "ec2130c9e7797b934bae45b454adf64aca8a408d551a56b4739e2f9ed32b86ff",
+    "seed": 187379563,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
+  },
+  "stil-74": {
+    "name": "Knetfigurenoptik",
+    "prompt_sha256": "602c5cb9cb678cbacf72866557d5e09e33f1946eccc5cd807a7f29660a942c5a",
+    "sha256": "f219a079e664e1dc8e0201ac0bd75a9733d352e5633d081da5b692552c251013",
+    "seed": 1984,
+    "preview_size": [
+      384,
+      264
+    ],
+    "local_model": true
   }
 }
