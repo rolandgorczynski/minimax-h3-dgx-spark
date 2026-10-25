@@ -1,3 +1,5 @@
+> Für neue Sicherungen ist der [rsnapshot-Ablauf](Docker_Rsnapshot_Offline_Backup.md) vorgesehen. Er ist installiert; ein erster vollständiger Stand wurde erfolgreich erstellt. Die Cron-Einrichtung ist separat beschrieben. Das unten beschriebene Archivverfahren ist der bisherige Ansatz.
+
 # Comic-Studio: vollständige Offline-Sicherung und Wiederherstellung
 
 ## Sicherung starten
@@ -269,3 +271,25 @@ kann der Betreiber das Dashboard normal öffnen. Die Anleitung und das Backup
 starten keinen Comic, veröffentlichen keinen Telegram-Beitrag und führen keinen
 Recovery-Test aus. Der wieder gestartete vorhandene Telegram-Trigger behält jedoch
 seine gesicherten Einstellungen und nimmt seinen normalen Betrieb wieder auf.
+
+### Dauerhafte Leseberechtigung für geschützte Ollama-Modelle
+
+Einmalig lokal ausführen:
+
+```bash
+sudo bash /home/jee/docker/minimax-h3-dgx-spark/scripts/install_backup_sudo.sh
+```
+
+Dies startet keine Sicherung und ändert keine Modell-Dateirechte. Der Installer
+legt einen root-eigenen Helfer und eine mit `visudo` geprüfte sudoers-Regel an.
+Nur dieser Helfer darf ohne Passwort die Modelle unter
+`/usr/share/ollama/.ollama/models` als Archiv ausgeben; Argumente und alternative
+Pfade sind nicht erlaubt. Das Backup verwendet ihn automatisch. Andere sudo-Befehle
+werden dadurch nicht freigegeben. Bestehende Teilarchive werden weiterhin nicht
+automatisch fortgesetzt. Für abweichende Ollama-Pfade gilt diese Regel nicht.
+
+Zum Entfernen der Berechtigung:
+
+```bash
+sudo rm /etc/sudoers.d/comic-backup-ollama /usr/local/sbin/comic-backup-ollama
+```

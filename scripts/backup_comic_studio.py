@@ -323,7 +323,12 @@ def main():
                     'name': '${COMIC_RESTORE_NETWORK:-' + network + '}'}}})
             say('Sichere Modelle und vorhandene HF-Cache-Struktur. Kein Download …')
             for name,area in model_areas.items():
-                archive(tar_options()+['-C',str(area),'.'],partial/'data'/(name+'.tar.zst'))
+                command = tar_options()+['-C',str(area),'.']
+                if (name == 'ollama-modelle' and os.geteuid() != 0
+                        and area == Path('/usr/share/ollama/.ollama/models')
+                        and Path('/usr/local/sbin/comic-backup-ollama').exists()):
+                    command = ['sudo', '-n', '/usr/local/sbin/comic-backup-ollama']
+                archive(command,partial/'data'/(name+'.tar.zst'))
             # Ollama bleibt für andere Anwendungen verfügbar. Modellblobs sind inhaltsadressiert;
             # während der Sicherung keine Modelle installieren/löschen. Tar meldet Änderungen.
             archive(tar_options()+['-C','/',*[str(path).lstrip('/') for path in runtime_paths]],partial/'ollama-programm.tar.zst')

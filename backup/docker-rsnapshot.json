@@ -1,0 +1,19 @@
+{
+  "project_root": "/home/jee/docker",
+  "home": "/home/jee",
+  "backup_mount": "/mnt/backup",
+  "backup_uuid": "43610968-0243-4436-a150-276c261036bc",
+  "snapshot_root": "/mnt/backup/docker-offline",
+  "state_root": "/var/lib/docker-offline-backup",
+  "base_config": "/etc/rsnapshot.conf",
+  "host_services": [
+    "ollama.service"
+  ],
+  "additional_sources": [
+    "/usr/local/bin/ollama",
+    "/usr/local/lib/ollama",
+    "/etc"
+  ],
+  "optional_sources": [],
+  "reserve_bytes": 10737418240
+}

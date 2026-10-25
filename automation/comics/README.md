@@ -33,7 +33,10 @@ Der separate Compose-Projektname ist **comic-automation**. Netzwerkstandard ist
 Der Dienst besitzt keinen Docker-Socket, keine GPU und keinen direkten Zugriff
 auf ComfyUIs Datenverzeichnisse. Das einzige eingebundene Repository-Dokument ist
 seine schreibgeschützte Workflow-Vorlage. Aufträge und Ergebnisse liegen im eigenen
-Volume `comic-automation_comic-automation-data`.
+Datenverzeichnis `/home/jee/docker-data/comic-automation` (Bind-Mount nach `/data`).
+Bei Bedarf lässt sich der Hostpfad über `COMIC_AUTOMATION_DATA_DIR` anpassen. Das
+Verzeichnis muss vorher existieren; Compose legt kein leeres Ersatzverzeichnis an.
+Das frühere benannte Volume bleibt nach der Umstellung als Rückfallkopie erhalten.
 
 Benötigte vorhandene Modelle in ComfyUI:
 
@@ -471,7 +474,7 @@ oder wartet, ist das Löschen gesperrt. Die gemeinsame Figurenbibliothek und
 ComfyUIs gespeicherte Workflows bleiben erhalten.
 
 Die Verwaltung speichert Definitionen in einer zusätzlichen Tabelle im bestehenden
-Automationsvolume. Ein Kopieren der Storyboard-Referenzen in die gemeinsame
+Datenverzeichnis der Automation. Ein Kopieren der Storyboard-Referenzen in die gemeinsame
 Figurenbibliothek findet nicht statt.
 
 ### Schnittstellen
@@ -625,7 +628,7 @@ Geschichten-, Modell- oder Bildgenerierung.
 
 Unter **Meine Veröffentlichungsziele** trägst du deine Substack-Adresse und optional
 deine X-Adresse selbst ein. Beide Felder sind anfangs leer und bleiben frei
-änderbar. Die Einstellungen liegen dauerhaft im Automationsvolume. Das Eintragen
+änderbar. Die Einstellungen liegen dauerhaft im Datenverzeichnis der Automation. Das Eintragen
 einer Profiladresse verbindet kein Konto und erfordert keinen ChatGPT-Schlüssel.
 
 **Bildpaket laden und Substack öffnen** öffnet die gespeicherte Substack-Adresse

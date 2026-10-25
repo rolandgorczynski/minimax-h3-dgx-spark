@@ -31,7 +31,11 @@ services:
       API_TOKEN: ${COMIC_AUTOMATION_API_TOKEN:-}
       WORKFLOW_TEMPLATE: /app/workflow_template.json
     volumes:
-      - comic-automation-data:/data
+      - type: bind
+        source: ${COMIC_AUTOMATION_DATA_DIR:-/home/jee/docker-data/comic-automation}
+        target: /data
+        bind:
+          create_host_path: false
       - ./examples/comics/workflows/04_Comic_Automat_9B.json:/app/workflow_template.json:ro
     networks:
       - comfyui
@@ -50,5 +54,3 @@ networks:
   comfyui:
     external: true
     name: ${COMIC_AUTOMATION_NETWORK:-minimax-h3-dgx-spark_default}
-volumes:
-  comic-automation-data:

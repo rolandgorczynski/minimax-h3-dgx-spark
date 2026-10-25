@@ -358,3 +358,7 @@ geändert oder eine eigene Kategorie eingetragen und mit **Quelle speichern**
 gespeichert werden. Ein leeres Feld verwendet wieder die automatische Zuordnung.
 Die Sammlung wird unabhängig davon aus der Quellenherkunft abgeleitet. Alte
 Katalogeinträge benötigen keine Migration; das bloße Laden schreibt nichts zurück.
+
+### Offline-Sicherung der Docker-Projekte
+
+Der [vorbereitete rsnapshot-Ablauf](docs/Docker_Rsnapshot_Offline_Backup.md) stoppt die betroffenen Dienste, sichert und prüft die Daten und stellt nur nach Erfolg den vorherigen Dienstzustand her. Installation und wöchentlicher Root-Cronjob werden ausdrücklich getrennt aktiviert.
