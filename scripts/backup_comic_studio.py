@@ -31,7 +31,8 @@ def capture(command):
     result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     if result.returncode:
         # Keine Compose-Konfiguration oder Umgebungswerte auf dem Terminal ausgeben.
-        raise RuntimeError('Befehl fehlgeschlagen: ' + command[0] + ' ' + command[1])
+        detail=result.stderr.strip().splitlines()[-1][:300] if result.stderr.strip() else 'kein Fehlertext'
+        raise RuntimeError('Befehl fehlgeschlagen: '+command[0]+' '+command[1]+' ('+detail+')')
     return result.stdout.strip()
 
 
@@ -71,7 +72,7 @@ def mount(container, destination, kind):
 def helper(image, volume):
     return ['docker', 'run', '--rm', '--network', 'none', '--read-only',
             '--cap-drop', 'ALL', '--cap-add', 'DAC_OVERRIDE', '--security-opt', 'no-new-privileges:true',
-            '--user', '0:0', '--mount', 'type=volume,src=' + volume + ',dst=/source,readonly',
+            '--user', '0:0', '--tmpfs', '/tmp:size=128m,mode=1777', '--mount', 'type=volume,src=' + volume + ',dst=/source,readonly',
             '--entrypoint']
 
 
@@ -82,7 +83,19 @@ def idle(comfy, comic, volume):
     if comic['State']['Running']:
         count = capture(['docker', 'exec', comic['Id'], 'python', '-c', query])
     else:
-        count = capture(helper(comic['Image'], volume) + ['python', comic['Image'], '-c', query.replace('/data/', '/source/')])
+        # Nach dem Anhalten können WAL/SHM-Dateien fehlen. SQLite darf seinen
+        # Hilfszustand nur in einer temporären Kopie anlegen, nie im Originalvolume.
+        copied_query = '''import sqlite3,tempfile,shutil
+from pathlib import Path
+with tempfile.TemporaryDirectory() as folder:
+    for suffix in ('','-wal','-shm'):
+        source=Path('/source/jobs.sqlite3'+suffix)
+        if source.exists():shutil.copyfile(source,Path(folder)/('jobs.sqlite3'+suffix))
+    path=Path(folder)/'jobs.sqlite3'
+    db=sqlite3.connect(path) if path.exists() else None
+    print(db.execute("select count(*) from jobs where status in ('queued','running')").fetchone()[0] if db else 0)
+'''
+        count = capture(helper(comic['Image'], volume) + ['python', comic['Image'], '-c', copied_query])
     if int(count):
         raise RuntimeError('Comic-Aufträge laufen oder warten. Nach ihrem Abschluss erneut aufrufen; nichts angehalten.')
     if comfy['State']['Running']:
