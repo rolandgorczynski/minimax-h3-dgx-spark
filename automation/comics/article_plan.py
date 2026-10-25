@@ -32,7 +32,19 @@ def draft_batches(engine,job,prompt,article,cast,ledger,locked,tag='article-scen
 
 def prepare(engine,stories,job):
     store=engine.store;entry=store.get(job);snapshot=entry['planning_source'];source=copy.deepcopy(snapshot['payload'])
-    article=source['article'];count=entry['request']['kacheln']
+    count=entry['request']['kacheln']
+    if snapshot['mode']=='automatic':
+        store.stage(job,'automatic_story')
+        def written(value):
+            if not isinstance(value,dict) or not isinstance(value.get('story'),str) or not 1<=len(value['story'].strip())<=16000:raise ValueError('Eine deutsche Geschichte mit höchstens 16000 Zeichen erforderlich.')
+            return value
+        cast=engine.existing_cast(source.get('figuren_ids',[]))
+        instruction='Schreibe eine vollständige eigenständige Geschichte auf Deutsch für einen späteren Comic mit '+str(count)+' Kacheln. Noch keine Bildgenerierung und keine Bildstilentscheidung. Klarer Anfang, Wendepunkte und ein Ende. Direkte Rede mit erkennbaren Sprechern. Vorhandene Figuren und ihre Identität erhalten. Return ONLY JSON {"story":"Geschichte mit Dialogen auf Deutsch"}.\nVORGABE: '+source.get('thema','')+'\nFIGUREN: '+json.dumps([narrative(c) for c in cast],ensure_ascii=False)
+        instruction+='\nBISHERIGES OPTIONALLES FEEDBACK: '+json.dumps(store.preferences(),ensure_ascii=False)+'\nAUTOMATISCHE ERFAHRUNGEN (können irren): '+json.dumps(store.learning_memory(),ensure_ascii=False)
+        result=engine.json_call(job,'automatic-script-story',instruction,written,tokens=3500)
+        result=engine.require_german(job,'automatic-script-german',result,written,3500)
+        source={'article':result['story'],'style':source['stil'],'seed':source['seed'],'characters':cast,'scenes':[],'library_ids':[],'page_template':source.get('page_template','standard'),'panel_count':count,'visual_style_pending':True,'automatic_prompt':source.get('thema','')}
+    article=source['article']
     store.stage(job,'article_characters')
     existing=source.get('characters',[])
     def people(value):

@@ -112,13 +112,15 @@ class Stories:
     def plan(self,ident,version):
         story=self.get(ident)
         if type(version) is not int or version!=story['version']:raise Conflict('Geschichte wurde geändert. Bitte neu laden.')
-        if story['mode']!='editorial':raise ValueError('Szenenplanung benötigt einen Artikel.')
         if any(j.get('planning_mode') and j['status'] in ('queued','running') for j in self.outputs(ident)):
             raise Conflict('Die Szenen für diese Geschichte werden bereits erstellt.')
         source=story['payload']
-        if not source.get('article','').strip():raise ValueError('Zuerst den Artikel einfügen.')
-        count=source.get('panel_count',len(source['scenes']) or 12)
-        request=validate_request({'kacheln':count,'stil':source['style'],'seed':source['seed'],'max_korrekturrunden':0})
+        if story['mode']=='automatic':
+            count=source['kacheln'];style=source['stil'];seed=source['seed']
+        else:
+            if not source.get('article','').strip():raise ValueError('Zuerst den Artikel einfügen.')
+            count=source.get('panel_count',len(source['scenes']) or 12);style=source['style'];seed=source['seed']
+        request=validate_request({'kacheln':count,'stil':style,'seed':seed,'max_korrekturrunden':0})
         ident_job=uuid.uuid4().hex;self.store.create(ident_job,request,initial_status='editing')
         self.store.update(ident_job,planning_mode=True,planning_source=story,story_id=ident,story_version=version)
         self.store.stage(ident_job,'queued',status='queued')
@@ -134,6 +136,9 @@ class Stories:
         else:
             from engine import Engine
             if not source['article'].strip() or not source['scenes']:raise ValueError('Zuerst Geschichte und Szenenplan ausfüllen oder ein Storyboard importieren.')
+            if source.get('visual_style_pending'):raise ValueError('Zuerst in Schritt 2 einen Bildstil auswählen.')
+            if ('planned_article' in source and source['planned_article']!=source['article']) or source.get('planned_count',len(source['scenes']))!=len(source['scenes']) or source.get('panel_count',len(source['scenes']))!=len(source['scenes']):
+                raise ValueError('Das Skript passt nicht mehr zum Ausgangstext oder zur Kachelanzahl. Zuerst in Schritt 1 aktualisieren.')
             cast=source.get('characters',[])
             if not cast and not source.get('library_ids'):raise ValueError('Figurenprofile fehlen. Ein vollständiges Storyboard importieren.')
             if len(cast)>8 or any(not isinstance(c,dict) or not ID.fullmatch(c.get('id','')) for c in cast):raise ValueError('Ungültige Figurenprofile.')

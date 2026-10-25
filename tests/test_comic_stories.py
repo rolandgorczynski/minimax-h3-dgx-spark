@@ -29,6 +29,17 @@ class StoriesTests(unittest.TestCase):
         self.temp=tempfile.TemporaryDirectory();self.addCleanup(self.temp.cleanup)
         self.store=Store(self.temp.name);self.stories=Stories(self.store)
 
+    def test_stale_script_is_not_rendered_and_style_changes_keep_scenes(self):
+        value=definition();value['payload'].update(planned_article=value['payload']['article'],planned_count=1,panel_count=1)
+        story=self.stories.save(value)
+        value['payload']['style']='Geisterfolklore-Manga'
+        changed=self.stories.save(value,story['id'],1)
+        self.assertEqual(changed['payload']['scenes'],story['payload']['scenes'])
+        self.assertTrue(self.stories.enqueue(story['id'],2)['editorial_mode'])
+        value['payload']['article']='Ein neuer Ausgangstext.'
+        stale=self.stories.save(value,story['id'],2)
+        with self.assertRaisesRegex(ValueError,'Skript passt nicht'):self.stories.enqueue(story['id'],stale['version'])
+
     def test_edit_version_conflict_and_small_list(self):
         original=self.stories.save(definition());changed=definition();changed['payload']['style']='Holzschnitt / Linolschnitt'
         edited=self.stories.save(changed,original['id'],1)

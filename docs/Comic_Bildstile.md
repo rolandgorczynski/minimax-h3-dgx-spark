@@ -10,8 +10,8 @@ Kategorien, eine Suche und lokal erzeugte Vergleichsbilder. Eine Karte übernimm
 den Stil in das Feld, aus dem die Bibliothek geöffnet wurde. Anschließend wie
 bisher speichern bzw. die Erstellung starten. Die Auswahl allein erzeugt nichts.
 
-Die Bibliothek ist im Storyeditor, im Quellengenerator und bei Serienfolgen
-verfügbar. Eine neue Serienfolge übernimmt den bisherigen Bildstil als
+Die Bibliothek ist in **Schritt 2 · Comic erzeugen** für alle Eingabewege
+verfügbar. Im Quellengenerator wird noch kein Bildstil gewählt. Eine neue Serienfolge übernimmt den bisherigen Bildstil als
 Voreinstellung; dort lässt er sich ändern. Seitenvorlage, Figuren, Kachelzahl und
 vorhandene Szenen werden durch die Stilauswahl nicht ersetzt.
 

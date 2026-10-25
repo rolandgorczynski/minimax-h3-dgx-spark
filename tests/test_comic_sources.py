@@ -40,6 +40,18 @@ class FakeEngine:
 
 
 class SourceTests(unittest.TestCase):
+    def test_new_source_script_has_no_visual_style_and_adoption_does_not_bake_it_into_scenes(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);stories=Stories(store)
+            job=sources.enqueue(store,{'source_id':'kleiner-prinz','count':2})
+            self.assertTrue(job['visual_style_pending']);sources.run(FakeEngine(store),job['id']);store.stage(job['id'],'finished',status='completed')
+            script=(store.directory(job['id'])/'source-script.txt').read_text()
+            self.assertIn('BILDSTIL: Noch offen',script)
+            story=sources.adopt(stories,store,job['id'],{'script':script})
+            self.assertTrue(story['payload']['visual_style_pending'])
+            self.assertTrue(all('Gemeinsame Bildgestaltung:' not in scene['story'] for scene in story['payload']['scenes']))
+            with self.assertRaisesRegex(ValueError,'Bildstil'):stories.enqueue(story['id'],story['version'])
+
     def test_documented_format_roundtrip_and_errors(self):
         doc=sources.parse(example(),STYLE);self.assertEqual(len(doc['scenes']),2)
         self.assertEqual(doc['scenes'][1]['bubbles'][0]['expression'],'whisper')

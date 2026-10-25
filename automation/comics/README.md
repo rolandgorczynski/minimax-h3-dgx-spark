@@ -4,6 +4,15 @@ Eigenständiger Docker-Compose-Dienst mit HTTP-Trigger. Er benutzt die vorhanden
 ComfyUI-Installation und die neue Vorlage **04_Comic_Automat_9B**, die auf
 **03_Comic_Studio_9B** basiert. Keine eigene GPU- oder Modellinstallation im Dienst.
 
+## Dashboard: vier getrennte Arbeitsschritte
+
+Das Dashboard führt durch **Skript → Comic erzeugen → Bearbeiten → Veröffentlichen**.
+„Meine Geschichte“, „Buch oder Film als Vorlage“ und Serienfolgen sind Eingabewege
+innerhalb der Skripterstellung. Bildstil, Seitenvorlage und Figurenreferenzen stehen
+in Schritt 2. Erst dessen Button **Comic erzeugen** startet Bilder.
+
+[Bedienung und Datenübernahme](../../docs/Comic_Studio_Arbeitsablauf.md).
+
 ## Installation und Start
 
 Aus dem Repository-Verzeichnis:
@@ -516,7 +525,7 @@ und Kachelanzahl im Vordergrund. Der lokale Zugangsschlüssel ist unter
 auf den lokalen Comic-Dienst. Hier keinen OpenAI- oder ChatGPT-Schlüssel eintragen.
 Ohne konfigurierten lokalen Zugangsschutz bleibt das Feld leer.
 
-1. Titel und Artikel eingeben, Stil und Kachelanzahl wählen.
+1. In Schritt 1 Titel, Artikel und Kachelanzahl eingeben; den Bildstil erst in Schritt 2 wählen.
 2. **Szenen erstellen** anklicken. Die lokalen Modelle planen Figuren und Kacheln
    aus dem Originaltext. Es werden noch keine Bilder erzeugt.
 3. Die vorbereiteten Szenen prüfen und gegebenenfalls ändern.
@@ -958,7 +967,7 @@ Erzählertexte bleiben dabei erhalten. Vorhandene Ausgaben werden nicht verände
 ## Bildstil-Bibliothek
 
 **Bildstile mit Vorschau** öffnet 77 Stile mit Kategorien und Suche. Die Auswahl
-ist im Storyeditor, im Quellengenerator und bei Serienfolgen verfügbar.
+ist in Schritt 2 für eigene Skripte, übernommene Quellen und Serienfolgen verfügbar.
 Seitenvorlage und Szenen bleiben erhalten. Die Vorschaubilder werden lokal
 erzeugt und zeigen ein allgemeines Vergleichsmotiv ohne private Figurenreferenzen.
 

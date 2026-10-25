@@ -26,6 +26,24 @@ class FakeEngine:
 
 
 class ArticlePlanTests(unittest.TestCase):
+    def test_automatic_mode_creates_editable_script_before_any_images(self):
+        class Writer(FakeEngine):
+            def existing_cast(self,ids):return []
+            def require_german(self,job,step,value,validator,tokens):return validator(value)
+            def json_call(self,job,step,prompt,validator,tokens):
+                if step=='automatic-script-story':
+                    self.calls.append(step);return validator({'story':'Ria: „Bereit?“ Ria nickt.'})
+                return super().json_call(job,step,prompt,validator,tokens)
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);stories=Stories(store)
+            story=stories.save({'name':'Neue Geschichte','mode':'automatic','payload':{'thema':'Ein Spiegel','kacheln':2}})
+            job=stories.plan(story['id'],1);engine=Writer(store)
+            result=prepare(engine,stories,job['id']);saved=stories.get(story['id'])
+            self.assertEqual(saved['mode'],'editorial');self.assertTrue(saved['payload']['visual_style_pending'])
+            self.assertEqual(len(saved['payload']['scenes']),2);self.assertEqual(result['artifacts'],[])
+            self.assertEqual(engine.calls[0],'automatic-script-story')
+            with self.assertRaisesRegex(ValueError,'Bildstil'):stories.enqueue(story['id'],saved['version'])
+
     def test_layout_issue_keeps_editable_draft_without_rendering(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store)

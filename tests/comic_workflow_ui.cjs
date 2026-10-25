@@ -1,0 +1,69 @@
+/* Vollständiges Dashboard mit API-Attrappen; keine Modelle, Bilderzeugung oder Posts. */
+const fs=require('fs'),path=require('path'),assert=require('assert'),{chromium}=require('playwright');
+const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH,args:['--no-sandbox']});
+ try{
+  const page=await browser.newPage({viewport:{width:1440,height:1100}}),errors=[],calls=[];
+  page.on('pageerror',e=>errors.push(String(e)));
+  const cid='a'.repeat(32),sid='b'.repeat(32),task='c'.repeat(32),job='d'.repeat(32);
+  let activePlanning=null;let story={id:sid,version:1,name:'Die Geisterbrücke',mode:'editorial',payload:{article:'Ria findet einen Geist.',planned_article:'Ria findet einen Geist.',planned_count:1,panel_count:1,style:'Klassischer Comic',visual_style_pending:true,seed:1984,characters:[{id:cid,name:'Ria',description:'Erwachsene Frau.',outfit:'Mantel.',references:[]}],scenes:[{story:'Ria steht an einer Brücke.',dialog:'',characters:[cid],bubbles:[]}]}};
+  const source={id:'probe',title:'Die Geisterbrücke',kind:'Buch',creator:'Test',edition:'Historische Vorlage',url:'',territories:'Deutschland',rights:'Testvorlage.',text:'Ria findet einen Geist.',post_summary:'Ein Geist an der Brücke.',category:'Geister und Spuk',collection:'Test'};
+  const catalog=JSON.parse(fs.readFileSync(path.join(root,'extensions/dgx-comics/style_catalog.json')));
+  await page.route('**/*',async route=>{
+   const req=route.request(),url=new URL(req.url()),p=url.pathname,method=req.method();let data=req.postData()?JSON.parse(req.postData()):null;
+   calls.push({path:p,method,data});const reply=value=>route.fulfill({contentType:'application/json',body:JSON.stringify(value)});
+   if(p==='/'||p.endsWith('.js'))return route.fulfill({contentType:p==='/'?'text/html':'text/javascript',body:fs.readFileSync(path.join(web,p==='/'?'index.html':path.basename(p)))});
+   if(p==='/styles')return reply({styles:catalog.map(s=>s.name),catalog:catalog.map(s=>({...s,preview:'/style-previews/'+s.id+'.webp'}))});
+   if(p==='/page-templates')return reply({templates:[{id:'standard',name:'Standard',category:'Raster',count:1,aspect_ratio:1,slots:[[0,0,1,1]]}]});
+   if(p==='/jobs')return reply({jobs:[{id:'e'.repeat(32),source_mode:true,status:'completed',artifacts:[]},...(activePlanning?[activePlanning]:[])]});
+   if(p==='/jobs/'+task&&activePlanning)return reply(activePlanning);
+   if(p==='/learning')return reply({analyzed_runs:0,rules:[]});
+   if(p==='/stories'&&method==='GET')return reply({stories:[{id:sid,name:story.name,mode:story.mode,version:story.version}]});
+   if(p==='/stories'&&method==='POST'||p==='/stories/'+sid&&method==='PATCH'){story={...data,id:sid,version:story.version+1};return reply(story)}
+   if(p==='/stories/'+sid&&method==='GET')return reply(story);
+   if(p==='/sources')return reply({sources:[source]});
+   if(p==='/source-tasks'&&method==='POST')return reply({id:task});
+   if(p==='/source-tasks/'+task)return reply({status:'completed',request:{kacheln:1},source_input:{source,author:'',instructions:''},script:'TITEL: Die Geisterbrücke',post_summary:source.post_summary});
+   if(p==='/source-tasks/'+task+'/adopt'){story.payload.visual_style_pending=true;return reply(story)}
+   if(p==='/stories/'+sid+'/generate')return reply({id:job,status:'queued'});
+   if(p==='/stories/'+sid+'/plan'){activePlanning={id:task,status:'queued',stage:'queued',planning_mode:true,story_id:sid,request:{kacheln:1},events:[]};return reply(activePlanning)}
+   if(p==='/characters')return reply({characters:[],alignments:[]});
+   throw Error('Unerwarteter Testaufruf: '+method+' '+p);
+  });
+  await page.goto('http://comic.test/');await page.waitForFunction(()=>workflowInstalled&&definitionId);
+  const ids=await page.locator('[id]').evaluateAll(nodes=>nodes.map(n=>n.id));assert.equal(ids.length,new Set(ids).size);
+  assert(await page.locator('#workflow-script').isVisible());assert(!(await page.locator('#style').isVisible()));
+  assert.equal(await page.locator('#source-style').count(),0);assert.equal(await page.locator('#jobs option').count(),0);
+  await page.click('[data-script-input="source"]');await page.waitForFunction(()=>sourceEntries.length===1);
+  await page.locator('#source-count').fill('1');await page.click('#source-create');
+  await page.waitForFunction(()=>!document.getElementById('source-draft').hidden);
+  const creation=calls.find(c=>c.path==='/source-tasks'&&c.method==='POST');assert(creation);assert(!('style' in creation.data));
+  assert(!calls.some(c=>c.path.endsWith('/generate')));
+  await page.click('#source-adopt');await page.waitForFunction(()=>workflowStep==='render');
+  assert(await page.locator('#style').isVisible());assert(await page.locator('#page-template-picker').isVisible());
+  assert(await page.locator('#render-comic').isDisabled());
+  await page.locator('#render-story-list').dispatchEvent('input');assert.equal(await page.evaluate(()=>dirty),false);
+  const original=await page.evaluate(()=>JSON.stringify(editorPayload.scenes));
+  await page.selectOption('#style','Märchenhafter Waldhorror');assert(await page.locator('#render-comic').isEnabled());
+  await page.selectOption('#style','Geisterfolklore-Manga');
+  assert.equal(await page.evaluate(()=>JSON.stringify(editorPayload.scenes)),original);
+  await page.click('#render-save');await page.waitForFunction(()=>!dirty);
+  assert(!calls.some(c=>c.path.endsWith('/generate')));
+  await page.click('#render-comic');await page.waitForFunction(()=>workflowStep==='edit');
+  assert.equal(calls.filter(c=>c.path.endsWith('/generate')).length,1);
+  assert.equal(calls.filter(c=>c.path.endsWith('/plan')).length,0);
+  await page.click('[data-workflow-step="publish"]');
+  assert(await page.locator('#workflow-publish').isVisible());
+  assert.equal(await page.locator('#workflow-publish #telegram-share').count(),1);
+  assert.equal(await page.locator('#workflow-publish #book-exporter').count(),1);
+  await page.evaluate(()=>{fillDefinition(null);showWorkflowInput('own')});
+  await page.locator('#story-name').fill('Eine neue Geschichte');await page.locator('#article').fill('Ria findet einen Schlüssel.');await page.locator('#count').fill('1');
+  await page.click('#generate-story');await page.waitForFunction(()=>planningJob);
+  assert.equal(calls.filter(c=>c.path.endsWith('/plan')).length,1);
+  assert.equal(calls.filter(c=>c.path.endsWith('/generate')).length,1);
+  assert.deepStrictEqual(errors,[]);
+  await page.screenshot({path:'/tmp/comic-workflow-script.png',fullPage:true});
+  console.log('Vier Schritte geprüft: neutrale Quellenskripte, getrennte Planung und Bilderzeugung, Stilwechsel ohne Szenenverlust, Export und Veröffentlichung in Schritt 4.');
+ }finally{await browser.close()}
+})().catch(e=>{console.error(e);process.exit(1)});
