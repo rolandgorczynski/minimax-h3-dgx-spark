@@ -4,7 +4,7 @@ Stand: 26. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihe
 
 ## 1. Redaktionelle Skripte
 
-**17 von 382 Einträgen fertig.** Alle sind unter **2 · Comic erzeugen** auswählbar und unter **1 · Skript erstellen** bearbeitbar. Bildstil offen, keine Bilder erzeugt. Alle zuvor vorhandenen Geschichten und Aufträge bleiben unverändert.
+**18 von 382 Einträgen fertig.** Alle sind unter **2 · Comic erzeugen** auswählbar und unter **1 · Skript erstellen** bearbeitbar. Bildstil offen, keine Bilder erzeugt. Alle zuvor vorhandenen Geschichten und Aufträge bleiben unverändert.
 
 - Der kleine Prinz: 12 Kacheln.
 - Die Bremer Stadtmusikanten: 10 Kacheln.
@@ -22,13 +22,14 @@ Stand: 26. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihe
 - Thor – Der gestohlene Hammer: 12 Kacheln.
 - Thor – Die unmöglichen Prüfungen: 14 Kacheln.
 - Tyr – Die Hand als Pfand: 12 Kacheln.
+- Hermod – Neun Nächte bis Hel: 12 Kacheln.
 - Die getreue Alte: 14 Kacheln.
 
 Die vollständige Auftragsliste ist unter `/home/jee/docker-data/comic-sinnanalyse-redaktion/skriptauftrag.json` eingefroren: 373 aktive Quellen und neun zuvor vorhandene Geschichten. Die 627 zurückgestellten Quellen bleiben außen vor. Neue Skriptkopien vergrößern nicht nachträglich diesen Auftrag. Jeder Eintrag enthält Quellenkennung, Text-Hash, empfohlene Kachelzahl und Bearbeitungsstatus; fertige Einträge zusätzlich die neue Studio-Geschichtenkennung.
 
 Die Skripte werden von Codex geschrieben und redaktionell geprüft. Der Import erzeugt weder Skripte mit lokalen Modellen noch Bilder. Bestehende Bearbeitungen bleiben erhalten; neue Skripte werden separat abgelegt. Ergebnisse und Importanleitung: [Skriptproben](../examples/comics/skriptproben/README.md).
 
-Die übrigen 365 Skripte sind noch offen. Es läuft kein autonomer Hintergrundjob.
+Die übrigen 364 Skripte sind noch offen. Es läuft kein autonomer Hintergrundjob.
 
 ## Danach, noch offen
 

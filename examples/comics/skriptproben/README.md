@@ -47,4 +47,5 @@ Alle folgenden Skripte sind bereits als eigene bearbeitbare Geschichten unter **
 | Thor – Der gestohlene Hammer | 12 | [Text](thor-gestohlener-hammer-12.txt) | [JSON](thor-gestohlener-hammer-12.json) |
 | Thor – Die unmöglichen Prüfungen | 14 | [Text](thor-utgard-14.txt) | [JSON](thor-utgard-14.json) |
 | Tyr – Die Hand als Pfand | 12 | [Text](tyr-fenrir-12.txt) | [JSON](tyr-fenrir-12.json) |
+| Hermod – Neun Nächte bis Hel | 12 | [Text](hermod-hel-12.txt) | [JSON](hermod-hel-12.json) |
 | Die getreue Alte | 14 | [Text](getreue-alte-14.txt) | [JSON](getreue-alte-14.json) |
