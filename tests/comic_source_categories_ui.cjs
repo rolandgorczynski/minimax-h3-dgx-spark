@@ -18,7 +18,7 @@ for p in pathlib.Path('examples/comics/sources').glob('*.json'):entries+=json.lo
 print(json.dumps([decorate(x) for x in entries],ensure_ascii=False))
 `],{cwd:path.join(__dirname,'..'),maxBuffer:16*1024*1024,encoding:'utf8'}));
   await page.evaluate(entries=>{
-   window.$=id=>document.getElementById(id);window.testEntries=entries;window.testRequests=[];
+   window.$=id=>document.getElementById(id);window.testEntries=entries.map((entry,i)=>({...entry,script_ready:i<2}));window.testRequests=[];
    window.api=async(url,method='GET',value)=>{
     window.testRequests.push({url,method});
     if(url==='/styles')return {json:async()=>({styles:['Ligne claire']})};
@@ -34,6 +34,10 @@ print(json.dumps([decorate(x) for x in entries],ensure_ascii=False))
   },sources);
   await page.addScriptTag({path:path.join(__dirname,'../automation/comics/source-generator.js')});
   await page.evaluate(async()=>{installSourceGenerator();await loadSources();document.getElementById('source-generator').open=true});
+  assert((await page.locator('#source-result-count').textContent()).startsWith('2 passende'));
+  assert((await page.locator('#source-result-count').textContent()).includes('998 unfertige ausgeblendet'));
+  assert.strictEqual(await page.locator('#source-select optgroup option').count(),2);
+  await page.locator('#source-show-unfinished').check();
   assert((await page.locator('#source-result-count').textContent()).includes('1000 passende'));
   await page.selectOption('#source-category-filter','Geister und Spuk');
   assert.strictEqual(await page.locator('#source-collection-filter option[value="Grimm – Sagen"]').textContent(),'Grimm – Sagen (0)');

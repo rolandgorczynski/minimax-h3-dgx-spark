@@ -1,0 +1,166 @@
+TITEL: Die zertanzten Schuhe – Der Weg unter dem Bett
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Soldat beim Schuhgeheimnis
+Aussehen: Erwachsener Mann mit kurzem braunem Haar, schmalem Bart und aufmerksamem Gesicht.
+Kleidung: Graubrauner alter Soldatenrock, dunkle Hose und Stiefel. Keine Waffe. Ein grauer unsichtbar machender Mantel erst nach der Gabe.
+Persönlichkeit und Vorgeschichte: Widersteht dem Schlaftrunk und folgt an drei getrennten Nächten. Unsichtbar bedeutet nicht schwerelos: Zweigknacken und Bootsgewicht bleiben reale Hinweise.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alte Frau mit dem unsichtbaren Mantel
+Aussehen: Ältere Frau mit weißem Haarknoten und faltigem freundlichem Gesicht.
+Kleidung: Dunkelgrünes langes Kleid und graues Schultertuch. Ein zusätzlicher grauer Mantel wird übergeben.
+Persönlichkeit und Vorgeschichte: Gibt Warnung und Mantel vor dem ersten Hofabend. Ist keine dreizehnte Tochter oder unsichtbare zweite Begleiterin.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König der zwölf Königstöchter
+Aussehen: Älterer Mann mit grauem kurzem Bart und strengem Blick.
+Kleidung: Dunkelblaues Hofgewand und schlichte goldene Krone.
+Persönlichkeit und Vorgeschichte: Lässt die zwölf Töchter einschließen und will das Schuhgeheimnis erfahren. Überwachung und Heiratsausgang werden nicht als allgemeine moralische Berechtigung behandelt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Älteste der zwölf Königstöchter
+Aussehen: Junge erwachsene Frau mit dunkelbraunem hochgebundenem Haar und ovalem Gesicht.
+Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.
+Persönlichkeit und Vorgeschichte: Führt die zwölf Schwestern beim nächtlichen Weg an. Wird nach der Aufdeckung vom Soldaten zur Frau gewählt; keine erfundene neue Freiwilligkeitsgeschichte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Jüngste der zwölf Königstöchter
+Aussehen: Junge erwachsene Frau mit rotbraunem Zopf und schmalem Gesicht.
+Kleidung: Grünes langes Kleid und braune Tanzschuhe.
+Persönlichkeit und Vorgeschichte: Bemerkt Knacken und unerwartetes Bootsgewicht. Nur diese und die älteste individuell profilieren, zehn weitere Schwestern bleiben als Gruppe sichtbar.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Rudernder Tanzprinz
+Aussehen: Junger erwachsener Mann mit schwarzem kurzem Haar und bartlosem Gesicht.
+Kleidung: Dunkelroter feiner Rock und dunkle Hose.
+Persönlichkeit und Vorgeschichte: Ein Vertreter der nächtlichen Tanzpartner. Fährt das Boot mit der jüngsten Tochter, dessen zusätzliche Last ihn wundert; kein weiterer Held.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zwölf geschlossene Türen, zwölf müde Paare
+Ort und Zeit: Königssaal beim Morgenbericht
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, König der zwölf Königstöchter
+Bildbeschreibung: Breite Saalansicht. König rechts und ehemaliger Soldat links, eine geordnete Reihe von zwölf Paar abgetragenen Schuhen auf einem niedrigen Tisch. Keine zwölf Einzelprofile oder zweite Fußreihe an einem Körper. Tür zur Schlafkammer geschlossen im Hintergrund. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links vor dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Rock, dunkle Hose und Stiefel; Mantel noch nicht übergezogen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König der zwölf Königstöchter: Ort: rechts auf einem Stuhl; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nachts wurden die zwölf Töchter eingeschlossen. Morgens waren ihre Schuhe abgetragen.
+Dialoge: keine
+Kontinuität / Änderung: Rätsel vor seiner Erklärung. Zwölf Töchter insgesamt, nicht nur die zwei später individuell gezeigten Schwestern. Kein neuer böser Filmkönig als übernatürliche Ursache.
+
+KACHEL 2: Die Warnung kommt vor dem Becher
+Ort und Zeit: Weg vor dem Schloss
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Alte Frau mit dem unsichtbaren Mantel
+Bildbeschreibung: Ruhige Halbnahe. Soldat links sichtbar ohne angelegten Zusatzmantel, hat den einen grauen in Händen. Alte rechts gibt Rat. Keine unsichtbare Kopie des Mannes schon neben ihm und kein schlafender zweiter Mann im Schloss als Gleichzeitigkeit. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links vor der alten Frau; Körperhaltung: stehend; Mitgeführte Gegenstände: ein übergebener grauer Mantel in beiden Händen; Kleidung: Graubrauner Rock, dunkle Hose und Stiefel; Mantel noch nicht übergezogen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alte Frau mit dem unsichtbaren Mantel: Ort: rechts am Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände nach der Übergabe; Kleidung: Dunkelgrünes langes Kleid und graues Schultertuch. Ein zusätzlicher grauer Mantel wird übergeben.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alte Frau mit dem unsichtbaren Mantel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Trinke den angebotenen Schlaftrunk nicht. Mit diesem Mantel bleibst du ungesehen.“
+Kontinuität / Änderung: Warnung und Gabe vor erster Nacht. Unsichtbarkeit beginnt erst durch Anlegen des Mantels, nicht schon durch Besitz im Beutel.
+
+KACHEL 3: Erste Nacht: Die leere Tasse täuscht
+Ort und Zeit: Schlafkammer der zwölf Töchter am ersten Abend
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Älteste der zwölf Königstöchter, Jüngste der zwölf Königstöchter
+Bildbeschreibung: Halbnahe. Sichtbarer Soldat links tut schlafend, älteste Tochter rechts sieht den leeren Becher, jüngste hinten. Mantel gefaltet beim Mann, noch nicht getragen. Kein doppelt gleichzeitig trinkender Mann. Weitere zehn erwachsene Schwestern nur klein im Raumhintergrund. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links auf einem bereitgestellten Bett; Körperhaltung: mit geschlossenen Augen scheinbar schlafend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Rock, dunkle Hose und Stiefel; Mantel noch nicht übergezogen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: rechts am Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: ein leerer Becher in der rechten Hand; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: rechts hinten an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er täuschte das Trinken und den Schlaf vor.
+Dialoge: keine
+Kontinuität / Änderung: Trank heimlich in ein saugendes Tuch abgeleitet, Becher leer. Konkrete freie Bildverdichtung des vorgetäuschten Trinkens. Noch keine unsichtbare Verfolgung ohne den nächsten Kleiderwechsel.
+
+KACHEL 4: Ein Weg unter dem Bett
+Ort und Zeit: Dieselbe Kammer später in der ersten Nacht
+Sichtbare Figuren: Älteste der zwölf Königstöchter, Jüngste der zwölf Königstöchter, Soldat beim Schuhgeheimnis
+Bildbeschreibung: Breite Raumansicht. Unter einem angehobenen Bett ein geheimer Treppenweg, zwölf Schwestern im ganzen Zug: älteste violett vorn, jüngste grün zuletzt und zehn verschiedene kleine Hintergrundgestalten dazwischen. Eine matte Leserkontur des Soldaten folgt. Kein sichtbarer zweiter Soldat im Bett. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links nahe dem geöffneten Zugang als schwache Kontur; Körperhaltung: zum Zugang gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Rock und Stiefel, grauer Unsichtbarkeitsmantel vollständig angelegt; nur Leserkontur; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: rechts am geöffneten Bettzugang; Körperhaltung: auf der Treppe absteigend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: mittig als letzte Schwester vor der Treppe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Nach dem Aufbruch zieht Soldat den Mantel an, steht auf und folgt. Unsichtbar für die Schwestern, nur für Leser als Kontur. Geheimweg räumlich verbunden, nicht ein neuer Eingang draußen vor dem Schloss.
+
+KACHEL 5: Unsichtbar ist nicht geräuschlos
+Ort und Zeit: Silbern glänzender Hain während der ersten Nacht
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Jüngste der zwölf Königstöchter, Älteste der zwölf Königstöchter
+Bildbeschreibung: Halbtotale. Ein silberner Zweig rechts in der matten Kontur des Beobachters links, Bruchstelle am Baum sichtbar. Jüngste rechts hört Knacken, Älteste geht voraus. Keine schwebende dritte Hand und kein vollkommen geräuschloser schwereloser Geist. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links hinter einem Baum als Leserkontur; Körperhaltung: stehend; Mitgeführte Gegenstände: ein frisch abgebrochener silberner Zweig rechts; Kleidung: Graubrauner Rock und Stiefel, grauer Unsichtbarkeitsmantel vollständig angelegt; nur Leserkontur; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: rechts vorn am Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: rechts am Weg; Körperhaltung: lauschend stehengeblieben; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Jüngste der zwölf Königstöchter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hast du das Knacken gehört?“
+Kontinuität / Änderung: Er sammelt den ersten Beweis schon unterwegs. Physische Wechselwirkung trotz Mantel, Zweig später im Beutel. Andere zehn Schwestern weiter vorn außerhalb des Ausschnitts, Gruppe bleibt zwölf.
+
+KACHEL 6: Unsichtbar ist nicht gewichtslos
+Ort und Zeit: Boot auf dem unterirdischen See in der ersten Nacht
+Sichtbare Figuren: Jüngste der zwölf Königstöchter, Rudernder Tanzprinz, Soldat beim Schuhgeheimnis
+Bildbeschreibung: Breite Bootsansicht. Ein kleines Boot liegt durch drei Menschen statt erwarteter zwei etwas tiefer; jüngste Tochter vorn, Tanzprinz rudert rechts, matte Beobachterkontur hinten links. Andere Boote fern, kein zweiter unsichtbarer Ruderer und kein plötzlich auf Wasser laufender Mann. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links hinten im selben Boot als Leserkontur; Körperhaltung: sitzend; Mitgeführte Gegenstände: silberner Zweig im Beutel; Kleidung: Graubrauner Rock und Stiefel, grauer Unsichtbarkeitsmantel vollständig angelegt; nur Leserkontur; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: rechts vorn im kleinen Boot; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Rudernder Tanzprinz: Ort: rechts am Ruderplatz; Körperhaltung: rudernd; Mitgeführte Gegenstände: Ruder in beiden Händen; Kleidung: Dunkelroter feiner Rock und dunkle Hose.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Rudernder Tanzprinz
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heute zieht das Boot ungewöhnlich schwer.“
+Kontinuität / Änderung: Beobachter ist zugestiegen, nicht schwerelos darübergeflogen. Rückweg nach dem Tanz bringt ihn in derselben Nacht wieder hinauf; erste Nacht danach ausdrücklich abgeschlossen.
+
+KACHEL 7: Zweite Nacht: Wiederholt ist noch nicht bewiesen
+Ort und Zeit: Goldglänzender Hain am zweiten Abend
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Älteste der zwölf Königstöchter, Jüngste der zwölf Königstöchter
+Bildbeschreibung: Weite Hainansicht mit goldglänzenden Bäumen statt silbernen. Soldat hält genau den zweiten neuen Zweig, ersten im Beutel. Zwei profilierte Schwestern und zehn entfernte erwachsene Gestalten im vorausgehenden Zug. Kein schon vorgeführter königlicher Beweistisch. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links im Hain als Leserkontur; Körperhaltung: stehend; Mitgeführte Gegenstände: ein neu abgebrochener goldfarbener Zweig rechts; silberner im Beutel; Kleidung: Graubrauner Rock und Stiefel, grauer Unsichtbarkeitsmantel vollständig angelegt; nur Leserkontur; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: rechts am Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: rechts dahinter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In der zweiten Nacht folgte er erneut und nahm einen weiteren Zweig.
+Dialoge: keine
+Kontinuität / Änderung: Neuer Tag und zweite Nacht nach Rückkehr und erneut vorgetäuschtem Trinken. Keine Vermischung mit der ersten Bootszeit. Mantel wieder angelegt, zwei Beweiszweige bereits vorhanden.
+
+KACHEL 8: Dritte Nacht: Ein Becher aus dem Saal
+Ort und Zeit: Unterirdischer Tanzsaal am dritten Abend
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Älteste der zwölf Königstöchter, Jüngste der zwölf Königstöchter, Rudernder Tanzprinz
+Bildbeschreibung: Breite leuchtende Saalansicht. Zwölf Töchter im Tanz, älteste und jüngste erkennbar, weitere zehn verschiedene Hintergrundgestalten mit unbenannten Tanzpartnern. Beobachter links nimmt einen Becher, nicht eine ganze Schatztruhe. Keine zwei zusätzlichen Becher in seinen anderen Händen. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links am Rand der Tafel als matte Kontur; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelner leerer Becher rechts; drei verschiedene Zweige im Beutel; Kleidung: Graubrauner Rock und Stiefel, grauer Unsichtbarkeitsmantel vollständig angelegt; nur Leserkontur; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: mittig im Tanzsaal; Körperhaltung: tanzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: rechts im Tanzsaal; Körperhaltung: tanzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rudernder Tanzprinz: Ort: rechts nahe der jüngsten Tochter; Körperhaltung: tanzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter feiner Rock und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In der dritten Nacht nahm er auch einen Becher mit.
+Dialoge: keine
+Kontinuität / Änderung: Vor diesem dritten Tanz sammelt er einen dritten kristallglänzenden Zweig und verstaut ihn zu den zwei anderen. Becher erst jetzt aus dem Saal. Drei getrennte Nächte, keine einzige endlos gleichzeitige Verfolgung.
+
+KACHEL 9: Zurück im verschlossenen Zimmer
+Ort und Zeit: Schlafkammer am Morgen nach der dritten Nacht
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Älteste der zwölf Königstöchter, Jüngste der zwölf Königstöchter
+Bildbeschreibung: Ruhige Tagesansicht. Soldat wieder sichtbar nach abgelegtem Mantel, trägt einen Beweisbeutel. Geheime Bettöffnung wieder geschlossen, Schuhe der zwölf Töchter in Paaren abgetragen am Boden. Kein zusätzlicher unsichtbarer Soldat im selben Zimmer. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links vor seinem Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: grauer Mantel abgelegt am Bett; Beweisbeutel in der linken Hand; Kleidung: Graubrauner Rock, dunkle Hose und Stiefel; Mantel noch nicht übergezogen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: rechts bei ihren abgetragenen Schuhen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: rechts hinten neben dem geschlossenen Bettzugang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Nach dritter Hin- und Rückreise alle wieder oben. Beweise vor der Vorführung gesammelt, nicht erst beim König plötzlich erzeugt. Mantel abgelegt beendet Unsichtbarkeit.
+
+KACHEL 10: Was auf dem Tisch liegt
+Ort und Zeit: Königssaal nach den drei Nächten
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, König der zwölf Königstöchter
+Bildbeschreibung: Breite Beweisansicht. Auf einem Tisch genau drei Zweige verschiedener Glanzarten und ein Becher. Soldat links sichtbar, König rechts schaut hin. Keine Goldmünzen als neue Erfindung, keine unverletzt zurück am Baum schwebenden gleichen Zweige. Mantel gefaltet im Hintergrund. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links vor einem kleinen Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Rock, dunkle Hose und Stiefel; Mantel noch nicht übergezogen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König der zwölf Königstöchter: Ort: rechts am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Soldat beim Schuhgeheimnis
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dorthin führt der Weg unter dem Bett.“
+Kontinuität / Änderung: Beobachtung und Gegenstände zusammen vorgeführt. Entscheidung beruht auf vorher beschafften Spuren, nicht Hellsehen. Keine allgemeine Berechtigung der Überwachung aus dem bloßen Erfolg ableiten.
+
+KACHEL 11: Die Auskunft hat einen Preis
+Ort und Zeit: Derselbe Saal bei der Offenlegung
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Älteste der zwölf Königstöchter, Jüngste der zwölf Königstöchter, König der zwölf Königstöchter
+Bildbeschreibung: Ruhige Halbnahe. Älteste Mitte bestätigt durch schweigenden Blick, jüngste dahinter, Soldat links nennt seine Wahl. Zehn andere Schwestern entfernt im Hintergrund, zusammen zwölf. Beweise bleiben einmal auf dem Tisch, kein leuchtender Mantel über Köpfen. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links vor den Schwestern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Rock, dunkle Hose und Stiefel; Mantel noch nicht übergezogen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König der zwölf Königstöchter: Ort: rechts bei den Beweisen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: mittig vor dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violettes langes Kleid und dunkle Tanzschuhe. Später helles Festkleid, gleiches Gesicht.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngste der zwölf Königstöchter: Ort: mittig hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Kleid und braune Tanzschuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Soldat beim Schuhgeheimnis
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich wähle die Älteste.“
+Kontinuität / Änderung: Überlieferter Heiratsausgang nach Aufdeckung. Keine erfundene zweite geheimnisvolle Frau und kein erzwungenes Jubeln der Töchter als moralischer Beweis. Älteste und jüngste dieselben erwachsenen Personen wie nachts.
+
+KACHEL 12: Ein Rätsel weniger, eine Frage mehr
+Ort und Zeit: Hof nach der Bekanntgabe der Verbindung
+Sichtbare Figuren: Soldat beim Schuhgeheimnis, Älteste der zwölf Königstöchter
+Bildbeschreibung: Weite ruhige Hofansicht. Erwachsener Mann und älteste Tochter nach der Bekanntgabe in Festkleidung, Abstand zwischen beiden. Keine zusätzliche Figur als Braut und keine unsichtbare dritte Person. Kein befehlender Griff an ihrem Körper, Ausgang wird sachlich gezeigt. Verbindliche Zustände: Soldat beim Schuhgeheimnis: Ort: links im Hof; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichter heller Festrock und dunkle Hose; Mantel abgelegt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Älteste der zwölf Königstöchter: Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Festkleid; gleiche hochgesteckte dunkelbraune Haare; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Das Geheimnis war belegt. War damit auch das Beobachten gerechtfertigt?
+Dialoge: keine
+Kontinuität / Änderung: Märchenausgang mit ältester Tochter als Frau erhalten. Offene moralische Frage bleibt; Aufdeckung und patriarchaler Lohn nicht als universale Erziehungsempfehlung behandeln. Keine weitere Nacht als neue Folge anhängen.

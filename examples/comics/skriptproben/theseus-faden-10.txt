@@ -1,0 +1,124 @@
+TITEL: Theseus – Der Faden durch die Finsternis
+AUTOR:
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Theseus aus Athen
+Aussehen: Junger erwachsener Mann mit kurzem schwarzem Haar, schmalem bartlosem Gesicht und kräftiger aber menschlicher Statur.
+Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.
+Persönlichkeit und Vorgeschichte: Kommt mit den aus Athen geforderten jungen Menschen nach Kreta. Nimmt Ariadnes Hilfe an; Kampf und geordneter Rückweg gehören beide zur Rettung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ariadne am Labyrintheingang
+Aussehen: Junge erwachsene Frau mit langem dunkelbraunem geflochtenem Haar und klarem Blick.
+Kleidung: Dunkelrotes antikes Gewand und schmaler heller Gürtel. Ein einziges rotes Fadenknäuel als Hilfsmittel, keine magische Karte.
+Persönlichkeit und Vorgeschichte: Hilft Theseus mit einem befestigten Faden. Flieht in diesem Ausschnitt mit den Geretteten, bleibt am gewählten Ende nicht auf einer anderen Insel zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Minotaurus im Labyrinth
+Aussehen: Eine einzige große Gestalt mit Stierkopf, zwei Hörnern, menschlichem kräftigem Oberkörper, zwei Armen und genau zwei Beinen. Kein vierbeiniger Stier und kein Drache.
+Kleidung: Schlichtes dunkles Hüfttuch, keine zusätzliche Waffe oder Rüstung.
+Persönlichkeit und Vorgeschichte: Gefahr im Labyrinth. Wird im Kampf besiegt; nach seinem Tod kein erneuter Angriff und kein Austausch gegen den kretischen Stier.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gefährtin aus Athen
+Aussehen: Junge erwachsene Frau mit schwarzem kurzem Haar und schmalem Gesicht.
+Kleidung: Schlichtes ockerfarbenes antikes Gewand und braune Sandalen.
+Persönlichkeit und Vorgeschichte: Wiedererkennbare Vertreterin der mit Theseus geforderten jungen Menschen. Wartet außerhalb und flieht später mit ihnen und Ariadne.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Nicht allein an dieser Küste
+Ort und Zeit: Hafen auf Kreta nach der Ankunft aus Athen
+Sichtbare Figuren: Theseus aus Athen, Gefährtin aus Athen, Ariadne am Labyrintheingang
+Bildbeschreibung: Weite Hafenansicht. Theseus links in heller Tunika mit genau einer Schwertscheide links am Gürtel, eine Gefährtin mittig, andere unbenannte Athener fern beim Schiff. Ariadne rechts beobachtet. Kein Sieger mit Minotaurustrophäe am Anfang und kein moderner Hafen. Verbindliche Zustände: Theseus aus Athen: Ort: links vor dem Hafentor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Ariadne am Labyrintheingang: Ort: rechts nahe einem Torbogen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes antikes Gewand und schmaler heller Gürtel. Ein einziges rotes Fadenknäuel als Hilfsmittel, keine magische Karte.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gefährtin aus Athen: Ort: mittig neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes ockerfarbenes antikes Gewand und braune Sandalen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Theseus war mit den Geforderten aus Athen nach Kreta gekommen.
+Dialoge: keine
+Kontinuität / Änderung: Ausgewählte Labyrinthmission beginnt. Antikes Schwert als konkrete Bildausstattung genau einmal links in der Scheide. Andere junge Menschen nicht als beliebige Klone des Helden darstellen.
+
+KACHEL 2: Ein Ende muss fest bleiben
+Ort und Zeit: Steinerner Eingang des Labyrinths
+Sichtbare Figuren: Ariadne am Labyrintheingang, Theseus aus Athen
+Bildbeschreibung: Halbnahe auf Steinring und Hände. Ariadne befestigt rechts das eine Fadenende, Theseus links hält das zugehörige Knäuel. Eine durchgehende rote Verbindung zwischen Ring und Knäuel, keine zweite unabhängige Rolle. Schwert noch links in der Scheide. Verbindliche Zustände: Theseus aus Athen: Ort: links vor dem Eingang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein rotes Fadenknäuel in der linken Hand; rechte Hand leer; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Ariadne am Labyrintheingang: Ort: rechts an einem Steinring; Körperhaltung: stehend; Mitgeführte Gegenstände: Anfang eines roten Fadens in beiden Händen; Kleidung: Dunkelrotes antikes Gewand und schmaler heller Gürtel. Ein einziges rotes Fadenknäuel als Hilfsmittel, keine magische Karte.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ariadne am Labyrintheingang
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Der Anfang bleibt hier. Lass ihn nicht los.“
+Kontinuität / Änderung: Faden wird am Eingang befestigt, nicht an einer mitlaufenden Figur. Theseus hält Knäuel links. Ariadnes Hilfe ist gewöhnlicher Faden, keine magische Wegkarte.
+
+KACHEL 3: Die erste Biegung
+Ort und Zeit: Erster Gang hinter dem Eingang
+Sichtbare Figuren: Theseus aus Athen
+Bildbeschreibung: Weite Rückenansicht eines Mannes im dunklen Gang. Roter Faden führt lückenlos von seiner linken Hand über den Boden zurück zum noch sichtbaren Licht des Eingangs. Kein Ariadnekörper läuft unsichtbar mit. Genau ein Schwertgriff in der linken Scheide, keine gezogene Klinge. Verbindliche Zustände: Theseus aus Athen: Ort: mittig im Gang; Körperhaltung: gehend; Mitgeführte Gegenstände: rotes Knäuel in der linken Hand; rechte Hand leer; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Knoten ist vor dem Eintritt festgezogen. Theseus wickelt beim Vorwärtsgehen ab. Faden bleibt kontinuierlich verlegt, Eingang nicht im nächsten Bild an einen anderen Ort versetzen.
+
+KACHEL 4: Die Gänge merken sich nichts
+Ort und Zeit: Tiefere Kreuzung des Labyrinths
+Sichtbare Figuren: Theseus aus Athen
+Bildbeschreibung: Breite verwinkelte Kreuzung. Theseus rechts wählt den dunkleren Gang. Die eine rote Spur kommt von links hinten und endet am Knäuel seiner linken Hand; keine roten Linien in unbesuchten Seitenwegen. Wände markieren Richtungen, keine leuchtenden Runen als Ersatz. Verbindliche Zustände: Theseus aus Athen: Ort: rechts an einer Kreuzung; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner gewordenes rotes Knäuel links; rechte Hand leer; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Der Faden hielt fest, was sich im Dunkeln verwechseln ließ.
+Dialoge: keine
+Kontinuität / Änderung: Ein weiterer Abschnitt vorgelegt, Knäuel entsprechend kleiner. Kein wundersam bereits fertig ausgelegter Faden bis zum Ausgang auf der anderen Seite. Schwert weiterhin in der Scheide.
+
+KACHEL 5: Was im Inneren wartet
+Ort und Zeit: Kammer des Minotaurus
+Sichtbare Figuren: Theseus aus Athen, Minotaurus im Labyrinth
+Bildbeschreibung: Breite Seitenansicht. Theseus links mit einer gezogenen Klinge rechts und leerer Scheide links. Minotaurus rechts als zweibeinige Gestalt mit Stierkopf und zwei Armen. Roter Faden kommt durch den Zugang zur linken Heldenhand. Kein zweites Schwert an seiner Hüfte. Verbindliche Zustände: Theseus aus Athen: Ort: links am Kammerzugang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Schwert in der rechten Hand; restliches Knäuel links; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Minotaurus im Labyrinth: Ort: rechts im Halbdunkel; Körperhaltung: auf zwei Beinen aufgerichtet; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes dunkles Hüfttuch, keine zusätzliche Waffe oder Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Theseus zieht vor der Begegnung dasselbe Schwert aus der linken Scheide; dort bleibt nur die leere Hülle. Minotaurus noch lebend und aktiv, kein rückblickender Siegessatz.
+
+KACHEL 6: Der Kampf im Schatten
+Ort und Zeit: Dieselbe Kammer während des Kampfes
+Sichtbare Figuren: Theseus aus Athen, Minotaurus im Labyrinth
+Bildbeschreibung: Weite dramatische Silhouetten gegen schwaches Eingangslicht. Ein Mensch links und ein Minotaurus rechts, kein expliziter Klingenkontakt mit Wunden. Held hält rechts nur eine Klinge, linke Hand mit Knäuel geschützt nahe am Körper. Fadenspur zum Eingang bleibt außerhalb der Tritte. Verbindliche Zustände: Theseus aus Athen: Ort: links im Schatten vor dem Gegner; Körperhaltung: im Abwehrschritt; Mitgeführte Gegenstände: ein Schwert rechts; restliches Knäuel links am Körper; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Minotaurus im Labyrinth: Ort: rechts vor Theseus; Körperhaltung: nach vorn drängend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes dunkles Hüfttuch, keine zusätzliche Waffe oder Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Ein klarer Kampfmoment, Gegner noch nicht tot. Knäuel bleibt bei Theseus, der Faden wird nicht als dritte freie Hand gezeichnet oder vom Gürtel-Schwert abgeschnitten.
+
+KACHEL 7: Der Sieg zeigt noch keinen Ausgang
+Ort und Zeit: Kammer nach dem Kampf
+Sichtbare Figuren: Theseus aus Athen, Minotaurus im Labyrinth
+Bildbeschreibung: Ruhige weite Einstellung nach dem Kampf. Minotaurus rechts reglos im Schatten, Kopf am Körper, keine Trophäe oder offenen Wunden. Theseus links hält dieselbe unblutige gesenkte Klinge, Scheide leer, Faden sichtbar zurück durch den Kammerzugang. Verbindliche Zustände: Theseus aus Athen: Ort: links am Rand der Kammer; Körperhaltung: erschöpft stehend; Mitgeführte Gegenstände: ein Schwert gesenkt rechts; restliches rotes Knäuel links; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Minotaurus im Labyrinth: Ort: rechts am Boden; Körperhaltung: reglos auf der Seite liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes dunkles Hüfttuch, keine zusätzliche Waffe oder Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: tot; Verletzungen: im Kampf getötet; keine sichtbaren Wunden.
+Erzählertext: Die Gefahr war bezwungen. Der Weg zurück lag noch vor ihm.
+Dialoge: keine
+Kontinuität / Änderung: Minotaurus endgültig besiegt und tot; danach nicht wieder als Verfolger einsetzen. Theseus ist noch in der Kammer, nicht durch den Sieg schon am Hafen.
+
+KACHEL 8: Zurück an derselben Spur
+Ort und Zeit: Kreuzung auf dem Rückweg
+Sichtbare Figuren: Theseus aus Athen
+Bildbeschreibung: Weite Seitenansicht derselben Kreuzung in Gegenrichtung. Theseus folgt der durchgehenden roten Linie und wickelt sie wieder auf. Schwert ausdrücklich zurück links in der Scheide, kein zweiter Griff in der rechten Hand. Kein magisch aufblitzender Ausweg an einer neuen Wand. Verbindliche Zustände: Theseus aus Athen: Ort: links auf dem Rückweg; Körperhaltung: gehend; Mitgeführte Gegenstände: Faden und wieder wachsendes Knäuel links; rechte Hand leer; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Nach dem Kampf steckt Theseus das eine Schwert in die linke Scheide und folgt dem Faden zurück. Rechter Hand keine Klinge mehr. Faden wird nur hinter seinem Rückweg eingesammelt, Verbindung vor ihm bleibt erhalten.
+
+KACHEL 9: Die anderen zählen zum Ausgang
+Ort und Zeit: Vor dem Labyrintheingang nach der Rückkehr
+Sichtbare Figuren: Theseus aus Athen, Ariadne am Labyrintheingang, Gefährtin aus Athen
+Bildbeschreibung: Breite helle Eingangsansicht. Theseus vollständig draußen links, Ariadne am gleichen Steinring Mitte, Gefährtin rechts mit weiteren unbenannten Geretteten im Hintergrund. Eine letzte rote Strecke vom Knäuel zum Knoten, keine neue Fadenspur in der Ferne. Kein Minotaurus draußen. Verbindliche Zustände: Theseus aus Athen: Ort: links außerhalb des Eingangs; Körperhaltung: stehend; Mitgeführte Gegenstände: volleres rotes Knäuel links; rechte Hand leer; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Ariadne am Labyrintheingang: Ort: mittig am noch befestigten Fadenanfang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes antikes Gewand und schmaler heller Gürtel. Ein einziges rotes Fadenknäuel als Hilfsmittel, keine magische Karte.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gefährtin aus Athen: Ort: rechts bei den wartenden Athenern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes ockerfarbenes antikes Gewand und braune Sandalen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Theseus aus Athen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Kommt. Wir gehen zusammen.“
+Kontinuität / Änderung: Rückweg abgeschlossen, alle Betroffenen werden mitgenommen. Ariadne löst erst danach den Eingangsknoten und nimmt das Knäuel für die Flucht an sich. Kein neues Zurücklassen schon vor der Abfahrt.
+
+KACHEL 10: Ein Faden und ein offenes Meer
+Ort und Zeit: Fluchtschiff vor der kretischen Küste
+Sichtbare Figuren: Theseus aus Athen, Ariadne am Labyrintheingang, Gefährtin aus Athen
+Bildbeschreibung: Weite Deckansicht. Theseus links mit einer geschlossenen linken Schwertscheide, Ariadne mittig mit einem einzigen roten Knäuel, Gefährtin rechts und übrige Gerettete nur kleine Hintergrundgestalten. Küste entfernt sich, kein später verlassenes Inselufer oder schwarzes Segeldrama. Verbindliche Zustände: Theseus aus Athen: Ort: links an Bord; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helle antike Tunika, brauner Gürtel und Ledersandalen. Genau ein kurzes bronzenes Schwert in einer Scheide links am Gürtel. Keine zweite Klinge oder zusätzlicher Schild.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Ariadne am Labyrintheingang: Ort: mittig an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: ein vollständig aufgerolltes rotes Fadenknäuel links; Kleidung: Dunkelrotes antikes Gewand und schmaler heller Gürtel. Ein einziges rotes Fadenknäuel als Hilfsmittel, keine magische Karte.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gefährtin aus Athen: Ort: rechts auf dem Deck; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes ockerfarbenes antikes Gewand und braune Sandalen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mut hatte ihn hinein geführt. Angenommene Hilfe brachte sie hinaus.
+Dialoge: keine
+Kontinuität / Änderung: Alle gehen nach der Rückkehr gemeinsam an Bord. Faden vom Ring gelöst und vollständig bei Ariadne. Ende vor späterem Zurückbleiben und Aigeus-Episode, keine weitere Chronik anhängen.

@@ -6,13 +6,14 @@ const sourceFields=['title','kind','creator','edition','url','territories','righ
 function sourceSearchKey(value){return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('de').replace(/ß/g,'ss')}
 function sourceDraftChanged(){const entry=sourceEntries.find(s=>s.id===sourceSelected)||{};return sourceFields.some(k=>$('source-'+k).value!==(entry[k]??(k==='kind'?'Buch':'')))}
 function sourceSearchMatches(entry,words){return words.every(w=>sourceSearchKey([entry.title,entry.creator,entry.edition,entry.category,entry.collection,entry.post_summary].join(' ')).includes(w))}
+function sourceVisibleEntries(){return sourceEntries.filter(entry=>$('source-show-unfinished').checked||entry.script_ready===true)}
 function sourceFilterOptions(){
  const selected={category:$('source-category-filter').value,collection:$('source-collection-filter').value};
  const words=sourceSearchKey($('source-search').value).trim().split(/\s+/).filter(Boolean);
  for(const [field,label] of [['category','Alle Kategorien'],['collection','Alle Sammlungen']]){
   const select=$('source-'+field+'-filter'),old=selected[field],other=field==='category'?'collection':'category';
-  const counts=new Map(sourceEntries.map(entry=>[entry[field]||'Nicht zugeordnet',0]));
-  for(const entry of sourceEntries){
+  const counts=new Map(sourceVisibleEntries().map(entry=>[entry[field]||'Nicht zugeordnet',0]));
+  for(const entry of sourceVisibleEntries()){
    if((!selected[other]||entry[other]===selected[other])&&sourceSearchMatches(entry,words)){
     const value=entry[field]||'Nicht zugeordnet';counts.set(value,counts.get(value)+1);
    }
@@ -27,15 +28,15 @@ function renderSourceOptions(){
  sourceFilterOptions();
  const category=$('source-category-filter').value,collection=$('source-collection-filter').value;
  const words=sourceSearchKey($('source-search').value).trim().split(/\s+/).filter(Boolean);
- const matches=sourceEntries.filter(s=>(!category||s.category===category)&&(!collection||s.collection===collection)&&sourceSearchMatches(s,words));
+ const matches=sourceVisibleEntries().filter(s=>(!category||s.category===category)&&(!collection||s.collection===collection)&&sourceSearchMatches(s,words));
  const select=$('source-select');select.replaceChildren(new Option('Neue Quelle anlegen',''));
- const current=sourceEntries.find(s=>s.id===sourceSelected),pinned=current&&!matches.some(s=>s.id===sourceSelected);
+ const current=sourceEntries.find(s=>s.id===sourceSelected),pinned=current&&!matches.some(s=>s.id===sourceSelected)&&(current.script_ready===true||$('source-show-unfinished').checked||sourceDraftChanged());
  if(pinned){const group=document.createElement('optgroup');group.label='Aktuell geöffnet · außerhalb des Filters';group.append(new Option(current.title,current.id));select.append(group)}
  const groups=new Map();
  for(const entry of [...matches].sort((a,b)=>a.title.localeCompare(b.title,'de'))){const key=entry.category||'Nicht zugeordnet';if(!groups.has(key))groups.set(key,[]);groups.get(key).push(entry)}
  for(const [label,entries] of [...groups].sort((a,b)=>a[0].localeCompare(b[0],'de'))){const group=document.createElement('optgroup');group.label=label;group.append(...entries.map(s=>new Option(s.title+' · '+s.kind,s.id)));select.append(group)}
  select.value=sourceSelected;
- $('source-result-count').textContent=matches.length+' passende Vorlagen von '+sourceEntries.length+(sourceDeferredCount?' · '+sourceDeferredCount+' weitere Vorlagen für später zurückgestellt.':'')+(pinned?' · Die aktuell geöffnete Vorlage bleibt zusätzlich ausgewählt.':matches.length?'':' · Filter oder Suchbegriff ändern.');
+ $('source-result-count').textContent=matches.length+' passende Vorlagen von '+sourceVisibleEntries().length+(!$('source-show-unfinished').checked?' mit fertigem Skript · '+(sourceEntries.length-sourceVisibleEntries().length)+' unfertige ausgeblendet':'')+(sourceDeferredCount?' · '+sourceDeferredCount+' weitere Vorlagen für später zurückgestellt.':'')+(pinned?' · Die aktuell geöffnete Vorlage bleibt zusätzlich ausgewählt.':matches.length?'':' · Filter oder Suchbegriff ändern.');
 }
 function updateSourceCountButton(){
  const current=Number($('source-count').value),changed=sourcePlannedCount>0&&current!==sourcePlannedCount;
@@ -45,11 +46,12 @@ function updateSourceCountButton(){
 }
 function sourceMessage(t){$('source-status').textContent=t;updateSourceCountButton()}
 function fillSource(id){if(typeof meaningViews!=='undefined'&&meaningViews.has('source')){showMeaning('source',null);meaningViews.get('source').status.textContent=''}sourcePostDirty=false;sourceSelected=id;const entry=sourceEntries.find(s=>s.id===id)||{};for(const k of sourceFields)$('source-'+k).value=entry[k]??(k==='kind'?'Buch':'');renderSourceOptions();$('source-rights-summary').textContent=entry.id?'Ausgabe: '+(entry.edition||'nicht angegeben')+' · Absatzländer: '+(entry.territories||'nicht angegeben')+'\nRechtehinweis: '+(entry.rights||'Noch nicht erfasst.'):'';if(entry.narrative_plan&&typeof meaningViews!=='undefined'&&meaningViews.has('source')){meaningViews.get('source').signature=meaningSignature('source');showMeaning('source',entry.narrative_plan)}}
-async function loadSources(){try{const preserveDraft=sourceEntries.length>0&&sourceDraftChanged();const catalog=await(await api('/sources')).json();sourceEntries=catalog.sources;sourceDeferredCount=catalog.deferred_count||0;sourceFilterOptions();if(preserveDraft)renderSourceOptions();else fillSource(sourceEntries.some(s=>s.id===sourceSelected)?sourceSelected:sourceEntries[0]?.id||'');const saved=localStorage.getItem('comic-source-task');if(saved&&!sourceTask){sourceTask=saved;pollSourceTask(saved,true)}}catch(e){sourceMessage(e.message)}}
+async function loadSources(){try{const preserveDraft=sourceEntries.length>0&&sourceDraftChanged();const catalog=await(await api('/sources')).json();sourceEntries=catalog.sources;sourceDeferredCount=catalog.deferred_count||0;sourceFilterOptions();if(preserveDraft)renderSourceOptions();else fillSource(sourceEntries.some(s=>s.id===sourceSelected)?sourceSelected:sourceVisibleEntries()[0]?.id||'');const saved=localStorage.getItem('comic-source-task');if(saved&&!sourceTask){sourceTask=saved;pollSourceTask(saved,true)}}catch(e){sourceMessage(e.message)}}
 async function pollSourceTask(id,restore=false){if(sourceTask!==id)return;try{const job=await(await api('/source-tasks/'+id)).json();if(sourceTask!==id)return;sourceTaskSourceId=job.source_input?.source.id||'';if(restore&&job.source_input){const input=job.source_input;if(sourceEntries.some(s=>s.id===input.source.id))fillSource(input.source.id);$('source-count').value=job.request.kacheln;$('source-author').value=input.author||'';$('source-instructions').value=input.instructions||'';}if(['queued','running'].includes(job.status)){sourceBusy=true;$('source-create').disabled=true;sourceMessage(job.status==='queued'?'Skriptauftrag wartet …':job.stage==='story_meaning'?'Pointe, Ursache-Wirkungs-Kette und passenden Umfang lokal prüfen …':job.stage==='story_meaning_check'?'Gesamtes Skript gegen Kernaussage und Schluss prüfen …':job.stage==='source_outline'?'Figuren und Handlungsbogen werden lokal geplant …':job.stage==='script_continuity'?'Zustände und Übergänge prüfen: '+(job.planned_panels??0)+' / '+job.request.kacheln:job.stage==='source_check'?'Szenen und Lesbarkeit werden geprüft …':'Kacheln werden lokal geschrieben und sprachlich geprüft … '+(job.planned_panels??0)+' / '+job.request.kacheln);sourceTimer=setTimeout(()=>pollSourceTask(id),2000);return}sourceBusy=false;$('source-create').disabled=false;if(job.status==='failed'){sourceMessage('Skripterstellung fehlgeschlagen: '+job.error);return}if(!sourcePostDirty&&sourceSelected===sourceTaskSourceId&&job.post_summary){$('source-post_summary').value=job.post_summary}sourcePlannedCount=job.request?.kacheln||sourcePlannedCount;if(job.narrative_plan&&sourceSelected===sourceTaskSourceId){const view=meaningViews.get('source');view.signature=meaningSignature('source');showMeaning('source',job.narrative_plan)}if(!sourceScriptDirty)$('source-script').value=job.script;$('source-draft').hidden=false;$('source-adopt').disabled=false;sourceMessage('Skript bereit. Bearbeite es hier und übernimm es anschließend als neue Geschichte. Noch keine Bilder erzeugt.'+(job.source_issues?.length?'\nPrüfhinweise: '+job.source_issues.map(x=>'Kachel '+x.panel+': '+x.message).join('\n'):''));}catch(e){sourceBusy=false;$('source-create').disabled=false;sourceMessage(e.message)}}
 function installSourceGenerator(){
  $('source-count').addEventListener('input',updateSourceCountButton);
  $('source-count-replan').onclick=()=>{if(sourceBusy||!$('source-count').reportValidity())return;if(!confirm('Skript aus dieser Vorlage mit '+$('source-count').value+' Kacheln neu erstellen? Der bisherige Text im Skriptfeld wird ersetzt. Übernommene Geschichten und Comics bleiben erhalten.'))return;$('source-create').click()};
+ $('source-show-unfinished').onchange=()=>{if(!sourceDraftChanged()&&sourceSelected&&!sourceVisibleEntries().some(s=>s.id===sourceSelected)){fillSource('');return}renderSourceOptions()};
  $('source-category-filter').onchange=renderSourceOptions;
  $('source-collection-filter').onchange=renderSourceOptions;
  $('source-search').oninput=renderSourceOptions;

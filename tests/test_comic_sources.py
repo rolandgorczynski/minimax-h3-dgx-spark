@@ -199,4 +199,11 @@ class SourceTests(unittest.TestCase):
                 self.assertEqual(proposal['narrative_plan']['fixed_count'],6)
                 self.assertEqual(call('/jobs')[1]['jobs'],[])
                 self.assertEqual(len(service.stories.list()),1)
+                available=next(x for x in call('/sources')[1]['sources'] if x['id']=='bremer-stadtmusikanten')
+                self.assertTrue(available['script_ready'])
+                current=service.stories.get(story['id'])
+                current['payload']['article']='Der Ausgangstext wurde inzwischen geändert.'
+                service.stories.save(current,current['id'],current['version'])
+                available=next(x for x in call('/sources')[1]['sources'] if x['id']=='bremer-stadtmusikanten')
+                self.assertFalse(available['script_ready'])
             finally:server.shutdown();server.server_close();thread.join()

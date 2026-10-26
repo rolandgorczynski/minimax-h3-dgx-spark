@@ -1,0 +1,117 @@
+TITEL: Orpheus – Nicht zurückblicken
+AUTOR:
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Orpheus auf dem Rückweg
+Aussehen: Junger erwachsener Mann mit dunklem lockigem Haar und schmalem bartlosem Gesicht. Zwei Arme und zwei Beine.
+Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Steigt aus Trauer in die Unterwelt. Musik eröffnet die Chance, aber die Angst um Eurydike führt zum verbotenen Rückblick.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Eurydike hinter Orpheus
+Aussehen: Junge erwachsene Frau mit langem dunkelbraunem Haar und ruhigem ovalem Gesicht. In der Unterwelt dieselbe Person als Gestalt einer Toten.
+Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.
+Persönlichkeit und Vorgeschichte: Stirbt durch einen Schlangenbiss. Darf nur unter erfüllter Bedingung ganz ins Tageslicht zurückkehren; bleibt bis dahin tot und nicht bereits wieder lebendig.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Herr der Unterwelt bei Orpheus
+Aussehen: Erwachsener Mann mit grauem kurzem Bart und strengem unbewegtem Gesicht.
+Kleidung: Dunkler langer Mantel und schlichtes schwarzes Gewand. Keine moderne Filmrüstung.
+Persönlichkeit und Vorgeschichte: Verdichtet die unerbittlichen Mächte der Unterwelt. Gewährt die bedingte Rückführung, keine spätere zweite Rettungsfrist.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Eine Musik bleibt ohne Antwort
+Ort und Zeit: Wiese nach Eurydikes Schlangenbiss
+Sichtbare Figuren: Eurydike hinter Orpheus, Orpheus auf dem Rückweg
+Bildbeschreibung: Ruhige weite Wiese. Eurydike rechts reglos im hellgrauen Gewand, Orpheus links kniet mit leeren Händen. Eine kleine Schlange entfernt sich weit im Hintergrund, keine Bisswunde oder Blut. Keine zweite Eurydike steht als gerettete Frau daneben. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links neben ihr; Körperhaltung: kniend; Mitgeführte Gegenstände: Leier ruht am Schulterriemen; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eurydike hinter Orpheus: Ort: rechts im Gras; Körperhaltung: reglos liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: tot; als Gestalt in der Unterwelt, Rückkehr noch nicht vollendet; Verletzungen: unverletzt.
+Erzählertext: Eurydike starb durch den Biss einer Schlange.
+Dialoge: keine
+Kontinuität / Änderung: Tod als Ausgangspunkt ausdrücklich, keine bloß kurz Ohnmächtige. Orpheus hat eine Leier, keine Harfe mit zusätzlicher Spielerfigur.
+
+KACHEL 2: Ein Weg zu denen, die nicht wiederkehren
+Ort und Zeit: Abstieg in die Unterwelt
+Sichtbare Figuren: Orpheus auf dem Rückweg
+Bildbeschreibung: Weite vertikale Felsenpassage. Ein Mann in Blau steigt zu Fuß ins Dunkel, kleine Leier am Riemen. Kein Tier trägt ihn und keine lebende Eurydike geht schon neben ihm. Licht des Eingangs oben, Tiefe unten klar. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: mittig auf dem absteigenden Pfad; Körperhaltung: gehend; Mitgeführte Gegenstände: Leier am Schulterriemen, Hände leer; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Orpheus ging ihr nach bis in die Welt der Toten.
+Dialoge: keine
+Kontinuität / Änderung: Ortswechsel nach Eurydikes Tod. Rückführung noch nicht gewährt; kein vorweggenommener gemeinsamer Aufstieg.
+
+KACHEL 3: Was selbst dort gehört wird
+Ort und Zeit: Halle der Unterwelt
+Sichtbare Figuren: Orpheus auf dem Rückweg, Herr der Unterwelt bei Orpheus
+Bildbeschreibung: Breite stille Halle. Orpheus links spielt auf der einen Leier, unerbittlicher Herr rechts hört zu. Andere Tote nur entfernte unbenannte Schatten. Keine Waffe und keine zerschlagenen Tore. Eurydike bleibt noch außerhalb des Ausschnitts. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links vor dem Sitz; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Leier in beiden Händen, spielend; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Herr der Unterwelt bei Orpheus: Ort: rechts auf einem schlichten Sitz; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler langer Mantel und schlichtes schwarzes Gewand. Keine moderne Filmrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Musik bewegt die Mächte. Keine gewaltsame Eroberung oder schon vollzogene Freilassung durch ein zufälliges offenes Tor.
+
+KACHEL 4: Eine Chance mit einer Grenze
+Ort und Zeit: Dieselbe Halle nach der Musik
+Sichtbare Figuren: Orpheus auf dem Rückweg, Herr der Unterwelt bei Orpheus
+Bildbeschreibung: Ruhige Halbnahe. Orpheus links hört mit nach vorn gerichtetem Blick zu, Hände leer. Herrscher rechts erklärt. Keine Eurydike vor seinen Augen als bereits erfüllte Wiedervereinigung; der spätere Weg wird als dunkler Ausgang hinter dem Sitz vorbereitet. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links vor dem Herrscher; Körperhaltung: stehend; Mitgeführte Gegenstände: Leier ruht wieder am Riemen; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Herr der Unterwelt bei Orpheus: Ort: rechts auf dem Sitz; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler langer Mantel und schlichtes schwarzes Gewand. Keine moderne Filmrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Herr der Unterwelt bei Orpheus
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Geh voran. Sie folgt dir. Blick nicht zurück, bis ihr beide das Tageslicht erreicht habt.“
+Kontinuität / Änderung: Bedingung gilt für beide bis zur vollständigen Rückkehr. Orpheus eigener erster Schritt ins Freie genügt nicht. Leier nach dem Spielen wieder am Riemen, kein gleichzeitiges Spielen und Klettern.
+
+KACHEL 5: Schritte hinter ihm
+Ort und Zeit: Beginn des Aufstiegs aus der Unterwelt
+Sichtbare Figuren: Orpheus auf dem Rückweg, Eurydike hinter Orpheus
+Bildbeschreibung: Weite seitliche Gangansicht. Mann links voraus, Blick strikt nach vorn. Eurydike rechts hinter ihm auf demselben Pfad, nur für den Leser sichtbar. Keine Hand-in-Hand-Frontbegegnung und kein von Orpheus im Spiegel betrachtetes Gesicht. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links vorn auf dem steigenden Pfad; Körperhaltung: gehend; Mitgeführte Gegenstände: Leier am Schulterriemen, Hände leer; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eurydike hinter Orpheus: Ort: rechts einige Schritte hinter Orpheus; Körperhaltung: gehend als Gestalt der Toten; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: tot; als Gestalt in der Unterwelt, Rückkehr noch nicht vollendet; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Rückweg beginnt unter der Bedingung. Eurydike geht hinter ihm; Sicht des Lesers ist nicht Blick des Helden. Sie ist noch nicht lebend aus der Unterwelt heraus.
+
+KACHEL 6: Nähe ohne Gewissheit
+Ort und Zeit: Engere Stufe auf dem weiteren Rückweg
+Sichtbare Figuren: Orpheus auf dem Rückweg, Eurydike hinter Orpheus
+Bildbeschreibung: Halbnahe mit Höhenstaffelung. Orpheus links vorn hört, dreht aber den Kopf noch nicht. Hinten rechts nur Eurydikes Füße und Gewandsaum auf der tieferen Stufe. Kleine Schalllinien an einem Schritt, keine Sprechblase als erfülltes Gespräch von Gesicht zu Gesicht. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links an der nächsten Stufe; Körperhaltung: kurz innegehalten, Kopf nach vorn; Mitgeführte Gegenstände: Leier am Riemen, rechte Hand am Fels; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eurydike hinter Orpheus: Ort: rechts tiefer hinter ihm; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: tot; als Gestalt in der Unterwelt, Rückkehr noch nicht vollendet; Verletzungen: unverletzt.
+Erzählertext: Er hörte Schritte. Er konnte nicht sehen, ob sie es war.
+Dialoge: keine
+Kontinuität / Änderung: Unsicherheit wächst bei weiterhin eingehaltener Blickregel. Keine vorzeitige Halsdrehung oder heimliche gegenseitige Blickverbindung.
+
+KACHEL 7: Das Licht erreicht nur einen von ihnen
+Ort und Zeit: Schwelle der Unterwelt kurz vor der Rückkehr
+Sichtbare Figuren: Orpheus auf dem Rückweg, Eurydike hinter Orpheus
+Bildbeschreibung: Breite Schwellenansicht. Tageslicht links trifft Orpheus vorne, Eurydike rechts ist noch klar im dunklen Bereich. Zwischen ihr und der Grenze ein sichtbarer Schritt. Beide nicht gleichzeitig schon außerhalb. Mann sieht weiterhin nach links ins Licht. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links am hellen Ausgang; Körperhaltung: nach vorn stehend, Kopf noch zur Öffnung; Mitgeführte Gegenstände: Leier am Riemen, Hände leer; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eurydike hinter Orpheus: Ort: rechts noch hinter der Schwelle im Dunkeln; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: tot; als Gestalt in der Unterwelt, Rückkehr noch nicht vollendet; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Orpheus auf dem Rückweg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn sie nicht hinter mir ist …“
+Kontinuität / Änderung: Bedingung noch nicht erfüllt, da Eurydike den Ausgang nicht erreicht hat. Das nahe Licht ist kein Beweis einer bereits abgeschlossenen Rettung.
+
+KACHEL 8: Die eine Kopfbewegung
+Ort und Zeit: Dieselbe Schwelle einen Augenblick später
+Sichtbare Figuren: Orpheus auf dem Rückweg, Eurydike hinter Orpheus
+Bildbeschreibung: Ruhige dramatische Halbnahe. Erster tatsächlicher Rückblick: Mann links dreht den Kopf nach rechts und sieht Eurydike im Dunkel. Sie ist noch nicht im Tageslicht. Keine zweite zurückgewandte Heldenfigur und keine gleichzeitige Umarmung als gerettetes Paar. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links an der Schwelle; Körperhaltung: Kopf nach rechts zu Eurydike zurückgedreht; Mitgeführte Gegenstände: Leier am Riemen, Hände leer; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eurydike hinter Orpheus: Ort: rechts hinter der Grenze; Körperhaltung: im Schritt innehaltend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: tot; als Gestalt in der Unterwelt, Rückkehr noch nicht vollendet; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Genau jetzt bricht Orpheus die Bedingung. Vorher kein Blickkontakt. Tragik entsteht aus der Angst nach Gewissheit, nicht aus einem schon verlorenen Weg.
+
+KACHEL 9: Der Schritt kehrt um
+Ort und Zeit: Dunkler Gang hinter dem Ausgang
+Sichtbare Figuren: Orpheus auf dem Rückweg, Eurydike hinter Orpheus
+Bildbeschreibung: Weite Gangansicht. Eurydike rechts entfernt sich ins Dunkel, Orpheus links bleibt an der Grenze und kann sie nicht erreichen. Seine Hand leer, keine Hand greift sie schon erfolgreich heraus. Eine Gestalt, keine sich aufteilenden Frauenkopien. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: links am Ausgang; Körperhaltung: zur Dunkelheit gewandt, stehengeblieben; Mitgeführte Gegenstände: linke Hand ausgestreckt; Leier am Riemen; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eurydike hinter Orpheus: Ort: rechts tiefer im Gang; Körperhaltung: in die Unterwelt zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellgraues antikes langes Gewand und dunkle Sandalen. Keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: tot; als Gestalt in der Unterwelt, Rückkehr noch nicht vollendet; Verletzungen: unverletzt.
+Erzählertext: Sie musste zurückkehren.
+Dialoge: keine
+Kontinuität / Änderung: Rückführung scheitert endgültig. Eurydike bleibt tot und muss zurück, kein erneutes Geschenk oder ungenannter Gott stellt die Chance wieder her.
+
+KACHEL 10: Ein Ausgang ohne die Andere
+Ort und Zeit: Tageslicht vor der Unterwelt
+Sichtbare Figuren: Orpheus auf dem Rückweg
+Bildbeschreibung: Weite stille Schlussansicht. Orpheus allein draußen mit einer Leier im Schoß. Dunkle Öffnung leer, keine lebende Eurydike an einem anderen Weg und kein späterer Tod des Helden als Zusatzepisode. Raum neben ihm bleibt leer. Verbindliche Zustände: Orpheus auf dem Rückweg: Ort: mittig allein vor der dunklen Öffnung; Körperhaltung: sitzend; Mitgeführte Gegenstände: Leier ungespielt im Schoß; Kleidung: Dunkelblaue antike Tunika, brauner Gürtel und Sandalen. Genau eine kleine hölzerne Leier am Schulterriemen. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er hatte Gewissheit gesucht. Draußen blieb er allein.
+Dialoge: keine
+Kontinuität / Änderung: Tragischer Schluss am Ausgang. Eurydike in der Unterwelt, keine gerettete Gestalt als Trostkopie. Orpheus lebt; spätere Todeserzählungen gehören nicht hierher.

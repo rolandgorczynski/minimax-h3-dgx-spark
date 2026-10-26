@@ -1,0 +1,152 @@
+TITEL: Alice im Wunderland – Zu groß für die kleine Tür
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Alice vor der kleinen Tür
+Aussehen: Etwa neunjähriges Mädchen mit braunem schulterlangem Haar, braunen Augen und rundem Gesicht. Dieselbe Person in normaler, kleiner, riesiger und wieder winziger Größe.
+Kleidung: Ockergelbes schlichtes Kleid, cremefarbene Schürze und braune Schuhe. Kleidung skaliert märchenhaft mit. Kein blondes Zeichentrickbild und kein modernes Filmkostüm.
+Persönlichkeit und Vorgeschichte: Folgt dem Kaninchen, verfehlt durch Größenwechsel den Garten und muss schließlich aus den eigenen Tränen ans Ufer. Aufgabe am Ende ist gemeinsames Trocknen, nicht schon das Gartenziel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Weißes Kaninchen mit Taschenuhr
+Aussehen: Ein weißes Kaninchen mit rosa Ohrinnenseiten, zwei Vorderpfoten und zwei Hinterbeinen. Aufrechte märchenhafte Haltung, keine zusätzlichen Menschenarme.
+Kleidung: Braune kleine Weste. Eine Taschenuhr, später ein kleiner Fächer; keine moderne Uniform.
+Persönlichkeit und Vorgeschichte: Lockt Alice durch sein eiliges Vorbeilaufen in den Bau. Lässt später den Fächer fallen, der ihren erneuten Größenwechsel auslöst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Maus im Tränensee
+Aussehen: Eine kleine graue Maus mit zwei Vorderpfoten, zwei Hinterpfoten, zwei Ohren und einem langen Schwanz.
+Kleidung: Graues Fell, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Schwimmt mit Alice und erreicht dasselbe Ufer. Kein neuer menschlicher Retter oder späterer Hutmacher.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Uferente aus Alices Tränensee
+Aussehen: Eine braune Ente mit hellem Halsring, zwei Flügeln und zwei Füßen.
+Kleidung: Braunes Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Wiedererkennbare Vertretung der schwimmenden Tiere. Wird nach dem Schwimmen nass ans Ufer gebracht, kein vorgezogener späterer Hofcharakter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Kaninchen hat es eilig
+Ort und Zeit: Wiese am Eingang des Kaninchenbaus
+Sichtbare Figuren: Alice vor der kleinen Tür, Weißes Kaninchen mit Taschenuhr
+Bildbeschreibung: Weite Wiese. Alice braunhaarig im ockergelben Kleid folgt links einem weißen Kaninchen in brauner Weste rechts. Eine Uhr in einer Vorderpfote, keine dritte Hand. Eingang im Boden, keine Herzkönigin oder Grinsekatze im Geäst. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links auf der Wiese; Körperhaltung: dem Kaninchen nachgehend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur normalen Kindergröße; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Weißes Kaninchen mit Taschenuhr: Ort: rechts vor dem Bau; Körperhaltung: auf zwei Hinterbeinen eilend; Mitgeführte Gegenstände: eine Taschenuhr in der rechten Vorderpfote; Kleidung: Braune kleine Weste. Eine Taschenuhr, später ein kleiner Fächer; keine moderne Uniform.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Weißes Kaninchen mit Taschenuhr
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich bin spät dran!“
+Kontinuität / Änderung: Eigene Gestaltung des gemeinfreien Ausgangswerks. Alice zunächst normale Kindergröße. Kaninchen ist eine märchenhafte Tierfigur mit vier Gliedmaßen, keine Menschenarme zusätzlich.
+
+KACHEL 2: Ein Fall in eine andere Ordnung
+Ort und Zeit: Tiefer Schacht nach dem Folgen in den Bau
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Weite vertikale Traumansicht. Eine einzelne Alice fällt zwischen dunklen Wänden und entfernten Regalbrettern, Kleidung geschlossen und normal skaliert. Kein harter Aufprall oder verletztes Kind. Kaninchen bereits außer Sicht, keine zweite Mädchenkopie als Bewegungsreihe. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: mittig im Schacht; Körperhaltung: langsam fallend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur normalen Kindergröße; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie folgte ihm und fiel in die Tiefe.
+Dialoge: keine
+Kontinuität / Änderung: Märchenhafter Fall führt in einen unterirdischen Gang, nicht in den Garten. Noch kein Größenwechsel und keine neu auftauchende Waffe.
+
+KACHEL 3: Eine Tür, für die sie zu groß ist
+Ort und Zeit: Halle mit festem Glastisch und kleiner Tür
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Breite räumliche Übersicht. Ein runder Glastisch auf drei Beinen, ein goldener Schlüssel oben, eine kleine Tür rechts unten in der Wand. Alice links normal groß, Tisch etwa hüfthoch. Eine kleine Flasche auf dem Tisch, Kuchen noch nicht entdeckt. Tür geschlossen, nur ein Lichtsaum darunter; kein betretenes Gartenbild. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links vor dem Glastisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur normalen Kindergröße; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Hinter der kleinen Tür lag ein Garten. Nur Alice passte nicht hindurch.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Tisch, derselbe Schlüssel, dieselbe Tür bleiben im ganzen Bogen feste Größenmaßstäbe. Ein Schlüssel nur auf dem Tisch, keine Kopie in ihrer Tasche.
+
+KACHEL 4: Jetzt passt sie, nur der Schlüssel nicht
+Ort und Zeit: Dieselbe Halle nach dem Trank
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Gleiche Blickachse wie zuvor. Alice jetzt klein am Tischbein, Kleidung passend mitgeschrumpft. Goldener Schlüssel unverändert hoch auf derselben Glasplatte. Eine leere verwendete Flasche steht am Boden neben ihr, klein für normale Menschen, groß relativ zur kleinen Alice. Tür rechts weiterhin geschlossen und gleich groß wie vorher. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links am Fuß desselben Tischs; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur kleinen Gestalt, weit unter Tischhöhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Trank machte sie klein. Der Schlüssel lag oben.
+Dialoge: keine
+Kontinuität / Änderung: Alice hat zuerst getrunken, Flasche danach abgestellt. Größenwechsel folgt dem Trank, Möbel und Schlüssel schrumpfen nicht mit. Kein Flaschenklon in ihrer kleinen Hand.
+
+KACHEL 5: Noch ein Versuch vom Boden aus
+Ort und Zeit: Unter dem Glastisch vor dem Kuchen
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Halbnahe in niedriger Perspektive. Kleine Alice links hat ein Stück vom am Boden gefundenen Kuchen in Händen, noch nicht gegessen. Teller und leere Flasche bleiben normal große Gegenstände, Schlüssel unerreichbar oben. Keine bereits riesige zweite Alice im Hintergrund. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links neben einem kleinen Kuchenteller; Körperhaltung: kniend; Mitgeführte Gegenstände: ein Stück Kuchen in beiden Händen; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur kleinen Gestalt, weit unter Tischhöhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alice vor der kleinen Tür
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Vielleicht hilft das diesmal.“
+Kontinuität / Änderung: Kuchen erst entdeckt und aufgenommen. Sie ist weiterhin klein, wächst erst nach dem Essen. Keine neue Tür oder vom Boden herauf geholter Schlüssel als Abkürzung.
+
+KACHEL 6: Die nächste Größe löst das falsche Problem
+Ort und Zeit: Halle nach dem Kuchen
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Weite gleiche Raumordnung. Eine riesige Alice muss den Körper beugen, normal großer Glastisch links nun winzig neben ihr, kleine Tür rechts unverändert. Goldener Schlüssel weiterhin auf dem Tisch, Kuchen aufgegessen, leerer Teller am Boden. Keine neuen Arme oder verlängerter Schlangenhals. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: mittig fast bis an die Decke; Körperhaltung: gebeugt und eingeengt sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur riesigen, fast raumhohen Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Kuchen machte sie riesig.
+Dialoge: keine
+Kontinuität / Änderung: Wachstum erst nach dem Essen. Kleidung wächst märchenhaft mit, Möbel unverändert. Selbst wenn der Schlüssel erreichbar wäre, passt sie jetzt erst recht nicht durch die Tür; sie nimmt ihn in diesem Bogen nicht auf.
+
+KACHEL 7: Ein See entsteht vor seiner Gefahr
+Ort und Zeit: Dieselbe Halle während Alices Tränen
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Weite stille Ansicht der riesigen weinenden Alice, ein wachsendes Becken auf dem Boden um sie. Noch kein darin schwimmendes kleines Mädchen. Tisch und Tür unverändert, Schlüssel oben. Keine bedrohlichen Wasserwesen aus späteren Kapiteln. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: mittig in der Halle; Körperhaltung: eingeengt sitzend und weinend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur riesigen, fast raumhohen Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ihre Tränen sammelten sich am Boden.
+Dialoge: keine
+Kontinuität / Änderung: Tränen entstehen in riesiger Gestalt vor dem erneuten Schrumpfen. See wird nicht erst nach ihrer winzigen Größe aus einer geheimen fremden Quelle gefüllt.
+
+KACHEL 8: Ein verlorener Fächer
+Ort und Zeit: Halle bei der erneuten kurzen Kaninchenbegegnung
+Sichtbare Figuren: Alice vor der kleinen Tür, Weißes Kaninchen mit Taschenuhr
+Bildbeschreibung: Breite Raumansicht. Riesige Alice links, weißes Kaninchen rechts sehr klein relativ zu ihr läuft fort. Genau ein kleiner Fächer liegt auf einem trockeneren Bodenrand neben dem Tränenbecken, keine zweite Taschenuhr daneben. Goldener Schlüssel unverändert auf dem Glastisch. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links riesig in der Halle; Körperhaltung: noch eingeengt sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur riesigen, fast raumhohen Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Weißes Kaninchen mit Taschenuhr: Ort: rechts nahe einem Gang; Körperhaltung: erschrocken fortlaufend; Mitgeführte Gegenstände: Taschenuhr in der Weste; Fächer gerade auf dem Boden zurückgelassen; Kleidung: Braune kleine Weste. Eine Taschenuhr, später ein kleiner Fächer; keine moderne Uniform.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alice vor der kleinen Tür
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bitte, warte!“
+Kontinuität / Änderung: Kaninchen kehrt kurz zurück und verliert den Fächer, läuft dann fort. Alice weiterhin riesig, Schrumpfen erst nach Verwendung des Fächers. Kein vorgezogenes dauerhaftes Tierbündnis mit dem Kaninchen.
+
+KACHEL 9: Die eigenen Tränen werden plötzlich tief
+Ort und Zeit: Halle nach dem Fächeln
+Sichtbare Figuren: Alice vor der kleinen Tür
+Bildbeschreibung: Gleiche niedrige Perspektive. Alice nun winzig an der für sie hohen Wasserkante, passendes kleineres Kleid. Ein Fächer liegt losgelassen daneben, feste Tischbeine ragen im Hintergrund auf. Kein noch riesiger Frauenkörper neben ihr und kein geschrumpfter Schlüssel auf Augenhöhe. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links am Rand des Tränenbeckens; Körperhaltung: nach dem Schrumpfen am Rand taumelnd; Mitgeführte Gegenstände: leere Hände; Fächer am Boden losgelassen; Kleidung: ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur erneut winzigen Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Fächer ließ sie wieder schrumpfen. Die Tränen waren geblieben.
+Dialoge: keine
+Kontinuität / Änderung: Alice nimmt den Fächer nach Kaninchens Weglaufen und fächelt sich, dann schrumpft sie. Im gezeigten Moment losgelassen; kein Mitwachsen der Möbel oder des Sees.
+
+KACHEL 10: Mit anderen im selben Wasser
+Ort und Zeit: Tränensee nach Alices Hineinfallen
+Sichtbare Figuren: Alice vor der kleinen Tür, Maus im Tränensee, Uferente aus Alices Tränensee
+Bildbeschreibung: Breite Wasseransicht. Eine winzige Alice schwimmt links, Maus Mitte, braune Ente rechts, alle Köpfe über Wasser. Kein Fächer als plötzliches Boot und kein Kaninchen als neuer Rettungskapitän. Kleidung jetzt nass, aber passend zur winzigen Gestalt. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links im See; Körperhaltung: schwimmend, Kopf über Wasser; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur erneut winzigen Gestalt; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt. Maus im Tränensee: Ort: mittig neben ihr; Körperhaltung: schwimmend, Kopf über Wasser; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Fell, keine Kleidung.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt. Uferente aus Alices Tränensee: Ort: rechts auf dem Wasser; Körperhaltung: schwimmend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alice vor der kleinen Tür
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dort ist ein Ufer!“
+Kontinuität / Änderung: Alice fällt nach dem Schrumpfen in den zuvor entstandenen See. Maus und andere Tiere sind ebenfalls im Wasser. Kein Betreten des Gartens, keine erste Begegnung mit Hutmacher oder Königin.
+
+KACHEL 11: Ein nächster sicherer Ort
+Ort und Zeit: Ufer des Tränensees
+Sichtbare Figuren: Alice vor der kleinen Tür, Maus im Tränensee, Uferente aus Alices Tränensee
+Bildbeschreibung: Ruhige breite Uferansicht. Drei durchnässte Gestalten vollständig aus dem Wasser, Alice weiterhin winzig, Maus und Ente neben ihr. Fester Boden, kein Eintritt in den Garten durch eine versehentlich offen gezeichnete Tür. Wasser bleibt hinter ihnen. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links auf festem Ufer; Körperhaltung: kauernd; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur erneut winzigen Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Maus im Tränensee: Ort: mittig neben ihr; Körperhaltung: nass auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Fell, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Uferente aus Alices Tränensee: Ort: rechts am Ufer; Körperhaltung: nass auf zwei Füßen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie erreichten das Ufer.
+Dialoge: keine
+Kontinuität / Änderung: Schwimmgefahr dieses Bogens überstanden. Keine sofort trocken zaubernde neue Figur. Größenzustand bleibt winzig, keine unbegründete Normalisierung beim Landgang.
+
+KACHEL 12: Erst einmal trocken werden
+Ort und Zeit: Dasselbe Ufer nach dem Ankommen
+Sichtbare Figuren: Alice vor der kleinen Tür, Maus im Tränensee, Uferente aus Alices Tränensee
+Bildbeschreibung: Ruhige Gruppenansicht. Kleine Alice und zwei nasse Tiere suchen gemeinsam nach einer Idee, keine fertige neue Rennenhandlung. Halle im Hintergrund nur schemenhaft, goldener Schlüssel weiter fern am gleich großen Tisch, Garten nicht betreten. Keine Grinsekatze als Erlöserfigur. Verbindliche Zustände: Alice vor der kleinen Tür: Ort: links bei der Tiergruppe; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses ockergelbes Kleid, cremefarbene Schürze und Schuhe; Kleidung passt zur erneut winzigen Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Maus im Tränensee: Ort: mittig vor Alice; Körperhaltung: nass auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Fell, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Uferente aus Alices Tränensee: Ort: rechts neben beiden; Körperhaltung: nass auf zwei Füßen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Tür musste warten. Jetzt hatten sie eine gemeinsame Aufgabe.
+Dialog 1:
+  Sprecher: Alice vor der kleinen Tür
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wie werden wir alle wieder trocken?“
+Kontinuität / Änderung: Ende nach überstandener Wassergefahr und beim gemeinsamen nächsten Schritt. Kein späteres Wunderlandabenteuer vorziehen. Wachstum, Schlüsselposition und noch nicht erreichter Garten bleiben ungelöst.

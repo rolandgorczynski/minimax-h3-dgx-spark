@@ -21,9 +21,9 @@ function replaceStoryCharacter(payload,targetId,libraryCharacter){
  if(others.some(c=>c.id===libraryCharacter.id||c.library_source_id===libraryCharacter.id))throw Error('Diese Bibliotheksfigur wird bereits für eine andere Figur dieser Geschichte verwendet.');
  const taken=new Set(others.flatMap(c=>[c.name,...(c.aliases||[])]).map(fold));
  const snapshot=structuredClone(libraryCharacter);snapshot.id=targetId;snapshot.library_source_id=libraryCharacter.id;
- snapshot.name=snapshot.name.trim();delete snapshot.story_outfit;
+ snapshot.name=target.name;delete snapshot.story_outfit;
  const used=new Set([fold(snapshot.name)]),aliases=[];
- for(const value of [target.name,...(target.aliases||[]),...(snapshot.aliases||[])]){
+ for(const value of [...(target.aliases||[])]){
   if(!value?.trim()||used.has(fold(value)))continue;
   aliases.push(value.trim());used.add(fold(value));
  }
@@ -31,6 +31,13 @@ function replaceStoryCharacter(payload,targetId,libraryCharacter){
  if(aliases.length>12)throw Error('Der Tausch würde mehr als zwölf alternative Namen erzeugen. Figuren-Namen und Aliasse zuerst bereinigen.');
  snapshot.aliases=aliases;
  const result=structuredClone(payload),oldNames=new Set([target.name,...(target.aliases||[])].map(fold));
+ result.character_replacement_originals??={};
+ if(!result.character_replacement_originals[targetId])result.character_replacement_originals[targetId]={
+  profile:structuredClone(target),
+  reference_overrides:structuredClone(payload.reference_overrides?.[targetId]??null),
+  outfit:structuredClone(payload.outfits?.[targetId]??null),
+  library_linked:(payload.library_ids||[]).includes(targetId)
+ };
  result.characters=result.characters.map(c=>c.id===targetId?snapshot:c);
  result.library_ids=(result.library_ids||[]).filter(id=>id!==targetId&&id!==libraryCharacter.id);
  for(const key of ['reference_overrides','outfits'])if(result[key])delete result[key][targetId];
@@ -39,6 +46,23 @@ function replaceStoryCharacter(payload,targetId,libraryCharacter){
   for(const bubble of scene.bubbles||[])if(oldNames.has(fold(bubble.speaker||'')))bubble.speaker=targetId;
  }
  if(oldNames.has(fold(result.narrator_character_id||'')))result.narrator_character_id=targetId;
+ return result;
+}
+function restoreStoryCharacter(payload,targetId){
+ const original=payload.character_replacement_originals?.[targetId];
+ if(!original||!payload.characters?.some(c=>c.id===targetId))throw Error('Für diese Figur ist kein ursprüngliches Profil gespeichert.');
+ const fold=value=>value.trim().toLocaleLowerCase('de');
+ const names=new Set([original.profile.name,...(original.profile.aliases||[])].map(fold));
+ if(payload.characters.some(c=>c.id!==targetId&&[c.name,...(c.aliases||[])].some(n=>names.has(fold(n)))))throw Error('Ein ursprünglicher Name gehört inzwischen zu einer anderen Figur. Bitte zuerst den Namenskonflikt beheben.');
+ const result=structuredClone(payload);
+ result.characters=result.characters.map(c=>c.id===targetId?structuredClone(original.profile):c);
+ for(const [key,value]of [['reference_overrides',original.reference_overrides],['outfits',original.outfit]]){
+  if(value!==null){result[key]??={};result[key][targetId]=structuredClone(value)}
+  else if(result[key])delete result[key][targetId];
+ }
+ result.library_ids=(result.library_ids||[]).filter(id=>id!==targetId);
+ if(original.library_linked)result.library_ids.push(targetId);
+ delete result.character_replacement_originals[targetId];
  return result;
 }
 function characterLibraryChoice(item,ticket,choose){
@@ -58,6 +82,14 @@ function characterLibraryChoice(item,ticket,choose){
 }
 function characterReplacementPicker(character,ticket){
  const group=document.createElement('fieldset'),legend=document.createElement('legend');group.className='character-replacement-picker';legend.textContent='Durch Bibliotheksfigur ersetzen';group.append(legend);
+ if(editorPayload.character_replacement_originals?.[character.id]){
+  const reset=document.createElement('button');reset.type='button';reset.textContent='Ursprüngliche Figur wiederherstellen';reset.dataset.characterReplacementReset=character.id;
+  reset.onclick=()=>{
+   if(!confirm('Ursprüngliches Profil und Referenzbilder wiederherstellen? Szenen und Gespräche bleiben erhalten. Anschließend die Geschichte speichern.'))return;
+   try{editorPayload=restoreStoryCharacter({...editorPayload,scenes:gatherScenes()},character.id);drawScenes();markCharacterDirty();message('Ursprüngliche Figur wiederhergestellt. Bitte die Geschichte speichern.')}catch(error){message(error.message)}
+  };group.append(reset);
+ }
+
  if(!characterLibraryLoaded){
   const load=document.createElement('button');load.type='button';load.textContent=characterLibraryLoading?'Bibliothek wird geladen …':'Bibliothek laden';load.disabled=characterLibraryLoading;load.onclick=()=>loadCharacterLibrary();group.append(load);return group;
  }
@@ -69,7 +101,7 @@ function characterReplacementPicker(character,ticket){
  const image=document.createElement('img');image.className='character-photo character-replacement-preview';image.hidden=true;image.alt='Vorschau der Bibliotheksfigur';image.dataset.characterReplacementPreview=character.id;image.tabIndex=0;image.setAttribute('role','button');image.title='Vorschaubild vergrößern';image.setAttribute('aria-label','Vorschaubild vergrößern');
  image.onclick=()=>openCharacterPicture(image,characterLibrary.find(c=>c.id===select.value)?.name);
  image.onkeydown=event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();image.click()}};
- const note=document.createElement('p');note.textContent=characterLibrary.length?'Profil und Referenzbilder ersetzen. Szenen und Gespräche bleiben erhalten. Kachelbeschreibungen und besondere Kleidungsanweisungen anschließend prüfen.':'Noch keine gespeicherten Figuren in der Bibliothek.';
+ const note=document.createElement('p');note.textContent=characterLibrary.length?'Aussehen, Eigenschaften und Referenzbilder übernehmen. Der Name in der Geschichte bleibt erhalten. Szenen und Gespräche bleiben erhalten. Kachelbeschreibungen und besondere Kleidungsanweisungen anschließend prüfen.':'Noch keine gespeicherten Figuren in der Bibliothek.';
  const apply=document.createElement('button');apply.type='button';apply.textContent='Diese Figur ersetzen';apply.dataset.characterReplacementApply=character.id;apply.disabled=true;
  const status=document.createElement('p');status.setAttribute('role','status');status.dataset.characterReplacementStatus=character.id;
  let previewTicket=0;
@@ -84,7 +116,7 @@ function characterReplacementPicker(character,ticket){
  apply.onclick=async()=>{
   const chosen=characterLibrary.find(c=>c.id===select.value);if(!chosen)return;
   if($('editor-mode').value!=='editorial'){status.textContent='Zuerst ein bearbeitbares Skript für die Geschichte erstellen.';return}
-  if(!confirm('„'+character.name+'“ durch „'+chosen.name+'“ aus der Bibliothek ersetzen? Profil und Referenzbilder werden übernommen. Szenen und Sprechblasen bleiben zugeordnet. Die Änderung anschließend speichern.'))return;
+  if(!confirm('„'+character.name+'“ durch „'+chosen.name+'“ aus der Bibliothek ersetzen? Aussehen, Eigenschaften und Referenzbilder werden übernommen. Der Name in der Geschichte bleibt erhalten. Szenen und Sprechblasen bleiben zugeordnet. Die Änderung anschließend speichern.'))return;
   const current=editorPayload;group.disabled=true;status.textContent='Profil und Referenzbilder werden übernommen …';
   try{
    const snapshot=await characterLibrarySnapshot(chosen);
@@ -92,7 +124,7 @@ function characterReplacementPicker(character,ticket){
    const next=replaceStoryCharacter({...current,scenes:gatherScenes()},character.id,snapshot);
    editorPayload=next;drawScenes();markCharacterDirty();
    const card=Array.from($('story-characters').children).find(box=>box.dataset.characterId===character.id);if(card)card.open=true;
-   message('Figur ersetzt. Story-ID und Sprecherzuordnungen bleiben erhalten; der bisherige Name ist als Alias zugeordnet. Szenenbeschreibungen prüfen und die Geschichte speichern.');
+   message('Figur ersetzt. Name, Story-ID und Sprecherzuordnungen bleiben erhalten. Szenenbeschreibungen prüfen und die Geschichte speichern.');
   }catch(error){status.textContent=error.message}finally{group.disabled=false}
  };
  group.append(label,gallery,image,note,apply,status);return group;

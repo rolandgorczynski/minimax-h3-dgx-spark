@@ -1,0 +1,231 @@
+TITEL: Rumpelstilzchen – Drei Tage für einen Namen
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Müllerstochter und spätere Königin
+Aussehen: Junge erwachsene Frau mit braunem langem Zopf, braunen Augen und schmalem Gesicht. Dieselbe Person nach Hochzeit und Geburt.
+Kleidung: Anfangs blaues schlichtes Kleid mit einer schmalen Halskette und einem Ring. Später dunkelblaues Hofkleid und schlichte Krone, aber weder Halskette noch Ring zurück.
+Persönlichkeit und Vorgeschichte: Wird durch die Behauptung ihres Vaters in Zwang gebracht. Der Handel rettet sie vorerst, bedroht später ihr Kind; ein ermittelter Name eröffnet den Ausweg.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Müller mit der Goldbehauptung
+Aussehen: Erwachsener kräftiger Mann mit kurzem braunem Bart und staubigen Händen.
+Kleidung: Braune Weste, helles Hemd und graue Hose.
+Persönlichkeit und Vorgeschichte: Behauptet eine Fähigkeit seiner Tochter, die sie nicht besitzt. Seine Behauptung ist Auslöser, keine gezeigte echte Zauberkunst der Frau.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König der Strohkammern
+Aussehen: Erwachsener Mann mit dunklem kurzem Bart und schmalen Lippen.
+Kleidung: Dunkelrotes Hofgewand und goldene schlichte Krone.
+Persönlichkeit und Vorgeschichte: Erhöht seinen Anspruch auf Gold und zwingt die Tochter in immer größere Aufgaben. Spätere Heirat macht den Zwang nicht rückwirkend richtig.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Rätselhaftes kleines Wesen
+Aussehen: Kleiner erwachsener menschenähnlicher Mann mit struppigem rotbraunem Haar, kurzem Bart und wachen Augen. Zwei Arme, zwei Beine.
+Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.
+Persönlichkeit und Vorgeschichte: Geheimer Name: Rumpelstilzchen. Vollbringt die Arbeit gegen steigende Bezahlung; fordert später das Kind. Name wird erst durch den Boten bekannt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bote der Königin
+Aussehen: Junger erwachsener Mann mit kurzem schwarzem Haar und schmalem Gesicht.
+Kleidung: Grauer Reisemantel, braune Hose und Stiefel. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Sucht nach Namen und hört das Wesen im Wald. Muss sein Wissen vor der letzten Begegnung an die Königin übermitteln.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kind der Königin
+Aussehen: Ein einzelnes kleines Baby mit dunklem Flaumhaar und rundem Gesicht.
+Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.
+Persönlichkeit und Vorgeschichte: Das erste Kind der Frau, nach Hochzeit und Zeitabstand geboren. Bleibt bei ihr, wird nicht als Gegenstand hin und her dupliziert.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Eine fremde Behauptung
+Ort und Zeit: Königssaal vor der ersten Spinnnacht
+Sichtbare Figuren: Müller mit der Goldbehauptung, Müllerstochter und spätere Königin, König der Strohkammern
+Bildbeschreibung: Weite Saalansicht. Müller links spricht, Tochter Mitte steht still mit einer Halskette und einem Ring, König rechts aufmerksam. Kein von der Frau gesponnenes Gold als Bildbeweis. Sie hält kein Zaubergerät, ihre Hände leer. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: mittig hinter dem Vater; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues schlichtes Kleid; eine Halskette am Hals und ein Ring am rechten Finger; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Müller mit der Goldbehauptung: Ort: links vor dem Thron; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, helles Hemd und graue Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König der Strohkammern: Ort: rechts auf dem Thron; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Hofgewand und goldene schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Müller mit der Goldbehauptung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Meine Tochter kann Stroh zu Gold spinnen.“
+Kontinuität / Änderung: Falsche Behauptung des Vaters löst die Not aus. Kein Bild bestätigt die behauptete Fähigkeit; die Tochter hat sich nicht freiwillig zu einer Goldprobe gemeldet.
+
+KACHEL 2: Erste Nacht: Ein Schmuckstück
+Ort und Zeit: Erste kleine Strohkammer in der Nacht
+Sichtbare Figuren: Müllerstochter und spätere Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Halbnahe. Kleines Wesen rechts hat die eine Halskette bereits bekommen, Frau links trägt sie nicht mehr. Ein Ring bleibt an ihrer rechten Hand. Stroh noch auf dem Boden, Gold noch nicht fertig. Ein Spinnrad, kein zweites arbeitendes Frauenpaar. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links vor dem Spinnrad; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues schlichtes Kleid; keine Halskette; ein Ring am rechten Finger; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts am Rad; Körperhaltung: stehend; Mitgeführte Gegenstände: eine empfangene Halskette links; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Rätselhaftes kleines Wesen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Was gibst du mir, wenn ich es für dich tue?“
+Dialog 2:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Meine Halskette.“
+Kontinuität / Änderung: Erste Bezahlung vollzogen. Halskette ab jetzt beim Wesen, nicht wieder an der Frau. Der gezeigte Moment liegt vor Fertigstellung der ersten Goldmenge.
+
+KACHEL 3: Der Erfolg gehört dem falschen Mann
+Ort und Zeit: Erste Kammer am folgenden Morgen
+Sichtbare Figuren: Müllerstochter und spätere Königin, König der Strohkammern
+Bildbeschreibung: Breite Morgenansicht. Stroh der ersten Aufgabe vollständig zu Goldspulen geworden, Frau links ohne Halskette und mit einem Ring. König rechts blickt aufs Gold. Kleines Wesen verschwunden, keine schon begonnene zweite Nacht in der Tür. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links am Spinnrad; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues schlichtes Kleid; keine Halskette; ein Ring am rechten Finger; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König der Strohkammern: Ort: rechts in der offenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Hofgewand und goldene schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am Morgen lag Gold dort. Der König verlangte mehr.
+Dialoge: keine
+Kontinuität / Änderung: Erste Nacht abgeschlossen. König nimmt das Ergebnis zum Anlass für größeren Druck. Gold ist Leistung des Wesens, nicht nachträglich bewiesene Zauberkraft der Tochter.
+
+KACHEL 4: Zweite Nacht: Auch der Ring
+Ort und Zeit: Größere zweite Strohkammer in der nächsten Nacht
+Sichtbare Figuren: Müllerstochter und spätere Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Halbtotale. Mehr Stroh als zuvor, Wesen rechts hält den empfangenen Ring. Frau links trägt weder Kette noch Ring, keine neue Krone. Gold der ersten Kammer nicht als zweite identische Strohladung im Raum. Ein Rad am selben Platztyp. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links vor dem größeren Strohhaufen; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues schlichtes Kleid; weder Halskette noch Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts am Spinnrad; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Ring in der rechten Hand; Halskette im Beutel; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Den Ring. Mehr habe ich nicht.“
+Kontinuität / Änderung: Zweite Spinnnacht, zweite Bezahlung. Ring und Kette sind jetzt beide beim Wesen. Nach dieser Nacht wird auch die zweite Aufgabe vollendet, bevor die dritte gestellt wird.
+
+KACHEL 5: Dritte Nacht: Ein Preis jenseits des Zimmers
+Ort und Zeit: Größte Strohkammer in der dritten Nacht
+Sichtbare Figuren: Müllerstochter und spätere Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Weite bedrückende Kammer mit großer Strohmenge. Frau links ohne jeden Schmuck, kleines Wesen rechts dicht vor ihr. Noch kein geborenes Kind im Raum und keine goldene Wiege als bereits gezahlter Preis. Zwei kurze Blasen, viel leerer Abstand darüber. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links vor dem Spinnrad; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues schlichtes Kleid; weder Halskette noch Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts vor der großen Strohmenge; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Schmuck im Beutel; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Rätselhaftes kleines Wesen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann versprich mir dein erstes Kind.“
+Dialog 2:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn du mir diesmal hilfst …“
+Kontinuität / Änderung: Dritter Handel entsteht aus Verzweiflung unter Zwang. Kein jetzt schon vorhandenes Baby und keine freie fröhliche Zustimmung. Danach spinnt das Wesen auch diese Menge zu Gold.
+
+KACHEL 6: Die Rechnung wartet
+Ort und Zeit: Königliche Kinderstube lange nach den Spinnnächten
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin
+Bildbeschreibung: Ruhige weite Kinderstube. Dieselbe Frau nun im dunkelblauen Hofkleid mit schlichter Krone, ohne Kette und Ring. Ein Baby in einer Wiege. Keine zweite Mutter als jüngere Spinnfigur, kein Stroh mehr im Raum. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links neben der Wiege; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: mittig in genau einer Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nach der Heirat mit dem König bekam sie ihr erstes Kind.
+Dialoge: keine
+Kontinuität / Änderung: Deutlicher längerer Zeitwechsel nach der dritten Nacht, Hochzeit und Geburt. Die folgende Frist ist eine neue Folge von drei Tagen, nicht die vierte Spinnnacht.
+
+KACHEL 7: Der versprochene Lohn
+Ort und Zeit: Dieselbe Kinderstube beim Wiederkommen des Wesens
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Halbtotale. Mutter links zwischen Wesen rechts und der einen Wiege hinten. Baby bleibt sicher in der Wiege, niemand hält schon eine zweite Kopie im Arm. Keine Körperverletzung, Bedrohung durch Anspruch und Abstand. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links unmittelbar vor der Wiege; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände am Wiegenrand; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: hinter ihr in der Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Rätselhaftes kleines Wesen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nun gib mir, was du versprochen hast.“
+Dialog 2:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Gib mir einen anderen Ausweg.“
+Kontinuität / Änderung: Wesen fordert den vereinbarten Preis erst nach der Geburt. Kind wird im Bild nicht bereits entführt. Bitte der Mutter führt zum Namensrätsel.
+
+KACHEL 8: Erster Tag: Namen ohne Antwort
+Ort und Zeit: Kinderstube am ersten Tag der neuen Frist
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Ruhige Halbnahe. Wesen rechts mit verschränkten Armen, Mutter links nennt einen Versuch, Kind hinten sicher. Keine Spinnradmontage und kein schon verratener richtiger Name auf einem Zettel. Tageslicht statt erster Spinnnacht. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links vor der Wiege; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts vor der Königin; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: links hinten in der Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Drei Tage blieben ihr. Am ersten wusste sie den Namen nicht.
+Dialog 1:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heißt du Kaspar?“
+Dialog 2:
+  Sprecher: Rätselhaftes kleines Wesen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nein.“
+Kontinuität / Änderung: Erster Tag der Namensfrist nach dem Aufschub. Die Namensliste ist neues Suchen, nicht magisches Wissen. Richtigen Namen vor der Botenentdeckung nicht benutzen.
+
+KACHEL 9: Zweiter Tag: Nicht nur im Zimmer suchen
+Ort und Zeit: Kinderstube vor dem Aufbruch des Boten
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin, Bote der Königin
+Bildbeschreibung: Breite Türansicht. Königin links beim Kind, Bote rechts erhält Auftrag und hat leere Hände. Kein vom Wesen schon unterschriebener Brief mit seinem Namen. Mutter verlässt das Baby nicht für eine gleichzeitig andere Reise. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links an der Wiege; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bote der Königin: Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Reisemantel, braune Hose und Stiefel. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: links in der Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am zweiten Tag schickte sie einen Boten nach weiteren Namen aus.
+Dialog 1:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Suche auch dort, wo sonst niemand fragt.“
+Kontinuität / Änderung: Suche wird nach erfolglosen Versuchen erweitert. Bote als eigenständiger Wissensträger, kein plötzliches Hellsehen der Königin.
+
+KACHEL 10: Ein Name am Feuer
+Ort und Zeit: Waldlichtung in der Nacht des zweiten Tages
+Sichtbare Figuren: Bote der Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Weite Nachtansicht. Kleines Wesen rechts tanzt allein am Feuer, Bote links verborgen lauscht. Keine zweite Königin im Wald, kein Kind am Feuer. Beine des Tänzers genau zwei, nicht als Bewegungsspur vervielfacht. Ein kurzer aus der Figur kommender Satz. Verbindliche Zustände: Rätselhaftes kleines Wesen: Ort: rechts neben einem kleinen Feuer; Körperhaltung: tanzend, eine Fußstellung im Moment; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bote der Königin: Ort: links hinter einem Baum; Körperhaltung: geduckt lauschend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Reisemantel, braune Hose und Stiefel. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Rätselhaftes kleines Wesen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Rumpelstilzchen heiße ich!“
+Kontinuität / Änderung: Bote hört den richtigen Namen jetzt. Verkürzte frei neu formulierte Liedzeile für den Comic, kein ganzes Originalgedicht. Er ist Zeuge, nicht Erfinder des Namens.
+
+KACHEL 11: Das Wissen kommt rechtzeitig an
+Ort und Zeit: Kinderstube am Morgen des dritten Tages
+Sichtbare Figuren: Bote der Königin, Müllerstochter und spätere Königin, Kind der Königin
+Bildbeschreibung: Halbnahe. Bote rechts berichtet der Königin links zugewandt, Baby in derselben Wiege. Wesen noch nicht im Raum. Kein Name als plötzlich aus dem Baby gesprochene Lösung. Ruhiger klarer Bericht vor der letzten Begegnung. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links neben der Wiege; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bote der Königin: Ort: rechts vor der Königin; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Reisemantel, braune Hose und Stiefel. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: links hinten in der Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bote der Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Im Wald nannte er sich Rumpelstilzchen.“
+Kontinuität / Änderung: Übermittlung ausdrücklich vor der letzten Probe. Erst jetzt kennt die Mutter den Namen; Bote kann im folgenden Bild abwesend sein, Wissen bleibt bei ihr.
+
+KACHEL 12: Der letzte Tag beginnt wie die anderen
+Ort und Zeit: Kinderstube beim dritten Besuch
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Gleiche Blickachse wie am ersten Tag. Königin links wirkt gefasst, Wesen rechts wartet. Baby weiterhin im Hintergrund, keine Hände daran. Noch keine gleichzeitige zornige Schlussflucht des Wesens im selben Bild. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links ruhig vor der Wiege; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: links hinten in der Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heißt du vielleicht Hinz?“
+Dialog 2:
+  Sprecher: Rätselhaftes kleines Wesen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nein.“
+Kontinuität / Änderung: Dritter und letzter Tag. Königin kennt die Lösung bereits aus dem Bericht, versucht zunächst einen anderen Namen. Keine Verlängerung der Frist als neue Aufgabe.
+
+KACHEL 13: Das eine Wort
+Ort und Zeit: Dieselbe Kinderstube unmittelbar danach
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin, Rätselhaftes kleines Wesen
+Bildbeschreibung: Halbtotale. Königin links nennt den Namen, kleines Wesen rechts weicht im Schatten der Tür zurück. Keine Körperzerreißung und kein Splittern von Gliedmaßen. Ein Baby bleibt in einer Wiege, nicht schon in seinen Armen. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links vor der Wiege; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rätselhaftes kleines Wesen: Ort: rechts nahe der Tür; Körperhaltung: zornig zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner kurzer Rock, grüne Hose und weiche Schuhe. Kleine Beuteltasche für Halskette und Ring.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: links hinten in der Wiege; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Müllerstochter und spätere Königin
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heißt du Rumpelstilzchen?“
+Kontinuität / Änderung: Richtiger Name löst nach der vereinbarten Bedingung die Forderung. Gewaltsamen Grimm-Schluss nur durch zornigen Abgang und Schatten andeuten, keine anatomische Gewalt.
+
+KACHEL 14: Was sie nicht hätte versprechen sollen müssen
+Ort und Zeit: Kinderstube nach dem Fortgang
+Sichtbare Figuren: Müllerstochter und spätere Königin, Kind der Königin
+Bildbeschreibung: Ruhige Schlussnähe. Mutter hält ihr einziges Kind, Wiege daneben leer. Weder Halskette noch Ring sind magisch zurück. Keine Spinnradkrone als Belohnung für Gehorsam. Wesen fort, König nicht als ursprünglicher Retter daneben gestellt. Verbindliche Zustände: Müllerstochter und spätere Königin: Ort: links auf einem Stuhl; Körperhaltung: sitzend; Mitgeführte Gegenstände: das eine Baby im Arm; Kleidung: Dunkelblaues Hofkleid und schlichte Krone; keine Halskette und kein Ring; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der Königin: Ort: in den Armen seiner Mutter; Körperhaltung: in hellem Tuch liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes Wickeltuch, keine Krone und kein Schmuck.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Name hatte sie befreit. Wer hatte sie in dieses Versprechen gedrängt?
+Dialoge: keine
+Kontinuität / Änderung: Mutter nimmt das Baby nach dem Abgang aus der Wiege. Kind bleibt bei ihr. Offene moralische Frage bewahrt den ursprünglichen Leistungszwang, statt ihn durch die Hochzeit zu rechtfertigen.

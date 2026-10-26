@@ -1,0 +1,197 @@
+TITEL: Sechse kommen durch die ganze Welt – Jeder kann etwas Unmögliches
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Entlassener Soldat der Sechse
+Aussehen: Erwachsener Mann mit kurzem braunem Haar, kleinem Bart und schmalem Gesicht. Normale menschliche Kraft.
+Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.
+Persönlichkeit und Vorgeschichte: Schlecht entlohnt zieht er mit fünf Gefährten weiter. Koordiniert, übernimmt aber nicht deren Kräfte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kraftmann der Sechse
+Aussehen: Sehr großer kräftiger erwachsener Mann mit kurzem schwarzem Haar und breitem bartlosem Gesicht. Zwei Arme und zwei Beine.
+Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.
+Persönlichkeit und Vorgeschichte: Trägt am Ende den Goldsack. Kein zweiter körperlich gleich starker Soldat und keine Verdoppelung des Trägers.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schütze der Sechse
+Aussehen: Schlanker erwachsener Mann mit rotbraunem kurzem Bart und scharfem Blick.
+Kleidung: Grüner Rock, braune Hose und feste Schuhe. Genau eine historische Büchse am Riemen, kein Bogen oder Schwert.
+Persönlichkeit und Vorgeschichte: Kann aus großer Entfernung genau treffen. Weckt den Läufer rechtzeitig durch einen Schuss, ohne ihn zu verletzen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bläser der Sechse
+Aussehen: Erwachsener Mann mit kahlem Kopf, breiten Wangen und dunklem Schnurrbart.
+Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.
+Persönlichkeit und Vorgeschichte: Erzeugt starken Wind durch Blasen. Vertreibt zuletzt die Reiter; friert nicht den Raum ein.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Läufer der Sechse
+Aussehen: Junger erwachsener schlanker Mann mit dunklen Locken und langen Beinen. Genau zwei Beine.
+Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.
+Persönlichkeit und Vorgeschichte: Nutzt im Rennen seine volle Geschwindigkeit, schläft erst nach dem Vorsprung und wird rechtzeitig geweckt. Kein Träger des Goldsacks.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Frostmann der Sechse
+Aussehen: Erwachsener Mann mit kurzem weißem Bart und ruhigem Gesicht.
+Kleidung: Hellgrauer Rock und dunkle Hose, eine schwarze Mütze zunächst schief auf dem Kopf. Voll aufgesetzt löst sie Frost aus.
+Persönlichkeit und Vorgeschichte: Kühlt den erhitzten Raum durch seine Mütze. Der kalte Effekt gehört ihm, nicht dem Bläser.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König gegen die Sechse
+Aussehen: Älterer Mann mit kurzem grauem Bart und schmalen Lippen.
+Kleidung: Dunkelrotes Hofgewand und schlichte goldene Krone.
+Persönlichkeit und Vorgeschichte: Will die nach einem fairen Sieg eingegangene Pflicht umgehen. Lässt den Raum heizen und später Verfolger losschicken.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königstochter im Wettlauf
+Aussehen: Junge erwachsene Frau mit braunem zusammengebundenem Haar und entschlossenem Gesicht.
+Kleidung: Blaues kurzes Laufobergewand über heller Hose und weiche Schuhe.
+Persönlichkeit und Vorgeschichte: Tritt gegen den Läufer an. Wird am Ende keine Braut der Gruppe; keine weitere Romanze anhängen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Lohn, der nicht zum Leben reicht
+Ort und Zeit: Straße nach der Entlassung
+Sichtbare Figuren: Entlassener Soldat der Sechse
+Bildbeschreibung: Weite Wegansicht. Ein normal großer entlassener Mann im grauen Wams zählt wenige Münzen aus einem kleinen Beutel. Kein Schwert, kein Schatzsack und keine fünf zusätzlichen Klone im gleichen Uniformrock. Offene Straße vor ihm. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links auf der Straße; Körperhaltung: stehend; Mitgeführte Gegenstände: ein fast leerer kleiner Geldbeutel links; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nach langem Dienst blieb ihm kaum etwas. Er zog weiter.
+Dialoge: keine
+Kontinuität / Änderung: Soldat hat normale Körperkraft und keine Zauberwaffe. Begegnungen mit den fünf Gefährten folgen als geraffter Reiseabschnitt, kein zweiter Heerbann.
+
+KACHEL 2: Fünf Begabungen neben einer sechsten Person
+Ort und Zeit: Wegkreuz nach den Begegnungen
+Sichtbare Figuren: Entlassener Soldat der Sechse, Kraftmann der Sechse, Schütze der Sechse, Bläser der Sechse, Läufer der Sechse, Frostmann der Sechse
+Bildbeschreibung: Breite gut geordnete Gruppenansicht von genau sechs Männern. Grau links Soldat, großer Brauner Mitte Kraftmann, Grün mit einer Büchse Schütze, Blau Bläser, Ocker Läufer mit zwei Beinen, Hellgrau mit schiefer schwarzer Mütze Frostmann. Keine siebte Gefährtenfigur. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links am Wegkreuz; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schütze der Sechse: Ort: mittig rechts; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Büchse am Schulterriemen; Kleidung: Grüner Rock, braune Hose und feste Schuhe. Genau eine historische Büchse am Riemen, kein Bogen oder Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bläser der Sechse: Ort: rechts vorn; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: rechts hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frostmann der Sechse: Ort: links hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Hellgrauer Rock und dunkle Hose, eine schwarze Mütze zunächst schief auf dem Kopf. Voll aufgesetzt löst sie Frost aus.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Kraft, sicherer Schuss, Sturmwind, rasender Lauf und Frost: Jeder brachte etwas anderes mit.
+Dialoge: keine
+Kontinuität / Änderung: Fünf Reisebekanntschaften gerafft, jetzt Gruppe vollständig. Fähigkeiten bleiben ihren festen Profilen zugeordnet; keine gemeinsame Muskelverwandlung.
+
+KACHEL 3: Die Probe des Königs
+Ort und Zeit: Startplatz am königlichen Hof
+Sichtbare Figuren: Entlassener Soldat der Sechse, Läufer der Sechse, Königstochter im Wettlauf, König gegen die Sechse
+Bildbeschreibung: Weite Startansicht. Soldat links meldet den ockerfarbenen Läufer, Königstochter rechts neben ihm als zweite Wettläuferin. Keine zusätzlichen Rennklone der anderen Gefährten. Der König hinten bestätigt die Bedingung mit offener Hand. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links vor dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: mittig an der Startlinie; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König gegen die Sechse: Ort: hinten auf einer niedrigen Tribüne; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Hofgewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter im Wettlauf: Ort: rechts neben dem Läufer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues kurzes Laufobergewand über heller Hose und weiche Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Entlassener Soldat der Sechse
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mein Gefährte läuft für mich.“
+Dialog 2:
+  Sprecher: König gegen die Sechse
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann gilt die vereinbarte Probe.“
+Kontinuität / Änderung: Soldat und Läufer verschiedene Personen. Wette beziehungsweise Verliererpflicht anerkannt, Ergebnis noch offen. Kein bereits ausbezahltes Gold und keine Hochzeit vorwegnehmen.
+
+KACHEL 4: Vorsprung ist noch kein Ziel
+Ort und Zeit: Rennweg fern vom Hof
+Sichtbare Figuren: Läufer der Sechse, Königstochter im Wettlauf
+Bildbeschreibung: Breite seitliche Bewegungsansicht. Läufer links mit zwei Beinen weit vorn, Königstochter rechts kleiner im Abstand. Keine zusätzliche Beinkopie oder Flügel. Beide am selben Rennweg, nicht zwei konkurrierende Räume. Er ist noch wach. Verbindliche Zustände: Läufer der Sechse: Ort: links weit voraus auf dem Weg; Körperhaltung: mit voller Geschwindigkeit laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter im Wettlauf: Ort: rechts weit hinten auf demselben Weg; Körperhaltung: laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues kurzes Laufobergewand über heller Hose und weiche Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Läufer nutzt volle Geschwindigkeit und baut erst den Vorsprung auf. Schlaf folgt danach, nicht als magischer Ersatz für das Laufen.
+
+KACHEL 5: Ein zu bequemes Polster
+Ort und Zeit: Rennweg nach dem großen Vorsprung
+Sichtbare Figuren: Läufer der Sechse, Königstochter im Wettlauf
+Bildbeschreibung: Halbtotale. Läufer schläft links mit Kopf auf einem festen Steinpolster am Wegrand, zwei normale Beine. Königstochter rechts läuft an ihm vorbei Richtung Ziel. Keine gleichzeitig vorn laufende zweite Läuferfigur. Kein verwundeter Schlafender. Verbindliche Zustände: Läufer der Sechse: Ort: links neben dem Weg; Körperhaltung: schlafend liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter im Wettlauf: Ort: rechts auf dem Weg vorbeilaufend; Körperhaltung: laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues kurzes Laufobergewand über heller Hose und weiche Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Er schläft erst jetzt nach seinem Vorsprung. Vorbeiziehen macht die Hilfe des Schützen erforderlich. Ein Stein unter dem Kopf wird als sichtbarer Weckansatz vorbereitet.
+
+KACHEL 6: Der Schütze trifft den richtigen Augenblick
+Ort und Zeit: Fernsicht vom Rand der Laufstrecke
+Sichtbare Figuren: Schütze der Sechse, Läufer der Sechse
+Bildbeschreibung: Breite Distanzansicht. Links Schütze nach einem Schuss mit kleinem Rauchrest am Lauf. Rechts fern sitzt Läufer unverletzt am zerbrochenen Steinpolster auf. Kein Treffer im Menschen und keine Wunddetails. Keine zweite Büchse am Schulterriemen. Verbindliche Zustände: Schütze der Sechse: Ort: links am hohen Wegrand; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Büchse in beiden Händen, Lauf zum fernen Steinpolster; Kleidung: Grüner Rock, braune Hose und feste Schuhe. Genau eine historische Büchse am Riemen, kein Bogen oder Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: rechts fern beim Stein; Körperhaltung: erschrocken aufgerichtet sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Präziser Schuss trifft das Steinpolster und weckt den Läufer, ohne ihn zu verletzen. Schütze führt weiter genau eine Büchse, nicht Bogen und Gewehr zugleich.
+
+KACHEL 7: Der Sieg ist geschafft
+Ort und Zeit: Zielplatz beim König
+Sichtbare Figuren: Läufer der Sechse, Königstochter im Wettlauf, Entlassener Soldat der Sechse, König gegen die Sechse
+Bildbeschreibung: Weite klare Ziellinie. Ockerfarbener Läufer links vollständig über der Linie, Königstochter rechts noch davor, Soldat wartet daneben. Keine zweite Königstochter schon als Siegerin auf dem Podest. König im Hintergrund sieht das Ergebnis. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links neben dem Ziel; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: links bereits jenseits der Ziellinie; Körperhaltung: stehend und Atem holend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König gegen die Sechse: Ort: hinten an der Tribüne; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Hofgewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter im Wettlauf: Ort: rechts noch vor der Linie; Körperhaltung: ankommend laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues kurzes Laufobergewand über heller Hose und weiche Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Läufer gewann die Probe. Der König wollte die Pflicht nicht erfüllen.
+Dialoge: keine
+Kontinuität / Änderung: Nach dem Wecken holt Läufer auf und gewinnt. Alle folgenden Hindernisse folgen aus königlichem Wortbruch, nicht aus einem vorher verlorenen Rennen.
+
+KACHEL 8: Die Gaststube wird zum Ofen
+Ort und Zeit: Verriegelter Raum nach dem Wettlauf
+Sichtbare Figuren: Entlassener Soldat der Sechse, Kraftmann der Sechse, Schütze der Sechse, Bläser der Sechse, Läufer der Sechse, Frostmann der Sechse
+Bildbeschreibung: Breite gedrängte Raumübersicht mit genau sechs Männern. Geschlossene verriegelte Tür links, von unten erhitzter Boden glimmt an Fugen ohne offene Flammen an Menschen. Frostmann links hinten hat Hand an der Mütze; noch kein Eis. Kein König im selben eingeschlossenen Raum. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links vor der verschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schütze der Sechse: Ort: mittig rechts; Körperhaltung: stehend; Mitgeführte Gegenstände: Büchse am Schulterriemen; Kleidung: Grüner Rock, braune Hose und feste Schuhe. Genau eine historische Büchse am Riemen, kein Bogen oder Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bläser der Sechse: Ort: rechts vorn; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: rechts hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frostmann der Sechse: Ort: links hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand an der schiefen Mütze; Kleidung: Hellgrauer Rock und dunkle Hose, eine schwarze Mütze zunächst schief auf dem Kopf. Voll aufgesetzt löst sie Frost aus.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Entlassener Soldat der Sechse
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Er lässt von unten heizen.“
+Kontinuität / Änderung: Gruppe wurde eingesperrt. Alle sechs leben, keine Körperverbrennungen. Bläser bläst noch nicht, da die rettende Fähigkeit diesmal dem Frostmann gehört.
+
+KACHEL 9: Eine Mütze gegen die Falle
+Ort und Zeit: Derselbe Raum nach Einsatz der Frostgabe
+Sichtbare Figuren: Frostmann der Sechse, Entlassener Soldat der Sechse, Kraftmann der Sechse, Schütze der Sechse, Bläser der Sechse, Läufer der Sechse
+Bildbeschreibung: Breite gleiche Raumansicht. Frost legt sich über Boden und Wände, sechs Männer geschützt unverletzt. Frostmann vorn mit jetzt korrekt aufgesetzter schwarzer Mütze, Bläser rechts hat geschlossenen Mund. Kein zusätzlicher siebter Kältemagier und kein unversehrt brennender Boden im selben Zustand. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schütze der Sechse: Ort: mittig rechts; Körperhaltung: stehend; Mitgeführte Gegenstände: Büchse am Schulterriemen; Kleidung: Grüner Rock, braune Hose und feste Schuhe. Genau eine historische Büchse am Riemen, kein Bogen oder Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bläser der Sechse: Ort: rechts vorn; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: rechts hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frostmann der Sechse: Ort: links vorn; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände leer; schwarze Mütze jetzt ganz aufgesetzt; Kleidung: Hellgrauer Rock, dunkle Hose; schwarze Mütze gerade und vollständig auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Frostmann kühlte den Raum. Die Falle hielt sie nicht.
+Dialoge: keine
+Kontinuität / Änderung: Mütze bewusst vollständig aufgesetzt, Kälte folgt. Alle sechs überleben, Tür wird danach vom König wieder geöffnet. Frost endet später durch erneutes Schiefsetzen, nicht durch Rollenwechsel der Fähigkeit.
+
+KACHEL 10: Eine neue Zusage
+Ort und Zeit: Hof nach der geöffneten Falle
+Sichtbare Figuren: Entlassener Soldat der Sechse, Kraftmann der Sechse, König gegen die Sechse
+Bildbeschreibung: Halbtotale. Soldat links normal groß, Kraftmann dahinter mit genau einem großen leeren Sack, König rechts gewährt die neue Zusage. Kein Sack schon mit Gold und kein eingeschlossener gefrorener Soldat als Kopie im Hintergrund. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links vor dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig hinter dem Soldaten; Körperhaltung: stehend; Mitgeführte Gegenstände: ein großer noch leerer Sack in beiden Händen; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König gegen die Sechse: Ort: rechts vor ihnen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Hofgewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: König gegen die Sechse
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „So viel Gold, wie einer von euch tragen kann.“
+Kontinuität / Änderung: Nach dem gescheiterten Tötungsversuch bietet König diese Abfindung. Frostmann hat Mütze wieder schiefgestellt; Gruppe verlässt den geöffneten Raum vollständig.
+
+KACHEL 11: Die Stärke hat einen Besitzer
+Ort und Zeit: Schatzraum nach dem Füllen des Sacks
+Sichtbare Figuren: Kraftmann der Sechse, Entlassener Soldat der Sechse
+Bildbeschreibung: Weite Schatzkammer. Großer Kraftmann trägt einen einzigen prall gefüllten Sack, Soldat links bleibt normal gebaut und mit leeren Händen. Geöffnete Schatztruhen weitgehend leer. Keine zwei Goldsäcke als Schattenkopie und keine neue Riesenverwandlung des Soldaten. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig vor der Truhe; Körperhaltung: unter einer Last aufgerichtet; Mitgeführte Gegenstände: ein riesiger mit Gold gefüllter Sack auf der rechten Schulter; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Kraftmann nahm die Zusage wörtlich.
+Dialoge: keine
+Kontinuität / Änderung: Sack nach dem Füllen allein beim Kraftmann. Weitere Gefährten helfen nicht als unsichtbare zweite Träger. Sie gehen danach gemeinsam fort, ohne eine Hochzeit einzufordern.
+
+KACHEL 12: Wortbruch reitet hinterher
+Ort und Zeit: Straße außerhalb des königlichen Hofs
+Sichtbare Figuren: Entlassener Soldat der Sechse, Kraftmann der Sechse, Bläser der Sechse
+Bildbeschreibung: Breite Wegansicht. Gruppe zieht nach links fort, Fokus auf Soldat, Kraftmann und umgewandtem Bläser. Unbenannte königliche Reiter als kleine Silhouetten rechts fern hinter ihnen. Kein zweiter König läuft als Gefährte mit, Sack bleibt beim Kraftmann. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig links; Körperhaltung: mit schwerer Last gehend; Mitgeführte Gegenstände: derselbe eine volle Goldsack auf der rechten Schulter; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bläser der Sechse: Ort: rechts hinten am Gruppenrand; Körperhaltung: zu den Verfolgern umgewandt; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Entlassener Soldat der Sechse
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Er schickt uns Reiter nach.“
+Kontinuität / Änderung: Verfolger kommen erst nach dem zugesagten Goldabzug. Drei andere Gefährten bereits weiter links außerhalb des Ausschnitts, nicht als verschwundene oder tote Gruppenmitglieder behandeln.
+
+KACHEL 13: Ein Atemzug schafft Abstand
+Ort und Zeit: Derselbe Weg beim Zurückblasen der Verfolger
+Sichtbare Figuren: Bläser der Sechse, Kraftmann der Sechse
+Bildbeschreibung: Weite Seitenansicht. Bläser links pustet einen klar gerichteten Windstoß nach rechts, entfernte Reiter müssen umkehren und werden zurückgedrängt. Keine zerrissenen Menschen oder verletzten Pferde. Sack weiter beim Kraftmann links hinten. Kein Frost als Ursache der Bewegung. Verbindliche Zustände: Kraftmann der Sechse: Ort: links hinter ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: ein voller Goldsack auf der rechten Schulter; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bläser der Sechse: Ort: links im Vordergrund; Körperhaltung: mit geblähten Wangen nach rechts blasend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Diesmal brauchten sie den Bläser.
+Dialoge: keine
+Kontinuität / Änderung: Bläser vertreibt die Reiter mit Wind, nicht der Schütze mit einer Salve. Königliche Verfolgung endet hier, keine neue Schlacht als Abschluss.
+
+KACHEL 14: Sechs ziehen weiter
+Ort und Zeit: Offener Weg fern vom Hof
+Sichtbare Figuren: Entlassener Soldat der Sechse, Kraftmann der Sechse, Schütze der Sechse, Bläser der Sechse, Läufer der Sechse, Frostmann der Sechse
+Bildbeschreibung: Weite Rückenansicht von genau sechs Gefährten mit denselben Farben und Gegenständen. Ein riesiger Sack bei einem Kraftmann, eine Büchse beim Schützen. Kein Thron oder Hochzeitszug, keine zusätzliche Gefährtin aus dem Wettlauf. Offener Weg statt Hofabhängigkeit. Verbindliche Zustände: Entlassener Soldat der Sechse: Ort: links auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes graues Wams, braune Hose und Stiefel. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kraftmann der Sechse: Ort: mittig links; Körperhaltung: gehend; Mitgeführte Gegenstände: ein voller Goldsack auf der rechten Schulter; Kleidung: Braunes ärmelloses Wams, dunkle Hose und Stiefel. Später ein einziger riesiger Sack.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schütze der Sechse: Ort: mittig rechts; Körperhaltung: gehend; Mitgeführte Gegenstände: eine Büchse am Schulterriemen; Kleidung: Grüner Rock, braune Hose und feste Schuhe. Genau eine historische Büchse am Riemen, kein Bogen oder Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bläser der Sechse: Ort: rechts vorn; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Rock, graue Hose und Stiefel. Keine Flöte und kein Blasebalg.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Läufer der Sechse: Ort: rechts hinten; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes kurzes Wams, dunkle Hose und weiche Schuhe. Keine Flügel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frostmann der Sechse: Ort: links hinten; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Hellgrauer Rock, dunkle Hose und schwarze Mütze wieder schief; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Keiner konnte alles. Sie ließen keinen zurück.
+Dialoge: keine
+Kontinuität / Änderung: Gemeinsame Freiheit mit dem Gold, keine Hochzeit. Mütze wieder schief, daher kein neuer Frost auf der Straße. Läufer zwei Beine und keine wiederkehrenden Schlafklone.

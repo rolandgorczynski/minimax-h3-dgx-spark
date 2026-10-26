@@ -1,0 +1,756 @@
+{
+  "mode": "editorial",
+  "name": "20.000 Meilen unter den Meeren – Angriff auf die Nautilus · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: 20.000 Meilen unter den Meeren – Angriff auf die Nautilus.\nÜBERLIEFERUNG: Vingt mille lieues sous les mers, französischer Originalroman 1869–1870; zweite Hälfte, Episode der großen Kopffüßer.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nProfessor Aronnax, sein Begleiter Conseil und der Harpunier Ned Land reisen als unfreiwillige Gäste auf Kapitän Nemos Nautilus. In der ausgewählten Episode geraten sie zwischen große Kopffüßer. Ein Tier blockiert den Antrieb des U-Boots. Nemo lässt die Luke öffnen und nimmt den Kampf an Deck auf. Die Angreifer greifen mit ihren Armen nach der Besatzung; ein Mann wird fortgerissen und geht verloren. Ned Land gerät ebenfalls in Gefahr, und Nemo hilft ihm. Schließlich wehren die Männer die Tiere ab. Die Nautilus kommt frei. Nemo bleibt von dem Verlust eines Besatzungsmitglieds erschüttert zurück; der gemeinsame Kampf hat die grundsätzliche Gefangenschaft der Gäste nicht aufgehoben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Enger Maschinenraum gegen bedrohlich weites Meer, erzwungene Zusammenarbeit und ein Sieg mit bleibendem Verlust.\nABGRENZUNG: Abgeschlossene Angriffsepisode, keine Verknüpfung mit dem späteren Mahlstrom-Ende. Riesenkalmare beziehungsweise Kopffüßer, keine Kraken mit beliebig vielen zusätzlichen Armen im selben Tier. Harpune und Axt nur bei den ausdrücklich handelnden Figuren führen. Tauchausrüstung unter Wasser, Deckkampf nach Öffnen und Auftauchen; keine frei atmenden Menschen im offenen Tiefenwasser. Der verlorene Mann kehrt nach dem Kampf nicht zurück. Moderne Filmgestaltung nicht übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_article": "STOFF UND HERKUNFT: 20.000 Meilen unter den Meeren – Angriff auf die Nautilus.\nÜBERLIEFERUNG: Vingt mille lieues sous les mers, französischer Originalroman 1869–1870; zweite Hälfte, Episode der großen Kopffüßer.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nProfessor Aronnax, sein Begleiter Conseil und der Harpunier Ned Land reisen als unfreiwillige Gäste auf Kapitän Nemos Nautilus. In der ausgewählten Episode geraten sie zwischen große Kopffüßer. Ein Tier blockiert den Antrieb des U-Boots. Nemo lässt die Luke öffnen und nimmt den Kampf an Deck auf. Die Angreifer greifen mit ihren Armen nach der Besatzung; ein Mann wird fortgerissen und geht verloren. Ned Land gerät ebenfalls in Gefahr, und Nemo hilft ihm. Schließlich wehren die Männer die Tiere ab. Die Nautilus kommt frei. Nemo bleibt von dem Verlust eines Besatzungsmitglieds erschüttert zurück; der gemeinsame Kampf hat die grundsätzliche Gefangenschaft der Gäste nicht aufgehoben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Enger Maschinenraum gegen bedrohlich weites Meer, erzwungene Zusammenarbeit und ein Sieg mit bleibendem Verlust.\nABGRENZUNG: Abgeschlossene Angriffsepisode, keine Verknüpfung mit dem späteren Mahlstrom-Ende. Riesenkalmare beziehungsweise Kopffüßer, keine Kraken mit beliebig vielen zusätzlichen Armen im selben Tier. Harpune und Axt nur bei den ausdrücklich handelnden Figuren führen. Tauchausrüstung unter Wasser, Deckkampf nach Öffnen und Auftauchen; keine frei atmenden Menschen im offenen Tiefenwasser. Der verlorene Mann kehrt nach dem Kampf nicht zurück. Moderne Filmgestaltung nicht übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Eine Fahrt ohne freie Rückfahrt",
+        "setting": "Innenraum der getauchten Nautilus",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "8f9c9ffc8e7057cc804596d2c4abc14a",
+          "7d9e4ca807105598bb686cc2ec3433a9",
+          "812484fb07b15e69b70474eef0f939e2"
+        ],
+        "story": "Weite technische Stube mit historischem Metall und Glas. Vier Menschen atmen im geschlossenen trockenen Innenraum, Nemo rechts, drei Gäste links. Draußen nur dunkles Meer, kein Mensch ohne Ausrüstung im Tiefenwasser. Harpune und Axt noch nicht in Händen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor einem Beobachtungsfenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: links neben Conseil; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: hinten links bei der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Aronnax, Conseil und Ned reisten mit Nemo. Freiwillig gehen konnten sie nicht.",
+        "bubbles": [],
+        "continuity": "Abgeschlossene Angriffsepisode. Keine moderne U-Boot-Filmgestaltung und kein vorgezogenes Mahlstrom-Ende. Gäste und Kapitän verschiedene Machtpositionen.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts vor einem Beobachtungsfenster",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8f9c9ffc8e7057cc804596d2c4abc14a": {
+            "location": "links neben Conseil",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "7d9e4ca807105598bb686cc2ec3433a9": {
+            "location": "mittig links",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "hinten links bei der Tür",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Was den Antrieb festhält",
+        "setting": "Unterwasseransicht am Heck der Nautilus",
+        "characters": [
+          "c846f5eeb5e55b15846690b0bea77aab"
+        ],
+        "story": "Weite Unterwasseransicht. Ein großer Kalmar greift mit einem seiner zwei langen Fangtentakel in den äußeren Antriebsbereich. Mantel und zwei Flossen erkennbar, acht kürzere Arme eng geordnet, weitere Teile teilweise verdeckt. Keine zwölf Arme aus zusätzlichen Kopfansätzen. Keine frei atmenden Menschen außen. Verbindliche Zustände: Großer Kalmar am Nautilusantrieb: Ort: am blockierten äußeren Antrieb; Körperhaltung: mit einem Fangtentakel am Antrieb haftend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Ein Tier blockierte den Antrieb.",
+        "bubbles": [],
+        "continuity": "Ein Haupttier, keine neue Maschine als eigentlicher Gegner. Nautilus noch getaucht, Luke bleibt geschlossen. Antrieb blockiert, keine gleichzeitige volle Vorwärtsfahrt.",
+        "character_states": {},
+        "continuity_state": {
+          "c846f5eeb5e55b15846690b0bea77aab": {
+            "location": "am blockierten äußeren Antrieb",
+            "posture": "mit einem Fangtentakel am Antrieb haftend",
+            "held": "leere Hände",
+            "clothing": "Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.",
+            "movement": "schwimmend",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Erst die Oberfläche, dann die Luke",
+        "setting": "Luke der aufgetauchten Nautilus",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "812484fb07b15e69b70474eef0f939e2",
+          "8f9c9ffc8e7057cc804596d2c4abc14a",
+          "7d9e4ca807105598bb686cc2ec3433a9"
+        ],
+        "story": "Vertikale Ansicht von der trockenen Leiter zur offenen Luke: oben Luft, Himmel und Meereshorizont, kein offener Wasserdruck. Nemo rechts mit einer Axt, Ned links mit einer Harpune. Die anderen haben leere Hände. Kein vierter Gast tritt als doppelte Kopie aus der Tür. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts unter der geöffneten Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt in beiden Händen; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: hinten links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: hinten mittig; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links neben Nemo; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Harpune rechts; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f15c754ed7bb544eb2ecc4c06cd4e186",
+            "text": "An Deck!",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Nautilus taucht vor dem Öffnen auf. Waffen erst jetzt aufgenommen: eine Axt bei Nemo, eine Harpune bei Ned. Kein frei atmender Deckkampf unter tiefem Wasser.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts unter der geöffneten Luke",
+            "posture": "stehend",
+            "held": "eine Axt in beiden Händen",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "links neben Nemo",
+            "posture": "stehend",
+            "held": "eine Harpune rechts",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8f9c9ffc8e7057cc804596d2c4abc14a": {
+            "location": "hinten links",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "7d9e4ca807105598bb686cc2ec3433a9": {
+            "location": "hinten mittig",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Zu wenig Platz für so viele Arme",
+        "setting": "Deck der aufgetauchten Nautilus",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "812484fb07b15e69b70474eef0f939e2",
+          "7d9e4ca807105598bb686cc2ec3433a9",
+          "d21cad32044f51a8bc1100de259aab80",
+          "c846f5eeb5e55b15846690b0bea77aab"
+        ],
+        "story": "Breite Deckansicht mit freiem Himmel. Ein Kalmar rechts vom Schiff, zwei lange Fangtentakel über der Reling, übrige Arme am Mantel im Wasser. Nemo Axt rechts, Ned Harpune links, Conseil am Seil, Seemann mit roter Kappe rechts vorn. Keine Körperflossen an Menschen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts neben der Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt in beiden Händen; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig am Lukenseil; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Seil in beiden Händen; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Harpune in beiden Händen; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Verlorener Seemann der Nautilus: Ort: rechts vorn an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände an der Reling; Kleidung: Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: rechts seitlich im Meer; Körperhaltung: Mantel im Wasser, zwei Fangtentakel über die Reling gelegt; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Hauptangreifer räumlich fest verortet, weitere Tiere nur fern im Wasser. Aronnax bleibt nahe der Luke außerhalb des Ausschnitts, nicht als verschwundener Toter.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts neben der Luke",
+            "posture": "stehend",
+            "held": "eine Axt in beiden Händen",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "links an der Reling",
+            "posture": "stehend",
+            "held": "eine Harpune in beiden Händen",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "7d9e4ca807105598bb686cc2ec3433a9": {
+            "location": "mittig am Lukenseil",
+            "posture": "stehend",
+            "held": "ein Seil in beiden Händen",
+            "clothing": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "rechts vorn an der Reling",
+            "posture": "stehend",
+            "held": "beide Hände an der Reling",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "c846f5eeb5e55b15846690b0bea77aab": {
+            "location": "rechts seitlich im Meer",
+            "posture": "Mantel im Wasser, zwei Fangtentakel über die Reling gelegt",
+            "held": "leere Hände",
+            "clothing": "Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.",
+            "movement": "schwimmend",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Der erste Verlust beginnt",
+        "setting": "Reling an der rechten Deckseite",
+        "characters": [
+          "d21cad32044f51a8bc1100de259aab80",
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "c846f5eeb5e55b15846690b0bea77aab"
+        ],
+        "story": "Weite Distanz an der Reling. Ein bestimmter graugekleideter Mann mit roter Kappe wird rechts fortgerissen, Nemo links greift zu kurz. Kein zerrissener Körper und kein zweiter gleicher Seemann noch auf dem Deck. Tentakel gehören zum einen Mantel rechts im Wasser. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: links einen Schritt entfernt; Körperhaltung: stehend; Mitgeführte Gegenstände: Axt rechts gesenkt; linke Hand ausgestreckt; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Verlorener Seemann der Nautilus: Ort: rechts über dem Relingrand; Körperhaltung: von einem Fangtentakel vom Deck gehoben; Mitgeführte Gegenstände: linke Hand tastet nach der Reling; Kleidung: Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: rechts außen im Wasser; Körperhaltung: ein Fangtentakel trägt den Seemann, zweites am Rumpf; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f15c754ed7bb544eb2ecc4c06cd4e186",
+            "text": "Halt dich fest!",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Seemann wird jetzt vom Deck gezogen. Er ist weder bereits gerettet noch gleichzeitig ein weiterer kämpfender Mann an der Luke. Ein zeitlicher Moment vor seinem endgültigen Verschwinden.",
+        "character_states": {},
+        "continuity_state": {
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "rechts über dem Relingrand",
+            "posture": "von einem Fangtentakel vom Deck gehoben",
+            "held": "linke Hand tastet nach der Reling",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "links einen Schritt entfernt",
+            "posture": "stehend",
+            "held": "Axt rechts gesenkt; linke Hand ausgestreckt",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "c846f5eeb5e55b15846690b0bea77aab": {
+            "location": "rechts außen im Wasser",
+            "posture": "ein Fangtentakel trägt den Seemann, zweites am Rumpf",
+            "held": "leere Hände",
+            "clothing": "Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.",
+            "movement": "schwimmend",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Der leere Platz an der Reling",
+        "setting": "Deck unmittelbar nach dem Fortreißen",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "8f9c9ffc8e7057cc804596d2c4abc14a",
+          "7d9e4ca807105598bb686cc2ec3433a9"
+        ],
+        "story": "Ruhige kurze Weite im noch gefährlichen Kampf. Wo der Seemann stand, ist nur nasse Reling. Nemo links blickt ins Wasser, Aronnax und Conseil dahinter. Kein roter Kappenträger als namenloser Überlebender im Hintergrund, keine Leiche oder abgetrennten Gliedmaßen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt rechts, linke Hand leer; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: mittig nahe der Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: rechts am Seil; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Seil in beiden Händen; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Ein Mann ging verloren.",
+        "bubbles": [],
+        "continuity": "Verlorener Seemann außerhalb des Bildes im Meer, kommt in dieser Episode nicht zurück. Der Kampf ist noch nicht gewonnen; Neds folgende Gefahr ist ein eigener Vorgang.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "links an der Reling",
+            "posture": "stehend",
+            "held": "eine Axt rechts, linke Hand leer",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8f9c9ffc8e7057cc804596d2c4abc14a": {
+            "location": "mittig nahe der Luke",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "7d9e4ca807105598bb686cc2ec3433a9": {
+            "location": "rechts am Seil",
+            "posture": "stehend",
+            "held": "ein Seil in beiden Händen",
+            "clothing": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Nun trifft es den Harpunier",
+        "setting": "Linke Deckseite während des Angriffs",
+        "characters": [
+          "812484fb07b15e69b70474eef0f939e2",
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "c846f5eeb5e55b15846690b0bea77aab"
+        ],
+        "story": "Breite Seitenansicht. Ned links festgehalten, seine eine Harpune sichtbar auf dem Deck neben ihm; keine zusätzliche Harpune in einer Hand. Nemo rechts erreicht ihn mit der Axt. Arm hat nur einen Ursprung am Tier außerhalb, keine neue Tentakelkrone aus Neds Rücken. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor Ned; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt in beiden Händen; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links halb an der Reling; Körperhaltung: von einem Arm am Oberkörper festgehalten; Mitgeführte Gegenstände: rechte Hand an der Reling; Harpune abgelegt auf dem Deck; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: links außen am Schiff; Körperhaltung: ein kurzer Arm reicht um Neds Oberkörper; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "812484fb07b15e69b70474eef0f939e2",
+            "text": "Nemo!",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Haupttier hat während der Bewegung die Schiffseite gewechselt; nur ein Mantel am linken Wasser. Ned legt beziehungsweise verliert die Harpune vor dem Befreien, sodass seine Hände greifen können. Keine neue Körperverletzung zeigen.",
+        "character_states": {},
+        "continuity_state": {
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "links halb an der Reling",
+            "posture": "von einem Arm am Oberkörper festgehalten",
+            "held": "rechte Hand an der Reling; Harpune abgelegt auf dem Deck",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts vor Ned",
+            "posture": "stehend",
+            "held": "eine Axt in beiden Händen",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "c846f5eeb5e55b15846690b0bea77aab": {
+            "location": "links außen am Schiff",
+            "posture": "ein kurzer Arm reicht um Neds Oberkörper",
+            "held": "leere Hände",
+            "clothing": "Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.",
+            "movement": "schwimmend",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein Griff über den Gegensatz hinweg",
+        "setting": "Dieselbe Deckseite bei Neds Befreiung",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "812484fb07b15e69b70474eef0f939e2"
+        ],
+        "story": "Halbnahe auf zwei greifende Unterarme, Nemo rechts und Ned links. Bedrohlicher Arm weicht rechts aus dem Ausschnitt, kein Schnittdetail. Axt einmal rechts in Nemos Hand, Harpune bleibt unten am Boden. Kein schon wieder verlorener Seemann zwischen ihnen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor Ned; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt gesenkt rechts; linke Hand an Neds Unterarm; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links wieder am Deck; Körperhaltung: mit Nemos Hilfe aufgerichtet; Mitgeführte Gegenstände: linke Hand greift Nemos Unterarm; rechte Hand an der Reling; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Nemo wehrt den Arm ab und hilft Ned mit der freien linken Hand. Einhändig gehaltene gesenkte Axt bleibt ein Gegenstand, keine dritte Hand. Ned jetzt frei, aber nicht aus der grundsätzlichen Gefangenschaft entlassen.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts vor Ned",
+            "posture": "stehend",
+            "held": "eine Axt gesenkt rechts; linke Hand an Neds Unterarm",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "links wieder am Deck",
+            "posture": "mit Nemos Hilfe aufgerichtet",
+            "held": "linke Hand greift Nemos Unterarm; rechte Hand an der Reling",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Arme gehen zurück",
+        "setting": "Deck und Meer nach der Gegenwehr",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "812484fb07b15e69b70474eef0f939e2",
+          "8f9c9ffc8e7057cc804596d2c4abc14a",
+          "7d9e4ca807105598bb686cc2ec3433a9",
+          "c846f5eeb5e55b15846690b0bea77aab"
+        ],
+        "story": "Weite helle Deckansicht. Haupttier zieht rechts weg, Arme geordnet an einem Mantel, keine neu nachgewachsenen zusätzlichen Gliedmaßen. Vier lebende Hauptmenschen an Deck, keine rote Kappe des Verlorenen. Ned hat nur seine wiedergeholte Harpune. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts neben der Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: eine gesenkte Axt rechts; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: mittig am Lukeneingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig hinter Aronnax; Körperhaltung: stehend; Mitgeführte Gegenstände: Lukenseil in beiden Händen; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: wieder aufgenommene eine Harpune rechts; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: rechts fern vom Rumpf im Meer; Körperhaltung: zieht sich vom Schiff zurück; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Sie wehrten die Tiere ab. Die Nautilus kam frei.",
+        "bubbles": [],
+        "continuity": "Rückzug und freier Antrieb nach gemeinsamer Gegenwehr. Ned nimmt Harpune erst nach Befreiung wieder auf. Keine Trophäenpose oder behauptete neue Freundschaft ohne Gegensätze.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts neben der Luke",
+            "posture": "stehend",
+            "held": "eine gesenkte Axt rechts",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "links an der Reling",
+            "posture": "stehend",
+            "held": "wieder aufgenommene eine Harpune rechts",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8f9c9ffc8e7057cc804596d2c4abc14a": {
+            "location": "mittig am Lukeneingang",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "7d9e4ca807105598bb686cc2ec3433a9": {
+            "location": "mittig hinter Aronnax",
+            "posture": "stehend",
+            "held": "Lukenseil in beiden Händen",
+            "clothing": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "c846f5eeb5e55b15846690b0bea77aab": {
+            "location": "rechts fern vom Rumpf im Meer",
+            "posture": "zieht sich vom Schiff zurück",
+            "held": "leere Hände",
+            "clothing": "Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.",
+            "movement": "schwimmend",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Luke schließt wieder",
+        "setting": "Innenraum nach dem Abtauchen",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186",
+          "8f9c9ffc8e7057cc804596d2c4abc14a",
+          "7d9e4ca807105598bb686cc2ec3433a9",
+          "812484fb07b15e69b70474eef0f939e2"
+        ],
+        "story": "Weite trockene Stube. Luke über dem Gang geschlossen, draußen wieder Tiefenwasser. Vier Hauptmenschen innen, zwei Waffen getrennt gesichert an der Wand. Keine Person atmet ungeschützt draußen im Wasser, kein fünfter geretteter Seemann mit roter Kappe. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor dem Beobachtungsfenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Axt in verschlossener Halterung an der Wand; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: links neben Conseil; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: hinten links nahe der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Harpune gesichert an der Wand; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Alle Überlebenden gehen hinunter, Waffen werden verstaut, Luke geschlossen und Nautilus taucht wieder ab. Diese Reihenfolge bleibt ausdrücklich; kein offener Wassereinbruch als vergessenes Detail.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "rechts vor dem Beobachtungsfenster",
+            "posture": "stehend",
+            "held": "leere Hände; Axt in verschlossener Halterung an der Wand",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8f9c9ffc8e7057cc804596d2c4abc14a": {
+            "location": "links neben Conseil",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "7d9e4ca807105598bb686cc2ec3433a9": {
+            "location": "mittig links",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "hinten links nahe der Tür",
+            "posture": "stehend",
+            "held": "leere Hände; Harpune gesichert an der Wand",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Was die Rettung nicht verändert hat",
+        "setting": "Gang mit Sicht auf Nemos Raum",
+        "characters": [
+          "812484fb07b15e69b70474eef0f939e2",
+          "8f9c9ffc8e7057cc804596d2c4abc14a"
+        ],
+        "story": "Ruhige Gangansicht. Ned links und Aronnax Mitte stehen innen vor geschlossener Tür, dahinter nur abgeschirmtes Kapitänslicht ohne zweite frei zugängliche Außenwelt. Keine gepackten Koffer als schon gewährte Freilassung. Beide Hände leer. Verbindliche Zustände: Professor Aronnax auf der Nautilus: Ort: mittig neben Ned; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links vor einer geschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "812484fb07b15e69b70474eef0f939e2",
+            "text": "Er hat mir geholfen. Gehen dürfen wir noch immer nicht.",
+            "expression": "normal"
+          }
+        ],
+        "continuity": "Beistand real, Machtverhältnis fortbestehend. Conseil in einem anderen Innenraum außerhalb, nicht als neuer Verlust. Nemos Hilfe wird nicht als automatischer Verzicht auf Gefangenschaft ausgegeben.",
+        "character_states": {},
+        "continuity_state": {
+          "812484fb07b15e69b70474eef0f939e2": {
+            "location": "links vor einer geschlossenen Tür",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8f9c9ffc8e7057cc804596d2c4abc14a": {
+            "location": "mittig neben Ned",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Eine Fahrt mit einer fehlenden Person",
+        "setting": "Nemos Raum nach dem Angriff",
+        "characters": [
+          "f15c754ed7bb544eb2ecc4c06cd4e186"
+        ],
+        "story": "Weite stille Innenansicht. Nemo allein am Tisch, Blick gesenkt, Meer dunkel hinter sicherem Glas. Ein leerer Platz gegenüber, keine Geisterrückkehr des verstorbenen Seemanns. Keine Waffen in den Händen und kein siegreiches Lächeln. Nautilus kann fahren, Raum bleibt bedrückend. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: mittig am leeren Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Das Schiff war frei. Nicht die Gäste. Und einer fehlte.",
+        "bubbles": [],
+        "continuity": "Nemos Trauer und Verantwortung bleiben. Verlorener Seemann kehrt nicht zurück; Ende der Angriffsepisode, kein Mahlstrom oder neuer Ausbruch als Trostauflösung.",
+        "character_states": {},
+        "continuity_state": {
+          "f15c754ed7bb544eb2ecc4c06cd4e186": {
+            "location": "mittig am leeren Tisch",
+            "posture": "sitzend",
+            "held": "leere Hände",
+            "clothing": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d21cad32044f51a8bc1100de259aab80": {
+            "location": "außerhalb des Bildes im Meer verloren",
+            "posture": "nicht sichtbar, fortgerissen",
+            "held": "leere Hände",
+            "clothing": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+            "movement": "zu Fuß",
+            "life": "verloren, nicht zurückkehrend",
+            "injury": "unverletzt"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "f15c754ed7bb544eb2ecc4c06cd4e186",
+        "name": "Kapitän Nemo beim Kalmarangriff",
+        "description": "Erwachsener Mann mit dunklem kurzem Haar, dichtem dunklem Bart und strengem schmalem Gesicht.",
+        "outfit": "Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.",
+        "backstory": "Führt die Nautilus und hält die Gäste unfrei. Rettet Ned im gemeinsamen Kampf, bleibt aber von Verantwortung und Verlust betroffen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "8f9c9ffc8e7057cc804596d2c4abc14a",
+        "name": "Professor Aronnax auf der Nautilus",
+        "description": "Erwachsener Mann mit braunem kurzen Bart und neugierigem schmalem Gesicht.",
+        "outfit": "Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.",
+        "backstory": "Beobachtet als unfreiwilliger Gast. Gemeinsame Bewährung hebt seine Gefangenschaft nicht auf.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "7d9e4ca807105598bb686cc2ec3433a9",
+        "name": "Conseil beim Nautilusangriff",
+        "description": "Junger erwachsener Mann mit glattem braunem Haar und bartlosem Gesicht.",
+        "outfit": "Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.",
+        "backstory": "Aronnax Begleiter. Hilft beim gemeinsamen Sichern, bleibt ein lebender eigener Mensch und keine Kopie Neds.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "812484fb07b15e69b70474eef0f939e2",
+        "name": "Ned Land auf der Nautilus",
+        "description": "Erwachsener kräftiger Mann mit kurzem rotbraunem Haar und breitem Bart.",
+        "outfit": "Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.",
+        "backstory": "Harpunier und unfreiwilliger Gast. Wird von Nemo gerettet; sein Wunsch nach Freiheit verschwindet dadurch nicht.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "d21cad32044f51a8bc1100de259aab80",
+        "name": "Verlorener Seemann der Nautilus",
+        "description": "Junger erwachsener Mann mit schwarzem kurzem Haar und schmalem Gesicht.",
+        "outfit": "Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.",
+        "backstory": "Ein bestimmtes Besatzungsmitglied wird fortgerissen. Kehrt nach dem Kampf nicht zurück; spätere lebende Hintergrundfiguren dürfen ihn nicht duplizieren.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "c846f5eeb5e55b15846690b0bea77aab",
+        "name": "Großer Kalmar am Nautilusantrieb",
+        "description": "Ein sehr großer Kopffüßer mit langem zugespitztem Mantel, zwei Seitenflossen, acht kurzen Armen und genau zwei längeren Fangtentakeln.",
+        "outfit": "Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.",
+        "backstory": "Ein wiedererkennbarer Hauptangreifer. Weitere Tiere nur entfernte unbenannte Formen. Armansätze nicht durch Ausschnittwechsel vervielfachen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was vermag gemeinsame Bewährung zwischen grundsätzlich ungleichen Menschen zu verändern?",
+      "core": "Eine gemeinsame Gefahr kann Beistand über Gegensätze hinweg sichtbar machen, ohne Herrschaft, Verlust oder Unfreiheit automatisch aufzuheben.",
+      "ending": "Die Nautilus wird frei; Nemos Trauer und die Gefangenschaft seiner Gäste bleiben bestehen.",
+      "reason": "Blockade, gemeinsame Gegenwehr, Verlust, Rettung und nicht aufgehobener Grundkonflikt müssen nebeneinander sichtbar bleiben.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "der gemeinsame Kampf hat die grundsätzliche Gefangenschaft der Gäste nicht aufgehoben.",
+          "meaning": "Die bestandene Not ist kein Beweis, dass der zugrunde liegende Konflikt verschwunden wäre."
+        }
+      ],
+      "causal_chain": [
+        "der gemeinsame Kampf hat die grundsätzliche Gefangenschaft der Gäste nicht aufgehoben.",
+        "Die Nautilus wird frei; Nemos Trauer und die Gefangenschaft seiner Gäste bleiben bestehen."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "3723c2769e54cbb6b2b0f22cacbe22fd088437fa3ffee606db724d4ea2396134",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:45.173016+00:00"
+    },
+    "post_summary": "Die Nautilus steckt fest, und vor den Fenstern bewegen sich riesige Arme. An Deck muss Kapitän Nemo mit Männern zusammenarbeiten, denen er ihre Freiheit verweigert.",
+    "source_provenance": {
+      "title": "20.000 Meilen unter den Meeren – Angriff auf die Nautilus",
+      "kind": "Buch",
+      "creator": "Jules Verne (1828–1905).",
+      "edition": "Vingt mille lieues sous les mers, französischer Originalroman 1869–1870; zweite Hälfte, Episode der großen Kopffüßer. Eigene neu formulierte deutsche Inhaltszusammenfassung.",
+      "url": "https://www.gutenberg.org/ebooks/5097",
+      "territories": "Deutschland; Bezug auf den historischen Ausgangstext und diese eigene Inhaltsfassung.",
+      "rights": "Gemeinfreier historischer Ausgangstext eines seit mehr als 70 Jahren verstorbenen Autors beziehungsweise Bearbeiters. Eigene deutsche Inhaltszusammenfassung; keine moderne Übersetzung, Filmfassung oder fremde Illustration übernommen. Rechtehinweis für Deutschland gemäß § 64 UrhG; nicht als Freigabe sämtlicher Ausgaben, Webseiten oder Bilder zu verstehen.",
+      "text": "STOFF UND HERKUNFT: 20.000 Meilen unter den Meeren – Angriff auf die Nautilus.\nÜBERLIEFERUNG: Vingt mille lieues sous les mers, französischer Originalroman 1869–1870; zweite Hälfte, Episode der großen Kopffüßer.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nProfessor Aronnax, sein Begleiter Conseil und der Harpunier Ned Land reisen als unfreiwillige Gäste auf Kapitän Nemos Nautilus. In der ausgewählten Episode geraten sie zwischen große Kopffüßer. Ein Tier blockiert den Antrieb des U-Boots. Nemo lässt die Luke öffnen und nimmt den Kampf an Deck auf. Die Angreifer greifen mit ihren Armen nach der Besatzung; ein Mann wird fortgerissen und geht verloren. Ned Land gerät ebenfalls in Gefahr, und Nemo hilft ihm. Schließlich wehren die Männer die Tiere ab. Die Nautilus kommt frei. Nemo bleibt von dem Verlust eines Besatzungsmitglieds erschüttert zurück; der gemeinsame Kampf hat die grundsätzliche Gefangenschaft der Gäste nicht aufgehoben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Enger Maschinenraum gegen bedrohlich weites Meer, erzwungene Zusammenarbeit und ein Sieg mit bleibendem Verlust.\nABGRENZUNG: Abgeschlossene Angriffsepisode, keine Verknüpfung mit dem späteren Mahlstrom-Ende. Riesenkalmare beziehungsweise Kopffüßer, keine Kraken mit beliebig vielen zusätzlichen Armen im selben Tier. Harpune und Axt nur bei den ausdrücklich handelnden Figuren führen. Tauchausrüstung unter Wasser, Deckkampf nach Öffnen und Auftauchen; keine frei atmenden Menschen im offenen Tiefenwasser. Der verlorene Mann kehrt nach dem Kampf nicht zurück. Moderne Filmgestaltung nicht übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+      "post_summary": "Die Nautilus steckt fest, und vor den Fenstern bewegen sich riesige Arme. An Deck muss Kapitän Nemo mit Männern zusammenarbeiten, denen er ihre Freiheit verweigert.",
+      "id": "comic-quellen-4-nautilus",
+      "category": "Abenteuer und Entdeckungen",
+      "collection": "Literarische Klassiker"
+    },
+    "source_script": "TITEL: 20.000 Meilen unter den Meeren – Angriff auf die Nautilus\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Kapitän Nemo beim Kalmarangriff\nAussehen: Erwachsener Mann mit dunklem kurzem Haar, dichtem dunklem Bart und strengem schmalem Gesicht.\nKleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.\nPersönlichkeit und Vorgeschichte: Führt die Nautilus und hält die Gäste unfrei. Rettet Ned im gemeinsamen Kampf, bleibt aber von Verantwortung und Verlust betroffen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Professor Aronnax auf der Nautilus\nAussehen: Erwachsener Mann mit braunem kurzen Bart und neugierigem schmalem Gesicht.\nKleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.\nPersönlichkeit und Vorgeschichte: Beobachtet als unfreiwilliger Gast. Gemeinsame Bewährung hebt seine Gefangenschaft nicht auf.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Conseil beim Nautilusangriff\nAussehen: Junger erwachsener Mann mit glattem braunem Haar und bartlosem Gesicht.\nKleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.\nPersönlichkeit und Vorgeschichte: Aronnax Begleiter. Hilft beim gemeinsamen Sichern, bleibt ein lebender eigener Mensch und keine Kopie Neds.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Ned Land auf der Nautilus\nAussehen: Erwachsener kräftiger Mann mit kurzem rotbraunem Haar und breitem Bart.\nKleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.\nPersönlichkeit und Vorgeschichte: Harpunier und unfreiwilliger Gast. Wird von Nemo gerettet; sein Wunsch nach Freiheit verschwindet dadurch nicht.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Verlorener Seemann der Nautilus\nAussehen: Junger erwachsener Mann mit schwarzem kurzem Haar und schmalem Gesicht.\nKleidung: Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.\nPersönlichkeit und Vorgeschichte: Ein bestimmtes Besatzungsmitglied wird fortgerissen. Kehrt nach dem Kampf nicht zurück; spätere lebende Hintergrundfiguren dürfen ihn nicht duplizieren.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Großer Kalmar am Nautilusantrieb\nAussehen: Ein sehr großer Kopffüßer mit langem zugespitztem Mantel, zwei Seitenflossen, acht kurzen Armen und genau zwei längeren Fangtentakeln.\nKleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.\nPersönlichkeit und Vorgeschichte: Ein wiedererkennbarer Hauptangreifer. Weitere Tiere nur entfernte unbenannte Formen. Armansätze nicht durch Ausschnittwechsel vervielfachen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Eine Fahrt ohne freie Rückfahrt\nOrt und Zeit: Innenraum der getauchten Nautilus\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Professor Aronnax auf der Nautilus, Conseil beim Nautilusangriff, Ned Land auf der Nautilus\nBildbeschreibung: Weite technische Stube mit historischem Metall und Glas. Vier Menschen atmen im geschlossenen trockenen Innenraum, Nemo rechts, drei Gäste links. Draußen nur dunkles Meer, kein Mensch ohne Ausrüstung im Tiefenwasser. Harpune und Axt noch nicht in Händen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor einem Beobachtungsfenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: links neben Conseil; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: hinten links bei der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Aronnax, Conseil und Ned reisten mit Nemo. Freiwillig gehen konnten sie nicht.\nDialoge: keine\nKontinuität / Änderung: Abgeschlossene Angriffsepisode. Keine moderne U-Boot-Filmgestaltung und kein vorgezogenes Mahlstrom-Ende. Gäste und Kapitän verschiedene Machtpositionen.\n\nKACHEL 2: Was den Antrieb festhält\nOrt und Zeit: Unterwasseransicht am Heck der Nautilus\nSichtbare Figuren: Großer Kalmar am Nautilusantrieb\nBildbeschreibung: Weite Unterwasseransicht. Ein großer Kalmar greift mit einem seiner zwei langen Fangtentakel in den äußeren Antriebsbereich. Mantel und zwei Flossen erkennbar, acht kürzere Arme eng geordnet, weitere Teile teilweise verdeckt. Keine zwölf Arme aus zusätzlichen Kopfansätzen. Keine frei atmenden Menschen außen. Verbindliche Zustände: Großer Kalmar am Nautilusantrieb: Ort: am blockierten äußeren Antrieb; Körperhaltung: mit einem Fangtentakel am Antrieb haftend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Ein Tier blockierte den Antrieb.\nDialoge: keine\nKontinuität / Änderung: Ein Haupttier, keine neue Maschine als eigentlicher Gegner. Nautilus noch getaucht, Luke bleibt geschlossen. Antrieb blockiert, keine gleichzeitige volle Vorwärtsfahrt.\n\nKACHEL 3: Erst die Oberfläche, dann die Luke\nOrt und Zeit: Luke der aufgetauchten Nautilus\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Ned Land auf der Nautilus, Professor Aronnax auf der Nautilus, Conseil beim Nautilusangriff\nBildbeschreibung: Vertikale Ansicht von der trockenen Leiter zur offenen Luke: oben Luft, Himmel und Meereshorizont, kein offener Wasserdruck. Nemo rechts mit einer Axt, Ned links mit einer Harpune. Die anderen haben leere Hände. Kein vierter Gast tritt als doppelte Kopie aus der Tür. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts unter der geöffneten Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt in beiden Händen; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: hinten links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: hinten mittig; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links neben Nemo; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Harpune rechts; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Kapitän Nemo beim Kalmarangriff\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „An Deck!“\nKontinuität / Änderung: Nautilus taucht vor dem Öffnen auf. Waffen erst jetzt aufgenommen: eine Axt bei Nemo, eine Harpune bei Ned. Kein frei atmender Deckkampf unter tiefem Wasser.\n\nKACHEL 4: Zu wenig Platz für so viele Arme\nOrt und Zeit: Deck der aufgetauchten Nautilus\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Ned Land auf der Nautilus, Conseil beim Nautilusangriff, Verlorener Seemann der Nautilus, Großer Kalmar am Nautilusantrieb\nBildbeschreibung: Breite Deckansicht mit freiem Himmel. Ein Kalmar rechts vom Schiff, zwei lange Fangtentakel über der Reling, übrige Arme am Mantel im Wasser. Nemo Axt rechts, Ned Harpune links, Conseil am Seil, Seemann mit roter Kappe rechts vorn. Keine Körperflossen an Menschen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts neben der Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt in beiden Händen; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig am Lukenseil; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Seil in beiden Händen; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Harpune in beiden Händen; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Verlorener Seemann der Nautilus: Ort: rechts vorn an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände an der Reling; Kleidung: Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: rechts seitlich im Meer; Körperhaltung: Mantel im Wasser, zwei Fangtentakel über die Reling gelegt; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Hauptangreifer räumlich fest verortet, weitere Tiere nur fern im Wasser. Aronnax bleibt nahe der Luke außerhalb des Ausschnitts, nicht als verschwundener Toter.\n\nKACHEL 5: Der erste Verlust beginnt\nOrt und Zeit: Reling an der rechten Deckseite\nSichtbare Figuren: Verlorener Seemann der Nautilus, Kapitän Nemo beim Kalmarangriff, Großer Kalmar am Nautilusantrieb\nBildbeschreibung: Weite Distanz an der Reling. Ein bestimmter graugekleideter Mann mit roter Kappe wird rechts fortgerissen, Nemo links greift zu kurz. Kein zerrissener Körper und kein zweiter gleicher Seemann noch auf dem Deck. Tentakel gehören zum einen Mantel rechts im Wasser. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: links einen Schritt entfernt; Körperhaltung: stehend; Mitgeführte Gegenstände: Axt rechts gesenkt; linke Hand ausgestreckt; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Verlorener Seemann der Nautilus: Ort: rechts über dem Relingrand; Körperhaltung: von einem Fangtentakel vom Deck gehoben; Mitgeführte Gegenstände: linke Hand tastet nach der Reling; Kleidung: Graues Seemannsgewand und rote Stoffkappe. Keine mitgeführte Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: rechts außen im Wasser; Körperhaltung: ein Fangtentakel trägt den Seemann, zweites am Rumpf; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Kapitän Nemo beim Kalmarangriff\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Halt dich fest!“\nKontinuität / Änderung: Seemann wird jetzt vom Deck gezogen. Er ist weder bereits gerettet noch gleichzeitig ein weiterer kämpfender Mann an der Luke. Ein zeitlicher Moment vor seinem endgültigen Verschwinden.\n\nKACHEL 6: Der leere Platz an der Reling\nOrt und Zeit: Deck unmittelbar nach dem Fortreißen\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Professor Aronnax auf der Nautilus, Conseil beim Nautilusangriff\nBildbeschreibung: Ruhige kurze Weite im noch gefährlichen Kampf. Wo der Seemann stand, ist nur nasse Reling. Nemo links blickt ins Wasser, Aronnax und Conseil dahinter. Kein roter Kappenträger als namenloser Überlebender im Hintergrund, keine Leiche oder abgetrennten Gliedmaßen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt rechts, linke Hand leer; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: mittig nahe der Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: rechts am Seil; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Seil in beiden Händen; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Ein Mann ging verloren.\nDialoge: keine\nKontinuität / Änderung: Verlorener Seemann außerhalb des Bildes im Meer, kommt in dieser Episode nicht zurück. Der Kampf ist noch nicht gewonnen; Neds folgende Gefahr ist ein eigener Vorgang.\n\nKACHEL 7: Nun trifft es den Harpunier\nOrt und Zeit: Linke Deckseite während des Angriffs\nSichtbare Figuren: Ned Land auf der Nautilus, Kapitän Nemo beim Kalmarangriff, Großer Kalmar am Nautilusantrieb\nBildbeschreibung: Breite Seitenansicht. Ned links festgehalten, seine eine Harpune sichtbar auf dem Deck neben ihm; keine zusätzliche Harpune in einer Hand. Nemo rechts erreicht ihn mit der Axt. Arm hat nur einen Ursprung am Tier außerhalb, keine neue Tentakelkrone aus Neds Rücken. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor Ned; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt in beiden Händen; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links halb an der Reling; Körperhaltung: von einem Arm am Oberkörper festgehalten; Mitgeführte Gegenstände: rechte Hand an der Reling; Harpune abgelegt auf dem Deck; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: links außen am Schiff; Körperhaltung: ein kurzer Arm reicht um Neds Oberkörper; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ned Land auf der Nautilus\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nemo!“\nKontinuität / Änderung: Haupttier hat während der Bewegung die Schiffseite gewechselt; nur ein Mantel am linken Wasser. Ned legt beziehungsweise verliert die Harpune vor dem Befreien, sodass seine Hände greifen können. Keine neue Körperverletzung zeigen.\n\nKACHEL 8: Ein Griff über den Gegensatz hinweg\nOrt und Zeit: Dieselbe Deckseite bei Neds Befreiung\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Ned Land auf der Nautilus\nBildbeschreibung: Halbnahe auf zwei greifende Unterarme, Nemo rechts und Ned links. Bedrohlicher Arm weicht rechts aus dem Ausschnitt, kein Schnittdetail. Axt einmal rechts in Nemos Hand, Harpune bleibt unten am Boden. Kein schon wieder verlorener Seemann zwischen ihnen. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor Ned; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Axt gesenkt rechts; linke Hand an Neds Unterarm; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links wieder am Deck; Körperhaltung: mit Nemos Hilfe aufgerichtet; Mitgeführte Gegenstände: linke Hand greift Nemos Unterarm; rechte Hand an der Reling; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Nemo wehrt den Arm ab und hilft Ned mit der freien linken Hand. Einhändig gehaltene gesenkte Axt bleibt ein Gegenstand, keine dritte Hand. Ned jetzt frei, aber nicht aus der grundsätzlichen Gefangenschaft entlassen.\n\nKACHEL 9: Die Arme gehen zurück\nOrt und Zeit: Deck und Meer nach der Gegenwehr\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Ned Land auf der Nautilus, Professor Aronnax auf der Nautilus, Conseil beim Nautilusangriff, Großer Kalmar am Nautilusantrieb\nBildbeschreibung: Weite helle Deckansicht. Haupttier zieht rechts weg, Arme geordnet an einem Mantel, keine neu nachgewachsenen zusätzlichen Gliedmaßen. Vier lebende Hauptmenschen an Deck, keine rote Kappe des Verlorenen. Ned hat nur seine wiedergeholte Harpune. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts neben der Luke; Körperhaltung: stehend; Mitgeführte Gegenstände: eine gesenkte Axt rechts; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: mittig am Lukeneingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig hinter Aronnax; Körperhaltung: stehend; Mitgeführte Gegenstände: Lukenseil in beiden Händen; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: wieder aufgenommene eine Harpune rechts; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Kalmar am Nautilusantrieb: Ort: rechts fern vom Rumpf im Meer; Körperhaltung: zieht sich vom Schiff zurück; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune Haut, keine Kleidung; keine beliebig zusätzlichen Arme.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Sie wehrten die Tiere ab. Die Nautilus kam frei.\nDialoge: keine\nKontinuität / Änderung: Rückzug und freier Antrieb nach gemeinsamer Gegenwehr. Ned nimmt Harpune erst nach Befreiung wieder auf. Keine Trophäenpose oder behauptete neue Freundschaft ohne Gegensätze.\n\nKACHEL 10: Die Luke schließt wieder\nOrt und Zeit: Innenraum nach dem Abtauchen\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff, Professor Aronnax auf der Nautilus, Conseil beim Nautilusangriff, Ned Land auf der Nautilus\nBildbeschreibung: Weite trockene Stube. Luke über dem Gang geschlossen, draußen wieder Tiefenwasser. Vier Hauptmenschen innen, zwei Waffen getrennt gesichert an der Wand. Keine Person atmet ungeschützt draußen im Wasser, kein fünfter geretteter Seemann mit roter Kappe. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: rechts vor dem Beobachtungsfenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Axt in verschlossener Halterung an der Wand; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Professor Aronnax auf der Nautilus: Ort: links neben Conseil; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Conseil beim Nautilusangriff: Ort: mittig links; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüne Jacke, dunkle Hose und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: hinten links nahe der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Harpune gesichert an der Wand; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Alle Überlebenden gehen hinunter, Waffen werden verstaut, Luke geschlossen und Nautilus taucht wieder ab. Diese Reihenfolge bleibt ausdrücklich; kein offener Wassereinbruch als vergessenes Detail.\n\nKACHEL 11: Was die Rettung nicht verändert hat\nOrt und Zeit: Gang mit Sicht auf Nemos Raum\nSichtbare Figuren: Ned Land auf der Nautilus, Professor Aronnax auf der Nautilus\nBildbeschreibung: Ruhige Gangansicht. Ned links und Aronnax Mitte stehen innen vor geschlossener Tür, dahinter nur abgeschirmtes Kapitänslicht ohne zweite frei zugängliche Außenwelt. Keine gepackten Koffer als schon gewährte Freilassung. Beide Hände leer. Verbindliche Zustände: Professor Aronnax auf der Nautilus: Ort: mittig neben Ned; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner Reiseanzug, helles Hemd und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ned Land auf der Nautilus: Ort: links vor einer geschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Hemd, dunkelrote Weste, dunkle Hose und Stiefel. Genau eine Harpune beim Deckkampf.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ned Land auf der Nautilus\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Er hat mir geholfen. Gehen dürfen wir noch immer nicht.“\nKontinuität / Änderung: Beistand real, Machtverhältnis fortbestehend. Conseil in einem anderen Innenraum außerhalb, nicht als neuer Verlust. Nemos Hilfe wird nicht als automatischer Verzicht auf Gefangenschaft ausgegeben.\n\nKACHEL 12: Eine Fahrt mit einer fehlenden Person\nOrt und Zeit: Nemos Raum nach dem Angriff\nSichtbare Figuren: Kapitän Nemo beim Kalmarangriff\nBildbeschreibung: Weite stille Innenansicht. Nemo allein am Tisch, Blick gesenkt, Meer dunkel hinter sicherem Glas. Ein leerer Platz gegenüber, keine Geisterrückkehr des verstorbenen Seemanns. Keine Waffen in den Händen und kein siegreiches Lächeln. Nautilus kann fahren, Raum bleibt bedrückend. Verbindliche Zustände: Kapitän Nemo beim Kalmarangriff: Ort: mittig am leeren Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer schlichter Kapitänsrock, dunkle Hose und Stiefel. Eine Axt nur beim Deckkampf, keine moderne Filmrüstung.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Das Schiff war frei. Nicht die Gäste. Und einer fehlte.\nDialoge: keine\nKontinuität / Änderung: Nemos Trauer und Verantwortung bleiben. Verlorener Seemann kehrt nicht zurück; Ende der Angriffsepisode, kein Mahlstrom oder neuer Ausbruch als Trostauflösung.\n",
+    "book_author": "",
+    "editorial_script_id": "nautilus-angriff-12",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "20.000 Meilen unter den Meeren – Angriff auf die Nautilus · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

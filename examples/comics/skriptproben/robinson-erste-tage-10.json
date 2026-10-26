@@ -1,0 +1,318 @@
+{
+  "mode": "editorial",
+  "name": "Robinson Crusoe – Die ersten Tage allein · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Robinson Crusoe – Die ersten Tage allein.\nÜBERLIEFERUNG: The Life and Adventures of Robinson Crusoe, englischer Originalroman 1719; frühe Insel- und Überlebensepisode.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nRobinson erreicht nach einem Sturm allein eine Insel. Vom gestrandeten Schiff birgt er Nahrung, Werkzeuge, Waffen und andere brauchbare Vorräte. Er baut ein Floß, um die Lasten an Land zu bringen, und wiederholt die Fahrten, solange das Wrack erreichbar bleibt. Dann zerstört ein weiterer Sturm den Rest des Schiffes. Robinson sucht einen geschützten Platz, errichtet ein Lager und beginnt, Tage und Vorräte zu ordnen. Gegen die Verzweiflung setzt er kleine Aufgaben: Unterkunft verbessern, Wasser finden, Werkzeuge nutzen, das unbekannte Gelände beobachten. Die Episode endet mit einem ersten wetterfesteren Zuhause. Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Überleben als Folge sichtbarer Entscheidungen: geborgener Gegenstand, konkreter Einsatz, kleines Ergebnis.\nABGRENZUNG: Nur die frühen Inselwochen. Keine vorgezogene Rettung, kein Freitag und keine Kannibalismus- oder Kolonialepisode. Gegenstände kommen vom Wrack oder werden sichtbar hergestellt; vor ihrer Bergung sind sie nicht im Lager. Ein Floß ist kein sofort seetüchtiges Rettungsschiff. Robinson besitzt anfangs noch keinen späteren Fellanzug und keine fertig angelegten Felder. Das Ende bedeutet einen Etappenerfolg, nicht die Heimkehr.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_article": "STOFF UND HERKUNFT: Robinson Crusoe – Die ersten Tage allein.\nÜBERLIEFERUNG: The Life and Adventures of Robinson Crusoe, englischer Originalroman 1719; frühe Insel- und Überlebensepisode.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nRobinson erreicht nach einem Sturm allein eine Insel. Vom gestrandeten Schiff birgt er Nahrung, Werkzeuge, Waffen und andere brauchbare Vorräte. Er baut ein Floß, um die Lasten an Land zu bringen, und wiederholt die Fahrten, solange das Wrack erreichbar bleibt. Dann zerstört ein weiterer Sturm den Rest des Schiffes. Robinson sucht einen geschützten Platz, errichtet ein Lager und beginnt, Tage und Vorräte zu ordnen. Gegen die Verzweiflung setzt er kleine Aufgaben: Unterkunft verbessern, Wasser finden, Werkzeuge nutzen, das unbekannte Gelände beobachten. Die Episode endet mit einem ersten wetterfesteren Zuhause. Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Überleben als Folge sichtbarer Entscheidungen: geborgener Gegenstand, konkreter Einsatz, kleines Ergebnis.\nABGRENZUNG: Nur die frühen Inselwochen. Keine vorgezogene Rettung, kein Freitag und keine Kannibalismus- oder Kolonialepisode. Gegenstände kommen vom Wrack oder werden sichtbar hergestellt; vor ihrer Bergung sind sie nicht im Lager. Ein Floß ist kein sofort seetüchtiges Rettungsschiff. Robinson besitzt anfangs noch keinen späteren Fellanzug und keine fertig angelegten Felder. Das Ende bedeutet einen Etappenerfolg, nicht die Heimkehr.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Am Leben, aber ohne Dach",
+        "setting": "Inselstrand nach dem Schiffbruch",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Weite einsame Strandansicht. Robinson allein nass auf dem Sand, Wrack draußen in der Bucht. Keine Axt, kein fertiges Zelt, keine Waffen im Lager und kein zweiter Geretteter. Nur wenige natürliche angeschwemmte Holzstücke, kein fertiges Rettungsschiff. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: mittig am nassen Strand; Körperhaltung: erschöpft sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Er war am Leben. Schutz hatte er noch keinen.",
+        "bubbles": [],
+        "continuity": "Frühe Inselphase. Kein Freitag oder späterer Fellanzug. Alle Werkzeuge und Vorräte noch im Wrack, nicht vor ihrer Bergung als Inselbesitz zeichnen.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "mittig am nassen Strand",
+            "posture": "erschöpft sitzend",
+            "held": "leere Hände",
+            "clothing": "Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Was noch erreichbar ist",
+        "setting": "Wasser zwischen Strand und gestrandeten Schiff",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Weite Seitenansicht. Ein Mann schwimmt bei ruhigerem Wasser zum Wrack, Kopf klar über Oberfläche. Kein Floß schon unter ihm und keine herumliegenden Musketen auf dem Meeresgrund. Wrack fest auf einer Untiefe, nicht als fahrtüchtiges Schiff unter Segeln. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links nahe dem Wrack; Körperhaltung: mit dem Kopf über Wasser schwimmend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Erster Gang zum Wrack vor dem Floßbau. Niedrigeres ruhiges Wasser erlaubt Annäherung, keine detaillierte Überlebens- oder Rettungsschwimmanleitung.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links nahe dem Wrack",
+            "posture": "mit dem Kopf über Wasser schwimmend",
+            "held": "leere Hände",
+            "clothing": "Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "schwimmend",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein Floß für die Last, kein Schiff für die Heimkehr",
+        "setting": "Beim gestrandeten Schiff nach dem Hinaufklettern",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Breite Arbeitsansicht. Robinson knüpft vorhandene Hölzer zu einem einzigen einfachen Floß am Wrackrand. Auf dem Deck sichtbar gesammelte Vorräte: ein kleiner Lebensmittelbehälter, eine Flasche, eine Axt, ein Werkzeugkasten, eine historische Muskete und gefaltetes Segeltuch. Nichts davon schon am Inselufer. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links auf einem zugänglichen Rest des Decks; Körperhaltung: kniend; Mitgeführte Gegenstände: ein geborgenes Seil in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Vom Schiff holte er, was sich noch gebrauchen ließ.",
+        "bubbles": [],
+        "continuity": "Material und Ausrüstung aus dem Wrack, nicht spontan hergestellt. Floß erst hier gebaut. Keine moderne Waffe und keine praktische Schrittfolge zum Floßbau.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links auf einem zugänglichen Rest des Decks",
+            "posture": "kniend",
+            "held": "ein geborgenes Seil in beiden Händen",
+            "clothing": "Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Eine erste Ladung",
+        "setting": "Ruhige Bucht bei der Rückfahrt",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Weite Buchtansicht. Ein Floß mit einer Person trägt dieselben geborgenen Behälter, Flasche, Axt, Werkzeugkasten, gesicherte Muskete und Segeltuch. Robinson hält nur ein Ruder, keine dritte Hand mit Axt. Kein Segelmast oder fertiges Hochseeschiff. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: mittig auf dem beladenen Floß; Körperhaltung: kniend; Mitgeführte Gegenstände: ein einfaches Steuerruder in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Lasten nach dem Bau verladen. Jede zuvor gezeigte Sache jetzt auf dem Floß, noch kein doppelter Vorrat an Land. Muskete transportiert statt benutzt, keine Schussanleitung.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "mittig auf dem beladenen Floß",
+            "posture": "kniend",
+            "held": "ein einfaches Steuerruder in beiden Händen",
+            "clothing": "Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Nicht alles auf einmal",
+        "setting": "Strand nach mehreren Bergungsfahrten",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Breite Strandansicht. Kleine geordnete Haufen geborgener Lebensmittel und Werkzeuge unter provisorisch gespanntem Tuch, ein Floß am Wasser. Wrack noch fern erreichbar. Kein fertiges wetterfestes Haus, keine angelegten Felder und keine ständig nachwachsenden identischen Kisten. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links vor einem kleinen Vorratsplatz; Körperhaltung: stehend; Mitgeführte Gegenstände: ein weiteres geborgenes Stück Segeltuch in beiden Händen; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Er wiederholte die Fahrten, solange das Wrack erreichbar blieb.",
+        "bubbles": [],
+        "continuity": "Mehrere Tage gerafft, Kleidung zwischendurch getrocknet. Vorräte kommen mit wiederholten Fahrten, nicht durch magische Vervielfachung derselben einen Kiste. Provisorische Abdeckung ist noch nicht der Schluss-Schutz.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links vor einem kleinen Vorratsplatz",
+            "posture": "stehend",
+            "held": "ein weiteres geborgenes Stück Segeltuch in beiden Händen",
+            "clothing": "Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Quelle der Dinge geht verloren",
+        "setting": "Küste im nächsten Sturm",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Weite stürmische Küste. Robinson links schützt die bereits geborgenen Dinge, fern zerbricht der Rest des Wracks in der Brandung. Keine zweite noch intakte Schiffsquelle neben den Trümmern. Keine ertrinkenden Menschen, er ist an Land. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links beim gesicherten Vorrat; Körperhaltung: gebeugt unter dem provisorischen Tuch; Mitgeführte Gegenstände: ein Halteseil in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Ein weiterer Sturm zerstörte den Rest des Schiffes.",
+        "bubbles": [],
+        "continuity": "Wrack ab jetzt nicht mehr als nächste bequeme Bergungsstation verfügbar. Geborgene Sachen bleiben auf der Insel, neu benötigte Teile müssen aus diesem Vorrat oder natürlichem Material kommen.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links beim gesicherten Vorrat",
+            "posture": "gebeugt unter dem provisorischen Tuch",
+            "held": "ein Halteseil in beiden Händen",
+            "clothing": "Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein Platz, den er verbessern kann",
+        "setting": "Geschützte Stelle hinter dem Strand am Folgetag",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Breite helle Baustellenansicht. Natürlicher Fels als Windschutz, erste Pfosten und geborgenes Segeltuch als noch offenes Dach. Eine Axt rechts, übrige Werkzeuge in Kiste daneben, Muskete gesichert an einem trockenen Felsplatz. Kein Fellanzug oder fertig genageltes Dorf. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links vor einem einfachen Lagerrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine geborgene Axt in der rechten Hand; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [],
+        "continuity": "Nach dem Sturm getrocknet, Lagerplatz gewählt. Rahmen aus natürlichem Holz und geborgenen Teilen. Axt vom Wrack wird konkret eingesetzt, keine zweite Axt aus dem Nichts.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links vor einem einfachen Lagerrahmen",
+            "posture": "stehend",
+            "held": "eine geborgene Axt in der rechten Hand",
+            "clothing": "Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Wasser ist die nächste Aufgabe",
+        "setting": "Kleine Süßwasserstelle in erreichbarer Nähe",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Ruhige Nahansicht einer kleinen fließenden Quelle. Robinson füllt die eine Flasche aus der Bergung, Hände nur daran. Axt und Muskete bleiben im Lager außerhalb. Keine aus Meerwasser zaubernde Maschine und kein fremder Inselbewohner als heimlicher Versorger. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links an der Quelle; Körperhaltung: kniend; Mitgeführte Gegenstände: geborgene Flasche in beiden Händen; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Eine Aufgabe nach der anderen: Wasser, Vorrat, Schutz.",
+        "bubbles": [],
+        "continuity": "Wasserstelle gesucht und gefunden. Früher Vorrat half bis dahin. Keine medizinische Garantie für beliebiges Wasser, kein neuer magischer Behälter; Gegenstände bleiben identisch.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links an der Quelle",
+            "posture": "kniend",
+            "held": "geborgene Flasche in beiden Händen",
+            "clothing": "Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Tage und Dinge bekommen Ordnung",
+        "setting": "Eigenes Lager in den frühen Wochen",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Breite Arbeitsansicht. Robinson links ritzt eine einfache Tageskerbe in einen Pfosten, Kiste mit Lebensmitteln und Werkzeugen rechts ordentlich abgedeckt. Flasche wieder im Lager. Noch offener Dachrand zeigt die nächste Reparatur, kein voll entwickelter Fellanzug oder Landwirtschaftsfeld. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links neben einer Pfostenmarkierung; Körperhaltung: stehend; Mitgeführte Gegenstände: kleines Werkzeug aus dem geborgenen Kasten rechts; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Er begann, Tage zu zählen und Vorräte einzuteilen.",
+        "bubbles": [],
+        "continuity": "Nur frühe Wochen. Tagesmarken später bei Bedarf als Grafik setzen. Werkzeug aus dem bereits geborgenen Kasten, keine ohne Herkunft auftauchende Werkstatt.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links neben einer Pfostenmarkierung",
+            "posture": "stehend",
+            "held": "kleines Werkzeug aus dem geborgenen Kasten rechts",
+            "clothing": "Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein kleiner Erfolg im nächsten Regen",
+        "setting": "Verbessertes Lager nach den ersten Arbeiten",
+        "characters": [
+          "6a6596af2d005c7baf319b779096849a"
+        ],
+        "story": "Weite ruhige Ansicht im Regen. Einfache Hütte beziehungsweise verbessertes Zelt mit Segeltuch und Holz hält den Schlafplatz und die Vorräte trocken. Robinson allein innen im Leinenhemd, Floß draußen am Ufer als Transportrest, kein seetüchtiges Rettungsschiff. Kein Besucher am Horizont. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links unter dem nun geschlossenen Schutzdach; Körperhaltung: sitzend; Mitgeführte Gegenstände: geborgene Flasche neben ihm, Hände leer; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Er war noch allein. Aber nicht mehr ohne Schutz vor dem nächsten Regen.",
+        "bubbles": [],
+        "continuity": "Erster wetterfesterer Etappenerfolg nach dem Schließen des Dachrands. Keine Heimkehr oder Rettung vorziehen, kein Freitag und keine spätere Kolonialepisode. Einsamkeit besteht fort.",
+        "character_states": {},
+        "continuity_state": {
+          "6a6596af2d005c7baf319b779096849a": {
+            "location": "links unter dem nun geschlossenen Schutzdach",
+            "posture": "sitzend",
+            "held": "geborgene Flasche neben ihm, Hände leer",
+            "clothing": "Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "6a6596af2d005c7baf319b779096849a",
+        "name": "Robinson in den frühen Inselwochen",
+        "description": "Erwachsener Mann mit kurzem braunem Haar, zunächst Bartstoppeln und später kurzem Bart. Zwei Arme und zwei Beine.",
+        "outfit": "Abgetragenes helles Leinenhemd, braune Hose und Lederschuhe. Kein späterer Fellanzug und kein neu gefertigter großer Hut.",
+        "backstory": "Überlebt allein. Gegenstände müssen sichtbar vom Wrack kommen oder aus geborgenen Materialien entstehen. Erster Schutz beendet weder Einsamkeit noch die gesamte Notlage.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie wird aus überwältigender Not wieder begrenzte Handlungsfähigkeit?",
+      "core": "Unter extremen Bedingungen kann die Konzentration auf kleine ausführbare Aufgaben den Unterschied zwischen Hilflosigkeit und einem ersten tragfähigen Alltag schaffen.",
+      "ending": "Robinson hat einen ersten wetterfesteren Schutz; seine Einsamkeit bleibt bestehen.",
+      "reason": "Bergung, drohender Verlust des Wracks, geordnete Arbeit und begrenzter Erfolg tragen den Ausschnitt.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.",
+          "meaning": "Der bescheidene Fortschritt zählt, ohne die gesamte Notlage als gelöst auszugeben."
+        }
+      ],
+      "causal_chain": [
+        "Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.",
+        "Robinson hat einen ersten wetterfesteren Schutz; seine Einsamkeit bleibt bestehen."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "fb28bdff139854e19ba7c095c9c086a7fc6f0550b2f4a82184fc26a0ac440b41",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:13:30.700384+00:00"
+    },
+    "post_summary": "Nach dem Schiffbruch ist Robinson am Leben – aber ohne Schutz und ohne Hilfe. Jeder Gang zum gestrandeten Wrack entscheidet darüber, was er auf der Insel noch aufbauen kann.",
+    "source_provenance": {
+      "title": "Robinson Crusoe – Die ersten Tage allein",
+      "kind": "Buch",
+      "creator": "Daniel Defoe (gestorben 1731).",
+      "edition": "The Life and Adventures of Robinson Crusoe, englischer Originalroman 1719; frühe Insel- und Überlebensepisode. Eigene neu formulierte deutsche Inhaltszusammenfassung.",
+      "url": "https://www.gutenberg.org/ebooks/521",
+      "territories": "Deutschland; Bezug auf den historischen Ausgangstext und diese eigene Inhaltsfassung.",
+      "rights": "Gemeinfreier historischer Ausgangstext eines seit mehr als 70 Jahren verstorbenen Autors beziehungsweise Bearbeiters. Eigene deutsche Inhaltszusammenfassung; keine moderne Übersetzung, Filmfassung oder fremde Illustration übernommen. Rechtehinweis für Deutschland gemäß § 64 UrhG; nicht als Freigabe sämtlicher Ausgaben, Webseiten oder Bilder zu verstehen.",
+      "text": "STOFF UND HERKUNFT: Robinson Crusoe – Die ersten Tage allein.\nÜBERLIEFERUNG: The Life and Adventures of Robinson Crusoe, englischer Originalroman 1719; frühe Insel- und Überlebensepisode.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nRobinson erreicht nach einem Sturm allein eine Insel. Vom gestrandeten Schiff birgt er Nahrung, Werkzeuge, Waffen und andere brauchbare Vorräte. Er baut ein Floß, um die Lasten an Land zu bringen, und wiederholt die Fahrten, solange das Wrack erreichbar bleibt. Dann zerstört ein weiterer Sturm den Rest des Schiffes. Robinson sucht einen geschützten Platz, errichtet ein Lager und beginnt, Tage und Vorräte zu ordnen. Gegen die Verzweiflung setzt er kleine Aufgaben: Unterkunft verbessern, Wasser finden, Werkzeuge nutzen, das unbekannte Gelände beobachten. Die Episode endet mit einem ersten wetterfesteren Zuhause. Er ist noch immer allein, aber dem nächsten Regen nicht mehr schutzlos ausgeliefert.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Überleben als Folge sichtbarer Entscheidungen: geborgener Gegenstand, konkreter Einsatz, kleines Ergebnis.\nABGRENZUNG: Nur die frühen Inselwochen. Keine vorgezogene Rettung, kein Freitag und keine Kannibalismus- oder Kolonialepisode. Gegenstände kommen vom Wrack oder werden sichtbar hergestellt; vor ihrer Bergung sind sie nicht im Lager. Ein Floß ist kein sofort seetüchtiges Rettungsschiff. Robinson besitzt anfangs noch keinen späteren Fellanzug und keine fertig angelegten Felder. Das Ende bedeutet einen Etappenerfolg, nicht die Heimkehr.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+      "post_summary": "Nach dem Schiffbruch ist Robinson am Leben – aber ohne Schutz und ohne Hilfe. Jeder Gang zum gestrandeten Wrack entscheidet darüber, was er auf der Insel noch aufbauen kann.",
+      "id": "comic-quellen-4-robinson",
+      "category": "Abenteuer und Entdeckungen",
+      "collection": "Literarische Klassiker"
+    },
+    "source_script": "TITEL: Robinson Crusoe – Die ersten Tage allein\nAUTOR: \nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Robinson in den frühen Inselwochen\nAussehen: Erwachsener Mann mit kurzem braunem Haar, zunächst Bartstoppeln und später kurzem Bart. Zwei Arme und zwei Beine.\nKleidung: Abgetragenes helles Leinenhemd, braune Hose und Lederschuhe. Kein späterer Fellanzug und kein neu gefertigter großer Hut.\nPersönlichkeit und Vorgeschichte: Überlebt allein. Gegenstände müssen sichtbar vom Wrack kommen oder aus geborgenen Materialien entstehen. Erster Schutz beendet weder Einsamkeit noch die gesamte Notlage.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Am Leben, aber ohne Dach\nOrt und Zeit: Inselstrand nach dem Schiffbruch\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Weite einsame Strandansicht. Robinson allein nass auf dem Sand, Wrack draußen in der Bucht. Keine Axt, kein fertiges Zelt, keine Waffen im Lager und kein zweiter Geretteter. Nur wenige natürliche angeschwemmte Holzstücke, kein fertiges Rettungsschiff. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: mittig am nassen Strand; Körperhaltung: erschöpft sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Er war am Leben. Schutz hatte er noch keinen.\nDialoge: keine\nKontinuität / Änderung: Frühe Inselphase. Kein Freitag oder späterer Fellanzug. Alle Werkzeuge und Vorräte noch im Wrack, nicht vor ihrer Bergung als Inselbesitz zeichnen.\n\nKACHEL 2: Was noch erreichbar ist\nOrt und Zeit: Wasser zwischen Strand und gestrandeten Schiff\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Weite Seitenansicht. Ein Mann schwimmt bei ruhigerem Wasser zum Wrack, Kopf klar über Oberfläche. Kein Floß schon unter ihm und keine herumliegenden Musketen auf dem Meeresgrund. Wrack fest auf einer Untiefe, nicht als fahrtüchtiges Schiff unter Segeln. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links nahe dem Wrack; Körperhaltung: mit dem Kopf über Wasser schwimmend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Erster Gang zum Wrack vor dem Floßbau. Niedrigeres ruhiges Wasser erlaubt Annäherung, keine detaillierte Überlebens- oder Rettungsschwimmanleitung.\n\nKACHEL 3: Ein Floß für die Last, kein Schiff für die Heimkehr\nOrt und Zeit: Beim gestrandeten Schiff nach dem Hinaufklettern\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Breite Arbeitsansicht. Robinson knüpft vorhandene Hölzer zu einem einzigen einfachen Floß am Wrackrand. Auf dem Deck sichtbar gesammelte Vorräte: ein kleiner Lebensmittelbehälter, eine Flasche, eine Axt, ein Werkzeugkasten, eine historische Muskete und gefaltetes Segeltuch. Nichts davon schon am Inselufer. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links auf einem zugänglichen Rest des Decks; Körperhaltung: kniend; Mitgeführte Gegenstände: ein geborgenes Seil in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Vom Schiff holte er, was sich noch gebrauchen ließ.\nDialoge: keine\nKontinuität / Änderung: Material und Ausrüstung aus dem Wrack, nicht spontan hergestellt. Floß erst hier gebaut. Keine moderne Waffe und keine praktische Schrittfolge zum Floßbau.\n\nKACHEL 4: Eine erste Ladung\nOrt und Zeit: Ruhige Bucht bei der Rückfahrt\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Weite Buchtansicht. Ein Floß mit einer Person trägt dieselben geborgenen Behälter, Flasche, Axt, Werkzeugkasten, gesicherte Muskete und Segeltuch. Robinson hält nur ein Ruder, keine dritte Hand mit Axt. Kein Segelmast oder fertiges Hochseeschiff. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: mittig auf dem beladenen Floß; Körperhaltung: kniend; Mitgeführte Gegenstände: ein einfaches Steuerruder in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Lasten nach dem Bau verladen. Jede zuvor gezeigte Sache jetzt auf dem Floß, noch kein doppelter Vorrat an Land. Muskete transportiert statt benutzt, keine Schussanleitung.\n\nKACHEL 5: Nicht alles auf einmal\nOrt und Zeit: Strand nach mehreren Bergungsfahrten\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Breite Strandansicht. Kleine geordnete Haufen geborgener Lebensmittel und Werkzeuge unter provisorisch gespanntem Tuch, ein Floß am Wasser. Wrack noch fern erreichbar. Kein fertiges wetterfestes Haus, keine angelegten Felder und keine ständig nachwachsenden identischen Kisten. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links vor einem kleinen Vorratsplatz; Körperhaltung: stehend; Mitgeführte Gegenstände: ein weiteres geborgenes Stück Segeltuch in beiden Händen; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Er wiederholte die Fahrten, solange das Wrack erreichbar blieb.\nDialoge: keine\nKontinuität / Änderung: Mehrere Tage gerafft, Kleidung zwischendurch getrocknet. Vorräte kommen mit wiederholten Fahrten, nicht durch magische Vervielfachung derselben einen Kiste. Provisorische Abdeckung ist noch nicht der Schluss-Schutz.\n\nKACHEL 6: Die Quelle der Dinge geht verloren\nOrt und Zeit: Küste im nächsten Sturm\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Weite stürmische Küste. Robinson links schützt die bereits geborgenen Dinge, fern zerbricht der Rest des Wracks in der Brandung. Keine zweite noch intakte Schiffsquelle neben den Trümmern. Keine ertrinkenden Menschen, er ist an Land. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links beim gesicherten Vorrat; Körperhaltung: gebeugt unter dem provisorischen Tuch; Mitgeführte Gegenstände: ein Halteseil in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Ein weiterer Sturm zerstörte den Rest des Schiffes.\nDialoge: keine\nKontinuität / Änderung: Wrack ab jetzt nicht mehr als nächste bequeme Bergungsstation verfügbar. Geborgene Sachen bleiben auf der Insel, neu benötigte Teile müssen aus diesem Vorrat oder natürlichem Material kommen.\n\nKACHEL 7: Ein Platz, den er verbessern kann\nOrt und Zeit: Geschützte Stelle hinter dem Strand am Folgetag\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Breite helle Baustellenansicht. Natürlicher Fels als Windschutz, erste Pfosten und geborgenes Segeltuch als noch offenes Dach. Eine Axt rechts, übrige Werkzeuge in Kiste daneben, Muskete gesichert an einem trockenen Felsplatz. Kein Fellanzug oder fertig genageltes Dorf. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links vor einem einfachen Lagerrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine geborgene Axt in der rechten Hand; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialoge: keine\nKontinuität / Änderung: Nach dem Sturm getrocknet, Lagerplatz gewählt. Rahmen aus natürlichem Holz und geborgenen Teilen. Axt vom Wrack wird konkret eingesetzt, keine zweite Axt aus dem Nichts.\n\nKACHEL 8: Wasser ist die nächste Aufgabe\nOrt und Zeit: Kleine Süßwasserstelle in erreichbarer Nähe\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Ruhige Nahansicht einer kleinen fließenden Quelle. Robinson füllt die eine Flasche aus der Bergung, Hände nur daran. Axt und Muskete bleiben im Lager außerhalb. Keine aus Meerwasser zaubernde Maschine und kein fremder Inselbewohner als heimlicher Versorger. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links an der Quelle; Körperhaltung: kniend; Mitgeführte Gegenstände: geborgene Flasche in beiden Händen; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Eine Aufgabe nach der anderen: Wasser, Vorrat, Schutz.\nDialoge: keine\nKontinuität / Änderung: Wasserstelle gesucht und gefunden. Früher Vorrat half bis dahin. Keine medizinische Garantie für beliebiges Wasser, kein neuer magischer Behälter; Gegenstände bleiben identisch.\n\nKACHEL 9: Tage und Dinge bekommen Ordnung\nOrt und Zeit: Eigenes Lager in den frühen Wochen\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Breite Arbeitsansicht. Robinson links ritzt eine einfache Tageskerbe in einen Pfosten, Kiste mit Lebensmitteln und Werkzeugen rechts ordentlich abgedeckt. Flasche wieder im Lager. Noch offener Dachrand zeigt die nächste Reparatur, kein voll entwickelter Fellanzug oder Landwirtschaftsfeld. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links neben einer Pfostenmarkierung; Körperhaltung: stehend; Mitgeführte Gegenstände: kleines Werkzeug aus dem geborgenen Kasten rechts; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Er begann, Tage zu zählen und Vorräte einzuteilen.\nDialoge: keine\nKontinuität / Änderung: Nur frühe Wochen. Tagesmarken später bei Bedarf als Grafik setzen. Werkzeug aus dem bereits geborgenen Kasten, keine ohne Herkunft auftauchende Werkstatt.\n\nKACHEL 10: Ein kleiner Erfolg im nächsten Regen\nOrt und Zeit: Verbessertes Lager nach den ersten Arbeiten\nSichtbare Figuren: Robinson in den frühen Inselwochen\nBildbeschreibung: Weite ruhige Ansicht im Regen. Einfache Hütte beziehungsweise verbessertes Zelt mit Segeltuch und Holz hält den Schlafplatz und die Vorräte trocken. Robinson allein innen im Leinenhemd, Floß draußen am Ufer als Transportrest, kein seetüchtiges Rettungsschiff. Kein Besucher am Horizont. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links unter dem nun geschlossenen Schutzdach; Körperhaltung: sitzend; Mitgeführte Gegenstände: geborgene Flasche neben ihm, Hände leer; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Er war noch allein. Aber nicht mehr ohne Schutz vor dem nächsten Regen.\nDialoge: keine\nKontinuität / Änderung: Erster wetterfesterer Etappenerfolg nach dem Schließen des Dachrands. Keine Heimkehr oder Rettung vorziehen, kein Freitag und keine spätere Kolonialepisode. Einsamkeit besteht fort.\n",
+    "book_author": "",
+    "editorial_script_id": "robinson-erste-tage-10",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Redaktionelle Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false
+    },
+    "title": "Robinson Crusoe – Die ersten Tage allein · Skript",
+    "revisions": {}
+  },
+  "count_policy": "editorial"
+}

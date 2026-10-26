@@ -1,0 +1,168 @@
+TITEL: Perseus – Der Blick im Schild
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Perseus mit dem Spiegelschild
+Aussehen: Junger erwachsener Mann mit kurzem braunem Haar und schmalem bartlosem Gesicht. Zwei Arme und zwei Beine; keine eigenen Körperflügel.
+Kleidung: Helle antike Tunika. Nach der Übergabe ein blanker Schild links, genau ein gebogenes Schwert in Scheide links am Gürtel, Beutel rechts, dunkle Tarnkappe am Gürtel, ein Paar Flügelsandalen mit je zwei kleinen Federflügeln.
+Persönlichkeit und Vorgeschichte: Nähert sich Medusa ausschließlich über das Spiegelbild. Kein direkter Blickkontakt, auch nicht nach dem Tod. Entkommt mit verborgenem Haupt und seinen Hilfsmitteln.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schlafende Medusa
+Aussehen: Erwachsene Frauengestalt mit dunklen Schlangen anstelle von Haaren, zwei Armen und zwei Beinen. Kein Drachenkörper.
+Kleidung: Dunkelgrünes schlichtes antikes Gewand. Keine moderne Rüstung oder riesige Waffe.
+Persönlichkeit und Vorgeschichte: Schläft bei Perseus Annäherung. Blick bleibt gefährlich; die Enthauptung wird ohne offene Wunde nur mittelbar erzählt. Haupt danach vollständig im Beutel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Graie am linken Felsen
+Aussehen: Sehr alte Frau mit weißem Haar und faltigem Gesicht. Geschlossene Lider, keine Wunden. Teilt mit den zwei anderen ein einziges Auge.
+Kleidung: Graues langes Gewand und dunkles Schultertuch.
+Persönlichkeit und Vorgeschichte: Erste der drei Graien. Das gemeinsam verwendete Auge darf nicht zu je einem zusätzlichen offenen Auge aller drei werden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Graie in der Mitte
+Aussehen: Sehr alte Frau mit grauem geflochtenem Haar und schmalem Gesicht. Geschlossene Lider, keine Wunden.
+Kleidung: Braungraues langes Gewand und heller Schal.
+Persönlichkeit und Vorgeschichte: Zweite Graie, erhält nach dem Auskunftshandel das einzige gemeinsame Auge zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Graie am rechten Felsen
+Aussehen: Sehr alte Frau mit weißem kurzem Haar und rundem Gesicht. Geschlossene Lider, keine Wunden.
+Kleidung: Dunkelgraues Gewand und weiße Haube.
+Persönlichkeit und Vorgeschichte: Dritte Graie, zeigt nach dem Handel die Richtung. Kein eigenes zusätzliches Auge in der Hand.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Erste erwachende Gorgone
+Aussehen: Erwachsene menschenähnliche Frau mit grauen Schlangenhaaren, zwei Armen und zwei Beinen.
+Kleidung: Graues antikes Gewand, keine zusätzliche Waffe.
+Persönlichkeit und Vorgeschichte: Eine von Medusas zwei Schwestern. Erwacht erst nach dem Hieb und sucht den unsichtbaren Flüchtenden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweite erwachende Gorgone
+Aussehen: Erwachsene menschenähnliche Frau mit kupferfarbenen Schlangenhaaren, zwei Armen und zwei Beinen.
+Kleidung: Braunes antikes Gewand, keine zusätzliche Waffe.
+Persönlichkeit und Vorgeschichte: Zweite Schwester, bleibt lebend und wird nicht als ebenfalls getötete Medusa-Kopie dargestellt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Göttliche Helferin der Perseus-Mission
+Aussehen: Erwachsene Frau mit ruhigem Gesicht und dunklem gebundenem Haar. Menschenähnlich, keine zusätzlichen Körperflügel.
+Kleidung: Schlichtes blaues antikes Gewand und heller Mantel. Keine moderne Filmrüstung.
+Persönlichkeit und Vorgeschichte: Verdichtet die göttliche Ausrüstungshilfe der gewählten Inhaltsfassung. Keine neue persönliche Nebenhandlung oder nachträgliche Fluchursache.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Auftrag mit einer einzigen Blickregel
+Ort und Zeit: Antiker Hof vor der Reise
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Weite Toransicht. Junger Perseus links ohne besondere Ausrüstung, nur Tunika und gewöhnliche Sandalen. Auftraggeber außerhalb des Ausschnitts, kein vorweggenommener Trophäenkopf auf einem Tisch. Kein Drache als falsche Medusa-Silhouette. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links vor einem steinernen Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helle Tunika, Gürtel und gewöhnliche Sandalen; noch keine besondere Ausrüstung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Perseus sollte Medusas Haupt holen. Ihr direkter Blick war die Gefahr.
+Dialoge: keine
+Kontinuität / Änderung: Nur Medusa-Mission. Andromeda und spätere Versteinerungen bleiben draußen. Held noch ohne Schild, Schwert oder magische Sandalen, keine doppelte Ausrüstung vor der Gabe.
+
+KACHEL 2: Nicht alles lässt sich frontal lösen
+Ort und Zeit: Weg vor den göttlichen Gaben
+Sichtbare Figuren: Perseus mit dem Spiegelschild, Göttliche Helferin der Perseus-Mission
+Bildbeschreibung: Breite klare Ausrüstungsansicht. Held mit genau einem Schild links, einer Schwertscheide links am Gürtel, leerem offenen Beutel rechts, dunkler Kappe am Gürtel und zwei Flügelsandalen an zwei Füßen. Helferin rechts hat alles übergeben; keine Kopien daneben. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links vor der Helferin; Körperhaltung: stehend; Mitgeführte Gegenstände: blanker Schild am linken Unterarm; rechte Hand leer; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Göttliche Helferin der Perseus-Mission: Ort: rechts vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände nach der Übergabe; Kleidung: Schlichtes blaues antikes Gewand und heller Mantel. Keine moderne Filmrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Göttliche Helferin der Perseus-Mission
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Benutze den Schild als Spiegel. Sieh ihr nicht direkt ins Gesicht.“
+Kontinuität / Änderung: Göttliche Gaben jetzt vollständig übergeben. Klinge noch in der linken Scheide. Beutel leer, Kopf noch bei Medusa. Ausrüstungshilfe als einzelne Helferin verdichtet, keine zweite Mission angehängt.
+
+KACHEL 3: Ein Auge zwischen drei Händenpaaren
+Ort und Zeit: Felsiger Ort der Graien
+Sichtbare Figuren: Perseus mit dem Spiegelschild, Graie am linken Felsen, Graie in der Mitte, Graie am rechten Felsen
+Bildbeschreibung: Halbtotale. Drei verschiedene alte Frauen rechts mit geschlossenen Lidern, Perseus links hält genau einen hellen glatten Augapfel wie eine Perle ohne Adern oder Wunden. Ihre sechs Hände leer, keine weiteren Augen darin oder auf der Stirn. Schwert bleibt in der Scheide. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links vor den drei Frauen; Körperhaltung: stehend; Mitgeführte Gegenstände: ein glatter heller gemeinsamer Augapfel rechts; Schild am linken Unterarm; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Graie am linken Felsen: Ort: rechts links im Dreierkreis; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues langes Gewand und dunkles Schultertuch.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graie in der Mitte: Ort: rechts mittig im Kreis; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände zum Übernehmen ausgestreckt; Kleidung: Braungraues langes Gewand und heller Schal.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graie am rechten Felsen: Ort: rechts außen im Kreis; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgraues Gewand und weiße Haube.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Perseus mit dem Spiegelschild
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Zeigt mir den Weg. Dann bekommt ihr es zurück.“
+Kontinuität / Änderung: Er nimmt beim Weiterreichen vorübergehend das einzige gemeinsame Auge. Schild am Unterarm lässt die rechte Hand frei; keine dritte Heldenhand für eine gezogene Klinge.
+
+KACHEL 4: Auskunft statt unnötiger Gewalt
+Ort und Zeit: Derselbe Felsen nach dem Handel
+Sichtbare Figuren: Perseus mit dem Spiegelschild, Graie am linken Felsen, Graie in der Mitte, Graie am rechten Felsen
+Bildbeschreibung: Gleiche räumliche Ordnung. Das eine Auge jetzt zurück bei der mittleren Frau, Perseus rechte Hand leer. Dritte Graie zeigt in die Ferne, keine magische Karte und keine drei eigenen zusätzlichen Augen. Alle unverletzt. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links vor den Graien; Körperhaltung: stehend; Mitgeführte Gegenstände: Schild am linken Unterarm; rechte Hand leer; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Graie am linken Felsen: Ort: rechts links im Kreis; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues langes Gewand und dunkles Schultertuch.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graie in der Mitte: Ort: rechts mittig; Körperhaltung: stehend; Mitgeführte Gegenstände: das eine gemeinsame Auge in beiden Händen; Kleidung: Braungraues langes Gewand und heller Schal.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graie am rechten Felsen: Ort: rechts außen; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand weist den Weg; Kleidung: Dunkelgraues Gewand und weiße Haube.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er gewann die Auskunft und gab das gemeinsame Auge zurück.
+Dialoge: keine
+Kontinuität / Änderung: Handel abgeschlossen, Rückgabe ausdrücklich. Schwert ungezogen. Nächster Ort erst durch erhaltenes Wissen erreichbar, kein plötzliches Vorwissen ohne diese Begegnung.
+
+KACHEL 5: Vor der schlafenden Gefahr
+Ort und Zeit: Felsiger Zugang zum Lager der Gorgonen
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Weite vorsichtige Annäherung. Held links landet nach dem Weg mit Flügelsandalen auf festem Boden und stellt den blanken Schild schräg vor sich. Körper und Blick vom Lager abgewandt. Gorgonen hinter dem Fels außerhalb des Bildes, kein unmittelbarer Blick in ein Schlangengesicht. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links hinter einem Felsvorsprung; Körperhaltung: stehend; Mitgeführte Gegenstände: Schild links vor dem Gesicht; rechte Hand am Schwertgriff; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Magischer Weg durch Sandalen, jetzt zu Fuß hinter Deckung. Kappe noch am Gürtel, Beutel noch leer. Spiegelregel gilt schon vor dem eigentlichen Angriff.
+
+KACHEL 6: Das Gesicht im Metall
+Ort und Zeit: Rand des schlafenden Gorgonenlagers
+Sichtbare Figuren: Perseus mit dem Spiegelschild, Schlafende Medusa
+Bildbeschreibung: Breite optisch eindeutige Seitenansicht. Medusa schläft links hinter dem Helden. Er rechts wendet Kopf und Augen ausschließlich zum inneren Spiegelbild im links gehaltenen Schild, nicht über die Schulter. Eine gezogene Klinge rechts, linke Scheide leer. Spiegelbild nur optisch, keine zweite reale Medusa. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: rechts vor einem Felsen, Rücken zu Medusa; Körperhaltung: stehend; Mitgeführte Gegenstände: blanker Schild am linken Unterarm; ein Schwert rechts; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Schlafende Medusa: Ort: links hinter ihm auf einem flachen Felsen; Körperhaltung: schlafend liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrünes schlichtes antikes Gewand. Keine moderne Rüstung oder riesige Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Perseus zieht vor dem Näherkommen dieselbe Klinge aus der linken Scheide. Medusa bleibt anfangs lebend schlafend. Blick nur im Reflex, keine zusätzliche Frontbegegnung als dramatische Abkürzung.
+
+KACHEL 7: Ein Hieb, nur als Schatten
+Ort und Zeit: Schattenwand am Gorgonenlager im entscheidenden Moment
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Felswand füllt das Bild. Nur der Schatten eines einzigen entscheidenden Schwertarms und der Rand des schützenden Schilds, kein abgetrennter Kopf, keine offene Wunde und kein Blut. Perseus Gesicht nur seitlich zum Schild. Medusas Körper vollständig außerhalb des Ausschnitts. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: rechts im Silhouettenrand mit abgewandtem Gesicht; Körperhaltung: mit einem Schwertarm im entscheidenden Hieb; Mitgeführte Gegenstände: Schwert rechts; Schild links vor dem Blick; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Enthauptung wird durch Schatten und anschließenden Beutel erschlossen. Genau ein Hieb, keine Kampfschleife. Kein direkter Blick vor oder nach dem Tod. Beutel rechts am Gürtel für den folgenden Transport bereit.
+
+KACHEL 8: Das Gefährliche bleibt verborgen
+Ort und Zeit: Hinter einem Fels nach dem Hieb
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Nahe auf einen vollständig geschlossenen Beutel rechts am Gürtel. Perseus bindet ihn zu, Blick bleibt links vom Inhalt abgewandt. Schwert schon wieder in linker Scheide, keine offene Klinge in einer dritten Hand. Kein herausragendes Haar, Gesicht oder Trophäenkopf. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links mit vom Lager abgewandtem Gesicht; Körperhaltung: stehend; Mitgeführte Gegenstände: rechter Hand am zugezogenen Beutel; Schild am linken Unterarm; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Er verschloss das Haupt im Beutel, ohne es direkt anzusehen.
+Dialoge: keine
+Kontinuität / Änderung: Zwischen den Bildern steckt Perseus das eine Schwert ein, verstaut das Haupt ohne Hinsehen im vorbereiteten Beutel und schließt diesen. Medusa tot, Körper außerhalb ohne Wunddarstellung. Ab jetzt Beutel stets geschlossen.
+
+KACHEL 9: Die anderen erwachen
+Ort und Zeit: Gorgonenlager unmittelbar danach
+Sichtbare Figuren: Perseus mit dem Spiegelschild, Erste erwachende Gorgone, Zweite erwachende Gorgone
+Bildbeschreibung: Breite Lageransicht. Zwei lebende Schwestern Mitte und rechts mit verschiedenen Schlangenfarben suchen. Links nur ein sehr schwacher Umriss des unsichtbaren Helden für den Leser, nicht ein zweiter durchsichtiger Mensch. Kein offen sichtbares Haupt, keine ebenfalls getöteten Schwestern. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links hinter einem Felsen als matte Leserkontur; Körperhaltung: stehend; Mitgeführte Gegenstände: Schild am linken Unterarm; rechte Hand frei; voller Beutel rechts am Gürtel; Kleidung: Gleiche Tunika und Ausrüstung; dunkle Tarnkappe auf dem Kopf. Ein Paar Flügelsandalen; kein zusätzlicher Rückenflügel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Erste erwachende Gorgone: Ort: mittig vor dem Lager; Körperhaltung: aufgerichtet suchend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues antikes Gewand, keine zusätzliche Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweite erwachende Gorgone: Ort: rechts neben ihr; Körperhaltung: aufgerichtet suchend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes antikes Gewand, keine zusätzliche Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Perseus setzt die zuvor am Gürtel befindliche Tarnkappe auf. Schwestern erwachen erst jetzt. Er bleibt für sie unsichtbar, Klinge in Scheide, Haupt im geschlossenen Beutel.
+
+KACHEL 10: Ein Fluchtweg ohne neuen Kampf
+Ort und Zeit: Luftweg vom Gorgonenlager
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Weite Fluchtansicht. Ein einzelner matter Heldenumriss über dem Fels, zwei Sandalen mit ihren kleinen Flügeln, keine neuen großen Menschenflügel am Rücken. Beutel geschlossen und Schwert in linker Scheide. Suchende Schwestern bleiben außerhalb des fernen Ausschnitts, kein weiterer Hieb. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links oberhalb des Felsrands als matte Kontur; Körperhaltung: durch Flügelsandalen in der Luft; Mitgeführte Gegenstände: Schild links; geschlossener voller Beutel rechts am Gürtel; rechte Hand leer; Kleidung: Gleiche Tunika und Ausrüstung; dunkle Tarnkappe auf dem Kopf. Ein Paar Flügelsandalen; kein zusätzlicher Rückenflügel; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Flügelsandalen tragen ihn, Tarnkappe verbirgt ihn. Ausrüstung erfüllt verschiedene Aufgaben, wird nicht zu einem zusätzlichen Schwert- oder Körperflügelpaar. Kein Aufdecken des Beutels im Flug.
+
+KACHEL 11: Sicherer Boden ist noch kein sicherer Blick
+Ort und Zeit: Entfernter ruhiger Landplatz nach der Flucht
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Ruhige Halbnahe. Held jetzt sichtbar nach dem Landen, dunkle Kappe in der rechten Hand. Ein voller zugezogener Beutel rechts am Gürtel, Schwert ungezogen links. Gesicht blickt in die Ferne, nicht neugierig in den Beutel. Keine versteinerten neuen Opfer im Hintergrund. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: links auf festem Boden; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommene Tarnkappe rechts; Schild am linken Unterarm; geschlossener Beutel am Gürtel; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Landung beendet den Flug, Kappe bewusst abgenommen. Ihre Unsichtbarkeit verschwindet dadurch, aber Gefahr des Haupts nicht. Beutel bleibt geschlossen, auch nach Medusas Tod kein direkter Blick hinein.
+
+KACHEL 12: Vorbereitung war Teil des Mutes
+Ort und Zeit: Offener Weg nach abgeschlossener Flucht
+Sichtbare Figuren: Perseus mit dem Spiegelschild
+Bildbeschreibung: Weite Rückenansicht des einzelnen Helden auf sicherem Weg. Schild links, genau eine geschlossene linke Schwertscheide, Tarnkappe zurück am Gürtel und geschlossener Beutel rechts. Keine hochgehaltene Trophäe und keine anschließende Rettung einer neuen Königstochter. Verbindliche Zustände: Perseus mit dem Spiegelschild: Ort: mittig auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: Schild am linken Unterarm; rechte Hand leer; Tarnkappe und geschlossener voller Beutel am Gürtel; Kleidung: Helle Tunika, blanker Schild links, eine linke Schwertscheide, Beutel rechts, Tarnkappe am Gürtel, ein Paar Flügelsandalen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Er war entkommen, weil er der Gefahr nicht unbedacht ins Gesicht gesehen hatte.
+Dialoge: keine
+Kontinuität / Änderung: Auftragsepisode endet bei sicherer Flucht. Haupt verborgen, keine Andromeda-Szene oder spätere Versteinerung anhängen. Wissen, Hilfe und Blickregel tragen den Erfolg ebenso wie der eine Hieb.

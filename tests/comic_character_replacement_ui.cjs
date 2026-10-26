@@ -66,18 +66,17 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   await select.selectOption(broken);page.once('dialog',d=>d.accept());await apply.click();
   await page.waitForFunction(id=>document.querySelector('[data-character-replacement-status="'+id+'"]').textContent.includes('Referenzbild fehlt'),target);
   assert.equal(await page.evaluate(()=>JSON.stringify(editorPayload)),before);
-  // Namenskonflikte ebenfalls ohne Teiländerung zurückweisen.
-  await select.selectOption(conflict);page.once('dialog',d=>d.accept());await apply.click();
-  await page.waitForFunction(id=>document.querySelector('[data-character-replacement-status="'+id+'"]').textContent.includes('bereits'),target);
-  assert.equal(await page.evaluate(()=>JSON.stringify(editorPayload)),before);
+  // Bibliotheksnamen dürfen mit anderen Storyfiguren übereinstimmen: übernommen wird der Storyname.
+  const unchangedName=await page.evaluate(({target,profile})=>replaceStoryCharacter(editorPayload,target,profile).characters[0].name,{target,profile:{...profile,id:conflict,name:'Arik'}});
+  assert.equal(unchangedName,'Ria');
   // Ungespeicherte Szeneneingaben überleben den Tausch.
   await page.evaluate(()=>{document.querySelector('.scene-card [data-key="dialog"]').value='Noch nicht gespeicherter Erzählertext.'});
   await select.selectOption(lib);page.once('dialog',d=>d.accept());await apply.click();
-  await page.waitForFunction(()=>editorPayload.characters[0].name==='Nora');
+  await page.waitForFunction(()=>editorPayload.characters[0].name==='Ria');
   const result=await page.evaluate(()=>structuredClone(editorPayload)),copy=result.characters[0];
   assert.equal(copy.id,target);assert.equal(copy.library_source_id,lib);assert.equal(copy.backstory,profile.backstory);assert.equal(copy.alignment,profile.alignment);
   assert.deepStrictEqual(copy.references,[]);assert.deepStrictEqual(copy.inline_references,[png]);
-  assert(copy.aliases.includes('Ria'));assert(copy.aliases.includes('Die Finderin'));assert(copy.aliases.includes('Die Sucherin'));
+  assert.equal(copy.name,'Ria');assert.deepStrictEqual(copy.aliases,['Die Finderin']);
   assert.equal(result.article,original.payload.article);assert.equal(result.planned_article,original.payload.planned_article);
   assert.deepStrictEqual(result.scenes[0].characters,[target,other]);assert.equal(result.scenes[0].bubbles[0].speaker,target);
   assert.equal(result.scenes[0].bubbles[0].text,'Wer bist du?');assert.equal(result.scenes[0].bubbles[0].source_quote_id,'q001');
@@ -93,18 +92,30 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   assert(await page.evaluate(()=>dirty));assert(!calls.some(c=>c.method==='POST'||c.method==='PATCH'));
   await page.click('#render-save');await page.waitForFunction(()=>!dirty);
   const saved=calls.filter(c=>c.method==='PATCH').at(-1);assert.equal(saved.data.payload.characters[0].id,target);assert.equal(saved.data.payload.characters[0].library_source_id,lib);
-  await page.evaluate(doc=>fillDefinition(doc),story);assert.equal(await page.evaluate(()=>editorPayload.characters[0].name),'Nora');
+  await page.evaluate(doc=>fillDefinition(doc),story);assert.equal(await page.evaluate(()=>editorPayload.characters[0].name),'Ria');
   // Explizites Zurückspeichern in die Bibliothek verwendet deren ID, keine neue Dublette.
   await card.locator('summary').click();await card.getByRole('button',{name:'In Bibliothek speichern',exact:true}).click();
-  await page.waitForFunction(()=>characterLibrary.find(c=>c.name==='Nora')?.version===4);
+  await page.waitForFunction(()=>characterLibrary.find(c=>c.id==='c'.repeat(32))?.version===4);
   const write=calls.find(c=>c.path==='/characters'&&c.method==='POST');assert.equal(write.data.id,lib);assert.equal(write.data.version,3);
   assert(!calls.some(c=>c.path.includes('/generate')||c.path.includes('/regenerate')||c.path.includes('/plan')));
   // Die maximale Figurenanzahl hindert einen Tausch nicht: Es wird nichts hinzugefügt.
   const full=structuredClone(original);full.payload.library_ids=[];
   for(let i=2;i<8;i++)full.payload.characters.push({id:String(i).repeat(32),name:'Nebenfigur '+i,description:'Person.',outfit:'Mantel.',aliases:[],references:[]});
   await page.evaluate(doc=>fillDefinition(doc),full);await card.locator('summary').click();
-  await select.selectOption(lib);page.once('dialog',d=>d.accept());await apply.click();await page.waitForFunction(()=>editorPayload.characters[0].name==='Nora');
+  await select.selectOption(lib);page.once('dialog',d=>d.accept());await apply.click();await page.waitForFunction(()=>editorPayload.characters[0].name==='Ria');
   assert.equal(await page.evaluate(()=>editorPayload.characters.length),8);
+  // Mehrfacher Tausch bewahrt das erste Original; Wiederherstellung auch nach Speichern/Laden.
+  const twice=await page.evaluate(({target,profile})=>replaceStoryCharacter(editorPayload,target,profile),{target,profile:{...profile,id:broken,name:'Andere Nora',references:[]}});
+  assert.deepStrictEqual(twice.character_replacement_originals[target].profile,original.payload.characters[0]);
+  await page.evaluate(payload=>fillDefinition({id:definitionId,name:"Test",mode:"editorial",version:1,payload}),twice);
+  await card.locator('summary').click();
+  page.once('dialog',d=>d.accept());await page.locator('[data-character-replacement-reset="'+target+'"]').click();
+  const restored=await page.evaluate(()=>structuredClone(editorPayload));
+  assert.deepStrictEqual(restored.characters[0],original.payload.characters[0]);
+  assert.deepStrictEqual(restored.reference_overrides[target],original.payload.reference_overrides[target]);
+  assert.deepStrictEqual(restored.outfits[target],original.payload.outfits[target]);
+  assert.deepStrictEqual(restored.scenes,twice.scenes);
+  assert(!restored.character_replacement_originals[target]);
   assert.deepStrictEqual(errors,[]);
   await page.screenshot({path:'/tmp/comic-character-replacement.png',fullPage:true});
   console.log('Bibliotheksfigur ersetzt erkanntes Profil: private Bilder, feste Story-ID, Sprecher und Zustände erhalten; Abbruch/Fehler atomar; Speichern und Bibliotheks-ID geprüft. Keine Generierung.');

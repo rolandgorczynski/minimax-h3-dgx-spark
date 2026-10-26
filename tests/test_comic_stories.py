@@ -29,6 +29,23 @@ class StoriesTests(unittest.TestCase):
         self.temp=tempfile.TemporaryDirectory();self.addCleanup(self.temp.cleanup)
         self.store=Store(self.temp.name);self.stories=Stories(self.store)
 
+    def test_script_availability_tracks_content_and_count_not_image_style(self):
+        value=definition();value['payload'].update(planned_article=value['payload']['article'],planned_count=1,panel_count=1,visual_style_pending=True,source_provenance={'id':'quelle'})
+        story=self.stories.save(value)
+        summary=self.stories.list()[0]
+        self.assertTrue(summary['script_ready'])
+        self.assertEqual(summary['script_source_id'],'quelle')
+        self.assertEqual(len(summary['script_source_sha256']),64)
+        value['payload']['article']='Inzwischen geänderter Ausgangstext.'
+        changed=self.stories.save(value,story['id'],story['version'])
+        self.assertFalse(self.stories.list()[0]['script_ready'])
+        value['payload']['planned_article']=value['payload']['article'];value['payload']['panel_count']=2
+        changed=self.stories.save(value,changed['id'],changed['version'])
+        self.assertFalse(self.stories.list()[0]['script_ready'])
+        value['payload']['scenes']=[]
+        self.stories.save(value,changed['id'],changed['version'])
+        self.assertFalse(self.stories.list()[0]['script_ready'])
+
     def test_stale_script_is_not_rendered_and_style_changes_keep_scenes(self):
         value=definition();value['payload'].update(planned_article=value['payload']['article'],planned_count=1,panel_count=1)
         story=self.stories.save(value)

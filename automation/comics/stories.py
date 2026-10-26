@@ -1,5 +1,6 @@
 """Bearbeitbare Geschichten mit Versionsprüfung und getrennten Renderaufträgen."""
 import copy
+import hashlib
 import json
 import secrets
 import shutil
@@ -60,6 +61,20 @@ def validate_definition(value):
     return result
 
 
+def script_summary(doc):
+    """Lesender Bereitschaftsstatus, unabhängig vom später gewählten Bildstil."""
+    payload=doc.get('payload',{})
+    scenes=payload.get('scenes',[])
+    ready=(doc.get('mode')=='editorial' and isinstance(scenes,list) and bool(scenes)
+           and bool(payload.get('article','').strip())
+           and payload.get('planned_article',payload.get('article'))==payload.get('article')
+           and payload.get('planned_count',len(scenes))==len(scenes)
+           and payload.get('panel_count',len(scenes))==len(scenes))
+    source=payload.get('source_provenance',{})
+    return {'script_ready':ready,'script_source_id':source.get('id',''),
+            'script_source_sha256':hashlib.sha256((source.get('text',payload.get('article',''))+'\n').encode()).hexdigest() if ready else ''}
+
+
 class Stories:
     def __init__(self,store):
         self.store=store;self.lock=threading.RLock()
@@ -67,7 +82,7 @@ class Stories:
 
     def list(self):
         with self.store.connect() as db:rows=db.execute('SELECT doc FROM stories ORDER BY rowid DESC').fetchall()
-        return [{**{k:v for k,v in doc.items() if k!='payload'},'series':{k:v for k,v in doc.get('payload',{}).get('series',{}).items() if k in ('id','name','episode','based_on')}} for r in rows for doc in [json.loads(r['doc'])]]
+        return [{**{k:v for k,v in doc.items() if k!='payload'},**script_summary(doc),'series':{k:v for k,v in doc.get('payload',{}).get('series',{}).items() if k in ('id','name','episode','based_on')}} for r in rows for doc in [json.loads(r['doc'])]]
 
     def outputs(self,ident):
         with self.store.connect() as db:rows=db.execute('SELECT doc FROM jobs').fetchall()

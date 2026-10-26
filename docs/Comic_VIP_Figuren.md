@@ -1,6 +1,6 @@
 # VIP-Figuren für die Comic-Bibliothek
 
-Stand: 25. Oktober 2026. Nach der Erweiterung sind alle 42 Personen aus der aktualisierten `vips.md` mit deutschen Profilen und je einer Bildvorlage verfügbar. Nayib Bukele war bereits vorhanden; 41 weitere Personen wurden ergänzt. Die 15 zuvor vorhandenen Figuren blieben unverändert. Die Bibliothek enthält insgesamt 56 Figuren. Die ursprüngliche Eingabedatei wurde nicht verändert.
+Stand: 26. Oktober 2026. Alle 54 Einträge der aktuellen `vips.md` sind mit deutschen Profilen und je einer Bildvorlage verfügbar. Die Bibliothek enthält nach der jüngsten Ergänzung insgesamt 68 Figuren. Die zuvor vorhandenen 56 Figuren und die Eingabedatei blieben unverändert.
 
 Die Vermutungen über die Positionen von Personen in einem nicht beigefügten Ausgangsbild wurden nicht als biografische Tatsachen übernommen. Persönlichkeit, Motivation und Gesinnung sind nicht festgelegt. Das Aussehen bezieht sich jeweils auf das dokumentierte Referenzfoto, nicht zwingend auf das heutige Alter oder aktuelle Kleidung.
 
@@ -647,3 +647,130 @@ Die vorbereiteten Bilddateien und der Importbericht liegen unter `/home/jee/dock
 ```bash
 python3 scripts/import_comic_vips.py --manifest examples/comics/vip-profiles-erweiterung.json --references-dir /home/jee/docker-data/vip-import-20261025-erweiterung
 ```
+
+
+## Ergänzung vom 26. Oktober 2026
+
+Zwölf fehlende Einträge wurden ergänzt. Gesinnung, Persönlichkeit und Motivation bleiben unbestimmt. Der Terminator ist eine eigene fiktive Figur; sein Referenzfoto zeigt Arnold Schwarzenegger als Gesichtsvorlage, kein Filmkostüm. Das Alter der Fotovorlage gilt auch für die dargestellten Gesichtszüge.
+
+Manifest: `examples/comics/vip-profiles-20261026.json`. Bilddateien, vollständige Metadaten und Importbericht: `/home/jee/docker-data/vip-import-20261026/`. Vorhandene Figuren werden bei wiederholtem Import übersprungen.
+
+### Miley Cyrus
+
+- Bibliotheks-ID: `d822b560a3f85f308943356206e1cef4`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/Miley-Cyrus).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Miley_Cyrus_Primavera19_-226_(48986293772)_(cropped).jpg).
+- Urheber: Raphael Pour-Hashemi.
+- Lizenz: CC BY 2.0; Namensnennung: Raphael Pour-Hashemi.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `miley-cyrus.png`; SHA-256: `970fa177f6961ace5c546084cdb3e74dc4f4d7541d250057b8a27a44d691b66a`.
+
+### Bruce Lee
+
+- Bibliotheks-ID: `49109f4a0dd35da6856f6e863f19504b`.
+- Biografische Quelle: [Quelle](https://brucelee.com/bruce-lee).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Bruce_Lee_as_Chen_Zhen_(4x5_cropped).jpg).
+- Urheber: National General Pictures (original photo); uploaded by User:999real , cropped by User:Wabbuh.
+- Lizenz: Public domain; Namensnennung: National General Pictures (original photo); uploaded by User:999real , cropped by User:Wabbuh.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `bruce-lee.png`; SHA-256: `68b1827e8d03311280fe1ac33a5bbf95423caf8cd423963ac64200a1a5e11391`.
+
+### Arnold Schwarzenegger
+
+- Bibliotheks-ID: `8c6f9fa9306353e498147f9be7a3fec1`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/Arnold-Schwarzenegger).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg).
+- Urheber: Bernhard Holub.
+- Lizenz: CC BY-SA 4.0; Namensnennung: Bernhard Holub.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `arnold-schwarzenegger.png`; SHA-256: `4af6ea87e87611636020052264ac67b9f198572b72800f055fcff8135d474413`.
+
+### Der Terminator (fiktive Figur)
+
+- Bibliotheks-ID: `bf62d103e23058908a2ceef2ce5b1ead`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/topic/Terminator-film-series).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg).
+- Urheber: Bernhard Holub.
+- Lizenz: CC BY-SA 4.0; Namensnennung: Bernhard Holub.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `der-terminator-fiktive-figur.png`; SHA-256: `4af6ea87e87611636020052264ac67b9f198572b72800f055fcff8135d474413`.
+
+### Alex Jones
+
+- Bibliotheks-ID: `0be8a978271550db847937e54c9c5962`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/Alex-Jones).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Jones,_Alex_(2024).jpg).
+- Urheber: Gage Skidmore from Surprise, AZ, United States of America.
+- Lizenz: CC BY-SA 2.0; Namensnennung: Gage Skidmore from Surprise, AZ, United States of America.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `alex-jones.png`; SHA-256: `362a531adc78cab6522e0c4d7dbc65cc064c031caf2c911cfc4976af118bced7`.
+
+### David Icke
+
+- Bibliotheks-ID: `ac9993233c9f50eb86299bb570c7250c`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/David-Icke).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:David_Icke_in_2013.jpg).
+- Urheber: Tyler Merbler.
+- Lizenz: CC BY 2.0; Namensnennung: Tyler Merbler.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `david-icke.png`; SHA-256: `ca7dca28511565388d4bdbe4136aa0df15d5e888ad91acba917a9ddff220875f`.
+
+### Candace Owens
+
+- Bibliotheks-ID: `0126a0570a365089b37fbabc0d61724a`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/Candace-Owens).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Candace_Owens_(53805331465)_(cropped).jpg).
+- Urheber: Gage Skidmore from Surprise, AZ, United States of America.
+- Lizenz: CC BY-SA 2.0; Namensnennung: Gage Skidmore from Surprise, AZ, United States of America.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `candace-owens.png`; SHA-256: `9b9f4251fa2e0cec188da14fea9335af51f93bcbc45bbad1ee1428ab67fc9309`.
+
+### Tucker Carlson
+
+- Bibliotheks-ID: `2f538684d3c2569e9516944f18d745af`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/Tucker-Carlson).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Tucker_Carlson_(54670577849)_(cropped_2).jpg).
+- Urheber: Gage Skidmore from Surprise, AZ, United States of America.
+- Lizenz: CC BY-SA 4.0; Namensnennung: Gage Skidmore from Surprise, AZ, United States of America.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `tucker-carlson.png`; SHA-256: `4a1c3048fb9fb72b23a1b901b24535897ee4b4335d5f32d8f847ea294e299de2`.
+
+### Russell Brand
+
+- Bibliotheks-ID: `01f02f86ae215ea994fcdf2180632763`.
+- Biografische Quelle: [Quelle](https://www.britannica.com/biography/Russell-Brand).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Russell_Brand_in_2025_(cropped).jpg).
+- Urheber: Gage Skidmore.
+- Lizenz: CC BY-SA 4.0; Namensnennung: Gage Skidmore.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `russell-brand.png`; SHA-256: `28839a4c6c2134b02024a9b04277e1804db4af1f2ca1903af1771c767d80528b`.
+
+### Piero Cipollone
+
+- Bibliotheks-ID: `0aa806a8e07356cba76a72fc162fc59b`.
+- Biografische Quelle: [Quelle](https://www.ecb.europa.eu/ecb/decisions/html/cvcipollone.en.html).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Piero_Cipollone_2024.jpg).
+- Urheber: Jennifer Jacquemart - European Commission.
+- Lizenz: CC BY 4.0; Namensnennung: © European Union, 2026.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `piero-cipollone.png`; SHA-256: `e46a71da338adf161a18e6178e30a9763ec5c4b807f7124f14ce5db7f098fdb6`.
+
+### Agustín Carstens
+
+- Bibliotheks-ID: `6a9551ac5be1528ab34b2976ebfe0891`.
+- Biografische Quelle: [Quelle](https://www.bis.org/speeches/20210330-central-bank-digital-currencies-putting-big-idea-into-practice.htm).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Agustin_Carstens.jpg).
+- Urheber: International Monetary Fund.
+- Lizenz: Public domain; Namensnennung: International Monetary Fund.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `agustin-carstens.png`; SHA-256: `13349ea1eb8d561366428c6787625a31010f004941b947bb299c89f0bea966f4`.
+
+### Fabio Panetta
+
+- Bibliotheks-ID: `aa2aa393d25e5c95b1904e6a80bf2ff0`.
+- Biografische Quelle: [Quelle](https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230623_1~80751450e6.en.html).
+- Bildvorlage: [Dateiseite](https://commons.wikimedia.org/wiki/File:Fabio_Panetta_2023_(cropped).jpg).
+- Urheber: Quirinale.
+- Lizenz: Attribution; Namensnennung: Quirinale.it.
+- Aufbereitung: Technisch verkleinert und nach PNG konvertiert; keine Retusche durch Comic-Studio.
+- Datei: `fabio-panetta.png`; SHA-256: `f4ee45c4ba1b145a968edd25665bd25bbd0c9372bb892e720e7b3eb70e692c7b`.

@@ -1,0 +1,181 @@
+TITEL: Kalif Storch – Das vergessene Zauberwort
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kalif Chasid
+Aussehen: Erwachsener Mann mit braunen Augen, kurzem schwarzem Bart und ruhigem Gesicht. Als Storch weißes Gefieder, schwarze Flügelspitzen und kleiner rostfarbener Fleck am rechten Bein.
+Kleidung: Als Mensch dunkelblauer weiter Rock, helle Kopfbedeckung und braune Schuhe. Als Storch keine Kleidung, zwei Flügel und zwei Beine.
+Persönlichkeit und Vorgeschichte: Verliert durch Leichtfertigkeit den Rückweg zur menschlichen Gestalt. Nimmt das Hilfsangebot einer Mitbetroffenen ernst und hält sein Versprechen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wesir Mansor
+Aussehen: Erwachsener schlanker Mann mit graumeliertem kurzem Bart. Als Storch weiße Flügel mit schwarzen Spitzen und ein kleiner grauer Brustfleck, zwei Beine.
+Kleidung: Als Mensch grüner weiter Rock, helle Kopfbedeckung und braune Schuhe. Als Storch nur Federn, keine Menschenarme.
+Persönlichkeit und Vorgeschichte: Begleitet Chasid, lacht mit ihm und bleibt derselbe zweite Storch bis zur gemeinsamen Rückverwandlung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Verzauberte Königstochter als Eule
+Aussehen: Zunächst eine braune Eule mit hellem Gesichtsschleier, zwei Flügeln und zwei Füßen. Nach der Erlösung erwachsene Frau mit braunen Augen und langem dunklem Haar.
+Kleidung: Als Eule braunes Gefieder, keine Kleidung. Als Mensch schlichtes weinrotes langes Gewand.
+Persönlichkeit und Vorgeschichte: Kennt den Weg zur Versammlung des Zauberers. Ist Mitbetroffene und Handelnde, nicht ein Gegenstand, der am Ende gegen eine fremde Frau ausgetauscht wird.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zauberer der Storchfalle
+Aussehen: Erwachsener Mann mit schmalem Gesicht und schwarzem kurzgeschnittenem Bart.
+Kleidung: Dunkelvioletter weiter Rock und schlichte dunkle Kopfbedeckung.
+Persönlichkeit und Vorgeschichte: Hat die Falle gestellt. Sein nächtlicher Bericht verrät das vergessene Wort; kein späterer zusätzlicher Magierkampf.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Händler des Zauberpulvers
+Aussehen: Älterer Mann mit grauem Bart und wachen Augen.
+Kleidung: Brauner weiter Mantel, helle Stoffkappe und Lederschuhe. Ein einziges kleines Pulvergefäß.
+Persönlichkeit und Vorgeschichte: Verkauft die Gabe samt Warnung. Seine Rolle bleibt beim Erwerb; keine neue geheime Identität als zweiter Bösewicht behaupten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Etwas, das kein Herrscher kaufen sollte, ohne zuzuhören
+Ort und Zeit: Raum des Kalifen beim Händlerbesuch
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Händler des Zauberpulvers
+Bildbeschreibung: Breite ruhige Raumansicht. Kalif blau links, Wesir grün mittig, Händler braun rechts. Das eine Gefäß bereits beim Kalifen, Händlerhände leer. Keine Vögel im selben Bild und keine pauschale Kulturkarikatur. Verbindliche Zustände: Kalif Chasid: Ort: links vor dem Händler; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossenes Pulvergefäß links; Kleidung: Dunkelblauer weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig neben dem Kalifen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Händler des Zauberpulvers: Ort: rechts vor beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner weiter Mantel, helle Stoffkappe und Lederschuhe. Ein einziges kleines Pulvergefäß.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Händler des Zauberpulvers
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ihr könnt Tiergestalten annehmen und Tiere verstehen.“
+Kontinuität / Änderung: Erwerb einer märchenhaften Gabe. Gefäß übergeben, keine Doppelung. Nur die konkrete historische Märchenwelt als freie Bildgestaltung, keine moderne Filmvorlage.
+
+KACHEL 2: Die Regel vor dem Vergnügen
+Ort und Zeit: Derselbe Raum kurz danach
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Händler des Zauberpulvers
+Bildbeschreibung: Halbnahe auf drei aufmerksame Gesichter, Gefäß geschlossen in Chasids linker Hand. Händler rechts hebt warnend einen Finger. Kein noch zu lesender moderner Beipackzettel und keine schon vergessene Antwort. Verbindliche Zustände: Kalif Chasid: Ort: links neben Mansor; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossenes Pulvergefäß links; Kleidung: Dunkelblauer weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig vor dem Händler; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Händler des Zauberpulvers: Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner weiter Mantel, helle Stoffkappe und Lederschuhe. Ein einziges kleines Pulvergefäß.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Händler des Zauberpulvers
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Merkt euch das Rückwort. Und lacht nicht, solange der Zauber wirkt.“
+Kontinuität / Änderung: Warnung ausdrücklich vor der Verwandlung. Beide kennen zunächst das Rückwort; es wird nicht vor der späteren Lauschszene dem Leser als schon erinnerte Lösung präsentiert.
+
+KACHEL 3: Zwei lange Schatten am Wasser
+Ort und Zeit: Ufer außerhalb der Stadt nach Anwendung des Pulvers
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor
+Bildbeschreibung: Weite Seitenansicht von genau zwei Störchen. Links rostfarbener Fleck am rechten Bein, rechts grauer Brustfleck. Zwei Flügel und zwei Beine pro Vogel, keine menschlichen Hände oder zusätzlichen Menschen daneben. Gefäß liegt geschlossen trocken am Ufer. Verbindliche Zustände: Kalif Chasid: Ort: links am Ufer; Körperhaltung: als Storch auf zwei Beinen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: rechts am Ufer; Körperhaltung: als Storch auf zwei Beinen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kalif Chasid
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „So klingt ihre Welt.“
+Kontinuität / Änderung: Beide haben das Pulver genutzt und sind vollständig Störche. Menschenkleidung nicht als weiterer Körper am Boden; Gefäß abgelegt und bleibt am Ort. Menschensprache zwischen beiden als übersetzte Tierverständigung.
+
+KACHEL 4: Ein kleiner Regelbruch
+Ort und Zeit: Dasselbe Ufer beim Beobachten anderer Vögel
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor
+Bildbeschreibung: Halbtotale. Zwei eindeutig markierte Hauptstörche lachen beim unbeholfenen Balztanz unbenannter entfernter Vögel. Keine dritte Kopie des Wesirs im Vordergrund. Lachreaktion durch Haltung und offene Schnäbel, nicht durch menschliche Zähne im Vogelkopf. Verbindliche Zustände: Kalif Chasid: Ort: links vor den anderen Vögeln; Körperhaltung: als Storch mit offenem Schnabel lachend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: rechts neben ihm; Körperhaltung: als Storch mit leicht aufgerichteten Flügeln lachend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Sie lachen während des Zaubers und brechen genau die zuvor erklärte Regel. Kein zweites Pulver und kein neuer Zauberer greifen in diesem Moment ein.
+
+KACHEL 5: Das eine Wort ist fort
+Ort und Zeit: Ufer kurz nach dem Lachen
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor
+Bildbeschreibung: Ruhige Nahansicht derselben beiden Vögel, ihre Merkmale im Ausschnitt sichtbar. Keine versuchsweise halb zurückverwandelten Menschenköpfe. Kleines geschlossenes Gefäß fern am Ufer, nicht plötzlich in einem menschlichen Vogelfinger. Verbindliche Zustände: Kalif Chasid: Ort: links still im Schilf; Körperhaltung: als Storch mit gesenktem Kopf; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: rechts im Schilf; Körperhaltung: als Storch unbewegt stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kalif Chasid
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Das Wort. Wie hieß das Wort?“
+Dialog 2:
+  Sprecher: Wesir Mansor
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich weiß es nicht mehr.“
+Kontinuität / Änderung: Vergessen als Folge des Lachens. Von hier bis zum Belauschen bleibt das Rückwort beiden unbekannt; keine spontane Erinnerung als Abkürzung.
+
+KACHEL 6: Eine andere Stimme in der Ruine
+Ort und Zeit: Verlassene Ruine in der Dämmerung
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Verzauberte Königstochter als Eule
+Bildbeschreibung: Breite Innenansicht. Zwei Störche links und Mitte, eine braune Eule rechts auf der Mauer. Mondlicht, keine menschliche Königstochter hinter der Eule als zweite Person. Gefäß bleibt am früheren Ufer, wird nicht weitergetragen. Verbindliche Zustände: Kalif Chasid: Ort: links am Eingang; Körperhaltung: als Storch auf zwei Beinen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig am Eingang; Körperhaltung: als Storch auf zwei Beinen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: rechts auf einer niedrigen Mauer; Körperhaltung: als Eule auf zwei Füßen hockend; Mitgeführte Gegenstände: leere Hände; Kleidung: Vollständiges braunes Eulengefieder; kein menschlicher Körper; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Verzauberte Königstochter als Eule
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Auch ich bin ein verzauberter Mensch.“
+Kontinuität / Änderung: Die drei begegnen einander nach der Suche. Eule ist eine vollwertige Mitbetroffene, ihre menschliche Gestalt vor der Erlösung nicht zusätzlich abbilden.
+
+KACHEL 7: Eine Zusage vor dem Wissen
+Ort und Zeit: Dieselbe Ruine beim Bündnis
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Verzauberte Königstochter als Eule
+Bildbeschreibung: Halbnahe auf Blickachsen. Eule rechts spricht zu Chasid links, Mansor etwas dahinter. Keine Verwandlung oder Hochzeit in derselben Einstellung. Sämtliche Figuren bleiben Tiere mit normaler fester Gliedmaßenzahl. Verbindliche Zustände: Kalif Chasid: Ort: links nahe der Eule; Körperhaltung: als Storch aufmerksam stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig hinter Chasid; Körperhaltung: als Storch still stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: rechts auf der Mauer; Körperhaltung: als Eule auf zwei Füßen hockend; Mitgeführte Gegenstände: leere Hände; Kleidung: Vollständiges braunes Eulengefieder; kein menschlicher Körper; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Verzauberte Königstochter als Eule
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Einer von euch soll mich heiraten. Dann führe ich euch hin.“
+Dialog 2:
+  Sprecher: Kalif Chasid
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich gebe dir mein Wort.“
+Kontinuität / Änderung: Chasid willigt ein, bevor er ihr menschliches Aussehen kennt. Märchenhafte Bedingung wird nicht durch erfundene Waffengewalt ersetzt.
+
+KACHEL 8: Sie kennt den Weg
+Ort und Zeit: Dunkler Gang zur Versammlung in der Nacht
+Sichtbare Figuren: Verzauberte Königstochter als Eule, Kalif Chasid, Wesir Mansor
+Bildbeschreibung: Weite Gangansicht. Eule rechts führt, beide Störche folgen über festen Boden mit eingezogenen Flügeln. Kein Adler als Ersatz für die Eule, keine Handlampe an Vogelarmen. Licht der Versammlung durch einen Spalt am Ende. Verbindliche Zustände: Kalif Chasid: Ort: mittig im Gang; Körperhaltung: als Storch vorsichtig gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: links dahinter im Gang; Körperhaltung: als Storch vorsichtig gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: rechts vorn auf einer niedrigen Kante; Körperhaltung: als Eule auf zwei Füßen vorangehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Vollständiges braunes Eulengefieder; kein menschlicher Körper; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Nacht und Ortswechsel ausdrücklich. Eule führt durch ihr Wissen. Noch kein Rückwort erinnert oder ausgesprochen; beide Störche müssen bis zur Lauschstelle gelangen.
+
+KACHEL 9: Was der Urheber der Falle erzählt
+Ort und Zeit: Versteck hinter der Wand der Versammlung
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Verzauberte Königstochter als Eule, Zauberer der Storchfalle
+Bildbeschreibung: Breite geteilte Raumansicht ohne Zeitmontage: links dunkel das Versteck mit drei Tieren, rechts klar derselbe reale Raum mit dem erzählenden Zauberer. Keine sichtbaren Menschengestalten der Verzauberten. Unbenannte Zuhörer nur ferne Silhouetten. Verbindliche Zustände: Kalif Chasid: Ort: links hinter dem Mauerspalt; Körperhaltung: als Storch geduckt stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig hinter dem Spalt; Körperhaltung: als Storch geduckt stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: links oben auf einer Mauerkante; Körperhaltung: als Eule hockend; Mitgeführte Gegenstände: leere Hände; Kleidung: Vollständiges braunes Eulengefieder; kein menschlicher Körper; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zauberer der Storchfalle: Ort: rechts im beleuchteten Versammlungsraum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelvioletter weiter Rock und schlichte dunkle Kopfbedeckung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Zauberer der Storchfalle
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie haben gelacht. Nun fehlt ihnen das eine Wort.“
+Kontinuität / Änderung: Zauberer berichtet von seiner gestellten Falle. Tiere belauschen ihn, werden nicht offen als eingeladene Gäste begrüßt. Das entscheidende Wort folgt erst im nächsten Moment.
+
+KACHEL 10: Jetzt hört es jemand, der zuhört
+Ort und Zeit: Dasselbe Versteck während der weiteren Rede
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Verzauberte Königstochter als Eule, Zauberer der Storchfalle
+Bildbeschreibung: Enge Nahansicht der lauschenden Tiergesichter links, Zauberer rechts in der Raumtiefe spricht weiter. Kein ausgeschriebenes fantastisches Wort vom Bildmodell erzeugen lassen. Kleine warm beleuchtete Mundbewegung des Sprechers genügt. Verbindliche Zustände: Kalif Chasid: Ort: links am Spalt; Körperhaltung: als Storch aufmerksam unbewegt; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, rostfarbener Fleck rechts am Bein; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig hinter ihm; Körperhaltung: als Storch aufmerksam unbewegt; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Storchgefieder, schwarze Flügelspitzen, grauer Brustfleck; keine Menschenkleidung; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: links oben auf der Kante; Körperhaltung: als Eule lauschend; Mitgeführte Gegenstände: leere Hände; Kleidung: Vollständiges braunes Eulengefieder; kein menschlicher Körper; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zauberer der Storchfalle: Ort: rechts im Versammlungsraum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelvioletter weiter Rock und schlichte dunkle Kopfbedeckung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Dann sprach er das vergessene Rückwort aus.
+Dialoge: keine
+Kontinuität / Änderung: Alle hören die Lösung jetzt aus der Rede. Erzähler bestätigt den Wissenserwerb, ohne ein frei erfundenes anderes Zauberwort einzusetzen oder den früheren Wissensstand rückwirkend zu ändern.
+
+KACHEL 11: Drei Personen statt drei Vögel
+Ort und Zeit: Geschützter Hof hinter der Ruine nach der Lauschszene
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Verzauberte Königstochter als Eule
+Bildbeschreibung: Ruhige breite Hofansicht. Chasid links als erwachsener Mann in Blau, Mansor Mitte in Grün, rechts dieselbe Eulenfigur nun als erwachsene Königstochter in Weinrot. Keine zurückgelassenen Vögel neben den Füßen, keine Federkörper auf menschlichen Schultern. Verbindliche Zustände: Kalif Chasid: Ort: links auf festem Boden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig neben Chasid; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: rechts vor ihnen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Gewand; erwachsene menschliche Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit dem wiedergewonnenen Wort kehrten alle drei in Menschengestalt zurück.
+Dialog 1:
+  Sprecher: Kalif Chasid
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mein Wort bleibt.“
+Kontinuität / Änderung: Sie verlassen das Versteck und benutzen das gehörte Rückwort. Drei vollständige Rückverwandlungen abgeschlossen, Kleidung märchenhaft wiederhergestellt. Zusage bleibt nach der Erlösung gültig.
+
+KACHEL 12: Gemeinsam zurück
+Ort und Zeit: Straße nach Bagdad bei Tageslicht
+Sichtbare Figuren: Kalif Chasid, Wesir Mansor, Verzauberte Königstochter als Eule
+Bildbeschreibung: Weite Rückenansicht von drei erwachsenen Menschen auf dem Heimweg, Stadt fern vor ihnen. Blau links, Grün Mitte, Weinrot rechts. Keine fliegende zweite Eule am Himmel, keine erfundene Schlacht am Stadttor oder zweite Hochzeitsszene. Verbindliche Zustände: Kalif Chasid: Ort: links auf dem Heimweg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wesir Mansor: Ort: mittig auf dem Heimweg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner weiter Rock, helle Kopfbedeckung und braune Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verzauberte Königstochter als Eule: Ort: rechts neben Chasid; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Gewand; erwachsene menschliche Gestalt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Den Rückweg fanden sie nicht allein.
+Dialoge: keine
+Kontinuität / Änderung: Gemeinsame Heimkehr in menschlicher Gestalt. Zusage und Hilfe schließen den Bogen, Zaubererversammlung nicht als zusätzlicher Rachekrieg fortsetzen.

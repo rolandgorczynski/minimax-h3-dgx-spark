@@ -1,0 +1,208 @@
+TITEL: Das Gespensterschiff – Die Toten an Deck
+AUTOR:
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Reisender auf dem Gespensterschiff
+Aussehen: Junger erwachsener Mann mit kurzem schwarzem Haar, braunen Augen und schmalem Gesicht.
+Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Überlebt Schiffbruch mit seinem Diener. Erkennt, dass die Rettung erst mit dem Auflösen des Banns vollständig ist.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alter Diener des Reisenden
+Aussehen: Älterer Mann mit kurzem grauem Bart und ruhigem wachem Blick.
+Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Beobachtet mit dem Reisenden die Wiederholung und hilft beim Schutz der Segel. Lebender Mensch, kein Teil der toten Besatzung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gebannter Kapitän am Mast
+Aussehen: Erwachsener Mann mit dunklem Bart und müdem starrem Gesicht. Tags verhüllte Gestalt am Mast, nachts derselbe gebannte Tote in Bewegung.
+Kleidung: Dunkler langer Kapitänsrock und schmales Tuch um den Kopf. Tags ein heller Überwurf über dem Körper, keine Verwesungsdetails.
+Persönlichkeit und Vorgeschichte: Haftet tagsüber am Mast, nimmt nachts am Spuk teil. Erst herbeigebrachte Erde löst den Bann; erzählt danach den Ursprung und findet Ruhe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gebannter Seemann
+Aussehen: Erwachsener hagerer Mann mit kurzem dunklem Haar, als verhüllte Silhouette erkennbar.
+Kleidung: Graues grobes Seemannsgewand und dunkles Tuch über dem Oberkörper bei Tag.
+Persönlichkeit und Vorgeschichte: Wiedererkennbarer Vertreter der toten Besatzung. Tags am Deck haftend, nachts im gebannten Treiben, später durch Erde erlöst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Muley an der Küste
+Aussehen: Erwachsener Mann mit graumeliertem kurzem Bart und aufmerksamem Gesicht.
+Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.
+Persönlichkeit und Vorgeschichte: Kennt den Umgang mit dem Bann. Hilft, die Toten samt haftenden Brettern an Land und Erde zum Kapitän zu bringen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Eine Zuflucht hinter den Wellen
+Ort und Zeit: Meer nach einem Schiffbruch bei Tageslicht
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden
+Bildbeschreibung: Weite unruhige See. Genau zwei lebende Schiffbrüchige auf einem großen Holzstück, fern ein scheinbar verlassenes Schiff. Kein dritter Geretteter und keine bereits stehende Kopie an dessen Reling. Keine ertrinkenden Körperdetails. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links auf einem schwimmenden Wrackstück; Körperhaltung: sitzend und festhaltend; Mitgeführte Gegenstände: beide Hände am Holz; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: rechts auf demselben Wrackstück; Körperhaltung: sitzend und festhaltend; Mitgeführte Gegenstände: rechte Hand am Holz; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Reisender auf dem Gespensterschiff
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dort ist ein Schiff.“
+Kontinuität / Änderung: Rahmenerzählung entfällt. Beide leben nach dem Schiffbruch und erreichen die Zuflucht erst im nächsten Bild.
+
+KACHEL 2: Niemand antwortet
+Ort und Zeit: Deck des gefundenen Schiffs bei Tag
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Gebannter Seemann
+Bildbeschreibung: Breite Deckansicht. Beide Lebenden an Bord, mehrere Tote nur verhüllte Formen, einer rechts als wiedererkennbarer Seemann. Kein Blut, keine Verwesung. Schiff liegt scheinbar still, Segel schlaff. Unheimlich ist der fehlende Alltag. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links neben der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: mittig beim Aufgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Seemann: Ort: rechts am Deck; Körperhaltung: unter einem Tuch reglos liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Seemannsgewand, dunkler Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt, nicht lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alter Diener des Reisenden
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Warum bleibt hier alles liegen?“
+Kontinuität / Änderung: Beide sind vom Wrackstück an Bord geklettert. Alle verhüllten Besatzungsmitglieder tot, keine gleichzeitig freundlich arbeitenden lebenden Matrosen.
+
+KACHEL 3: Was sich nicht lösen lässt
+Ort und Zeit: Am Mast desselben Schiffs bei Tag
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Gebannter Kapitän am Mast
+Bildbeschreibung: Halbnahe. Kapitän als verhüllte aufrechte Gestalt am Mast, Gesicht nur Schatten. Reisender versucht vorsichtig ihn zu lösen, der Körper bleibt am alten Platz. Kein sichtbarer Nagel durch Haut und kein wegreißender Arm. Diener schaut zu. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links am Mast; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände am Rand des Überwurfs; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: mittig am Mast; Körperhaltung: reglos am Mast festgehalten, unter hellem Überwurf; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch und heller Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Reisender auf dem Gespensterschiff
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Er kommt nicht los.“
+Kontinuität / Änderung: Bann hält die Gestalt am Mast. Bloßes Ziehen löst ihn nicht. Erde ist noch nicht an Bord, Kapitän noch nicht erlöst.
+
+KACHEL 4: Die erste Nacht antwortet
+Ort und Zeit: Deck nach Sonnenuntergang
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Gebannter Kapitän am Mast, Gebannter Seemann
+Bildbeschreibung: Weite Nachtansicht. Dieselben Toten bewegen sich nun als dunkle Gestalten; Kapitän rechts nicht mehr reglos am Mast. Links fliehen die zwei Lebenden zum Niedergang. Kein gleichzeitiger zweiter festgehaltener Kapitän unter einem Tuch. Geräusche nur grafisch als Bewegung. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links am Niedergang; Körperhaltung: zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: links hinter ihm; Körperhaltung: zum Niedergang gewandt; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: rechts frei vor dem Mast; Körperhaltung: als gebannter Toter gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch; kein Überwurf während des nächtlichen Treibens; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt. Gebannter Seemann: Ort: mittig am Tauwerk; Körperhaltung: als gebannter Toter am Tau ziehend; Mitgeführte Gegenstände: ein Tau in beiden Händen; Kleidung: Graues Seemannsgewand ohne Überwurf im Nachtspuk; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt, nicht lebend; Verletzungen: unverletzt.
+Erzählertext: Nachts bewegte sich, was tagsüber nicht einmal zu lösen war.
+Dialoge: keine
+Kontinuität / Änderung: Klarer Tageswechsel. Tote handeln unter Bann, werden nicht biologisch wieder lebendig. Kapitän nimmt nachts am Treiben teil und ist nicht gleichzeitig tagsstarr gebunden.
+
+KACHEL 5: Eine Tür zwischen ihnen und dem Deck
+Ort und Zeit: Kajüte in derselben Nacht
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden
+Bildbeschreibung: Enge stille Kajüte. Zwei lebende Männer innen, geschlossene Holztür dahinter mit Schatten von Bewegung außerhalb. Keine zusätzliche tote Hand im Raum. Diener spricht ruhig, keine Waffen oder Kanonen als geplante Lösung. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links hinter der geschlossenen Kajütentür; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: rechts neben ihm; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände zum Gebet zusammengelegt; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alter Diener des Reisenden
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bewahre uns durch diese Nacht.“
+Kontinuität / Änderung: Beide suchen Schutz mit Gebeten. Kein Übergang zu Geisterkampf; gefährdete Menschen bleiben lebend und voneinander unterscheidbar.
+
+KACHEL 6: Ein Kurs bei Tageslicht
+Ort und Zeit: Deck am folgenden Morgen
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Gebannter Kapitän am Mast, Gebannter Seemann
+Bildbeschreibung: Breite Tagesansicht. Lebende steuern und setzen Segel, Tote wieder an ihren alten Plätzen. Kapitän hinten wieder fest am Mast, genau ein Körper. Ferne Küste rechts als Kursziel, keine erreichte Landung im selben Bild. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links am Steuer; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände am Steuer; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: rechts am Segeltau; Körperhaltung: stehend; Mitgeführte Gegenstände: Tau in beiden Händen; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: hinten am Mast; Körperhaltung: wieder reglos am Mast unter dem Überwurf; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch und heller Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt. Gebannter Seemann: Ort: rechts hinten am Deck; Körperhaltung: wieder reglos liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Seemannsgewand, dunkler Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt, nicht lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Reisender auf dem Gespensterschiff
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bei Tag können wir es lenken.“
+Kontinuität / Änderung: Morgen beendet das Nachtgeschehen. Kapitän und Seemann wieder tagsstarr. Die zwei Lebenden versuchen erstmals, Tagesfortschritt zur Küste zu nutzen.
+
+KACHEL 7: Was die Nacht zurücknimmt
+Ort und Zeit: Deck in der zweiten Nacht
+Sichtbare Figuren: Gebannter Kapitän am Mast, Gebannter Seemann
+Bildbeschreibung: Weite Nachtansicht. Kapitän rechts frei, Seemann links am Steuer, Segel anders gestellt. Küste im Hintergrund entfernt sich statt näherzukommen. Keine lebenden Doppelgänger an denselben Tauen. Beide Menschen bleiben geschützt unter Deck außerhalb. Verbindliche Zustände: Gebannter Kapitän am Mast: Ort: rechts frei neben dem Mast; Körperhaltung: als gebannter Toter am Segeltau arbeitend; Mitgeführte Gegenstände: ein Segeltau rechts; Kleidung: Dunkler Kapitänsrock, Kopftuch; kein Überwurf während des nächtlichen Treibens; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt. Gebannter Seemann: Ort: links beim Steuer; Körperhaltung: am Steuer stehend; Mitgeführte Gegenstände: Hände am Steuer; Kleidung: Graues Seemannsgewand ohne Überwurf im Nachtspuk; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt, nicht lebend; Verletzungen: unverletzt.
+Erzählertext: In der Nacht machten die Toten den Weg wieder zunichte.
+Dialoge: keine
+Kontinuität / Änderung: Zweite Nacht zeigt das wiederkehrende Problem. Kapitän wieder beweglich, nicht zugleich am Mast festgehalten. Tagesfortschritt geht durch Spuk verloren, nicht durch zufälligen neuen Sturm.
+
+KACHEL 8: Nicht gegen die Toten, gegen die Wiederholung
+Ort und Zeit: Deck am zweiten Tag vor dem Abend
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Gebannter Kapitän am Mast
+Bildbeschreibung: Halbtotale bei spätem Tageslicht. Segel bereits eingerollt, zwei Menschen befestigen schmale beschriftete Schutzbänder daran. Schrift später setzen, keine winzigen falschen Buchstaben vom Bildmodell. Kapitän reglos hinten. Keine heilende Erde bereits am Mast. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links neben dem eingerollten Segel; Körperhaltung: stehend; Mitgeführte Gegenstände: schmales Stoffband in beiden Händen; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: rechts am selben eingerollten Segel; Körperhaltung: stehend; Mitgeführte Gegenstände: weiteres schmales Stoffband rechts; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: hinten am Mast; Körperhaltung: tagsstarr am Mast unter Überwurf; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch und heller Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alter Diener des Reisenden
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heute sichern wir, was die Nacht uns sonst nimmt.“
+Kontinuität / Änderung: Tagesfahrt zuvor wieder aufgenommen. Vor der nächsten Nacht Segel einrollen und durch Gebetsbänder schützen, damit die Geister sie nicht zur Rückfahrt nutzen. Bänder heben den Bann noch nicht auf.
+
+KACHEL 9: Diesmal bleibt der Weg
+Ort und Zeit: Deck in der dritten Nacht
+Sichtbare Figuren: Gebannter Kapitän am Mast, Gebannter Seemann
+Bildbeschreibung: Breite Nachtansicht. Geschütztes eingerolltes Segel bleibt geschlossen mit denselben zwei Bändern. Tote stehen zurück, kein ungeschütztes zweites Segel entfaltet sich daneben. Küste bleibt fern sichtbar. Keine bereits zu Staub gewordenen Matrosen an Deck. Verbindliche Zustände: Gebannter Kapitän am Mast: Ort: rechts frei neben dem geschützten Segel; Körperhaltung: mit zurückgenommener Hand vor dem Segel stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch; kein Überwurf während des nächtlichen Treibens; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt. Gebannter Seemann: Ort: links unter dem eingerollten Segel; Körperhaltung: abwartend stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Seemannsgewand ohne Überwurf im Nachtspuk; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt, nicht lebend; Verletzungen: unverletzt.
+Erzählertext: Die Sicherung hielt. Der Bann blieb.
+Dialoge: keine
+Kontinuität / Änderung: Schutz verhindert nächtliche Umkehr, erlöst aber noch niemanden. Kapitän ist nachts weiterhin beweglich und tot. Endgültige Ruhe erst nach Erdkontakt.
+
+KACHEL 10: Erreichbares Land
+Ort und Zeit: Küste am nächsten Tag
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Muley an der Küste
+Bildbeschreibung: Weite helle Küste. Beide Lebenden nach dem Anlegen zu Fuß links und Mitte, Muley rechts hört zu. Geisterschiff im Wasser dahinter, kein plötzlich auf dem Strand liegendes gesamtes Schiff. Noch keine Toten am Ufer. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links auf festem Uferboden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: mittig am Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Muley an der Küste: Ort: rechts vor den Ankommenden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Reisender auf dem Gespensterschiff
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie haften am Holz. Und nachts fahren sie wieder.“
+Dialog 2:
+  Sprecher: Muley an der Küste
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann bringen wir sie zur Erde.“
+Kontinuität / Änderung: Nach sicherem Tagesfortschritt an der Küste angelegt, beide steigen aus. Muley wird als kundiger Helfer hinzugezogen, nicht nachträglich als schon an Bord befindlicher dritter Schiffbrüchiger.
+
+KACHEL 11: Die Bretter gehören dazu
+Ort und Zeit: Deck am angelegten Schiff bei Tag
+Sichtbare Figuren: Muley an der Küste, Reisender auf dem Gespensterschiff, Gebannter Seemann
+Bildbeschreibung: Halbnahe der Arbeit. Verhüllter Toter liegt ungetrennt auf einem ausgebauten Deckstück, Reisender hält den Brettrand, Muley löst Holz statt Körperteile. Keine Operation, keine Wunde. Kapitän außerhalb des engen Ausschnitts bleibt am Mast. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links an einem gelösten Brettstück; Körperhaltung: stehend; Mitgeführte Gegenstände: Brettrand in beiden Händen; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Seemann: Ort: mittig auf einem gelösten Stück Deck; Körperhaltung: reglos auf dem Brett liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Seemannsgewand, dunkler Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt, nicht lebend; Verletzungen: unverletzt. Muley an der Küste: Ort: rechts neben dem verhüllten Seemann; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hebelwerkzeug rechts; Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Bretter mit den haftenden Toten werden gelöst. Keine blutige Trennung vom Körper. Diener hilft anderen unbenannten Helfern außerhalb des Ausschnitts, kein zweiter Seemann als Kopie.
+
+KACHEL 12: Ein Schritt, den sie nicht selbst tun konnten
+Ort und Zeit: Erdboden am Ufer
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Muley an der Küste
+Bildbeschreibung: Ruhige Bodenansicht. Verhüllte Form auf Holz berührt Erde und zerfällt als sanfter Staubschleier, keine anatomischen Reste. Im Zentrum nur das zurückbleibende Tuch und Staub, kein zugleich stehender lebender Seemann. Die Helfer ziehen Hände respektvoll zurück. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links am abgelegten Brett; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: mittig am Rand des Bretts; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Muley an der Küste: Ort: rechts neben beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: An der Erde zerfielen die Toten zu Staub.
+Dialoge: keine
+Kontinuität / Änderung: Seemann und übrige Besatzung werden durch Erdkontakt erlöst. Keine Wiederkehr im folgenden Nachtkampf. Kapitän bleibt noch als einziger am Mast gebannt.
+
+KACHEL 13: Noch einer ist gebunden
+Ort und Zeit: Mast auf dem angelegten Schiff bei Tag
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Gebannter Kapitän am Mast
+Bildbeschreibung: Breite Deckansicht. Die alten Liegeplätze der Besatzung leer, Holzstellen geöffnet. Kapitän rechts allein noch am Mast unter hellem Überwurf. Zwei Lebende links und Mitte sehen zu ihm; keine Toten von der Küste wieder an Bord. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links vor dem Mast; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: mittig neben dem Mast; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: rechts am Mast; Körperhaltung: weiterhin reglos am Mast festgehalten; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch und heller Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Reisender auf dem Gespensterschiff
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Für ihn reicht das Ufer nicht.“
+Kontinuität / Änderung: Besatzung erlöst, Kapitän noch nicht. Bann am Mast besteht trotz des bisherigen Erfolgs. Das Schiff ist auch noch nicht vollständig repariert.
+
+KACHEL 14: Die Erde kommt zu ihm
+Ort und Zeit: Derselbe Mast kurz danach
+Sichtbare Figuren: Muley an der Küste, Gebannter Kapitän am Mast, Alter Diener des Reisenden
+Bildbeschreibung: Nah auf Schale mit gewöhnlicher Erde, die Muley an die Hand des Kapitäns bringt. Keine Zauberkanone und kein Feuer. Körper verhüllt, nur eine unversehrte Hand erreicht Erde. Die Schale einmal, kein zweiter Kapitän am Ufer. Verbindliche Zustände: Alter Diener des Reisenden: Ort: mittig neben Muley; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: rechts am Mast; Körperhaltung: reglos, eine Hand unter dem Überwurf am Schalenrand; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch und heller Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot und gebannt; nachts in Bewegung, nicht wieder lebendig; Verletzungen: unverletzt. Muley an der Küste: Ort: links unmittelbar vor dem Kapitän; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Schale Erde in beiden Händen; Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Muley bringt die Erde ausdrücklich an Bord. Dieser Kontakt beginnt die Lösung des Kapitänsbanns; vorheriges bloßes Ziehen am Mast hat sie nicht bewirkt.
+
+KACHEL 15: Eine Stimme vor der Ruhe
+Ort und Zeit: Am Mast nach dem Erdkontakt
+Sichtbare Figuren: Gebannter Kapitän am Mast, Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Muley an der Küste
+Bildbeschreibung: Ruhige Halbnahe. Kapitän nun gelöst sitzend, Gesicht als Schatten mit hörbarer Stimme, drei Helfer lauschen. Keine triumphierende wieder gesunde Besatzung auf dem Deck. Kein neuer Angriff und kein unkommentierter Sprung in seine Vergangenheit. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links vor ihm; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: mittig neben dem Reisenden; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Gebannter Kapitän am Mast: Ort: rechts am Mast; Körperhaltung: vom Bann gelöst ruhig am Mast sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Kapitänsrock, Kopftuch und heller Überwurf; keine Verwesungsdetails; Fortbewegung: in einem Fahrzeug; Lebenszustand: tot; Bann gelöst, noch eine Stimme vor der endgültigen Ruhe; Verletzungen: unverletzt. Muley an der Küste: Ort: links hinten; Körperhaltung: stehend; Mitgeführte Gegenstände: Schale mit Erde gesenkt; Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er erzählte den Ursprung des Fluches. Dann fand auch er Ruhe.
+Dialoge: keine
+Kontinuität / Änderung: Bann erst durch Erde gelöst; Erzählung wird als kurze Nachwirkung vor endgültiger Ruhe verdichtet. Keine unbelegte konkrete Ursprungstat oder neue Rahmenhandlung erfinden.
+
+KACHEL 16: Was jetzt wieder ein Schiff sein kann
+Ort und Zeit: Angelegtes Schiff am folgenden ruhigen Tag
+Sichtbare Figuren: Reisender auf dem Gespensterschiff, Alter Diener des Reisenden, Muley an der Küste
+Bildbeschreibung: Weite helle Deckansicht. Kapitän und Besatzung vollständig fort, leerer Mast, die drei lebenden Männer beginnen die beschädigten Deckstellen mit Holz auszubessern. Schutzbänder noch am eingerollten Segel, keine neue Nachtbesatzung in den Schatten. Verbindliche Zustände: Reisender auf dem Gespensterschiff: Ort: links an einer offenen Deckstelle; Körperhaltung: stehend; Mitgeführte Gegenstände: ein neues Brett in beiden Händen; Kleidung: Durchnässter dunkelblauer weiter Rock, helle Hose und braune Schuhe, später dieselbe Kleidung getrocknet. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Diener des Reisenden: Ort: mittig beim Werkzeug; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Holzhammer rechts; Kleidung: Graubrauner weiter Rock, helle Stoffkappe und feste Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Muley an der Küste: Ort: rechts am Mast; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbener weiter Mantel, helle Kopfbedeckung und braune Schuhe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Erst jetzt mussten sie nur noch ein Schiff reparieren.
+Dialoge: keine
+Kontinuität / Änderung: Endgültige Ruhe nach der Erlösung. Reparatur beginnt, keine behauptete schon absolvierte neue Fernreise. Gefahr nicht allein durch Entkommen, sondern durch gemeinsames Auflösen des Banns beendet.

@@ -1,0 +1,214 @@
+TITEL: In 80 Tagen um die Welt – Der gewonnene Tag
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Phileas Fogg im Londoner Schlussbogen
+Aussehen: Erwachsener Mann mit kurzem braunem Haar, gepflegten Backenbärten und ruhigem kantigem Gesicht.
+Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.
+Persönlichkeit und Vorgeschichte: Wettet auf achtzig Tage. Glaubt nach der Freilassung, knapp zu spät zu sein; kennt den Kalenderirrtum erst nach Passepartouts Bericht. Seine Beziehung zu Aouda verändert den Wert der Wette.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Passepartout mit der Kalenderentdeckung
+Aussehen: Junger erwachsener Mann mit braunen Locken und offenem bartlosem Gesicht.
+Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.
+Persönlichkeit und Vorgeschichte: Begleiter, kein bloßer Witzmacher. Die Erkundigung zur Hochzeit bringt die entscheidende Auskunft, die er rechtzeitig weiterträgt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Aouda nach der Weltreise
+Aussehen: Junge erwachsene Frau mit langem dunklem gebundenem Haar, braunen Augen und ruhigem ovalem Gesicht.
+Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.
+Persönlichkeit und Vorgeschichte: Wurde unterwegs Gefährtin und ist im Schlussbogen eigenständige Gesprächspartnerin. Ihre Verbindung mit Fogg ist wertvoller als bloßer Gewinn.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Detektiv Fix in England
+Aussehen: Erwachsener Mann mit schmalem Schnurrbart und strengem Gesicht.
+Kleidung: Grauer viktorianischer Mantel, dunkler runder Hut und braune Schuhe. Keine moderne Polizeiausrüstung.
+Persönlichkeit und Vorgeschichte: Hält Fogg aufgrund falschen Verdachts fest. Erkennt den Irrtum durch Nachricht vom wirklichen Täter, bevor er die Freilassung veranlasst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Geistlicher in London
+Aussehen: Älterer Mann mit kurzem grauem Haar, kleinem Bart und Brille.
+Kleidung: Schlichtes schwarzes geistliches Gewand ohne prunkvolle Insignien.
+Persönlichkeit und Vorgeschichte: Gibt Passepartout bei der Hochzeitsfrage die Auskunft über den wirklichen Wochentag. Kein Zeitreisender oder heimlicher Reisebegleiter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Mitglied des wettenden Clubs
+Aussehen: Älterer erwachsener Mann mit grauem kurzem Bart und rundem Gesicht.
+Kleidung: Dunkelgrüner viktorianischer Anzug und helle Weste.
+Persönlichkeit und Vorgeschichte: Wiedererkennbare Vertretung der Wettpartner im Club. War nicht die ganze Reise als weiterer Gefährte dabei.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Was achtzig Tage heißen sollten
+Ort und Zeit: Londoner Club vor der Reise, kurzer Rückblick
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Mitglied des wettenden Clubs
+Bildbeschreibung: Ruhige breite Clubansicht. Fogg links ruhig, Wettpartner rechts mit einer aufliegenden Weltkarte. Keine Ballonzeichnung oder moderne Flugroute. Schrift zu Frist und Weltumrundung später setzen, kein heutiger Flughafen. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links vor der Clubtafel; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossene Taschenuhr links; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mitglied des wettenden Clubs: Ort: rechts an einem Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner viktorianischer Anzug und helle Weste.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Fogg hatte gewettet: In achtzig Tagen um die Welt.
+Dialoge: keine
+Kontinuität / Änderung: Einziger knapper Rückblick. Hauptbogen folgt in England nach der Reise, nicht als vollständige Länderparade. Noch keine Kenntnis vom späteren Kalenderfehler.
+
+KACHEL 2: Die Reise trifft England wieder
+Ort und Zeit: Englischer Hafen nach der Rückkehr
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Passepartout mit der Kalenderentdeckung, Aouda nach der Weltreise, Detektiv Fix in England
+Bildbeschreibung: Weite Hafenansicht mit Dampfschiff im Hintergrund, drei Reisende an Land und Fix am Ausgang. Keine Heißluftballonfahrt und kein Zug direkt auf dem Meer. Ankunft in England, London noch nicht erreicht. Alle gleichen Reisekleider für den folgenden Schluss. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links vor dem Hafenausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: mittig neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: kleine Reisetasche links; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: rechts bei beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Detektiv Fix in England: Ort: rechts vor dem Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer viktorianischer Mantel, dunkler runder Hut und braune Schuhe. Keine moderne Polizeiausrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Verkehrswechsel und Verzögerungen lagen hinter ihnen. Fix wartete noch.
+Dialoge: keine
+Kontinuität / Änderung: Reisevorgeschichte in einem Satz, Fix verfolgte sie unterwegs. Hauptfolge beginnt mit der Rückkehr nach England; drei Reisende, kein neuer Diener als vierte Begleitung.
+
+KACHEL 3: Ein Verdacht hält die Uhr nicht an
+Ort und Zeit: Raum der Haft am englischen Hafen
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Detektiv Fix in England
+Bildbeschreibung: Breite räumliche Ordnung. Fogg links hinter der geschlossenen Hafttür, Fix rechts auf der anderen Seite. Keine gewaltsame Verhaftung in Nahaufnahme und kein bereits freier zweiter Fogg am Bahnhof. Taschenuhr in Foggs Westentasche. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links hinter einer geschlossenen Tür mit Sichtöffnung; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Detektiv Fix in England: Ort: rechts im Vorraum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer viktorianischer Mantel, dunkler runder Hut und braune Schuhe. Keine moderne Polizeiausrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Phileas Fogg im Londoner Schlussbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie halten den Falschen fest.“
+Kontinuität / Änderung: Fix lässt Fogg wegen falschen Verdachts festnehmen. Aouda und Passepartout warten außerhalb, nicht ebenfalls als verurteilte Täter erfinden.
+
+KACHEL 4: Die richtige Nachricht kommt nach dem Schaden
+Ort und Zeit: Vorraum der Haft vor der Entlassung
+Sichtbare Figuren: Detektiv Fix in England, Phileas Fogg im Londoner Schlussbogen
+Bildbeschreibung: Halbnahe auf Fix mit geöffnetem Telegramm oder Brief, Schrift später setzen. Fogg links noch hinter geschlossener Tür. Keine bereits erfolgte Flucht und kein aus der Gefängniswand wachsender Kalender. Die Nachricht trifft zuerst Fix. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links hinter der Sichtöffnung; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Detektiv Fix in England: Ort: rechts vor der noch geschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: eine eingegangene Nachricht in beiden Händen; Kleidung: Grauer viktorianischer Mantel, dunkler runder Hut und braune Schuhe. Keine moderne Polizeiausrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der wirkliche Täter war gefasst. Fix erkannte seinen Irrtum.
+Dialoge: keine
+Kontinuität / Änderung: Erkenntnis des falschen Verdachts ausdrücklich vor der Freilassung. Nachricht enthält keine Erklärung des gewonnenen Reisetags; diese bleibt Passepartouts späterer Entdeckung vorbehalten.
+
+KACHEL 5: Freigelassen ist nicht rechtzeitig angekommen
+Ort und Zeit: Bahnhof nach der Haftentlassung
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Passepartout mit der Kalenderentdeckung, Aouda nach der Weltreise
+Bildbeschreibung: Weite Bahnhofsszene. Drei Reisende bei einer Dampflokomotive, Fogg schaut auf eine Uhr, keine geöffnete Hafttür direkt im Zug. Fix außerhalb des Bildes. Kein vom Bildmodell zu schreibender Fahrplan mit widersprüchlichen Daten. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links auf dem Bahnsteig; Körperhaltung: stehend; Mitgeführte Gegenstände: offene Taschenuhr links; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: mittig mit der Reisetasche; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Reisetasche links; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: rechts neben ihnen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Passepartout mit der Kalenderentdeckung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir müssen nach London.“
+Kontinuität / Änderung: Fix veranlasst nach erkannter Verwechslung die Entlassung. Reisende erreichen erst jetzt die Weiterfahrt. Sie glauben weiterhin ihrer eigenen Tageszählung.
+
+KACHEL 6: Ein falscher Schluss aus richtiger Uhrzeit
+Ort und Zeit: Londoner Bahnhof nach der Weiterfahrt
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Passepartout mit der Kalenderentdeckung, Aouda nach der Weltreise
+Bildbeschreibung: Breite ruhige Ankunft. Fogg links hält inne, Begleiter Mitte und rechts sehen ihn an. Bahnhofsuhr hoch über ihnen, keine magisch rückwärts laufenden Zeiger. Kalenderdatum nicht als falsch gesetzte Wandzahl darstellen. Dämmerung statt gezeichnetem Zeitreiseportal. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links am Bahnsteig; Körperhaltung: stehend; Mitgeführte Gegenstände: Taschenuhr links; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: mittig vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: Reisetasche links; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: rechts bei Fogg; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nach seiner eigenen Zählung war die Frist knapp vorbei.
+Dialog 1:
+  Sprecher: Phileas Fogg im Londoner Schlussbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Verloren.“
+Kontinuität / Änderung: Subjektive Tageszählung führt zum vermeintlichen Fehlschlag. Londoner Ortszeit selbst ist nicht falsch; tatsächliches Kalenderdatum wird später geklärt. Fogg kennt den freien Tag hier ausdrücklich noch nicht.
+
+KACHEL 7: Das Haus nach dem großen Weg
+Ort und Zeit: Foggs Haus in London nach der Rückkehr
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Aouda nach der Weltreise, Passepartout mit der Kalenderentdeckung
+Bildbeschreibung: Ruhige weite Stube. Fogg links niedergeschlagen, Aouda rechts, Passepartout an der Tür. Abgelegte Reisetasche und Uhr sind die Gegenstände des Endes. Keine schon am Tisch jubelnden Wettpartner und kein gewonnenes Geld als heimlich bekannte Lösung. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links im Wohnzimmer; Körperhaltung: sitzend; Mitgeführte Gegenstände: geschlossene Taschenuhr auf dem Tisch; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: mittig an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: abgestellte Reisetasche neben der Tür; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: rechts vor dem Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er zog sich zurück. Für ihn war die Reise gescheitert.
+Dialoge: keine
+Kontinuität / Änderung: Zeit nach der Londoner Ankunft vergeht. Kein Kalenderwissen springt ohne Nachricht zu Fogg; Aouda bleibt eigenständige Gesprächspartnerin.
+
+KACHEL 8: Was trotzdem gewonnen wurde
+Ort und Zeit: Dieselbe Stube beim Gespräch mit Aouda
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Aouda nach der Weltreise
+Bildbeschreibung: Ruhige Augenhöhe zweier erwachsener Menschen. Fogg links ohne Geld oder Uhr in der Hand, Aouda rechts blickt ihn direkt an. Kein Kaufvertrag und kein romantisches Besitzen. Reisekleider, der dunkle Mantel bleibt angezogen. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: rechts gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Aouda nach der Weltreise
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ist wirklich alles verloren?“
+Dialog 2:
+  Sprecher: Phileas Fogg im Londoner Schlussbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nicht, wenn Sie bleiben möchten.“
+Kontinuität / Änderung: Beziehung gewinnt Gewicht unabhängig vom vermeintlich verlorenen Geld. Hochzeit wird danach geplant, nicht durch eine erwiesene Wette als Preis gewonnen.
+
+KACHEL 9: Eine andere Planung führt zur Frage
+Ort und Zeit: Foggs Haus vor Passepartouts Erkundigung
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Aouda nach der Weltreise, Passepartout mit der Kalenderentdeckung
+Bildbeschreibung: Halbtotale. Paar links und Mitte bespricht Zukunft, Passepartout rechts erhält Auftrag. Keine richtige Kalenderzahl schon groß auf Foggs Tisch und keine sichtbar gewonnene Wette. Uhr geschlossen auf dem Tisch, Reisegepäck bleibt zuhause. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links bei Aouda; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: mittig neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Phileas Fogg im Londoner Schlussbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Erkundigen Sie sich nach unserer Hochzeit am Montag.“
+Dialog 2:
+  Sprecher: Passepartout mit der Kalenderentdeckung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich gehe sofort.“
+Kontinuität / Änderung: Passepartout geht wegen der geplanten Hochzeit hinaus. Nach ihrer eigenen Zählung wäre Montag der nächste Tag; gerade diese Annahme führt zur Kalenderauskunft.
+
+KACHEL 10: Ein gewöhnlicher Wochentag
+Ort und Zeit: Londoner Pfarrhaus bei der Erkundigung
+Sichtbare Figuren: Passepartout mit der Kalenderentdeckung, Geistlicher in London
+Bildbeschreibung: Ruhige Halbnahe. Passepartout links fragt, Geistlicher rechts zeigt auf ein schlichtes Kalenderbuch. Beschriftung zu den Wochentagen später setzen. Keine plötzlich sichtbaren Erdgloben als realer Rücksprung der Zeit, kein weiterer Mitreisender im Pfarrhaus. Verbindliche Zustände: Passepartout mit der Kalenderentdeckung: Ort: links vor dem Geistlichen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Geistlicher in London: Ort: rechts an einem kleinen Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Kalenderbuch in der linken Hand; Kleidung: Schlichtes schwarzes geistliches Gewand ohne prunkvolle Insignien.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Passepartout mit der Kalenderentdeckung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Können sie morgen, am Montag, heiraten?“
+Dialog 2:
+  Sprecher: Geistlicher in London
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Morgen ist Sonntag. Heute ist Samstag.“
+Kontinuität / Änderung: Objektiver Londoner Kalender widerspricht ihrer subjektiven Tageszählung. Passepartout erfährt es zuerst, Fogg ist abwesend und weiß noch nichts. Kein absoluter Datumswechsel als Zeitreise.
+
+KACHEL 11: Die Nachricht muss zum richtigen Menschen
+Ort und Zeit: Foggs Wohnzimmer unmittelbar nach der Entdeckung
+Sichtbare Figuren: Passepartout mit der Kalenderentdeckung, Phileas Fogg im Londoner Schlussbogen, Aouda nach der Weltreise
+Bildbeschreibung: Breite Stube wie zuvor. Passepartout rechts gerade eingetroffen, Fogg links steht auf, Aouda Mitte hört mit. Kein Fogg bereits gleichzeitig am Clubtor. Zwei kleine spätere Textkästen können eigene Zählung und Londoner Kalender gegenüberstellen, ohne falsche Uhrzeiten. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links vom Stuhl aufgestanden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: rechts vor Fogg; Körperhaltung: atemlos stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: mittig neben dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Passepartout mit der Kalenderentdeckung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Heute ist Samstag! Durch die Reise nach Osten haben wir einen Tag gewonnen.“
+Dialog 2:
+  Sprecher: Phileas Fogg im Londoner Schlussbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann endet die Frist erst heute.“
+Kontinuität / Änderung: Entdeckung erst jetzt an Fogg übermittelt. Östliche Erdumrundung erklärt Kalenderdifferenz, keine zusätzliche Lebenszeit oder magisch gestoppte Uhr. Die wirkliche Clubfrist besteht fort.
+
+KACHEL 12: Der letzte Weg ist in derselben Stadt
+Ort und Zeit: Londoner Straße vor Ablauf der wirklichen Frist
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Passepartout mit der Kalenderentdeckung
+Bildbeschreibung: Weite dynamische Straßenansicht. Zwei Männer bewegen sich zu Fuß Richtung Club, keine Ballonabkürzung und kein doppelter Fogg als Bewegungsspur. Londoner Laternen, reale Straße. Aouda wartet im Haus außerhalb; keine unbeschriebene dritte Mitläuferin. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links auf dem Weg zum Club; Körperhaltung: schnell gehend; Mitgeführte Gegenstände: Taschenuhr rechts; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: rechts einen Schritt dahinter; Körperhaltung: schnell gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Letzter Wettlauf nach der Zeitkorrektur. Fogg nimmt seine Taschenuhr wieder vom Tisch und geht los. Keine Tageszählung mehr nach dem falschen privaten Kalender.
+
+KACHEL 13: Die Tür öffnet sich rechtzeitig
+Ort und Zeit: Clubsaal beim Eintreffen
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Mitglied des wettenden Clubs
+Bildbeschreibung: Breite Saalansicht. Fogg links eindeutig im Club, Wettpartner rechts sieht zur Tür. Große Uhr nur als klare Fristmarke, genaue Schrift später setzen. Keine noch im Haus sitzende zweite Foggfigur, kein Glücksscheck überdeckt das Gesicht. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links im gerade erreichten Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossene Taschenuhr rechts; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mitglied des wettenden Clubs: Ort: rechts am Tisch; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner viktorianischer Anzug und helle Weste.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er erreichte den Club noch vor Ablauf der Frist.
+Dialog 1:
+  Sprecher: Phileas Fogg im Londoner Schlussbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier bin ich.“
+Kontinuität / Änderung: Wette jetzt wirklich gewonnen. Kein schon zuvor bestätigter Sieg vor Passepartouts Übermittlung. Kein Geld muss im selben Augenblick als neues sichtbares Geschenk in seinen Händen erscheinen.
+
+KACHEL 14: Der wichtigere Gewinn
+Ort und Zeit: Foggs Haus nach dem Clubbesuch
+Sichtbare Figuren: Phileas Fogg im Londoner Schlussbogen, Aouda nach der Weltreise, Passepartout mit der Kalenderentdeckung
+Bildbeschreibung: Ruhige Schlussansicht. Fogg links und Aouda rechts einander zugewandt, Passepartout im Hintergrund gehört zur gemeinsamen Erfahrung. Kein riesiger Geldberg zwischen dem Paar und keine Aouda als Wettgewinn auf einem Podest. Reisegepäck bleibt abgelegt. Verbindliche Zustände: Phileas Fogg im Londoner Schlussbogen: Ort: links neben Aouda; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Taschenuhr wieder in der Westentasche; Kleidung: Dunkelblauer viktorianischer Anzug, graue Weste, weißes Hemd und dunkler Mantel. Eine Taschenuhr. Keine Film-Ballonfahrerkleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Passepartout mit der Kalenderentdeckung: Ort: hinten an der offenen Zimmertür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune viktorianische Jacke, helles Hemd, dunkelrote Halsbinde und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aouda nach der Weltreise: Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Cremefarbenes langes Gewand mit dunkelrotem Saum und warmes braunrotes Schultertuch. Keine moderne Filmkarikatur.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Wette war gewonnen. Doch der wichtigste Gewinn war kein Geld.
+Dialoge: keine
+Kontinuität / Änderung: Rückkehr nach dem erfolgreichen Clubbesuch. Verbindung und Beistand verändern die Rangordnung der Ziele. Geplante Ehe nicht als erzwungenen Preis behandeln, keine angehängte neue Weltreise.

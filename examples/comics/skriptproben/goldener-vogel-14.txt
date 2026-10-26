@@ -1,0 +1,217 @@
+TITEL: Der goldene Vogel – Der Rat des Fuchses
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Jüngster Sohn beim goldenen Vogel
+Aussehen: Junger erwachsener Mann mit kurzem braunem Haar, schmalem Gesicht und wachem Blick.
+Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.
+Persönlichkeit und Vorgeschichte: Bleibt bei den Äpfeln wach. Missachtet zweimal hilfreichen Rat zugunsten der Pracht und muss lernen, den abgestimmten Plan des Fuchses einzuhalten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ratgebender gewöhnlicher Fuchs
+Aussehen: Ein gewöhnlicher rotbrauner Fuchs mit weißer Brust, vier Beinen und einem Schwanz. Keine menschlichen Hände.
+Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.
+Persönlichkeit und Vorgeschichte: Hilft und berät. Bleibt im gewählten Bogen Fuchs; spätere Erlösung und Brüderverrat gehören zu Fortsetzungen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Goldener Vogel im Käfig
+Aussehen: Ein kleiner lebender Vogel mit golden glänzendem Gefieder, zwei Flügeln, zwei Füßen und einem Schwanz. Kein Metallautomat.
+Kleidung: Goldenes Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Stiehlt goldene Äpfel. Nach Verlust einer Feder bleibt derselbe eine Vogel; nicht gleichzeitig in zwei Käfigen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Goldenes Pferd der Beschaffung
+Aussehen: Ein lebendiges Pferd mit golden glänzendem Fell, heller Mähne, genau vier Beinen und einem Schweif. Kein Vogel und kein mechanisches Pferd.
+Kleidung: Zunächst ohne Sattel. Nach falscher Wahl ein prächtiger goldfarbener Sattel mit einem Bauchgurt, später derselbe bei der Flucht.
+Persönlichkeit und Vorgeschichte: Zweites gesuchtes Tier. Besitzt eine feste Sattel- und Übergabegeschichte, kein beiläufiger Wechsel zur gewöhnlichen Fuchsfigur.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königstochter beim Fuchsplan
+Aussehen: Junge erwachsene Frau mit schwarzem langem Zopf und ovalem Gesicht.
+Kleidung: Weinrotes schlichtes Hofkleid und braune Schuhe. Kein Waffen- oder Filmkostüm.
+Persönlichkeit und Vorgeschichte: Wird Teil der Flucht mit dem jüngsten Sohn. Keine zusätzliche Geliebte oder zweite Prinzessin als Ersatz bei Übergaben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König des goldenen Vogels
+Aussehen: Erwachsener Mann mit kurzem schwarzem Bart und strengem Gesicht.
+Kleidung: Dunkelblaues Hofgewand und schlichte Krone.
+Persönlichkeit und Vorgeschichte: Fordert das goldene Pferd als Gegenleistung. Vogel und goldener Käfig stehen bis zum späteren Tausch bei ihm.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König des goldenen Pferdes
+Aussehen: Älterer Mann mit grauem kurzem Bart und breitem Gesicht.
+Kleidung: Braunrotes Hofgewand und schlichte Krone.
+Persönlichkeit und Vorgeschichte: Fordert die Königstochter als Gegenleistung. Gibt danach das eine Pferd heraus; heimliche Rückgewinnung bleibt keine neue Zauberduplikation.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Vater der geholten Königstochter
+Aussehen: Älterer Mann mit langem dunklem graumeliertem Bart.
+Kleidung: Graues Hofgewand und schmaler goldener Reif.
+Persönlichkeit und Vorgeschichte: Herr des dritten Hofs. Nur Hintergrund des Beschaffungsziels, keine zusätzliche Niederlage oder neue Gegenforderung erfinden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Was in der Nacht fehlt
+Ort und Zeit: Garten mit goldenen Äpfeln beim ersten Wachen
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldener Vogel im Käfig
+Bildbeschreibung: Weite Nachtansicht. Jüngster Sohn links wach mit einer einzelnen Feder, ein goldener Vogel rechts fliegt mit einem Apfel davon. Keine Waffe oder Wunde, keine schon im Käfig sitzende zweite Kopie. Goldene Früchte am Baum, normaler dunkler Garten. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links unter dem Apfelbaum; Körperhaltung: stehend; Mitgeführte Gegenstände: eine frisch verlorene goldene Feder links; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldener Vogel im Käfig: Ort: rechts über dem Baum; Körperhaltung: mit einem goldenen Apfel im Schnabel fortfliegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Dem König fehlten goldene Äpfel. Sein jüngster Sohn blieb wach und gewann eine Feder.
+Dialoge: keine
+Kontinuität / Änderung: Ausgangspunkt der Beschaffungsreise. Vogel und Feder zwei verschiedene Dinge, Vogel lebt. Vater des jüngsten Sohnes wird nicht als einer der späteren fremden Könige wiederverwendet.
+
+KACHEL 2: Der erste Rat
+Ort und Zeit: Weg zum Hof des Vogels
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Ratgebender gewöhnlicher Fuchs
+Bildbeschreibung: Halbtotale. Mensch links zu Fuß, gewöhnlicher Fuchs rechts mit vier Beinen. Kein goldener Fuchskörper, kein Vogel schon in der Hand. Zwei Käfigformen nur als kleine ferne Hofgegenstände, nicht als Visionen oder Zauberklone. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links vor dem Fuchs; Körperhaltung: stehend; Mitgeführte Gegenstände: goldene Feder im Reisebeutel; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ratgebender gewöhnlicher Fuchs: Ort: rechts auf einem niedrigen Stein; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ratgebender gewöhnlicher Fuchs
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Lass den Vogel im schlichten Käfig. Fass den goldenen nicht an.“
+Kontinuität / Änderung: König verlangt inzwischen den Vogel, Sohn reist. Rat vor jeder falschen Käfigwahl. Fuchs bleibt draußen, kein gleichzeitig im Käfig gehaltener zusätzlicher Tierhelfer.
+
+KACHEL 3: Die glänzende falsche Wahl
+Ort und Zeit: Vogelraum im ersten fremden Hof vor dem Alarm
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldener Vogel im Käfig
+Bildbeschreibung: Breite klare Raumordnung. Rechts ein schlichtes Holzgehäuse mit genau einem Vogel, links daneben ein prächtiger noch leerer goldener Käfig. Sohn öffnet den goldenen. Keine Alarmwache im Raum und kein Vogel bereits in beiden Käfigen. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links zwischen zwei Käfigen; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand öffnet den leeren goldenen Käfig; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldener Vogel im Käfig: Ort: rechts im schlichten Holzkäfig; Körperhaltung: auf zwei Füßen auf einer Stange sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Jüngster Sohn beim goldenen Vogel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Für so einen Vogel ist der schönere doch passender.“
+Kontinuität / Änderung: Falsche Entscheidung ausdrücklich vor dem Alarm. Vogel noch im schlichten Käfig. Keine magische selbsttätige Teilung zwischen zwei Käfigen.
+
+KACHEL 4: Der Preis des Alarms
+Ort und Zeit: Derselbe Hof nach dem Umsetzen des Vogels
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, König des goldenen Vogels, Goldener Vogel im Käfig
+Bildbeschreibung: Halbtotale. Vogel nun genau einmal im goldenen Käfig Mitte, schlichter Käfig leer hinten. König rechts hat den ertappten Sohn links stellen lassen, keine Körperverletzung. Goldener Käfig steht fest bei ihm, nicht zugleich in Heldenhand. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links vor dem fremden König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldener Vogel im Käfig: Ort: mittig im goldenen Käfig; Körperhaltung: auf einer Stange sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des goldenen Vogels: Ort: rechts neben dem goldenen Käfig; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Alarm brachte die nächste Forderung.
+Dialog 1:
+  Sprecher: König des goldenen Vogels
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bring mir das goldene Pferd. Dann bekommst du den Vogel.“
+Kontinuität / Änderung: Umsetzen löste Alarm aus, jetzt Folge. Besitz: Vogel und goldener Käfig beim ersten fremden König. Held wird zur neuen Aufgabe freigegeben, kein schon abgeschlossener Erfolg.
+
+KACHEL 5: Der zweite Rat
+Ort und Zeit: Weg zum Hof des Pferdes
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Ratgebender gewöhnlicher Fuchs
+Bildbeschreibung: Weite Wegansicht. Sohn und Fuchs auf dem Boden, kein Vogelkäfig als bereits gewonnene Last und kein Pferd schon als Reittier. Fuchs spricht beim Gehen, Mensch bleibt zu Fuß. Neue Hofmauer fern im Hintergrund. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ratgebender gewöhnlicher Fuchs: Ort: rechts neben ihm; Körperhaltung: auf vier Pfoten gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ratgebender gewöhnlicher Fuchs
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nimm den einfachen Sattel. Lass den prächtigen hängen.“
+Kontinuität / Änderung: Zweiter Rat vor der Sattelwahl. Beide noch ohne Pferd, Käfig weiterhin am ersten Hof. Keine ungeschilderte erste Heimkehr.
+
+KACHEL 6: Dieselbe Versuchung in anderer Form
+Ort und Zeit: Stall des goldenen Pferdes vor dem Alarm
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldenes Pferd der Beschaffung
+Bildbeschreibung: Breite Stallansicht. Ein golden glänzendes lebendiges Pferd rechts noch ohne Sattel. Sohn links hebt den prächtigen vom Haken, einfacher Sattel bleibt unbenutzt hinten hängen. Kein bereits alarmierender König in derselben Szene. Genau ein Pferd mit vier Beinen. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links neben dem Pferd; Körperhaltung: stehend; Mitgeführte Gegenstände: prächtiger goldfarbener Sattel in beiden Händen; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: rechts im Stall; Körperhaltung: auf vier Hufen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ohne Sattel und Reiter; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Zweite falsche Wahl vor ihrem Ergebnis. Sattel noch in den Händen, nicht zugleich fest auf dem Rücken. Keine Kraft- oder Flugverwandlung des Pferdes.
+
+KACHEL 7: Noch eine Forderung
+Ort und Zeit: Stall nach dem Anlegen des prächtigen Sattels
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, König des goldenen Pferdes, Goldenes Pferd der Beschaffung
+Bildbeschreibung: Halbtotale. Pferd Mitte mit dem nun angelegten einen goldfarbenen Sattel, Sohn links auf dem Boden, König rechts. Keine zweite Satteldecke an einem anderen Tier. Reaktion nach dem Alarm, keine bereits sitzende Prinzessin im Sattel. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links vor dem Pferdekönig; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: mittig im Stall; Körperhaltung: auf vier Hufen stehend, Sattel leer; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des goldenen Pferdes: Ort: rechts beim Pferd; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunrotes Hofgewand und schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Wieder hatte der Glanz den Rat verdrängt.
+Dialog 1:
+  Sprecher: König des goldenen Pferdes
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bring mir die Königstochter. Dann gebe ich dir das Pferd.“
+Kontinuität / Änderung: Nach dem Aufsatteln Alarm und neue Aufgabe. Pferd mit prächtigem Sattel bleibt am zweiten Hof. Sohn noch zu Fuß, Vogel weiterhin am ersten.
+
+KACHEL 8: Nicht noch einmal allein entscheiden
+Ort und Zeit: Ausgang am Hof der Königstochter
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Königstochter beim Fuchsplan, Ratgebender gewöhnlicher Fuchs
+Bildbeschreibung: Breite ruhige Auswegansicht. Sohn links und junge Frau Mitte gehen zu Fuß, Fuchs rechts zeigt die sichere Richtung durch Haltung. Keine entführte gefesselte Frau und keine zweite Prinzessin als Ersatzpuppe. Vater dieser Frau bleibt im Hof außerhalb. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links vor der Königstochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ratgebender gewöhnlicher Fuchs: Ort: rechts am Weg; Körperhaltung: auf vier Pfoten wartend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Fuchsplan: Ort: mittig am offenen Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes schlichtes Hofkleid und braune Schuhe. Kein Waffen- oder Filmkostüm.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königstochter beim Fuchsplan
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich komme mit.“
+Dialog 2:
+  Sprecher: Ratgebender gewöhnlicher Fuchs
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt braucht es einen Plan, keinen schöneren Einfall.“
+Kontinuität / Änderung: Fuchs hilft beim Holen, Begegnung und Ausweg frei verdichtet. Keine zusätzliche fehlgeschlagene dritte Nebenaufgabe. Frau bleibt dieselbe über alle folgenden Übergaben.
+
+KACHEL 9: Ein Tausch, der noch kein Ende ist
+Ort und Zeit: Hof des goldenen Pferdes beim vereinbarten Austausch
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldenes Pferd der Beschaffung, Königstochter beim Fuchsplan, König des goldenen Pferdes
+Bildbeschreibung: Breite Hofansicht. Pferd samt goldfarbenem Sattel nun links beim Sohn, Königstochter rechts beim König. Beide Menschen auf dem Boden, kein zweites Pferd am Stalltor. Zügel eindeutig beim Sohn, Vogel weiterhin nicht hier. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links beim übergebenen Pferd; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel in der linken Hand; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: links neben dem Sohn; Körperhaltung: auf vier Hufen stehend, Sattel leer; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Fuchsplan: Ort: rechts neben dem Pferdekönig; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes schlichtes Hofkleid und braune Schuhe. Kein Waffen- oder Filmkostüm.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des goldenen Pferdes: Ort: rechts vor dem Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunrotes Hofgewand und schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Jüngster Sohn beim goldenen Vogel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Lass mich mich von ihr verabschieden.“
+Kontinuität / Änderung: Pferdekönig hat das Pferd gegen die erschienene Königstochter freigegeben. Bitte um Abschied bereitet ihre Rückgewinnung vor. Keine gleichzeitig bereits zurückgeführte Frau auf dem Pferd.
+
+KACHEL 10: Der vereinbarte Abschied wird zur Flucht
+Ort und Zeit: Weg vom Pferdehof nach dem Abschied
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Königstochter beim Fuchsplan, Goldenes Pferd der Beschaffung, Ratgebender gewöhnlicher Fuchs
+Bildbeschreibung: Weite Seitenansicht. Ein Pferd, zwei Erwachsene hintereinander auf demselben Sattelbereich, Fuchs am Boden. Sohn vorn führt, Frau hinten hat selbst Platz genommen. Kein zweiter am Hof zurückgebliebener Frauenkörper. Noch kein Vogelkäfig. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links im Sattel des goldenen Pferdes; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: das eine goldene Pferd, vierbeinig. Ratgebender gewöhnlicher Fuchs: Ort: rechts am Wegrand; Körperhaltung: auf vier Pfoten mitlaufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: mittig auf dem Weg; Körperhaltung: auf vier Beinen laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Fuchsplan: Ort: hinter ihm auf demselben Pferd; Körperhaltung: hinter dem Reiter sitzend; Mitgeführte Gegenstände: Hände am Sattelrand; Kleidung: Weinrotes schlichtes Hofkleid und braune Schuhe. Kein Waffen- oder Filmkostüm.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit dem Fuchsplan gewann er sie zurück.
+Dialoge: keine
+Kontinuität / Änderung: Beim gewährten Abschied steigt der Sohn auf, die Frau steigt selbst hinter ihn, sie fliehen. Alle Wechsel zwischen Boden und Sattel ausdrücklich vor diesem Bild. Fuchs führt sie zum nächsten Tausch, nicht schon nach Hause.
+
+KACHEL 11: Das Pferd gegen den Vogel
+Ort und Zeit: Hof des goldenen Vogels beim zweiten Tausch
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldener Vogel im Käfig, König des goldenen Vogels, Goldenes Pferd der Beschaffung
+Bildbeschreibung: Breite Hofansicht. Sohn links zu Fuß mit dem einen Käfig samt Vogel, König rechts führt das übergebene eine Pferd. Goldsattel weiter am Pferd. Königstochter und Fuchs warten verborgen außerhalb, keine zweite Frau im Tausch. Keine gleichzeitigen Zügel in Königs- und Heldenhand. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links vor dem Vogelkönig; Körperhaltung: stehend; Mitgeführte Gegenstände: ein goldener Käfig in beiden Händen; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldener Vogel im Käfig: Ort: im Käfig des Sohnes; Körperhaltung: auf zwei Füßen sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: rechts neben dem König; Körperhaltung: auf vier Hufen stehend, Sattel leer; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des goldenen Vogels: Ort: rechts beim goldenen Pferd; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel in der rechten Hand; Kleidung: Dunkelblaues Hofgewand und schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Jüngster Sohn beim goldenen Vogel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Lass mich es noch einmal reiten.“
+Kontinuität / Änderung: Sohn und Frau steigen zuvor ab; Frau bleibt mit dem Fuchs verborgen. Gegen Pferd werden Vogel und Käfig herausgegeben. Letzter erlaubter Ritt als freie knappe Tauschkonkretisierung, keine magischen Doppelgänger.
+
+KACHEL 12: Ein zweiter Abschied mit Ziel
+Ort und Zeit: Weg vom Vogelhof nach dem letzten Ritt
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldener Vogel im Käfig, Goldenes Pferd der Beschaffung
+Bildbeschreibung: Weite Reitansicht. Sohn auf demselben Pferd, ein Käfig links mit einem Vogel, Zügel rechts. Zwei menschliche Arme, kein zusätzliches Paar zum Tragen. Vogelkönig außerhalb zurück, Königstochter noch am verabredeten Warteplatz. Kein zweiter Vogel auf dem Pferdekopf. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links auf dem goldenen Pferd; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel rechts; goldener Käfig links; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: das eine goldene Pferd, vierbeinig. Goldener Vogel im Käfig: Ort: im goldenen Käfig in des Sohnes linker Hand; Körperhaltung: auf zwei Füßen sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: mittig auf dem Weg; Körperhaltung: auf vier Beinen laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Sohn steigt für den gewährten Ritt auf und entkommt nun mit Pferd und Käfig. Abgestimmte Rückgewinnung statt vervielfachter Tauschgaben. Er reitet zum Fuchs und zur wartenden Frau zurück.
+
+KACHEL 13: Alle Gaben sind wieder zusammen
+Ort und Zeit: Verabredeter Warteplatz beim Fuchs
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Goldener Vogel im Käfig, Goldenes Pferd der Beschaffung, Königstochter beim Fuchsplan, Ratgebender gewöhnlicher Fuchs
+Bildbeschreibung: Breite klare Gruppenansicht. Ein Pferd mit zwei Menschen, Käfig beim vorderen Reiter, ein Vogel darin und ein gewöhnlicher Fuchs am Boden. Keine Tochter mehr gleichzeitig am Hof. Die Frau ist vor dem gezeigten Moment selbst über den Bügel hinter den Reiter gestiegen; keine dritte helfende Hand. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links im Sattel; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel rechts; goldener Käfig links; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: das eine goldene Pferd, vierbeinig. Ratgebender gewöhnlicher Fuchs: Ort: rechts am Boden; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldener Vogel im Käfig: Ort: im linken Käfig; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: mittig auf dem Weg; Körperhaltung: auf vier Hufen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Fuchsplan: Ort: hinten auf demselben Pferd; Körperhaltung: hinter dem Reiter sitzend; Mitgeführte Gegenstände: beide Hände am Sattelrand; Kleidung: Weinrotes schlichtes Hofkleid und braune Schuhe. Kein Waffen- oder Filmkostüm.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ratgebender gewöhnlicher Fuchs
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Diesmal hast du zugehört.“
+Kontinuität / Änderung: Alle wieder zusammen, ohne dass der Sohn während des Gesprächs stillschweigend absteigt. Sattel bleibt derselbe prächtige. Fuchs noch nicht erlöst, kein zurückgekehrter Bruder in der Gruppe.
+
+KACHEL 14: Ein Aufbruch, noch keine Heimkehr
+Ort und Zeit: Offener Weg Richtung Heimat
+Sichtbare Figuren: Jüngster Sohn beim goldenen Vogel, Königstochter beim Fuchsplan, Goldenes Pferd der Beschaffung, Goldener Vogel im Käfig, Ratgebender gewöhnlicher Fuchs
+Bildbeschreibung: Weite Rückenansicht von einer Reisegruppe: zwei Menschen auf einem Pferd, ein Vogel in einem Käfig und ein Fuchs daneben. Kein Vater vor einem Heimatschloss, keine Brüderfalle und kein menschlich erlöster Fuchs. Goldglanz bleibt an Vogel, Pferd und Käfig, nicht am Fuchs. Verbindliche Zustände: Jüngster Sohn beim goldenen Vogel: Ort: links auf dem Pferd; Körperhaltung: im Sattel reisend; Mitgeführte Gegenstände: Zügel rechts; ein goldener Käfig links; Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Keine Waffe. Später genau ein Käfig mit einem Vogel.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: das eine goldene Pferd, vierbeinig. Ratgebender gewöhnlicher Fuchs: Ort: rechts am Weg; Körperhaltung: auf vier Pfoten gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches rotbraunes Fell, keine goldene Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldener Vogel im Käfig: Ort: im Käfig links beim Sohn; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Goldenes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Goldenes Pferd der Beschaffung: Ort: mittig auf dem Weg; Körperhaltung: auf vier Beinen gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein prächtiger goldfarbener Sattel mit genau einem Bauchgurt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Fuchsplan: Ort: hinter dem Sohn auf demselben Pferd; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes schlichtes Hofkleid und braune Schuhe. Kein Waffen- oder Filmkostüm.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Heimweg begann. Nicht der Glanz hatte sie zusammengebracht, sondern bewährter Rat.
+Dialoge: keine
+Kontinuität / Änderung: Ende des Beschaffungsbogens beim gemeinsamen Aufbruch. Keine erfolgreiche Heimkehr oder späterer Verrat. Jeder Besitz genau einmal und bei seinem benannten Träger.
