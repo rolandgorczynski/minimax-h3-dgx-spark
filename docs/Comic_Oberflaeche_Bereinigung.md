@@ -119,3 +119,7 @@ Der vollständige Löschbutton steht unten direkt neben „Comic auswählen“ u
 ### Ältere Comics ohne gespeichertes Skript löschen
 
 Der vollständige Löschbutton ist auch bei älteren Ausgaben ohne `story_id` verfügbar. Der Server ermittelt deren Familie über `parent_job` beziehungsweise eine verwaiste technische Geschichten-ID. Gleiche Titel führen niemals zum Zusammenfassen. Eigenständige importierte Geschichten mit gültiger Skript-Verknüpfung bleiben getrennt. Vor dem Löschen werden die betroffenen Ausgaben ermittelt und ihre Anzahl bestätigt. Eine inzwischen geänderte Ausgabenliste oder ein laufender zugehöriger Auftrag verhindert die Löschung. Bei diesen Altbeständen gibt es kein separates gespeichertes Skript zu entfernen.
+
+### Löschung neben der Auswahl betrifft nur eine Fassung
+
+Der sichtbare Löschbutton neben „Comic auswählen“ heißt jetzt „Diese Fassung löschen“ und verwendet ausschließlich die Einzel-Ausgabenlöschung. Er entfernt die ausgewählte Fassung und deren eigene Dateien. Skript und sämtliche anderen Fassungen bleiben erhalten. Die Bestätigung nennt Titel und kurze Ausgaben-ID. Die Gesamtlöschung einer Geschichte ist in dieser Oberfläche nicht mehr verfügbar. Bereits erfolgte Löschungen werden durch diese Änderung nicht wiederhergestellt.

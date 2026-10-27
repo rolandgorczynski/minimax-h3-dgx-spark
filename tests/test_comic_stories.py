@@ -94,6 +94,20 @@ class StoriesTests(unittest.TestCase):
         self.assertIsNotNone(self.store.get(outsider));self.assertTrue((self.store.directory(outsider)/'behalten.txt').exists())
         self.assertIsNone(self.store.get(j['id']))
 
+    def test_single_output_deletion_preserves_script_and_all_other_versions(self):
+        story=self.stories.save(definition());ids=[uuid.uuid4().hex for _ in range(3)]
+        for index,ident in enumerate(ids):
+            self.store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
+            self.store.update(ident,status='completed',story_id=story['id'],parent_job=ids[0] if index else None)
+            self.store.write(ident,'comic.png',b'eigene Ausgabe')
+        self.stories.delete_job(ids[1])
+        self.assertIsNone(self.store.get(ids[1]))
+        self.assertFalse((self.store.root/'jobs'/ids[1]).exists())
+        self.assertEqual(self.stories.get(story['id']),story)
+        for ident in (ids[0],ids[2]):
+            self.assertIsNotNone(self.store.get(ident))
+            self.assertEqual((self.store.root/'jobs'/ident/'comic.png').read_bytes(),b'eigene Ausgabe')
+
     def test_legacy_family_deletes_by_ancestry_not_title_and_preserves_imports(self):
         def output(parent=None,story_id=None,status='completed'):
             ident=uuid.uuid4().hex;self.store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
