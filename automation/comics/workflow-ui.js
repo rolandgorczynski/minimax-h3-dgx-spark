@@ -1,5 +1,49 @@
 /* Vier getrennte Arbeitsschritte; Navigation verändert keine gespeicherten Daten. */
 let workflowInstalled=false,workflowStep='script',workflowOutput=null;
+let outputProcessingJob=null,outputProcessingKey='',outputProcessingPolling=false;
+function outputProcessingSteps(job){
+ if(job.lettering_mode)return ['Beschriftung setzen','Ausgabe bereitstellen'];
+ if(job.panel_correction_mode)return ['Bildkorrektur vorbereiten','Betroffene Kachel neu zeichnen','Bildlogik prüfen','Ausgabe bereitstellen'];
+ return ['Skript und Vorgaben prüfen','Figuren und Referenzen vorbereiten','Comicbilder und Beschriftung generieren','Bildlogik und Ergebnis prüfen','Ausgabe bereitstellen'];
+}
+function outputStageIndex(job,stage){
+ if(job.lettering_mode)return stage==='finished'?1:0;
+ if(job.panel_correction_mode)return stage==='finished'?3:/equipment|review|check/.test(stage)?2:/rendering|reuse/.test(stage)?1:0;
+ if(stage==='finished')return 4;
+ if(/equipment|visual_review|editorial_review|self_reflection|experiment_check/.test(stage))return 3;
+ if(/rendering|lettering|feedback_reuse|experiment_repair/.test(stage))return 2;
+ if(/characters|character_references|scene_planning|scene_review|german_panel|feedback_scenes/.test(stage))return 1;
+ return 0;
+}
+function drawOutputProcessing(job){
+ outputProcessingJob=job;const box=$('output-progress');if(!box)return;box.hidden=!job;
+ if(!job){outputProcessingKey='';return}
+ const active=['queued','running'].includes(job.status),failed=job.status==='failed',done=['completed','needs_review'].includes(job.status);
+ const steps=outputProcessingSteps(job),events=job.events||[];
+ const stage=failed?[...events].reverse().find(e=>!['failed','queued'].includes(e.stage))?.stage||job.stage:job.stage;
+ const index=done?steps.length-1:outputStageIndex(job,stage||'');
+ const key=job.id+':'+job.status;if(key!==outputProcessingKey){box.open=active||failed;outputProcessingKey=key}
+ $('output-phase').textContent=job.status==='queued'?'Comic-Auftrag wartet':failed?'Verarbeitung unterbrochen':job.status==='needs_review'?'Ausgabe bereit · Sichtprüfung offen':done?'Ausgabe fertig':(stageNames[job.stage]||steps[index]);
+ $('output-detail').textContent=failed?(job.error||'Der Auftrag konnte nicht abgeschlossen werden.'):job.status==='queued'?'Der Auftrag startet, sobald die lokale Verarbeitung frei ist.':active?(stageNames[job.stage]||steps[index])+(Number.isSafeInteger(job.rendered_panels)&&job.total_panels?' · '+job.rendered_panels+' / '+job.total_panels+' Kacheln übernommen.':''):job.status==='needs_review'?'Der Comic ist verfügbar. Bilder und Texte können jetzt geprüft und bearbeitet werden.':'Die gespeicherte Ausgabe steht unten zum Bearbeiten und Veröffentlichen bereit.';
+ $('output-meter').max=steps.length;$('output-meter').value=done?steps.length:job.status==='queued'?0:index;
+ $('output-steps').replaceChildren(...steps.map((text,i)=>{const li=document.createElement('li');const finished=done||i<index;li.className=finished?'done':i===index&&job.status!=='queued'?'active':'';if(li.className==='active')li.setAttribute('aria-current','step');li.textContent=(finished?'✓ ':i===index&&failed?'! ':'')+text;return li}));
+ updateOutputClock();
+}
+function updateOutputClock(){
+ const job=outputProcessingJob;if(!job)return;
+ const start=Date.parse(job.created_at),end=['queued','running'].includes(job.status)?Date.now():Date.parse(job.updated_at);
+ if(!Number.isFinite(start)||!Number.isFinite(end)){$('output-time').textContent='';return}
+ const event=[...(job.events||[])].reverse().find(e=>e.stage===job.stage),phase=Date.parse(event?.at||job.updated_at);
+ $('output-time').textContent='Gesamtzeit: '+elapsedText((end-start)/1000)+(['queued','running'].includes(job.status)&&Number.isFinite(phase)?' · Aktueller Schritt: '+elapsedText((end-phase)/1000):'');
+}
+async function pollOutputProcessing(){
+ const current=jobs.find(j=>j.id===selected);
+ if(outputProcessingPolling||workflowStep!=='edit'||!current||!['queued','running'].includes(current.status))return;
+ outputProcessingPolling=true;const id=current.id;
+ try{const job=await(await api('/jobs/'+id)).json();if(selected!==id)return;const index=jobs.findIndex(j=>j.id===id);if(index>=0)jobs[index]=job;drawOutputProcessing(job);if(!['queued','running'].includes(job.status))await list()}
+ catch(e){if(selected===id)$('output-detail').textContent='Status konnte nicht aktualisiert werden: '+e.message}
+ finally{outputProcessingPolling=false}
+}
 function showWorkflowStep(step){
  if(!['script','render','edit','publish'].includes(step))return;
  workflowStep=step;if(step==='publish')loadPublishProfiles();
@@ -72,7 +116,7 @@ function updateWorkflowState(){
  updateWorkflowOutput(workflowOutput);
 }
 function updateWorkflowOutput(job){
- workflowOutput=job;
+ workflowOutput=job;drawOutputProcessing(job);
  $('delete-story').disabled=!job?.story_id||!definitions.some(d=>d.id===job.story_id)||jobs.some(j=>j.story_id===job.story_id&&['queued','running'].includes(j.status));
  const area=$('workflow-publish-summary');if(!area)return;
  const title=$('title')?.textContent||job?.story_title||'Comic';
@@ -162,16 +206,24 @@ function installWorkflowUI(){
  $('workflow-own-slot').append($('verwaltung'));$('workflow-source-slot').append(source);$('workflow-series-slot').append(series);
  $('workflow-story-selection').append($('story-selection'));
  $('story-list').closest('.row').insertBefore($('script-count-label'),$('resume-story-row'));
- $('output-selection').append($('delete-story'));
+
  $('advanced').hidden=true;
  $('workflow-visual-settings').append($('render-style-controls'),$('page-template-picker'));
  $('workflow-character-settings').append($('character-design-controls'));
  $('render-actions').prepend($('style-library-open'),$('generate-portraits'));
  $('workflow-output-selection').append($('output-selection'));
- $('workflow-output-content').append($('output-editor'));
+ const output=$('output-editor');output.querySelector('h3').textContent='Ausgabe bearbeiten';
+ $('workflow-output-selection').prepend(output);
+ $('workflow-output-content').append($('title'),$('output-progress'),$('comic-page-nav'),$('comic'));
+ const actions=document.createElement('div');actions.id='edit-output-actions';actions.className='row';
+ actions.append($('lettering-edit'),$('experiment-open'),$('reader-open'),$('improve'),$('delete-output'),$('delete-story'));
+ output.querySelector('h3').after(actions);
+ output.append($('output-selection'));
+ $('story-state').hidden=true;
+
  for(const id of ['bundle','pdf','substack-share','x-share','telegram-share'])$('workflow-share-actions').append($(id));
  $('workflow-book-export').append($('book-exporter'));
- $('workflow-feedback').append($('next').closest('details'));
+ $('workflow-feedback').append($('next').closest('details'));$('workflow-feedback').hidden=true;
  for(const id of ['comment','learning-status'])$('workflow-feedback').append($(id).closest('section'));
  for(const button of document.querySelectorAll('[data-workflow-step]'))button.onclick=()=>showWorkflowStep(button.dataset.workflowStep);
  for(const button of document.querySelectorAll('[data-script-input]'))button.onclick=()=>showWorkflowInput(button.dataset.scriptInput);
@@ -192,6 +244,7 @@ function installWorkflowUI(){
  $('new').addEventListener('click',()=>{if(!definitionId&&!dirty)showWorkflowInput('own')});
  $('story-list').addEventListener('change',()=>showWorkflowInput('own'));
  $('output-show-history').onchange=()=>{renderOutputSelection();updateOutputHistory(jobs.find(j=>j.id===selected))};
+ setInterval(pollOutputProcessing,2500);
  installPublishProfiles();workflowInstalled=true;showWorkflowInput('own');
 }
 document.addEventListener('DOMContentLoaded',installWorkflowUI);

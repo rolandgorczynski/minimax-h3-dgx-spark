@@ -99,3 +99,11 @@ Sind bereits alle Figurenbilder vorhanden, bleibt der Figurenbutton aktiv und he
 Beim Bestätigen eines Bibliothekstauschs muss ein Bildstil gewählt sein. Die Figurenauswahl schließt sich, das Profil wird übernommen und das erste Referenzfoto wird mit FLUX als Bildreferenz im gewählten Comicstil neu gezeichnet. Das Ergebnis ersetzt das Foto in der privaten Geschichtenkopie und wird automatisch gesichert. Die Bibliotheksdatei und die erste gesicherte Ursprungsfigur werden nicht verändert. Die Umwandlung erfindet keine neue Beschreibung, Biografie oder Gesinnung. Ohne Foto wird die bestehende Beschreibung verwendet.
 
 Der Porträtknoten unterstützt dafür ein optionales Referenzbild; gespeicherte ComfyUI-Workflows werden nicht verändert. Auch „Figuren neu generieren“ nutzt vorhandene Bilder als Identitätsreferenz. Bei Fehlern bleibt das übernommene Profil gesichert; bei zwischenzeitlichen Bearbeitungen wird das Ergebnis nicht über die Änderungen geschrieben.
+
+### Bearbeiten: Ausgabe oben, Werkzeuge darunter
+
+Schritt 3 ist in zwei Bereiche gegliedert. Oben stehen Titel, Verarbeitungsanzeige, Seitenwechsel und Comicbild der ausgewählten Ausgabe. Direkt darunter folgen die Aktionen für diese Ausgabe einschließlich Einzel- und Gesamtlöschung sowie Auswahl und Fassungsverlauf.
+
+Die Verarbeitungsanzeige zeigt die echten Auftragsphasen, eine Schrittliste, Gesamtzeit und Zeit im aktuellen Schritt. Bei vorhandenen Zählerdaten wird der Kachelfortschritt angezeigt. Laufende Aufträge werden in diesem Bereich alle 2,5 Sekunden abgefragt. Fehler bleiben als Unterbrechung sichtbar; eine fertige Ausgabe zeigt eine zugeklappte Abschlussanzeige. Zeitangaben sind Laufzeiten, keine Fertigstellungsprognosen.
+
+Die Blöcke „Prüfhinweise“, „Andere Geschichte erzeugen“, „Optionales Feedback“ und „Automatische Erfahrungen“ sowie der doppelte Stil-/Kachelhinweis zur Verbesserung werden nicht mehr angezeigt. Die bisherige automatische Erfahrungsanzeige wird nicht mehr regelmäßig abgefragt. Gespeicherte Bewertungen und serverseitige Prüfungen bleiben erhalten; konkrete Beschriftungs- und Bildwarnungen mit direktem Sprung in den Editor bleiben sichtbar.
