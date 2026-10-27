@@ -175,9 +175,8 @@ function installWorkflowUI(){
  $('script-to-render').onclick=async()=>{try{if(needsPlan())throw Error('Skript zuerst aktualisieren.');if(dirty||!definitionId)await saveDefinition();showWorkflowStep('render')}catch(e){error(e)}};
  $('render-show-unfinished').onchange=updateWorkflowState;
  $('render-story-list').onchange=async()=>{const id=$('render-story-list').value;if(!id)return;if(dirty&&!confirm('Ungespeicherte Änderungen verwerfen?')){$('render-story-list').value=definitionId;return}try{fillDefinition(await(await api('/stories/'+id)).json());showWorkflowStep('render')}catch(e){error(e)}};
- $('render-back-to-script').onclick=()=>showWorkflowInput('own');
  $('edit-to-publish').onclick=()=>showWorkflowStep('publish');$('publish-back-to-edit').onclick=()=>showWorkflowStep('edit');
- $('render-save').onclick=async()=>{try{await saveDefinition();message('Gestaltung gespeichert. Kein Comic-Lauf gestartet.')}catch(e){error(e)}};
+ $('render-save').onclick=async()=>{try{await saveDefinition();message('Änderungen gesichert.')}catch(e){error(e)}};
  $('render-comic').onclick=async()=>{
   if(needsPlan()||planningJob){showWorkflowInput('own');message('Skript zuerst in Schritt 1 fertigstellen.');return}
   if(!$('style').value){message('Zuerst einen Bildstil wählen.');return}
