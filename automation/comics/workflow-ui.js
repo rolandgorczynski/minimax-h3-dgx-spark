@@ -64,7 +64,8 @@ function updateWorkflowState(){
  $('count-replan').disabled=$('editor-mode').value!=='editorial'||!!planningJob||!changed||!valid;
  $('count-change-hint').textContent=changed&&valid?'Kachelanzahl geändert: '+previous+' → '+current+'. Skript neu erstellen, bevor du Bilder erzeugst. Bestehende Comics bleiben erhalten.':'';
  $('script-to-render').disabled=!ready;
- $('render-comic').disabled=!ready||!$('style').value;
+ $('render-comic').disabled=!ready||!$('style').value||storyPortraitBusy;
+ $('render-save').disabled=storyPortraitBusy;$('style').disabled=storyPortraitBusy;$('render-story-list').disabled=storyPortraitBusy;updatePortraitButton();
  $('workflow-render-summary').textContent=($('story-name').value||'Noch kein Skript gewählt')+' · '+$('count').value+' Kacheln · '+(planningJob?'Skript wird erstellt':ready?'Skript bereit':'Skript zuerst in Schritt 1 erstellen oder aktualisieren');
  $('workflow-render-status').textContent=ready?(!$('style').value?'Bildstil auswählen. Danach kannst du den Comic erzeugen.':'Stil und Seitenvorlage gelten für die nächste Ausgabe. Vorhandene Comics bleiben erhalten.'):'Hier werden keine neuen Szenen geplant. Bitte zuerst das Skript in Schritt 1 fertigstellen.';
  updateWorkflowOutput(workflowOutput);
@@ -176,6 +177,7 @@ function installWorkflowUI(){
  $('render-show-unfinished').onchange=updateWorkflowState;
  $('render-story-list').onchange=async()=>{const id=$('render-story-list').value;if(!id)return;if(dirty&&!confirm('Ungespeicherte Änderungen verwerfen?')){$('render-story-list').value=definitionId;return}try{fillDefinition(await(await api('/stories/'+id)).json());showWorkflowStep('render')}catch(e){error(e)}};
  $('edit-to-publish').onclick=()=>showWorkflowStep('publish');$('publish-back-to-edit').onclick=()=>showWorkflowStep('edit');
+ $('generate-portraits').onclick=generateStoryPortraits;
  $('render-save').onclick=async()=>{try{await saveDefinition();message('Änderungen gesichert.')}catch(e){error(e)}};
  $('render-comic').onclick=async()=>{
   if(needsPlan()||planningJob){showWorkflowInput('own');message('Skript zuerst in Schritt 1 fertigstellen.');return}

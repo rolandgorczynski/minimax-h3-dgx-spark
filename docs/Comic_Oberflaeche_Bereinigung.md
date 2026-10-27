@@ -79,3 +79,11 @@ Geprüft: 215 Python-Tests (einer übersprungen), Dashboard-Browsertest einschli
 Im ersten Schritt gibt es keinen Löschbutton mehr. Vorhandene Szenen werden über „Skript neu erstellen“ ersetzt. In Schritt 3 steht „Geschichte und alle Comics löschen“. Diese Aktion löscht weiterhin die gespeicherte Geschichte samt zugehörigen Ausgaben und fragt unter Nennung des Titels nach. Sie bezieht sich auf die Geschichte der ausgewählten Comic-Ausgabe, unabhängig vom in Schritt 1 geöffneten Skript. Bei laufenden zugehörigen Aufträgen ist sie gesperrt. „Diese Ausgabe löschen“ entfernt weiterhin nur die einzelne Ausgabe. Eine Funktion zum isolierten Löschen des Szenenplans wurde nicht eingeführt.
 
 Der Wiederaufnahme-Button steht mit zusätzlichem Abstand in einer eigenen Zeile. Der Navigationseinstieg „Eigener Text“ wurde entfernt; die Texteingabe bleibt über „Neue Geschichte“ und die Auswahl gespeicherter Geschichten erreichbar.
+
+### Figurenbilder vor der Comic-Generierung
+
+In Schritt 2 gibt es „Figuren generieren“. Nach der Stilwahl erstellt der Button nacheinander nur die fehlenden Referenzbilder und sichert jedes fertige Bild in der gespeicherten Geschichte. Eine Statusanzeige nennt Figur und Fortschritt. Vorhandene Referenzen bleiben erhalten. Der Porträtmodus verwendet die bestehende Beschreibung direkt: keine neue Textmodell-Planung, keine Änderung von Name, Aussehenstext, Kleidung, Vorgeschichte oder Gesinnung. Comic-Kacheln werden dabei nicht erzeugt.
+
+Währenddessen sind Stilwechsel, die Geschichtenauswahl in Schritt 2, die erneute Figuren- und Comic-Generierung sowie der dortige Speicherbutton gesperrt. Falls die Geschichte andernorts bearbeitet wird, überschreibt ein verspätetes Ergebnis diese Änderungen nicht. Nach der Vorschau kann „Comic generieren“ die gespeicherten Figurenbilder verwenden. Die Canvas-Vorlagen starten zugeklappt; die zusätzliche Bibliotheksvorschau entfällt.
+
+Geprüft mit Figurenprofil-Tests und dem Dashboard-Browsertest: Porträt ohne Textmodell-Aufruf, unveränderte Profilfelder, getrennte Generierung, Sicherung und kein Comic-Auftrag beim Figurenbutton. Keine echten Modelle für den Test gestartet.

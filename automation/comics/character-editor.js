@@ -178,3 +178,44 @@ function characterCard(c,scope,ticket){
 }
 async function blobBase64(blob){return await new Promise((resolve,reject)=>{const r=new FileReader();r.onload=()=>resolve(r.result.split(',')[1]);r.onerror=()=>reject(Error('Bild konnte nicht gelesen werden.'));r.readAsDataURL(blob)})}
 async function normalizedCharacterImage(file){if(file.size>12*1024*1024)throw Error('Referenzbild maximal 12 MB.');if(!['image/png','image/jpeg','image/webp'].includes(file.type))throw Error('PNG, JPEG oder WebP verwenden.');const image=await createImageBitmap(file);try{if(image.width*image.height>25000000)throw Error('Referenzbild maximal 25 Megapixel.');const scale=Math.min(1,1536/image.width,1536/image.height),canvas=document.createElement('canvas');canvas.width=Math.round(image.width*scale);canvas.height=Math.round(image.height*scale);canvas.getContext('2d').drawImage(image,0,0,canvas.width,canvas.height);const result=canvas.toDataURL('image/png').split(',')[1];if(result.length>8000000)throw Error('Referenzbild nach Aufbereitung zu groß.');return result}finally{image.close()}}
+
+// Erstmalige Referenzbilder zeichnen, ohne Figurenprofile neu zu erfinden.
+let storyPortraitBusy=false;
+function updatePortraitButton(){
+ const button=$('generate-portraits');if(!button)return;
+ const missing=(editorPayload.characters||[]).filter(c=>!characterPicture(c,'story'));
+ button.disabled=storyPortraitBusy||!$('style').value||!missing.length||!!planningJob;
+ button.textContent=storyPortraitBusy?'Figuren werden generiert …':'Figuren generieren'+(missing.length?' · '+missing.length+' ohne Bild':'');
+ if(!storyPortraitBusy)$('portrait-progress').textContent=!$('style').value?'Zuerst einen Bildstil wählen.':missing.length?'Erstellt nur fehlende Referenzbilder. Namen, Aussehen, Vorgeschichte und Gesinnung bleiben erhalten.':'Alle Figuren haben bereits ein Referenzbild.';
+}
+async function generateStoryPortraits(){
+ if(storyPortraitBusy||!$('style').value)return;
+ storyPortraitBusy=true;updateWorkflowState();
+ let completed=0;
+ try{
+  const saved=await saveDefinition(),storyId=saved.id,style=$('style').value;
+  const missing=(editorPayload.characters||[]).filter(c=>!characterPicture(c,'story')).map(c=>c.id);
+  for(const id of missing){
+   const character=editorPayload.characters.find(c=>c.id===id),version=definitionVersion;
+   if(definitionId!==storyId||dirty||!character)throw Error('Geschichte geändert. Bereits gesicherte Figurenbilder bleiben erhalten.');
+   const snapshot=structuredClone(character);
+   $('portrait-progress').textContent='Figur '+(completed+1)+' von '+missing.length+': '+character.name+' · Auftrag vorbereiten …';
+   const work=await(await api('/characters/regenerate','POST',{profile:snapshot,style,portrait_only:true,determine_alignment:false})).json();
+   let result;
+   do{
+    result=await(await api('/characters/regenerations/'+work.id)).json();
+    if(['queued','running'].includes(result.status)){
+     $('portrait-progress').textContent='Figur '+(completed+1)+' von '+missing.length+': '+character.name+(result.status==='queued'?' · wartet …':' · Referenzbild wird gezeichnet …');
+     await new Promise(resolve=>setTimeout(resolve,1800));
+    }
+   }while(['queued','running'].includes(result.status));
+   if(result.status!=='completed')throw Error(result.error||'Figurenbild fehlgeschlagen.');
+   const current=editorPayload.characters?.find(c=>c.id===id);
+   if(definitionId!==storyId||definitionVersion!==version||dirty||JSON.stringify(current)!==JSON.stringify(snapshot))throw Error('Geschichte zwischenzeitlich bearbeitet. Das neue Bild wurde nicht darübergeschrieben; es liegt im Figurenauftrag '+work.id+'.');
+   if(!result.profile?.inline_references?.length)throw Error('Der Figurenauftrag enthält kein Referenzbild.');
+   current.inline_references=result.profile.inline_references;current.references=[];dirty=true;
+   await saveDefinition();completed++;
+  }
+  message(completed+' Figurenbilder generiert und in dieser Geschichte gesichert. Kein Comic gestartet.');
+ }catch(e){error(e)}finally{storyPortraitBusy=false;updateWorkflowState()}
+}

@@ -33,15 +33,17 @@ def narrative(profile):
 
 def enqueue(store,value):
     from engine import ID, validate_request
-    if not isinstance(value,dict) or set(value)-{'profile','style','determine_alignment'}:raise ValueError('Ungültige Figurenanfrage.')
+    if not isinstance(value,dict) or set(value)-{'profile','style','determine_alignment','portrait_only'}:raise ValueError('Ungültige Figurenanfrage.')
     profile=validate(value.get('profile'))
     if not isinstance(profile.get('id'),str) or not ID.fullmatch(profile.get('id','')) or not profile.get('name','').strip():raise ValueError('Figuren-ID und Name erforderlich.')
+    portrait_only=value.get('portrait_only',False)
+    if type(portrait_only) is not bool:raise ValueError('Porträtmodus muss wahr oder falsch sein.')
     determine=value.get('determine_alignment',True)
     if type(determine) is not bool:raise ValueError('Gesinnungsauswahl muss wahr oder falsch sein.')
     req=validate_request({'kacheln':1,'stil':value.get('style'),'seed':secrets.randbelow(2147483648),'max_korrekturrunden':0})
     ident=uuid.uuid4().hex
     store.create(ident,req,initial_status='editing')
-    store.write(ident,'character-source.json',{'profile':profile,'determine_alignment':determine})
+    store.write(ident,'character-source.json',{'profile':profile,'determine_alignment':determine,'portrait_only':portrait_only})
     store.update(ident,character_mode=True)
     store.stage(ident,'queued',status='queued')
     return {'id':ident,'status':'queued'}
@@ -50,6 +52,13 @@ def enqueue(store,value):
 def regenerate(engine,ident):
     source=json.loads((engine.store.directory(ident)/'character-source.json').read_text())
     original=source['profile'];determine=source['determine_alignment']
+    if source.get('portrait_only'):
+        profile=copy.deepcopy(original)
+        engine.store.stage(ident,'character_portrait')
+        profile['inline_references']=[engine.portrait(ident,profile,0,engine.store.get(ident)['request']['stil'])]
+        profile['references']=[]
+        engine.store.write(ident,'character-result.json',profile)
+        return {'status':'completed','artifacts':[]}
     engine.store.stage(ident,'character_appearance')
     def check(value):
         if not isinstance(value,dict) or not isinstance(value.get('description'),str) or not value['description'].strip() or len(value['description'])>2500:

@@ -8,6 +8,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   page.on('pageerror',e=>errors.push(String(e)));
   const cid='a'.repeat(32),sid='b'.repeat(32),task='c'.repeat(32),job='d'.repeat(32);
   let publishTargets={x_url:'https://x.com/alt',substack_url:'https://substack.com/@alt'},telegramTarget={channel:'@alter_kanal',channel_id:-10012345};
+  let portraitRequests=0;
   let activePlanning=null;let story={id:sid,version:1,name:'Die Geisterbrücke',mode:'editorial',payload:{article:'Ria findet einen Geist.',planned_article:'Ria findet einen Geist.',planned_count:1,panel_count:1,style:'Klassischer Comic',visual_style_pending:true,seed:1984,characters:[{id:cid,name:'Ria',description:'Erwachsene Frau.',outfit:'Mantel.',references:[]}],scenes:[{heading:'',story:'Ria steht an einer Brücke.',dialog:'',characters:[cid],bubbles:[]}]}};
   const source={id:'probe',title:'Die Geisterbrücke',kind:'Buch',creator:'Test',edition:'Historische Vorlage',url:'',territories:'Deutschland',rights:'Testvorlage.',text:'Ria findet einen Geist.',post_summary:'Ein Geist an der Brücke.',category:'Geister und Spuk',collection:'Test',script_ready:true};
   const meaning={core:'Vertrauen verändert die Begegnung.',causal_chain:['Ria trifft den Geist.','Ria überwindet ihre Angst.'],ending:'Die Begegnung bleibt offen.',recommended_count:6,reason:'Zeit für die Entscheidung.',episodes:[{episode:1,title:'Die Brücke',arc:'Begegnung und Entscheidung.',ending:'Offene Frage.'}],source_sha256:'probe',fixed_count:1,panels_per_episode:6};
@@ -36,6 +37,8 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
    if(p==='/source-tasks/'+task+'/adopt'){story.payload.visual_style_pending=true;return reply(story)}
    if(p==='/stories/'+sid+'/generate')return reply({id:job,status:'queued'});
    if(p==='/stories/'+sid+'/plan'){activePlanning={id:task,status:'queued',stage:'queued',planning_mode:true,story_id:sid,request:{kacheln:1},events:[]};return reply(activePlanning)}
+   if(p==='/characters/regenerate'){portraitRequests++;assert.equal(data.portrait_only,true);return reply({id:'7'.repeat(32),status:'queued'})}
+   if(p==='/characters/regenerations/'+'7'.repeat(32))return reply({status:'completed',profile:{inline_references:['bmV1ZXMtYmlsZA==']}});
    if(p==='/characters')return reply({characters:[],alignments:[]});
    throw Error('Unerwarteter Testaufruf: '+method+' '+p);
   });
@@ -103,6 +106,14 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   await page.locator('#render-story-list').dispatchEvent('input');assert.equal(await page.evaluate(()=>dirty),false);
   const original=await page.evaluate(()=>JSON.stringify(editorPayload.scenes));
   await page.selectOption('#style','Märchenhafter Waldhorror');assert(await page.locator('#render-comic').isEnabled());
+  assert(await page.locator('#generate-portraits').isEnabled());
+  const profileBefore=await page.evaluate(()=>JSON.stringify(editorPayload.characters[0]));
+  await page.click('#generate-portraits');await page.waitForFunction(()=>!storyPortraitBusy&&editorPayload.characters[0].inline_references?.length);
+  assert.equal(portraitRequests,1);
+  assert.equal(story.payload.characters[0].inline_references[0],'bmV1ZXMtYmlsZA==');
+  assert.equal(story.payload.characters[0].description,JSON.parse(profileBefore).description);
+  assert(!calls.some(c=>c.path.endsWith('/generate')));
+  assert(await page.locator('#generate-portraits').isDisabled());
   await page.selectOption('#style','Geisterfolklore-Manga');
   assert.equal(await page.evaluate(()=>JSON.stringify(editorPayload.scenes)),original);
   await page.click('#render-save');await page.waitForFunction(()=>!dirty);
