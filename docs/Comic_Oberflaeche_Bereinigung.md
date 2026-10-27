@@ -107,3 +107,7 @@ Schritt 3 ist in zwei Bereiche gegliedert. Oben stehen Titel, Verarbeitungsanzei
 Die Verarbeitungsanzeige zeigt die echten Auftragsphasen, eine Schrittliste, Gesamtzeit und Zeit im aktuellen Schritt. Bei vorhandenen Zählerdaten wird der Kachelfortschritt angezeigt. Laufende Aufträge werden in diesem Bereich alle 2,5 Sekunden abgefragt. Fehler bleiben als Unterbrechung sichtbar; eine fertige Ausgabe zeigt eine zugeklappte Abschlussanzeige. Zeitangaben sind Laufzeiten, keine Fertigstellungsprognosen.
 
 Die Blöcke „Prüfhinweise“, „Andere Geschichte erzeugen“, „Optionales Feedback“ und „Automatische Erfahrungen“ sowie der doppelte Stil-/Kachelhinweis zur Verbesserung werden nicht mehr angezeigt. Die bisherige automatische Erfahrungsanzeige wird nicht mehr regelmäßig abgefragt. Gespeicherte Bewertungen und serverseitige Prüfungen bleiben erhalten; konkrete Beschriftungs- und Bildwarnungen mit direktem Sprung in den Editor bleiben sichtbar.
+
+### Kachel direkt im Bild- und Texteditor vergrößern
+
+„Bilder und Texte bearbeiten“ enthält eine Ansichtsauswahl: Einpassen, 150 %, 200 % oder 300 %. Die vergrößerte Kachel lässt sich im Bildbereich scrollen und weiterhin bearbeiten. Der Zoom ändert nur die Darstellung, weder die Bildausgabe noch Blasenkoordinaten oder den gespeicherten Bearbeitungsstand. Beim erneuten Öffnen startet die Ansicht mit „Einpassen“. Die separate Leseansicht bleibt für Lese- und Seitenreihenfolge verfügbar.

@@ -23,8 +23,13 @@ const fs=require('fs'),path=require('path'),assert=require('assert'),{chromium}=
  await page.evaluate(job=>loadComicPages(job),job);
  await page.click('[data-workflow-step="edit"]');assert.equal(await page.locator('#comic-page-select option').count(),4);
  await page.click('#comic-page-next');assert.equal(await page.locator('#comic-page-select').inputValue(),'1');
- await page.selectOption('#comic-page-select','3');assert(await page.locator('#comic-page-next').isDisabled());assert((await page.locator('#comic').getAttribute('alt')).includes('4 von 4'));
+ await page.selectOption('#comic-page-select','3');assert(await page.locator('#comic-page-next').isDisabled());await page.waitForFunction(()=>document.getElementById('comic').alt.includes('4 von 4'));assert((await page.locator('#comic').getAttribute('alt')).includes('4 von 4'));
  await page.evaluate(()=>document.getElementById('lettering-edit').onclick());await page.waitForFunction(()=>positionData&&positionExact);
+ const unzoomed=await page.locator('#position-canvas').boundingBox(),layoutBeforeZoom=await page.evaluate(()=>JSON.stringify(positionData.panels));
+ await page.selectOption('#position-zoom','2');
+ const zoomed=await page.locator('#position-canvas').boundingBox();assert(Math.abs(zoomed.width-unzoomed.width*2)<2);
+ assert.equal(await page.evaluate(()=>JSON.stringify(positionData.panels)),layoutBeforeZoom);assert.equal(await page.evaluate(()=>positionDirty),false);
+ await page.selectOption('#position-zoom','1');
  await page.locator('#position-canvas rect[aria-label="Sprechblase 1 verschieben"]').dispatchEvent('keydown',{key:'ArrowRight'});
  await page.selectOption('#position-panel','12');await page.click('#position-next');assert.equal(await page.locator('#position-panel').inputValue(),'13');
  await page.selectOption('#position-panel','23');assert(await page.locator('#position-next').isDisabled());
