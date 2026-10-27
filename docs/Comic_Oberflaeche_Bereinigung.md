@@ -53,3 +53,11 @@ Beschriftungs- und Ausrüstungswarnungen mit Kachelnummer erhalten **Dort bearbe
 Keine Geschichten, Figuren, Arbeitsstände oder Comicdateien wurden für diese Oberflächenbereinigung gelöscht. Die vier Bereiche bleiben bestehen. Die Kachelanzahl-Regel, Quellenverwaltung, Autorenfunktionen und Buch-Exportstruktur wurden in dieser ersten Runde nicht umgebaut.
 
 Prüfung: Python-Tests, Browsertests mit API-Attrappen für Verlauf und direkte Kachelsprünge sowie bestehende Tests für 24-Kachel-Bearbeitung und Vier-Schritt-Workflow. Keine Modell- oder Bilderzeugung für die Bereinigung gestartet; nichts veröffentlicht.
+
+### Zuletzt bearbeitete Geschichte wieder aufnehmen
+
+Der Eingabebereich heißt jetzt „Eigener Text“. Neben „Neue Geschichte“ öffnet ein zusätzlicher Button die zuletzt in diesem Browser bearbeitete Geschichte; ihr Titel steht daneben. Eingaben in einer vorhandenen Geschichte und das Sichern merken deren ID. Reines Öffnen, Listenaktualisierungen und automatische Importe setzen diese Vormerkung nicht um. Beim erneuten Aufruf wird die vorgemerkte Geschichte bevorzugt geladen.
+
+Ohne neue Bearbeitungsvormerkung wird die bisherige Browser-ID als „zuletzt geöffnet“ angeboten. Gelöschte IDs werden nicht angeboten. Vor dem Wechsel wird bei ungespeicherten Änderungen nachgefragt. Die Vormerkung speichert keine ungesicherten Textänderungen und gilt nicht browserübergreifend. Neue Texte deshalb weiterhin mit „Skript sichern“ speichern.
+
+Geprüft mit dem Dashboard-Browsertest: Geschichte bearbeiten und sichern, leere neue Geschichte öffnen und anschließend die zuvor bearbeitete Geschichte samt Titel wieder aufrufen. Keine Modelle oder Bilder erzeugt.

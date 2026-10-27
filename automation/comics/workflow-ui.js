@@ -180,7 +180,7 @@ function installWorkflowUI(){
   $('render-comic').disabled=true;
   try{const doc=await saveDefinition();const job=await(await api('/stories/'+doc.id+'/generate','POST',{version:doc.version})).json();selected=job.id;loaded='';showWorkflowStep('edit');message('Comic wird aus dem gespeicherten Skript erzeugt. Bisherige Ausgaben bleiben erhalten.');await list()}catch(e){error(e)}finally{updateWorkflowState()}
  };
- $('workflow-render').addEventListener('input',event=>{if(['render-story-list','render-show-unfinished','page-template-category'].includes(event.target.id))return;dirty=true;$('definition-state').textContent='Ungespeicherte Änderungen';modeHelp()});
+ $('workflow-render').addEventListener('input',event=>{if(['render-story-list','render-show-unfinished','page-template-category'].includes(event.target.id))return;dirty=true;rememberEditedStory();$('definition-state').textContent='Ungespeicherte Änderungen';modeHelp()});
  $('style').addEventListener('change',()=>{editorPayload.visual_style_pending=!$('style').value;dirty=true;modeHelp()});
  $('new').addEventListener('click',()=>{if(!definitionId&&!dirty)showWorkflowInput('own')});
  $('story-list').addEventListener('change',()=>showWorkflowInput('own'));
