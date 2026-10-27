@@ -15,8 +15,11 @@ const fs=require('fs'),path=require('path'),assert=require('assert'),{chromium}=
  assert(await page.locator('#reader-open').evaluate(el=>el.hidden));
  assert(await page.locator('#improve').evaluate(el=>el.hidden));
  assert.equal(await page.locator('#workflow-output-content #comic').count(),1);
- assert.equal(await page.locator('#workflow-output-selection #edit-output-actions #delete-story').count(),1);
+ assert.equal(await page.locator('#workflow-output-selection #output-selection #delete-story').count(),1);
  assert.equal(await page.locator('#workflow-output-content button#delete-story').count(),0);
+ assert(await page.locator('#output-story-details').evaluate(el=>el.hidden));
+ assert(await page.locator('#output-history').evaluate(el=>el.hidden));
+ assert.equal(await page.locator('#delete-story').textContent(),'Löschen');
  assert(await page.locator('#workflow-feedback').evaluate(el=>el.hidden));
  assert(await page.locator('#warnings').evaluate(el=>el.closest('details').hidden));
  assert(await page.locator('#improve-hint').evaluate(el=>el.hidden));

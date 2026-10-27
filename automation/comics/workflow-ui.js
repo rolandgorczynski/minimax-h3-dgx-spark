@@ -216,9 +216,10 @@ function installWorkflowUI(){
  $('workflow-output-selection').prepend(output);
  $('workflow-output-content').append($('title'),$('output-progress'),$('comic-page-nav'),$('comic'));
  const actions=document.createElement('div');actions.id='edit-output-actions';actions.className='row';
- actions.append($('lettering-edit'),$('experiment-open'),$('delete-output'),$('delete-story'));
+ actions.append($('lettering-edit'),$('experiment-open'),$('delete-output'));
  output.querySelector('h3').after(actions);
  output.append($('output-selection'));
+ $('jobs').closest('label').after($('delete-story'));
  $('story-state').hidden=true;
 
  for(const id of ['bundle','pdf','substack-share','x-share','telegram-share'])$('workflow-share-actions').append($(id));
