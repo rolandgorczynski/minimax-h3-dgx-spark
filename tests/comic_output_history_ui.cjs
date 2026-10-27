@@ -12,6 +12,8 @@ const fs=require('fs'),path=require('path'),assert=require('assert'),{chromium}=
   throw Error('Unerwartete Anfrage: '+p);
  });
  await page.goto('http://comic.test');await page.waitForFunction(()=>workflowInstalled);
+ assert(await page.locator('#reader-open').evaluate(el=>el.hidden));
+ assert(await page.locator('#improve').evaluate(el=>el.hidden));
  assert.equal(await page.locator('#workflow-output-content #comic').count(),1);
  assert.equal(await page.locator('#workflow-output-selection #edit-output-actions #delete-story').count(),1);
  assert.equal(await page.locator('#workflow-output-content button#delete-story').count(),0);

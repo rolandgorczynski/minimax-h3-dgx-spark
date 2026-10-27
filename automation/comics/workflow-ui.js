@@ -216,7 +216,7 @@ function installWorkflowUI(){
  $('workflow-output-selection').prepend(output);
  $('workflow-output-content').append($('title'),$('output-progress'),$('comic-page-nav'),$('comic'));
  const actions=document.createElement('div');actions.id='edit-output-actions';actions.className='row';
- actions.append($('lettering-edit'),$('experiment-open'),$('reader-open'),$('improve'),$('delete-output'),$('delete-story'));
+ actions.append($('lettering-edit'),$('experiment-open'),$('delete-output'),$('delete-story'));
  output.querySelector('h3').after(actions);
  output.append($('output-selection'));
  $('story-state').hidden=true;

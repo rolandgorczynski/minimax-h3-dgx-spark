@@ -111,3 +111,5 @@ Die Blöcke „Prüfhinweise“, „Andere Geschichte erzeugen“, „Optionales
 ### Kachel direkt im Bild- und Texteditor vergrößern
 
 „Bilder und Texte bearbeiten“ enthält eine Ansichtsauswahl: Einpassen, 150 %, 200 % oder 300 %. Die vergrößerte Kachel lässt sich im Bildbereich scrollen und weiterhin bearbeiten. Der Zoom ändert nur die Darstellung, weder die Bildausgabe noch Blasenkoordinaten oder den gespeicherten Bearbeitungsstand. Beim erneuten Öffnen startet die Ansicht mit „Einpassen“. Die separate Leseansicht bleibt für Lese- und Seitenreihenfolge verfügbar.
+
+Die Einstiege „Geführt lesen“ und „Diesen Comic anhand meiner Bewertung verbessern“ werden nicht mehr angezeigt. Kacheln lassen sich im gemeinsamen Bild- und Texteditor vergrößern. Die Löschbuttons heißen eindeutig „Nur diese Comic-Ausgabe löschen“ (Skript und andere Ausgaben bleiben) und „Skript und alle Comic-Ausgaben löschen“ (gesamte gespeicherte Geschichte samt zugehörigen Ausgaben).
