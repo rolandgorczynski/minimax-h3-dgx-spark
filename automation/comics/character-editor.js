@@ -184,17 +184,19 @@ let storyPortraitBusy=false;
 function updatePortraitButton(){
  const button=$('generate-portraits');if(!button)return;
  const missing=(editorPayload.characters||[]).filter(c=>!characterPicture(c,'story'));
- button.disabled=storyPortraitBusy||!$('style').value||!missing.length||!!planningJob;
- button.textContent=storyPortraitBusy?'Figuren werden generiert …':'Figuren generieren'+(missing.length?' · '+missing.length+' ohne Bild':'');
- if(!storyPortraitBusy)$('portrait-progress').textContent=!$('style').value?'Zuerst einen Bildstil wählen.':missing.length?'Erstellt nur fehlende Referenzbilder. Namen, Aussehen, Vorgeschichte und Gesinnung bleiben erhalten.':'Alle Figuren haben bereits ein Referenzbild.';
+ button.disabled=storyPortraitBusy||!$('style').value||!(editorPayload.characters||[]).length||!!planningJob;
+ button.textContent=storyPortraitBusy?'Figuren werden generiert …':missing.length?'Figuren generieren · '+missing.length+' ohne Bild':'Figuren neu generieren';
+ if(!storyPortraitBusy)$('portrait-progress').textContent=!$('style').value?'Zuerst einen Bildstil wählen.':missing.length?'Erstellt nur fehlende Referenzbilder. Namen, Aussehen, Vorgeschichte und Gesinnung bleiben erhalten.':(editorPayload.characters?.length?'Alle Figuren haben Bilder. Du kannst ihre Referenzbilder im gewählten Stil neu generieren.':'Noch keine Figuren vorhanden.');
 }
 async function generateStoryPortraits(){
- if(storyPortraitBusy||!$('style').value)return;
+ if(storyPortraitBusy||!$('style').value||!editorPayload.characters?.length)return;
+ const regenerateAll=editorPayload.characters.every(c=>characterPicture(c,'story'));
+ if(regenerateAll&&!confirm('Alle Figurenbilder im gewählten Stil neu generieren und in dieser Geschichte ersetzen? Namen, Beschreibungen, Kleidung, Vorgeschichten und Gesinnungen bleiben erhalten. Fertige Comics und Bibliotheksfiguren bleiben unverändert.'))return;
  storyPortraitBusy=true;updateWorkflowState();
  let completed=0;
  try{
   const saved=await saveDefinition(),storyId=saved.id,style=$('style').value;
-  const missing=(editorPayload.characters||[]).filter(c=>!characterPicture(c,'story')).map(c=>c.id);
+  const missing=(editorPayload.characters||[]).filter(c=>regenerateAll||!characterPicture(c,'story')).map(c=>c.id);
   for(const id of missing){
    const character=editorPayload.characters.find(c=>c.id===id),version=definitionVersion;
    if(definitionId!==storyId||dirty||!character)throw Error('Geschichte geändert. Bereits gesicherte Figurenbilder bleiben erhalten.');
@@ -213,7 +215,7 @@ async function generateStoryPortraits(){
    const current=editorPayload.characters?.find(c=>c.id===id);
    if(definitionId!==storyId||definitionVersion!==version||dirty||JSON.stringify(current)!==JSON.stringify(snapshot))throw Error('Geschichte zwischenzeitlich bearbeitet. Das neue Bild wurde nicht darübergeschrieben; es liegt im Figurenauftrag '+work.id+'.');
    if(!result.profile?.inline_references?.length)throw Error('Der Figurenauftrag enthält kein Referenzbild.');
-   current.inline_references=result.profile.inline_references;current.references=[];dirty=true;
+   current.inline_references=result.profile.inline_references;current.references=[];if(editorPayload.reference_overrides)delete editorPayload.reference_overrides[id];dirty=true;
    await saveDefinition();completed++;
   }
   message(completed+' Figurenbilder generiert und in dieser Geschichte gesichert. Kein Comic gestartet.');

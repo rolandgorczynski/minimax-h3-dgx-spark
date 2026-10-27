@@ -87,3 +87,5 @@ In Schritt 2 gibt es „Figuren generieren“. Nach der Stilwahl erstellt der Bu
 Währenddessen sind Stilwechsel, die Geschichtenauswahl in Schritt 2, die erneute Figuren- und Comic-Generierung sowie der dortige Speicherbutton gesperrt. Falls die Geschichte andernorts bearbeitet wird, überschreibt ein verspätetes Ergebnis diese Änderungen nicht. Nach der Vorschau kann „Comic generieren“ die gespeicherten Figurenbilder verwenden. Die Canvas-Vorlagen starten zugeklappt; die zusätzliche Bibliotheksvorschau entfällt.
 
 Geprüft mit Figurenprofil-Tests und dem Dashboard-Browsertest: Porträt ohne Textmodell-Aufruf, unveränderte Profilfelder, getrennte Generierung, Sicherung und kein Comic-Auftrag beim Figurenbutton. Keine echten Modelle für den Test gestartet.
+
+Sind bereits alle Figurenbilder vorhanden, bleibt der Figurenbutton aktiv und heißt „Figuren neu generieren“. Nach Bestätigung werden alle Referenzbilder dieser Geschichte im gewählten Stil neu gezeichnet und schrittweise gesichert. Profile, Bibliotheksfiguren und fertige Comics bleiben erhalten. Fehlen noch Bilder, erstellt „Figuren generieren“ weiterhin zunächst nur diese fehlenden Referenzen.

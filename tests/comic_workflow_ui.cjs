@@ -113,7 +113,12 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   assert.equal(story.payload.characters[0].inline_references[0],'bmV1ZXMtYmlsZA==');
   assert.equal(story.payload.characters[0].description,JSON.parse(profileBefore).description);
   assert(!calls.some(c=>c.path.endsWith('/generate')));
-  assert(await page.locator('#generate-portraits').isDisabled());
+  assert(await page.locator('#generate-portraits').isEnabled());
+  assert.equal(await page.locator('#generate-portraits').textContent(),'Figuren neu generieren');
+  page.once('dialog',dialog=>dialog.dismiss());await page.evaluate(()=>generateStoryPortraits());assert.equal(portraitRequests,1);
+  page.once('dialog',dialog=>dialog.accept());await page.evaluate(()=>generateStoryPortraits());assert.equal(portraitRequests,2);
+  assert.equal(story.payload.characters[0].description,JSON.parse(profileBefore).description);
+
   await page.locator('#style').evaluate((el,value)=>{el.value=value;el.dispatchEvent(new Event('change',{bubbles:true}))},'Geisterfolklore-Manga');
   assert.equal(await page.evaluate(()=>JSON.stringify(editorPayload.scenes)),original);
   await page.click('#render-save');await page.waitForFunction(()=>!dirty);
