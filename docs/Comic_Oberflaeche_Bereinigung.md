@@ -73,3 +73,9 @@ Die redaktionelle Auswertung wird mit der Geschichte beziehungsweise Quelle ange
 Nach Änderungen am Ausgangstext muss die vorhandene Auswertung geprüft und gegebenenfalls angepasst werden. Beim bewussten Neuplanen wird sie für den neuen Text übernommen. Eine vollkommen neue Geschichte ohne vorhandene Auswertung benötigt weiterhin eine redaktionelle Vorbereitung. Die Fortschrittsanzeige für die Szenenplanung bleibt bestehen.
 
 Geprüft: 215 Python-Tests (einer übersprungen), Dashboard-Browsertest einschließlich editierter Auswertung, Speichern und Wiederöffnen, verbindlicher Kachelzahl, veraltetem Skript, bestätigter Neuplanung und unverändertem Quellen-Cache. Keine echten Modelle oder Comic-Generierung für diese Tests.
+
+### Löschaktionen gehören zu „Bearbeiten“
+
+Im ersten Schritt gibt es keinen Löschbutton mehr. Vorhandene Szenen werden über „Skript neu erstellen“ ersetzt. In Schritt 3 steht „Geschichte und alle Comics löschen“. Diese Aktion löscht weiterhin die gespeicherte Geschichte samt zugehörigen Ausgaben und fragt unter Nennung des Titels nach. Sie bezieht sich auf die Geschichte der ausgewählten Comic-Ausgabe, unabhängig vom in Schritt 1 geöffneten Skript. Bei laufenden zugehörigen Aufträgen ist sie gesperrt. „Diese Ausgabe löschen“ entfernt weiterhin nur die einzelne Ausgabe. Eine Funktion zum isolierten Löschen des Szenenplans wurde nicht eingeführt.
+
+Der Wiederaufnahme-Button steht mit zusätzlichem Abstand in einer eigenen Zeile. Der Navigationseinstieg „Eigener Text“ wurde entfernt; die Texteingabe bleibt über „Neue Geschichte“ und die Auswahl gespeicherter Geschichten erreichbar.

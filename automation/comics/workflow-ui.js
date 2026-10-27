@@ -71,6 +71,7 @@ function updateWorkflowState(){
 }
 function updateWorkflowOutput(job){
  workflowOutput=job;
+ $('delete-story').disabled=!job?.story_id||!definitions.some(d=>d.id===job.story_id)||jobs.some(j=>j.story_id===job.story_id&&['queued','running'].includes(j.status));
  const area=$('workflow-publish-summary');if(!area)return;
  const title=$('title')?.textContent||job?.story_title||'Comic';
  area.textContent=job?title+' · Ausgabe '+job.id.slice(0,8)+' · '+(typeof stateNames!=='undefined'?stateNames[job.status]||job.status:job.status)+'. Veröffentlicht oder exportiert wird diese ausgewählte Ausgabe.':'Zuerst in Schritt 3 eine fertige Comic-Ausgabe auswählen.';
@@ -158,8 +159,8 @@ function installWorkflowUI(){
  const source=$('source-generator').closest('section'),series=$('series-editor').closest('section');
  $('workflow-own-slot').append($('verwaltung'));$('workflow-source-slot').append(source);$('workflow-series-slot').append(series);
  $('workflow-story-selection').append($('story-selection'));
- $('story-list').closest('.row').insertBefore($('script-count-label'),$('resume-story'));
- $('script-actions').insertBefore($('delete-story'),$('save-story'));
+ $('story-list').closest('.row').insertBefore($('script-count-label'),$('resume-story-row'));
+ $('output-selection').append($('delete-story'));
  $('advanced').hidden=true;
  $('workflow-visual-settings').append($('render-style-controls'),$('page-template-picker'));
  $('workflow-character-settings').append($('character-design-controls'));
