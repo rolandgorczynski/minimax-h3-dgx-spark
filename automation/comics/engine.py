@@ -272,10 +272,11 @@ class Engine:
                     result['valid']=False
         return result
 
-    def portrait(self,job,character,index,style):
+    def portrait(self,job,character,index,style,reference_image=None):
         graph=copy.deepcopy(self.loaders);req=self.store.get(job)['request']
         graph['80']={'class_type':'DGXComicPortrait','inputs':{'model':[self.model,0],'clip':[self.clip,0],'vae':[self.vae,0],
             'beschreibung':character['description']+' Clothing: '+character['outfit'],'stil':BY_NAME.get(style,{}).get('prompt',style),'session':job,'figur_id':character['id'],'seed':(req['seed']+index*103)%2147483648}}
+        if reference_image:graph['80']['inputs']['referenz_b64']=reference_image
         output=self.client.run(job,'portrait-'+str(index),graph)['80']
         image=self.client.download(job,output['images'][0])
         self.store.write(job,'characters/'+character['id']+'.png',image)

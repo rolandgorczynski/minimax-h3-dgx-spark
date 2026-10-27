@@ -93,3 +93,9 @@ Sind bereits alle Figurenbilder vorhanden, bleibt der Figurenbutton aktiv und he
 ### Figurenauswahl: Bestätigung oben und Original erhalten
 
 „Durch diese Figur ersetzen“ steht direkt neben der Auswahl oberhalb der Vorschaugalerie. Nach dem ersten Austausch erscheint „Ursprüngliche Figur“ zusätzlich als erster Eintrag und als Bildkachel. Damit lässt sich das ursprüngliche Profil mit Referenzbildern, Kleidungszuordnung und Bibliotheksverknüpfung wiederherstellen. Mehrere Wechsel behalten dieselbe erste Sicherung; zwischenzeitliche Ersatzprofile werden nicht als zusätzliche private Varianten gesammelt. Reguläre Bibliotheksfiguren bleiben weiterhin auswählbar. Die ursprüngliche Sicherung bleibt auch nach Speichern und erneutem Öffnen erhalten.
+
+### Bibliotheksfoto automatisch als Comicfigur übernehmen
+
+Beim Bestätigen eines Bibliothekstauschs muss ein Bildstil gewählt sein. Die Figurenauswahl schließt sich, das Profil wird übernommen und das erste Referenzfoto wird mit FLUX als Bildreferenz im gewählten Comicstil neu gezeichnet. Das Ergebnis ersetzt das Foto in der privaten Geschichtenkopie und wird automatisch gesichert. Die Bibliotheksdatei und die erste gesicherte Ursprungsfigur werden nicht verändert. Die Umwandlung erfindet keine neue Beschreibung, Biografie oder Gesinnung. Ohne Foto wird die bestehende Beschreibung verwendet.
+
+Der Porträtknoten unterstützt dafür ein optionales Referenzbild; gespeicherte ComfyUI-Workflows werden nicht verändert. Auch „Figuren neu generieren“ nutzt vorhandene Bilder als Identitätsreferenz. Bei Fehlern bleibt das übernommene Profil gesichert; bei zwischenzeitlichen Bearbeitungen wird das Ergebnis nicht über die Änderungen geschrieben.

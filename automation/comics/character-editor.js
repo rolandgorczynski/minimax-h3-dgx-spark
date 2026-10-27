@@ -111,7 +111,7 @@ function characterReplacementPicker(character,ticket){
   if(chosen)image.alt='Referenzbild von '+chosen.name;
  };
  apply.onclick=async()=>{
-  const chosen=choices.find(c=>c.id===select.value);if(!chosen)return;
+  const chosen=choices.find(c=>c.id===select.value);if(!chosen||storyPortraitBusy)return;
   if(chosen.id==='__original__'){
    if(!confirm('Ursprüngliches Profil und Referenzbilder wiederherstellen? Szenen und Gespräche bleiben erhalten. Anschließend die Geschichte speichern.'))return;
    try{editorPayload=restoreStoryCharacter({...editorPayload,scenes:gatherScenes()},character.id);drawScenes();markCharacterDirty();const card=Array.from($('story-characters').children).find(box=>box.dataset.characterId===character.id);if(card)card.open=true;message('Ursprüngliche Figur wiederhergestellt. Bitte die Geschichte speichern.')}catch(error){status.textContent=error.message}
@@ -119,16 +119,19 @@ function characterReplacementPicker(character,ticket){
   }
 
   if($('editor-mode').value!=='editorial'){status.textContent='Zuerst ein bearbeitbares Skript für die Geschichte erstellen.';return}
-  if(!confirm('„'+character.name+'“ durch „'+chosen.name+'“ aus der Bibliothek ersetzen? Aussehen, Eigenschaften und Referenzbilder werden übernommen. Der Name in der Geschichte bleibt erhalten. Szenen und Sprechblasen bleiben zugeordnet. Die Änderung anschließend speichern.'))return;
-  const current=editorPayload;group.disabled=true;status.textContent='Profil und Referenzbilder werden übernommen …';
+  if(!$('style').value){status.textContent='Zuerst einen Bildstil wählen, damit die Bibliotheksfigur als Comicfigur gezeichnet werden kann.';return}
+  if(!confirm('„'+character.name+'“ durch „'+chosen.name+'“ aus der Bibliothek ersetzen? Aussehen, Eigenschaften und Referenzbilder werden übernommen. Der Name in der Geschichte bleibt erhalten. Szenen und Sprechblasen bleiben zugeordnet. Das Referenzbild wird anschließend im gewählten Comicstil neu gezeichnet und in dieser Geschichte gesichert.'))return;
+  const current=editorPayload;group.disabled=true;storyPortraitBusy=true;updateWorkflowState();status.textContent='Profil und Referenzbilder werden übernommen …';
   try{
    const snapshot=await characterLibrarySnapshot(chosen);
    if(editorPayload!==current||!current.characters?.includes(character)||$('editor-mode').value!=='editorial')throw Error('Die Geschichte wurde inzwischen gewechselt. Bitte den Tausch erneut auswählen.');
    const next=replaceStoryCharacter({...current,scenes:gatherScenes()},character.id,snapshot);
    editorPayload=next;drawScenes();markCharacterDirty();
-   const card=Array.from($('story-characters').children).find(box=>box.dataset.characterId===character.id);if(card)card.open=true;
-   message('Figur ersetzt. Name, Story-ID und Sprecherzuordnungen bleiben erhalten. Szenenbeschreibungen prüfen und die Geschichte speichern.');
-  }catch(error){status.textContent=error.message}finally{group.disabled=false}
+   const saved=await saveDefinition();
+   message('Figur ersetzt. Das Bibliotheksfoto wird jetzt im gewählten Comicstil gezeichnet …');
+   await convertLibraryPortrait(character.id,saved.id);
+   message('Bibliotheksfigur als Comicfigur gezeichnet und gesichert. Das Bibliotheksoriginal bleibt erhalten.');
+  }catch(problem){status.textContent=problem.message;error(problem)}finally{group.disabled=false;storyPortraitBusy=false;updateWorkflowState()}
  };
  const toolbar=document.createElement('div');toolbar.className='character-replacement-toolbar row';toolbar.append(label,apply);group.append(toolbar,image,status,gallery,note);return group;
 }
@@ -205,7 +208,7 @@ async function generateStoryPortraits(){
    if(definitionId!==storyId||dirty||!character)throw Error('Geschichte geändert. Bereits gesicherte Figurenbilder bleiben erhalten.');
    const snapshot=structuredClone(character);
    $('portrait-progress').textContent='Figur '+(completed+1)+' von '+missing.length+': '+character.name+' · Auftrag vorbereiten …';
-   const work=await(await api('/characters/regenerate','POST',{profile:snapshot,style,portrait_only:true,determine_alignment:false})).json();
+   const work=await(await api('/characters/regenerate','POST',{profile:snapshot,style,portrait_only:true,use_reference:true,determine_alignment:false})).json();
    let result;
    do{
     result=await(await api('/characters/regenerations/'+work.id)).json();
@@ -223,4 +226,20 @@ async function generateStoryPortraits(){
   }
   message(completed+' Figurenbilder generiert und in dieser Geschichte gesichert. Kein Comic gestartet.');
  }catch(e){error(e)}finally{storyPortraitBusy=false;updateWorkflowState()}
+}
+
+async function convertLibraryPortrait(characterId,storyId){
+ const character=editorPayload.characters.find(c=>c.id===characterId),snapshot=structuredClone(character),version=definitionVersion;
+ const work=await(await api('/characters/regenerate','POST',{profile:snapshot,style:$('style').value,portrait_only:true,use_reference:true,determine_alignment:false})).json();
+ let result;
+ do{
+  result=await(await api('/characters/regenerations/'+work.id)).json();
+  if(['queued','running'].includes(result.status)){$('portrait-progress').textContent=character.name+(result.status==='queued'?' · Comic-Referenzbild wartet …':' · Foto wird als Comicfigur gezeichnet …');await new Promise(resolve=>setTimeout(resolve,1800))}
+ }while(['queued','running'].includes(result.status));
+ if(result.status!=='completed')throw Error(result.error||'Umwandlung zum Comic-Referenzbild fehlgeschlagen. Das übernommene Profil bleibt gesichert.');
+ const current=editorPayload.characters?.find(c=>c.id===characterId);
+ if(definitionId!==storyId||definitionVersion!==version||dirty||JSON.stringify(current)!==JSON.stringify(snapshot))throw Error('Geschichte zwischenzeitlich geändert. Comicbild bleibt im Figurenauftrag '+work.id+' erhalten; deine Änderungen wurden nicht überschrieben.');
+ if(!result.profile?.inline_references?.length)throw Error('Kein Comic-Referenzbild zurückgegeben.');
+ current.inline_references=result.profile.inline_references;current.references=[];if(editorPayload.reference_overrides)delete editorPayload.reference_overrides[characterId];dirty=true;
+ await saveDefinition();
 }

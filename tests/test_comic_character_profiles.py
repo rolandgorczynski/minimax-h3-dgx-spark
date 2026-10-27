@@ -80,6 +80,22 @@ class ProfileTests(unittest.TestCase):
             self.assertEqual(result['inline_references'],['bmV1ZXMtYmlsZA=='])
             self.assertFalse((store.directory(work['id'])/'comic.png').exists())
 
+    def test_style_conversion_passes_original_photo_without_changing_profile(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);original={**profile(),'inline_references':['originalfoto']}
+            work=profiles.enqueue(store,{'profile':original,'style':'Großstadt-Noir (düster)','portrait_only':True,'use_reference':True})
+            class FakeEngine:
+                def __init__(self):self.store=store
+                def json_call(self,*args,**kwargs):raise AssertionError('Keine neue Biografie erzeugen.')
+                def portrait(self,ident,c,index,style,reference_image=None):
+                    self.reference=reference_image;return 'comicbild'
+            engine=FakeEngine();profiles.regenerate(engine,work['id'])
+            result=json.loads((store.directory(work['id'])/'character-result.json').read_text())
+            self.assertEqual(engine.reference,'originalfoto')
+            self.assertEqual(result['inline_references'],['comicbild'])
+            for key in original:
+                if key!='inline_references':self.assertEqual(result[key],original[key])
+
     def test_authenticated_proxy_and_separate_regeneration_status(self):
         with tempfile.TemporaryDirectory() as root,patch.dict(os.environ,{'DATA_DIR':root,'WORKFLOW_TEMPLATE':str(ROOT/'examples/comics/workflows/04_Comic_Automat_9B.json'),'LLM_BACKEND':'comfyui','API_TOKEN':'test'}):
             service=Service();calls=[]

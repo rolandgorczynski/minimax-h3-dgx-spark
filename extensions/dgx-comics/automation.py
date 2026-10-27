@@ -76,19 +76,26 @@ class DGXComicPortrait:
         return {'required':{'model':('MODEL',),'clip':('CLIP',),'vae':('VAE',),
             'beschreibung':('STRING',{'multiline':True}),'stil':('STRING',),
             'session':('STRING',),'figur_id':('STRING',),
-            'seed':('INT',{'default':42,'min':0,'max':2147483647})}}
+            'seed':('INT',{'default':42,'min':0,'max':2147483647})},'optional':{'referenz_b64':('STRING',{'default':''})}}
     RETURN_TYPES=('IMAGE',)
     FUNCTION='execute'
     CATEGORY='DGX/Comics/Automation'
     OUTPUT_NODE=True
 
-    def execute(self,model,clip,vae,beschreibung,stil,session,figur_id,seed):
+    def execute(self,model,clip,vae,beschreibung,stil,session,figur_id,seed,referenz_b64=''):
         from .generation import generate_panel
         root=session_directory(session)
         if not SESSION.fullmatch(figur_id) or len(beschreibung)>4000 or len(stil)>2000:
             raise ValueError('Ungültiger Figurenentwurf.')
         prompt='Character reference portrait, exactly one person, face and upper body clearly visible, neutral background, no text, no labels, no panels. '+beschreibung+'\nArt style: '+stil
-        pixels=generate_panel(model,clip,vae,[],prompt,seed)
+        references=[]
+        if referenz_b64:
+            from .generation import prepare_reference
+            source=decode_image(referenz_b64)
+            tensor=torch.from_numpy(np.array(source).astype(np.float32)/255.0).unsqueeze(0)
+            references=[prepare_reference(vae,tensor)]
+            prompt+='\nReference image: preserve the same person, recognizable face, age and identity. Redraw as an illustrated comic character in the requested art style; no photographic rendering. Clothing follows the description.'
+        pixels=generate_panel(model,clip,vae,references,prompt,seed)
         image=Image.fromarray(np.clip(pixels[0].detach().cpu().numpy()*255,0,255).astype(np.uint8))
         image.thumbnail((768,768))
         root.mkdir(parents=True,exist_ok=True)

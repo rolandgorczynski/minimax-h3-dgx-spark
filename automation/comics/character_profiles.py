@@ -33,9 +33,11 @@ def narrative(profile):
 
 def enqueue(store,value):
     from engine import ID, validate_request
-    if not isinstance(value,dict) or set(value)-{'profile','style','determine_alignment','portrait_only'}:raise ValueError('Ungültige Figurenanfrage.')
+    if not isinstance(value,dict) or set(value)-{'profile','style','determine_alignment','portrait_only','use_reference'}:raise ValueError('Ungültige Figurenanfrage.')
     profile=validate(value.get('profile'))
     if not isinstance(profile.get('id'),str) or not ID.fullmatch(profile.get('id','')) or not profile.get('name','').strip():raise ValueError('Figuren-ID und Name erforderlich.')
+    use_reference=value.get('use_reference',False)
+    if type(use_reference) is not bool:raise ValueError('Bildreferenz-Auswahl muss wahr oder falsch sein.')
     portrait_only=value.get('portrait_only',False)
     if type(portrait_only) is not bool:raise ValueError('Porträtmodus muss wahr oder falsch sein.')
     determine=value.get('determine_alignment',True)
@@ -43,7 +45,7 @@ def enqueue(store,value):
     req=validate_request({'kacheln':1,'stil':value.get('style'),'seed':secrets.randbelow(2147483648),'max_korrekturrunden':0})
     ident=uuid.uuid4().hex
     store.create(ident,req,initial_status='editing')
-    store.write(ident,'character-source.json',{'profile':profile,'determine_alignment':determine,'portrait_only':portrait_only})
+    store.write(ident,'character-source.json',{'profile':profile,'determine_alignment':determine,'portrait_only':portrait_only,'use_reference':use_reference})
     store.update(ident,character_mode=True)
     store.stage(ident,'queued',status='queued')
     return {'id':ident,'status':'queued'}
@@ -55,7 +57,9 @@ def regenerate(engine,ident):
     if source.get('portrait_only'):
         profile=copy.deepcopy(original)
         engine.store.stage(ident,'character_portrait')
-        profile['inline_references']=[engine.portrait(ident,profile,0,engine.store.get(ident)['request']['stil'])]
+        reference=(profile.get('inline_references') or [None])[0] if source.get('use_reference') else None
+        kwargs={'reference_image':reference} if reference else {}
+        profile['inline_references']=[engine.portrait(ident,profile,0,engine.store.get(ident)['request']['stil'],**kwargs)]
         profile['references']=[]
         engine.store.write(ident,'character-result.json',profile)
         return {'status':'completed','artifacts':[]}

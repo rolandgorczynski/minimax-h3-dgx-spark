@@ -8,6 +8,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   page.on('pageerror',e=>errors.push(String(e)));
   const target='a'.repeat(32),other='b'.repeat(32),lib='c'.repeat(32),sid='d'.repeat(32),broken='e'.repeat(32),conflict='f'.repeat(32);
   const png='iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAusB9Wl6bS8AAAAASUVORK5CYII=';
+  const comicPng='iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=';
   const profile={id:lib,name:'Nora',description:'Kurze dunkle Haare, Sommersprossen.',outfit:'Grüne Jacke.',backstory:'Wuchs am Hafen auf.',personality:'Mutig.',motivation:'Ihre Schwester finden.',alignment:'chaotic_good',aliases:['Die Sucherin'],references:['portrait.png'],version:3};
   let library=[profile,{...structuredClone(profile),id:broken,name:'Mira',references:['broken.png']},{...structuredClone(profile),id:conflict,name:'Arik',aliases:[],references:[]}];
   const original={id:sid,version:1,name:'Die Geisterbrücke',mode:'editorial',payload:{title:'Die Geisterbrücke',article:'Ria begegnet Arik.',planned_article:'Ria begegnet Arik.',planned_count:2,panel_count:2,style:'Klassischer Comic',visual_style_pending:false,seed:1984,
@@ -29,6 +30,8 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
    if(p==='/stories'&&method==='GET')return reply({stories:[{id:sid,name:story.name,mode:story.mode,version:story.version}]});
    if(p==='/stories/'+sid&&method==='GET')return reply(story);
    if(p==='/stories/'+sid&&method==='PATCH'){story={...data,id:sid,version:story.version+1};return reply(story)}
+   if(p==='/characters/regenerate'){assert.equal(data.use_reference,true);assert.equal(data.portrait_only,true);assert([png,comicPng].includes(data.profile.inline_references[0]));return reply({id:'8'.repeat(32),status:'queued'})}
+   if(p==='/characters/regenerations/'+'8'.repeat(32))return reply({status:'completed',profile:{inline_references:[comicPng]}});
    if(p==='/characters'&&method==='GET')return reply({characters:library,alignments:[]});
    if(p==='/characters'&&method==='POST'){const saved={...data,version:data.version+1};library=library.map(c=>c.id===data.id?saved:c);return reply(saved)}
    if(p==='/characters/'+lib+'/references/portrait.png')return route.fulfill({contentType:'image/png',body:Buffer.from(png,'base64')});
@@ -73,10 +76,10 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   // Ungespeicherte Szeneneingaben überleben den Tausch.
   await page.evaluate(()=>{document.querySelector('.scene-card [data-key="dialog"]').value='Noch nicht gespeicherter Erzählertext.'});
   await select.selectOption(lib);page.once('dialog',d=>d.accept());await apply.click();
-  await page.waitForFunction(id=>editorPayload.characters[0].library_source_id===id,lib);
+  await page.waitForFunction(id=>!storyPortraitBusy&&editorPayload.characters[0].library_source_id===id,lib);
   const result=await page.evaluate(()=>structuredClone(editorPayload)),copy=result.characters[0];
   assert.equal(copy.id,target);assert.equal(copy.library_source_id,lib);assert.equal(copy.backstory,profile.backstory);assert.equal(copy.alignment,profile.alignment);
-  assert.deepStrictEqual(copy.references,[]);assert.deepStrictEqual(copy.inline_references,[png]);
+  assert.deepStrictEqual(copy.references,[]);assert.deepStrictEqual(copy.inline_references,[comicPng]);assert(!(await card.evaluate(el=>el.open)));
   assert.equal(copy.name,'Ria');assert.deepStrictEqual(copy.aliases,['Die Finderin']);
   assert.equal(result.article,original.payload.article);assert.equal(result.planned_article,original.payload.planned_article);
   assert.deepStrictEqual(result.scenes[0].characters,[target,other]);assert.equal(result.scenes[0].bubbles[0].speaker,target);
@@ -90,7 +93,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   assert.deepStrictEqual(result.library_ids,[]);assert.equal(result.characters.length,2);
   assert.deepStrictEqual(result.characters[1],original.payload.characters[1]);
   assert.deepStrictEqual(await page.evaluate(id=>characterLibrary.find(c=>c.id===id),lib),profile);
-  assert(await page.evaluate(()=>dirty));assert(!calls.some(c=>c.method==='POST'||c.method==='PATCH'));
+  assert.equal(await page.evaluate(()=>dirty),false);assert(calls.some(c=>c.path==='/characters/regenerate'&&c.method==='POST'));assert(!calls.some(c=>c.path.includes('/plan')||c.path.includes('/generate')));
   await page.click('#render-save');await page.waitForFunction(()=>!dirty);
   const saved=calls.filter(c=>c.method==='PATCH').at(-1);assert.equal(saved.data.payload.characters[0].id,target);assert.equal(saved.data.payload.characters[0].library_source_id,lib);
   await page.evaluate(doc=>fillDefinition(doc),story);assert.equal(await page.evaluate(()=>editorPayload.characters[0].name),'Ria');
@@ -98,12 +101,12 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   await card.locator('summary').click();await card.getByRole('button',{name:'In Bibliothek speichern',exact:true}).click();
   await page.waitForFunction(()=>characterLibrary.find(c=>c.id==='c'.repeat(32))?.version===4);
   const write=calls.find(c=>c.path==='/characters'&&c.method==='POST');assert.equal(write.data.id,lib);assert.equal(write.data.version,3);
-  assert(!calls.some(c=>c.path.includes('/generate')||c.path.includes('/regenerate')||c.path.includes('/plan')));
+  assert(!calls.some(c=>c.path.includes('/generate')||c.path.includes('/plan')));
   // Die maximale Figurenanzahl hindert einen Tausch nicht: Es wird nichts hinzugefügt.
   const full=structuredClone(original);full.payload.library_ids=[];
   for(let i=2;i<8;i++)full.payload.characters.push({id:String(i).repeat(32),name:'Nebenfigur '+i,description:'Person.',outfit:'Mantel.',aliases:[],references:[]});
   await page.evaluate(doc=>fillDefinition(doc),full);await card.locator('summary').click();
-  await select.selectOption(lib);page.once('dialog',d=>d.accept());await apply.click();await page.waitForFunction(id=>editorPayload.characters[0].library_source_id===id,lib);
+  await select.selectOption(lib);page.once('dialog',d=>d.accept());await apply.click();await page.waitForFunction(id=>!storyPortraitBusy&&editorPayload.characters[0].library_source_id===id,lib);
   assert.equal(await page.evaluate(()=>editorPayload.characters.length),8);
   // Mehrfacher Tausch bewahrt das erste Original; Wiederherstellung auch nach Speichern/Laden.
   const twice=await page.evaluate(({target,profile})=>replaceStoryCharacter(editorPayload,target,profile),{target,profile:{...profile,id:broken,name:'Andere Nora',references:[]}});
@@ -124,6 +127,6 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   assert(!restored.character_replacement_originals[target]);
   assert.deepStrictEqual(errors,[]);
   await page.screenshot({path:'/tmp/comic-character-replacement.png',fullPage:true});
-  console.log('Bibliotheksfigur ersetzt erkanntes Profil: private Bilder, feste Story-ID, Sprecher und Zustände erhalten; Abbruch/Fehler atomar; Speichern und Bibliotheks-ID geprüft. Keine Generierung.');
+  console.log('Figurentausch mit automatischer Foto-zu-Comic-Umwandlung, geschlossener Auswahl, Originalwiederherstellung und festen Sprecherzuordnungen geprüft. Nur API-Attrappen, keine echte Generierung.');
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exit(1)});

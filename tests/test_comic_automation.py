@@ -55,6 +55,17 @@ class FakeComfy:
 
 
 class AutomationTests(unittest.TestCase):
+    def test_portrait_graph_passes_photo_as_optional_reference(self):
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);ident=uuid.uuid4().hex;store.create(ident,validate_request({'kacheln':1}))
+            client=FakeComfy(ident);graphs=[];run=client.run
+            def capture(job,step,graph,workflow=None):graphs.append(graph);return run(job,step,graph,workflow)
+            client.run=capture
+            engine=Engine(store,client,TEMPLATE,'text','vision')
+            engine.portrait(ident,{'id':'a'*32,'description':'Gesicht.','outfit':'Mantel.'},0,'Klassischer Comic',reference_image='originalfoto')
+            self.assertEqual(graphs[0]['80']['inputs']['referenz_b64'],'originalfoto')
+            self.assertTrue((store.directory(ident)/('characters/'+'a'*32+'.png')).exists())
+
     def test_request_validation_and_durable_idempotency(self):
         for value in ({'kacheln':True},{'kacheln':0},{'max_korrekturrunden':99},{'stil':'invalid'},{'shell':'rm -rf'},{'sprache':'en'}):
             with self.assertRaises(ValueError):validate_request(value)
