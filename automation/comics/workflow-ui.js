@@ -67,7 +67,7 @@ function updateWorkflowState(){
  $('render-comic').disabled=!ready||!$('style').value||storyPortraitBusy;
  $('render-save').disabled=storyPortraitBusy;$('style').disabled=storyPortraitBusy;$('render-story-list').disabled=storyPortraitBusy;updatePortraitButton();
  $('workflow-render-summary').textContent=($('story-name').value||'Noch kein Skript gewählt')+' · '+$('count').value+' Kacheln · '+(planningJob?'Skript wird erstellt':ready?'Skript bereit':'Skript zuerst in Schritt 1 erstellen oder aktualisieren');
- $('workflow-render-status').textContent=ready?(!$('style').value?'Bildstil auswählen. Danach kannst du den Comic erzeugen.':'Stil und Seitenvorlage gelten für die nächste Ausgabe. Vorhandene Comics bleiben erhalten.'):'Hier werden keine neuen Szenen geplant. Bitte zuerst das Skript in Schritt 1 fertigstellen.';
+ $('workflow-render-status').textContent=ready?(!$('style').value?'Bildstil auswählen. Danach kannst du den Comic generieren.':'Stil und Seitenvorlage gelten für die nächste Ausgabe. Vorhandene Comics bleiben erhalten.'):'Hier werden keine neuen Szenen geplant. Bitte zuerst das Skript in Schritt 1 fertigstellen.';
  updateWorkflowOutput(workflowOutput);
 }
 function updateWorkflowOutput(job){
