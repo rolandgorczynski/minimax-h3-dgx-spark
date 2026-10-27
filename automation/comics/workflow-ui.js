@@ -65,6 +65,7 @@ function updateWorkflowState(){
  $('count-change-hint').textContent=changed&&valid?'Kachelanzahl geändert: '+previous+' → '+current+'. Skript neu erstellen, bevor du Bilder erzeugst. Bestehende Comics bleiben erhalten.':'';
  $('script-to-render').disabled=!ready;
  $('render-comic').disabled=!ready||!$('style').value||storyPortraitBusy;
+ $('chosen-style').textContent='Bildstil: '+($('style').value||'noch nicht gewählt');$('style-library-open').disabled=storyPortraitBusy;
  $('render-save').disabled=storyPortraitBusy;$('style').disabled=storyPortraitBusy;$('render-story-list').disabled=storyPortraitBusy;updatePortraitButton();
  $('workflow-render-summary').textContent=($('story-name').value||'Noch kein Skript gewählt')+' · '+$('count').value+' Kacheln · '+(planningJob?'Skript wird erstellt':ready?'Skript bereit':'Skript zuerst in Schritt 1 erstellen oder aktualisieren');
  $('workflow-render-status').textContent=ready?(!$('style').value?'Bildstil auswählen. Danach kannst du den Comic generieren.':'Stil und Seitenvorlage gelten für die nächste Ausgabe. Vorhandene Comics bleiben erhalten.'):'Hier werden keine neuen Szenen geplant. Bitte zuerst das Skript in Schritt 1 fertigstellen.';
@@ -165,6 +166,7 @@ function installWorkflowUI(){
  $('advanced').hidden=true;
  $('workflow-visual-settings').append($('render-style-controls'),$('page-template-picker'));
  $('workflow-character-settings').append($('character-design-controls'));
+ $('render-actions').prepend($('style-library-open'),$('generate-portraits'));
  $('workflow-output-selection').append($('output-selection'));
  $('workflow-output-content').append($('output-editor'));
  for(const id of ['bundle','pdf','substack-share','x-share','telegram-share'])$('workflow-share-actions').append($(id));
