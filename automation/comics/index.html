@@ -312,7 +312,22 @@ async function planCurrentScript(){if(planningJob||planSubmitting||!$('count').r
 $('replan-story').onclick=async()=>{if(planningJob)return;if(!confirm('Das vollständige Skript aus Ausgangstext, sichtbarer Auswertung und '+$('count').value+' Kacheln neu erstellen? Prüfe die Auswertung auch bei geändertem Ausgangstext. Bisherige Szenen und Sprechblasen werden ersetzt; fertige Comics bleiben erhalten.'))return;await planCurrentScript()};
 $('plan-retry').onclick=()=>{$('replan-story').click()};
 $('plan-dismiss').onclick=async()=>{if(!progressJob||progressJob.status!=='failed')return;const id=progressJob.id;$('plan-dismiss').disabled=true;try{await api('/jobs/'+id+'/dismiss-plan','POST',{});lastPlanSeen='';progressJob=null;planningJob='';$('plan-progress').hidden=true;$('generate-story').disabled=false;modeHelp();message('Alter Planungsfehler geschlossen. Artikel, Figuren und vorhandene Szenen bleiben erhalten. Mit „Skript neu erstellen“ kannst du neu beginnen.');await list()}catch(e){error(e)}finally{$('plan-dismiss').disabled=false}};
-$('delete-story').onclick=async()=>{const job=jobs.find(j=>j.id===selected),id=job?.story_id;if(!id)return;$('delete-story').disabled=true;try{const doc=await(await api('/stories/'+id)).json();if(!confirm('„'+doc.name+'“ mit Skript und ALLEN zugehörigen Comic-Ausgaben endgültig löschen? Übernommene Originalausgaben anderer Geschichten bleiben erhalten.'))return;$('delete-story').disabled=true;await api('/stories/'+id,'DELETE',{version:doc.version});for(const j of jobs.filter(j=>j.story_id===id))outputHistoryCache.delete(j.id);if(definitionId===id)fillDefinition(null);selected='';loaded='';await list();message('Geschichte samt Skript und zugehörigen Comic-Ausgaben gelöscht.')}catch(e){error(e)}finally{updateWorkflowOutput(jobs.find(j=>j.id===selected)||null)}};
+$('delete-story').onclick=async()=>{const job=jobs.find(j=>j.id===selected);if(!job)return;$('delete-story').disabled=true;try{
+ const target=job.story_id&&definitions.some(d=>d.id===job.story_id)?{story_id:job.story_id}:await(await api('/jobs/'+job.id+'/story-family')).json();
+ if(target.story_id){
+  const doc=await(await api('/stories/'+target.story_id)).json();
+  if(!confirm('„'+doc.name+'“ mit Skript und ALLEN zugehörigen Comic-Ausgaben endgültig löschen? Übernommene Originalausgaben anderer Geschichten bleiben erhalten.'))return;
+  await api('/stories/'+doc.id,'DELETE',{version:doc.version});
+  for(const j of jobs.filter(j=>j.story_id===doc.id))outputHistoryCache.delete(j.id);
+  if(definitionId===doc.id)fillDefinition(null);
+ }else{
+  if(target.busy)throw Error('Eine zugehörige Ausgabe wird noch verarbeitet. Danach löschen.');
+  if(!confirm('„'+target.title+'“ mit allen '+target.ids.length+' zugehörigen Ausgaben und Dateien endgültig löschen? Für diese ältere Geschichte ist kein separates Skript gespeichert. Andere Geschichten bleiben erhalten.'))return;
+  await api('/jobs/'+job.id+'/story-family','DELETE',{ids:target.ids});
+  for(const id of target.ids)outputHistoryCache.delete(id);
+ }
+ selected='';loaded='';await list();message('Geschichte samt zugehörigen Comic-Ausgaben gelöscht.');
+ }catch(e){error(e)}finally{updateWorkflowOutput(jobs.find(j=>j.id===selected)||null)}};
 $('import-job').onclick=async()=>{if(!selected)return;if(dirty&&!confirm('Ungespeicherte Änderungen verwerfen?'))return;try{const d=await(await api('/stories','POST',{from_job:selected})).json();await refreshStories();fillDefinition(d);showWorkflowInput('own');$('verwaltung').scrollIntoView({behavior:'smooth'});message('Ausgabe als bearbeitbare Geschichte übernommen. Das Original bleibt erhalten.')}catch(e){error(e)}};
 $('delete-output').onclick=async()=>{if(!selected||!confirm('Den ausgewählten Comic mit seinen Dateien endgültig löschen? Die gespeicherte Geschichte bleibt erhalten.'))return;try{await api('/jobs/'+selected,'DELETE',{});outputHistoryCache.delete(selected);selected='';loaded='';await list();message('Comic gelöscht. Die gespeicherte Geschichte bleibt erhalten.')}catch(e){error(e)}};
 async function start(){try{const styles=(await(await api('/styles')).json()).styles;$('style').replaceChildren(new Option('Bitte Bildstil wählen',''),...styles.map(name=>{const o=document.createElement('option');o.value=name;o.textContent=name;return o}));await loadPageTemplates();fillDefinition(null);await list();const current=recentStory()?.doc||definitions[0];if(current){fillDefinition(await(await api('/stories/'+current.id)).json());await pollPlan((await(await api('/jobs')).json()).jobs)}await refreshMeaningLibrary()}catch(e){error(e)}}

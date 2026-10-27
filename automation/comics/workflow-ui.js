@@ -117,7 +117,7 @@ function updateWorkflowState(){
 }
 function updateWorkflowOutput(job){
  workflowOutput=job;drawOutputProcessing(job);
- $('delete-story').disabled=!job?.story_id||!definitions.some(d=>d.id===job.story_id)||jobs.some(j=>j.story_id===job.story_id&&['queued','running'].includes(j.status));
+ $('delete-story').disabled=!job||['queued','running'].includes(job.status)||!!(job.story_id&&jobs.some(j=>j.story_id===job.story_id&&['queued','running'].includes(j.status)));
  const area=$('workflow-publish-summary');if(!area)return;
  const title=$('title')?.textContent||job?.story_title||'Comic';
  area.textContent=job?title+' · Ausgabe '+job.id.slice(0,8)+' · '+(typeof stateNames!=='undefined'?stateNames[job.status]||job.status:job.status)+'. Veröffentlicht oder exportiert wird diese ausgewählte Ausgabe.':'Zuerst in Schritt 3 eine fertige Comic-Ausgabe auswählen.';

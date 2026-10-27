@@ -37,6 +37,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
    if(p==='/source-tasks/'+task+'/adopt'){story.payload.visual_style_pending=true;return reply(story)}
    if(p==='/stories/'+sid+'/generate')return reply({id:job,status:'queued'});
    if(p==='/stories/'+sid+'/plan'){activePlanning={id:task,status:'queued',stage:'queued',planning_mode:true,story_id:sid,request:{kacheln:1},events:[]};return reply(activePlanning)}
+   if(p==='/jobs/'+'6'.repeat(32)+'/story-family')return reply(method==='DELETE'?{deleted:true,deleted_outputs:2}:{story_id:null,ids:['6'.repeat(32),'7'.repeat(32)],busy:false,title:'Alte Geschichte'});
    if(p==='/characters/regenerate'){portraitRequests++;assert.equal(data.portrait_only,true);return reply({id:'7'.repeat(32),status:'queued'})}
    if(p==='/characters/regenerations/'+'7'.repeat(32))return reply({status:'completed',profile:{inline_references:['bmV1ZXMtYmlsZA==']}});
    if(p==='/characters')return reply({characters:[],alignments:[]});
@@ -164,10 +165,15 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   page.once('dialog',dialog=>dialog.dismiss());await page.evaluate(()=>document.getElementById('delete-story').onclick());
   assert(!calls.some(c=>c.method==='DELETE'));
   page.once('dialog',dialog=>dialog.accept());await page.evaluate(()=>document.getElementById('delete-story').onclick());
-  await page.waitForFunction(()=>document.getElementById('message').textContent.includes('Geschichte samt Skript'));
+  await page.waitForFunction(()=>document.getElementById('message').textContent.includes('Geschichte samt zugehörigen'));
   assert.equal(calls.filter(c=>c.method==='DELETE').length,1);
   assert.equal(calls.find(c=>c.method==='DELETE').path,'/stories/'+sid);
   assert.equal(await page.evaluate(()=>definitionId),'9'.repeat(32));
+  await page.evaluate(()=>{jobs=[{id:'6'.repeat(32),status:'completed',artifacts:[]}];selected=jobs[0].id;updateWorkflowOutput(jobs[0]);showWorkflowStep('edit')});
+  assert(await page.locator('#delete-story').isEnabled());
+  page.once('dialog',dialog=>dialog.accept());await page.evaluate(()=>document.getElementById('delete-story').onclick());
+  const legacyDeletion=calls.find(c=>c.method==='DELETE'&&c.path.endsWith('/story-family'));
+  assert(legacyDeletion);assert.deepStrictEqual(legacyDeletion.data.ids,['6'.repeat(32),'7'.repeat(32)]);
   await page.evaluate(()=>{fillDefinition(null);showWorkflowInput('own')});
   await page.locator('#story-name').fill('Eine neue Geschichte');await page.locator('#article').fill('Ria findet einen Schlüssel.');await page.locator('#count').evaluate((el,value)=>{el.value=value;el.dispatchEvent(new Event('input',{bubbles:true}))},'1');
   await page.click('#generate-story');await page.waitForFunction(()=>planningJob);

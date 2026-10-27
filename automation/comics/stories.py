@@ -256,6 +256,58 @@ class Stories:
         return self.store.update(ident,planning_dismissed=True)
 
     @serialized
+    def deletion_target(self,ident):
+        with self.store.connect() as db:
+            jobs={j['id']:j for r in db.execute('SELECT doc FROM jobs') if (j:=json.loads(r['doc']))}
+            stories={s['id']:s for r in db.execute('SELECT doc FROM stories') if (s:=json.loads(r['doc']))}
+        if ident not in jobs:raise KeyError(ident)
+        def key(start):
+            current=start;seen=set()
+            while current in jobs:
+                if current in seen:raise Conflict('Zyklische Ausgabe-Herkunft. Nicht automatisch löschen.')
+                seen.add(current);job=jobs[current]
+                if job.get('story_id'):return ('story',job['story_id'])
+                if not job.get('parent_job'):return ('root',current)
+                current=job['parent_job']
+            return ('root',current)
+        group_key=key(ident)
+        if group_key[0]=='story' and group_key[1] in stories:
+            story=stories[group_key[1]]
+            return {'story_id':story['id'],'version':story['version'],'title':story['name']}
+        owned=[]
+        for job in jobs.values():
+            try:matches=key(job['id'])==group_key
+            except Conflict:matches=False
+            if matches:owned.append(job)
+        owned_ids={j['id'] for j in owned}
+        def depends_on_owned(job):
+            current=job['id'];seen=set()
+            while current in jobs and current not in seen:
+                if current in owned_ids:return True
+                seen.add(current);current=jobs[current].get('parent_job')
+            return False
+        return {'story_id':None,'ids':sorted(owned_ids),
+                'busy':any(j['status'] in ('queued','running') and depends_on_owned(j) for j in jobs.values()),
+                'title':jobs[ident].get('story_title') or jobs[ident].get('improvement_title') or 'Ältere Geschichte'}
+
+    @serialized
+    def delete_legacy_story(self,ident,expected_ids):
+        if not isinstance(expected_ids,list) or not expected_ids or any(not isinstance(i,str) or not ID.fullmatch(i) for i in expected_ids):
+            raise ValueError('Bestätigte Ausgabenliste erforderlich.')
+        target=self.deletion_target(ident)
+        if target.get('story_id'):raise Conflict('Die Geschichte hat ein gespeichertes Skript. Bitte neu auswählen.')
+        if target['ids']!=sorted(expected_ids):raise Conflict('Die zugehörigen Ausgaben haben sich geändert. Bitte erneut auswählen.')
+        if target['busy']:raise Conflict('Eine zugehörige Ausgabe wird noch verarbeitet. Danach löschen.')
+        with self.store.connect() as db:
+            db.execute('BEGIN IMMEDIATE')
+            for job_id in target['ids']:
+                row=db.execute('SELECT doc FROM jobs WHERE id=?',(job_id,)).fetchone()
+                if not row or json.loads(row['doc'])['status'] in ('queued','running'):raise Conflict('Ausgabe inzwischen geändert. Bitte neu auswählen.')
+            for job_id in target['ids']:self._delete_row(db,job_id)
+        for job_id in target['ids']:shutil.rmtree(self.store.root/'jobs'/job_id,ignore_errors=True)
+        return len(target['ids'])
+
+    @serialized
     def delete_job(self,ident):
         with self.store.connect() as db:
             db.execute('BEGIN IMMEDIATE');row=db.execute('SELECT doc FROM jobs WHERE id=?',(ident,)).fetchone()

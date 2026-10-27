@@ -1,5 +1,9 @@
 """Geschichtenverwaltung: Versionen, unveränderte Snapshots und begrenztes Löschen."""
 import ast
+import os
+import threading
+import urllib.request
+import urllib.error
 import json
 from pathlib import Path
 import sys
@@ -90,6 +94,38 @@ class StoriesTests(unittest.TestCase):
         self.assertIsNotNone(self.store.get(outsider));self.assertTrue((self.store.directory(outsider)/'behalten.txt').exists())
         self.assertIsNone(self.store.get(j['id']))
 
+    def test_legacy_family_deletes_by_ancestry_not_title_and_preserves_imports(self):
+        def output(parent=None,story_id=None,status='completed'):
+            ident=uuid.uuid4().hex;self.store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
+            self.store.update(ident,parent_job=parent,story_id=story_id,status=status,story_title='Gleicher Titel')
+            self.store.write(ident,'comic.png',b'behalten oder entfernen');return ident
+        root=output();child=output(root);sibling=output(root);other=output()
+        saved=self.stories.save(definition());imported=output(root,saved['id'])
+        target=self.stories.deletion_target(child)
+        self.assertEqual(target['ids'],sorted([root,child,sibling]));self.assertIsNone(target['story_id'])
+        self.assertEqual(self.stories.deletion_target(imported)['story_id'],saved['id'])
+        with self.assertRaises(Conflict):self.stories.delete_legacy_story(child,[child])
+        self.store.update(imported,status='running')
+        with self.assertRaises(Conflict):self.stories.delete_legacy_story(child,target['ids'])
+        self.store.update(imported,status='completed')
+        self.store.update(sibling,status='running')
+        with self.assertRaises(Conflict):self.stories.delete_legacy_story(child,target['ids'])
+        self.assertIsNotNone(self.store.get(root))
+        self.store.update(sibling,status='completed')
+        self.assertEqual(self.stories.delete_legacy_story(child,target['ids']),3)
+        for ident in (root,child,sibling):
+            self.assertIsNone(self.store.get(ident));self.assertFalse((self.store.root/'jobs'/ident).exists())
+        self.assertIsNotNone(self.store.get(other));self.assertIsNotNone(self.store.get(imported))
+        self.assertEqual(self.stories.get(saved['id'])['name'],saved['name'])
+
+    def test_orphaned_story_links_form_one_legacy_family(self):
+        missing=uuid.uuid4().hex;ids=[uuid.uuid4().hex for _ in range(2)]
+        for ident in ids:
+            self.store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
+            self.store.update(ident,story_id=missing,status='completed')
+        self.assertEqual(self.stories.deletion_target(ids[0])['ids'],sorted(ids))
+        self.assertEqual(self.stories.delete_legacy_story(ids[0],sorted(ids)),2)
+
     def test_import_keeps_reference_snapshots_and_original(self):
         ident=uuid.uuid4().hex;self.store.create(ident,validate_request({'kacheln':1,'seed':42}),initial_status='editing')
         source=definition()['payload'];source['title']='Import';source['library_ids']=['b'*32]
@@ -149,5 +185,33 @@ class DismissPlanningTests(unittest.TestCase):
             self.assertEqual(stories.get(original['id']),original)
             retry=stories.plan(original['id'],original['version'])
             self.assertNotEqual(retry['id'],job['id'])
+
+class LegacyDeletionAPITests(unittest.TestCase):
+    def test_authenticated_confirmed_deletion_keeps_other_stories(self):
+        from app import Service,Handler,ThreadingHTTPServer
+        with tempfile.TemporaryDirectory() as root,patch.dict(os.environ,{'DATA_DIR':root,'WORKFLOW_TEMPLATE':str(ROOT/'examples/comics/workflows/04_Comic_Automat_9B.json'),'API_TOKEN':'test'}):
+            service=Service();ids=[uuid.uuid4().hex for _ in range(3)];cleaned=[]
+            for ident in ids:
+                service.store.create(ident,validate_request({'kacheln':1}),initial_status='editing')
+                service.store.update(ident,status='completed')
+            service.store.update(ids[1],parent_job=ids[0]);service.cleanup=lambda ident:cleaned.append(ident)
+            handler=type('LegacyHandler',(Handler,),{'service':service});server=ThreadingHTTPServer(('127.0.0.1',0),handler)
+            thread=threading.Thread(target=server.serve_forever,daemon=True);thread.start()
+            def call(method='GET',value=None,auth=True):
+                req=urllib.request.Request('http://127.0.0.1:'+str(server.server_port)+'/jobs/'+ids[1]+'/story-family',method=method,data=json.dumps(value).encode() if value is not None else None,headers={'Authorization':'Bearer test'} if auth else {})
+                try:
+                    with urllib.request.urlopen(req) as response:return response.status,json.load(response)
+                except urllib.error.HTTPError as exc:return exc.code,json.load(exc)
+            try:
+                self.assertEqual(call(auth=False)[0],401)
+                status,target=call();self.assertEqual(status,200);self.assertEqual(target['ids'],sorted(ids[:2]))
+                self.assertEqual(call('DELETE',{'ids':[ids[1]]})[0],409);self.assertEqual(cleaned,[])
+                service.store.update(ids[0],status='running')
+                self.assertEqual(call('DELETE',{'ids':target['ids']})[0],409);self.assertEqual(cleaned,[])
+                service.store.update(ids[0],status='completed')
+                self.assertEqual(call('DELETE',{'ids':target['ids']})[0],200)
+                self.assertEqual(sorted(cleaned),sorted(ids[:2]));self.assertIsNotNone(service.store.get(ids[2]))
+                self.assertIsNone(service.store.get(ids[0]));self.assertIsNone(service.store.get(ids[1]))
+            finally:server.shutdown();server.server_close();thread.join()
 
 if __name__=='__main__':unittest.main()

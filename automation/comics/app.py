@@ -217,6 +217,13 @@ class Handler(BaseHTTPRequestHandler):
             except Exception as exc:return self.reply(503,{'ready':False,'error':str(exc)[:2000]})
         if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list(public_only=True) if not job.get('correction_plan_mode') and not job.get('character_mode') and not job.get('book_mode') and not job.get('source_mode') and not job.get('narrative_mode')]})
         parts=path.strip('/').split('/')
+        if len(parts)==3 and parts[0]=='jobs' and parts[2]=='story-family' and ID.fullmatch(parts[1]):
+            try:
+                target=self.service.stories.deletion_target(parts[1])
+                if not target.get('story_id'):target['title']=self.story_preview(self.service.store.get(parts[1])).get('title') or target['title']
+                return self.reply(200,target)
+            except KeyError:return self.reply(404,{'error':'Comic nicht gefunden.'})
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
         if len(parts)==3 and parts[:2]==['characters','regenerations'] and ID.fullmatch(parts[2]):
             job=self.service.store.get(parts[2])
             if not job or not job.get('character_mode'):return self.reply(404,{'error':'Figurenauftrag nicht gefunden.'})
@@ -580,6 +587,21 @@ class Handler(BaseHTTPRequestHandler):
                 return self.reply(200,self.service.client.request('DELETE','/dgx-comics/characters/'+parts[1],value))
             except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
             except (ComfyError,OSError) as exc:return self.reply(409,{'error':str(exc)})
+        if len(parts)==3 and parts[0]=='jobs' and parts[2]=='story-family' and ID.fullmatch(parts[1]):
+            try:
+                size=int(self.headers.get('Content-Length','0'))
+                if not 0<size<=128000:raise ValueError('Bestätigte Ausgabenliste erforderlich.')
+                value=json.loads(self.rfile.read(size))
+                with self.service.stories.lock:
+                    target=self.service.stories.deletion_target(parts[1])
+                    if target.get('story_id') or target.get('busy'):raise Conflict('Auswahl geändert oder Verarbeitung aktiv. Bitte neu auswählen.')
+                    if not isinstance(value,dict) or target['ids']!=value.get('ids'):raise Conflict('Ausgabenliste inzwischen geändert. Bitte neu auswählen.')
+                    for job_id in target['ids']:self.service.cleanup(job_id)
+                    count=self.service.stories.delete_legacy_story(parts[1],value['ids'])
+                return self.reply(200,{'deleted':True,'deleted_outputs':count})
+            except KeyError:return self.reply(404,{'error':'Comic nicht gefunden.'})
+            except Conflict as exc:return self.reply(409,{'error':str(exc)})
+            except (ValueError,TypeError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts)==2 and parts[0]=='jobs' and ID.fullmatch(parts[1]):
             try:
                 job=self.service.store.get(parts[1])
