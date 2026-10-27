@@ -1,8 +1,8 @@
 TITEL: Der kleine Prinz · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 12
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -45,7 +45,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Eine leere Seite
 Ort und Zeit: Sahara, Tageslicht
 Sichtbare Figuren: Pilot, Kleiner Prinz
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Links der Pilot im Schatten eines stillgelegten Flugzeugflügels, rechts der kleine Reisende. Der Motor ist aus, kein Rauch und kein laufender Propeller. Zwischen ihnen die noch leere Papierseite. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links neben dem abgestellten beschädigten Flugzeug; Körperhaltung: am Boden sitzend; Mitgeführte Gegenstände: Zeichenblock auf den Knien; Bleistift in der rechten Hand; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts vor dem Piloten; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Halbtotale. Links der Pilot im Schatten eines stillgelegten Flugzeugflügels, rechts der kleine Reisende. Der Motor ist aus, kein Rauch und kein laufender Propeller. Zwischen ihnen die noch leere Papierseite.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Kleiner Prinz
@@ -62,7 +62,7 @@ Kontinuität / Änderung: Erste Begegnung. Der Prinz trägt keine Waffe; der Pil
 KACHEL 2: Platz für ein Schaf
 Ort und Zeit: Derselbe Platz, kurz danach
 Sichtbare Figuren: Pilot, Kleiner Prinz
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nahe über den Block. Darauf ausschließlich die einfache Skizze einer geschlossenen Kiste mit Luftlöchern, kein sichtbares Tier. Prinz und Pilot schauen auf dieselbe Zeichnung. Hände des Piloten klar getrennt; Block links, Bleistift rechts. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links unter dem Flügel; Körperhaltung: sitzend; Mitgeführte Gegenstände: Block in linker und Bleistift in rechter Hand; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts neben dem Block; Körperhaltung: leicht vorgebeugt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nahe über den Block. Darauf ausschließlich die einfache Skizze einer geschlossenen Kiste mit Luftlöchern, kein sichtbares Tier. Prinz und Pilot schauen auf dieselbe Zeichnung. Hände des Piloten klar getrennt; Block links, Bleistift rechts. Die Kiste ist ausschließlich eine flache Bleistiftskizze auf der einen Papierseite. Sie wird nicht als reales zusätzliches Gepäck zwischen die Personen gesetzt.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Pilot
@@ -79,7 +79,7 @@ Kontinuität / Änderung: Der Kasten existiert nur als Zeichnung, kein echtes Sc
 KACHEL 3: Weit weg und doch nah
 Ort und Zeit: Erzählte Erinnerung: Heimatplanet des Prinzen
 Sichtbare Figuren: Kleiner Prinz, Rose
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Erkennbarer Erinnerungswechsel: runder kleiner Planet vor weitem Nachthimmel. Links kniet der Prinz, rechts wächst genau eine Rose. Er schaut sie an, ohne sie zu pflücken. Keine Glasglocke, kein Gartengerät. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf der kleinen runden Erdfläche; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Rose: Ort: rechts fest im Boden; Körperhaltung: aufrecht wachsend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung; wächst fest in kleiner runder Erdfläche auf dem Heimatplaneten..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Erkennbarer Erinnerungswechsel: runder kleiner Planet vor weitem Nachthimmel. Links kniet der Prinz, rechts wächst genau eine Rose. Er schaut sie an, ohne sie zu pflücken. Keine Glasglocke, kein Gartengerät. Nur der Prinz und genau eine Rose befinden sich auf dem kleinen Planeten; Pilot, Flugzeug und Wüstenlager sind in dieser Erinnerung nicht sichtbar.
 Erzählertext: Der kleine Reisende erzählte von seinem Heimatplaneten und seiner Rose. Weit fortzugehen hatte die Verbindung zu ihr nicht aufgehoben.
 Dialoge: keine
 Kontinuität / Änderung: Rückblende, keine gleichzeitige Anwesenheit des Piloten. Rose bleibt im Boden; ihr Feststehen ist kein menschliches Gehen.
@@ -87,7 +87,7 @@ Kontinuität / Änderung: Rückblende, keine gleichzeitige Anwesenheit des Pilot
 KACHEL 4: Viele Welten, wenig Raum
 Ort und Zeit: Rückblick auf die Reise, ein symbolischer Bildmoment
 Sichtbare Figuren: Kleiner Prinz
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einzelnes symbolisches Tableau, ausdrücklich keine Abfolge mehrerer Handlungen: Der kleine Prinz unten zwischen weit auseinanderliegenden Lichtkreisen; darin undeutliche erwachsene Silhouetten, jede nur auf den eigenen engen Kreis gerichtet. Keine benannten zusätzlichen Figuren, keine Bücherhandlung aus fremden Fassungen ergänzen. Der Prinz wirkt klein zwischen den abgeschlossenen Bereichen. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: unten auf einem dunklen Weg; Körperhaltung: stehend, zum Hintergrund blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ein einzelnes symbolisches Tableau, ausdrücklich keine Abfolge mehrerer Handlungen: Der kleine Prinz unten zwischen weit auseinanderliegenden Lichtkreisen; darin undeutliche erwachsene Silhouetten, jede nur auf den eigenen engen Kreis gerichtet. Keine benannten zusätzlichen Figuren, keine Bücherhandlung aus fremden Fassungen ergänzen. Der Prinz wirkt klein zwischen den abgeschlossenen Bereichen. Die Lichtbereiche bilden ein einziges symbolisches Tableau mit weichen Übergängen. Die undeutlichen Erwachsenen sind verschieden; der Prinz erscheint nur einmal darunter.
 Erzählertext: Unterwegs hatte er Erwachsene getroffen, deren einzelne Gewissheiten kaum Platz für andere ließen. Größere Welten hatten ihm keine Nähe gegeben.
 Dialoge: keine
 Kontinuität / Änderung: Erzählter Reiseeindruck. Die Silhouetten sind namenlose Hintergrundbilder, keine neuen wiederkehrenden Figuren.
@@ -95,7 +95,7 @@ Kontinuität / Änderung: Erzählter Reiseeindruck. Die Silhouetten sind namenlo
 KACHEL 5: Nicht so nah
 Ort und Zeit: Erde, Rand einer offenen Wiese, Nachmittag
 Sichtbare Figuren: Kleiner Prinz, Fuchs
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Einstellung mit deutlich leerem Raum zwischen Prinz links und Fuchs rechts. Der Prinz bleibt sitzen und streckt keine Hand aus. Der Fuchs beobachtet ihn, halb am hohen Gras. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf der Wiese; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts am Rand des hohen Grases; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Breite Einstellung mit deutlich leerem Raum zwischen Prinz links und Fuchs rechts. Der Prinz bleibt sitzen und streckt keine Hand aus. Der Fuchs beobachtet ihn, halb am hohen Gras.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Kleiner Prinz
@@ -112,7 +112,7 @@ Kontinuität / Änderung: Neue Begegnung auf der Erde nach der Reise. Fuchs wild
 KACHEL 6: Wiederkommen
 Ort und Zeit: Dieselbe Wiese, ein späterer Nachmittag
 Sichtbare Figuren: Kleiner Prinz, Fuchs
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Wiederholung derselben Blickrichtung und desselben Bildausschnitts wie zuvor. Längere Schatten kennzeichnen einen späteren Tag. Der Prinz sitzt wieder an seinem Platz, der Fuchs ist sichtbar näher, bleibt aber getrennt. Keine Berührung, keine Handfütterung. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links an derselben Stelle; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts auf halber Distanz zum Prinzen; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Wiederholung derselben Blickrichtung und desselben Bildausschnitts wie zuvor. Längere Schatten kennzeichnen einen späteren Tag. Der Prinz sitzt wieder an seinem Platz, der Fuchs ist sichtbar näher, bleibt aber getrennt. Keine Berührung, keine Handfütterung. Es ist ein späterer einzelner Besuch mit denselben beiden Figuren, keine zweite überlagerte Darstellung ihrer früheren Sitzplätze.
 Erzählertext: Beim Fuchs lernte er das Wiederkommen. Vertrauen entstand nicht sofort, sondern mit Geduld und gemeinsam verbrachter Zeit.
 Dialoge: keine
 Kontinuität / Änderung: Ausdrücklicher Zeitsprung: wiederholte Begegnung. Der Abstand hat sich durch Zeit verkürzt, nicht durch ein plötzliches Springen.
@@ -120,7 +120,7 @@ Kontinuität / Änderung: Ausdrücklicher Zeitsprung: wiederholte Begegnung. Der
 KACHEL 7: Eine Stelle für jemanden
 Ort und Zeit: Dieselbe Wiese, später
 Sichtbare Figuren: Kleiner Prinz, Fuchs
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Beide schauen in dieselbe Richtung statt einander zu belehren. Der Fuchs sitzt jetzt neben dem Prinzen, ohne vermenschlichte Gestik. Ein schmaler Lichtstreifen verbindet ihre Schatten. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links auf dem Boden; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts unmittelbar neben ihm; Körperhaltung: auf den Hinterbeinen sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Halbnahe. Beide schauen in dieselbe Richtung statt einander zu belehren. Der Fuchs sitzt jetzt neben dem Prinzen, ohne vermenschlichte Gestik. Ein schmaler Lichtstreifen verbindet ihre Schatten.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Kleiner Prinz
@@ -137,7 +137,7 @@ Kontinuität / Änderung: Späterer Moment derselben Beziehung. Der Fuchs wurde 
 KACHEL 8: Die andere Frage
 Ort und Zeit: Wiese, beim Abschied
 Sichtbare Figuren: Kleiner Prinz, Fuchs
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gleiche Achse wie bei der ersten Begegnung, nun nicht als Furcht, sondern als Abschied: Der Prinz links steht zum Weitergehen bereit, der Fuchs rechts hält Blickkontakt. Keine Träne als Pflichtsymbol. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links am Wiesenrand; Körperhaltung: stehend, Blick nach rechts; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Fuchs: Fortbewegung: zu Fuß; Ort: rechts im Gras; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Gleiche Achse wie bei der ersten Begegnung, nun nicht als Furcht, sondern als Abschied: Der Prinz links steht zum Weitergehen bereit, der Fuchs rechts hält Blickkontakt. Keine Träne als Pflichtsymbol.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Kleiner Prinz
@@ -154,7 +154,7 @@ Kontinuität / Änderung: Abschied vom Fuchs. Keine gezeigte Rückkehr zur Rose;
 KACHEL 9: Nicht nur eine Blume
 Ort und Zeit: Sahara beim Flugzeug, später Nachmittag
 Sichtbare Figuren: Pilot, Kleiner Prinz
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale wie in Kachel 1. Der Pilot hat die praktische Arbeit unterbrochen und hört zu. Der Prinz hält keine Rose in der Hand, sie ist nur Gegenstand des Gesprächs. Der Schal liegt unverändert um seinen Hals. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links am Flugzeug; Körperhaltung: sitzend; Mitgeführte Gegenstände: Zeichenblock geschlossen auf den Knien; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung.. Kleiner Prinz: Fortbewegung: zu Fuß; Ort: rechts vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Halbtotale wie in Kachel 1. Der Pilot hat die praktische Arbeit unterbrochen und hört zu. Der Prinz hält keine Rose in der Hand, sie ist nur Gegenstand des Gesprächs. Der Schal liegt unverändert um seinen Hals. Das Gegenüber des Piloten ist nur der eine kleine Prinz. Die besprochene Rose erscheint nicht als Objekt, Bildblase oder zusätzliche Person im Wüstenraum.
 Erzählertext: Zurück beim Piloten verstand er seine Rose anders: Die Zeit und Fürsorge hatten sie für ihn wichtig gemacht. Er wollte Verantwortung übernehmen.
 Dialoge: keine
 Kontinuität / Änderung: Rückkehr zur Rahmenerzählung. Block wieder beim Piloten; Rose weiterhin auf dem fernen Heimatplaneten, nicht in die Wüste versetzt.
@@ -162,7 +162,7 @@ Kontinuität / Änderung: Rückkehr zur Rahmenerzählung. Block wieder beim Pilo
 KACHEL 10: Am Rand der Nacht
 Ort und Zeit: Sahara, abseits des Flugzeugs, Abend
 Sichtbare Figuren: Kleiner Prinz, Schlange
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite stille Einstellung. Links der Prinz im letzten Licht, rechts in deutlichem Abstand die schmale Schlange am Boden. Kein Biss, keine Verletzung, kein liegender Körper. Der Himmel nimmt zwei Drittel ein. Verbindliche Zustände: Kleiner Prinz: Fortbewegung: zu Fuß; Ort: links neben einem niedrigen Wüstenstein; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichte hellgrüne Jacke, cremefarbenes Hemd, dunkelgrüne Hose, braune Schuhe; kurzer ockergelber Schal. Keine Krone, kein Schwert.. Schlange: Ort: rechts auf dem Sand vor dem Stein; Körperhaltung: mit einem Körperbogen am Boden ruhend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Keine Kleidung, keine Gegenstände..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite stille Einstellung. Links der Prinz im letzten Licht, rechts in deutlichem Abstand die schmale Schlange am Boden. Kein Biss, keine Verletzung, kein liegender Körper. Der Himmel nimmt zwei Drittel ein.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Kleiner Prinz
@@ -174,7 +174,7 @@ Kontinuität / Änderung: Der Prinz hat sich vom Flugzeug entfernt. Begegnung mi
 KACHEL 11: Der Platz im Sand
 Ort und Zeit: Dieselbe Wüste, nächster Morgen
 Sichtbare Figuren: Pilot
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Totale auf genau den Stein aus Kachel 10. Nur der Pilot ist anwesend. Rechts liegt leerer Sand, keine Leiche, keine zurückgelassene Kleidung, kein sichtbares Schaf und keine Schlange. Der Pilot hält inne; seine Hand berührt den leeren Boden nicht. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: links vor dem niedrigen Stein; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Totale auf genau den Stein aus Kachel 10. Nur der Pilot ist anwesend. Rechts liegt leerer Sand, keine Leiche, keine zurückgelassene Kleidung, kein sichtbares Schaf und keine Schlange. Der Pilot hält inne; seine Hand berührt den leeren Boden nicht. Der Sandplatz ist vollständig leer bis auf den einen lebenden Piloten; das Verschwinden wird nicht durch einen gezeichneten Körper erklärt.
 Erzählertext: Am Morgen nach der Begegnung mit der Schlange war der Junge verschwunden. Der Pilot fand keine eindeutige Erklärung für den Abschied.
 Dialoge: keine
 Kontinuität / Änderung: Der Prinz ist verschwunden, nicht als tot oder heimgekehrt bestätigt. Flugzeug bleibt außerhalb des Bildes. Keinen Schal als unbelegten Fund ergänzen.
@@ -182,7 +182,7 @@ Kontinuität / Änderung: Der Prinz ist verschwunden, nicht als tot oder heimgek
 KACHEL 12: Was mitgeht
 Ort und Zeit: Sahara, eine spätere klare Nacht
 Sichtbare Figuren: Pilot
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Letzte weite Einstellung. Unten links klein der Pilot mit dem wieder geöffneten Block; darauf nur die vertraute Kistenskizze. Über ihm ein offener Sternenhimmel. Kein körperlich zurückgekehrter Prinz und keine als sicher dargestellte Heimatplaneten-Szene. Verbindliche Zustände: Pilot: Fortbewegung: zu Fuß; Ort: unten links unter freiem Himmel; Körperhaltung: sitzend; Mitgeführte Gegenstände: Zeichenblock mit Kistenskizze auf den Knien; Lebenszustand: lebend; Kleidung: Sandfarbene Fliegerjacke, weißes Hemd, braune Hose und Stiefel; Schutzbrille am Hals. Kein Kostüm aus einer Verfilmung..
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Letzte weite Einstellung. Unten links klein der Pilot mit dem wieder geöffneten Block; darauf nur die vertraute Kistenskizze. Über ihm ein offener Sternenhimmel. Kein körperlich zurückgekehrter Prinz und keine als sicher dargestellte Heimatplaneten-Szene.
 Erzählertext: Beim Blick zu den Sternen erinnerte der Pilot sich an ihn. Der Abschied blieb offen, die entstandene Verbindung aber nicht bedeutungslos.
 Dialoge: keine
 Kontinuität / Änderung: Spätere Erinnerungsnacht, kein festgelegtes Datum. Verbindung bleibt beim Piloten als Erinnerung, der Abschied bleibt offen.

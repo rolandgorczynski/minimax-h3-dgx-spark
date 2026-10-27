@@ -1,8 +1,8 @@
 TITEL: Die Schneekönigin – Wärme im Eispalast · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 12
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -45,7 +45,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Eine Spur im Norden
 Ort und Zeit: Schneepfad vor einer kleinen Hütte
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Rentier als Gerdas Weggefährte
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Im weiten weißen Norden trägt ein einzelnes Rentier Gerda zur niedrigen beleuchteten Hütte. Kein Schlitten, keine zweite Gerda. Der kalte Raum ist groß, das Licht klein. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: auf dem Rücken des Rentiers; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hände im Halsfell; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt. Rentier als Gerdas Weggefährte: Ort: am Hüttenpfad; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Winterfell; keine menschliche Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Im weiten weißen Norden trägt ein einzelnes Rentier Gerda zur niedrigen beleuchteten Hütte. Kein Schlitten, keine zweite Gerda. Der kalte Raum ist groß, das Licht klein.
 Erzählertext: Spiegelsplitter hatten Kays Blick und Herz verändert. Seit die Schneekönigin ihn mitgenommen hatte, suchte Gerda ihn.
 Dialoge: keine
 Kontinuität / Änderung: keine
@@ -53,7 +53,7 @@ Kontinuität / Änderung: keine
 KACHEL 2: Weiter als bis hier
 Ort und Zeit: Hütte der Lappländerin
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Lappländerin an der ersten Hütte
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gerda ist zuvor vom wartenden Rentier abgestiegen und in die Hütte gegangen. Die Lappländerin weist durch die Tür zum nächsten Weg. Gerdas Wolltuch liegt weiter um ihre Schultern. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: neben dem Herd; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Lappländerin an der ersten Hütte: Ort: gegenüber auf einer Bank; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hand deutet nach Norden; Kleidung: Brauner Wollmantel, Fellmütze und hohe Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Gerda ist zuvor vom wartenden Rentier abgestiegen und in die Hütte gegangen. Die Lappländerin weist durch die Tür zum nächsten Weg. Gerdas Wolltuch liegt weiter um ihre Schultern.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Lappländerin an der ersten Hütte
@@ -70,7 +70,7 @@ Kontinuität / Änderung: Ortswechsel nach dem Absteigen; Rentier wartet drauße
 KACHEL 3: Die Grenze der Hilfe
 Ort und Zeit: Kleine Hütte der Finnin
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Finnin vor dem Eispalast, Rentier als Gerdas Weggefährte
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach einer weiteren Reise und erneutem Absteigen sitzt Gerda bei der Finnin. Das Rentier fragt vom Türrahmen aus nach Hilfe. Keine Flasche und kein Zaubertrank auf dem Tisch. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: auf niedrigem Schemel; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rentier als Gerdas Weggefährte: Ort: vor der offenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Winterfell; keine menschliche Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Finnin vor dem Eispalast: Ort: vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ockerfarbenes Wollkleid, dunkler Überwurf und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach einer weiteren Reise und erneutem Absteigen sitzt Gerda bei der Finnin. Das Rentier fragt vom Türrahmen aus nach Hilfe. Keine Flasche und kein Zaubertrank auf dem Tisch.
 Erzählertext: Die Finnin konnte Gerda den Weg zeigen. Die Begegnung mit Kay konnte ihr jedoch niemand abnehmen.
 Dialoge: keine
 Kontinuität / Änderung: Lappländerin bleibt in ihrer Hütte. Finnin ist eine andere Person, keine Verwandlung.
@@ -78,7 +78,7 @@ Kontinuität / Änderung: Lappländerin bleibt in ihrer Hütte. Finnin ist eine 
 KACHEL 4: Bis hierher getragen
 Ort und Zeit: Letzter geschützter Fels vor dem Eispalast
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Rentier als Gerdas Weggefährte
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach erneuter Reise hält das Rentier unter dem letzten Fels. Durch den Schneeschleier sind eisige Torpfeiler sichtbar. Gerda sitzt noch auf dem Tier und schaut zur Entfernung. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: auf dem Rücken des stehenden Rentiers; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hände am Halsfell; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt. Rentier als Gerdas Weggefährte: Ort: unter dem Fels; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Winterfell; keine menschliche Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach erneuter Reise hält das Rentier unter dem letzten Fels. Durch den Schneeschleier sind eisige Torpfeiler sichtbar. Gerda sitzt noch auf dem Tier und schaut zur Entfernung.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Rentier als Gerdas Weggefährte
@@ -90,7 +90,7 @@ Kontinuität / Änderung: Letzte berittene Einstellung vor ausdrücklichem Abste
 KACHEL 5: Die letzten Schritte
 Ort und Zeit: Zwischen Schutzfels und Eistor
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Rentier als Gerdas Weggefährte
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gerda ist vom stehenden Rentier abgestiegen und geht jetzt allein auf das offene Eistor zu. Das Tier bleibt hinter ihr am Fels. Wolltuch, Kleid und Schuhe bleiben gleich. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: vor dem Rentier; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rentier als Gerdas Weggefährte: Ort: unter dem Schutzfels; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Winterfell; keine menschliche Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Gerda ist vom stehenden Rentier abgestiegen und geht jetzt allein auf das offene Eistor zu. Das Tier bleibt hinter ihr am Fels. Wolltuch, Kleid und Schuhe bleiben gleich.
 Erzählertext: Am letzten Fels stieg Gerda ab. Das Rentier blieb zurück, während sie den restlichen Weg allein ging.
 Dialoge: keine
 Kontinuität / Änderung: Gerda ab jetzt zu Fuß. Keine Begleitung im Palast, kein erfundener Endkampf.
@@ -98,7 +98,7 @@ Kontinuität / Änderung: Gerda ab jetzt zu Fuß. Keine Begleitung im Palast, ke
 KACHEL 6: Das unlösbare Muster
 Ort und Zeit: Weite Eishalle
 Sichtbare Figuren: Kay im Eispalast, Gerda auf dem Weg in den Norden
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein tiefer Blick in eine fast leere Halle. Kay kniet über auseinanderliegenden Eisstücken und ordnet sie zwanghaft. Gerda ist klein im Hintergrund. Die Schneekönigin ist abwesend. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: im entfernten Eingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: auf dem Boden vor Eisstücken; Körperhaltung: kniend; Mitgeführte Gegenstände: ein flaches Eisstück; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ein tiefer Blick in eine fast leere Halle. Kay kniet über auseinanderliegenden Eisstücken und ordnet sie zwanghaft. Gerda ist klein im Hintergrund. Die Schneekönigin ist abwesend. Kay ist als kniender Junge im Vordergrund deutlich erkennbar; Gerda steht als normal großes Mädchen weit hinten am Eingang. Der Größenunterschied entsteht nur durch die Tiefe der Halle.
 Erzählertext: Im Palast fand sie Kay über einem Rätsel aus Eis. Er suchte nach der Lösung und erkannte seine Freundin nicht.
 Dialoge: keine
 Kontinuität / Änderung: Kay erkennt sie hier noch nicht. Das gesuchte Wort ist noch nicht gelegt.
@@ -106,7 +106,7 @@ Kontinuität / Änderung: Kay erkennt sie hier noch nicht. Das gesuchte Wort ist
 KACHEL 7: Keine Antwort
 Ort und Zeit: Am Eisrätsel
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Kay im Eispalast
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gerda hat die Halle durchquert und kniet auf gleicher Höhe neben Kay. Er blickt nur auf die Kanten des Eisstücks und weicht ihrem Blick aus. Keine erklärenden Geister im Hintergrund. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: dicht neben Kay; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: über dem Rätsel; Körperhaltung: kniend; Mitgeführte Gegenstände: ein flaches Eisstück; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Gerda hat die Halle durchquert und kniet auf gleicher Höhe neben Kay. Er blickt nur auf die Kanten des Eisstücks und weicht ihrem Blick aus. Keine erklärenden Geister im Hintergrund.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Kay im Eispalast
@@ -123,7 +123,7 @@ Kontinuität / Änderung: Herz noch erstarrt; Augensplitter noch vorhanden. Kein
 KACHEL 8: Wärme
 Ort und Zeit: Vor den verstreuten Eisstücken
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Kay im Eispalast
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gerda umarmt Kay und weint. Ein Tropfen fällt auf seinen geschlossenen Rock über der Brust; dort weicht ein zartes Frostmuster sichtbar zurück. Sein Eisstück liegt nun neben seiner Hand. Kein offener Körper. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: neben Kay; Körperhaltung: kniend; Mitgeführte Gegenstände: Arme um Kay; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: in Gerdas Umarmung; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Gerda umarmt Kay und weint. Ein Tropfen fällt auf seinen geschlossenen Rock über der Brust; dort weicht ein zartes Frostmuster sichtbar zurück. Sein Eisstück liegt nun neben seiner Hand. Kein offener Körper. Gerda links legt beide Arme um Kays Schultern; Kay bleibt rechts auf den Knien. Das Frostmuster liegt ausschließlich auf dem Stoff seines Rocks.
 Erzählertext: Gerda umarmte ihn und weinte. Ihre Tränen lösten im Märchen das Eis um sein Herz.
 Dialoge: keine
 Kontinuität / Änderung: Zuerst löst sich die Herzwirkung. Splitter im Auge noch nicht ausgeweint; beide bleiben angekleidet.
@@ -131,7 +131,7 @@ Kontinuität / Änderung: Zuerst löst sich die Herzwirkung. Splitter im Auge no
 KACHEL 9: Der zweite Splitter
 Ort und Zeit: Nahaufnahme vor dem Eisrätsel
 Sichtbare Figuren: Kay im Eispalast, Gerda auf dem Weg in den Norden
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Kay beginnt selbst zu weinen. Auf seiner Wange gleitet in einem klaren Tropfen ein winziger heller Spiegelsplitter nach unten. Zum ersten Mal sieht er Gerda direkt an. Kein Blut und kein verletztes Auge. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: vor Kay; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: neben Gerda; Körperhaltung: kniend; Mitgeführte Gegenstände: eine Hand an der Wange; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Kay beginnt selbst zu weinen. Auf seiner Wange gleitet in einem klaren Tropfen ein winziger heller Spiegelsplitter nach unten. Zum ersten Mal sieht er Gerda direkt an. Kein Blut und kein verletztes Auge. Nahansicht beider Gesichter, Kay rechts und Gerda links. Der helle Splitter bleibt ein winziger Lichtpunkt im Tropfen auf der Wange unter dem Auge, kein herausragendes Glasstück.
 Erzählertext: Nun weinte auch Kay. Der Splitter glitt aus seinem Auge, und endlich erkannte er Gerda wieder.
 Dialoge: keine
 Kontinuität / Änderung: Erst jetzt wird der Augensplitter ausgeweint. Herzwirkung war bereits in der vorherigen Kachel gelöst.
@@ -139,7 +139,7 @@ Kontinuität / Änderung: Erst jetzt wird der Augensplitter ausgeweint. Herzwirk
 KACHEL 10: Nicht mehr allein
 Ort und Zeit: Eishalle beim vollendeten Muster
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Kay im Eispalast
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Beide sind aufgestanden. Unter ihnen haben sich die Eisstücke zum Wort EWIGKEIT geordnet, als ruhige lesbare Bodeninschrift. Die beiden schauen einander an statt auf das gelöste Rätsel. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: neben Kay; Körperhaltung: stehend; Mitgeführte Gegenstände: Kays Hand; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: neben Gerda; Körperhaltung: stehend; Mitgeführte Gegenstände: Gerdas Hand; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Beide sind aufgestanden. Unter ihnen haben sich die Eisstücke zum Wort EWIGKEIT geordnet, als ruhige lesbare Bodeninschrift. Die beiden schauen einander an statt auf das gelöste Rätsel.
 Erzählertext: Das gesuchte Wort hatte sich aus den Eisstücken gefügt. Doch Kay brauchte Gerda nicht länger darüber zu vergessen.
 Dialoge: keine
 Kontinuität / Änderung: Das Wort entsteht erst nach dem Wiedererkennen. Kein Rätsel wird als Ursache der Rettung dargestellt.
@@ -147,7 +147,7 @@ Kontinuität / Änderung: Das Wort entsteht erst nach dem Wiedererkennen. Kein R
 KACHEL 11: Zusammen hinaus
 Ort und Zeit: Eistor am Schutzfels
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Kay im Eispalast, Rentier als Gerdas Weggefährte
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Beide verlassen zu Fuß den Palast und erreichen das wartende Rentier am unveränderten Fels. Der weite Raum wirkt heller. Kein gemeinsamer Ritt zweier Kinder auf einem zu kleinen Rücken. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: außerhalb des Tores; Körperhaltung: gehend; Mitgeführte Gegenstände: Kays Hand; Kleidung: Dunkelrotes Wollkleid, braune Schuhe und graues Wolltuch um die Schultern. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: neben Gerda; Körperhaltung: gehend; Mitgeführte Gegenstände: Gerdas Hand; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rentier als Gerdas Weggefährte: Ort: am selben Schutzfels; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Winterfell; keine menschliche Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Beide verlassen zu Fuß den Palast und erreichen das wartende Rentier am unveränderten Fels. Der weite Raum wirkt heller. Kein gemeinsamer Ritt zweier Kinder auf einem zu kleinen Rücken.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Gerda auf dem Weg in den Norden
@@ -159,7 +159,7 @@ Kontinuität / Änderung: Palast verlassen; Heimreise folgt außerhalb dieser ei
 KACHEL 12: Die Rosen zuhause
 Ort und Zeit: Hof der vertrauten Häuser
 Sichtbare Figuren: Gerda auf dem Weg in den Norden, Kay im Eispalast
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach der langen gemeinsamen Heimreise sitzen sie wieder nebeneinander bei den Rosen. Gerdas graues Wolltuch hängt über der Banklehne. Kay riecht aufmerksam an einer Blüte, Gerda sieht sein Lächeln. Verbindliche Zustände: Gerda auf dem Weg in den Norden: Ort: bei blühenden Rosen; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes Wollkleid und braune Schuhe; graues Tuch über der Banklehne; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kay im Eispalast: Ort: auf derselben Bank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Wollrock, graue Hose, braune Schuhe. Vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach der langen gemeinsamen Heimreise sitzen sie wieder nebeneinander bei den Rosen. Gerdas graues Wolltuch hängt über der Banklehne. Kay riecht aufmerksam an einer Blüte, Gerda sieht sein Lächeln.
 Erzählertext: Nach der langen Heimreise saßen sie wieder bei den Rosen. Was Kay verloren hatte, konnte er nun wieder wahrnehmen.
 Dialoge: keine
 Kontinuität / Änderung: Expliziter Zeitsprung zur Heimkehr; keine plötzlich im Eispalast blühenden Rosen.

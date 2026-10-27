@@ -13,6 +13,13 @@ spec.loader.exec_module(design)
 
 
 class ComicTests(unittest.TestCase):
+    def test_offscreen_speaker_metadata_survives_scene_parsing(self):
+        scene={'story':'Axel lauscht am Fels.','characters':['a'*32],'offscreen_speakers':['b'*32],
+               'bubbles':[{'speaker':'b'*32,'text':'Hörst du mich?'}]}
+        self.assertEqual(design.parse_scenes(json.dumps([scene]),1)[0]['offscreen_speakers'],['b'*32])
+        for invalid in (['a'*32],['unbekannt'],['b'*32,'b'*32],True):
+            with self.assertRaises(ValueError):design.parse_scenes(json.dumps([{**scene,'offscreen_speakers':invalid}]),1)
+
     def test_only_visible_scenes_are_used_and_missing_scenes_fail(self):
         scenes = json.dumps([{'story': 'Sysop prüft Backups.', 'dialog': 'Zażółć gęślą jaźń.'},
                              {'story': 'Ausgeblendete Szene', 'dialog': ''}])

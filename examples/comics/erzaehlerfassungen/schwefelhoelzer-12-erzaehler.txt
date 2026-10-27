@@ -1,8 +1,8 @@
 TITEL: Das Mädchen mit den Schwefelhölzern – Ein Licht nach dem anderen · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 12
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -24,7 +24,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Kein Verkauf
 Ort und Zeit: Verschneite Stadt am Silvesterabend
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Das barfüßige, sonst vollständig bekleidete Kind hält ein kleines Bündel von genau sechs Schwefelhölzern hin. Namenlose Erwachsene gehen mit ihren Paketen vorbei, niemand nimmt eines. Hinter den Fenstern warme gedeckte Tische. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: am Rand der belebten Straße; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleines Bündel mit genau sechs unbenutzten Hölzern; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das barfüßige, sonst vollständig bekleidete Kind hält ein kleines Bündel von genau sechs Schwefelhölzern hin. Namenlose Erwachsene gehen mit ihren Paketen vorbei, niemand nimmt eines. Hinter den Fenstern warme gedeckte Tische.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Mädchen mit sechs Schwefelhölzern
@@ -36,7 +36,7 @@ Kontinuität / Änderung: Für diese knappe Adaption genau sechs Hölzer insgesa
 KACHEL 2: Nicht nach Hause
 Ort und Zeit: Dunkle Seitengasse
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Das Kind blickt in die dunkle Gasse, die nach Hause führen würde. Seine geschlossene zweite Hand ist leer von Münzen. Ein Straßenlicht trennt die warme Hauptstraße von der schwarzen Abzweigung. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: vor einer dunklen abzweigenden Gasse; Körperhaltung: stehend; Mitgeführte Gegenstände: dasselbe Bündel mit sechs unbenutzten Hölzern; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das Kind blickt in die dunkle Gasse, die nach Hause führen würde. Seine geschlossene zweite Hand ist leer von Münzen. Ein Straßenlicht trennt die warme Hauptstraße von der schwarzen Abzweigung.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Mädchen mit sechs Schwefelhölzern
@@ -48,7 +48,7 @@ Kontinuität / Änderung: Keine Heimkehr erfolgt. Alle sechs Hölzer noch unbenu
 KACHEL 3: Die Nische
 Ort und Zeit: Winkel zwischen zwei Hausmauern
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Das Mädchen hat sich in den Winkel gesetzt und die Füße unter den langen Kleidsaum gezogen. Das Schultertuch bedeckt den Oberkörper vollständig. Es betrachtet das kleine Bündel im kalten Restlicht. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: in einer geschützten Mauerecke; Körperhaltung: sitzend; Mitgeführte Gegenstände: Bündel mit sechs unbenutzten Hölzern; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das Mädchen hat sich in den Winkel gesetzt und die Füße unter den langen Kleidsaum gezogen. Das Schultertuch bedeckt den Oberkörper vollständig. Es betrachtet das kleine Bündel im kalten Restlicht.
 Erzählertext: Am letzten Abend des Jahres suchte das barfüßige Mädchen Schutz zwischen zwei Mauern. Verkauft hatte es nichts.
 Dialoge: keine
 Kontinuität / Änderung: Fortan bleibt das Kind an diesem Ort. Keine unbemerkten Ortswechsel zwischen Visionen.
@@ -56,7 +56,7 @@ Kontinuität / Änderung: Fortan bleibt das Kind an diesem Ort. Keine unbemerkte
 KACHEL 4: Das erste Licht
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Das erste Holz brennt vor ihren Händen. In einem klar weich begrenzten goldenen Lichtfeld erscheint ein großer warmer Ofen. Die echte kalte Backsteinwand bleibt außerhalb dieser Vision sichtbar; kein wirklicher Ofen auf der Straße. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: in der Mauernische; Körperhaltung: sitzend; Mitgeführte Gegenstände: erstes brennendes Holz rechts; fünf unbenutzte links; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das erste Holz brennt vor ihren Händen. In einem klar weich begrenzten goldenen Lichtfeld erscheint ein großer warmer Ofen. Die echte kalte Backsteinwand bleibt außerhalb dieser Vision sichtbar; kein wirklicher Ofen auf der Straße. Das Mädchen sitzt links vor der durchgehend sichtbaren kalten Mauer; rechts über der kleinen Flamme schimmert der Ofen als durchscheinende Vorstellung ohne Bodenkontakt.
 Erzählertext: Im Licht des ersten Holzes erschien ihm ein warmer Ofen. Die Wärme gehörte zur Vision, nicht zur kalten Nische.
 Dialoge: keine
 Kontinuität / Änderung: Erstes Holz entzündet, fünf unbenutzt. Erscheinung ist keine reale Wärmequelle außerhalb der kleinen Flamme.
@@ -64,7 +64,7 @@ Kontinuität / Änderung: Erstes Holz entzündet, fünf unbenutzt. Erscheinung i
 KACHEL 5: Wieder die Wand
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Die Flamme ist aus, der vorgestellte Ofen vollständig verschwunden. Vor ihr steht wieder nur die kalte Mauer. Ihr rechter Arm hält noch dieselbe ausgestreckte Haltung, nun ohne Licht. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: unverändert im Winkel; Körperhaltung: sitzend; Mitgeführte Gegenstände: erstes abgebranntes Holz rechts; fünf unbenutzte links; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Die Flamme ist aus, der vorgestellte Ofen vollständig verschwunden. Vor ihr steht wieder nur die kalte Mauer. Ihr rechter Arm hält noch dieselbe ausgestreckte Haltung, nun ohne Licht.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Mädchen mit sechs Schwefelhölzern
@@ -76,7 +76,7 @@ Kontinuität / Änderung: Ein Holz verbraucht, fünf übrig. Der Ofen verschwind
 KACHEL 6: Eine gedeckte Tafel
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Das zweite Holz brennt. Hinter seinem Schein erscheint als weich abgegrenzte Vision eine gedeckte Tafel mit warmem Essen. Das erste verkohlte Holz liegt auf dem Steinboden. Das Kind erhält kein echtes Brot. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: am selben Sitzplatz; Körperhaltung: sitzend; Mitgeführte Gegenstände: zweites brennendes Holz rechts; vier unbenutzte links; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das zweite Holz brennt. Hinter seinem Schein erscheint als weich abgegrenzte Vision eine gedeckte Tafel mit warmem Essen. Das erste verkohlte Holz liegt auf dem Steinboden. Das Kind erhält kein echtes Brot.
 Erzählertext: Die nächste Flamme zeigte eine festliche Tafel. Als das Licht erlosch, blieb das Mädchen ebenso hungrig zurück.
 Dialoge: keine
 Kontinuität / Änderung: Ein ausgebranntes Holz am Boden, eines brennt, vier unbenutzt. Kein realer Teller in ihrer Hand.
@@ -84,7 +84,7 @@ Kontinuität / Änderung: Ein ausgebranntes Holz am Boden, eines brennt, vier un
 KACHEL 7: Der helle Baum
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach Erlöschen der zweiten Flamme brennt das dritte Holz. Ein festlicher Baum erscheint allein im warmen Lichtfeld. Ofen und Essen sind weg. Genau zwei verbrannte Hölzer liegen auf dem Boden. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: unverändert im Winkel; Körperhaltung: sitzend; Mitgeführte Gegenstände: drittes brennendes Holz rechts; drei unbenutzte links; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach Erlöschen der zweiten Flamme brennt das dritte Holz. Ein festlicher Baum erscheint allein im warmen Lichtfeld. Ofen und Essen sind weg. Genau zwei verbrannte Hölzer liegen auf dem Boden.
 Erzählertext: Ein weiteres Holz ließ einen geschmückten Baum erscheinen. Auch dieser Glanz endete mit der kleinen Flamme.
 Dialoge: keine
 Kontinuität / Änderung: Zwei verbraucht, drittes brennt, drei übrig. Baum nur Vision, keine tatsächliche Feststube.
@@ -92,7 +92,7 @@ Kontinuität / Änderung: Zwei verbraucht, drittes brennt, drei übrig. Baum nur
 KACHEL 8: Über der Stadt
 Ort und Zeit: Mauernische unter dem Nachthimmel
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Das dritte Holz liegt ausgebrannt neben den anderen beiden. Über der dunklen Mauerkante zieht ein einzelner Stern eine kurze Lichtspur. Kein visionärer Festbaum mehr und keine körperlich anwesende Großmutter. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: im Winkel, Blick nach oben; Körperhaltung: sitzend; Mitgeführte Gegenstände: drei unbenutzte Hölzer in der linken Hand; rechte leer; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das dritte Holz liegt ausgebrannt neben den anderen beiden. Über der dunklen Mauerkante zieht ein einzelner Stern eine kurze Lichtspur. Kein visionärer Festbaum mehr und keine körperlich anwesende Großmutter.
 Erzählertext: Ein fallender Stern erinnerte sie an ihre verstorbene Großmutter, bei der sie sich einst geborgen gefühlt hatte.
 Dialoge: keine
 Kontinuität / Änderung: Drei verbrannte Hölzer am Boden, drei unbenutzt. Erinnerung bereitet die nächste Erscheinung vor.
@@ -100,7 +100,7 @@ Kontinuität / Änderung: Drei verbrannte Hölzer am Boden, drei unbenutzt. Erin
 KACHEL 9: Die vertraute Gestalt
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern, Großmutter in der Lichtvision
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Im goldenen Feld der vierten Flamme erscheint das Gesicht und die obere Gestalt der Großmutter. Die kalte Mauer bleibt als äußere Wirklichkeit bestehen. Die Erscheinung hat keinen zweiten körperlichen Schatten auf den Steinen. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: im Winkel; Körperhaltung: sitzend; Mitgeführte Gegenstände: viertes brennendes Holz rechts; zwei unbenutzte links; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden. Großmutter in der Lichtvision: Ort: nur innerhalb der warm abgegrenzten Lichtvision; Körperhaltung: stehende Erscheinung; Mitgeführte Gegenstände: leere Hände; Kleidung: Einfaches helles langes Kleid und graues Schultertuch innerhalb der Vision.; Lebenszustand: bereits verstorben; Vision; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Im goldenen Feld der vierten Flamme erscheint das Gesicht und die obere Gestalt der Großmutter. Die kalte Mauer bleibt als äußere Wirklichkeit bestehen. Die Erscheinung hat keinen zweiten körperlichen Schatten auf den Steinen.
 Erzählertext: Im nächsten Licht erschien die Großmutter. Das Mädchen fürchtete, auch diese vertraute Gestalt wieder zu verlieren.
 Dialoge: keine
 Kontinuität / Änderung: Vierte Flamme, zwei unbenutzt, drei verbrannte am Boden. Großmutter nur innere Vision.
@@ -108,7 +108,7 @@ Kontinuität / Änderung: Vierte Flamme, zwei unbenutzt, drei verbrannte am Bode
 KACHEL 10: Das schwindende Gesicht
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Das vierte Holz ist erloschen. Das goldene Lichtfeld und die Großmutter sind weg. Das Mädchen sieht auf die zwei letzten unbenutzten Hölzer in seiner anderen Hand. Genau drei ältere Stummel liegen noch am Boden. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: im Winkel; Körperhaltung: sitzend; Mitgeführte Gegenstände: viertes gerade erloschenes Holz rechts; zwei unbenutzte links; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das vierte Holz ist erloschen. Das goldene Lichtfeld und die Großmutter sind weg. Das Mädchen sieht auf die zwei letzten unbenutzten Hölzer in seiner anderen Hand. Genau drei ältere Stummel liegen noch am Boden.
 Erzählertext: Als das Holz ausging, blieben nur noch zwei übrig. Mit ihnen wollte sie den letzten Trost festhalten.
 Dialoge: keine
 Kontinuität / Änderung: Vier Hölzer verbraucht, das vierte noch in der Hand; nur zwei unbenutzt. Keine lebende Großmutter zurückgeblieben.
@@ -116,7 +116,7 @@ Kontinuität / Änderung: Vier Hölzer verbraucht, das vierte noch in der Hand; 
 KACHEL 11: Das letzte Licht
 Ort und Zeit: Dieselbe Mauernische
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern, Großmutter in der Lichtvision
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach Ablegen des vierten Stummels brennen die letzten zwei Hölzer gemeinsam. Die Großmutter streckt innerhalb des visionären Lichtfeldes die Arme aus. Das eine wirkliche Kind bleibt vollständig bekleidet an der Wand sitzen; kein zweiter Kinderkörper steigt über der Straße auf. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: am unveränderten Sitzplatz; Körperhaltung: sitzend; Mitgeführte Gegenstände: die letzten zwei zugleich brennenden Hölzer in einer Hand; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Frierend, keine sichtbaren Wunden. Großmutter in der Lichtvision: Ort: nur innerhalb der warm abgegrenzten Lichtvision; Körperhaltung: stehende Erscheinung; Mitgeführte Gegenstände: leere Hände; Kleidung: Einfaches helles langes Kleid und graues Schultertuch innerhalb der Vision.; Lebenszustand: bereits verstorben; Vision; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach Ablegen des vierten Stummels brennen die letzten zwei Hölzer gemeinsam. Die Großmutter streckt innerhalb des visionären Lichtfeldes die Arme aus. Das eine wirkliche Kind bleibt vollständig bekleidet an der Wand sitzen; kein zweiter Kinderkörper steigt über der Straße auf.
 Erzählertext: Im Schein der letzten beiden Hölzer nahm die Großmutter sie in ihrer Vorstellung an einen Ort ohne Kälte mit.
 Dialoge: keine
 Kontinuität / Änderung: Vier Stummel am Boden, letzte zwei brennen. Vision ausdrücklich keine bewiesene körperliche Abreise.
@@ -124,7 +124,7 @@ Kontinuität / Änderung: Vier Stummel am Boden, letzte zwei brennen. Vision aus
 KACHEL 12: Der Morgen danach
 Ort und Zeit: Mauernische am Neujahrsmorgen
 Sichtbare Figuren: Mädchen mit sechs Schwefelhölzern
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Das Kind sitzt reglos und ohne Verletzungsdetails im selben Winkel, Kleid und Tuch bedecken seinen Körper. Genau sechs erloschene Hölzer liegen vor ihm. Zwei namenlose bekleidete Erwachsene halten am Rand erschrocken inne. Keine Großmutter und kein warmer Lichtschein. Verbindliche Zustände: Mädchen mit sechs Schwefelhölzern: Ort: unverändert in der Mauerecke; Körperhaltung: still zusammengesunken; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflicktes langes braunes Kleid, graues Schultertuch; ohne Schuhe, sonst vollständig bekleidet. Keine sichtbaren Verletzungen.; Fortbewegung: zu Fuß; Lebenszustand: tot; Verletzungen: Keine sichtbaren Wunden.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Das Kind sitzt reglos und ohne Verletzungsdetails im selben Winkel, Kleid und Tuch bedecken seinen Körper. Genau sechs erloschene Hölzer liegen vor ihm. Zwei namenlose bekleidete Erwachsene halten am Rand erschrocken inne. Keine Großmutter und kein warmer Lichtschein.
 Erzählertext: Am Morgen fand man das erfrorene Kind und die abgebrannten Hölzer. Niemand hatte ihm rechtzeitig wirkliche Wärme gebracht.
 Dialoge: keine
 Kontinuität / Änderung: Tod endgültig. Alle sechs Hölzer verbraucht, keine echte Rettung und kein weiterer Vorrat.

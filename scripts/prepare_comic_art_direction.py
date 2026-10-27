@@ -28,7 +28,11 @@ def head(story):
     return text
 
 def current_clothing(value):
-    return ' '.join(s.strip() for s in re.split(r'(?<=[.!?])\s+',value) if not re.search(r'\b(?:später|erst|zu Beginn|danach|anschließend)\b',s,re.I)).strip()
+    sentences=[]
+    for sentence in re.split(r'(?<=[.!?])\s+',value):
+        sentence=re.split(r';\s*(?:später|erst|danach|anschließend)\b',sentence,flags=re.I)[0].strip()
+        if sentence and not re.search(r'\b(?:später|erst|zu Beginn|danach|anschließend)\b',sentence,re.I):sentences.append(sentence)
+    return ' '.join(sentences).strip()
 
 def build(before,review):
     value={k:copy.deepcopy(before[k]) for k in ('mode','name','count_policy') if k in before};p=copy.deepcopy(before['payload']);value['payload']=p
@@ -40,9 +44,10 @@ def build(before,review):
     for number,scene in enumerate(p['scenes'],1):
         change=review.get('panels',{}).get(str(number),{})
         if 'visible' in change:scene['characters']=[names[n] for n in change['visible']]
+        if 'offscreen' in change:scene['offscreen_speakers']=[names[n] for n in change['offscreen']]
         text=change.get('story',head(scene['story']))
         if change.get('append'):text+=' '+change['append']
-        scene['story']=FRAME+text
+        scene['story']=change.get('frame',FRAME)+text
         states={}
         for ident in scene['characters']:
             ledger=scene.get('continuity_state',{}).get(ident,{})
@@ -79,6 +84,7 @@ def build(before,review):
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('basis',nargs='+');parser.add_argument('--apply',action='store_true')
+    parser.add_argument('--redo',action='store_true',help='Eigene geprüfte Revision erneut anwenden; fremde Zwischenänderungen bleiben geschützt.')
     parser.add_argument('--state-dir',type=Path,default=Path('/home/jee/docker-data/comic-automation/bildregie-redaktion/20261027'))
     args=parser.parse_args();folder=args.state_dir;state_path=folder/'status.json';state=json.loads(state_path.read_text());rows={r['basis']:r for r in state['geschichten']}
     reviews=json.loads((ROOT/'examples/comics/bildregie/redaktionelle_anpassungen.json').read_text())['geschichten']
@@ -89,12 +95,16 @@ def main():
         with urllib.request.urlopen(req,timeout=30) as r:return json.load(r)
     for basis in args.basis:
         row=rows[basis]
-        if row['status']=='fertig':print('Bereits fertig:',basis);continue
+        if row['status']=='fertig' and not args.redo:print('Bereits fertig:',basis);continue
         review=reviews[basis];before=json.loads((folder/'vorher'/(basis+'.json')).read_text());value,report=build(before,review)
         if args.apply:
             current=api('/stories/'+row['story_id'])
-            if current['version']!=before['version']:raise ValueError('Geschichte wurde inzwischen geändert; nicht überschrieben: '+basis)
-            saved=api('/stories/'+row['story_id'],{**value,'version':before['version']})
+            expected=row.get('version_nachher',before['version']) if args.redo else before['version']
+            if current['version']!=expected:raise ValueError('Geschichte wurde inzwischen geändert; nicht überschrieben: '+basis)
+            if args.redo:
+                (folder/'nachher').mkdir(exist_ok=True)
+                (folder/'nachher'/(basis+'-v'+str(current['version'])+'.json')).write_text(json.dumps(current,ensure_ascii=False,indent=2)+'\n')
+            saved=api('/stories/'+row['story_id'],{**value,'version':expected})
             (folder/'nachher').mkdir(exist_ok=True);(folder/'nachher'/(basis+'.json')).write_text(json.dumps(saved,ensure_ascii=False,indent=2)+'\n')
             remote=api('/stories/'+row['story_id']);assert remote['payload']['scenes']==value['payload']['scenes']
             out=ROOT/'examples/comics/erzaehlerfassungen';stem=basis+'-erzaehler'
@@ -108,7 +118,7 @@ def main():
             state['stand']=datetime.datetime.now().astimezone().isoformat();state_path.write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
         print(('Gespeichert:' if args.apply else 'Geprüft:'),basis,len(value['payload']['scenes']),'Kacheln;',len(review.get('panels',{})),'gezielte Anpassungen;',len(report['warnings']),'Beschriftungswarnungen')
     done=sum(r['status']=='fertig' for r in state['geschichten'])
-    progress=['# Fortschritt der Bildregie','',f'**{done} / {len(state["geschichten"])} weitere Geschichten fertig.** Das Schneiderlein bleibt die separat geprüfte Referenz.','',f'Umfang: {sum(r["kacheln"] for r in state["geschichten"])} Kacheln. Vor jeder Änderung liegt ein privater Snapshot vor.','', 'Handlung, Textwortlaut, Figuren-IDs, Kachelanzahl und Kontinuitätsregister bleiben erhalten. Überarbeitet werden sichtbare Bildbeschreibung und visuelle Figuren-Zustände. Zukünftige Angaben werden aus der Standardkleidung entfernt, bleiben aber im gesicherten Original und Handlungsregister erhalten.','', '**Keine neuen Bilder erzeugt.** Diese Prüfung ist redaktionell und technisch; die späteren Bilder müssen weiterhin angesehen werden.','', 'Lokaler Status und private Vorher-/Nachher-Snapshots: `/home/jee/docker-data/comic-automation/bildregie-redaktion/20261027/`.','', '| Geschichte | Kacheln | Stand |','|---|---:|---|']
+    progress=['# Fortschritt der Bildregie','',f'**{done} / {len(state["geschichten"])} weitere Geschichten fertig.** Das Schneiderlein bleibt die separat geprüfte Referenz.','',f'Umfang: {sum(r["kacheln"] for r in state["geschichten"])} Kacheln. Vor jeder Änderung liegt ein privater Snapshot vor.','', 'Handlung, Textwortlaut, Figuren-IDs, Kachelanzahl und Kontinuitätsregister bleiben erhalten. Überarbeitet werden sichtbare Bildbeschreibung und visuelle Figuren-Zustände. Zukünftige Angaben werden aus der Standardkleidung entfernt, bleiben aber im gesicherten Original und Handlungsregister erhalten.','', '**Keine neuen Bilder erzeugt.** Diese Prüfung ist redaktionell und technisch; die späteren Bilder müssen weiterhin angesehen werden.','', 'Lokaler Status und private Vorher-/Nachher-Snapshots: `/home/jee/docker-data/comic-automation/bildregie-redaktion/20261027/`.','', '## Auswahl im Studio','', 'In Schritt 1, Schritt 2 und im Vorlagenkatalog sind zunächst diese 89 Geschichten sichtbar. Weitere vorhandene Geschichten und Vorlagen bleiben gespeichert und sind für später ausgeblendet. Eine ausdrücklich neu angelegte Geschichte wird der Auswahl hinzugefügt. Die letzte geöffnete Geschichte und vorhandene Ausgaben bleiben zugänglich.','', 'Die Auswahl wird lokal unter `story-selection-ids` gespeichert, die zurückgestellten Vorlagen unter `source-catalog-deferred`. Die vorherigen Einstellungen liegen im privaten Snapshot `auswahl-einstellungen-vorher.json`; beim späteren Erweitern wird die Auswahl geändert, nicht der Datenbestand gelöscht.','', '## Technische Prüfung','', 'Alle überarbeiteten Szenen wurden nach dem Speichern aus der API zurückgelesen. Textwortlaut und vollständiges Kontinuitätsregister werden gegen die Originale geprüft. Für die 89 Geschichten wurden keine neuen Bilder gestartet. Die technische Beschriftungsprüfung ersetzt keine spätere Sichtprüfung der Bilder.','', 'Explizite Stimmen außerhalb des Bildes (`offscreen_speakers`) erzeugen keine zusätzlichen Körper. Ohne diese optionale Kennzeichnung bleibt das bisherige Verhalten erhalten.','', '| Geschichte | Kacheln | Stand |','|---|---:|---|']
     progress += [f'| {r["titel"]} | {r["kacheln"]} | {r["status"]} |' for r in state['geschichten']]
     (ROOT/'docs/Comic_Bildregie_Fortschritt.md').write_text('\n'.join(progress)+'\n')
     print('Fortschritt:',done,'/',len(state['geschichten']))

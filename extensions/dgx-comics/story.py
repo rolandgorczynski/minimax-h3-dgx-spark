@@ -64,6 +64,10 @@ def read_plan(value, count):
         if 'bubbles' in scene:
             from .design import validate_bubbles
             result['bubbles'] = validate_bubbles(scene['bubbles'])
+        if 'offscreen_speakers' in scene:
+            from .design import validate_offscreen_speakers
+            result['offscreen_speakers']=validate_offscreen_speakers(scene['offscreen_speakers'])
+            if set(result['offscreen_speakers'])&set(result.get('characters',[])):raise ValueError('Sprecher nicht zugleich sichtbar und außerhalb des Bildes angeben.')
         if 'character_states' in scene:
             from .design import validate_character_states
             result['character_states']=validate_character_states(scene['character_states'])

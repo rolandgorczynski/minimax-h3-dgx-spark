@@ -85,11 +85,12 @@ def explicit_speech(source):
 
 
 def scene_cast(scene, cast):
-    speakers={canonical_speaker(b['speaker'],cast) for b in scene.get('bubbles',[])}
+    offscreen=set(scene.get('offscreen_speakers',[]))
+    speakers={canonical_speaker(b['speaker'],cast) for b in scene.get('bubbles',[])}-offscreen
     if 'characters' in scene:
         return [c for c in cast if c['id'] in scene['characters'] or c['id'] in speakers]
     text = scene['story']+' '+scene.get('dialog', '')
-    return [c for c in cast if any(re.search(r'(?<!\w)'+re.escape(name)+r'(?!\w)', text, re.I) for name in [c['name'], *c['aliases']]) or c['id'] in speakers]
+    return [c for c in cast if c['id'] not in offscreen and (any(re.search(r'(?<!\w)'+re.escape(name)+r'(?!\w)', text, re.I) for name in [c['name'], *c['aliases']]) or c['id'] in speakers)]
 
 
 def character_prompt(c,state=''):

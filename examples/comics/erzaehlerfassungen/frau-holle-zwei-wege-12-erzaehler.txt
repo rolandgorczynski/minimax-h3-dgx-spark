@@ -9,14 +9,14 @@ FIGUREN
 
 Name: Hilfsbereite Schwester
 Aussehen: Junge erwachsene Frau mit braunem geflochtenem Haar und schmalem Gesicht.
-Kleidung: Ausgeblichenes blaues Kleid und helle Arbeitsschürze; erst nach dem Tor mit aufliegendem Gold bedeckt.
+Kleidung: Ausgeblichenes blaues Kleid und helle Arbeitsschürze
 Persönlichkeit und Vorgeschichte: Überarbeitet, aber aufmerksam für fremde Not. Will am Ende nach Hause, nicht nur reich werden.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
 
 Name: Zweite Schwester
 Aussehen: Junge erwachsene Frau mit dunkelbraunem schulterlangem Haar und rundem Gesicht.
-Kleidung: Rötliches Kleid und helle Schürze; erst am Abschiedstor mit aufliegendem schwarzem Pech bedeckt.
+Kleidung: Rötliches Kleid und helle Schürze
 Persönlichkeit und Vorgeschichte: Will dieselbe Belohnung, verweigert jedoch die Hilfe und vernachlässigt ihre Arbeit. Andere Person als die erste Schwester.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.

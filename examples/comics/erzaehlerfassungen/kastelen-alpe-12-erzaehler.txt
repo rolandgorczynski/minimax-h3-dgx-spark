@@ -1,8 +1,8 @@
 TITEL: Kastelen-Alpe · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 12
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -23,7 +23,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 
 Name: Reicher Vetter auf der Kastelen-Alpe
 Aussehen: Erwachsener kräftiger Mann mit schwarzem kurzem Bart und breitem Gesicht.
-Kleidung: Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.
+Kleidung: Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe
 Persönlichkeit und Vorgeschichte: Weist die hilfesuchende Verwandte ab. Verliert beim Bergsturz Besitz und einen Fuß, kommt später selbst als Bittender.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
@@ -45,7 +45,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Die Bitte für zwei
 Ort und Zeit: Armes Haus in Kriens
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Tochter steht bei ihrer bettlägerigen Mutter. Die kleine Vorratsschale auf dem Tisch ist fast leer; eine einzelne Tasche reicht für den Weg. Kein Gold und kein Käse liegen schon bereit. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Bett der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere kleine Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: im Bett; Körperhaltung: liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Schwer an Gicht leidend, keine sichtbare Wunde.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Die Tochter steht bei ihrer bettlägerigen Mutter. Die kleine Vorratsschale auf dem Tisch ist fast leer; eine einzelne Tasche reicht für den Weg. Kein Gold und kein Käse liegen schon bereit.
 Erzählertext: In der Kastelen-Sage bittet die Tochter einer kranken Witwe um Hilfe. Ihr reicher Verwandter lebt oben auf der Alp.
 Dialoge: keine
 Kontinuität / Änderung: Zwei Frauen in Armut vor der erbetenen Hilfe. Kein bereits geschenkter Kräutervorrat.
@@ -53,7 +53,7 @@ Kontinuität / Änderung: Zwei Frauen in Armut vor der erbetenen Hilfe. Kein ber
 KACHEL 2: Oben zieht das Wetter auf
 Ort und Zeit: Hof des reichen Vetters
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Reicher Vetter auf der Kastelen-Alpe
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach dem Aufstieg bittet die junge Frau an einem wohlhabenden Hof. Hinter dem Vetter liegen volle Vorräte, draußen steigt ein Gewitter auf. Er bleibt trocken unter dem Dach. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: vor der großen Hoftür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Reicher Vetter auf der Kastelen-Alpe: Ort: im geschützten Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach dem Aufstieg bittet die junge Frau an einem wohlhabenden Hof. Hinter dem Vetter liegen volle Vorräte, draußen steigt ein Gewitter auf. Er bleibt trocken unter dem Dach.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Tochter auf dem Weg zur Kastelen-Alpe
@@ -70,7 +70,7 @@ Kontinuität / Änderung: Er hat Vorräte, verweigert aber die Gabe. Kein Tier o
 KACHEL 3: Zurück in den Sturm
 Ort und Zeit: Hangweg unterhalb des Hofes
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die abgewiesene Frau muss bei drohendem Unwetter gehen. Sie hält das Tuch über die leere Tasche. Der wohlhabende Hof verschwindet oben im dunklen Regen, eine kleine Sennhütte liegt weiter unten. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf dem abfallenden Pfad; Körperhaltung: gegen den Regen gehend; Mitgeführte Gegenstände: leere Tasche unter dem Schultertuch; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Die abgewiesene Frau muss bei drohendem Unwetter gehen. Sie hält das Tuch über die leere Tasche. Der wohlhabende Hof verschwindet oben im dunklen Regen, eine kleine Sennhütte liegt weiter unten.
 Erzählertext: Der Vetter wies sie ab und ließ sie trotz des drohenden Gewitters gehen. Ihre Tasche blieb leer.
 Dialoge: keine
 Kontinuität / Änderung: Keine Gabe vom Vetter, Tasche bleibt leer. Noch kein Bergsturz und kein Käseverlust.
@@ -78,7 +78,7 @@ Kontinuität / Änderung: Keine Gabe vom Vetter, Tasche bleibt leer. Noch kein B
 KACHEL 4: Die kleine Gabe
 Ort und Zeit: Sennhütte des Aloys
 Sichtbare Figuren: Aloys mit dem kleinen Käse, Tochter auf dem Weg zur Kastelen-Alpe
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Die junge Frau hat Aloys erreicht. In der bescheidenen Hütte steht kaum Vorrat. Er reicht ihr den einen kleinen runden Käse mit einer flachen Kerbe an der Rinde entgegen, sie öffnet die Tasche. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: unter dem schmalen Vordach; Körperhaltung: stehend; Mitgeführte Gegenstände: geöffnete leere Tasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aloys mit dem kleinen Käse: Ort: in seiner Hüttentür; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelner kleiner runder Käse; Kleidung: Graue Leinentunika, dunkelbraune Hose und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Die junge Frau hat Aloys erreicht. In der bescheidenen Hütte steht kaum Vorrat. Er reicht ihr den einen kleinen runden Käse mit einer flachen Kerbe an der Rinde entgegen, sie öffnet die Tasche.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Aloys mit dem kleinen Käse
@@ -90,7 +90,7 @@ Kontinuität / Änderung: Genau ein Käse vom armen Senner. Seine flache Rindenk
 KACHEL 5: Die entgleitende Hoffnung
 Ort und Zeit: Nasser Hangweg
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Weitergehen rutscht sie auf dem nassen Hang aus. Der eine Käse ist aus der Tasche gerollt und bewegt sich bereits unterhalb ihrer Reichweite Richtung Felsspalte. Keine zweite Gabe bleibt im Beutel. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf der glatten Trift; Körperhaltung: auf ein Knie gerutscht; Mitgeführte Gegenstände: offene nun leere Tasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach dem Weitergehen rutscht sie auf dem nassen Hang aus. Der eine Käse ist aus der Tasche gerollt und bewegt sich bereits unterhalb ihrer Reichweite Richtung Felsspalte. Keine zweite Gabe bleibt im Beutel. Das eine runde Käsestück mit der flachen Kerbe befindet sich unterhalb der ausgestreckten Hand am Hang. Die Tasche der Tochter ist leer.
 Erzählertext: Auf dem nassen Hang rutschte sie aus. Der kleine Käse, Aloys' Gabe für zwei Menschen, rollte außer Reichweite in die Tiefe.
 Dialoge: keine
 Kontinuität / Änderung: Ein Stück verloren, nicht gegessen oder zerbrochen. Keine sichtbare Verletzung der Frau.
@@ -98,7 +98,7 @@ Kontinuität / Änderung: Ein Stück verloren, nicht gegessen oder zerbrochen. K
 KACHEL 6: Die unerwartete Hand
 Ort und Zeit: Rand derselben Felskluft
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Graues Herdmanndli mit der verlorenen Gabe
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Weinende erschrickt, als das winzige Herdmanndli neben ihr steht. Auf seiner Schulter liegt der Käse mit derselben flachen Kerbe; in der anderen Hand hält es ein einzelnes Büschel unbestimmter Kräuter. Kein neues zweites Stück in der Spalte. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: oberhalb der unerreichbaren Spalte; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; leere Tasche am Boden; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graues Herdmanndli mit der verlorenen Gabe: Ort: unmittelbar neben ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: derselbe kleine Käse auf der Schulter, Kräuterbüschel in einer Hand; Kleidung: Langer grauer Rock bis auf den Boden, Füße verdeckt. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Die Weinende erschrickt, als das winzige Herdmanndli neben ihr steht. Auf seiner Schulter liegt der Käse mit derselben flachen Kerbe; in der anderen Hand hält es ein einzelnes Büschel unbestimmter Kräuter. Kein neues zweites Stück in der Spalte. Die flache Kerbe kennzeichnet denselben verlorenen Käse auf der Schulter des einen kleinen Helfers. Nur ein Kräuterbüschel liegt in dessen anderer Hand.
 Erzählertext: Ein Herdmanndli brachte den verlorenen Käse zurück. Dazu gab es ihr ein Kräutlein für die kranke Mutter.
 Dialoge: keine
 Kontinuität / Änderung: Wiedergefundener identischer Käse. Kräuter sind zusätzliche Zaubergabe, keine botanisch bestimmte Arznei.
@@ -106,7 +106,7 @@ Kontinuität / Änderung: Wiedergefundener identischer Käse. Kräuter sind zus�
 KACHEL 7: Sicher nach unten
 Ort und Zeit: Abwärtsweg im nachlassenden Regen
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach der Übergabe hat sie Käse und Kräuter fest in der Tasche verstaut und hält diese mit beiden Händen. Hinter ihr bleibt das Gewitter hoch am Berg dunkel. Kein Herdmanndli begleitet sie als zweite reisende Person. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf dem Weg nach Kriens; Körperhaltung: vorsichtig gehend; Mitgeführte Gegenstände: Käse und Kräuter fest in der geschlossenen Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach der Übergabe hat sie Käse und Kräuter fest in der Tasche verstaut und hält diese mit beiden Händen. Hinter ihr bleibt das Gewitter hoch am Berg dunkel. Kein Herdmanndli begleitet sie als zweite reisende Person. Die Tochter umfasst von außen die geschlossene Tasche. Ihr Inhalt wird in dieser Wegaufnahme nicht zusätzlich in ihren Händen oder am Boden dargestellt.
 Erzählertext: Mit der geretteten Gabe ging sie weiter ins Tal. Oben auf der Alp donnerte das Unwetter noch.
 Dialoge: keine
 Kontinuität / Änderung: Käse und Kräuter bei ihr, nicht mehr auf der Schulter des Helfers. Bergsturz wird noch nicht aus der Nähe sichtbar.
@@ -114,7 +114,7 @@ Kontinuität / Änderung: Käse und Kräuter bei ihr, nicht mehr auf der Schulte
 KACHEL 8: Was zuhause ankommt
 Ort und Zeit: Haus der Mutter in Kriens
 Sichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Zuhause legt die Tochter die Gabe auf den Tisch. Statt des Käses liegt dort jetzt ein schweres goldenes Stück in derselben runden Form mit flacher Kerbe; daneben das eine Kräuterbüschel. Kein essbarer Käse bleibt gleichzeitig daneben. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: offene Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: im Bett; Körperhaltung: aufgerichtet sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter schwer an Gicht leidend.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Zuhause legt die Tochter die Gabe auf den Tisch. Statt des Käses liegt dort jetzt ein schweres goldenes Stück in derselben runden Form mit flacher Kerbe; daneben das eine Kräuterbüschel. Kein essbarer Käse bleibt gleichzeitig daneben. Auf dem Tisch liegt nur die eine goldene runde Form mit der bekannten Kerbe. Der frühere Käse ist nicht mehr als zweites Stück vorhanden.
 Erzählertext: Zuhause fand sie statt des Käses ein gleich geformtes Stück Gold. Aus der kleinen Gabe war im Wunder der Sage neue Sicherheit geworden.
 Dialoge: keine
 Kontinuität / Änderung: Ein Objekt verwandelt sich, keine Verdopplung in Käse und Gold. Mutter zu diesem Zeitpunkt noch krank.
@@ -122,7 +122,7 @@ Kontinuität / Änderung: Ein Objekt verwandelt sich, keine Verdopplung in Käse
 KACHEL 9: Die sagenhafte Genesung
 Ort und Zeit: Dasselbe Haus etwas später
 Sichtbare Figuren: Kranke Witwe in Kriens, Tochter auf dem Weg zur Kastelen-Alpe
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem aus den unbestimmten Kräutern zubereiteten Getränk sitzt die Mutter im Sagenwunder aufrecht und erleichtert am Bett. Keine Kräuternamen, Mengen oder Heilrezepte werden gezeigt. Das eine Goldstück liegt auf dem Tisch. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: auf der Bettkante; Körperhaltung: aufrecht sitzend; Mitgeführte Gegenstände: eine einfache Tasse; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: In der Sage genesen.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach dem aus den unbestimmten Kräutern zubereiteten Getränk sitzt die Mutter im Sagenwunder aufrecht und erleichtert am Bett. Keine Kräuternamen, Mengen oder Heilrezepte werden gezeigt. Das eine Goldstück liegt auf dem Tisch.
 Erzählertext: Auch die Mutter wurde im Sagenwunder wieder gesund. Die beiden Frauen waren nicht länger ohne Hilfe.
 Dialoge: keine
 Kontinuität / Änderung: Wunder innerhalb der Erzählung, keine reale Behandlungsempfehlung für Gicht. Gold weiterhin ein Stück.
@@ -130,7 +130,7 @@ Kontinuität / Änderung: Wunder innerhalb der Erzählung, keine reale Behandlun
 KACHEL 10: Die Alp nach dem Unwetter
 Ort und Zeit: Verwüstete Kastelen-Alpe
 Sichtbare Figuren: keine
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am nächsten Tag sieht man die Alp nach einem Bergsturz. Geröll bedeckt frühere Matten, leere beschädigte Gatter stehen zwischen Steinen. Keine erschlagenen Tiere und keine verletzte Person sind sichtbar. Das Herdmanndli lenkt den Bergsturz nicht im Bild.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Am nächsten Tag sieht man die Alp nach einem Bergsturz. Geröll bedeckt frühere Matten, leere beschädigte Gatter stehen zwischen Steinen. Keine erschlagenen Tiere und keine verletzte Person sind sichtbar. Das Herdmanndli lenkt den Bergsturz nicht im Bild.
 Erzählertext: Am nächsten Tag zeigte sich oben die Verwüstung: Ein Bergsturz hatte den reichen Hof und seine Herden vernichtet.
 Dialoge: keine
 Kontinuität / Änderung: Bergsturz vergangen, keine neue Rettungsszene der Herden erfinden. Kein eindeutig behaupteter Zauberbefehl als Ursache.
@@ -138,7 +138,7 @@ Kontinuität / Änderung: Bergsturz vergangen, keine neue Rettungsszene der Herd
 KACHEL 11: Die umgekehrte Bitte
 Ort und Zeit: Vor dem Haus der Witwe einige Zeit später
 Sichtbare Figuren: Reicher Vetter auf der Kastelen-Alpe, Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Später erreicht der Vetter mit zwei Holzstützen die Tür. Der lange Mantel verdeckt die Folgen seiner Verletzung vollständig. Die Frauen sind beide aufrecht und lebend, keine prunkvolle neue Burg oder erfundene Rachehandlung. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: hinter der Tochter im Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: In der Sage weiter genesen. Reicher Vetter auf der Kastelen-Alpe: Ort: vor der Tür der früher armen Frauen; Körperhaltung: auf zwei Holzstützen stehend; Mitgeführte Gegenstände: je eine Holzstütze; Kleidung: Abgetragener dunkelroter Rock, langer Mantel bis über die Beine; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Ein Fuß fehlt nach dem Bergsturz, durch Mantel vollständig verdeckt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Später erreicht der Vetter mit zwei Holzstützen die Tür. Der lange Mantel verdeckt die Folgen seiner Verletzung vollständig. Die Frauen sind beide aufrecht und lebend, keine prunkvolle neue Burg oder erfundene Rachehandlung.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Reicher Vetter auf der Kastelen-Alpe
@@ -150,7 +150,7 @@ Kontinuität / Änderung: Vetter jetzt hilfsbedürftig und mit bleibendem Verlus
 KACHEL 12: An derselben Schwelle
 Ort und Zeit: Nähere Ansicht derselben offenen Tür
 Sichtbare Figuren: Reicher Vetter auf der Kastelen-Alpe, Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Blick geht von der Seite auf die Begegnung, nicht auf eine weitere neue Handlung. Der einst abweisende Mann wartet als Bittsteller, die Tochter und Mutter stehen auf gleicher Bodenhöhe an ihrer Tür. Keine Antwort erfindet eine Bestrafung oder erzwungene Vergebung. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: neben der Tochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter genesen im Sagenwunder. Reicher Vetter auf der Kastelen-Alpe: Ort: vor der Tür auf den Stützen; Körperhaltung: gestützt stehend; Mitgeführte Gegenstände: zwei Holzstützen; Kleidung: Abgetragener dunkelroter Rock, langer Mantel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Fehlender Fuß dauerhaft, verdeckt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Blick geht von der Seite auf die Begegnung, nicht auf eine weitere neue Handlung. Der einst abweisende Mann wartet als Bittsteller, die Tochter und Mutter stehen auf gleicher Bodenhöhe an ihrer Tür. Keine Antwort erfindet eine Bestrafung oder erzwungene Vergebung.
 Erzählertext: Nun stand der frühere reiche Vetter als Bittsteller vor ihrer Tür. Besitz und Mitgefühl waren in der Geschichte nie dasselbe gewesen.
 Dialoge: keine
 Kontinuität / Änderung: Überliefertes Ende bei seiner Bitte. Kein unbelegtes weiteres Almosen, keine Vertreibung und keine neue moralische Prüfung der Frauen.

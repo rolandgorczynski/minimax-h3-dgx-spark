@@ -68,6 +68,14 @@ class CharacterTests(unittest.TestCase):
         self.assertEqual(characters.canonical_speaker('Marcus',cast),'a'*32)
         self.assertEqual(characters.scene_cast({'story':'Eingang','characters':[], 'bubbles':[{'speaker':'Marcus'}]},cast),cast)
 
+    def test_offscreen_voice_does_not_add_a_visible_body(self):
+        p=self.profile();p['id']='a'*32
+        cast=characters.read_cast([p])
+        scene={'story':'Marcus ruft außerhalb des Bildes.','characters':[],'offscreen_speakers':['a'*32],'bubbles':[{'speaker':'Marcus'}]}
+        self.assertEqual(characters.scene_cast(scene,cast),[])
+        scene.pop('characters')
+        self.assertEqual(characters.scene_cast(scene,cast),[])
+
     def test_sysop_is_seeded_once_with_reference_and_user_edits_survive(self):
         with tempfile.TemporaryDirectory() as folder:
             root=Path(folder);source=root/'original.png'

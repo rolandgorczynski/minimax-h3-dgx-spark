@@ -21,6 +21,12 @@ def validate_character_states(value):
     return value
 
 
+def validate_offscreen_speakers(value):
+    if not isinstance(value,list) or len(value)>8 or any(not isinstance(x,str) or not re.fullmatch(r'[a-f0-9]{32}',x) for x in value) or len(set(value))!=len(value):
+        raise ValueError('Ungültige Sprecher außerhalb des Bildes.')
+    return list(value)
+
+
 def parse_scenes(serialized, count):
     if type(count) is not int or count<1:
         raise ValueError('Bitte eine positive Kachelanzahl auswählen.')
@@ -47,6 +53,9 @@ def parse_scenes(serialized, count):
             item['characters'] = ids
         if 'bubbles' in scene:
             item['bubbles'] = validate_bubbles(scene['bubbles'])
+        if 'offscreen_speakers' in scene:
+            item['offscreen_speakers']=validate_offscreen_speakers(scene['offscreen_speakers'])
+            if set(item['offscreen_speakers'])&set(item.get('characters',[])):raise ValueError('Sprecher nicht zugleich sichtbar und außerhalb des Bildes angeben.')
         if 'character_states' in scene:item['character_states']=validate_character_states(scene['character_states'])
         if 'lettering_draft' in scene:
             if type(scene['lettering_draft']) is not bool:raise ValueError('Ungültige Entwurfsmarkierung.')

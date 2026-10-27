@@ -1,8 +1,8 @@
 TITEL: Robinson Crusoe – Die ersten Tage allein · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 10
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -17,7 +17,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Am Leben, aber ohne Dach
 Ort und Zeit: Inselstrand nach dem Schiffbruch
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite einsame Strandansicht. Robinson allein nass auf dem Sand, Wrack draußen in der Bucht. Keine Axt, kein fertiges Zelt, keine Waffen im Lager und kein zweiter Geretteter. Nur wenige natürliche angeschwemmte Holzstücke, kein fertiges Rettungsschiff. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: mittig am nassen Strand; Körperhaltung: erschöpft sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite einsame Strandansicht. Robinson allein nass auf dem Sand, Wrack draußen in der Bucht. Keine Axt, kein fertiges Zelt, keine Waffen im Lager und kein zweiter Geretteter. Nur wenige natürliche angeschwemmte Holzstücke, kein fertiges Rettungsschiff.
 Erzählertext: Robinson hatte den Schiffbruch überlebt. An Land fehlten ihm Unterkunft, Vorräte und jeder menschliche Beistand.
 Dialoge: keine
 Kontinuität / Änderung: Frühe Inselphase. Kein Freitag oder späterer Fellanzug. Alle Werkzeuge und Vorräte noch im Wrack, nicht vor ihrer Bergung als Inselbesitz zeichnen.
@@ -25,7 +25,7 @@ Kontinuität / Änderung: Frühe Inselphase. Kein Freitag oder späterer Fellanz
 KACHEL 2: Was noch erreichbar ist
 Ort und Zeit: Wasser zwischen Strand und gestrandeten Schiff
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Seitenansicht. Ein Mann schwimmt bei ruhigerem Wasser zum Wrack, Kopf klar über Oberfläche. Kein Floß schon unter ihm und keine herumliegenden Musketen auf dem Meeresgrund. Wrack fest auf einer Untiefe, nicht als fahrtüchtiges Schiff unter Segeln. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links nahe dem Wrack; Körperhaltung: mit dem Kopf über Wasser schwimmend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite Seitenansicht. Ein Mann schwimmt bei ruhigerem Wasser zum Wrack, Kopf klar über Oberfläche. Kein Floß schon unter ihm und keine herumliegenden Musketen auf dem Meeresgrund. Wrack fest auf einer Untiefe, nicht als fahrtüchtiges Schiff unter Segeln. Kamera knapp über der Wasserlinie: nur Robinsons Kopf, Schultern und ein ausgestreckter Schwimmarm sichtbar; seine Beine bleiben unter der Wasseroberfläche.
 Erzählertext: Als die See ruhiger wurde, schwamm er zum Wrack. Noch konnte er Dinge bergen, die an Land unersetzlich waren.
 Dialoge: keine
 Kontinuität / Änderung: Erster Gang zum Wrack vor dem Floßbau. Niedrigeres ruhiges Wasser erlaubt Annäherung, keine detaillierte Überlebens- oder Rettungsschwimmanleitung.
@@ -33,7 +33,7 @@ Kontinuität / Änderung: Erster Gang zum Wrack vor dem Floßbau. Niedrigeres ru
 KACHEL 3: Ein Floß für die Last, kein Schiff für die Heimkehr
 Ort und Zeit: Beim gestrandeten Schiff nach dem Hinaufklettern
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Arbeitsansicht. Robinson knüpft vorhandene Hölzer zu einem einzigen einfachen Floß am Wrackrand. Auf dem Deck sichtbar gesammelte Vorräte: ein kleiner Lebensmittelbehälter, eine Flasche, eine Axt, ein Werkzeugkasten, eine historische Muskete und gefaltetes Segeltuch. Nichts davon schon am Inselufer. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links auf einem zugänglichen Rest des Decks; Körperhaltung: kniend; Mitgeführte Gegenstände: ein geborgenes Seil in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Breite Arbeitsansicht. Robinson knüpft vorhandene Hölzer zu einem einzigen einfachen Floß am Wrackrand. Auf dem Deck sichtbar gesammelte Vorräte: ein kleiner Lebensmittelbehälter, eine Flasche, eine Axt, ein Werkzeugkasten, eine historische Muskete und gefaltetes Segeltuch. Nichts davon schon am Inselufer.
 Erzählertext: Aus dem Wrack baute er ein Floß und sicherte Nahrung, Werkzeug und Ausrüstung. Jeder brauchbare Gegenstand zählte.
 Dialoge: keine
 Kontinuität / Änderung: Material und Ausrüstung aus dem Wrack, nicht spontan hergestellt. Floß erst hier gebaut. Keine moderne Waffe und keine praktische Schrittfolge zum Floßbau.
@@ -41,7 +41,7 @@ Kontinuität / Änderung: Material und Ausrüstung aus dem Wrack, nicht spontan 
 KACHEL 4: Eine erste Ladung
 Ort und Zeit: Ruhige Bucht bei der Rückfahrt
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Buchtansicht. Ein Floß mit einer Person trägt dieselben geborgenen Behälter, Flasche, Axt, Werkzeugkasten, gesicherte Muskete und Segeltuch. Robinson hält nur ein Ruder, keine dritte Hand mit Axt. Kein Segelmast oder fertiges Hochseeschiff. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: mittig auf dem beladenen Floß; Körperhaltung: kniend; Mitgeführte Gegenstände: ein einfaches Steuerruder in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite Buchtansicht. Ein Floß mit einer Person trägt dieselben geborgenen Behälter, Flasche, Axt, Werkzeugkasten, gesicherte Muskete und Segeltuch. Robinson hält nur ein Ruder, keine dritte Hand mit Axt. Kein Segelmast oder fertiges Hochseeschiff. Die geborgenen Gegenstände liegen fest verzurrt in der Mitte des Floßes; Robinson führt das eine lange Ruder mit beiden Händen am hinteren Rand.
 Erzählertext: Die erste Ladung erreichte das Ufer. Aus den Trümmern begann er, sich die Voraussetzungen zum Überleben zusammenzutragen.
 Dialoge: keine
 Kontinuität / Änderung: Lasten nach dem Bau verladen. Jede zuvor gezeigte Sache jetzt auf dem Floß, noch kein doppelter Vorrat an Land. Muskete transportiert statt benutzt, keine Schussanleitung.
@@ -49,7 +49,7 @@ Kontinuität / Änderung: Lasten nach dem Bau verladen. Jede zuvor gezeigte Sach
 KACHEL 5: Nicht alles auf einmal
 Ort und Zeit: Strand nach mehreren Bergungsfahrten
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Strandansicht. Kleine geordnete Haufen geborgener Lebensmittel und Werkzeuge unter provisorisch gespanntem Tuch, ein Floß am Wasser. Wrack noch fern erreichbar. Kein fertiges wetterfestes Haus, keine angelegten Felder und keine ständig nachwachsenden identischen Kisten. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links vor einem kleinen Vorratsplatz; Körperhaltung: stehend; Mitgeführte Gegenstände: ein weiteres geborgenes Stück Segeltuch in beiden Händen; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Breite Strandansicht. Kleine geordnete Haufen geborgener Lebensmittel und Werkzeuge unter provisorisch gespanntem Tuch, ein Floß am Wasser. Wrack noch fern erreichbar. Kein fertiges wetterfestes Haus, keine angelegten Felder und keine ständig nachwachsenden identischen Kisten.
 Erzählertext: Er kehrte wiederholt zum Wrack zurück. Die Vorräte wuchsen, solange das beschädigte Schiff noch erreichbar blieb.
 Dialoge: keine
 Kontinuität / Änderung: Mehrere Tage gerafft, Kleidung zwischendurch getrocknet. Vorräte kommen mit wiederholten Fahrten, nicht durch magische Vervielfachung derselben einen Kiste. Provisorische Abdeckung ist noch nicht der Schluss-Schutz.
@@ -57,7 +57,7 @@ Kontinuität / Änderung: Mehrere Tage gerafft, Kleidung zwischendurch getrockne
 KACHEL 6: Die Quelle der Dinge geht verloren
 Ort und Zeit: Küste im nächsten Sturm
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite stürmische Küste. Robinson links schützt die bereits geborgenen Dinge, fern zerbricht der Rest des Wracks in der Brandung. Keine zweite noch intakte Schiffsquelle neben den Trümmern. Keine ertrinkenden Menschen, er ist an Land. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links beim gesicherten Vorrat; Körperhaltung: gebeugt unter dem provisorischen Tuch; Mitgeführte Gegenstände: ein Halteseil in beiden Händen; Kleidung: Nasses abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite stürmische Küste. Robinson links schützt die bereits geborgenen Dinge, fern zerbricht der Rest des Wracks in der Brandung. Keine zweite noch intakte Schiffsquelle neben den Trümmern. Keine ertrinkenden Menschen, er ist an Land.
 Erzählertext: Ein neuer Sturm zerstörte den Rest des Wracks. Was Robinson bereits an Land gebracht hatte, musste nun reichen.
 Dialoge: keine
 Kontinuität / Änderung: Wrack ab jetzt nicht mehr als nächste bequeme Bergungsstation verfügbar. Geborgene Sachen bleiben auf der Insel, neu benötigte Teile müssen aus diesem Vorrat oder natürlichem Material kommen.
@@ -65,7 +65,7 @@ Kontinuität / Änderung: Wrack ab jetzt nicht mehr als nächste bequeme Bergung
 KACHEL 7: Ein Platz, den er verbessern kann
 Ort und Zeit: Geschützte Stelle hinter dem Strand am Folgetag
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite helle Baustellenansicht. Natürlicher Fels als Windschutz, erste Pfosten und geborgenes Segeltuch als noch offenes Dach. Eine Axt rechts, übrige Werkzeuge in Kiste daneben, Muskete gesichert an einem trockenen Felsplatz. Kein Fellanzug oder fertig genageltes Dorf. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links vor einem einfachen Lagerrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine geborgene Axt in der rechten Hand; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Breite helle Baustellenansicht. Natürlicher Fels als Windschutz, erste Pfosten und geborgenes Segeltuch als noch offenes Dach. Eine Axt rechts, übrige Werkzeuge in Kiste daneben, Muskete gesichert an einem trockenen Felsplatz. Kein Fellanzug oder fertig genageltes Dorf.
 Erzählertext: Am Fels begann er einen geschützten Lagerplatz einzurichten. Noch war daraus kein fertiges Zuhause geworden.
 Dialoge: keine
 Kontinuität / Änderung: Nach dem Sturm getrocknet, Lagerplatz gewählt. Rahmen aus natürlichem Holz und geborgenen Teilen. Axt vom Wrack wird konkret eingesetzt, keine zweite Axt aus dem Nichts.
@@ -73,7 +73,7 @@ Kontinuität / Änderung: Nach dem Sturm getrocknet, Lagerplatz gewählt. Rahmen
 KACHEL 8: Wasser ist die nächste Aufgabe
 Ort und Zeit: Kleine Süßwasserstelle in erreichbarer Nähe
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Nahansicht einer kleinen fließenden Quelle. Robinson füllt die eine Flasche aus der Bergung, Hände nur daran. Axt und Muskete bleiben im Lager außerhalb. Keine aus Meerwasser zaubernde Maschine und kein fremder Inselbewohner als heimlicher Versorger. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links an der Quelle; Körperhaltung: kniend; Mitgeführte Gegenstände: geborgene Flasche in beiden Händen; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ruhige Nahansicht einer kleinen fließenden Quelle. Robinson füllt die eine Flasche aus der Bergung, Hände nur daran. Axt und Muskete bleiben im Lager außerhalb. Keine aus Meerwasser zaubernde Maschine und kein fremder Inselbewohner als heimlicher Versorger.
 Erzählertext: Frisches Wasser fand er im Landesinneren. Das Meer ringsum konnte seinen Durst nicht stillen.
 Dialoge: keine
 Kontinuität / Änderung: Wasserstelle gesucht und gefunden. Früher Vorrat half bis dahin. Keine medizinische Garantie für beliebiges Wasser, kein neuer magischer Behälter; Gegenstände bleiben identisch.
@@ -81,7 +81,7 @@ Kontinuität / Änderung: Wasserstelle gesucht und gefunden. Früher Vorrat half
 KACHEL 9: Tage und Dinge bekommen Ordnung
 Ort und Zeit: Eigenes Lager in den frühen Wochen
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Arbeitsansicht. Robinson links ritzt eine einfache Tageskerbe in einen Pfosten, Kiste mit Lebensmitteln und Werkzeugen rechts ordentlich abgedeckt. Flasche wieder im Lager. Noch offener Dachrand zeigt die nächste Reparatur, kein voll entwickelter Fellanzug oder Landwirtschaftsfeld. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links neben einer Pfostenmarkierung; Körperhaltung: stehend; Mitgeführte Gegenstände: kleines Werkzeug aus dem geborgenen Kasten rechts; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Breite Arbeitsansicht. Robinson links ritzt eine einfache Tageskerbe in einen Pfosten, Kiste mit Lebensmitteln und Werkzeugen rechts ordentlich abgedeckt. Flasche wieder im Lager. Noch offener Dachrand zeigt die nächste Reparatur, kein voll entwickelter Fellanzug oder Landwirtschaftsfeld. Das Messer liegt mit der Schneide an der einzelnen frischen Kerbe, die andere Hand hält den Pfosten. Die Axt liegt unbenutzt bei der Werkzeugkiste.
 Erzählertext: Mit Kerben hielt er die Tage fest. Vorräte und ein Tagesrhythmus gaben dem unübersichtlichen Dasein eine erste Ordnung.
 Dialoge: keine
 Kontinuität / Änderung: Nur frühe Wochen. Tagesmarken später bei Bedarf als Grafik setzen. Werkzeug aus dem bereits geborgenen Kasten, keine ohne Herkunft auftauchende Werkstatt.
@@ -89,7 +89,7 @@ Kontinuität / Änderung: Nur frühe Wochen. Tagesmarken später bei Bedarf als 
 KACHEL 10: Ein kleiner Erfolg im nächsten Regen
 Ort und Zeit: Verbessertes Lager nach den ersten Arbeiten
 Sichtbare Figuren: Robinson in den frühen Inselwochen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite ruhige Ansicht im Regen. Einfache Hütte beziehungsweise verbessertes Zelt mit Segeltuch und Holz hält den Schlafplatz und die Vorräte trocken. Robinson allein innen im Leinenhemd, Floß draußen am Ufer als Transportrest, kein seetüchtiges Rettungsschiff. Kein Besucher am Horizont. Verbindliche Zustände: Robinson in den frühen Inselwochen: Ort: links unter dem nun geschlossenen Schutzdach; Körperhaltung: sitzend; Mitgeführte Gegenstände: geborgene Flasche neben ihm, Hände leer; Kleidung: Getrocknetes abgetragenes Leinenhemd, braune Hose und Lederschuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite ruhige Ansicht im Regen. Einfache Hütte beziehungsweise verbessertes Zelt mit Segeltuch und Holz hält den Schlafplatz und die Vorräte trocken. Robinson allein innen im Leinenhemd, Floß draußen am Ufer als Transportrest, kein seetüchtiges Rettungsschiff. Kein Besucher am Horizont.
 Erzählertext: Der nächste Regen traf ihn unter einem Dach. Gegen das Wetter hatte er einen Anfang gefunden, gegen die Einsamkeit noch nicht.
 Dialoge: keine
 Kontinuität / Änderung: Erster wetterfesterer Etappenerfolg nach dem Schließen des Dachrands. Keine Heimkehr oder Rettung vorziehen, kein Freitag und keine spätere Kolonialepisode. Einsamkeit besteht fort.

@@ -246,6 +246,9 @@ class Engine:
             if ids is None:
                 ids=[c['id'] for c in cast if any(re.search(r'(?<!\w)'+re.escape(name)+r'(?!\w)',scene['story']+' '+dialog,re.I) for name in [c['name'],*c.get('aliases',[])])]
             if not isinstance(ids,list) or any(x not in known for x in ids):raise ValueError('Unbekannte Figuren-Zuordnung.')
+            if 'offscreen_speakers' in scene:
+                outside=scene['offscreen_speakers']
+                if not isinstance(outside,list) or len(outside)>8 or any(not isinstance(x,str) or x not in known for x in outside) or len(set(outside))!=len(outside) or set(outside)&set(ids):raise ValueError('Ungültige Sprecher außerhalb des Bildes.')
             if 'canvas_size' in scene:
                 from lettering import DESIGN
                 DESIGN.validate_canvas_size(scene['canvas_size'])

@@ -1,8 +1,8 @@
 TITEL: Luzerner Hörner und Mordnacht · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 10
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -38,7 +38,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Stimmen in der Nacht
 Ort und Zeit: Luzerner Gasse am Abend
 Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Junge geht in der Dunkelheit an der Schneiderzunftstube vorbei. Unter einem großen nahen Schwibbogen glimmt Licht; von dort kommen gedämpfte Stimmen. Kein bereits ausgeführter Angriff in der Gasse. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: unter einer dunklen Hausecke; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Junge geht in der Dunkelheit an der Schneiderzunftstube vorbei. Unter einem großen nahen Schwibbogen glimmt Licht; von dort kommen gedämpfte Stimmen. Kein bereits ausgeführter Angriff in der Gasse.
 Erzählertext: Eine Luzerner Sage erzählt von einem Jungen, der nachts Stimmen unter einem Schwibbogen hörte. Er blieb verborgen und lauschte.
 Dialoge: keine
 Kontinuität / Änderung: Kurzer Rahmen ohne zusätzliche Schlachtgeschichte um die Hörner.
@@ -46,7 +46,7 @@ Kontinuität / Änderung: Kurzer Rahmen ohne zusätzliche Schlachtgeschichte um 
 KACHEL 2: Der Anschlag
 Ort und Zeit: Schwibbogen bei der Schneiderzunftstube
 Sichtbare Figuren: Verschwörer mit den roten Ärmeln, Betteljunge der Luzerner Mordnachtsage
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Mehrere erwachsene Männer mit roten Ärmeln beraten sich unter dem Bogen. Der bekannte Verschwörer steht vorn, der Junge hört verborgen hinter dem Pfeiler. Der große Bogen und die rote Ärmelgruppe bleiben klar verortet. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: verdeckt hinter dem Randpfeiler; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verschwörer mit den roten Ärmeln: Ort: unter dem Bogen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Mehrere erwachsene Männer mit roten Ärmeln beraten sich unter dem Bogen. Der bekannte Verschwörer steht vorn, der Junge hört verborgen hinter dem Pfeiler. Der große Bogen und die rote Ärmelgruppe bleiben klar verortet. Der Junge befindet sich vollständig hinter dem einen Pfeiler und ist kein Teilnehmer der rotärmeligen Gruppe. Die Verschwörer sind mehrere verschiedene erwachsene Männer.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Verschwörer mit den roten Ärmeln
@@ -58,7 +58,7 @@ Kontinuität / Änderung: Geplanter Anschlag, noch keine Gewalt ausgeführt. Ein
 KACHEL 3: Entdeckt
 Ort und Zeit: Rand desselben Bogens
 Sichtbare Figuren: Verschwörer mit den roten Ärmeln, Betteljunge der Luzerner Mordnachtsage
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Junge ist bemerkt worden. Der Verschwörer versperrt ihm den Weg und beugt sich bedrohlich vor. Keine Waffe berührt das Kind, keine Verletzung und keine tatsächliche Tötung. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: zwischen Pfeiler und Wand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verschwörer mit den roten Ärmeln: Ort: vor dem Jungen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand am Türpfosten; Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Junge ist bemerkt worden. Der Verschwörer versperrt ihm den Weg und beugt sich bedrohlich vor. Keine Waffe berührt das Kind, keine Verletzung und keine tatsächliche Tötung.
 Erzählertext: Die Verschwörer entdeckten den Zuhörer. Unter Todesdrohung musste er schwören, keinem Menschen von ihrem Anschlag zu erzählen.
 Dialoge: keine
 Kontinuität / Änderung: Eid unter Todesdrohung erzwungen. Junge bleibt lebend und unverletzt.
@@ -66,7 +66,7 @@ Kontinuität / Änderung: Eid unter Todesdrohung erzwungen. Junge bleibt lebend 
 KACHEL 4: Wohin mit der Wahrheit
 Ort und Zeit: Weg zur Metzgerzunftstube
 Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach seiner Freilassung steht er zögernd vor der noch beleuchteten Metzgerzunftstube. Drinnen sitzen Erwachsene bei Bechern. Er klopft nicht bei den Verschwörern an und trägt keine schriftliche Warnung. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: vor der beleuchteten Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach seiner Freilassung steht er zögernd vor der noch beleuchteten Metzgerzunftstube. Drinnen sitzen Erwachsene bei Bechern. Er klopft nicht bei den Verschwörern an und trägt keine schriftliche Warnung.
 Erzählertext: Wieder frei, suchte er einen Weg, die Stadt dennoch zu warnen. Schweigen hätte die anderen dem geplanten Überfall ausgeliefert.
 Dialoge: keine
 Kontinuität / Änderung: Er sucht einen indirekten Weg, nicht die nächste Person für einen direkten Bericht.
@@ -74,7 +74,7 @@ Kontinuität / Änderung: Er sucht einen indirekten Weg, nicht die nächste Pers
 KACHEL 5: Der Ofen als Zuhörer
 Ort und Zeit: Metzgerzunftstube vor Mitternacht
 Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage, Metzgergeselle als aufmerksamer Zuhörer
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Junge sitzt auf der Bank am großen warmen Ofen und spricht bewusst dessen Kacheln an. Der Metzgergeselle und andere Erwachsene sitzen in Hörweite, werden aber nicht direkt angesprochen. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: auf der Ofenbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Metzgergeselle als aufmerksamer Zuhörer: Ort: am nahen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Holzbecher; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Junge sitzt auf der Bank am großen warmen Ofen und spricht bewusst dessen Kacheln an. Der Metzgergeselle und andere Erwachsene sitzen in Hörweite, werden aber nicht direkt angesprochen. Der Junge blickt und spricht unmittelbar zu den unbelebten Ofenkacheln. Der Metzgergeselle sitzt räumlich daneben in Hörweite, ist aber nicht sein direktes Gegenüber.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Betteljunge der Luzerner Mordnachtsage
@@ -86,7 +86,7 @@ Kontinuität / Änderung: Indirekte Warnung an den Ofen; kein neuer magischer sp
 KACHEL 6: Was Zuhören verlangt
 Ort und Zeit: Dieselbe Zunftstube
 Sichtbare Figuren: Metzgergeselle als aufmerksamer Zuhörer, Betteljunge der Luzerner Mordnachtsage
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Geselle hat den Becher auf den Tisch gestellt und steht plötzlich auf. Andere erwachsene Männer werden aufmerksam. Der Junge blickt weiter zum Ofen; niemand zwingt ihn zu einem zweiten direkten Geständnis. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: weiter auf der Ofenbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Metzgergeselle als aufmerksamer Zuhörer: Ort: vom Tisch aufgestanden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Geselle hat den Becher auf den Tisch gestellt und steht plötzlich auf. Andere erwachsene Männer werden aufmerksam. Der Junge blickt weiter zum Ofen; niemand zwingt ihn zu einem zweiten direkten Geständnis.
 Erzählertext: Die Männer in der Zunftstube verstanden die Rede zum Ofen. Nun mussten sie die Zünfte, das Rathaus und den Glöckner rechtzeitig warnen.
 Dialoge: keine
 Kontinuität / Änderung: Erkennen und gemeinsames Handeln folgen dem Hören. Keine neue Mordtat zur Dramatisierung.
@@ -94,7 +94,7 @@ Kontinuität / Änderung: Erkennen und gemeinsames Handeln folgen dem Hören. Ke
 KACHEL 7: Vor dem zwölften Schlag
 Ort und Zeit: Glockenstube im Turm
 Sichtbare Figuren: Metzgergeselle als aufmerksamer Zuhörer, Glöckner vor Mitternacht
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein warnender Geselle hat den Glöckner erreicht. Die Glocke hängt unbewegt, das Seil wird nicht gezogen. Durch das Fenster liegt die dunkle Stadt. Keine gleichzeitig schon zwölfmal anschlagende Glocke. Verbindliche Zustände: Metzgergeselle als aufmerksamer Zuhörer: Ort: an der Turmtür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Glöckner vor Mitternacht: Ort: neben dem Glockenseil; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand hält das Glockenseil still; Kleidung: Grauer langer Wollrock und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ein warnender Geselle hat den Glöckner erreicht. Die Glocke hängt unbewegt, das Seil wird nicht gezogen. Durch das Fenster liegt die dunkle Stadt. Keine gleichzeitig schon zwölfmal anschlagende Glocke. Die eine Glocke bleibt in dieser Einstellung vollkommen ruhig; das ungezogene Seil hängt senkrecht. Der Glöckner und der Bote stehen getrennt daneben.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Metzgergeselle als aufmerksamer Zuhörer
@@ -106,7 +106,7 @@ Kontinuität / Änderung: Warnung rechtzeitig vor Mitternacht. Andere Boten warn
 KACHEL 8: Zuvorgekommen
 Ort und Zeit: Gasse am Schwibbogen
 Sichtbare Figuren: Verschwörer mit den roten Ärmeln
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Vorbereitete erwachsene Bürger und Zunftleute versperren den rotärmeligen Männern die Ausgänge. Die Gruppe kann ihren Überraschungsangriff nicht beginnen. Kein blutiger Kampf, keine Hinrichtung und kein Junge als bewaffneter Angreifer. Verbindliche Zustände: Verschwörer mit den roten Ärmeln: Ort: unter dem Bogen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Vorbereitete erwachsene Bürger und Zunftleute versperren den rotärmeligen Männern die Ausgänge. Die Gruppe kann ihren Überraschungsangriff nicht beginnen. Kein blutiger Kampf, keine Hinrichtung und kein Junge als bewaffneter Angreifer.
 Erzählertext: Die gewarnten Bürger kamen den Verschwörern zuvor. Der geplante Überraschungsangriff konnte nicht beginnen.
 Dialoge: keine
 Kontinuität / Änderung: Gleichzeitige Warnwege haben die Stadt vorbereitet. Nicht allein das Schweigen der Glocke als magische Rettung ausgeben.
@@ -114,7 +114,7 @@ Kontinuität / Änderung: Gleichzeitige Warnwege haben die Stadt vorbereitet. Ni
 KACHEL 9: Der Morgen ohne Mordnacht
 Ort und Zeit: Metzgerzunftstube am nächsten Morgen
 Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage, Metzgergeselle als aufmerksamer Zuhörer
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Junge sitzt nach der überstandenen Nacht wieder auf der Bank. Der Geselle kniet sich etwas zu ihm herunter, um auf Augenhöhe zu sprechen. Es liegt keine Belohnung als erfundener Schatz auf dem Tisch. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: auf derselben Ofenbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Metzgergeselle als aufmerksamer Zuhörer: Ort: vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Junge sitzt nach der überstandenen Nacht wieder auf der Bank. Der Geselle kniet sich etwas zu ihm herunter, um auf Augenhöhe zu sprechen. Es liegt keine Belohnung als erfundener Schatz auf dem Tisch.
 Erzählertext: Am Morgen war die Gefahr vorüber. Der Junge hatte einen Ausweg gefunden, weil andere bereit gewesen waren zuzuhören.
 Dialoge: keine
 Kontinuität / Änderung: Junge lebt unverletzt. Sein Einfall und das Handeln der Zuhörer gehören beide zur Rettung.
@@ -122,7 +122,7 @@ Kontinuität / Änderung: Junge lebt unverletzt. Sein Einfall und das Handeln de
 KACHEL 10: Das Bild hinter dem Ofen
 Ort und Zeit: Metzgerzunftstube lange danach
 Sichtbare Figuren: keine
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Lange später sieht man hinter dem alten Ofen ein gemaltes Bild eines Jungen in geflickter grauer Tunika auf der Bank. Es ist eine Wandmalerei, keine zweite lebende Figur neben einem unverändert jungen Original. Ein namenloser erwachsener Besucher betrachtet sie.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Lange später sieht man hinter dem alten Ofen ein gemaltes Bild eines Jungen in geflickter grauer Tunika auf der Bank. Es ist eine Wandmalerei, keine zweite lebende Figur neben einem unverändert jungen Original. Ein namenloser erwachsener Besucher betrachtet sie. Der Junge ist ausschließlich Teil der flachen Wandmalerei. Im realen Raum steht nur der namenlose erwachsene Besucher, kein weiterer lebender Junge.
 Erzählertext: Später erinnerte sein gemaltes Bild hinter dem Ofen an die Nacht. Die Sage bewahrte auch die Erinnerung an aufmerksame Zuhörer.
 Dialoge: keine
 Kontinuität / Änderung: Erinnerungsbild nach Zeitsprung. Kein zwingender Beleg, dass Wandmalerei oder Ereignis heute nachweisbar erhalten sind.

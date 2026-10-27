@@ -243,8 +243,8 @@
         "bubbles": [],
         "continuity": "Berührung und Beginn des Zauberschlafs vollzogen. Prinzessin lebt. Der ganze Hof wird gleichzeitig erfasst; hundert Jahre beginnen jetzt, nicht schon bei der Geburt.",
         "character_states": {
-          "e98d6c694a045f52b68acea0a5d36343": "auf dem Bett eingesunken liegend; Hellblaues Kleid und braune Schuhe; junge Frau unveränderten Alters",
-          "4986813e2b1751d8be0caecfb86975c4": "im Sitzen eingeschlafen; Graues einfaches Kleid und dunkle Schürze. Ein Spinnrad mit Spindel."
+          "e98d6c694a045f52b68acea0a5d36343": "auf dem Bett eingesunken liegend; Hellblaues Kleid und braune Schuhe; junge Frau unveränderten Alters; Lebenszustand: lebend im Zauberschlaf, nicht tot",
+          "4986813e2b1751d8be0caecfb86975c4": "im Sitzen eingeschlafen; Graues einfaches Kleid und dunkle Schürze. Ein Spinnrad mit Spindel.; Lebenszustand: lebend im Zauberschlaf"
         },
         "continuity_state": {
           "e98d6c694a045f52b68acea0a5d36343": {
@@ -279,8 +279,8 @@
         "bubbles": [],
         "continuity": "Alle Tätigkeiten halten an, Lebende werden nicht zu Toten. Königspaar vor dem Schlaf normal gealtert, im folgenden Zauberschlaf kein weiteres sichtbares Altern.",
         "character_states": {
-          "c5baf8f82efa55189b24788d1c763c68": "eingeschlafen sitzend; Dunkelblaues Hofgewand und schlichte goldene Königskrone.",
-          "26109ca534985b7dbfd3714babc0d82b": "eingeschlafen sitzend; Weinrotes Hofkleid und schmaler goldener Haarreif."
+          "c5baf8f82efa55189b24788d1c763c68": "eingeschlafen sitzend; Dunkelblaues Hofgewand und schlichte goldene Königskrone.; Lebenszustand: lebend im Zauberschlaf",
+          "26109ca534985b7dbfd3714babc0d82b": "eingeschlafen sitzend; Weinrotes Hofkleid und schmaler goldener Haarreif.; Lebenszustand: lebend im Zauberschlaf"
         },
         "continuity_state": {
           "c5baf8f82efa55189b24788d1c763c68": {

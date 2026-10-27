@@ -1,15 +1,15 @@
 TITEL: Der Schatten – Der Diener wird zum Herrn · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 14
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
 
 Name: Gelehrter ohne seinen ersten Schatten
 Aussehen: Schlanker erwachsener Mann mit langem Gesicht, schmaler gerader Nase und dunklem kurzem Haar.
-Kleidung: Zuerst brauner Leinenrock und helles Hemd; später derselbe Rock abgetragen, auf Reisen grauer einfacher Mantel.
+Kleidung: Zuerst brauner Leinenrock und helles Hemd
 Persönlichkeit und Vorgeschichte: Liebt Wahrheit und Denken. Seine frühere Projektion gewinnt gesellschaftliche Macht und bringt ihn als störenden Zeugen zum Schweigen.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
@@ -31,7 +31,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Ein Scherz am Fenster
 Ort und Zeit: Zimmer gegenüber einem rätselhaften Haus
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten, Der selbstständig gewordene Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Eine einzelne Lampe hinter dem Gelehrten wirft seine lange Silhouette über den engen Hof zur offenen Nachbartür. Die schwarze Projektion hat keine räumliche Dicke und keine eigenen Füße auf dem Boden. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: im offenen Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand am Rahmen; Kleidung: Zuerst brauner Leinenrock und helles Hemd; später derselbe Rock abgetragen, auf Reisen grauer einfacher Mantel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: auf der gegenüberliegenden Wand; Körperhaltung: flache Projektion der Fensterfigur; Mitgeführte Gegenstände: keine realen Gegenstände; Kleidung: nur schwarze Silhouette ohne Stoff; Lebenszustand: Schattenprojektion; Verletzungen: keine.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Eine einzelne Lampe hinter dem Gelehrten wirft seine lange Silhouette über den engen Hof zur offenen Nachbartür. Die schwarze Projektion hat keine räumliche Dicke und keine eigenen Füße auf dem Boden.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Gelehrter ohne seinen ersten Schatten
@@ -43,7 +43,7 @@ Kontinuität / Änderung: Schatten zunächst unselbstständige Projektion. Kein 
 KACHEL 2: Die Ablösung
 Ort und Zeit: Wand vor der Nachbartür
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten, Der selbstständig gewordene Schatten
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Schatten rutscht bereits allein durch die beleuchtete Nachbartür, obwohl der Gelehrte unverändert am Fenster steht. Der Lichtstrahl verbindet beide nicht mehr. Genau zwei Identitäten, kein menschlicher Doppelgänger im Fenster. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: im fernen gegenüberliegenden Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Zuerst brauner Leinenrock und helles Hemd; später derselbe Rock abgetragen, auf Reisen grauer einfacher Mantel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: an der Nachbartür; Körperhaltung: vom Menschen abgelöste flache Silhouette; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: schwarzer Umriss ohne Stoff; Lebenszustand: selbstständig gewordener Schatten; Verletzungen: keine.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Schatten rutscht bereits allein durch die beleuchtete Nachbartür, obwohl der Gelehrte unverändert am Fenster steht. Der Lichtstrahl verbindet beide nicht mehr. Genau zwei Identitäten, kein menschlicher Doppelgänger im Fenster.
 Erzählertext: Der Schatten ging tatsächlich fort. Was als Scherz begonnen hatte, ließ sich nicht wieder zurückrufen.
 Dialoge: keine
 Kontinuität / Änderung: Einmalige Ablösung. Schatten handelt ab jetzt eigenständig.
@@ -51,7 +51,7 @@ Kontinuität / Änderung: Einmalige Ablösung. Schatten handelt ab jetzt eigenst
 KACHEL 3: Jahre später
 Ort und Zeit: Arbeitszimmer des Gelehrten
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Jahre später arbeitet der Gelehrte zwischen wenigen unverkäuflichen Manuskripten. Ein kleiner neuer gewöhnlicher Schatten liegt korrekt unter seinem Stuhl; dieser ist kein zweiter handelnder Charakter. Sein alter Schatten ist nicht im Raum. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: am Schreibtisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein beschriebenes Blatt; Kleidung: Abgetragener brauner Leinenrock und helles Hemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Jahre später arbeitet der Gelehrte zwischen wenigen unverkäuflichen Manuskripten. Ein kleiner neuer gewöhnlicher Schatten liegt korrekt unter seinem Stuhl; dieser ist kein zweiter handelnder Charakter. Sein alter Schatten ist nicht im Raum.
 Erzählertext: Jahre vergingen. Der Gelehrte schrieb über Wahrheit und Güte, während sein eigenes Leben immer ärmer wurde.
 Dialoge: keine
 Kontinuität / Änderung: Gewöhnliche spätere Lichtschatten nicht mit dem verselbstständigten ersten Schatten verwechseln.
@@ -59,7 +59,7 @@ Kontinuität / Änderung: Gewöhnliche spätere Lichtschatten nicht mit dem vers
 KACHEL 4: Ein wohlhabender Besuch
 Ort und Zeit: Dasselbe Arbeitszimmer
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten, Der selbstständig gewordene Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein körperlicher, elegant gekleideter Mann steht im Türrahmen. Die gleiche schmale Nasenkontur verrät seine Herkunft; Kleidung und selbstsichere Haltung unterscheiden ihn klar vom ärmeren Gelehrten. Keine Projektion am Türrahmen. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: vor dem Schreibtisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragener brauner Leinenrock und helles Hemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand an der goldenen Uhrkette; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ein körperlicher, elegant gekleideter Mann steht im Türrahmen. Die gleiche schmale Nasenkontur verrät seine Herkunft; Kleidung und selbstsichere Haltung unterscheiden ihn klar vom ärmeren Gelehrten. Keine Projektion am Türrahmen.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Der selbstständig gewordene Schatten
@@ -71,7 +71,7 @@ Kontinuität / Änderung: Schatten jetzt eigenständiger körperlicher Mann mit 
 KACHEL 5: Das Angebot
 Ort und Zeit: Arbeitszimmer am Reisegepäck
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten, Der selbstständig gewordene Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Bei einem späteren Besuch liegt der einfache Reisebeutel des geschwächten Gelehrten bereit. Der vornehme Schatten bietet eine Reise an und bestimmt bereits den Ton. Keine vollzogene Abfahrt im selben Bild. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: neben einem einfachen Reisebeutel; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragener brauner Leinenrock und helles Hemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: vor der geöffneten Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Bei einem späteren Besuch liegt der einfache Reisebeutel des geschwächten Gelehrten bereit. Der vornehme Schatten bietet eine Reise an und bestimmt bereits den Ton. Keine vollzogene Abfahrt im selben Bild.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Der selbstständig gewordene Schatten
@@ -88,7 +88,7 @@ Kontinuität / Änderung: Der Gelehrte nimmt aus Bedürftigkeit an, nicht aus Be
 KACHEL 6: Hinter dem Vornehmen
 Ort und Zeit: Promenade des Kurortes
 Sichtbare Figuren: Der selbstständig gewordene Schatten, Gelehrter ohne seinen ersten Schatten
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach der Reise gehen beide zu Fuß durch den Kurort. Die vornehme Gestalt wird begrüßt; der Gelehrte mit Beutel bleibt einen Schritt dahinter. Beide sind räumliche Personen mit je einem Körper. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: einen Schritt hinter ihm; Körperhaltung: gehend; Mitgeführte Gegenstände: ein einfacher Reisebeutel; Kleidung: Grauer einfacher Mantel über abgetragenem braunem Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: vorn auf der Promenade; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach der Reise gehen beide zu Fuß durch den Kurort. Die vornehme Gestalt wird begrüßt; der Gelehrte mit Beutel bleibt einen Schritt dahinter. Beide sind räumliche Personen mit je einem Körper.
 Erzählertext: Auf der gemeinsamen Reise bestimmte der wohlhabende Schatten die Rollen. Der Gelehrte musste hinter ihm zurückbleiben.
 Dialoge: keine
 Kontinuität / Änderung: Gelehrter trägt nun grauen Mantel; kein Reittier oder Fahrzeug im Bild.
@@ -96,7 +96,7 @@ Kontinuität / Änderung: Gelehrter trägt nun grauen Mantel; kein Reittier oder
 KACHEL 7: Der neue Herr erklärt sich
 Ort und Zeit: Salon des Kurortes
 Sichtbare Figuren: Königstochter beim Schatten, Der selbstständig gewordene Schatten, Gelehrter ohne seinen ersten Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Die Königstochter spricht mit dem eleganten Fremden. Auf ihre fragende Geste zum Mann an der Wand antwortet er gelassen. Der Gelehrte hört den Satz. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: abseits an der Wand; Körperhaltung: stehend; Mitgeführte Gegenstände: Reisebeutel; Kleidung: Grauer Mantel über braunem Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: bei der Königstochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Schatten: Ort: vor dem schwarzen Rock; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues höfisches Kleid und schmale silberne Krone. Beim Fest helles Hochzeitskleid.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Die Königstochter spricht mit dem eleganten Fremden. Auf ihre fragende Geste zum Mann an der Wand antwortet er gelassen. Der Gelehrte hört den Satz.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Königstochter beim Schatten
@@ -113,7 +113,7 @@ Kontinuität / Änderung: Die falsche Rollenzuschreibung wird ausdrücklich ausg
 KACHEL 8: Wissen zum Vorzeigen
 Ort und Zeit: Salon neben dem Gartenfenster
 Sichtbare Figuren: Königstochter beim Schatten, Der selbstständig gewordene Schatten, Gelehrter ohne seinen ersten Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Später zeigt die Königstochter auf ein beschriebenes Blatt auf dem Tisch. Der Schatten deutet großzügig auf den Gelehrten, als wäre dessen Wissen bloßer Besitz seines angeblichen Herrn. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: etwas zurückgesetzt; Körperhaltung: stehend; Mitgeführte Gegenstände: Reisebeutel; Kleidung: Grauer Mantel über braunem Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: ihr zugewandt; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Schatten: Ort: neben dem Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues höfisches Kleid und schmale silberne Krone. Beim Fest helles Hochzeitskleid.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Später zeigt die Königstochter auf ein beschriebenes Blatt auf dem Tisch. Der Schatten deutet großzügig auf den Gelehrten, als wäre dessen Wissen bloßer Besitz seines angeblichen Herrn.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Der selbstständig gewordene Schatten
@@ -125,7 +125,7 @@ Kontinuität / Änderung: Nicht übernatürlich allwissend: Der Schatten nutzt d
 KACHEL 9: Das ausgesuchte Schweigen
 Ort und Zeit: Flur vor dem königlichen Salon
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten, Der selbstständig gewordene Schatten
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Reisebeutel ist inzwischen im Gästezimmer abgelegt. Der Gelehrte versperrt dem Schatten im leeren Flur den Weg. Der elegante Mann hört kühl zu, ohne Sorge vor Zeugen. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: vor dem früheren Schatten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Mantel über braunem Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: vor der geschlossenen Salontür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Reisebeutel ist inzwischen im Gästezimmer abgelegt. Der Gelehrte versperrt dem Schatten im leeren Flur den Weg. Der elegante Mann hört kühl zu, ohne Sorge vor Zeugen.
 Erzählertext: Als der Gelehrte die Täuschung offenlegen wollte, hatte sein früherer Schatten bereits bestimmt, wem man glauben würde.
 Dialoge: keine
 Kontinuität / Änderung: Gelehrter fordert Wahrheit. Die Gefahr entsteht aus seiner angekündigten Enthüllung, nicht aus einer realen Verwirrung.
@@ -133,7 +133,7 @@ Kontinuität / Änderung: Gelehrter fordert Wahrheit. Die Gefahr entsteht aus se
 KACHEL 10: Die Erklärung siegt
 Ort und Zeit: Vorzimmer der Königstochter
 Sichtbare Figuren: Königstochter beim Schatten, Der selbstständig gewordene Schatten, Gelehrter ohne seinen ersten Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Wachen halten den Gelehrten an den Armen fest, ohne Schläge und ohne Waffen. Die Königstochter wendet sich nach der Behauptung des Schattenmannes von ihm ab. Der elegante Mann behält den ruhigen öffentlichen Auftritt. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: zwischen zwei unbewaffneten Wachen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Mantel über braunem Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Der selbstständig gewordene Schatten: Ort: ruhig neben ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Schatten: Ort: bei der Salontür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues höfisches Kleid und schmale silberne Krone. Beim Fest helles Hochzeitskleid.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Wachen halten den Gelehrten an den Armen fest, ohne Schläge und ohne Waffen. Die Königstochter wendet sich nach der Behauptung des Schattenmannes von ihm ab. Der elegante Mann behält den ruhigen öffentlichen Auftritt.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Der selbstständig gewordene Schatten
@@ -150,7 +150,7 @@ Kontinuität / Änderung: Gefangennahme aufgrund der Täuschung. Wahrheit wird a
 KACHEL 11: Keine Zuhörer
 Ort und Zeit: Geschlossene Gefängniszelle
 Sichtbare Figuren: Gelehrter ohne seinen ersten Schatten
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Gelehrte steht allein im verschlossenen Raum. Im fernen Fensterausschnitt hängen Festgirlanden auf dem Platz. Keine andere Figur hört ihn; kein heimlicher Befreiungsplan. Verbindliche Zustände: Gelehrter ohne seinen ersten Schatten: Ort: hinter dem kleinen vergitterten Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände an den Stäben; Kleidung: Grauer Mantel über braunem Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der Gelehrte steht allein im verschlossenen Raum. Im fernen Fensterausschnitt hängen Festgirlanden auf dem Platz. Keine andere Figur hört ihn; kein heimlicher Befreiungsplan.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Gelehrter ohne seinen ersten Schatten
@@ -162,7 +162,7 @@ Kontinuität / Änderung: Noch lebend und gefangen. Hochzeit steht bevor, keine 
 KACHEL 12: Die angenommene Gestalt
 Ort und Zeit: Königlicher Hochzeitssaal
 Sichtbare Figuren: Der selbstständig gewordene Schatten, Königstochter beim Schatten
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am Tag der Hochzeit stehen Schattenmann und Königstochter vor der Festgesellschaft. Er trägt weiterhin den schwarzen Rock und die goldene Kette. Ein Diener hat ihm abseits leise Bericht erstattet; kein Brieftext und keine Tötungsdarstellung. Verbindliche Zustände: Der selbstständig gewordene Schatten: Ort: neben der Königstochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Schatten: Ort: bei ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hochzeitskleid, schmale silberne Krone; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Am Tag der Hochzeit stehen Schattenmann und Königstochter vor der Festgesellschaft. Er trägt weiterhin den schwarzen Rock und die goldene Kette. Ein Diener hat ihm abseits leise Bericht erstattet; kein Brieftext und keine Tötungsdarstellung.
 Erzählertext: Vor der Hochzeit ließ man den Gelehrten töten. Seine Wahrheit erreichte die Feiernden nicht mehr.
 Dialoge: keine
 Kontinuität / Änderung: Gelehrter ab jetzt tot außerhalb des Bildes. Braut hat sich vor der Hochzeit umgekleidet.
@@ -170,7 +170,7 @@ Kontinuität / Änderung: Gelehrter ab jetzt tot außerhalb des Bildes. Braut ha
 KACHEL 13: Die leere Zelle
 Ort und Zeit: Gefängnisgang nach der Hochzeit
 Sichtbare Figuren: keine
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Eine geschlossene leere Zelle hinter Gittern. Der Platz vor dem kleinen Fenster ist leer; keine Leiche, kein entkommener Gelehrter und kein menschlicher Geist. Fernes Festlicht fällt durch das Fenster.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Eine geschlossene leere Zelle hinter Gittern. Der Platz vor dem kleinen Fenster ist leer; keine Leiche, kein entkommener Gelehrter und kein menschlicher Geist. Fernes Festlicht fällt durch das Fenster.
 Erzählertext: Der einzige Mensch, der die Herkunft des Bräutigams bezeugen konnte, war zum Schweigen gebracht worden.
 Dialoge: keine
 Kontinuität / Änderung: Gelehrter bleibt tot. Leerer Raum steht für Auslöschung, nicht erfolgreiche Flucht.
@@ -178,7 +178,7 @@ Kontinuität / Änderung: Gelehrter bleibt tot. Leerer Raum steht für Auslösch
 KACHEL 14: Anerkannt
 Ort und Zeit: Balkon über dem feiernden Hof
 Sichtbare Figuren: Der selbstständig gewordene Schatten, Königstochter beim Schatten
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der neue Gemahl nimmt den Beifall entgegen. Sein Körper ist greifbar, sein Umriss gleicht dem des ursprünglichen Gelehrten. Unten jubeln namenlose Gäste; niemand aus der Menge erkennt den Betrug. Verbindliche Zustände: Der selbstständig gewordene Schatten: Ort: am Balkongeländer; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand am Geländer; Kleidung: Als Projektion keine reale Kleidung; als Mann schwarzer maßgeschneiderter Rock, helle Weste, goldene Uhrkette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter beim Schatten: Ort: neben ihrem Gemahl; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hochzeitskleid, schmale silberne Krone; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Der neue Gemahl nimmt den Beifall entgegen. Sein Körper ist greifbar, sein Umriss gleicht dem des ursprünglichen Gelehrten. Unten jubeln namenlose Gäste; niemand aus der Menge erkennt den Betrug. Schattenmann und Königstochter stehen als zwei körperliche Personen auf dem Balkon, die namenlosen Festgäste unten auf dem Platz. Die Ähnlichkeit zum Gelehrten zeigt nur seine Gesichtskontur; der Gelehrte selbst erscheint nicht.
 Erzählertext: Der Schatten erhielt den Beifall und die Königstochter. Dass alle ihn anerkannten, machte seine Lüge nicht wahr.
 Dialoge: keine
 Kontinuität / Änderung: Tragisches Ende bleibt bestehen: keine Entlarvung und keine spätere Rettung des Toten.
