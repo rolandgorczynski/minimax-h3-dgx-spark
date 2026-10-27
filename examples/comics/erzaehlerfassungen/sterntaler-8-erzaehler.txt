@@ -1,15 +1,15 @@
 TITEL: Die Sterntaler – Das letzte Stück Brot · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 8
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
 
 Name: Mädchen der Sterntaler
 Aussehen: Verwaistes etwa achtjähriges Mädchen mit braunem Haar in zwei kurzen Zöpfen und rundem ernstem Gesicht. Kindliche Proportionen bleiben unverändert.
-Kleidung: Zu Beginn braunes Mützchen, dunkles Leibchen und brauner Rock über einem langen blickdichten Leinenhemd. Nach den Gaben genaue Stufen beachten. Am Schluss ein neues langes blickdichtes Gewand mit Ärmeln und geschlossenem Ausschnitt.
+Kleidung: Nach den Gaben genaue Stufen beachten. Am Schluss ein neues langes blickdichtes Gewand mit Ärmeln und geschlossenem Ausschnitt.
 Persönlichkeit und Vorgeschichte: Hat kaum etwas und gibt weiter. Die letzte Abgabe bleibt in Körperansichten vollständig verdeckt; das Schlusskleid ist neu und Teil des Wunders, keine zurückgeholte frühere Gabe.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
@@ -52,7 +52,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Was noch bei ihr ist
 Ort und Zeit: Weg am Rand einer kleinen Ortschaft
 Sichtbare Figuren: Mädchen der Sterntaler
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite stille Wegansicht. Kind links in vollständiger schlichter Kleidung mit Mützchen, Leibchen und Rock über langem Leinenhemd. Genau ein Stück Brot in seinen Händen, kein Geldbeutel und kein schon fallender Münzregen. Körper durch Kleidung und normale Bilddistanz geschützt. Verbindliche Zustände: Mädchen der Sterntaler: Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Stück Brot in beiden Händen; Kleidung: Braunes Mützchen, dunkles Leibchen, brauner Rock über langem blickdichtem Leinenhemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite stille Wegansicht. Kind links in vollständiger schlichter Kleidung mit Mützchen, Leibchen und Rock über langem Leinenhemd. Genau ein Stück Brot in seinen Händen, kein Geldbeutel und kein schon fallender Münzregen. Körper durch Kleidung und normale Bilddistanz geschützt.
 Erzählertext: Das Mädchen hatte keine Eltern mehr. Ein Stück Brot und wenige Kleider waren alles, was es besaß.
 Dialoge: keine
 Kontinuität / Änderung: Ausgangspunkt Mittellosigkeit ohne schon verfügbaren märchenhaften Reichtum. Kindliche Gestalt bleibt dieselbe, keine später erwachsen erscheinende Ersatzfigur.
@@ -60,7 +60,7 @@ Kontinuität / Änderung: Ausgangspunkt Mittellosigkeit ohne schon verfügbaren 
 KACHEL 2: Das Brot wechselt die Hand
 Ort und Zeit: Straße bei der Begegnung mit einem Hungrigen
 Sichtbare Figuren: Mädchen der Sterntaler, Hungriger Mann am Weg
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Halbnahe. Mädchen vollständig bekleidet links, Mann rechts hält jetzt das eine Brot. Keine zweite Brotscheibe mehr in der Kinderhand oder Tasche. Hände und Gesichter tragen die Begegnung, keine Wundersterne bereits am Taghimmel. Verbindliche Zustände: Mädchen der Sterntaler: Ort: links vor dem Mann; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände nach der Übergabe; Kleidung: Braunes Mützchen, dunkles Leibchen, brauner Rock über langem blickdichtem Leinenhemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Hungriger Mann am Weg: Ort: rechts am Wegrand; Körperhaltung: sitzend; Mitgeführte Gegenstände: das eine erhaltene Stück Brot in beiden Händen; Kleidung: Grauer geflickter Mantel, braune Hose und einfache Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ruhige Halbnahe. Mädchen vollständig bekleidet links, Mann rechts hält jetzt das eine Brot. Keine zweite Brotscheibe mehr in der Kinderhand oder Tasche. Hände und Gesichter tragen die Begegnung, keine Wundersterne bereits am Taghimmel.
 Erzählertext: Als es einem hungrigen Mann begegnete, gab es ihm sein einziges Brot. Es behielt nichts davon zurück.
 Dialoge: keine
 Kontinuität / Änderung: Erste Gabe vollständig an den Mann übergeben. Brot bleibt fort, erscheint nicht vor der letzten Waldszene wieder als neue Reserve.
@@ -68,7 +68,7 @@ Kontinuität / Änderung: Erste Gabe vollständig an den Mann übergeben. Brot b
 KACHEL 3: Die erste warme Schicht
 Ort und Zeit: Weg bei der ersten Kinderbegegnung
 Sichtbare Figuren: Mädchen der Sterntaler, Kind mit dem kalten Kopf
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Mädchen links jetzt ohne Mütze, Leibchen, Rock und langes Hemd weiterhin an. Gegenüber Kind in geschlossenem grauem Gewand mit dem erhaltenen Mützchen. Keine doppelte Mütze auf dem Mädchenkopf. Keine Geldbelohnung als unmittelbarer Lohn. Verbindliche Zustände: Mädchen der Sterntaler: Ort: links vor dem frierenden Kind; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Kein Mützchen; dunkles Leibchen und brauner Rock über langem blickdichtem Leinenhemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind mit dem kalten Kopf: Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: braunes Mützchen in beiden Händen; Kleidung: Langes geschlossenes graues Kleidungsgewand mit Ärmeln; zunächst ohne Mütze. Keine freiliegenden Körperdetails.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Halbnahe. Mädchen links jetzt ohne Mütze, Leibchen, Rock und langes Hemd weiterhin an. Gegenüber Kind in geschlossenem grauem Gewand mit dem erhaltenen Mützchen. Keine doppelte Mütze auf dem Mädchenkopf. Keine Geldbelohnung als unmittelbarer Lohn.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Mädchen der Sterntaler
@@ -80,7 +80,7 @@ Kontinuität / Änderung: Mützchen abgenommen und übergeben. Empfänger eigene
 KACHEL 4: Etwas weniger gegen die Kälte
 Ort und Zeit: Weg an einer Hecke bei der zweiten Begegnung
 Sichtbare Figuren: Mädchen der Sterntaler, Kind für das Leibchen
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige breite Ansicht. Mädchen links im braunen Rock über langem geschlossenem Leinenhemd, keine Mütze und kein Leibchen mehr am Körper. Zweites Kind rechts trägt schon grünes blickdichtes Gewand und hält die zusätzliche Gabe. Keine Körperentblößung durch die Abgabe. Verbindliche Zustände: Mädchen der Sterntaler: Ort: links bei der Hecke; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Keine Mütze und kein Leibchen; brauner Rock über langem blickdichtem Leinenhemd; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind für das Leibchen: Ort: rechts vor ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: ein dunkles erhaltenes Leibchen in beiden Händen; Kleidung: Dünnes aber blickdichtes langes grünes Gewand mit Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ruhige breite Ansicht. Mädchen links im braunen Rock über langem geschlossenem Leinenhemd, keine Mütze und kein Leibchen mehr am Körper. Zweites Kind rechts trägt schon grünes blickdichtes Gewand und hält die zusätzliche Gabe. Keine Körperentblößung durch die Abgabe.
 Erzählertext: Ein weiteres Kind fror. Auch das Leibchen gab das Mädchen fort; selbst trug es nun eine Schicht weniger.
 Dialoge: keine
 Kontinuität / Änderung: Zweite Kleidungsabgabe nach der Mütze, nicht heimliche Rücknahme von einem Empfänger. Dunkles Leibchen jetzt bei diesem Kind, spätere Aufnahmen dürfen es nicht zurück auf dem Mädchen zeigen.
@@ -88,7 +88,7 @@ Kontinuität / Änderung: Zweite Kleidungsabgabe nach der Mütze, nicht heimlich
 KACHEL 5: Auch der Rock bleibt zurück
 Ort und Zeit: Waldrand am späten Tag
 Sichtbare Figuren: Mädchen der Sterntaler, Kind für den Rock
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite stille Ansicht. Mädchen links jetzt in einem langen blickdichten geschlossenen Leinengewand mit Ärmeln, von Baumzweigen und Bildausschnitt zusätzlich geschützt. Drittes bereits bekleidetes Kind rechts hält den braunen Rock. Keine Rückkehr der früheren Mütze oder Weste. Verbindliche Zustände: Mädchen der Sterntaler: Ort: links vor dem Waldeingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Nur langes blickdichtes Leinenhemd als geschlossenes Gewand; keine früheren Gaben; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind für den Rock: Ort: rechts am Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner übergebener Rock in beiden Händen; Kleidung: Dünnes geschlossenes graublaues langes Gewand mit Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Breite stille Ansicht. Mädchen links jetzt in einem langen blickdichten geschlossenen Leinengewand mit Ärmeln, von Baumzweigen und Bildausschnitt zusätzlich geschützt. Drittes bereits bekleidetes Kind rechts hält den braunen Rock. Keine Rückkehr der früheren Mütze oder Weste.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Mädchen der Sterntaler
@@ -100,7 +100,7 @@ Kontinuität / Änderung: Rock übergeben, darunter langes bedeckendes Hemd blei
 KACHEL 6: Die letzte Gabe bleibt ein Detail
 Ort und Zeit: Dichter dunkler Wald bei der letzten Begegnung
 Sichtbare Figuren: Mädchen der Sterntaler, Kind bei der letzten Gabe
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Extreme enge Detailansicht ausschließlich zweier Hände und eines gefalteten hellen Stoffstücks zwischen dichtem Laub und breitem Baumstamm. Von keinem Kind sind Gesicht, Rumpf oder Beine sichtbar. Kein Körperumriss durch Stoff oder Gegenlicht. Dunkelheit und Verdeckung bleiben vollständig. Verbindliche Zustände: Mädchen der Sterntaler: Ort: links vollständig hinter einem breiten Stamm; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand reicht gefaltetes Leinen nach rechts; Kleidung: Körper vollständig durch Baumstamm und dichtes Laub verdeckt; nur eine Hand im Bild; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind bei der letzten Gabe: Ort: rechts vollständig durch dichtes Laub verdeckt; Körperhaltung: stehend; Mitgeführte Gegenstände: nur eine Hand nimmt das gefaltete Leinen; Kleidung: Geschlossenes blaues Gewand; Körper ganz durch Baum und Laub verdeckt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Extreme enge Detailansicht ausschließlich zweier Hände und eines gefalteten hellen Stoffstücks zwischen dichtem Laub und breitem Baumstamm. Von keinem Kind sind Gesicht, Rumpf oder Beine sichtbar. Kein Körperumriss durch Stoff oder Gegenlicht. Dunkelheit und Verdeckung bleiben vollständig. Der Bildrand schließt unmittelbar um Hände und Stoff; dichtes Laub verdeckt sämtliche anschließenden Körperteile.
 Erzählertext: Im dunklen Wald verschenkte es auch sein letztes Hemd. Nun hatte es keines seiner eigenen Kleidungsstücke mehr.
 Dialoge: keine
 Kontinuität / Änderung: Historische letzte Gabe außerhalb jeder freien Körperansicht. Das Bild zeigt nur Hände und Stoff. Sofort danach Kamera zum Himmel, bis das Schlusswunder ein neues vollständig bedeckendes Gewand gibt.
@@ -108,7 +108,7 @@ Kontinuität / Änderung: Historische letzte Gabe außerhalb jeder freien Körpe
 KACHEL 7: Ein Himmel wird zur Antwort
 Ort und Zeit: Nachthimmel über dem Wald
 Sichtbare Figuren: keine
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite reine Himmelsperspektive mit Sternen, Baumkronen unten als dunkler Rand. Einige fallende Sterne werden im Bildverlauf des einen Moments zu hellen kleinen Talern. Keine menschliche Figur oder Körperkontur irgendwo im Bild, keine früheren Empfänger als heimliche Zauberer.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Weite reine Himmelsperspektive mit Sternen, Baumkronen unten als dunkler Rand. Einige fallende Sterne werden im Bildverlauf des einen Moments zu hellen kleinen Talern. Keine menschliche Figur oder Körperkontur irgendwo im Bild, keine früheren Empfänger als heimliche Zauberer. Es ist eine reine Himmelsansicht ohne sichtbare Personen; fallende kleine Münzen bleiben zwischen Sternen und Baumkronen.
 Erzählertext: Da geschah das Wunder des Märchens: Sterne fielen vom Himmel und wurden zu Talern.
 Dialoge: keine
 Kontinuität / Änderung: Wunder erst nach der letzten Gabe. Neue Kleidung entsteht während dieses außerhalb von Körperansichten erzählten Moments. Kein realistisches Versorgungsgesetz und keine bereits vor den Gaben verteilte Münzquelle.
@@ -116,7 +116,7 @@ Kontinuität / Änderung: Wunder erst nach der letzten Gabe. Neue Kleidung entst
 KACHEL 8: Ein neues Gewand, ein anderes Morgen
 Ort und Zeit: Geschützter Waldplatz im Sternenlicht
 Sichtbare Figuren: Mädchen der Sterntaler
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Halbnahe vom Kopf bis zur Taille. Dasselbe Mädchen nun im neuen langen blickdichten Gewand mit Ärmeln und geschlossenem Ausschnitt, vollständig bedeckt. Beide Hände bilden aus einer vorderen Stofffalte eine kleine Schale für Münzen, darunter bleibt der Körper bedeckt. Keine alte Mütze, Weste oder Rock kehren zurück. Verbindliche Zustände: Mädchen der Sterntaler: Ort: mittig vor dunklem Laub; Körperhaltung: aufrecht stehend; Mitgeführte Gegenstände: beide Hände halten eine vordere Stofffalte mit wenigen Münzen; Kleidung: Neues langes blickdichtes feines Gewand mit Ärmeln und geschlossenem Ausschnitt; keine Mütze, kein Leibchen, kein alter Rock; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Ruhige Halbnahe vom Kopf bis zur Taille. Dasselbe Mädchen nun im neuen langen blickdichten Gewand mit Ärmeln und geschlossenem Ausschnitt, vollständig bedeckt. Beide Hände bilden aus einer vorderen Stofffalte eine kleine Schale für Münzen, darunter bleibt der Körper bedeckt. Keine alte Mütze, Weste oder Rock kehren zurück. Die äußere Stofffalte bildet die Münzschale, während das lange Gewand darunter geschlossen und blickdicht am Körper bleibt.
 Erzählertext: Zugleich trug das Mädchen ein neues feines Hemd. Darin sammelte es die Taler, die ihm ein gesichertes Leben ermöglichten.
 Dialoge: keine
 Kontinuität / Änderung: Neues Gewand ausdrücklich Teil des Schlusswunders, nicht das den Kindern weggenommene alte Hemd. Hoffnung der märchenhaften Wertordnung; keine reale Zusage, Selbstaufgabe erzeuge Geldregen. Kindliche Figur bleibt dieselbe und geschützt.

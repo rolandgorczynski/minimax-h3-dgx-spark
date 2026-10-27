@@ -205,7 +205,7 @@ class Handler(BaseHTTPRequestHandler):
                 result=self.service.client.request('GET','/dgx-comics/characters')
                 return self.reply(200,{**result,'alignments':ALIGNMENTS})
             except (ComfyError,OSError) as exc:return self.reply(502,{'error':str(exc)})
-        if path=='/stories':return self.reply(200,{'stories':self.service.stories.list()})
+        if path=='/stories':return self.reply(200,{'stories':self.service.stories.list(),'selection_story_ids':self.service.store.integration_get('story-selection-ids')})
         if path=='/telegram-publishing':return self.reply(200,self.service.publisher.info(verify=True))
         parts=path.strip('/').split('/')
         if len(parts)==4 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2:]==['share','telegram']:

@@ -101,7 +101,7 @@ function showWorkflowInput(input){
 }
 function updateWorkflowState(){
  if(!workflowInstalled)return;
- const selector=$('render-story-list');selector.replaceChildren(new Option('Skript auswählen',''),...definitions.filter(doc=>$('render-show-unfinished').checked||doc.script_ready===true||doc.id===definitionId).map(doc=>new Option(doc.name+(doc.script_ready===false?' · Skript offen':''),doc.id)));selector.value=definitionId;
+ const selector=$('render-story-list');selector.replaceChildren(new Option('Skript auswählen',''),...definitions.filter(doc=>storySelectable(doc)&&($('render-show-unfinished').checked||doc.script_ready===true||doc.id===definitionId)).map(doc=>new Option(doc.name+(doc.script_ready===false?' · Skript offen':''),doc.id)));selector.value=definitionId;
  const ready=$('editor-mode').value==='editorial'&&!needsPlan()&&!planningJob;
  const previous=editorPayload.planned_count??editorPayload.scenes?.length??0,current=Number($('count').value);
  const changed=previous>0&&current!==previous,valid=Number.isSafeInteger(current)&&current>0;

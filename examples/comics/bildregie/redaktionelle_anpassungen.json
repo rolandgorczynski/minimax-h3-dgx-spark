@@ -1,0 +1,920 @@
+{
+  "redaktion": "Codex",
+  "bilder_generieren": false,
+  "geschichten": {
+    "bremer-stadtmusikanten-10": {
+      "note": "Tiergestalten und Pyramidenauflagen geprüft; die Schlafplätze bleiben räumlich getrennt, Rückkehr des Räubers wird nicht vorweggenommen.",
+      "panels": {
+        "2": {
+          "append": "Der Wegweiser ist eine einfache Richtungstafel ohne Buchstaben; die Reiserichtung wird im Erzählertext vermittelt."
+        },
+        "4": {
+          "append": "Die vier Tiere stehen vollständig außerhalb des Hauses. Der Räuber sitzt vollständig innerhalb des Hauses; die Fensterscheibe trennt beide Räume sichtbar."
+        },
+        "5": {
+          "append": "Die vier Tiere bilden einen einzigen senkrechten Stapel. Zwischen Hufen beziehungsweise Pfoten und dem jeweils tragenden Rücken ist der Kontakt erkennbar; jedes Tier besitzt einen zusammenhängenden Körper."
+        },
+        "6": {
+          "append": "Die vordere Haustür und die hintere Hoftür sind verschiedene Türen; der Hund liegt innen an der vorderen, Esel und Hahn bleiben am Hinterausgang."
+        },
+        "9": {
+          "append": "Der Tritt ist bereits erfolgt: der Räuber befindet sich räumlich rechts außerhalb der Reichweite der Hinterhufe, der Esel bleibt mit dem Vorderkörper stabil."
+        }
+      }
+    },
+    "haensel-gretel-16": {
+      "note": "Zwei unterschiedliche Kinder über alle Rückwege verfolgt; Gitterverschluss, Schlüsselweg, Ofen und einzeln erfolgende Flussquerung präzisiert.",
+      "panels": {
+        "4": {
+          "append": "Die kleinen unbenannten Waldvögel sitzen auf dem Boden hinter den beiden Kindern; sie sind gewöhnliche Tiere und keine weiteren Hauptfiguren."
+        },
+        "8": {
+          "story": "Totale der Hexenküche. Links ein fest in die Wand eingebauter Verschlag mit verschlossener vergitterter Holztür. Genau ein Hänsel befindet sich vollständig dahinter im Verschlag. Die dicken senkrechten Metallstäbe liegen deutlich vor seinem Gesicht und seinem Körper; der geschlossene Türrahmen trennt ihn vom Küchenboden. In der Mitte kniet genau eine Gretel außerhalb des Verschlags mit einem Scheuertuch am Holzboden. Rechts steht genau eine Hexe und hält genau einen Schlüssel in ihrer rechten Hand. Der Ofen hinten rechts ist geschlossen. Alle drei Gesichter bleiben erkennbar. Hänsel hat keinen zweiten Körper auf der freien Küchenfläche."
+        },
+        "9": {
+          "append": "Nur Hänsels rechte Hand und das dünne Knöchelchen ragen durch eine enge Stablücke. Seine Schulter und sein Körper bleiben hinter der verschlossenen Tür außerhalb des Ausschnitts.",
+          "visual_states": {
+            "Hänsel": "Nur eine rechte Kinderhand zwischen zwei Metallstäben ist sichtbar; der zugehörige Körper bleibt hinter der Tür außerhalb des Ausschnitts."
+          }
+        },
+        "10": {
+          "story": "Halbtotale derselben Hexenküche. Rechts ist die Ofentür geöffnet. Gretel steht links daneben auf dem Küchenboden und blickt unsicher zur Öffnung. Rechts zeigt die Hexe mit ihrer leeren Hand auf das Ofeninnere. Der einzige Schlüssel hängt deutlich erkennbar an einem Wandhaken weit neben dem Ofen, nicht in einer Hand. Das Ofeninnere ist leer. Sichtbar sind genau diese zwei Personen. Der Verschlag mit Hänsel liegt außerhalb dieses Bildausschnitts."
+        },
+        "12": {
+          "story": "Ruhige Halbnahe nach der Handlung. Genau eine Gretel steht erschöpft vor der jetzt geschlossenen Ofentür. Der einzige Schlüssel hängt weiterhin rechts am Wandhaken. Die freie Küchenfläche und die geschlossene Ofenfront sind vollständig sichtbar. Weitere Figuren und der Verschlag liegen außerhalb des Ausschnitts. Warmes Ofenlicht trifft auf Gretels ernstes Gesicht; kein Feuer berührt sie."
+        },
+        "13": {
+          "append": "Die vergitterte Tür schwenkt offen zur Wand. Hänsel tritt als derselbe eine Junge vollständig aus dem nun leeren Verschlag; Gretel hält den einzigen Schlüssel."
+        },
+        "15": {
+          "append": "Hänsel steht vollständig am linken Zielufer. Gretel sitzt mit ihrem Gewicht sichtbar auf dem einen breiten Entenrücken; zwischen ihnen bleibt Wasser. Die Ente trägt in diesem Moment nur ein Kind."
+        }
+      }
+    },
+    "kalif-storch-12": {
+      "note": "Je Kachel ausschließlich die aktuelle Tier- oder Menschengestalt festgelegt; keine Doppelverkörperungen. Zaubererraum und Versteck bleiben eine gleichzeitige räumliche Situation.",
+      "panels": {
+        "3": {
+          "visual_states": {
+            "Kalif Chasid": "Vollständige Tiergestalt eines Weißstorchs, genau zwei Beine und zwei Flügel, langer Storchschnabel; rostfarbener Fleck am rechten Bein. Keine menschliche Gestalt in dieser Kachel.",
+            "Wesir Mansor": "Vollständige Tiergestalt eines zweiten Weißstorchs mit grauem Brustfleck, genau zwei Beine und zwei Flügel, langer Storchschnabel."
+          }
+        },
+        "4": {
+          "visual_states": {
+            "Kalif Chasid": "Ein Weißstorch mit rostfarbenem Fleck am rechten Bein, zwei Flügeln und zwei Beinen; Lachen durch Schnabelhaltung.",
+            "Wesir Mansor": "Ein Weißstorch mit grauem Brustfleck, zwei Flügeln und zwei Beinen; normale Vogelform."
+          }
+        },
+        "5": {
+          "visual_states": {
+            "Kalif Chasid": "Ein Storch mit langem Schnabel und rostfarbenem Fleck am rechten Bein, vollständige Tiergestalt.",
+            "Wesir Mansor": "Ein Storch mit langem Schnabel und grauem Brustfleck, vollständige Tiergestalt."
+          }
+        },
+        "6": {
+          "visual_states": {
+            "Kalif Chasid": "Ein Storch, rostfarbener Fleck am rechten Bein; natürliche Vogelgestalt.",
+            "Wesir Mansor": "Ein Storch mit grauem Brustfleck; natürliche Vogelgestalt.",
+            "Verzauberte Königstochter als Eule": "Genau eine braune Eule auf der Mauer, vollständiger Eulenkörper mit Flügeln und Krallenfüßen."
+          }
+        },
+        "7": {
+          "visual_states": {
+            "Kalif Chasid": "Ein Storch mit rostfarbenem Fleck am rechten Bein.",
+            "Wesir Mansor": "Ein Storch mit grauem Brustfleck.",
+            "Verzauberte Königstochter als Eule": "Genau eine braune Eule; sie spricht als Tier und besitzt keinen menschlichen Mund."
+          }
+        },
+        "8": {
+          "visual_states": {
+            "Kalif Chasid": "Ein auf zwei Vogelbeinen gehender Storch mit rostfarbenem Fleck am rechten Bein.",
+            "Wesir Mansor": "Ein auf zwei Vogelbeinen gehender Storch mit grauem Brustfleck.",
+            "Verzauberte Königstochter als Eule": "Eine braune Eule führt die beiden Störche; die Flügel bleiben angelegt."
+          }
+        },
+        "9": {
+          "story": "Ein einziger zusammenhängender Saal im Querschnitt der Blickrichtung: links verdeckt eine halb offene Mauer mit Türpfosten eine dunkle Nische. Darin kauern zwei Störche und eine braune Eule. Rechts im beleuchteten Hauptteil steht ein menschlicher Zauberer vor wenigen unbenannten entfernten Zuhörern und erzählt. Die drei Tiere lauschen aus dem Versteck durch denselben offenen Türspalt. Es gibt keine Trennlinie zwischen zwei Bildern und keinen Zeitsprung.",
+          "visual_states": {
+            "Kalif Chasid": "Versteckter Storch mit rostfarbenem Fleck am rechten Bein.",
+            "Wesir Mansor": "Versteckter Storch mit grauem Brustfleck.",
+            "Verzauberte Königstochter als Eule": "Versteckte braune Eule mit angelegten Flügeln."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Kalif Chasid": "Lauschender Storch mit rostfarbenem Fleck am rechten Bein.",
+            "Wesir Mansor": "Lauschender Storch mit grauem Brustfleck.",
+            "Verzauberte Königstochter als Eule": "Lauschende braune Eule mit vollständigem Tierkopf."
+          }
+        },
+        "11": {
+          "visual_states": {
+            "Kalif Chasid": "Wieder vollständig erwachsener Mensch im blauen Gewand; menschliches Gesicht und menschliche Hände.",
+            "Wesir Mansor": "Wieder vollständig erwachsener Mensch im grünen Gewand; menschliches Gesicht und menschliche Hände.",
+            "Verzauberte Königstochter als Eule": "Jetzt vollständig erwachsene menschliche Königstochter im weinroten Gewand; menschliches Gesicht, Arme und Beine, keine Eulengestalt mehr."
+          }
+        },
+        "12": {
+          "visual_states": {
+            "Kalif Chasid": "Ein erwachsener Mensch im blauen Gewand.",
+            "Wesir Mansor": "Ein erwachsener Mensch im grünen Gewand.",
+            "Verzauberte Königstochter als Eule": "Eine erwachsene menschliche Königstochter im weinroten Gewand."
+          }
+        }
+      }
+    },
+    "frau-holle-zwei-wege-12": {
+      "note": "Die zwei Frauen bleiben anhand Gesicht und Kleidung unterscheidbar; Gaben, Gold und Pech werden erst am zugehörigen Handlungsschritt sichtbar.",
+      "panels": {
+        "4": {
+          "append": "Der Schnee ist ausschließlich durch das Fenster als ferner Teil der Menschenwelt zu sehen. Im Innenraum arbeiten nur die hilfsbereite Schwester und Frau Holle."
+        },
+        "6": {
+          "append": "Die zurückgegebene Spule liegt in der linken Hand der ersten Schwester; jede Hand gehört erkennbar zu ihrem Körper. Goldstaub bedeckt Stoff und Haare, ohne ihre Gesichtszüge zu ersetzen."
+        },
+        "11": {
+          "append": "Dunkles Pech bedeckt das rötliche Kleid und Teile der Haare; das Gesicht behält dieselben menschlichen Züge. Es wird weder zu einer zweiten Person noch zu einer körperlichen Verletzung."
+        }
+      }
+    },
+    "sterntaler-8": {
+      "note": "Abgabenfolge und Verbleib jedes Kleidungsstücks geprüft; letzte Übergabe bleibt vollständig auf Hände begrenzt, Himmelswunder zeigt keine Figur.",
+      "panels": {
+        "6": {
+          "append": "Der Bildrand schließt unmittelbar um Hände und Stoff; dichtes Laub verdeckt sämtliche anschließenden Körperteile.",
+          "visual_states": {
+            "Mädchen der Sterntaler": "Ausschließlich eine kleine Hand am Stoffstück ist sichtbar. Alle weiteren Körperteile befinden sich vollständig außerhalb dieses Detailbildes.",
+            "Kind bei der letzten Gabe": "Ausschließlich die entgegennehmende Hand am Stoffstück ist sichtbar. Alle weiteren Körperteile befinden sich vollständig außerhalb dieses Detailbildes."
+          }
+        },
+        "7": {
+          "append": "Es ist eine reine Himmelsansicht ohne sichtbare Personen; fallende kleine Münzen bleiben zwischen Sternen und Baumkronen."
+        },
+        "8": {
+          "append": "Die äußere Stofffalte bildet die Münzschale, während das lange Gewand darunter geschlossen und blickdicht am Körper bleibt."
+        }
+      }
+    },
+    "rumpelstilzchen-14": {
+      "note": "Kette, Ring, Krone und Kind durch die drei Nächte und die spätere Kinderstube verfolgt; das Kind besitzt stets einen einzigen Standort.",
+      "panels": {
+        "2": {
+          "append": "Die Halskette liegt ausschließlich in der Hand des kleinen Wesens; am Hals der Frau liegt nur der Stoffkragen. Ihr einziger Ring bleibt an der rechten Hand."
+        },
+        "4": {
+          "append": "Der erhaltene Ring befindet sich allein beim kleinen Wesen. Beide Hände und der Hals der Frau sind jetzt schmuckfrei."
+        },
+        "10": {
+          "append": "Nur das kleine Wesen tanzt am Feuer. Der Bote kauert als getrennte einzelne Person hinter einem Baumstamm am Rand und bleibt körperlich im selben Waldraum."
+        },
+        "14": {
+          "append": "Das eine Kind liegt vollständig in den Armen seiner Mutter; die sichtbare Wiege daneben ist vollständig leer."
+        }
+      }
+    },
+    "dornroeschen-12": {
+      "note": "Dornröschen zuerst ausschließlich als Baby, später ausschließlich als junge Frau; Elternalter, hundertjähriger Schlaf und selbstständig öffnende Dornen geprüft.",
+      "panels": {
+        "1": {
+          "visual_states": {
+            "Dornröschen": "Ein einziges kleines Baby im Arm seiner Mutter, gewickelt in ein helles Tuch. Keine erwachsene Verkörperung dieser Figur."
+          }
+        },
+        "2": {
+          "visual_states": {
+            "Dornröschen": "Dasselbe eine Baby vollständig im Arm der Mutter, in demselben hellen Wickeltuch."
+          }
+        },
+        "3": {
+          "visual_states": {
+            "Dornröschen": "Dasselbe eine Baby im Arm eines Elternteils; vollständige Säuglingsgestalt."
+          }
+        },
+        "5": {
+          "append": "Die junge Frau liegt als eine einzige Schlafende auf dem Bett; die zweite Schlafende ist ausschließlich die deutlich ältere Spinnerin an einem anderen Platz beim Rad."
+        },
+        "8": {
+          "append": "Die Blütenhecke öffnet einen echten begehbaren Spalt vor seinen Füßen. Seine beiden geöffneten Hände sind leer; er hat die Hecke nicht zerschnitten."
+        },
+        "10": {
+          "visual_states": {
+            "Dornröschen": "Eine einzige junge erwachsene Frau im hellblauen Kleid mit langem braunem Haar; Gesicht unverletzt und vollständig sichtbar."
+          }
+        }
+      }
+    },
+    "rapunzel-turm-16": {
+      "note": "Haarverbindung vor und nach dem Schnitt, Aufenthaltsorte und Blindheit bis zur Tränenheilung geprüft; kein mehrfach verkörperter Zopf oder Prinz.",
+      "panels": {
+        "2": {
+          "append": "Der eine Zopf verläuft ohne Unterbrechung von Rapunzels Kopf über die Fensterbrüstung bis zu den kletternden Händen der Zauberin. Rapunzel stützt beide Füße im Zimmer ab."
+        },
+        "4": {
+          "append": "Der Königssohn hängt nur an diesem einen zusammenhängenden Zopf, der oben weiter mit Rapunzels Kopf verbunden ist; der Haarweg lässt sich vollständig verfolgen."
+        },
+        "8": {
+          "visual_states": {
+            "Rapunzel im Turm": "Ab jetzt kurzes dunkelblondes Haar bis etwa zum Kinn, blaugraues Kleid. Ihr Kopf besitzt keinen langen Zopf mehr."
+          }
+        },
+        "9": {
+          "visual_states": {
+            "Rapunzel im Turm": "Kurzes dunkelblondes Haar bis etwa zum Kinn und unverändertes blaugraues Kleid; allein in der offenen Landschaft."
+          }
+        },
+        "10": {
+          "append": "Das obere Zopfende ist sichtbar als abgeschnittener Gegenstand um die Hand der Zauberin geschlungen. Das Haar wächst nicht an deren Kopf."
+        },
+        "13": {
+          "visual_states": {
+            "Königssohn an Rapunzels Turm": "Erblindeter erwachsener Mann im abgetragenen roten Mantel; vorsichtig tastend, ein schlichter Stock vor ihm, keine sichtbaren Wunden."
+          }
+        },
+        "14": {
+          "visual_states": {
+            "Rapunzel im Turm": "Kurzes dunkelblondes Haar bis zum Kinn; blaugraues Kleid.",
+            "Königssohn an Rapunzels Turm": "Noch blind, Kopf aufmerksam zur hörbaren Stimme gewendet; hält den schlichten Taststock."
+          }
+        },
+        "15": {
+          "visual_states": {
+            "Rapunzel im Turm": "Kurzes dunkelblondes Haar, unverändertes blaugraues Kleid; Tränen auf der Wange.",
+            "Königssohn an Rapunzels Turm": "Augen öffnen sich gerade nach Berührung durch Rapunzels Tränen; Gesicht ohne Wunden."
+          }
+        },
+        "16": {
+          "visual_states": {
+            "Rapunzel im Turm": "Kurzes dunkelblondes Haar, blaugraues Kleid, zu Fuß neben ihrem Gefährten.",
+            "Königssohn an Rapunzels Turm": "Wieder sehend, derselbe rote Mantel; der Stock bleibt ein einzelner mitgeführter Gegenstand."
+          }
+        }
+      }
+    },
+    "jorinde-joringel-12": {
+      "note": "Reale Blume und Traum unterschieden; Vogelgestalten ausschließlich vor der jeweiligen Befreiung, nachher leere Käfige und einzelne menschliche Figuren.",
+      "panels": {
+        "2": {
+          "visual_states": {
+            "Jorinde und ihre Nachtigallgestalt": "Genau eine kleine braune Nachtigall vollständig innerhalb des geschlossenen Käfigs; zwei Flügel und zwei Beine, kein menschlicher Körper."
+          }
+        },
+        "3": {
+          "append": "Die Vögel befinden sich jeweils vollständig innerhalb ihres eigenen geschlossenen Käfigs; Stäbe verlaufen sichtbar vor den Vogelköpfen und Körpern.",
+          "visual_states": {
+            "Jorinde und ihre Nachtigallgestalt": "Eine kleine braune Nachtigall im Käfig mit hellem Griffring.",
+            "Weitere befreite Frau aus dem Vogelsaal": "In diesem Moment ausschließlich ein graubrauner kleiner Vogel im benachbarten Käfig."
+          }
+        },
+        "5": {
+          "story": "Ein einzelner schlafender Joringel liegt links an seiner dunklen Lagerstatt. Oberhalb seines Kopfes erscheint eine weich auslaufende durchscheinende Traumvorstellung: eine rote Blume mit einem hellen Tropfen in ihrer Mitte. Es ist eine ungreifbare Lichtvorstellung ohne rechteckigen Rahmen und ohne zweite Person. Seine realen Hände am Lager sind leer; auf dem Boden wächst keine solche Blume."
+        },
+        "9": {
+          "append": "Der Käfig mit hellem Griffring wird nur von der Zauberin getragen; sein ursprünglicher Stellplatz bleibt leer. Der zweite graubraune Vogel wartet im eigenen Käfig.",
+          "visual_states": {
+            "Jorinde und ihre Nachtigallgestalt": "Ein einziger Nachtigallkörper hinter den Stäben des Käfigs mit hellem Griffring.",
+            "Weitere befreite Frau aus dem Vogelsaal": "Weiterhin ausschließlich ein graubrauner Vogel im anderen geschlossenen Käfig."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Jorinde und ihre Nachtigallgestalt": "Jetzt ausschließlich eine junge erwachsene Frau im blaugrauen Kleid; vollständig menschlicher Körper. Der zugehörige Käfig ist leer."
+          }
+        },
+        "11": {
+          "visual_states": {
+            "Jorinde und ihre Nachtigallgestalt": "Eine junge erwachsene Frau im blaugrauen Kleid, bereits befreit.",
+            "Weitere befreite Frau aus dem Vogelsaal": "Jetzt ausschließlich eine erwachsene Frau im dunkelroten Kleid vor ihrem leeren Käfig; kein Vogelkörper mehr."
+          }
+        },
+        "12": {
+          "visual_states": {
+            "Jorinde und ihre Nachtigallgestalt": "Vollständig menschliche Frau im blaugrauen Kleid.",
+            "Weitere befreite Frau aus dem Vogelsaal": "Vollständig menschliche Frau im dunkelroten Kleid."
+          }
+        }
+      }
+    },
+    "achtzig-tage-14": {
+      "note": "Haft vor Freilassung, Bahnhof vor Londoner Schluss und Wochentagsentdeckung vor Clubankunft geprüft; keine sichtbaren zusätzlichen Kalenderkästen oder unbeschriebenen Mitreisenden.",
+      "panels": {
+        "3": {
+          "append": "Die geschlossene Tür mit Gitter trennt den einen Fogg innerhalb der Zelle von dem einen Fix außerhalb. Die beiden Körper überlappen die Tür nicht."
+        },
+        "4": {
+          "append": "Fix hält die eine Nachricht mit beiden Händen; der Brief zeigt nur undeutliche Zeilen und keine vom Bildmodell zu bestimmenden Wochentage."
+        },
+        "10": {
+          "append": "Das Kalenderbuch bleibt ein reales kleines Buch im Pfarrhaus. Der Kalenderunterschied wird durch die vorhandenen Dialoge verständlich, nicht durch zusätzliche Bildmodellschrift."
+        },
+        "11": {
+          "story": "Breite Ansicht derselben Londoner Stube. Passepartout steht rechts unmittelbar nach seiner Rückkehr in der offenen Zimmertür. Links ist Fogg von seinem Stuhl aufgestanden; Aouda hört in der Mitte aufmerksam zu. Die geschlossene Uhr liegt weiterhin auf dem Tisch. Genau diese drei Menschen befinden sich in einem gemeinsamen Raum. Weder der Club noch eine zweite Verkörperung Foggs sind sichtbar. Die Kalenderentdeckung wird durch den vorhandenen Dialog vermittelt."
+        },
+        "12": {
+          "story": "Weite dynamische Ansicht einer Londoner Straße mit Laternen. Genau zwei Männer bewegen sich zu Fuß in derselben Richtung zum Club: Fogg vorn links, Passepartout einen Schritt hinter ihm rechts. Jeder besitzt einen Körper mit zwei Beinen; keine mehrfachen Bewegungsphasen. Nur Straße, Häuser und das Clubportal liegen im Bildraum."
+        }
+      }
+    },
+    "alice-kleine-tuer-12": {
+      "note": "Nur eine Alice je Kachel; Körpergröße wechselt bei gleichbleibenden Tisch-, Schlüssel- und Türgrößen. Wasser, Kleidung und Tiergrößen bleiben räumlich nachvollziehbar.",
+      "panels": {
+        "2": {
+          "append": "Ein einzelner Fallmoment: Alices Kopf und Körper bilden eine zusammenhängende Figur, ihre Arme und Beine werden nicht als Bewegungsreihe wiederholt."
+        },
+        "4": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Jetzt winzig im Verhältnis zum unveränderten Glastisch. Ihr vollständiger Körper ist nur etwa so hoch wie ein kurzer Abschnitt des Tischbeins; Kleid und Schuhe sind mitgeschrumpft."
+          }
+        },
+        "5": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Weiterhin dieselbe winzige Alice im ockergelben Kleid, noch nicht wieder gewachsen. Das normale Kuchenstück ist im Verhältnis zu ihr groß."
+          }
+        },
+        "6": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Jetzt riesengroße Alice mit normalen menschlichen Proportionen, gebeugter Körper unter der Hallendecke. Der gewöhnliche Glastisch reicht kaum an ihr Bein."
+          }
+        },
+        "7": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Weiterhin riesengroß mit normalen Körperproportionen; weinend, die Tränen bilden unter ihr Wasser. Genau eine menschliche Gestalt."
+          }
+        },
+        "8": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Weiterhin riesengroße Alice; dasselbe ockergelbe Kleid, vollständiger menschlicher Körper.",
+            "Weißes Kaninchen mit Taschenuhr": "Dasselbe kleine weiße Kaninchen in brauner Weste; unveränderte Tiergröße, daher neben Alice sehr klein."
+          }
+        },
+        "9": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Jetzt wieder winzig, proportional geschrumpftes ockergelbes Kleid. Kein großer Alice-Körper bleibt zurück."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Winzige schwimmende Alice in nassem ockergelbem Kleid. Kopf über Wasser, Arme und Beine gehören zu ihrem einen Körper."
+          }
+        },
+        "11": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Weiterhin winzig in nassem ockergelbem Kleid, vollständig am festen Ufer."
+          }
+        },
+        "12": {
+          "visual_states": {
+            "Alice vor der kleinen Tür": "Weiterhin dieselbe winzige Alice in nassem ockergelbem Kleid, neben Maus und Ente am Ufer."
+          }
+        }
+      }
+    },
+    "beowulf-grendel-10": {
+      "note": "Waffenloser Kampf, Griff am rechten Unterarm und Hallenachse geprüft; Beschädigung bleibt bis zum späteren Wiederaufbau erhalten.",
+      "panels": {
+        "4": {
+          "append": "Beowulf sitzt allein wach links; die weiteren schlafenden Gefährten sind räumlich getrennte unbenannte Personen auf hinteren Bänken."
+        },
+        "6": {
+          "append": "Die vier Arme sind eindeutig zuzuordnen: Beowulfs beide Hände schließen sich um denselben rechten Unterarm Grendels; Grendels eigener linker Arm bleibt seitlich frei. Der Moment zeigt einen stabilen Griff, keine Reihe aufeinanderfolgender Armstellungen."
+        },
+        "8": {
+          "append": "Der Torrahmen und die Nacht verdecken den verletzten Teil von Grendels Körper. Im Innenraum bleibt nur der erschöpfte Beowulf; der fliehende Körper gehört einmalig Grendel."
+        },
+        "10": {
+          "append": "Erst für diesen späteren Gemeinschaftsabend sind die Bänke wieder nutzbar. Das Tor, die Feuerstelle und die langen Tischreihen behalten die räumliche Anordnung der ersten Hallenbilder."
+        }
+      }
+    },
+    "beowulf-wiglaf-12": {
+      "note": "Einzelschwerter werden gezogen, abgelegt und nur Wiglafs Klinge zuletzt wieder eingesteckt. Sterben und Treue werden nicht durch eine Heilung oder vorzeitigen Sieg ersetzt.",
+      "panels": {
+        "5": {
+          "append": "Beowulfs einziges Schwert befindet sich vollständig in der rechten Hand; links am Gürtel bleibt eine offene leere Scheide ohne weiteren Griff."
+        },
+        "7": {
+          "append": "Wiglaf hat sein einziges Schwert vor diesem Schritt aus der linken Scheide gezogen. Der sichtbare Griff gehört nur zur einen Klinge in seiner rechten Hand."
+        },
+        "8": {
+          "append": "Beide Menschen bleiben auf dem Boden. Jedem ist genau eine Klinge in der rechten Hand zugeordnet; die zwei linken Scheiden bleiben leer."
+        },
+        "9": {
+          "visual_states": {
+            "Schatzdrache": "Ein regloser toter Drache am rechten Felszugang; liegender Tierkörper, geschlossene Flügel sind nicht vorhanden, vier Beine bleiben am Körper.",
+            "Alter Beowulf": "Schwer erschöpfter sterbender alter Mann am Stein; Hände leer, die eigene Klinge liegt getrennt am Boden."
+          }
+        },
+        "11": {
+          "visual_states": {
+            "Alter Beowulf": "Jetzt verstorbener alter Beowulf mit geschlossenen Augen und regloser Haltung; keine sichtbaren Wunden.",
+            "Wiglaf": "Kniend neben ihm; die linke Hand hält weiterhin Beowulfs rechte, die andere Hand bleibt leer."
+          }
+        },
+        "12": {
+          "visible": [
+            "Wiglaf",
+            "Alter Beowulf",
+            "Schatzdrache"
+          ],
+          "visual_states": {
+            "Alter Beowulf": "Regloser verstorbener Mann am Boden; seine einzige abgelegte Klinge liegt beim Körper.",
+            "Schatzdrache": "Nur fern am Felszugang ein weiterhin toter regloser Drachenkörper."
+          }
+        }
+      }
+    },
+    "bergmanndli-grenzen-14": {
+      "note": "Drei getrennte Sagenfälle mit verschiedenen Männern und Hütern; Waffen und Angel wechseln nur durch klar benannte Übergänge ihren Platz.",
+      "panels": {
+        "5": {
+          "append": "Das Gewehr besitzt genau einen Lauf und wird einmal vom einen Jäger gehalten. Der Schuss ist bereits gefallen; sichtbar ist nur der Verlust des Gleichgewichts, kein gleichzeitiger Fall in die Tiefe."
+        },
+        "7": {
+          "append": "Dieser neue Mann ist Hans Bucher mit schwarzem Bart und grünem Rock. Die vorherigen beiden Figuren erscheinen in dieser Bacherzählung nicht."
+        },
+        "8": {
+          "append": "Der Hüter steht hinter Bucher und drückt dessen Oberkörper zum Bach. Buchers eigener Unterarm liegt vor dem Gesicht; die losgelassene einzige Angel liegt getrennt auf dem Uferboden."
+        },
+        "11": {
+          "append": "Der dritte Fall beginnt mit Heinrich Immlin im ockerfarbenen Rock und einem anderen braungekleideten Warner. Keiner der früheren beiden Männer wird daneben dargestellt."
+        },
+        "13": {
+          "append": "Immlin und Warner sind je eine geschlossene Körpergestalt. Das losgelassene einzelne Gewehr liegt unter ihnen auf dem Boden und befindet sich in keiner Hand mehr."
+        }
+      }
+    },
+    "blaues-licht-brunnen-10": {
+      "note": "Ein Lichtgefäß über Fund, Verweigerung, Pfeifenentzünden und Rettung verfolgt; Seilschlinge trägt den Mann, Beinverband bleibt bestehen.",
+      "panels": {
+        "3": {
+          "append": "Das geschlossene Seil trägt das Gewicht in einer unter dem Körper liegenden Schlinge. Der Soldat hängt genau einmal innerhalb des Schachtes; die alte Frau steht außerhalb am Brunnenrand."
+        },
+        "4": {
+          "append": "Das kleine blaue Licht befindet sich nur in dem einen aufnehmbaren Gefäß. Seine frühere Standfläche am Brunnenboden bleibt leer, nachdem der Mann es aufnimmt."
+        },
+        "5": {
+          "append": "Die tragende Schlinge liegt unter Hüfte und Oberschenkeln des Soldaten. Seine rechte Hand hält das Lichtgefäß, seine linke greift das gespannte Seil; die Frau verlangt die Übergabe mit ihrer noch leeren Hand."
+        },
+        "7": {
+          "append": "Es sind nur zwei menschliche Hände nötig: eine hält das einzelne Lichtgefäß, die andere die kleine Pfeife. Beide Gegenstände berühren sich nur beim Entzünden; das Gefäß erscheint nicht ein zweites Mal."
+        },
+        "9": {
+          "append": "Der Helfer und der Soldat besitzen je einen Körper; am oberen Rand tritt nur derselbe befreite Soldat aus der Schlinge auf den Hof. Sein linker Beinverband bleibt deutlich sichtbar."
+        }
+      }
+    },
+    "daedalus-ikarus-12": {
+      "note": "Vier gebaute Flügel werden zu zwei getragenen Paaren; Ikarus steigt allein höher, verliert Federn und kehrt nach dem Sturz nicht zurück.",
+      "panels": {
+        "2": {
+          "append": "Die gesamte Werkbank enthält insgesamt vier Flügel: links zwei für Dädalus und rechts zwei für Ikarus, jeweils nur ein zusammengehöriges Paar. Beide Menschen besitzen weiterhin ihre normalen Arme."
+        },
+        "3": {
+          "append": "Jedes künstliche Flügelpaar ist als ein Gestell außen an den Armen befestigt. Menschliche Arme und Federflächen sind getrennte Formen; den Personen wachsen keine weiteren Körperarme."
+        },
+        "8": {
+          "visual_states": {
+            "Ikarus neben Dädalus": "Genau ein menschlicher Ikarus mit zwei beschädigt werdenden künstlichen Flügeln am einen Gestell; lose Federn sind abgelöste Einzelteile."
+          }
+        },
+        "9": {
+          "append": "Nur derselbe einzelne Ikarus fällt. Die zwei beschädigten künstlichen Flügelreste bleiben an seinem Gestell; die lose Federspur ist kein zweiter Körper."
+        },
+        "12": {
+          "append": "Dädalus hat sein eigenes Gestell nach der Landung abgelegt. Neben ihm liegen genau die beiden zusammengehörigen künstlichen Flügel dieses einen Gestells."
+        }
+      }
+    },
+    "dagoberts-zeichen-10": {
+      "note": "Lebender König, Sterbebett und spätere einzige Seelengestalt streng getrennt; Hund, Krone und irdischer Körper gehen nicht mit auf das Boot.",
+      "panels": {
+        "2": {
+          "append": "Die Grabstelle bleibt geschlossen; der Hund mit dem einen weißen linken Ohr ist ein einzelnes lebendes Tier neben dem knienden König."
+        },
+        "4": {
+          "append": "Dagobert liegt nur einmal im Bett. Krone und Mantel liegen getrennt auf dem entfernten Stuhl, der eine Hund sitzt auf dem Boden daneben."
+        },
+        "5": {
+          "visual_states": {
+            "Dagobert in der Seelenrettungssage": "Ausschließlich eine durchscheinende Seelengestalt Dagoberts ohne Krone; kein zusätzlicher irdischer Körper."
+          }
+        },
+        "8": {
+          "append": "Dionysius steht links beim hellen Engel, der Fährmann weicht rechts am dunklen Bootsrand zurück. Dazwischen befindet sich nur die eine durchscheinende Dagobertseele.",
+          "visual_states": {
+            "Dagobert in der Seelenrettungssage": "Eine einzige lichte durchscheinende Seelengestalt, ohne Krone oder greifbaren irdischen Leib."
+          }
+        },
+        "9": {
+          "append": "Die eine Seele liegt vollständig in den tragenden Armen des Engels und erscheint nicht nochmals im Boot.",
+          "visual_states": {
+            "Dagobert in der Seelenrettungssage": "Eine einzige durchscheinende Seelengestalt, vom Engel getragen."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Dagobert in der Seelenrettungssage": "Eine einzige durchscheinende Seelengestalt ruht im Licht; keine körperliche Wiederbelebung."
+          }
+        }
+      }
+    },
+    "dietrich-sigenot-14": {
+      "note": "Zwei Einzelschwerter, Stein, Keule und Rettungsseil räumlich verfolgt. Dietrichs verlorene Klinge bleibt am Tor; Hildebrand holt nur die eigene zurück.",
+      "panels": {
+        "4": {
+          "append": "Dietrich hat rechts eine Klinge und links die zugehörige leere Scheide. Sigenot hält einmal seine eigene Keule. Der magische Stein bleibt unsichtbar verstaut."
+        },
+        "9": {
+          "append": "Die geschlossene Holzabsperrung steht sichtbar vor Hildebrands Körper. Sein einziges Schwert liegt auf der Außenseite der später geöffneten Tür, nicht zugleich in seiner Scheide."
+        },
+        "10": {
+          "append": "Die rechte Hand hält nun genau die zuvor außerhalb abgelegte Klinge. Die Scheide links ist leer, die offene Absperrung liegt hinter Hildebrand."
+        },
+        "12": {
+          "append": "Das eine Seil läuft vom festen Grubenrand aus zwischen den Händen beider Helfer nach unten. Hildebrands einzige Klinge ist vor der Seilarbeit vollständig eingesteckt."
+        },
+        "13": {
+          "append": "Dietrich befindet sich genau einmal an der oberen Kante: rechte Hand am Fels, linke am einen Seil. Hildebrands Hand sichert seinen Oberarm, während der Zwerg dasselbe Seil weiter hält."
+        },
+        "14": {
+          "append": "Hildebrand trägt seine eigene Klinge in der linken Scheide. Dietrichs linke Scheide bleibt sichtbar leer; beide Hände der Männer sind leer."
+        }
+      }
+    },
+    "drachen-lindwuermer-grube-12": {
+      "note": "Zwei unterscheidbare Lindwürmer, abgelegte Arbeitsgeräte und der Griff am Schwanz geprüft; spätere Drachenbilder sind ausschließlich Stickerei.",
+      "panels": {
+        "3": {
+          "append": "Die zwei verschiedenen Höhleneingänge bleiben links und rechts fest angeordnet. Vor jedem liegt nur sein eigener Lindwurm, der eine Küfer steht als einzelner Mensch dazwischen."
+        },
+        "7": {
+          "append": "Der kleine Lindwurm bleibt unten an seinem rechten Höhleneingang. Nur der große Drache fliegt mit genau einem Flügelpaar nach oben."
+        },
+        "9": {
+          "append": "Beide Hände des einen Küfers umfassen denselben einzigen Drachenschwanz. Seine Beine hängen frei nach unten, der gesamte Körper bleibt unterhalb des fliegenden Tieres."
+        },
+        "11": {
+          "append": "Das gestickte Motiv liegt flach auf dem Stoff zwischen Küfer und Sakristan. Die zwei kleinen Drachen darin sind gewebte Figuren, keine lebenden Tiere im Raum."
+        },
+        "12": {
+          "append": "Der Sakristan ist die einzige sichtbare Person. Drachen und Küfer erscheinen ausschließlich als kleine gestickte Bildformen auf dem Gewand."
+        }
+      }
+    },
+    "drei-federn-12": {
+      "note": "Drei getrennte Aufgaben, jeweilige Rückkehr und Gaben verfolgt; große Helferkröte bleibt Tier, nur die kleine Kröte wird zur Frau.",
+      "panels": {
+        "3": {
+          "append": "Der Teppich wird nur einmal von der großen Kröte zum Jüngsten gereicht; ihre Hände beziehungsweise Vorderfüße greifen verschiedene Ränder desselben Stoffes."
+        },
+        "6": {
+          "append": "Ein einzelner goldener Ring befindet sich beim Jüngsten. Der zuvor vorgestellte Teppich bleibt außerhalb dieses unterirdischen Raums."
+        },
+        "9": {
+          "visual_states": {
+            "Große Kröte unter der Falltür": "Eine große braune Kröte als unveränderte tierische Helferin.",
+            "Kleine Kröte und verwandelte Braut": "In dieser Kachel ausschließlich eine kleine grüne Kröte auf dem einen Sitz im Kürbiswagen."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Kleine Kröte und verwandelte Braut": "Jetzt eine einzelne erwachsene menschliche Frau auf dem Sitz der verwandelten Kutsche; keine zweite Krötenform daneben.",
+            "Große Kröte unter der Falltür": "Weiterhin dieselbe große braune Kröte neben dem Wagen; sie wird nicht verwandelt."
+          }
+        },
+        "11": {
+          "append": "Der Bildmoment zeigt nur eine Frau beim Durchqueren des einen Reifens. Die beiden anderen Begleiterinnen stehen als getrennte unbenannte Erwachsene seitlich am Boden.",
+          "visual_states": {
+            "Kleine Kröte und verwandelte Braut": "Eine erwachsene menschliche Frau, ein einziger Körper im Sprung durch den Reifen, Arme und Beine vollständig mit diesem Körper verbunden."
+          }
+        },
+        "12": {
+          "visual_states": {
+            "Kleine Kröte und verwandelte Braut": "Eine erwachsene menschliche Frau, bereits sicher auf dem Boden neben dem Jüngsten gelandet."
+          }
+        }
+      }
+    },
+    "drei-goldene-haare-16": {
+      "note": "Ameisenverwandlung, drei nacheinander gewonnene Haare und ausschließlicher Besitzer der Fährstange geprüft; Rätselantworten werden nicht als reale Zusatzszenen eingeblendet.",
+      "panels": {
+        "6": {
+          "visual_states": {
+            "Glücklicher Königssohn durch Heirat": "In dieser Kachel ausschließlich eine winzige Ameise mit sechs Beinen unter dem Rocksaum; keine menschliche Gestalt und kein menschliches Gesicht."
+          }
+        },
+        "7": {
+          "append": "Genau ein bereits herausgezogenes goldenes Haar liegt auf dem einen Tuch; die Großmutter zieht in diesem Bildmoment kein weiteres Haar heraus."
+        },
+        "8": {
+          "append": "Jetzt liegen genau zwei getrennte dünne goldene Haare auf demselben Tuch. Erzählte Bäume und Mäuse bleiben außerhalb des realen Stubenbildes."
+        },
+        "9": {
+          "append": "Jetzt liegen drei getrennte dünne goldene Haare auf dem Tuch; sämtliche Hände sind ohne eine zusätzliche Haarsträhne."
+        },
+        "10": {
+          "visual_states": {
+            "Glücklicher Königssohn durch Heirat": "Wieder vollständig erwachsener Mensch im ockerfarbenen Reisemantel; keine Ameisengestalt daneben."
+          }
+        },
+        "11": {
+          "append": "Die Füße des Reisenden stehen bereits vollständig an Land. Der Fährmann bleibt im Boot und behält die einzige Stange; zwischen beiden ist Wasser."
+        },
+        "15": {
+          "append": "Nach der Übergabe hält allein der König die eine Fährstange. Der bisherige Fährmann steht bereits mit beiden Füßen am Ufer, beide Hände leer."
+        }
+      }
+    },
+    "duerst-alpsegen-8": {
+      "note": "Eine unverwechselbare Kuh, ein Trichter und getrennte Sturmgestalten; Anheben, Ruf, Absinken und sicherer Stand bleiben aufeinanderfolgende Momente.",
+      "panels": {
+        "2": {
+          "append": "Dürst und Posterli bilden genau zwei getrennte gespenstische Gestalten im selben Sturm, ohne zusätzliche Körperphasen."
+        },
+        "4": {
+          "append": "Die eine Kuh schwebt mit dem ganzen Körper über der Wiese. Unter ihren vier Hufen bleibt ein klarer sichtbarer Abstand zum Boden."
+        },
+        "5": {
+          "append": "Der Hirte umfasst den einen Trichter an dessen schmalem Ende mit den Händen und ruft hinein. Die Kuh bleibt in der Ferne über dem Boden; sie ist kein zweites Mal neben ihm."
+        },
+        "6": {
+          "append": "Die vier zu derselben Kuh gehörenden Hufe nähern sich demselben Grasboden. Der Körper bleibt aufrecht und unverletzt."
+        }
+      }
+    },
+    "eisenhans-goldbrunnen-14": {
+      "note": "Ein Ball und ein Schlüssel; erst goldener Zeigefinger, dann einzelnes ausgefallenes Haar und zuletzt goldenes Haupthaar. Der Königssohn bleibt in diesem Ausschnitt ein Kind.",
+      "panels": {
+        "1": {
+          "append": "Die geschlossenen Gitterstäbe liegen durchgehend vor Eisenhans' Körper; der Junge steht vollständig außerhalb. Nur Eisenhans hält den einen Ball."
+        },
+        "3": {
+          "append": "Der eine Schlüssel steckt im Schloss der einzigen geöffneten Käfigtür. Der Junge zieht nur seinen eigenen rechten Zeigefinger aus dem Spalt zurück."
+        },
+        "7": {
+          "append": "Der Bildrand umfasst den rechten Zeigefinger an der Wasseroberfläche. Nur dessen eingetauchter Teil beginnt golden zu glänzen; andere Hände und der Ball liegen außerhalb dieses Details."
+        },
+        "9": {
+          "append": "Das einzelne lose Haar im Wasser ist nicht mehr mit dem Kopf verbunden. Das gesamte Haar auf dem Kopf bleibt in diesem Moment noch braun."
+        },
+        "11": {
+          "visual_states": {
+            "Königssohn": "Ein etwa achtjähriger Junge im rostroten Wams. Ab diesem Moment ist sein gesamtes Haupthaar golden, sein Gesicht behält natürliche Hautfarbe; der rechte Zeigefinger bleibt ebenfalls golden."
+          }
+        },
+        "12": {
+          "visual_states": {
+            "Königssohn": "Derselbe etwa achtjährige Junge mit vollständig goldenem Haupthaar; beide Hände versuchen das Haar zu verdecken, rechter Zeigefinger golden."
+          }
+        },
+        "13": {
+          "visual_states": {
+            "Königssohn": "Derselbe etwa achtjährige Junge, goldenes Haupthaar, rostrotes Wams; der eine Ball in der linken Hand, rechter Zeigefinger golden."
+          }
+        },
+        "14": {
+          "visual_states": {
+            "Königssohn": "Ein einzelner etwa achtjähriger Junge mit goldenem Haupthaar und rostrotem Wams; linker Hand hält er den einen Ball."
+          }
+        }
+      }
+    },
+    "fuerchten-drei-naechte-14": {
+      "note": "Spukschatten von realen Tieren getrennt; Bett, Kegel, Bartklemme und späterer Wasserwitz als je ein Moment ohne doppelte Reaktionskörper.",
+      "panels": {
+        "2": {
+          "append": "Die zwei katzenartigen Formen sind durchscheinende Spukschatten im kalten Dunkel. Nur der eine menschliche Held sitzt als fester Körper am warmen Feuer."
+        },
+        "3": {
+          "append": "Der Mann liegt nur einmal auf dem einen schräg fahrenden Bett und hält die beiden Seitenränder desselben Möbelstücks."
+        },
+        "9": {
+          "append": "Der eine lange Bart verläuft vom unversehrten Kinn des Alten in denselben Werkbankspalt unter dem Holzblock. Es gibt keine zweite freie Bartkopie."
+        },
+        "10": {
+          "append": "Der Bart ist vor dieser Einstellung gelöst worden und hängt wieder vollständig am Kinn des Alten. Der Holzblock liegt getrennt auf der Werkbank außerhalb des Schatzraumausschnitts."
+        },
+        "13": {
+          "append": "Der eine Mann schläft noch ruhig; das Gefäß der Frau enthält noch sämtliches Wasser. Seine spätere Schreckreaktion wird hier nicht zusätzlich gezeigt."
+        },
+        "14": {
+          "append": "Das Gefäß in der Hand der Frau ist nun leer. Der eine Mann reagiert auf die kalte Nässe; nur die nasse Decke und wenige kleine Fische bleiben auf dem Bett."
+        }
+      }
+    },
+    "fundevogel-versprechen-12": {
+      "note": "Säugling, späteres Kind und die drei vollständigen Tarnformen getrennt; die Menschen stehen nie gleichzeitig neben ihren Sach- oder Tiergestalten.",
+      "panels": {
+        "1": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Nur ein vollständig in ein Tuch gewickeltes kleines Baby im Arm des Försters; noch kein neunjähriger Junge."
+          }
+        },
+        "2": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Jetzt ein etwa neunjähriger menschlicher Junge in brauner Kleidung; keine Säuglingsgestalt mehr."
+          }
+        },
+        "5": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Vollständig in einen Rosenstrauch verwandelt; der gesamte sichtbare Körper ist dieser eine Strauch, ohne menschliche Gesichtszüge oder Gliedmaßen.",
+            "Lenchen an Fundevogels Seite": "Vollständig in die eine markante rote Rose an diesem Strauch verwandelt; nur eine Blüte, keine menschliche Gestalt daneben."
+          }
+        },
+        "6": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Ausschließlich der eine vollständige Rosenstrauch.",
+            "Lenchen an Fundevogels Seite": "Ausschließlich die eine rote Hauptblüte am Rosenstrauch."
+          }
+        },
+        "7": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Vollständige Sachgestalt einer kleinen Kirche; keine Person befindet sich daneben oder als Gesicht im Gebäude.",
+            "Lenchen an Fundevogels Seite": "Vollständige Sachgestalt genau einer Krone auf dem Sockel im Kircheninneren."
+          }
+        },
+        "8": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Wieder ein vollständig menschlicher etwa neunjähriger Junge in Braun.",
+            "Lenchen an Fundevogels Seite": "Wieder ein vollständig menschliches Kind im blauen Kleid."
+          }
+        },
+        "9": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Vollständige Sachgestalt des einen Teichs; keine menschlichen Körperteile im oder neben dem Wasser.",
+            "Lenchen an Fundevogels Seite": "Vollständige Tiergestalt genau einer weißen Ente auf dem Teich; zwei Flügel und zwei Füße, keine menschlichen Gliedmaßen."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Weiterhin ausschließlich der eine Teich als Sachgestalt.",
+            "Lenchen an Fundevogels Seite": "Weiterhin ausschließlich die eine weiße Ente, die auf diesem Teich schwimmt."
+          }
+        },
+        "11": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Wieder ausschließlich ein vollständig menschlicher Junge in brauner Kleidung.",
+            "Lenchen an Fundevogels Seite": "Wieder ausschließlich ein vollständig menschliches Kind im blauen Kleid."
+          }
+        },
+        "12": {
+          "visual_states": {
+            "Fundevogel im gemeinsamen Versprechen": "Ein menschlicher Junge in brauner Kleidung.",
+            "Lenchen an Fundevogels Seite": "Ein menschliches Kind im blauen Kleid."
+          }
+        }
+      }
+    },
+    "gaensemagd-14": {
+      "note": "Gesichter trotz Kleidertausch unverändert, Reiterwechsel nur nach Absteigen; Falada nach dem Tod ausschließlich als stilisiertes Haupt am Tor.",
+      "panels": {
+        "1": {
+          "append": "Falada ist genau das Pferd unter der Königstochter. Die Dienerin sitzt auf einem anderen braunen Pferd; jeder Reiterkörper sitzt auf einem eigenen Rücken."
+        },
+        "3": {
+          "visual_states": {
+            "Königstochter und Gänsemagd": "Unverändertes Gesicht der Königstochter, jetzt vollständig bekleidet im braunen einfachen Reisekleid.",
+            "Dienerin als falsche Braut": "Unverändertes Gesicht der Dienerin, jetzt im übernommenen blauen Brautreisekleid."
+          }
+        },
+        "4": {
+          "append": "Jetzt trägt nur Falada die Dienerin in Blau; die echte Königstochter in Braun sitzt auf dem zweiten braunen Pferd. Beide Frauen sind vor dem Bildwechsel aufgesessen."
+        },
+        "7": {
+          "visual_states": {
+            "Falada der Königstochter": "Ausschließlich ein stilisiertes schattenhaftes Pferdehaupt mit grauer Stirnzeichnung hoch am Tor; keine Wunde und kein ganzer Pferdekörper im Bild."
+          }
+        },
+        "10": {
+          "visual_states": {
+            "Falada der Königstochter": "Weiterhin ausschließlich das schattenhaft stilisierte Pferdehaupt am selben Tor; keine Wiederbelebung oder Ganzkörpergestalt."
+          }
+        },
+        "12": {
+          "append": "Der große Ofen ist ein leerer unbeheizter Raumgegenstand. Die Frau steht mit beiden Füßen davor; sie befindet sich nicht in Feuer oder im Ofen."
+        },
+        "13": {
+          "visual_states": {
+            "Königstochter und Gänsemagd": "Dasselbe unveränderte Gesicht der echten Königstochter, jetzt in einem neuen hellblauen Festkleid.",
+            "Dienerin als falsche Braut": "Dasselbe Gesicht der Dienerin; sie trägt weiterhin das frühere blaue Reisekleid, keine zweite identische Festrobe."
+          }
+        }
+      }
+    },
+    "galler-moenche-wein-8": {
+      "note": "Ein einziges großes Fass mit rotem Band von Wagen über Strudel zur Feier verfolgt; Pferde bleiben auf der Brücke, Seile wechseln nachvollziehbar ihren Zweck.",
+      "panels": {
+        "2": {
+          "append": "Das eine große Fass liegt auf dem einen Wagen und ist mit Transportseilen festgelegt. Die zwei Pferde stehen davor auf der gleichen Fahrbahn."
+        },
+        "3": {
+          "append": "Der Wagen und die zwei Pferde bleiben oben. Nur das große Fass bewegt sich seitlich über die Brückenkante nach unten; sein rotes Band bleibt sichtbar."
+        },
+        "6": {
+          "append": "Die eine Rettungsschlinge liegt zwischen den Fassreifen an und ist mit demselben Zugseil zum Ufer verbunden. Alle Helfer stehen auf dem festen Ufer, das Fass noch im Wasser."
+        },
+        "7": {
+          "append": "Nach der Bergung liegt dasselbe Fass vollständig auf der einen Transportkufe. Das Wasser ist hinter der Gruppe, das Fass nicht zugleich darin."
+        },
+        "8": {
+          "append": "Das große Geschenkfass trägt weiterhin rotes Band und denselben grünen Kranz. Die kleineren ursprünglichen Vorratsfässer werden nicht als zweite Kopie dieses Geschenkfasses dargestellt."
+        }
+      }
+    },
+    "geheimer-garten-10": {
+      "note": "Ein Schlüssel und eine unveränderte Mauertür; langsame Gartenpflege und Mantelwechsel ohne plötzlich fertigen Zaubergarten.",
+      "panels": {
+        "3": {
+          "append": "Das eine Rotkehlchen ist ein gewöhnlicher kleiner Vogel auf der Erde. Die rostige Schlüsselspitze liegt getrennt neben seinem Schnabel im Boden."
+        },
+        "4": {
+          "append": "Der eine Schlüssel ist jetzt vollständig in Marys Hand; die freigelegte kleine Erdstelle ist leer. Der Vogel trägt keinen zweiten Schlüssel."
+        },
+        "6": {
+          "append": "Der Schlüssel steckt nur im Schloss derselben efeubedeckten Tür. Mary steht weiterhin auf deren Außenseite und öffnet sie einen Spalt."
+        },
+        "7": {
+          "append": "Mary ist jetzt vollständig im Garten. Der zuvor benutzte Schlüssel ist abgezogen und sicher in ihrer Tasche außerhalb der sichtbaren Hände verstaut."
+        },
+        "9": {
+          "append": "Das Rotkehlchen sitzt als einzelner kleiner Vogel auf der nahen Gartenmauer; Mary und Dickon stehen gemeinsam am selben Beet."
+        },
+        "10": {
+          "append": "Marys grauer Mantel ist abgelegt; das dunkelblaue Kleid bleibt dasselbe. Nur das bearbeitete Beet zeigt neue Blätter und erste Blüten, die entfernten Gartenecken bleiben wild."
+        }
+      }
+    },
+    "gespensterschiff-16": {
+      "note": "Tagstarre und nächtliche Bewegung gebannter Toter getrennt; ein Kapitän, ein wiedererkennbarer Seemann, geschützte Segel und Erlösung ohne wiederauferstandene Besatzung.",
+      "panels": {
+        "3": {
+          "append": "Der Kapitän bleibt als eine einzige verhüllte Gestalt am Mast. Der Reisende arbeitet an Holz und Bindung; kein Körperteil wird abgetrennt."
+        },
+        "4": {
+          "visual_states": {
+            "Gebannter Kapitän am Mast": "In der Nacht eine einzige bewegte gebannte Totengestalt frei neben dem Mast; am Mast verbleibt keine zweite Kopie.",
+            "Gebannter Seemann": "Eine einzige bewegte gebannte Totengestalt auf demselben Deck; nicht als gesunder lebender Matrose dargestellt."
+          }
+        },
+        "6": {
+          "visual_states": {
+            "Gebannter Kapitän am Mast": "Bei Tageslicht wieder reglos und verhüllt am Mast, genau ein Körper.",
+            "Gebannter Seemann": "Bei Tageslicht wieder reglos verhüllt an seinem ursprünglichen Deckplatz."
+          }
+        },
+        "7": {
+          "visual_states": {
+            "Gebannter Kapitän am Mast": "Nächtlich bewegte gebannte Totengestalt, frei auf dem Deck.",
+            "Gebannter Seemann": "Nächtlich bewegte gebannte Totengestalt am Steuer; die Lebenden befinden sich außerhalb unter Deck."
+          }
+        },
+        "9": {
+          "append": "Die zwei Schutzbänder umschließen dasselbe eingerollte Segel. Die übrige Takelage bleibt ruhig; es entsteht kein zweites offen stehendes Segel daneben."
+        },
+        "11": {
+          "append": "Der verhüllte Körper bleibt zusammenhängend auf dem einen herausgelösten Holzstück. Die Helfer bearbeiten ausschließlich Holz und ziehen nicht an Körperteilen."
+        },
+        "14": {
+          "visible": [
+            "Muley an der Küste",
+            "Gebannter Kapitän am Mast"
+          ],
+          "append": "Der enge Ausschnitt enthält die eine Schale, Muleys Hände und die eine erreichbare Hand des verhüllten Kapitäns. Alle anderen Helfer liegen außerhalb dieses Detailbildes."
+        },
+        "15": {
+          "visual_states": {
+            "Gebannter Kapitän am Mast": "Eine einzige gelöste sitzende gebannte Gestalt mit Gesicht im Schatten; keine gesund wiederbelebte zweite Verkörperung."
+          }
+        },
+        "16": {
+          "append": "Der Mast und alle früheren Liegeplätze sind leer. Nur die drei lebenden Helfer arbeiten mit Brettern an den beschädigten Deckstellen."
+        }
+      }
+    },
+    "getreue-alte-14": {
+      "note": "Gehunfähigkeit, langsamer Weg vom Stuhl zur Schwelle und sichere Fluchtrichtung geprüft; das Haus bleibt geopfert, die Menschen erreichen vor der Flut festen Grund.",
+      "panels": {
+        "5": {
+          "append": "Die Witwe hat ihren Körper vom Stuhl auf die Dielen hinabgelassen. Beide Knie und die beiden stützenden Hände liegen am Boden; sie geht nicht plötzlich aufrecht."
+        },
+        "8": {
+          "append": "Der ganze eine Körper der Witwe befindet sich bereits außerhalb der offenen Haustür auf dem festen Damm. Im Bett und in der Stube verbleibt keine zweite Gestalt."
+        },
+        "10": {
+          "append": "Alle drei Hauptfiguren bewegen sich vom Eis zum Damm in derselben Richtung. Das Fest bleibt zurück, das brennende Haus ist ihr ferner Orientierungspunkt."
+        },
+        "11": {
+          "append": "Nur die Schritte an festen Schuhen und die gemeinsame Handverbindung sind im Ausschnitt sichtbar. Die Bruchlinie liegt erkennbar weit hinter den Füßen."
+        },
+        "13": {
+          "append": "Die drei Hauptfiguren stehen vollständig auf festem Uferboden über der Wasserlinie; die Flut überspült ausschließlich die schon verlassene Eisfläche hinter ihnen."
+        },
+        "14": {
+          "visual_states": {
+            "Schifferwitwe": "Weiterhin gebrechlich und nicht gehfähig, auf den festen Steinen am eigenen Haus bleibend; ihr Gesicht ist warm vom fernen Feuer beleuchtet."
+          }
+        }
+      }
+    }
+  }
+}

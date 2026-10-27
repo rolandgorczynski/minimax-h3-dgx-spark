@@ -1,8 +1,8 @@
 TITEL: Die St. Galler Mönche erbeten Wein · Erzählerfassung
 AUTOR:
 KACHELANZAHL: 8
-BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
-STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Klare Bildregie mit getrenntem Handlungsregister und sichtbarer Szene.
 ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
 
 FIGUREN
@@ -16,7 +16,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 
 Name: Küper am Strudel
 Aussehen: Erwachsener kräftiger Mann mit rotem kurzem Bart und breiten Händen.
-Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.
+Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel.
 Persönlichkeit und Vorgeschichte: Bergt das Fass mit anderen Küpern durch praktische Mühe. Beten ersetzt seine Arbeit nicht.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
@@ -38,7 +38,7 @@ Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die K
 KACHEL 1: Noch zwei volle Fässer
 Ort und Zeit: Weinkeller der Abtei St. Gallen
 Sichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. In einem großen Keller liegen viele leere Fässer mit offenen Spundlöchern. Genau zwei kleinere geschlossene Vorratsfässer stehen noch an der Rückwand. Der Abt hält die Laterne dicht an den begrenzten Rest. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: zwischen leeren Fasslagern; Körperhaltung: stehend; Mitgeführte Gegenstände: eine kleine Laterne; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: neben den letzten Vorräten; Körperhaltung: stehend; Mitgeführte Gegenstände: ein leerer Holzbecher; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. In einem großen Keller liegen viele leere Fässer mit offenen Spundlöchern. Genau zwei kleinere geschlossene Vorratsfässer stehen noch an der Rückwand. Der Abt hält die Laterne dicht an den begrenzten Rest.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Abt beim gefährdeten Weinfass
@@ -50,7 +50,7 @@ Kontinuität / Änderung: Zwei kleine vorhandene Vorratsfässer. Das später ges
 KACHEL 2: Ein großes Geschenk
 Ort und Zeit: Augsburger Hof vor der Abfahrt
 Sichtbare Figuren: Bischof Adalrich als Weinschenker, Fuhrmann des geschenkten Fasses
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Adalrich übergibt ein einzelnes sehr großes geschlossenes Holzfass mit auffälligem rotem Band um den mittleren Reifen an den Fuhrmann. Es ist auf einem Wagen hinter genau zwei Pferden gesichert. Noch ist die Achse ungebrochen. Verbindliche Zustände: Fuhrmann des geschenkten Fasses: Ort: am vorderen Wagenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel der zwei Zugpferde; Kleidung: Grauer Mantel, braune Hose und dunkle Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bischof Adalrich als Weinschenker: Ort: neben einem beladenen Wagen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand zeigt auf das große Fass; Kleidung: Dunkelviolettes langes Gewand und ein einfaches goldenes Amtskreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Adalrich übergibt ein einzelnes sehr großes geschlossenes Holzfass mit auffälligem rotem Band um den mittleren Reifen an den Fuhrmann. Es ist auf einem Wagen hinter genau zwei Pferden gesichert. Noch ist die Achse ungebrochen. Das eine große Fass liegt auf dem einen Wagen und ist mit Transportseilen festgelegt. Die zwei Pferde stehen davor auf der gleichen Fahrbahn.
 Erzählertext: In der Sage schenkte Bischof Adalrich den St. Galler Mönchen ein großes Fass Wein. Ein Fuhrmann sollte es zur Abtei bringen.
 Dialoge: keine
 Kontinuität / Änderung: Fass eindeutig markiert, später dasselbe rote Band. Zwei Pferde vor einem Wagen, keine weiteren Weinfässer als Geschenk.
@@ -58,7 +58,7 @@ Kontinuität / Änderung: Fass eindeutig markiert, später dasselbe rote Band. Z
 KACHEL 3: Die gebrochene Achse
 Ort und Zeit: Steile Rheinbrücke nahe dem Bodensee
 Sichtbare Figuren: Fuhrmann des geschenkten Fasses
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach zu heftigem Antreiben ist die Wagenachse gebrochen. Das große Fass mit rotem Band kippt bereits durch die offene Seite hinunter zum Strudel. Der Fuhrmann steht am Geländer; die beiden Pferde bleiben auf dem oberen Brückenteil. Kein Pferd stürzt mit dem Fass. Verbindliche Zustände: Fuhrmann des geschenkten Fasses: Ort: am Brückengeländer; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel in einer Hand, andere Hand am Geländer; Kleidung: Grauer Mantel, braune Hose und dunkle Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach zu heftigem Antreiben ist die Wagenachse gebrochen. Das große Fass mit rotem Band kippt bereits durch die offene Seite hinunter zum Strudel. Der Fuhrmann steht am Geländer; die beiden Pferde bleiben auf dem oberen Brückenteil. Kein Pferd stürzt mit dem Fass. Der Wagen und die zwei Pferde bleiben oben. Nur das große Fass bewegt sich seitlich über die Brückenkante nach unten; sein rotes Band bleibt sichtbar.
 Erzählertext: Auf der steilen Rheinbrücke brach die Wagenachse. Das Geschenk fiel in den Fluss, noch bevor es den Keller erreichte.
 Dialoge: keine
 Kontinuität / Änderung: Ein Fass im Fallen, kein zweites auf dem Wagen. Keine behauptete Verletzung oder Tötung des Fuhrmanns.
@@ -66,7 +66,7 @@ Kontinuität / Änderung: Ein Fass im Fallen, kein zweites auf dem Wagen. Keine 
 KACHEL 4: Die Nachricht
 Ort und Zeit: Kapitelsaal der Abtei
 Sichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Eintreffen der Unglücksnachricht versammelt der Abt die Gemeinschaft. Der Küper nimmt ein Seilbündel mit; andere bereiten Kreuz und Kirchenfahnen vor. Kein Bischof aus Augsburg steht plötzlich im Saal. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: vor den versammelten Brüdern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: bei den anderen Erwachsenen; Körperhaltung: stehend; Mitgeführte Gegenstände: ein aufgeschlagenes dickes Seilbündel; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach Eintreffen der Unglücksnachricht versammelt der Abt die Gemeinschaft. Der Küper nimmt ein Seilbündel mit; andere bereiten Kreuz und Kirchenfahnen vor. Kein Bischof aus Augsburg steht plötzlich im Saal.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Abt beim gefährdeten Weinfass
@@ -78,7 +78,7 @@ Kontinuität / Änderung: Berufung der Gemeinschaft vor dem gemeinsamen Weg. Lat
 KACHEL 5: Was der Strudel bewahrt
 Ort und Zeit: Ufer unterhalb der Brücke
 Sichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Weg zum Fluss knien Brüder mit Kreuz und Fahnen am Ufer. Das eine große Fass mit rotem Band kreist unversehrt im Strudel. Dahinter führt die offene Flussrinne sichtbar weiter Richtung See. Kein Fass schwebt durch ein Wunder in der Luft. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am sicheren Ufersaum; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: auf einem flachen Uferstein; Körperhaltung: stehend; Mitgeführte Gegenstände: aufgerolltes Bergungsseil; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach dem Weg zum Fluss knien Brüder mit Kreuz und Fahnen am Ufer. Das eine große Fass mit rotem Band kreist unversehrt im Strudel. Dahinter führt die offene Flussrinne sichtbar weiter Richtung See. Kein Fass schwebt durch ein Wunder in der Luft.
 Erzählertext: Der Strudel hielt das Fass an einer Stelle fest. Ohne ihn wäre es weiter in den See getrieben und kaum erreichbar gewesen.
 Dialoge: keine
 Kontinuität / Änderung: Gebet und praktische Bergung nebeneinander. Fass noch im Wasser, rotes Band unverändert.
@@ -86,7 +86,7 @@ Kontinuität / Änderung: Gebet und praktische Bergung nebeneinander. Fass noch 
 KACHEL 6: Das Seil fasst
 Ort und Zeit: Derselbe Uferstein
 Sichtbare Figuren: Küper am Strudel, Abt beim gefährdeten Weinfass
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach mehreren Versuchen sitzt eine Seilschlinge um das große Fass zwischen den Reifen. Der Küper und namenlose erwachsene Helfer ziehen gemeinsam vom festen Ufer aus. Das Fass ist noch halb im Wasser, keine gleichzeitig schon geschmückte Version am Land. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am Ufer hinter den Helfern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: auf dem sicheren flachen Stein; Körperhaltung: zurückgelehnt stehend; Mitgeführte Gegenstände: beide Hände am gespannten Bergungsseil; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach mehreren Versuchen sitzt eine Seilschlinge um das große Fass zwischen den Reifen. Der Küper und namenlose erwachsene Helfer ziehen gemeinsam vom festen Ufer aus. Das Fass ist noch halb im Wasser, keine gleichzeitig schon geschmückte Version am Land. Die eine Rettungsschlinge liegt zwischen den Fassreifen an und ist mit demselben Zugseil zum Ufer verbunden. Alle Helfer stehen auf dem festen Ufer, das Fass noch im Wasser.
 Erzählertext: Nach mehreren Versuchen griff die Seilschlinge um das unversehrte Fass. Gemeinsam zogen die Helfer es zum Ufer.
 Dialoge: keine
 Kontinuität / Änderung: Seil straff am selben Fass. Niemand wird ins Wasser gezogen; Bergung noch nicht abgeschlossen.
@@ -94,7 +94,7 @@ Kontinuität / Änderung: Seil straff am selben Fass. Niemand wird ins Wasser ge
 KACHEL 7: Ein geschmückter Rückweg
 Ort und Zeit: Weg vom Ufer zur Abtei
 Sichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel
-Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach erfolgreicher Bergung ruht dasselbe unversehrte Fass mit rotem Band auf einer niedrigen hölzernen Transportkufe. Helfer ziehen es bergauf; grüne Zweige und ein kleiner Kranz schmücken es jetzt. Die Rettungsschlinge ist gelöst und das Seil für den Transport befestigt. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: neben dem langsam bewegten Fass; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: bei einer niedrigen Transportschlittenkufe; Körperhaltung: stehend; Mitgeführte Gegenstände: Seil am Transportschlitten; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Nach erfolgreicher Bergung ruht dasselbe unversehrte Fass mit rotem Band auf einer niedrigen hölzernen Transportkufe. Helfer ziehen es bergauf; grüne Zweige und ein kleiner Kranz schmücken es jetzt. Die Rettungsschlinge ist gelöst und das Seil für den Transport befestigt. Nach der Bergung liegt dasselbe Fass vollständig auf der einen Transportkufe. Das Wasser ist hinter der Gruppe, das Fass nicht zugleich darin.
 Erzählertext: Mit grünen Zweigen geschmückt wurde das geborgene Fass zur Abtei gebracht. Aus der Verlustnachricht wurde ein Fest.
 Dialoge: keine
 Kontinuität / Änderung: Erst an Land bekränzt. Kein erneutes Sinken, kein zweites Fass und kein von allein rollender Aufstieg.
@@ -102,7 +102,7 @@ Kontinuität / Änderung: Erst an Land bekränzt. Kein erneutes Sinken, kein zwe
 KACHEL 8: Dank für das Hindernis
 Ort und Zeit: Speisesaal der Abtei beim Dankfest
 Sichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel
-Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Beim Dankfest steht das eine große Fass mit rotem Band und grünem Kranz am Rand des Saals. Ein Zapfhahn versorgt die Becher; die Gemeinschaft feiert ohne Trunkenheitssturz. Zwei kleinere alte Kellerfässer werden nicht mit dem Geschenk verwechselt. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am gemeinsamen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein gefüllter Holzbecher; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: neben den Helfern; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein gefüllter Holzbecher; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil; die Umgebung läuft bis an alle Bildränder durch. Jede zugeordnete Figur erscheint nur einmal, zusätzliche Hintergrundfiguren nur wie ausdrücklich beschrieben. Beim Dankfest steht das eine große Fass mit rotem Band und grünem Kranz am Rand des Saals. Ein Zapfhahn versorgt die Becher; die Gemeinschaft feiert ohne Trunkenheitssturz. Zwei kleinere alte Kellerfässer werden nicht mit dem Geschenk verwechselt. Das große Geschenkfass trägt weiterhin rotes Band und denselben grünen Kranz. Die kleineren ursprünglichen Vorratsfässer werden nicht als zweite Kopie dieses Geschenkfasses dargestellt.
 Erzählertext: keiner
 Dialog 1:
   Sprecher: Abt beim gefährdeten Weinfass

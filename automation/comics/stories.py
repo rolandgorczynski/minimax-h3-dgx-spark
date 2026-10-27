@@ -116,6 +116,10 @@ class Stories:
             ident=ident or uuid.uuid4().hex
             doc={**clean,'id':ident,'version':old['version']+1 if old else 1,'created_at':old['created_at'] if old else now(),'updated_at':now()}
             db.execute('INSERT INTO stories VALUES (?,?) ON CONFLICT(id) DO UPDATE SET doc=excluded.doc',(ident,json.dumps(doc)))
+        if old is None:
+            selection=self.store.integration_get('story-selection-ids')
+            if isinstance(selection,list) and ident not in selection:
+                self.store.integration_set('story-selection-ids',selection+[ident])
         return doc
 
     @serialized
