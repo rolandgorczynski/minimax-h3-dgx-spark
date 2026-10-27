@@ -47,7 +47,7 @@ def prepare(engine,stories,job):
     article=source['article']
     import story_meaning
     meaning=story_meaning.plan(engine,job,article,count,cached=source.get('narrative_plan'),require_curated=entry.get('count_policy',source.get('count_policy'))=='editorial')
-    if entry.get('count_policy',source.get('count_policy'))=='editorial':count,meaning=story_meaning.use_recommended_count(engine,job,meaning)
+    if entry.get('count_policy',source.get('count_policy'))=='editorial' and not source.get('manual_panel_count'):count,meaning=story_meaning.use_recommended_count(engine,job,meaning)
     store.stage(job,'article_characters')
     existing=source.get('characters',[])
     def people(value):
@@ -132,7 +132,7 @@ def prepare(engine,stories,job):
     scenes,continuity_ledger=enforce(engine,job,scenes,cast,article,source.get('series',{}).get('initial_continuity_state',{}),[g['source_excerpt'] for g in locked],tag='article')
     store.write(job,'meaning-check-draft.json',{'scenes':scenes})
     story_meaning.review(engine,job,article,meaning,scenes)
-    payload={**source,'narrative_plan':meaning,'continuity_ledger':continuity_ledger,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
+    payload={**source,'script_needs_replan':False,'narrative_plan':meaning,'continuity_ledger':continuity_ledger,'title':snapshot['name'],'article':article,'characters':cast,'scenes':scenes,'panel_count':count,'planned_article':article,'planned_count':count,'revisions':{},'dialogue_ledger':ledger}
     store.stage(job,'article_save')
     store.write(job,'planned-storyboard.json',payload)
     # A later user edit must never be overwritten by a delayed model response.

@@ -46,6 +46,13 @@ class StoriesTests(unittest.TestCase):
         self.stories.save(value,changed['id'],changed['version'])
         self.assertFalse(self.stories.list()[0]['script_ready'])
 
+    def test_changed_meaning_blocks_images_until_script_is_replanned(self):
+        value=definition();value['payload']['script_needs_replan']=True
+        story=self.stories.save(value)
+        self.assertFalse(self.stories.list()[0]['script_ready'])
+        with self.assertRaisesRegex(ValueError,'Skript passt nicht'):
+            self.stories.enqueue(story['id'],1)
+
     def test_stale_script_is_not_rendered_and_style_changes_keep_scenes(self):
         value=definition();value['payload'].update(planned_article=value['payload']['article'],planned_count=1,panel_count=1)
         story=self.stories.save(value)

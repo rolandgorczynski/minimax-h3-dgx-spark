@@ -40,9 +40,21 @@ def validate(value):
     return result
 
 
+def user_plan(value,text,instructions=''):
+    """Manuell bestätigte Deutung bleibt an diese Geschichte gebunden, ohne Quellen-Cache."""
+    result=validate(value)
+    return {**result,'user_edited':True,'review_method':'benutzer','analysis_version':ANALYSIS_VERSION,
+            'source_sha256':fingerprint(text+'\n'+instructions)}
+
+
 def plan(engine,job,text,count,instructions='',cached=None,require_curated=False):
     # Nur ein zum unveränderten Ausgangstext gehörender Plan darf wiederverwendet werden.
     signature=fingerprint(text+'\n'+instructions)
+    if isinstance(cached,dict) and cached.get('user_edited') is True:
+        result={**user_plan(cached,text,instructions),'fixed_count':count,'panels_per_episode':6}
+        engine.store.write(job,'narrative-plan.json',result)
+        engine.store.update(job,narrative_plan=result)
+        return result
     if require_curated:
         canonical=cached_plan(engine.store,text,instructions) or cached_plan(engine.store,text)
         if not canonical or canonical.get('review_method')!='redaktionell':raise ValueError('Redaktionelle Sinnanalyse fehlt. Diese Geschichte zuerst von Codex auswerten lassen; es wird keine lokale Ersatzdeutung erzeugt.')

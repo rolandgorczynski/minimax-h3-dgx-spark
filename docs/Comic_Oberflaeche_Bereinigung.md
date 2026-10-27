@@ -61,3 +61,15 @@ Der Eingabebereich heißt jetzt „Eigener Text“. Neben „Neue Geschichte“ 
 Ohne neue Bearbeitungsvormerkung wird die bisherige Browser-ID als „zuletzt geöffnet“ angeboten. Gelöschte IDs werden nicht angeboten. Vor dem Wechsel wird bei ungespeicherten Änderungen nachgefragt. Die Vormerkung speichert keine ungesicherten Textänderungen und gilt nicht browserübergreifend. Neue Texte deshalb weiterhin mit „Skript sichern“ speichern.
 
 Geprüft mit dem Dashboard-Browsertest: Geschichte bearbeiten und sichern, leere neue Geschichte öffnen und anschließend die zuvor bearbeitete Geschichte samt Titel wieder aufrufen. Keine Modelle oder Bilder erzeugt.
+
+### Erster Bereich: Auswertung bearbeiten und Skript gemeinsam neu planen
+
+„Neue Geschichte“ steht zuerst in der blauen Eingabenavigation. Die frei anpassbare Kachelzahl steht neben „Gespeichertes Skript / Geschichte“. Der zusätzliche Einstieg „Auf dieser Geschichte aufbauen“ entfällt; Fortsetzungen bleiben unter „Fortsetzung / Serie“. „Geschichte löschen“ steht direkt neben der zentralen Skriptaktion. Die erweiterten Optionen werden nicht mehr angezeigt; Figuren und Referenzbilder bleiben in Schritt 2.
+
+Die redaktionelle Auswertung wird mit der Geschichte beziehungsweise Quelle angezeigt. Grundfrage, Deutungsart, Kernaussage, Schlusswirkung, Belege und Handlungskette lassen sich bearbeiten. Die Buttons zum Laden, erneuten Übernehmen der Empfehlung und Herunterladen der Auswertung entfallen. Ohne hinterlegte Auswertung erscheint ein Hinweis auf die noch nötige redaktionelle Vorbereitung; es läuft keine automatische Ersatzanalyse.
+
+Änderungen an Auswertung, Text oder Kachelzahl machen eine vollständige Neuplanung notwendig. „Skript sichern“ speichert diese Vorgaben, erstellt aber keine Szenen. „Skript neu erstellen“ verwendet den sichtbaren Ausgangstext, die bearbeitete Auswertung und die gewählte Kachelzahl. Vor dem Ersetzen vorhandener Szenen wird nachgefragt. Die Quellenanalyse im gemeinsamen Cache bleibt unverändert; die eigene Deutung wird separat in dieser Geschichte gespeichert. Bilder werden erst in Schritt 2 erzeugt. Fertige Ausgaben bleiben erhalten.
+
+Nach Änderungen am Ausgangstext muss die vorhandene Auswertung geprüft und gegebenenfalls angepasst werden. Beim bewussten Neuplanen wird sie für den neuen Text übernommen. Eine vollkommen neue Geschichte ohne vorhandene Auswertung benötigt weiterhin eine redaktionelle Vorbereitung. Die Fortschrittsanzeige für die Szenenplanung bleibt bestehen.
+
+Geprüft: 215 Python-Tests (einer übersprungen), Dashboard-Browsertest einschließlich editierter Auswertung, Speichern und Wiederöffnen, verbindlicher Kachelzahl, veraltetem Skript, bestätigter Neuplanung und unverändertem Quellen-Cache. Keine echten Modelle oder Comic-Generierung für diese Tests.

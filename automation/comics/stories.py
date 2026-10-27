@@ -37,6 +37,9 @@ def validate_definition(value):
     else:
         if payload.get('style') not in STYLES:raise ValueError('Unbekannter Comic-Stil.')
         if not isinstance(payload.get('article',''),str) or len(payload.get('article',''))>16000:raise ValueError('Artikel maximal 16000 Zeichen.')
+        if isinstance(payload.get('narrative_plan'),dict) and payload['narrative_plan'].get('user_edited') is True:
+            from story_meaning import user_plan
+            payload['narrative_plan']=user_plan(payload['narrative_plan'],payload.get('article',''))
         scenes=payload.get('scenes',[])
         if not isinstance(scenes,list):raise ValueError('Szenen als Liste senden.')
         for scene in scenes:
@@ -66,6 +69,7 @@ def script_summary(doc):
     payload=doc.get('payload',{})
     scenes=payload.get('scenes',[])
     ready=(doc.get('mode')=='editorial' and isinstance(scenes,list) and bool(scenes)
+           and not payload.get('script_needs_replan')
            and bool(payload.get('article','').strip())
            and payload.get('planned_article',payload.get('article'))==payload.get('article')
            and payload.get('planned_count',len(scenes))==len(scenes)
@@ -95,7 +99,7 @@ class Stories:
         if with_meaning and doc['mode']=='editorial':
             from story_meaning import cached_plan
             value=cached_plan(self.store,doc['payload'].get('article',''))
-            if value:doc['payload']['narrative_plan']=value
+            if value and not (doc['payload'].get('narrative_plan') or {}).get('user_edited'):doc['payload']['narrative_plan']=value
         return doc
 
     @serialized
@@ -146,8 +150,8 @@ class Stories:
             count=source.get('panel_count',len(source['scenes']) or 12);style=source['style'];seed=source['seed']
         if story.get('count_policy',source.get('count_policy'))=='editorial':
             from story_meaning import cached_plan
-            approved=cached_plan(self.store,source.get('article',''))
-            if story['mode']=='automatic' or not approved or approved.get('review_method')!='redaktionell':raise ValueError('Zuerst die neue Geschichte und ihre Sinnanalyse redaktionell mit Codex vorbereiten. Keine lokale Ersatzgeschichte oder Ersatzdeutung gestartet.')
+            approved=source.get('narrative_plan') if (source.get('narrative_plan') or {}).get('user_edited') else cached_plan(self.store,source.get('article',''))
+            if story['mode']=='automatic' or not approved or approved.get('review_method') not in ('redaktionell','benutzer'):raise ValueError('Zuerst die neue Geschichte und ihre Sinnanalyse redaktionell mit Codex vorbereiten. Keine lokale Ersatzgeschichte oder Ersatzdeutung gestartet.')
         request=validate_request({'kacheln':count,'stil':style,'seed':seed,'max_korrekturrunden':0})
         ident_job=uuid.uuid4().hex;self.store.create(ident_job,request,initial_status='editing')
         self.store.update(ident_job,planning_mode=True,planning_source=story,story_id=ident,story_version=version,count_policy=story.get('count_policy',source.get('count_policy','legacy')))
@@ -165,7 +169,7 @@ class Stories:
             from engine import Engine
             if not source['article'].strip() or not source['scenes']:raise ValueError('Zuerst Geschichte und Szenenplan ausfüllen oder ein Storyboard importieren.')
             if source.get('visual_style_pending'):raise ValueError('Zuerst in Schritt 2 einen Bildstil auswählen.')
-            if ('planned_article' in source and source['planned_article']!=source['article']) or source.get('planned_count',len(source['scenes']))!=len(source['scenes']) or source.get('panel_count',len(source['scenes']))!=len(source['scenes']):
+            if source.get('script_needs_replan') or ('planned_article' in source and source['planned_article']!=source['article']) or source.get('planned_count',len(source['scenes']))!=len(source['scenes']) or source.get('panel_count',len(source['scenes']))!=len(source['scenes']):
                 raise ValueError('Das Skript passt nicht mehr zum Ausgangstext oder zur Kachelanzahl. Zuerst in Schritt 1 aktualisieren.')
             cast=source.get('characters',[])
             if not cast and not source.get('library_ids'):raise ValueError('Figurenprofile fehlen. Ein vollständiges Storyboard importieren.')

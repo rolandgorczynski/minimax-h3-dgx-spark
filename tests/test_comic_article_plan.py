@@ -78,6 +78,25 @@ class ArticlePlanTests(unittest.TestCase):
             self.assertEqual(saved['payload']['planned_article'],story['payload']['article'])
             self.assertEqual(result['status'],'completed');self.assertEqual(engine.calls,['article-people','article-scenes','article-continuity-events-1'])
 
+    def test_user_meaning_and_manual_count_survive_full_replanning(self):
+        from test_comic_story_meaning import PLAN
+        import story_meaning
+        with tempfile.TemporaryDirectory() as root:
+            store=Store(root);stories=Stories(store)
+            original={**PLAN,'analysis_version':4,'source_sha256':story_meaning.fingerprint('Ria: „Bereit?“ Ria nickt.\n'),'review_method':'redaktionell'}
+            story_meaning.remember(store,original)
+            custom={**PLAN,'core':'Mut entsteht durch Vertrauen.','user_edited':True}
+            story=stories.save({'name':'HG1','mode':'editorial','count_policy':'editorial','payload':{'article':'Ria: „Bereit?“ Ria nickt.','style':'Warme Alltagsillustration','panel_count':2,'manual_panel_count':True,'script_needs_replan':True,'narrative_plan':custom,'scenes':[]}})
+            self.assertEqual(stories.get(story['id'])['payload']['narrative_plan']['core'],custom['core'])
+            job=stories.plan(story['id'],1);engine=FakeEngine(store)
+            result=prepare(engine,stories,job['id']);saved=stories.get(story['id'])
+            self.assertEqual(len(saved['payload']['scenes']),2)
+            self.assertEqual(saved['payload']['narrative_plan']['core'],custom['core'])
+            self.assertFalse(saved['payload']['script_needs_replan'])
+            self.assertTrue(stories.list()[0]['script_ready'])
+            self.assertEqual(story_meaning.cached_plan(store,story['payload']['article'])['core'],PLAN['core'])
+            self.assertEqual(result['artifacts'],[])
+
     def test_late_result_cannot_overwrite_user_edit(self):
         with tempfile.TemporaryDirectory() as root:
             store=Store(root);stories=Stories(store)

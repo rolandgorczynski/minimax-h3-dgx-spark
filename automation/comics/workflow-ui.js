@@ -158,13 +158,16 @@ function installWorkflowUI(){
  const source=$('source-generator').closest('section'),series=$('series-editor').closest('section');
  $('workflow-own-slot').append($('verwaltung'));$('workflow-source-slot').append(source);$('workflow-series-slot').append(series);
  $('workflow-story-selection').append($('story-selection'));
+ $('story-list').closest('.row').insertBefore($('script-count-label'),$('resume-story'));
+ $('script-actions').insertBefore($('delete-story'),$('save-story'));
+ $('advanced').hidden=true;
  $('workflow-visual-settings').append($('render-style-controls'),$('page-template-picker'));
  $('workflow-character-settings').append($('character-design-controls'));
  $('workflow-output-selection').append($('output-selection'));
  $('workflow-output-content').append($('output-editor'));
  for(const id of ['bundle','pdf','substack-share','x-share','telegram-share'])$('workflow-share-actions').append($(id));
  $('workflow-book-export').append($('book-exporter'));
- $('advanced').append($('next').closest('details'));
+ $('workflow-feedback').append($('next').closest('details'));
  for(const id of ['comment','learning-status'])$('workflow-feedback').append($(id).closest('section'));
  for(const button of document.querySelectorAll('[data-workflow-step]'))button.onclick=()=>showWorkflowStep(button.dataset.workflowStep);
  for(const button of document.querySelectorAll('[data-script-input]'))button.onclick=()=>showWorkflowInput(button.dataset.scriptInput);
