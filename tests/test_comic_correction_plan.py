@@ -14,6 +14,8 @@ class CorrectionPlanTests(unittest.TestCase):
             store,parent=setup(root);info=manifest(store,parent);path=store.directory(parent['id']);before={str(p.relative_to(path)):p.read_bytes() for p in path.rglob('*') if p.is_file()}
             value={'version':info['version'],'panel':0,'correction':'Ria muss hinter geschlossenen Gitterstäben sitzen.'}
             job=panel_correction.enqueue_plan(store,parent,value)
+            self.assertNotIn(job['id'],[j['id'] for j in store.list(public_only=True)])
+            self.assertIn(parent['id'],[j['id'] for j in store.list(public_only=True)])
             with self.assertRaises(Conflict):panel_correction.enqueue_plan(store,parent,value)
             class FakeEngine:
                 validate_scenes=Engine.validate_scenes

@@ -74,9 +74,86 @@ function updateWorkflowOutput(job){
  const area=$('workflow-publish-summary');if(!area)return;
  const title=$('title')?.textContent||job?.story_title||'Comic';
  area.textContent=job?title+' · Ausgabe '+job.id.slice(0,8)+' · '+(typeof stateNames!=='undefined'?stateNames[job.status]||job.status:job.status)+'. Veröffentlicht oder exportiert wird diese ausgewählte Ausgabe.':'Zuerst in Schritt 3 eine fertige Comic-Ausgabe auswählen.';
+ const latest=job&&outputGroups().find(g=>g.some(j=>j.id===job.id))?.[0];if(latest&&latest.id!==job.id)area.textContent+=' Achtung: Du hast eine ältere Fassung ausgewählt. Eine neuere Ausgabe ist in Schritt 3 verfügbar.';
  if(job?.story_id===definitionId&&(dirty||job.story_version!==definitionVersion))area.textContent+=' Skript oder Gestaltung wurden inzwischen bearbeitet. Diese Ausgabe zeigt ihren gespeicherten Stand; neuere Änderungen erfordern eine neue Comic-Ausgabe.';
  $('edit-to-publish').disabled=!job||!job.artifacts?.some(a=>a.name==='comic.png');
 }
+/* Ausgaben pro Geschichte; Abruf alter Vorfahren ausschließlich lesend. */
+const outputHistoryCache=new Map();
+function outputKind(job){return job.panel_correction_mode?'Bild '+job.corrected_panel+' neu gezeichnet':job.lettering_mode?'Beschriftung geändert':job.experiment_mode?'Experiment':job.improvement_mode?'Nach Rückmeldung überarbeitet':'Comic erzeugt'}
+function outputDate(job){return job.created_at&&!Number.isNaN(Date.parse(job.created_at))?new Date(job.created_at).toLocaleString('de-DE',{dateStyle:'short',timeStyle:'short'}):job.id.slice(0,8)}
+function outputGroups(){
+ const byId=new Map(jobs.map(j=>[j.id,j])),groups=new Map();
+ for(const job of jobs){
+  let root=job,seen=new Set();
+  while(root.parent_job&&byId.has(root.parent_job)&&!seen.has(root.id)){seen.add(root.id);root=byId.get(root.parent_job)}
+  const key=job.story_id||root.story_id||root.id;
+  if(!groups.has(key))groups.set(key,[]);groups.get(key).push(job);
+ }
+ for(const group of groups.values())group.sort((a,b)=>{
+  const x=Date.parse(a.created_at),y=Date.parse(b.created_at);
+  return Number.isFinite(x)&&Number.isFinite(y)?y-x:jobs.indexOf(a)-jobs.indexOf(b);
+ });
+ return Array.from(groups.values());
+}
+function renderOutputSelection(){
+ for(const [id,job]of outputHistoryCache)if(!jobs.some(j=>j.id===id))jobs.push(job);
+ const groups=outputGroups();if(!jobs.some(j=>j.id===selected))selected=groups[0]?.[0]?.id||'';
+ const all=$('output-show-history').checked,selector=$('jobs');selector.replaceChildren();
+ for(const group of groups){
+  const section=document.createElement('optgroup'),first=group[0],story=definitions.find(d=>d.id===first.story_id);
+  section.label=story?.name||first.story_title||'Comic '+first.id.slice(0,8);
+  for(const job of group){
+   if(!all&&job!==first&&job.id!==selected)continue;
+   const label=(job===first?'Neueste Ausgabe':'Frühere Fassung')+' · '+outputKind(job)+' · '+(stateNames[job.status]||job.status)+' · '+outputDate(job)+' · '+job.id.slice(0,8);
+   section.append(new Option(label,job.id));
+  }
+  selector.append(section);
+ }
+ selector.value=selected;
+}
+async function chooseOutput(id){
+ if(!id)return;
+ if(!jobs.some(j=>j.id===id)){const job=await(await api('/jobs/'+id)).json();outputHistoryCache.set(id,job);jobs.push(job)}
+ selected=id;loaded='';renderOutputSelection();await show();
+}
+async function openOutputOriginal(){
+ let job=jobs.find(j=>j.id===selected),seen=new Set();if(!job)return;
+ while(job.parent_job){
+  if(seen.has(job.id))throw Error('Der Ausgabenverlauf enthält einen ungültigen Kreis.');seen.add(job.id);
+  let parent=jobs.find(j=>j.id===job.parent_job);
+  if(!parent){parent=await(await api('/jobs/'+job.parent_job)).json();outputHistoryCache.set(parent.id,parent);jobs.push(parent)}
+  job=parent;
+ }
+ await chooseOutput(job.id);
+}
+function updateOutputHistory(job){
+ const group=job&&outputGroups().find(g=>g.some(j=>j.id===job.id)),latest=group?.[0];
+ $('output-current').textContent=job?'Ausgewählte Ausgabe: '+job.id.slice(0,8)+' · '+outputKind(job)+' · '+outputDate(job)+(latest?.id!==job.id?' · Ältere Fassung ausgewählt.':' · Neueste Ausgabe dieser Geschichte.'):'Noch keine Comic-Ausgabe ausgewählt.';
+ $('output-prev').disabled=!job?.parent_job;$('output-original').disabled=!job?.parent_job;$('output-latest').disabled=!latest||latest.id===job?.id;
+ $('output-prev').onclick=()=>chooseOutput(job?.parent_job).catch(error);
+ $('output-original').onclick=()=>openOutputOriginal().catch(error);
+ $('output-latest').onclick=()=>chooseOutput(latest?.id).catch(error);
+ const list=$('output-history-list');list.replaceChildren();
+ for(const item of group||[]){const li=document.createElement('li'),b=document.createElement('button');b.type='button';b.textContent=(item.id===job.id?'Ausgewählt · ':'')+outputKind(item)+' · '+outputDate(item)+' · '+item.id.slice(0,8);b.disabled=item.id===job.id;b.onclick=()=>chooseOutput(item.id).catch(error);li.append(b);list.append(li)}
+}
+async function openOutputEditor(index=0,jobId=selected){
+ try{
+  if(selected!==jobId)await chooseOutput(jobId);
+  await $('lettering-edit').onclick();
+  if(positionData?.job_id===jobId)await showPositionPanel(Math.max(0,Math.min(index,positionData.panels.length-1)));
+ }catch(e){error(e)}
+}
+function drawOutputWarnings(job){
+ const letters=$('lettering-issues');letters.replaceChildren();
+ const messages=(job.lettering_warnings||[]).filter(t=>!/^ENTWURF:/i.test(t));
+ if(job.lettering_unresolved&&!messages.length)messages.push('Eine Beschriftung muss geprüft werden. Vollständige Texte sind im Editor erhalten.');
+ function item(text){const li=document.createElement('li');li.append(document.createTextNode(text+' '));const number=text.match(/(?:Kachel|Bild|Panel)\s*(\d+)\s*:/i);if(number){const b=document.createElement('button');b.type='button';b.textContent='Dort bearbeiten';b.dataset.issuePanel=number[1];b.onclick=()=>openOutputEditor(Number(number[1])-1,job.id);li.append(b)}return li}
+ for(const text of messages)letters.append(item(text));
+ const equipment=$('equipment-warning');equipment.replaceChildren();
+ if(job.equipment_warnings?.length){const title=document.createElement('strong');title.textContent='Bilddetails prüfen';const list=document.createElement('ul');for(const text of job.equipment_warnings)list.append(item(text));equipment.append(title,list)}
+}
+
 function installWorkflowUI(){
  const source=$('source-generator').closest('section'),series=$('series-editor').closest('section');
  $('workflow-own-slot').append($('verwaltung'));$('workflow-source-slot').append(source);$('workflow-series-slot').append(series);
@@ -107,6 +184,7 @@ function installWorkflowUI(){
  $('style').addEventListener('change',()=>{editorPayload.visual_style_pending=!$('style').value;dirty=true;modeHelp()});
  $('new').addEventListener('click',()=>{if(!definitionId&&!dirty)showWorkflowInput('own')});
  $('story-list').addEventListener('change',()=>showWorkflowInput('own'));
+ $('output-show-history').onchange=()=>{renderOutputSelection();updateOutputHistory(jobs.find(j=>j.id===selected))};
  installPublishProfiles();workflowInstalled=true;showWorkflowInput('own');
 }
 document.addEventListener('DOMContentLoaded',installWorkflowUI);

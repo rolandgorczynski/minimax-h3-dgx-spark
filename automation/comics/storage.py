@@ -51,7 +51,7 @@ class Store:
         return self.get(row['job_id']) if row else None
 
     def list(self,public_only=False):
-        where=" WHERE "+' AND '.join("COALESCE(json_extract(doc,'$."+key+"'),0)=0" for key in ('character_mode','book_mode','source_mode','narrative_mode')) if public_only else ''
+        where=" WHERE "+' AND '.join("COALESCE(json_extract(doc,'$."+key+"'),0)=0" for key in ('character_mode','book_mode','source_mode','narrative_mode','correction_plan_mode')) if public_only else ''
         with self.connect() as db:rows=db.execute('SELECT doc FROM jobs'+where+' ORDER BY rowid DESC LIMIT 100').fetchall()
         return [json.loads(row['doc']) for row in rows]
 
