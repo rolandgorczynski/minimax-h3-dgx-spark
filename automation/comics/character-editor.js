@@ -82,31 +82,28 @@ function characterLibraryChoice(item,ticket,choose){
 }
 function characterReplacementPicker(character,ticket){
  const group=document.createElement('fieldset'),legend=document.createElement('legend');group.className='character-replacement-picker';legend.textContent='Durch Bibliotheksfigur ersetzen';group.append(legend);
- if(editorPayload.character_replacement_originals?.[character.id]){
-  const reset=document.createElement('button');reset.type='button';reset.textContent='Ursprüngliche Figur wiederherstellen';reset.dataset.characterReplacementReset=character.id;
-  reset.onclick=()=>{
-   if(!confirm('Ursprüngliches Profil und Referenzbilder wiederherstellen? Szenen und Gespräche bleiben erhalten. Anschließend die Geschichte speichern.'))return;
-   try{editorPayload=restoreStoryCharacter({...editorPayload,scenes:gatherScenes()},character.id);drawScenes();markCharacterDirty();message('Ursprüngliche Figur wiederhergestellt. Bitte die Geschichte speichern.')}catch(error){message(error.message)}
-  };group.append(reset);
- }
+ const original=editorPayload.character_replacement_originals?.[character.id];
+ const originalChoice=original?{...structuredClone(original.profile),id:'__original__',reference_character_id:original.profile.id,name:'Ursprüngliche Figur · '+original.profile.name}:null;
+ if(originalChoice&&original.reference_overrides?.length)originalChoice.inline_references=structuredClone(original.reference_overrides);
+ const choices=originalChoice?[originalChoice,...characterLibrary]:characterLibrary;
 
  if(!characterLibraryLoaded){
-  const load=document.createElement('button');load.type='button';load.textContent=characterLibraryLoading?'Bibliothek wird geladen …':'Bibliothek laden';load.disabled=characterLibraryLoading;load.onclick=()=>loadCharacterLibrary();group.append(load);return group;
+  const load=document.createElement('button');load.type='button';load.textContent=characterLibraryLoading?'Bibliothek wird geladen …':'Bibliothek laden';load.disabled=characterLibraryLoading;load.onclick=()=>loadCharacterLibrary();group.append(load);if(!originalChoice)return group;
  }
  const label=document.createElement('label'),select=document.createElement('select');select.dataset.characterReplacement=character.id;label.append(document.createTextNode('Gespeicherte Figur'),select);
  const blank=document.createElement('option');blank.value='';blank.textContent='Bibliotheksfigur auswählen …';select.append(blank);
- for(const item of characterLibrary){const option=document.createElement('option');option.value=item.id;option.textContent=item.name;select.append(option)}
+ for(const item of choices){const option=document.createElement('option');option.value=item.id;option.textContent=item.name;select.append(option)}
  const gallery=document.createElement('div');gallery.className='character-library-picker-grid';gallery.dataset.characterReplacementGallery=character.id;gallery.setAttribute('role','group');gallery.setAttribute('aria-label','Bibliotheksfiguren mit Bild auswählen');
- gallery.replaceChildren(...characterLibrary.map(item=>characterLibraryChoice(item,ticket,id=>{select.value=id;select.dispatchEvent(new Event('change',{bubbles:true}))})));
+ gallery.replaceChildren(...choices.map(item=>characterLibraryChoice(item,ticket,id=>{select.value=id;select.dispatchEvent(new Event('change',{bubbles:true}))})));
  const image=document.createElement('img');image.className='character-photo character-replacement-preview';image.hidden=true;image.alt='Vorschau der Bibliotheksfigur';image.dataset.characterReplacementPreview=character.id;image.tabIndex=0;image.setAttribute('role','button');image.title='Vorschaubild vergrößern';image.setAttribute('aria-label','Vorschaubild vergrößern');
- image.onclick=()=>openCharacterPicture(image,characterLibrary.find(c=>c.id===select.value)?.name);
+ image.onclick=()=>openCharacterPicture(image,choices.find(c=>c.id===select.value)?.name);
  image.onkeydown=event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();image.click()}};
  const note=document.createElement('p');note.textContent=characterLibrary.length?'Aussehen, Eigenschaften und Referenzbilder übernehmen. Der Name in der Geschichte bleibt erhalten. Szenen und Gespräche bleiben erhalten. Kachelbeschreibungen und besondere Kleidungsanweisungen anschließend prüfen.':'Noch keine gespeicherten Figuren in der Bibliothek.';
- const apply=document.createElement('button');apply.type='button';apply.textContent='Diese Figur ersetzen';apply.dataset.characterReplacementApply=character.id;apply.disabled=true;
+ const apply=document.createElement('button');apply.type='button';apply.textContent='Durch diese Figur ersetzen';apply.dataset.characterReplacementApply=character.id;apply.disabled=true;
  const status=document.createElement('p');status.setAttribute('role','status');status.dataset.characterReplacementStatus=character.id;
  let previewTicket=0;
  select.onchange=()=>{
-  const current=++previewTicket,chosen=characterLibrary.find(c=>c.id===select.value);apply.disabled=!chosen;image.hidden=true;status.textContent='';
+  const current=++previewTicket,chosen=choices.find(c=>c.id===select.value);apply.disabled=!chosen;apply.textContent=chosen?.id==='__original__'?'Ursprüngliche Figur wiederherstellen':'Durch diese Figur ersetzen';image.hidden=true;status.textContent='';
   for(const tile of gallery.children)tile.setAttribute('aria-pressed',String(tile.dataset.libraryChoice===select.value));
   const picture=chosen&&characterPicture(chosen,'library');
   if(picture?.inline){image.src='data:image/png;base64,'+picture.inline;image.hidden=false}
@@ -114,7 +111,13 @@ function characterReplacementPicker(character,ticket){
   if(chosen)image.alt='Referenzbild von '+chosen.name;
  };
  apply.onclick=async()=>{
-  const chosen=characterLibrary.find(c=>c.id===select.value);if(!chosen)return;
+  const chosen=choices.find(c=>c.id===select.value);if(!chosen)return;
+  if(chosen.id==='__original__'){
+   if(!confirm('Ursprüngliches Profil und Referenzbilder wiederherstellen? Szenen und Gespräche bleiben erhalten. Anschließend die Geschichte speichern.'))return;
+   try{editorPayload=restoreStoryCharacter({...editorPayload,scenes:gatherScenes()},character.id);drawScenes();markCharacterDirty();const card=Array.from($('story-characters').children).find(box=>box.dataset.characterId===character.id);if(card)card.open=true;message('Ursprüngliche Figur wiederhergestellt. Bitte die Geschichte speichern.')}catch(error){status.textContent=error.message}
+   return;
+  }
+
   if($('editor-mode').value!=='editorial'){status.textContent='Zuerst ein bearbeitbares Skript für die Geschichte erstellen.';return}
   if(!confirm('„'+character.name+'“ durch „'+chosen.name+'“ aus der Bibliothek ersetzen? Aussehen, Eigenschaften und Referenzbilder werden übernommen. Der Name in der Geschichte bleibt erhalten. Szenen und Sprechblasen bleiben zugeordnet. Die Änderung anschließend speichern.'))return;
   const current=editorPayload;group.disabled=true;status.textContent='Profil und Referenzbilder werden übernommen …';
@@ -127,12 +130,12 @@ function characterReplacementPicker(character,ticket){
    message('Figur ersetzt. Name, Story-ID und Sprecherzuordnungen bleiben erhalten. Szenenbeschreibungen prüfen und die Geschichte speichern.');
   }catch(error){status.textContent=error.message}finally{group.disabled=false}
  };
- group.append(label,gallery,image,note,apply,status);return group;
+ const toolbar=document.createElement('div');toolbar.className='character-replacement-toolbar row';toolbar.append(label,apply);group.append(toolbar,image,status,gallery,note);return group;
 }
 function characterPicture(c,scope){
  if(scope==='story'&&editorPayload.reference_overrides?.[c.id]?.length)return {inline:editorPayload.reference_overrides[c.id][0]};
  if(c.inline_references?.length)return {inline:c.inline_references[0]};
- if(c.references?.length)return {path:'/characters/'+c.id+'/references/'+c.references[0]};
+ if(c.references?.length)return {path:'/characters/'+(c.reference_character_id||c.id)+'/references/'+c.references[0]};
  if(scope==='story'){const output=jobs.find(j=>j.story_id===definitionId&&j.artifacts?.some(a=>a.name==='characters/'+c.id+'.png'||a.name==='characters/'+c.id+'-0.png'));const item=output?.artifacts.find(a=>a.name==='characters/'+c.id+'.png'||a.name==='characters/'+c.id+'-0.png');if(item)return {path:item.url}}
  return null;
 }

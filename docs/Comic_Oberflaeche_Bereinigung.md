@@ -89,3 +89,7 @@ Währenddessen sind Stilwechsel, die Geschichtenauswahl in Schritt 2, die erneut
 Geprüft mit Figurenprofil-Tests und dem Dashboard-Browsertest: Porträt ohne Textmodell-Aufruf, unveränderte Profilfelder, getrennte Generierung, Sicherung und kein Comic-Auftrag beim Figurenbutton. Keine echten Modelle für den Test gestartet.
 
 Sind bereits alle Figurenbilder vorhanden, bleibt der Figurenbutton aktiv und heißt „Figuren neu generieren“. Nach Bestätigung werden alle Referenzbilder dieser Geschichte im gewählten Stil neu gezeichnet und schrittweise gesichert. Profile, Bibliotheksfiguren und fertige Comics bleiben erhalten. Fehlen noch Bilder, erstellt „Figuren generieren“ weiterhin zunächst nur diese fehlenden Referenzen.
+
+### Figurenauswahl: Bestätigung oben und Original erhalten
+
+„Durch diese Figur ersetzen“ steht direkt neben der Auswahl oberhalb der Vorschaugalerie. Nach dem ersten Austausch erscheint „Ursprüngliche Figur“ zusätzlich als erster Eintrag und als Bildkachel. Damit lässt sich das ursprüngliche Profil mit Referenzbildern, Kleidungszuordnung und Bibliotheksverknüpfung wiederherstellen. Mehrere Wechsel behalten dieselbe erste Sicherung; zwischenzeitliche Ersatzprofile werden nicht als zusätzliche private Varianten gesammelt. Reguläre Bibliotheksfiguren bleiben weiterhin auswählbar. Die ursprüngliche Sicherung bleibt auch nach Speichern und erneutem Öffnen erhalten.
