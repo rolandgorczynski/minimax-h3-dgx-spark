@@ -1,0 +1,209 @@
+{
+  "redaktion": "Codex – gezielte Erzählerbearbeitung vorhandener Skripte, keine Modellgenerierung",
+  "regel": "Kacheln 2, 4, 6 usw. erhalten nur Erzählertext. Übrige Kacheln enthalten entweder gesprochene Sprechblasen oder, falls kein Dialog vorliegt, nur Erzählertext. Nie beides in derselben Kachel.",
+  "geschichten": [
+    {
+      "basis": "bremer-stadtmusikanten-10",
+      "erzaehler": [
+        "",
+        "Auch Hund und Katze waren ausgemustert worden. Gemeinsam mit dem Esel wollten sie in Bremen als Musiker neu anfangen.",
+        "",
+        "Noch vor Bremen fanden die vier ein Haus im Wald. Dort saßen Räuber am gedeckten Tisch.",
+        "",
+        "Ihr gemeinsamer Lärm hatte die Räuber vertrieben. Später schlich einer zurück, während die Tiere schliefen.",
+        "",
+        "Beim Rückzug packte der Hund sein Hosenbein. Nun versuchte der Räuber, durch die Hintertür zu entkommen.",
+        "",
+        "Auch aus dem Hof floh der Räuber. Die Tiere blieben zusammen im Haus. Nach Bremen kamen sie nie."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "haensel-gretel-16",
+      "erzaehler": [
+        "",
+        "Im Wald allein gelassen, fanden die Geschwister an den weißen Kieseln zurück. Im Mondlicht war die Spur noch zu sehen.",
+        "",
+        "Doch die Kinder wurden erneut fortgebracht. Diesmal hatte Hänsel nur Brotkrumen statt Kiesel auslegen können.",
+        "",
+        "Ohne Spur irrten sie hungrig durch den Wald. Da fanden sie ein Haus aus Brot, Kuchen und Zucker.",
+        "",
+        "Die freundliche Frau war eine Hexe. Sie sperrte Hänsel ein und zwang Gretel zur Arbeit.",
+        "",
+        "Hänsel täuschte die schlecht sehende Hexe mit einem Knöchelchen. Am Ofen stellte Gretel sich nun absichtlich unwissend.",
+        "",
+        "Als die Hexe sich vorbeugte, stieß Gretel sie hinein und schloss die Ofentür. Hänsel war noch eingesperrt.",
+        "",
+        "Mit Kostbarkeiten aus dem Hexenhaus machten sie sich auf den Heimweg. Diesmal gingen beide aus eigener Kraft fort.",
+        "Die Ente trug sie einzeln über das Wasser. Hänsel war schon am anderen Ufer; nun folgte Gretel.",
+        "Sie fanden ihren Vater wieder. Aus der Falle waren sie entkommen, weil sie einander nicht aufgegeben hatten."
+      ],
+      "sprechtexte": {
+        "1": [
+          "Die weißen Kiesel zeigen uns im Mondlicht den Heimweg."
+        ]
+      }
+    },
+    {
+      "basis": "kalif-storch-12",
+      "erzaehler": [
+        "",
+        "Das Pulver hatte eine Bedingung: Während des Zaubers durften sie nicht lachen. Zur Rückkehr brauchten sie das Zauberwort.",
+        "",
+        "Über den Tanz der anderen Vögel mussten sie lachen. Damit brachen sie die Warnung des Händlers.",
+        "",
+        "Ohne das vergessene Wort blieben sie Störche. In einer Ruine trafen sie eine Eule, ebenfalls ein verzauberter Mensch.",
+        "",
+        "Chasid hatte der Eule sein Wort gegeben. Nun führte sie beide zum Versammlungsort des Zauberers.",
+        "",
+        "Unbemerkt hörten die drei zu. Als der Zauberer seine Falle erklärte, sprach er auch das vergessene Rückwort aus.",
+        "",
+        "Mit dem Wort hatten alle drei ihre menschliche Gestalt zurückgewonnen. Die Eule war eine Königstochter. Gemeinsam kehrten sie heim."
+      ],
+      "sprechtexte": {
+        "11": [
+          "Ich bin wieder ein Mensch. Und mein Versprechen bleibt."
+        ]
+      }
+    },
+    {
+      "basis": "frau-holle-zwei-wege-12",
+      "erzaehler": [
+        "",
+        "Sie sprang der verlorenen Spule nach und gelangte in eine andere Welt. Dort zog sie die Brote rechtzeitig aus dem Ofen.",
+        "Auch dem schwer beladenen Apfelbaum half sie. Auf ihrem Weg hörte sie hin, wo jemand sie brauchte.",
+        "Bei Frau Holle blieb sie im Dienst. Wenn sie die Betten kräftig schüttelte, schneite es auf der Erde.",
+        "",
+        "Zum Abschied bekam sie ihre Spule zurück. Unter dem Tor fiel Gold auf sie: der Lohn für ihre geleistete Arbeit.",
+        "",
+        "Die zweite Schwester suchte denselben Lohn. Doch am Ofen ging sie vorbei und ließ die Brote im heißen Ofen liegen.",
+        "",
+        "Auch bei Frau Holle ließ sie die Arbeit bald liegen. Trotzdem wartete sie auf die gleiche Belohnung.",
+        "",
+        "Die eine brachte Gold, die andere Pech heim. Sie waren denselben Weg gegangen, hatten aber nicht dasselbe getan."
+      ],
+      "sprechtexte": {
+        "1": [
+          "Die Spule ist im Brunnen? Dann hol sie zurück!"
+        ]
+      }
+    },
+    {
+      "basis": "sterntaler-8",
+      "erzaehler": [
+        "Das Mädchen hatte keine Eltern mehr. Ein Stück Brot und wenige Kleider waren alles, was es besaß.",
+        "Als es einem hungrigen Mann begegnete, gab es ihm sein einziges Brot. Es behielt nichts davon zurück.",
+        "",
+        "Ein weiteres Kind fror. Auch das Leibchen gab das Mädchen fort; selbst trug es nun eine Schicht weniger.",
+        "",
+        "Im dunklen Wald verschenkte es auch sein letztes Hemd. Nun hatte es keines seiner eigenen Kleidungsstücke mehr.",
+        "Da geschah das Wunder des Märchens: Sterne fielen vom Himmel und wurden zu Talern.",
+        "Zugleich trug das Mädchen ein neues feines Hemd. Darin sammelte es die Taler, die ihm ein gesichertes Leben ermöglichten."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "rumpelstilzchen-14",
+      "erzaehler": [
+        "",
+        "Der König verlangte Gold und sperrte die Müllerstochter ein. Ein kleines Wesen versprach Hilfe gegen ihre Halskette.",
+        "Am Morgen war das Stroh zu Gold geworden. Doch der König ließ sie nicht frei: Nun verlangte er noch mehr.",
+        "In der zweiten Nacht bezahlte sie mit ihrem Ring. Danach besaß sie kein Schmuckstück mehr, das sie anbieten konnte.",
+        "",
+        "Auch das Stroh der dritten Nacht wurde zu Gold. Später, nach der Hochzeit, bekam sie ihr erstes Kind.",
+        "",
+        "Das Wesen gab ihr drei Tage Zeit. Erriet sie seinen Namen, durfte sie ihr Kind behalten. Die ersten Versuche scheiterten.",
+        "",
+        "Im Wald verriet das Wesen beim Singen seinen Namen. Der heimlich lauschende Bote erfuhr, dass es Rumpelstilzchen hieß.",
+        "",
+        "Am dritten Tag begann sie noch einmal mit einem falschen Namen. Doch diesmal kannte sie die Antwort.",
+        "",
+        "Der richtige Name löste das erzwungene Versprechen. Das Wesen verschwand im Zorn. Ihr Kind blieb bei ihr."
+      ],
+      "sprechtexte": {
+        "11": [
+          "Er heißt Rumpelstilzchen. Ich habe es selbst gehört."
+        ],
+        "9": [
+          "Suche weitere Namen – auch dort, wo sonst niemand fragt."
+        ]
+      }
+    },
+    {
+      "basis": "dornroeschen-12",
+      "erzaehler": [
+        "Zur Geburt der Königstochter waren zwölf weise Frauen eingeladen. Die dreizehnte hatte man übergangen.",
+        "Die übergangene Frau verfluchte das Kind: An einer Spindel sollte es sterben.",
+        "",
+        "Die Tochter wuchs heran. Trotz aller Vorsicht fand sie im Turm eine alte Spinnerin und deren Spindel.",
+        "Sie stach sich am Finger und sank in Schlaf. Der gemilderte Spruch war eingetreten: Sie war nicht tot.",
+        "Mit ihr schlief das ganze Schloss ein. Tätigkeiten, Gespräche und Bewegungen hielten mitten im Augenblick an.",
+        "Um das Schloss wuchs eine Dornenhecke. Draußen vergingen Generationen, während drinnen alles stillstand.",
+        "Genau als die hundert Jahre erfüllt waren, kam ein Königssohn. Vor ihm wurden die Dornen zu Blüten.",
+        "Er musste sich den Weg nicht erkämpfen. Durch den offenen Blütengang gelangte er ins schlafende Schloss.",
+        "Im Turm fand er die Königstochter. Er beugte sich zu ihr und küsste sie.",
+        "",
+        "Mit Dornröschen war das ganze Schloss erwacht. Die angehaltenen Tätigkeiten gingen weiter. Später feierten sie Hochzeit."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "rapunzel-turm-16",
+      "erzaehler": [
+        "Die Zauberin hielt Rapunzel in einem Turm ohne Tür. Nur ein Fenster verband sie mit der Welt draußen.",
+        "Für ihre Besuche ließ die Zauberin Rapunzels langen Zopf herab. Daran stieg sie in den Turm hinauf.",
+        "Ein Königssohn beobachtete den Aufstieg. So erfuhr er, wie sich das unerreichbare Fenster erreichen ließ.",
+        "Als die Zauberin fort war, versuchte er denselben Weg. Rapunzel ließ ihn an ihrem Haar hinaufsteigen.",
+        "",
+        "Gemeinsam planten sie eine Leiter aus Seide. Bei jedem Besuch brachte er ein Stück; noch reichte die Leiter nicht bis zum Boden.",
+        "",
+        "Die Zauberin hatte die Treffen entdeckt. Sie schnitt Rapunzels Haar ab, bevor die geplante Flucht gelingen konnte.",
+        "Die Zauberin brachte Rapunzel in eine Einöde. Der Königssohn wusste nicht, wo sie war.",
+        "Mit dem abgeschnittenen Zopf lockte die Zauberin den Königssohn hinauf. Er wusste nicht, dass Rapunzel fort war.",
+        "",
+        "Verzweifelt sprang er aus dem Turm. In den Dornen verlor er sein Augenlicht; Rapunzel fand er dort nicht.",
+        "Lange wanderte er blind durch die Welt. Vom Turm fortzukommen hatte noch nicht bedeutet, einander wiederzufinden.",
+        "Dann hörte er eine vertraute Stimme. Obwohl er nichts sah, erkannte er Rapunzel.",
+        "",
+        "Ihre Tränen hatten ihm das Augenlicht zurückgegeben. Gemeinsam gingen sie weiter; kein Turm trennte sie mehr."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "schneiderlein-riesen-12",
+      "erzaehler": [
+        "Sieben Fliegen hatte der Schneider mit einem Schlag getroffen. Noch wusste niemand von seiner angeblichen Stärke.",
+        "Mit dem Spruch Sieben auf einen Streich auf dem Gürtel zog er los. Er nahm Käse und einen kleinen Vogel mit.",
+        "",
+        "Der Riese hielt die sieben für Männer. Um seine Kraft zu zeigen, zerdrückte er einen echten Stein in der Faust.",
+        "",
+        "Beim Wettwerfen ließ der Schneider seinen Vogel fliegen. Der Riese hielt ihn für einen Stein, der nicht mehr herunterkam.",
+        "",
+        "Am Abend bot der Riese ihm ein gewaltiges Bett an. Für den kleinen Schneider war es viel zu groß.",
+        "Statt ins Bett legte er sich in eine geschützte Nische. Der Riese bemerkte den Wechsel nicht.",
+        "In der Nacht zerschlug der Riese das leere Bett. Er glaubte, seinen Gast damit beseitigt zu haben.",
+        "",
+        "Als der Schneider unversehrt auftauchte, flohen die Riesen. Er zog weiter: Größer geworden war sein Ruf, nicht seine Kraft."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "jorinde-joringel-12",
+      "erzaehler": [
+        "Jorinde und Joringel kamen einem verwunschenen Schloss zu nahe. Sie wussten nicht, wo der Bann der Zauberin begann.",
+        "Die Zauberin verwandelte Jorinde in eine Nachtigall. Joringel erstarrte und konnte nicht verhindern, dass sie fortgetragen wurde.",
+        "Jorinde war nicht die Einzige. In den Käfigen des Schlosses lebten viele verwandelte junge Frauen als Vögel.",
+        "Als der Bann von ihm wich, musste Joringel allein fort. Jorinde blieb im Schloss gefangen.",
+        "Im Traum sah er eine rote Blume mit einem hellen Tropfen. Ihre Berührung sollte den Zauber brechen können.",
+        "Lange suchte er nach dieser einen Blume. Eine gewöhnliche rote Blüte hätte nicht genügt.",
+        "",
+        "Mit der gefundenen Blume kehrte er zurück. Diesmal konnte die Zauberin ihn nicht bewegungslos machen.",
+        "Die Zauberin versuchte, Jorindes Käfig heimlich fortzutragen. Joringel erkannte ihn und folgte ihr.",
+        "Als er den Käfig mit der Blume berührte, erhielt Jorinde ihre menschliche Gestalt zurück. Der Käfig war leer.",
+        "Doch er hörte nicht auf, als Jorinde frei war. Auch die anderen Gefangenen sollten wieder Menschen werden.",
+        "Er löste auch ihren Zauber. Gemeinsam verließen die Befreiten das Schloss; niemand musste in seinem Käfig zurückbleiben."
+      ],
+      "sprechtexte": {}
+    }
+  ]
+}

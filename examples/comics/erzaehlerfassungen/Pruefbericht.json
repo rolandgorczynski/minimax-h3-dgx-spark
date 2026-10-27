@@ -1,0 +1,261 @@
+{
+  "rule": "Kacheln 2, 4, 6 usw. erhalten nur Erzählertext. Übrige Kacheln enthalten entweder gesprochene Sprechblasen oder, falls kein Dialog vorliegt, nur Erzählertext. Nie beides in derselben Kachel.",
+  "reviewed_by": "Codex",
+  "images_generated": false,
+  "stories": [
+    {
+      "title": "Die Bremer Stadtmusikanten · Erzählerfassung",
+      "basis": "bremer-stadtmusikanten-10",
+      "definition": "bremer-stadtmusikanten-10-erzaehler.json",
+      "text": "bremer-stadtmusikanten-10-erzaehler.txt",
+      "count": 10,
+      "narrator_panels": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "spoken_panels": [
+        1,
+        3,
+        5,
+        7,
+        9
+      ],
+      "warnings": [],
+      "max_caption_length": 117
+    },
+    {
+      "title": "Hänsel und Gretel – Hinter dem süßen Haus · Erzählerfassung",
+      "basis": "haensel-gretel-16",
+      "definition": "haensel-gretel-16-erzaehler.json",
+      "text": "haensel-gretel-16-erzaehler.txt",
+      "count": 16,
+      "narrator_panels": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        15,
+        16
+      ],
+      "spoken_panels": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 119
+    },
+    {
+      "title": "Kalif Storch – Das vergessene Zauberwort · Erzählerfassung",
+      "basis": "kalif-storch-12",
+      "definition": "kalif-storch-12-erzaehler.json",
+      "text": "kalif-storch-12-erzaehler.txt",
+      "count": 12,
+      "narrator_panels": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 131
+    },
+    {
+      "title": "Frau Holle – Zwei Wege durch den Brunnen · Erzählerfassung",
+      "basis": "frau-holle-zwei-wege-12",
+      "definition": "frau-holle-zwei-wege-12-erzaehler.json",
+      "text": "frau-holle-zwei-wege-12-erzaehler.txt",
+      "count": 12,
+      "narrator_panels": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        5,
+        7,
+        9,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 119
+    },
+    {
+      "title": "Die Sterntaler – Das letzte Stück Brot · Erzählerfassung",
+      "basis": "sterntaler-8",
+      "definition": "sterntaler-8-erzaehler.json",
+      "text": "sterntaler-8-erzaehler.txt",
+      "count": 8,
+      "narrator_panels": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      "spoken_panels": [
+        3,
+        5
+      ],
+      "warnings": [],
+      "max_caption_length": 121
+    },
+    {
+      "title": "Rumpelstilzchen – Drei Tage für einen Namen · Erzählerfassung",
+      "basis": "rumpelstilzchen-14",
+      "definition": "rumpelstilzchen-14-erzaehler.json",
+      "text": "rumpelstilzchen-14-erzaehler.txt",
+      "count": 14,
+      "narrator_panels": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 121
+    },
+    {
+      "title": "Dornröschen – Hundert Jahre hinter den Dornen · Erzählerfassung",
+      "basis": "dornroeschen-12",
+      "definition": "dornroeschen-12-erzaehler.json",
+      "text": "dornroeschen-12-erzaehler.txt",
+      "count": 12,
+      "narrator_panels": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        3,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 120
+    },
+    {
+      "title": "Rapunzel – Der Turm ohne Tür · Erzählerfassung",
+      "basis": "rapunzel-turm-16",
+      "definition": "rapunzel-turm-16-erzaehler.json",
+      "text": "rapunzel-turm-16-erzaehler.txt",
+      "count": 16,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        16
+      ],
+      "spoken_panels": [
+        5,
+        7,
+        11,
+        15
+      ],
+      "warnings": [],
+      "max_caption_length": 128
+    },
+    {
+      "title": "Das tapfere Schneiderlein – Sieben auf einen Streich · Erzählerfassung",
+      "basis": "schneiderlein-riesen-12",
+      "definition": "schneiderlein-riesen-12-erzaehler.json",
+      "text": "schneiderlein-riesen-12-erzaehler.txt",
+      "count": 12,
+      "narrator_panels": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        3,
+        5,
+        7,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 123
+    },
+    {
+      "title": "Jorinde und Joringel – Die Blume gegen den Bann · Erzählerfassung",
+      "basis": "jorinde-joringel-12",
+      "definition": "jorinde-joringel-12-erzaehler.json",
+      "text": "jorinde-joringel-12-erzaehler.txt",
+      "count": 12,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        7
+      ],
+      "warnings": [],
+      "max_caption_length": 129
+    }
+  ]
+}

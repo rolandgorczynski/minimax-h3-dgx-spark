@@ -1,0 +1,147 @@
+TITEL: Das tapfere Schneiderlein – Sieben auf einen Streich · Erzählerfassung
+AUTOR: 
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Schneiderlein
+Aussehen: Kleiner schlanker erwachsener Mann mit kurzem braunem Haar und schmalem Schnurrbart. Keine Muskelverwandlung.
+Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.
+Persönlichkeit und Vorgeschichte: Hat sieben Fliegen erschlagen. Überlebt durch List und die falsche Deutung seines Gürtels, nicht durch übermenschliche Stärke.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Riese am Berg
+Aussehen: Sehr großer kräftiger erwachsener Mann mit struppigem schwarzem Bart und buschigen Brauen.
+Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.
+Persönlichkeit und Vorgeschichte: Hält die sieben Fliegen für sieben Männer und überschätzt den Schneider. Seine Schlussangst folgt aus dem eigenen Irrtum.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kleiner Vogel
+Aussehen: Ein kleiner brauner Singvogel mit hellem Bauch, zwei Flügeln und zwei Beinen.
+Kleidung: Natürliches braunes Gefieder; keine Kleidung und kein Zaumzeug.
+Persönlichkeit und Vorgeschichte: Wird lebend mitgenommen und als angeblicher Wurfstein freigelassen. Bleibt danach frei und kehrt nicht in die Tasche zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Was sieben wirklich bedeutet
+Ort und Zeit: Schneiderwerkstatt
+Sichtbare Figuren: Schneiderlein
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nahe auf Tisch und Hand: genau sieben kleine tote Fliegen neben einem bestrichenen Brot, darüber das Tuch nach dem Schlag. Der Schneider sitzt unverändert klein dahinter. Keine menschlichen Opfer, keine Waffe, keine blutige Fliegenzerlegung. Verbindliche Zustände: Schneiderlein: Ort: links am Arbeitstisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Tuch in der rechten Hand; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sieben Fliegen hatte der Schneider mit einem Schlag getroffen. Noch wusste niemand von seiner angeblichen Stärke.
+Dialoge: keine
+Kontinuität / Änderung: Der Schlag ist vorüber. Die sieben Getroffenen sind ausschließlich Fliegen. Gürtelaufschrift entsteht erst nach diesem Ereignis.
+
+KACHEL 2: Ein Ruf zum Umbinden
+Ort und Zeit: Tür der Werkstatt, vor dem Aufbruch
+Sichtbare Figuren: Schneiderlein, Kleiner Vogel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Schneider mit breitem noch unbeschriftetem Gürtel, einer Käseecke rechts und einem kleinen lebenden Vogel im offenen linken Beutel. Keine Steine als Reisevorrat. Die Aufschrift wird durch den Erzähler wiedergegeben, nicht als Bildmodellschrift. Verbindliche Zustände: Schneiderlein: Ort: mittig im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Stück weicher Käse rechts; linker Beutel mit Vogel; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kleiner Vogel: Ort: im offenen linken Beutel des Schneiders; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches braunes Gefieder; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit dem Spruch Sieben auf einen Streich auf dem Gürtel zog er los. Er nahm Käse und einen kleinen Vogel mit.
+Dialoge: keine
+Kontinuität / Änderung: Genau ein Stück Käse und ein Vogel werden mitgenommen. Gürteltext später setzen; kein Versuch, lesbare Buchstaben vom Bildmodell malen zu lassen.
+
+KACHEL 3: Die falsche Zahl
+Ort und Zeit: Bergweg bei einem Felsen
+Sichtbare Figuren: Schneiderlein, Riese am Berg
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Untersicht vom Schneider. Riese rechts beugt sich zum Gürtel, Schneider links richtet die Weste. Beide Füße auf dem Boden, kein Schneider auf den Schultern des Riesen. Ein kurzer Fragewechsel; der Leser kennt den verschwiegenden Maßstab. Verbindliche Zustände: Schneiderlein: Ort: links vor dem Riesen; Körperhaltung: stehend; Mitgeführte Gegenstände: Käse im rechten Beutel; Vogel im linken Beutel; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts über dem Schneider; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Riese am Berg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sieben Männer?“
+Dialog 2:
+  Sprecher: Schneiderlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Auf einen Streich.“
+Kontinuität / Änderung: Der Riese deutet die Aufschrift falsch; der Schneider bestätigt nicht ausdrücklich die Tötung von Männern. Er bleibt körperlich klein.
+
+KACHEL 4: Der Stein in der Faust
+Ort und Zeit: Derselbe Bergweg
+Sichtbare Figuren: Riese am Berg, Schneiderlein
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe auf die riesige rechte Faust: bröckelnder echter Stein und feiner Staub. Schneider links schaut zu, beide Hände noch unten. Sein Käse bleibt verborgen, kein zuvor zerquetschter zweiter Käse auf dem Boden. Verbindliche Zustände: Schneiderlein: Ort: links unterhalb; Körperhaltung: stehend; Mitgeführte Gegenstände: Käse im rechten Beutel; Vogel im linken Beutel; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts am Felsen; Körperhaltung: stehend; Mitgeführte Gegenstände: ein zerdrückter Stein in der rechten Faust; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Riese hielt die sieben für Männer. Um seine Kraft zu zeigen, zerdrückte er einen echten Stein in der Faust.
+Dialoge: keine
+Kontinuität / Änderung: Echter Stein gehört dem Riesen. Der Schneider führt im nächsten Moment einen anderen Gegenstand vor, keinen heimlich weich gewordenen Stein.
+
+KACHEL 5: Weich gewinnt gegen hart
+Ort und Zeit: Am selben Felsen, Schneiders Antwort
+Sichtbare Figuren: Schneiderlein, Riese am Berg
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Detail auf die kleine Faust. Aus eindeutig weichem Käse tropft Feuchtigkeit; für den Leser Struktur und Farbe sichtbar, aus Sicht des Riesen Hand darüber. Kein zerbrochener Fels in Schneiders Hand. Riese staunt, ohne selber noch zu drücken. Verbindliche Zustände: Schneiderlein: Ort: links vorn; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Stück weicher Käse in der rechten Faust; Vogel im linken Beutel; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts dahinter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Schneiderlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bei meinem kommt sogar Wasser heraus.“
+Kontinuität / Änderung: Der Riese hat die Steinbrösel abgeworfen. Käse wird aus dem Beutel genommen, nicht ein Felsen verwandelt. Verbrauchter Käse bleibt danach zurück, nur der Vogel reist weiter.
+
+KACHEL 6: Der Wurf, der nicht zurückkommt
+Ort und Zeit: Offener Himmel über dem Berg
+Sichtbare Figuren: Schneiderlein, Riese am Berg, Kleiner Vogel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Ansicht. Kleiner brauner Vogel fliegt hoch links davon, Schneiderhand bereits geöffnet, Riese sucht den angeblichen Stein am Himmel. Kein Vogel mehr im Beutel, kein zweiter am Himmel. Ein runder echter Wurfstein des Riesen liegt weit unten am Boden. Verbindliche Zustände: Schneiderlein: Ort: links mit erhobener leerer rechter Hand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; beide Beutel nach dem Freilassen leer; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts mit Blick nach oben; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kleiner Vogel: Ort: oben links vom Schneider weg; Körperhaltung: mit zwei ausgebreiteten Flügeln im Flug; Mitgeführte Gegenstände: leere Hände; Kleidung: Natürliches braunes Gefieder; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Beim Wettwerfen ließ der Schneider seinen Vogel fliegen. Der Riese hielt ihn für einen Stein, der nicht mehr herunterkam.
+Dialoge: keine
+Kontinuität / Änderung: Nach dem Steinwurf des Riesen lässt Schneider statt eines Steins ausdrücklich den Vogel frei. Vogel bleibt künftig frei außerhalb des Bildes; Käse ist zurückgelassen.
+
+KACHEL 7: Der stärkste Platz im Baum
+Ort und Zeit: Waldweg mit gefälltem Baum
+Sichtbare Figuren: Riese am Berg, Schneiderlein
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Seitliche Totale. Ein gefällter Baum, Riese rechts hebt dessen Stamm und trägt die gesamte Last. Schneider sitzt links leicht in der mitgetragenen Krone. Kein zweiter Baum, keine unsichtbare Hand des Schneiders unter dem Stamm. Verbindliche Zustände: Schneiderlein: Ort: links in der Krone desselben Baums; Körperhaltung: zwischen den Ästen sitzend; Mitgeführte Gegenstände: beide Hände halten einen Ast; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts unter dem Stamm; Körperhaltung: vornübergehend unter der Last; Mitgeführte Gegenstände: beide Hände tragen den einen Baumstamm; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Schneiderlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich nehme die Äste.“
+Kontinuität / Änderung: Schneider steigt vor dem Anheben in die Äste. Er trägt keine Last und besitzt weiterhin keine Riesenkraft. Nicht zugleich am Boden neben der Krone zeigen.
+
+KACHEL 8: Ein Bett für den falschen Maßstab
+Ort und Zeit: Riesenhöhle am Abend
+Sichtbare Figuren: Schneiderlein, Riese am Berg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Ein riesiges Bett vorn, kleiner Schneider zu Fuß daneben. Riese weist darauf, eine schmale trockene Nische hinten links bleibt sichtbar. Kein Baum mehr mitgeführt. Beide Hände des Schneiders leer. Verbindliche Zustände: Schneiderlein: Ort: links neben dem übergroßen Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts im Höhleneingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am Abend bot der Riese ihm ein gewaltiges Bett an. Für den kleinen Schneider war es viel zu groß.
+Dialoge: keine
+Kontinuität / Änderung: Baum wurde vor der Höhle abgelegt, Schneider ist aus den Ästen gestiegen. Das Bett ist noch leer und wird es nachts bleiben.
+
+KACHEL 9: Eine kleine Ecke reicht
+Ort und Zeit: Riesenhöhle vor dem nächtlichen Angriff
+Sichtbare Figuren: Schneiderlein
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Stille Übersicht. Kleiner Schneider schläft wirklich links in der Nische, grüner Westenrand und heller Gürtel erkennbar. Großes Bett rechts bleibt vollständig leer, Decke flach. Keine Schneiderattrappe unter der Decke und kein zweiter Schlafender. Verbindliche Zustände: Schneiderlein: Ort: links in der schmalen Nische; Körperhaltung: zusammengerollt schlafend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Statt ins Bett legte er sich in eine geschützte Nische. Der Riese bemerkte den Wechsel nicht.
+Dialoge: keine
+Kontinuität / Änderung: Schneider hat das übergroße Bett nicht benutzt. Sein wirklicher Schlafplatz liegt außerhalb der späteren Schlagbahn.
+
+KACHEL 10: Der falsche Treffer
+Ort und Zeit: Riesenhöhle mitten in der Nacht
+Sichtbare Figuren: Riese am Berg, Schneiderlein
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite räumliche Orientierung wie zuvor. Rechts zerstörtes leeres Bett nach dem Keulenschlag, links unverletzter kleiner Schneider in seiner getrennten Nische. Keine offene Wunde, kein unter Holzsplittern liegender Schneider. Eine einzige Keule in zwei Riesenhänden. Verbindliche Zustände: Schneiderlein: Ort: links tief in der geschützten Nische; Körperhaltung: zusammengerollt schlafend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts am großen Bett; Körperhaltung: nach einem Schlag vorgebeugt; Mitgeführte Gegenstände: eine Holzkeule in beiden Händen; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In der Nacht zerschlug der Riese das leere Bett. Er glaubte, seinen Gast damit beseitigt zu haben.
+Dialoge: keine
+Kontinuität / Änderung: Riese schlägt auf das leere Bett und irrt über den Erfolg. Schneider bleibt außerhalb der Schlagbahn unversehrt; keine magische Wiederauferstehung am Morgen.
+
+KACHEL 11: Ein sehr gewöhnlicher Morgen
+Ort und Zeit: Vor der Riesenhöhle bei Sonnenaufgang
+Sichtbare Figuren: Schneiderlein, Riese am Berg
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Schneider klein links, unverletzt und verschlafen mit erhobenen Armen. Derselbe Riese rechts flieht, weitere Riesen nur kleine unbenannte fliehende Hintergrundgestalten. Holzkeule bleibt in der Höhle, kein Schwert und kein Angriff des Schneiders. Verbindliche Zustände: Schneiderlein: Ort: links vor dem Eingang; Körperhaltung: sich streckend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Riese am Berg: Ort: rechts vom Eingang weglaufend; Körperhaltung: im Lauf zurückblickend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobes graues Hemd, braune Hose und große Lederstiefel. Eine Holzkeule erst nachts am Bett.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Schneiderlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Schon alle wach?“
+Kontinuität / Änderung: Riesen sehen ihn unverletzt und fliehen aus Angst vor der eingebildeten Kraft. Der Gürtel täuscht weiterhin, die Körpergröße ändert sich nicht.
+
+KACHEL 12: Was wirklich getragen hat
+Ort und Zeit: Weg hinter dem Berg, später am Morgen
+Sichtbare Figuren: Schneiderlein
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Schlussansicht. Kleiner Schneider allein zu Fuß in gleicher grüner Weste und mit breitem Gürtel, heller Weg vor ihm. Kein Vogel im Beutel, kein neues Käsepaket, keine Krone. Nicht als riesiger Schatten mit echten Muskeln darstellen. Verbindliche Zustände: Schneiderlein: Ort: mittig auf dem Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; beide Beutel leer; Kleidung: Helles Hemd, grüne Weste, braune Hose, Lederschuhe. Breiter heller Gürtel, dessen Aufschrift später gesetzt wird.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Als der Schneider unversehrt auftauchte, flohen die Riesen. Er zog weiter: Größer geworden war sein Ruf, nicht seine Kraft.
+Dialoge: keine
+Kontinuität / Änderung: Ende nach der Riesenhöhle. Keine späteren Königsaufgaben, kein Einhorn und kein Wildschwein. Die listige Täuschung bleibt für den Leser durchschaubar.
+

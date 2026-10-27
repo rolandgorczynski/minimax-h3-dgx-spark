@@ -116,3 +116,11 @@ Prüfung des aktuellen Stands: Der Fertig-Filter zeigt 90 Quellen. Die vier zule
 Die Vorlagenauswahl unter „Buch oder Film als Comic-Vorlage“ zeigt standardmäßig nur Quellen mit einem bereits gespeicherten fertigen Skript. Über „Unfertige anzeigen“ lassen sich die übrigen aktiven Quellen einblenden. Kategorie-, Sammlungs- und Suchzahlen beziehen sich auf die sichtbare Auswahl. Zurückgestellte Quellen bleiben zurückgestellt. In Schritt 2 werden ebenfalls fertige Skripte angezeigt; die aktuell geöffnete Geschichte bleibt zum Bearbeiten erreichbar.
 
 Bereitschaft bedeutet: Szenen vorhanden, Ausgangstext und geplante Kachelanzahl stimmen weiterhin mit dem Skript überein. Ein noch offener Bildstil verhindert die Anzeige nicht. Neue fertige Skripte stehen nach Neuladen der Auswahl zur Verfügung; Änderungen und Löschungen werden aus den gespeicherten Geschichten abgeleitet, nicht aus einer fest eingebauten Liste.
+
+## Separater Test: zehn Erzählerfassungen (27. Oktober 2026)
+
+Zehn vorhandene Stoffe als neue Geschichten mit dem Titelzusatz „Erzählerfassung“ vorbereitet und importiert. Insgesamt 124 Kacheln; gerade Kacheln ausschließlich mit Erzählertext, übrige Kacheln mit Dialog oder, ohne Dialog, ebenfalls mit Erzähler. Kein Erzähler und Dialog zugleich. Zehn Beschriftungsprüfungen ohne ungelöste Kacheln. Keine Bilder erzeugt; bisherige Skripte nicht überschrieben.
+
+[Auswahl und technische Prüfberichte](../examples/comics/erzaehlerfassungen/README.md) · [Alle Texte kompakt lesen](Comic_Erzaehlerfassungen_10.md).
+
+Diese Varianten ändern den Stand **90 von 382** der allgemeinen Skriptvorarbeit nicht. Deren Warteschlange bleibt pausiert.

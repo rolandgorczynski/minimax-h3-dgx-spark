@@ -121,3 +121,7 @@ Alle folgenden Skripte sind bereits als eigene bearbeitbare Geschichten unter **
 | Von Drachen und Lindwürmen | 12 | [Text](drachen-lindwuermer-grube-12.txt) | [JSON](drachen-lindwuermer-grube-12.json) |
 | Winkelried und der Lindwurm | 12 | [Text](winkelried-lindwurm-12.txt) | [JSON](winkelried-lindwurm-12.json) |
 | Kastelen-Alpe | 12 | [Text](kastelen-alpe-12.txt) | [JSON](kastelen-alpe-12.json) |
+
+## Zehn zusätzliche Erzählerfassungen
+
+Für den Test einer stärkeren Erzählerführung gibt es [zehn separat importierte Erzählerfassungen](../erzaehlerfassungen/README.md): jede zweite Kachel mit Erzähler, Erzähler und Dialog nie gleichzeitig in derselben Kachel. Kacheln ohne Dialog erhalten ebenfalls Erzählertext. Die bisherigen Skripte bleiben erhalten.

@@ -1,0 +1,162 @@
+TITEL: Dornröschen – Hundert Jahre hinter den Dornen · Erzählerfassung
+AUTOR: 
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Dornröschen
+Aussehen: Dieselbe Königstochter: zuerst Baby mit braunem Haarflaum, später junge Frau mit langem braunem Haar. Während der hundertjährigen Zauberzeit unverändert jung.
+Kleidung: Als Baby helles Wickeltuch. Später schlichtes hellblaues Kleid und braune Schuhe; zur Hochzeit ein helles festliches Kleid. Keine modernen Filmkostüme.
+Persönlichkeit und Vorgeschichte: Wird von Fluch und gemildertem Spruch betroffen. Erwacht nach erfüllter Frist, nicht durch vorzeitigen Sieg eines Kämpfers.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dornröschens Vater
+Aussehen: Erwachsener Mann mit kurzem braunem, später graumeliertem Bart und ruhigem Gesicht.
+Kleidung: Dunkelblaues Hofgewand und schlichte goldene Königskrone.
+Persönlichkeit und Vorgeschichte: Lädt zwölf weise Frauen ein und versucht, den Spindelfluch zu verhindern. Schläft mit dem Schloss, altert im Zauberschlaf nicht weiter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dornröschens Mutter
+Aussehen: Erwachsene Frau mit langem dunkelbraunem geflochtenem Haar und ovalem Gesicht.
+Kleidung: Weinrotes Hofkleid und schmaler goldener Haarreif.
+Persönlichkeit und Vorgeschichte: Mutter der Königstochter. Gehört zur selben schlafenden Hofgemeinschaft, keine neue Frau hundert Jahre später.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Nicht eingeladene weise Frau
+Aussehen: Ältere Frau mit strengem schmalem Gesicht und grauem Haar unter dunklem Tuch.
+Kleidung: Dunkelviolettes langes Gewand und grauer Umhang, kein moderner Feenstab.
+Persönlichkeit und Vorgeschichte: Dreizehnte weise Frau, die wegen der fehlenden Einladung einen Todesfluch ausspricht. Nur eine von ihr, keine zusätzliche namensgleiche Filmfigur.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Mildernde weise Frau
+Aussehen: Erwachsene Frau mit hellem zurückgebundenem Haar, ruhigem breitem Gesicht.
+Kleidung: Grünes langes Gewand und heller Umhang. Kein Feenstab.
+Persönlichkeit und Vorgeschichte: Letzte noch nicht zu Wort gekommene Eingeladene. Kann den Todesspruch zum Schlaf mildern, ihn aber nicht völlig aufheben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alte Spinnerin im Turm
+Aussehen: Sehr alte Frau mit weißem Haar unter heller Haube und faltigem freundlichem Gesicht.
+Kleidung: Graues einfaches Kleid und dunkle Schürze. Ein Spinnrad mit Spindel.
+Persönlichkeit und Vorgeschichte: Arbeitet in der abgelegenen Turmstube. Nicht als verkleidete Fluchsprecherin behaupten; Quelle bezeichnet sie als alte Spinnerin.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königssohn nach der erfüllten Frist
+Aussehen: Junger erwachsener Mann mit kurzem dunkelblondem Haar und bartlosem Gesicht.
+Kleidung: Brauner Reisemantel, helles Hemd, dunkelgrüne Hose und Stiefel. Keine gezogene Waffe.
+Persönlichkeit und Vorgeschichte: Kommt genau nach Ablauf der hundert Jahre. Die Hecke öffnet sich, ohne von ihm zerstört werden zu müssen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Platz fehlt
+Ort und Zeit: Königliches Geburtsfest
+Sichtbare Figuren: Dornröschen, Dornröschens Mutter, Dornröschens Vater, Mildernde weise Frau
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Festtafel mit zwölf goldenen Gedecken für die weisen Frauen, die meisten Gäste nur unbenannte Hintergrundgestalten. Königin hält ein Baby, Vater daneben, mildernde Frau rechts erkennbar. Kein erwachsenes Dornröschen zusätzlich auf einem Stuhl. Verbindliche Zustände: Dornröschen: Ort: in den Armen der Königin; Körperhaltung: als Baby im Arm liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Wickeltuch; Baby; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Vater: Ort: mittig an der Tafel; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Mutter: Ort: links neben der Festtafel; Körperhaltung: sitzend; Mitgeführte Gegenstände: das eine Baby im Arm; Kleidung: Weinrotes Hofkleid und schmaler goldener Haarreif.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mildernde weise Frau: Ort: rechts als letzte der eingeladenen weisen Frauen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Gewand und heller Umhang. Kein Feenstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Zur Geburt der Königstochter waren zwölf weise Frauen eingeladen. Die dreizehnte hatte man übergangen.
+Dialoge: keine
+Kontinuität / Änderung: Geburt und Auswahl der Gäste. Nur Fluchsprecherin und mildernde Frau brauchen feste Profile. Keine erfundenen Feennamen oder Filmfiguren.
+
+KACHEL 2: Ein Spruch aus Kränkung
+Ort und Zeit: Festsaal beim Eintreten der übergangenen Frau
+Sichtbare Figuren: Nicht eingeladene weise Frau, Dornröschens Mutter, Dornröschen, Dornröschens Vater
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Nicht eingeladene Frau rechts am Eingang spricht, Mutter links schützt das eine Baby im Arm, Vater Mitte steht auf. Keine Spindel bereits in Babyhänden und kein Feuerzauber als zusätzliche Gewalt. Verbindliche Zustände: Dornröschen: Ort: in den Armen der Königin; Körperhaltung: als Baby liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Wickeltuch; Baby; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Vater: Ort: mittig am Tisch; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Mutter: Ort: links am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Baby im Arm; Kleidung: Weinrotes Hofkleid und schmaler goldener Haarreif.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nicht eingeladene weise Frau: Ort: rechts im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelviolettes langes Gewand und grauer Umhang, kein moderner Feenstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die übergangene Frau verfluchte das Kind: An einer Spindel sollte es sterben.
+Dialoge: keine
+Kontinuität / Änderung: Todesfluch vor der Milderung. Quelle als Märchenhandlung, nicht als kindliches Fehlverhalten. Spindel wird später erst von der herangewachsenen Tochter berührt.
+
+KACHEL 3: Was sich noch ändern lässt
+Ort und Zeit: Derselbe Festsaal unmittelbar nach dem Fluch
+Sichtbare Figuren: Mildernde weise Frau, Dornröschens Mutter, Dornröschen, Dornröschens Vater
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe. Eingeladene letzte weise Frau in Grün rechts, Eltern mit Baby links und Mitte. Kein zweites Baby und keine drei Zauberstäbe. Fluchsprecherin bereits aus dem Ausschnitt, keine sichtbar gestrichene schriftliche Prophezeiung. Verbindliche Zustände: Dornröschen: Ort: in den Armen der Königin; Körperhaltung: als Baby liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Wickeltuch; Baby; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Vater: Ort: mittig neben der Königin; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Mutter: Ort: links am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Baby im Arm; Kleidung: Weinrotes Hofkleid und schmaler goldener Haarreif.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mildernde weise Frau: Ort: rechts vor dem Königspaar; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes langes Gewand und heller Umhang. Kein Feenstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Mildernde weise Frau
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nicht Tod. Hundert Jahre Schlaf.“
+Kontinuität / Änderung: Noch nicht ausgesprochene letzte Gabe mildert den Spruch. Frist hundert Jahre, kein vollständiges sofortiges Aufheben. Spätere Maßnahmen des Königs entfernen Spindeln, aber nicht die Bedingung.
+
+KACHEL 4: Eine unbekannte Arbeit
+Ort und Zeit: Versteckte Turmstube viele Jahre später
+Sichtbare Figuren: Dornröschen, Alte Spinnerin im Turm
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Königstochter nun junge Frau mit langem braunem Haar im hellblauen Kleid, alte Spinnerin rechts an einem einzelnen Rad. Noch kein Schlaf und kein Blut. Fenster hoch, Stiege dahinter als realistischer Zugang, keine Filmspindel mit eigenem Gesicht. Verbindliche Zustände: Dornröschen: Ort: links neben dem Spinnrad; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand nahe der Spindel; Kleidung: Hellblaues Kleid und braune Schuhe; junge Frau unveränderten Alters; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alte Spinnerin im Turm: Ort: rechts am Rad; Körperhaltung: sitzend; Mitgeführte Gegenstände: beide Hände bei der Spinnarbeit; Kleidung: Graues einfaches Kleid und dunkle Schürze. Ein Spinnrad mit Spindel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Tochter wuchs heran. Trotz aller Vorsicht fand sie im Turm eine alte Spinnerin und deren Spindel.
+Dialoge: keine
+Kontinuität / Änderung: Deutlicher Zeitsprung vom Baby zur jungen Frau. Spinnerin ist nicht ohne Quellenbeleg dieselbe Person wie die Fluchsprecherin. Berührung erfolgt erst im nächsten Moment.
+
+KACHEL 5: Der Stich hält den Augenblick an
+Ort und Zeit: Dieselbe Turmstube nach der Berührung
+Sichtbare Figuren: Dornröschen, Alte Spinnerin im Turm
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Weite. Junge Frau links nach dem Fingerstich auf das vorhandene Bett gesunken, alte Spinnerin rechts schläft sitzend am stehenden Rad. Kein toter Körper und kein großes Loch im Finger. Spindel bleibt am Rad, nicht als zweites Messer in der Hand. Verbindliche Zustände: Dornröschen: Ort: links auf einem Bett an der Wand; Körperhaltung: auf dem Bett eingesunken liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Hellblaues Kleid und braune Schuhe; junge Frau unveränderten Alters; Fortbewegung: zu Fuß; Lebenszustand: lebend im Zauberschlaf, nicht tot; Verletzungen: kleiner Fingerstich, keine sichtbare Wunde. Alte Spinnerin im Turm: Ort: rechts neben dem Spinnrad; Körperhaltung: im Sitzen eingeschlafen; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues einfaches Kleid und dunkle Schürze. Ein Spinnrad mit Spindel.; Fortbewegung: zu Fuß; Lebenszustand: lebend im Zauberschlaf; Verletzungen: unverletzt.
+Erzählertext: Sie stach sich am Finger und sank in Schlaf. Der gemilderte Spruch war eingetreten: Sie war nicht tot.
+Dialoge: keine
+Kontinuität / Änderung: Berührung und Beginn des Zauberschlafs vollzogen. Prinzessin lebt. Der ganze Hof wird gleichzeitig erfasst; hundert Jahre beginnen jetzt, nicht schon bei der Geburt.
+
+KACHEL 6: Das Schloss schläft mit
+Ort und Zeit: Großer Saal im selben angehaltenen Moment
+Sichtbare Figuren: Dornröschens Vater, Dornröschens Mutter
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Saalansicht. Dasselbe Königspaar nun älter als beim Geburtsfest, schlafend auf zwei Stühlen. Diener mit Tablett nur unbenannte stille Hintergrundgestalt am Durchgang. Kein Baby mehr im Arm der Mutter, Prinzessin schläft weiterhin im Turmzimmer außerhalb. Verbindliche Zustände: Dornröschens Vater: Ort: links auf seinem Stuhl; Körperhaltung: eingeschlafen sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend im Zauberschlaf; Verletzungen: unverletzt. Dornröschens Mutter: Ort: rechts auf ihrem Stuhl; Körperhaltung: eingeschlafen sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes Hofkleid und schmaler goldener Haarreif.; Fortbewegung: zu Fuß; Lebenszustand: lebend im Zauberschlaf; Verletzungen: unverletzt.
+Erzählertext: Mit ihr schlief das ganze Schloss ein. Tätigkeiten, Gespräche und Bewegungen hielten mitten im Augenblick an.
+Dialoge: keine
+Kontinuität / Änderung: Alle Tätigkeiten halten an, Lebende werden nicht zu Toten. Königspaar vor dem Schlaf normal gealtert, im folgenden Zauberschlaf kein weiteres sichtbares Altern.
+
+KACHEL 7: Draußen wächst die Zeit
+Ort und Zeit: Außenansicht des eingeschlossenen Schlosses
+Sichtbare Figuren: keine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite stille Landschaft. Schloss vollständig von dichter hoher Dornenhecke umgeben. Gewachsene Stämme, alte Wege überwuchert, keine kämpfenden Prinzen oder Leichen im Geäst. Kein einzelner Schlossbewohner sichtbar, keine stehende Person als zweite schlafende Kopie.
+Erzählertext: Um das Schloss wuchs eine Dornenhecke. Draußen vergingen Generationen, während drinnen alles stillstand.
+Dialoge: keine
+Kontinuität / Änderung: Langer Zeitablauf nur draußen. Kein Film-Drache, keine unbeschriebene Zauberschlacht. Die Frist ist in diesem Bild noch nicht als vorzeitig überwunden zu behandeln.
+
+KACHEL 8: Die Frist ist erfüllt
+Ort und Zeit: Dornenhecke genau am Ende der hundert Jahre
+Sichtbare Figuren: Königssohn nach der erfüllten Frist
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite helle Ansicht. Junger Königssohn steht links auf festem Boden mit leeren Händen. Die Dornen unmittelbar vor ihm öffnen sich von selbst zu Blüten und einem Gang. Keine Axt, kein Schwert und kein von ihm gerade geschlagenes Loch. Verbindliche Zustände: Königssohn nach der erfüllten Frist: Ort: links vor der Hecke; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner Reisemantel, helles Hemd, dunkelgrüne Hose und Stiefel. Keine gezogene Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Genau als die hundert Jahre erfüllt waren, kam ein Königssohn. Vor ihm wurden die Dornen zu Blüten.
+Dialoge: keine
+Kontinuität / Änderung: Entscheidender Zeitpunkt vor dem Durchgang. Öffnung folgt dem Fristende, nicht seiner überlegenen Kampfkraft. Es wird keine noch wirksame Grenze gewaltsam gebrochen.
+
+KACHEL 9: Ein Weg statt eines Kampfes
+Ort und Zeit: Blühender Gang zum Schlosseingang
+Sichtbare Figuren: Königssohn nach der erfüllten Frist
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Rückenansicht. Mann geht ruhig durch einen offenen Blütengang, brauner Reisemantel und leere Hände. Schloss still vor ihm, keine überrannten Wachen. Die geschlossenen Dornen liegen seitlich, nicht bereits als von ihm getötetes Wesen auf dem Boden. Verbindliche Zustände: Königssohn nach der erfüllten Frist: Ort: mittig im geöffneten Blütengang; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner Reisemantel, helles Hemd, dunkelgrüne Hose und Stiefel. Keine gezogene Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er musste sich den Weg nicht erkämpfen. Durch den offenen Blütengang gelangte er ins schlafende Schloss.
+Dialoge: keine
+Kontinuität / Änderung: Königssohn betritt den freigegebenen Weg zu Fuß. Bewohner noch schlafend und unverändert jung beziehungsweise im Alter ihres Einschlafens.
+
+KACHEL 10: Die Schlafende
+Ort und Zeit: Turmzimmer nach dem Eintritt des Königssohns
+Sichtbare Figuren: Dornröschen, Königssohn nach der erfüllten Frist
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Dezente ruhige Halbnahe. Junge Frau unverändert im hellblauen Kleid, Mann rechts gibt einen kurzen Märchenkuss ohne weitere intime Handlung. Keine entblößten Körper, keine gealterte Schlafende und keine zweite stehende Prinzessin daneben. Verbindliche Zustände: Dornröschen: Ort: links auf demselben Bett; Körperhaltung: schlafend liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Hellblaues Kleid und braune Schuhe; junge Frau unveränderten Alters; Fortbewegung: zu Fuß; Lebenszustand: lebend im Zauberschlaf, nicht tot; Verletzungen: unverletzt. Königssohn nach der erfüllten Frist: Ort: rechts neben dem Bett; Körperhaltung: zum Gesicht vorgebeugt; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner Reisemantel, helles Hemd, dunkelgrüne Hose und Stiefel. Keine gezogene Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Turm fand er die Königstochter. Er beugte sich zu ihr und küsste sie.
+Dialoge: keine
+Kontinuität / Änderung: Frist bereits abgelaufen, ehe der Mann das Zimmer betritt. Märchenkuss der Vorlage bleibt knapp, kein modernes Heilversprechen und kein Kampf als Ursache der Befreiung.
+
+KACHEL 11: Der Augenblick geht weiter
+Ort und Zeit: Turmzimmer und offener Türdurchgang nach dem Erwachen
+Sichtbare Figuren: Dornröschen, Königssohn nach der erfüllten Frist
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe im selben Zimmer. Junge Frau nun wach sitzend, gleiche Kleidung und Haarlänge. Mann rechts steht mit offenen leeren Händen. Durch offene Tür nur unscharfe erwachende Bewegung, keine gleichzeitig andere Prinzessin im Saal. Spinnrad noch am alten Platz. Verbindliche Zustände: Dornröschen: Ort: links auf dem Bett; Körperhaltung: aufgerichtet sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Hellblaues Kleid und braune Schuhe; junge Frau unveränderten Alters; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königssohn nach der erfüllten Frist: Ort: rechts neben dem Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner Reisemantel, helles Hemd, dunkelgrüne Hose und Stiefel. Keine gezogene Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Dornröschen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du bist hier.“
+Kontinuität / Änderung: Nach Ende der Zauberzeit erwachen Prinzessin und Hof. Niemand ist wiederauferstanden, alle waren lebend im Schlaf. Kein zusätzliches Jahrhundert zwischen Kuss und Erwachen.
+
+KACHEL 12: Was wieder anfangen kann
+Ort und Zeit: Schlosssaal bei der späteren Hochzeit
+Sichtbare Figuren: Dornröschen, Königssohn nach der erfüllten Frist, Dornröschens Vater, Dornröschens Mutter
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite helle Saalansicht. Paar nun bewusst in Festkleidung, Eltern wach in ihren erhaltenen Hofgewändern. Normale Tischvorbereitung im Hintergrund, keine verfallenen hundertjährigen Körper. Kein Zauberwesen als besiegte Trophäe auf der Festtafel. Verbindliche Zustände: Dornröschen: Ort: links vor dem Königspaar; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles schlichtes festliches Kleid; unverändert junge Frau; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Vater: Ort: rechts im Saal; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte goldene Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dornröschens Mutter: Ort: rechts neben dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes Hofkleid und schmaler goldener Haarreif.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königssohn nach der erfüllten Frist: Ort: mittig neben ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles festliches Obergewand und dunkelgrüne Hose; kein Reisemantel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit Dornröschen war das ganze Schloss erwacht. Die angehaltenen Tätigkeiten gingen weiter. Später feierten sie Hochzeit.
+Dialoge: keine
+Kontinuität / Änderung: Spätere Hochzeit nach dem Erwachen, nicht gleichzeitig mit dem Schlaf. Ende erhält das Weitergehen des Lebens und die Bedeutung der erfüllten Frist.
+
