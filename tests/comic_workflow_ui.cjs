@@ -49,7 +49,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   assert.equal(await page.evaluate(()=>dirty),false);
   await page.locator('#render-show-unfinished').evaluate(el=>{el.checked=false;el.dispatchEvent(new Event('change',{bubbles:true}))});
   assert.equal(await page.locator('#render-story-list option').count(),2);
-  assert.equal(await page.locator('[data-script-input="own"]').innerText(),'Eigener Text');
+  assert.equal(await page.locator('[data-script-input="own"]').count(),0);
   await page.locator('#story-name').fill('Meine bearbeitete Geschichte');
   assert.equal(await page.evaluate(()=>localStorage.getItem('comic-last-edited-story-id')),sid);
   await page.click('#save-story');
