@@ -1,0 +1,243 @@
+TITEL: Das kalte Herz – Der Preis des Reichtums · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 18
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Peter Munk
+Aussehen: Junger erwachsener Mann mit kurzem dunklem Haar, schmalem Gesicht und rußigen Händen zu Beginn. Derselbe Körper vor und nach dem symbolischen Herztausch.
+Kleidung: Anfangs graue Köhlerjacke, braune Hose und Stiefel. Später dunkelblauer teurer Rock und helle Weste; am Ende schlichter brauner Rock.
+Persönlichkeit und Vorgeschichte: Verlangt nach Ansehen, gewinnt Besitz und verliert Mitgefühl. Gibt den Handel durch List zurück und muss danach seine Schuld fühlen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Glasmännlein
+Aussehen: Sehr kleiner erwachsener Mann mit freundlichem faltigem Gesicht und hellem kurzem Bart.
+Kleidung: Grüner feiner Rock und kleiner dunkler Hut. Ein schlichtes gläsernes Schutzzeichen für Peters Rückholung.
+Persönlichkeit und Vorgeschichte: Erfüllt Wünsche, warnt und hilft später zur Umkehr. Das Wiedersehen mit Lisbeth wird ausdrücklich als seine märchenhafte Hilfe erzählt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Holländer-Michel
+Aussehen: Riesiger breitschultriger erwachsener Mann mit langem dunklem Bart und schweren Augenbrauen.
+Kleidung: Dunkelbrauner langer Mantel, breiter Hut und grobe schwarze Stiefel. Keine Hörner und kein Schwert.
+Persönlichkeit und Vorgeschichte: Bietet Reichtum gegen ein lebendiges Herz. Bewahrt es in einem Glas auf und ersetzt es durch einen Stein; wird durch Peters List zur Rückgabe gebracht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Lisbeth Munk
+Aussehen: Junge erwachsene Frau mit braunem geflochtenem Haar und ovalem Gesicht.
+Kleidung: Dunkelrotes schlichtes Kleid und helle Schürze. Keine plötzliche neue Person nach dem märchenhaften Wiedersehen.
+Persönlichkeit und Vorgeschichte: Peters Frau. Wird durch sein gefühlloses Handeln geschädigt. Ihre spätere lebende Rückkehr ist eine ausdrückliche märchenhafte Auflösung, keine medizinische Heilungsbehauptung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Peters Mutter
+Aussehen: Ältere Frau mit grauem Haar unter weißem Kopftuch, schmalem faltigem Gesicht.
+Kleidung: Abgetragenes dunkelgrünes Kleid, graues Schultertuch und einfache Schuhe.
+Persönlichkeit und Vorgeschichte: Wird von Peter im Reichtum abgewiesen und gehört später zum bescheideneren gemeinsamen Neubeginn.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ruß lässt sich nicht wegwünschen
+Ort und Zeit: Schwarzwald bei Peters Kohlenmeiler
+Sichtbare Figuren: Peter Munk
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Waldansicht. Kleiner rußiger Peter am Meiler links, rechts weit unten ein erleuchtetes Wirtshaus. Seine zwei Hände tragen Arbeitsspuren, keine Goldmünzen im Ruß. Herz nicht als durchsichtige offene Brust zeichnen. Verbindliche Zustände: Peter Munk: Ort: links vor dem Meiler; Körperhaltung: stehend; Mitgeführte Gegenstände: schlichte Holzschaufel rechts; Kleidung: Graue Köhlerjacke, braune Hose und Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein lebendiges Herz im Körper; kein Steinherz.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Für sie bin ich immer nur der Köhler.“
+Kontinuität / Änderung: Ausgangspunkt Armut und Sehnsucht nach Ansehen. Kein von Anfang an kaltherziger Dämon; ein lebendiger Mensch mit unerfüllten Wünschen.
+
+KACHEL 2: Ein Wunsch schaut nach außen
+Ort und Zeit: Waldlichtung beim Glasmännlein
+Sichtbare Figuren: Peter Munk, Glasmännlein
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Augenhöhe des kleinen Glasmännleins auf dem Stumpf, Peter links vor ihm. Keine schon ausgezahlten Goldberge und kein Holländer-Michel daneben. Schaufel bleibt am Meiler, Hände leer. Verbindliche Zustände: Peter Munk: Ort: links vor dem kleinen Helfer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Köhlerjacke, braune Hose und Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein lebendiges Herz im Körper; kein Steinherz. Glasmännlein: Ort: rechts auf einem Baumstumpf; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner feiner Rock und kleiner dunkler Hut. Ein schlichtes gläsernes Schutzzeichen für Peters Rückholung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich will angesehen sein.“
+Dialog 2:
+  Sprecher: Glasmännlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und was willst du können?“
+Kontinuität / Änderung: Glasmännlein erfüllt später Wünsche. Dialog ist freie Zuspitzung des Unterschieds zwischen äußerem Ansehen und tragfähigem Leben, kein angebliches Originalzitat.
+
+KACHEL 3: Es reicht immer nur bis zum nächsten Einsatz
+Ort und Zeit: Wirtshaus nach Peters erfüllten Wünschen
+Sichtbare Figuren: Peter Munk
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Peter nun im teuren dunkelblauen Rock, Münzen vor ihm und Spielkarten auf dem Tisch. Unbenannte Mitspieler nur Hände am Rand. Er schaut auf den nächsten Einsatz, nicht auf einen zweiten Körper im Spiegel. Noch ein lebendiges Herz. Verbindliche Zustände: Peter Munk: Ort: links am Spieltisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Münzen in der rechten Hand; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein lebendiges Herz im Körper; kein Steinherz.
+Erzählertext: Peters Wünsche verschafften ihm Besitz und Ansehen, aber keine Zufriedenheit. Am Spieltisch setzte er immer mehr aufs Spiel.
+Dialoge: keine
+Kontinuität / Änderung: Zeit und äußere Veränderung nach erfüllten Wünschen. Kleidung wechselt bewusst zu reich. Keine Anleitung zum Glücksspiel und keine Behauptung, der spätere Herzhandel sei schon vollzogen.
+
+KACHEL 4: Der leere Platz auf dem Tisch
+Ort und Zeit: Dasselbe Wirtshaus nach den Verlusten
+Sichtbare Figuren: Peter Munk
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gleiche Tischachse, jetzt keine Münzen mehr vor Peter. Teurer Rock zerknittert, leere Bänke dahinter. Seine Hand hält nur einen leeren Beutel, keine versteckte neue Goldquelle. Herz noch lebendig, Gesicht erschöpft. Verbindliche Zustände: Peter Munk: Ort: links allein am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: offener leerer Geldbeutel in beiden Händen; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein lebendiges Herz im Körper; kein Steinherz.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Alles fort.“
+Kontinuität / Änderung: Vermögen verspielt. Schlechte Entscheidungen und verletzter Stolz bereiten den Handel vor; kein erzwungener Herztausch ohne Peters Zustimmung.
+
+KACHEL 5: Was der Reichtum kostet
+Ort und Zeit: Michels dunkle Behausung
+Sichtbare Figuren: Peter Munk, Holländer-Michel
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Untersicht. Riesiger Michel rechts hält einen kleinen herzförmigen grauen Stein, Peter links schaut hinauf. Im Regal geschlossene Gläser als Symbole, keine anatomischen Organe. Peters Brust vollständig bekleidet und unverletzt. Verbindliche Zustände: Peter Munk: Ort: links vor Michel; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein lebendiges Herz im Körper; kein Steinherz. Holländer-Michel: Ort: rechts neben einem Regal mit geschlossenen Gläsern; Körperhaltung: stehend; Mitgeführte Gegenstände: ein glatter herzförmiger Stein rechts; Kleidung: Dunkelbrauner langer Mantel, breiter Hut und grobe schwarze Stiefel. Keine Hörner und kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Holländer-Michel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Reichtum. Dafür dein lebendiges Herz.“
+Dialog 2:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann nimm es.“
+Kontinuität / Änderung: Ausdrückliche Einwilligung. Das Steinherz ist vor dem Handel noch in Michels Hand; Peter hat noch sein eigenes Herz.
+
+KACHEL 6: Ein Gefühl im Glas
+Ort und Zeit: Michels Behausung nach dem Tausch
+Sichtbare Figuren: Peter Munk, Holländer-Michel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige symbolische Detailansicht. Im einen hervorgehobenen geschlossenen Glas ein rot leuchtendes Herzzeichen. Peters bekleideter Brustbereich links trägt nur einen matten grauen Lichtschatten, keine offene Operation und kein zweites Herz. Michel hält keinen weiteren Stein in der Hand. Verbindliche Zustände: Peter Munk: Ort: links vor dem Regal; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossener Geldbeutel links; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Holländer-Michel: Ort: rechts neben einem einzelnen hervorgehobenen Glas; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand am geschlossenen Glas; Kleidung: Dunkelbrauner langer Mantel, breiter Hut und grobe schwarze Stiefel. Keine Hörner und kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Für neuen Reichtum gab er Michel sein lebendiges Herz. An dessen Stelle bekam er einen Stein, der kein Mitgefühl kannte.
+Dialoge: keine
+Kontinuität / Änderung: Tausch abgeschlossen: lebendiges Herz im Glas, genau ein Steinherz in Peter. Keine tatsächliche medizinische Operation oder Doppelherz im Körper.
+
+KACHEL 7: Alles ist da, nur nichts kommt an
+Ort und Zeit: Peters reiches Haus einige Zeit später
+Sichtbare Figuren: Peter Munk, Lisbeth Munk
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite großzügige Stube, volle Tafel und feiner blauer Rock. Peter blickt starr an Lisbeth vorbei, sie hält den Blick suchend auf ihn. Keine Armutsrückblende als zweite gleichzeitige Szene. Herz bleibt unsichtbar im Körper. Verbindliche Zustände: Peter Munk: Ort: links an einer reichen Tafel; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Lisbeth Munk: Ort: rechts am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes schlichtes Kleid und helle Schürze. Keine plötzliche neue Person nach dem märchenhaften Wiedersehen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Lisbeth Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Freust du dich denn gar nicht?“
+Kontinuität / Änderung: Reichtum ist da, Empfindung fehlt. Lisbeth wird als dieselbe Frau über den folgenden Handlungsbogen geführt; keine neue Braut nach dem Herztausch.
+
+KACHEL 8: Die Tür bleibt zu
+Ort und Zeit: Haustür des reichen Peter
+Sichtbare Figuren: Peter Munk, Peters Mutter
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Alte Mutter links außerhalb, Peter rechts im hellen reichen Haus. Seine Hand zieht die Tür halb zu, ihre bleibt leer. Kein tätlicher Angriff und kein bereits vollzogenes Versöhnungsbild hinter ihnen. Verbindliche Zustände: Peter Munk: Ort: rechts im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand hält die Tür; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Peters Mutter: Ort: links draußen; Körperhaltung: stehend; Mitgeführte Gegenstände: leerer kleiner Korb links; Kleidung: Abgetragenes dunkelgrünes Kleid, graues Schultertuch und einfache Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peters Mutter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Peter, ich bin es.“
+Dialog 2:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich habe nichts für dich.“
+Kontinuität / Änderung: Steinherz verhindert Mitgefühl nicht als Entschuldigung, sondern als Folge des gewählten Handels. Mutter geht abgewiesen, bleibt lebend.
+
+KACHEL 9: Für einen anderen
+Ort und Zeit: Stube im reichen Haus vor der Gewalt
+Sichtbare Figuren: Lisbeth Munk, Peter Munk
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Enge Halbnahe. Lisbeth links mit Brot, Peter rechts nah und starr. Ihre Hand streckt Brot in Richtung der offenen Tür zu einem unbenannten Bedürftigen außerhalb. Keine Schlagbewegung und keine neue Waffe in Peters Hand. Verbindliche Zustände: Peter Munk: Ort: rechts vor ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Lisbeth Munk: Ort: links am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Stück Brot in der linken Hand; Kleidung: Dunkelrotes schlichtes Kleid und helle Schürze. Keine plötzliche neue Person nach dem märchenhaften Wiedersehen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Als Lisbeth einem Hungrigen Brot geben wollte, sah Peter darin nur den Verlust seines Eigentums. Ihr Mitgefühl erreichte ihn nicht.
+Dialoge: keine
+Kontinuität / Änderung: Freie konkrete Verdichtung ihrer Hilfsbereitschaft als Konflikt. Der nächste Schaden geht von Peter aus; die Brotgabe macht Lisbeth nicht schuldig.
+
+KACHEL 10: Danach ist keine Ruhe
+Ort und Zeit: Dieselbe Stube unmittelbar nach dem Schlag
+Sichtbare Figuren: Peter Munk, Lisbeth Munk
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite stille Einstellung nach der Tat. Lisbeth links reglos am Boden, Peter rechts mit leeren Händen. Brot liegt auf dem Boden neben ihr. Kein gezeigter Treffer, keine offene Wunde und keine eindeutige Leiche mit Todeszeichen. Dunkler leerer Raum zwischen ihnen. Verbindliche Zustände: Peter Munk: Ort: rechts am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Lisbeth Munk: Ort: links am Boden; Körperhaltung: reglos zusammengebrochen; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes schlichtes Kleid und helle Schürze. Keine plötzliche neue Person nach dem märchenhaften Wiedersehen.; Fortbewegung: zu Fuß; Lebenszustand: Lebenszustand unklar; reglos, Tod nicht bestätigt; Verletzungen: nach einem Schlag zusammengebrochen; keine sichtbare Wunde.
+Erzählertext: Er schlug Lisbeth. Danach lag sie reglos am Boden; sein Reichtum konnte daran nichts ändern.
+Dialoge: keine
+Kontinuität / Änderung: Die Tat ist Peters Verantwortung. Keine Diagnose eines bestätigten Todes und keine als alltäglich dargestellte spätere Auferstehung. Das Wiedersehen muss später ausdrücklich märchenhaft erklärt werden.
+
+KACHEL 11: Der Handel muss zurück
+Ort und Zeit: Wald beim Glasmännlein nach dem Zusammenbruch
+Sichtbare Figuren: Peter Munk, Glasmännlein
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Peter links noch im dunklen teuren Rock, Glasmännlein rechts mit einem kleinen gläsernen Schutzzeichen. Peter wirkt leer statt schon tränenreich erlöst. Kein Schwert für einen Zweikampf. Zeichen noch beim Geber. Verbindliche Zustände: Peter Munk: Ort: links vor dem Helfer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Glasmännlein: Ort: rechts auf dem Baumstumpf; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleines gläsernes Schutzzeichen rechts; Kleidung: Grüner feiner Rock und kleiner dunkler Hut. Ein schlichtes gläsernes Schutzzeichen für Peters Rückholung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich will mein Herz zurück.“
+Dialog 2:
+  Sprecher: Glasmännlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann bring ihn dazu, es dir zu zeigen.“
+Kontinuität / Änderung: Glasmännlein hilft mit List und Schutz. Kein Bewaffnen für einen Kampf. Echte Reue kehrt erst mit dem lebendigen Herzen zurück, nicht durch einen verschwundenen Sack Gold.
+
+KACHEL 12: Der Zweifel als Köder
+Ort und Zeit: Wieder in Michels Behausung
+Sichtbare Figuren: Peter Munk, Holländer-Michel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Untersicht. Peter links blickt Michel direkt an, Hände leer sichtbar, kleines Schutzzeichen noch im Mantelbeutel verborgen. Ein hervorgehobenes Glas rechts mit rotem Herzsymbol. Kein weiterer neuer Tauschvertrag auf Pergament. Verbindliche Zustände: Peter Munk: Ort: links vor dem Regal; Körperhaltung: stehend; Mitgeführte Gegenstände: Schutzzeichen verborgen im Mantelbeutel; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: ein Steinherz im Körper; lebendiges Herz in Michels Glas. Holländer-Michel: Ort: rechts vor dem Glas mit Peters Herz; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbrauner langer Mantel, breiter Hut und grobe schwarze Stiefel. Keine Hörner und kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auf den Rat des Glasmännleins stellte Peter Michels Macht infrage. Er behauptete, dieser könne gar keine Herzen austauschen.
+Dialoge: keine
+Kontinuität / Änderung: Zwischen den Bildern überreicht das Glasmännlein Peter das Schutzzeichen; er steckt es in den Mantelbeutel. Peter bestreitet gezielt Michels Fähigkeit. Michel fällt auf den Beweisdrang herein. Steinherz bis zum folgenden abgeschlossenen Rücktausch noch in Peter.
+
+KACHEL 13: Es tut wieder weh
+Ort und Zeit: Michels Behausung nach der Demonstration
+Sichtbare Figuren: Peter Munk, Holländer-Michel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nahe auf Peters plötzlich erschüttertes Gesicht und Hand an geschlossener Kleidung. Michels Glas rechts leer, grauer Herzstein in seiner rechten Hand. Ein warmer kleiner Schein hinter Peters Stoff ist Symbol, keine offene Brust. Genau ein lebendiges Herz zurück im Körper. Verbindliche Zustände: Peter Munk: Ort: links mit einer Hand an der Brust; Körperhaltung: stehend; Mitgeführte Gegenstände: linke Hand an der bekleideten Brust; Schutzzeichen noch im Beutel; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: eigenes lebendiges Herz zurück im Körper; kein Steinherz mehr darin. Holländer-Michel: Ort: rechts neben dem nun leeren Glas; Körperhaltung: stehend; Mitgeführte Gegenstände: ein herzförmiger Stein in der rechten Hand; Kleidung: Dunkelbrauner langer Mantel, breiter Hut und grobe schwarze Stiefel. Keine Hörner und kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Um seine Macht zu beweisen, setzte Michel ihm das lebendige Herz vorübergehend wieder ein. Peter konnte wieder fühlen.
+Dialoge: keine
+Kontinuität / Änderung: Michel hat zum Beweis eigenes Herz wieder eingesetzt und Stein entfernt. Glas leer, Stein bei Michel. Reue beginnt jetzt; kein zweites menschliches Herz in Peters Hand.
+
+KACHEL 14: Nicht noch einmal
+Ort und Zeit: Tür von Michels Behausung
+Sichtbare Figuren: Peter Munk, Holländer-Michel
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Türansicht. Peter links auf freiem Boden mit erhobenem kleinem Schutzzeichen, Michel rechts bleibt an der Schwelle zurück. Keine Schwerter, keine abgeschlagene Hand und kein erneut in Peters Körper wandernder Stein. Der Abstand öffnet Fluchtweg. Verbindliche Zustände: Peter Munk: Ort: links außerhalb der Tür; Körperhaltung: rückwärts vom Eingang weichend; Mitgeführte Gegenstände: gläsernes Schutzzeichen in der rechten Hand; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: eigenes lebendiges Herz zurück im Körper; kein Steinherz mehr darin. Holländer-Michel: Ort: rechts innen vor der Schwelle; Körperhaltung: stehend; Mitgeführte Gegenstände: herzförmiger Stein links; Kleidung: Dunkelbrauner langer Mantel, breiter Hut und grobe schwarze Stiefel. Keine Hörner und kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Es bleibt bei mir.“
+Kontinuität / Änderung: Peter zieht das zuvor erhaltene Schutzzeichen aus dem Beutel und entkommt dem erneuten Zugriff. Zeichen als freie sichtbare Konkretisierung des Schutzes, kein neuer gewonnener Zauberkrieg.
+
+KACHEL 15: Ein Herz macht nicht unschuldig
+Ort und Zeit: Wald nach der Flucht
+Sichtbare Figuren: Peter Munk
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite stille Waldansicht. Peter kniet klein, Tränen im Gesicht, teurer Rock am Boden. Keine Lisbeth-Geistergestalt als bestätigter Tod und keine lachende sofortige Heilung. Der Meiler aus dem Anfang fern, nicht neu als sein schon wieder gewonnener Besitz. Verbindliche Zustände: Peter Munk: Ort: mittig auf dem Waldboden; Körperhaltung: kniend; Mitgeführte Gegenstände: Schutzzeichen gesenkt in der rechten Hand; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: eigenes lebendiges Herz zurück im Körper; kein Steinherz mehr darin.
+Erzählertext: Mit seinem zurückerhaltenen Herzen spürte Peter auch seine Schuld. Reue machte das Getane nicht ungeschehen.
+Dialoge: keine
+Kontinuität / Änderung: Lebendiges Herz bedeutet fühlende Reue, keine automatische Tilgung des Schadens. Lisbeths Zustand bleibt für Peter und Leser vor der märchenhaften Auflösung ungeklärt.
+
+KACHEL 16: Ein anderer Wunsch
+Ort und Zeit: Dieselbe Waldlichtung beim Glasmännlein
+Sichtbare Figuren: Peter Munk, Glasmännlein
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale wie die erste Wunschszene. Peter links jetzt ohne gierigen Blick und ohne Geldbeutel in der Hand. Glasmännlein rechts wartet. Noch keine Frau tritt als unkommentiert gesunde Kopie in den Hintergrund. Verbindliche Zustände: Peter Munk: Ort: links aufgerichtet; Körperhaltung: stehend; Mitgeführte Gegenstände: gläsernes Schutzzeichen am Gürtel; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: eigenes lebendiges Herz zurück im Körper; kein Steinherz mehr darin. Glasmännlein: Ort: rechts auf dem Stumpf; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner feiner Rock und kleiner dunkler Hut. Ein schlichtes gläsernes Schutzzeichen für Peters Rückholung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Peter Munk
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Kein Gold mehr. Lass mich es anders machen.“
+Kontinuität / Änderung: Peter wünscht einen anderen Anfang. Keine Behauptung, Wohlstandsverlust allein beweise Wiedergutmachung; der folgende Familienmoment ist als Märchenhilfe zu kennzeichnen.
+
+KACHEL 17: Was das Märchen ihm zurückgibt
+Ort und Zeit: Waldrand, durch das Glasmännlein geführtes Wiedersehen
+Sichtbare Figuren: Peter Munk, Lisbeth Munk, Peters Mutter, Glasmännlein
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige weite Begegnung. Dieselbe Lisbeth im roten Kleid lebt mittig, Mutter rechts, Peter links hält respektvollen Abstand. Kleines Glasmännlein führt im Hintergrund zur Begegnung. Kein neues Gesicht als Ersatzfrau, kein medizinischer Heilapparat. Verbindliche Zustände: Peter Munk: Ort: links vor Lisbeth; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Schutzzeichen am Gürtel; Kleidung: Dunkelblauer teurer Rock, helle Weste, dunkle Hose und saubere Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: eigenes lebendiges Herz zurück im Körper; kein Steinherz mehr darin. Glasmännlein: Ort: hinten zwischen den Bäumen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner feiner Rock und kleiner dunkler Hut. Ein schlichtes gläsernes Schutzzeichen für Peters Rückholung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Lisbeth Munk: Ort: mittig auf festem Boden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes schlichtes Kleid und helle Schürze. Keine plötzliche neue Person nach dem märchenhaften Wiedersehen.; Fortbewegung: zu Fuß; Lebenszustand: lebend und unverletzt; Verletzungen: unverletzt. Peters Mutter: Ort: rechts neben Lisbeth; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes dunkelgrünes Kleid, graues Schultertuch und einfache Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Das Glasmännlein führte ihn zu seiner lebenden Frau und seiner Mutter. Das Märchen eröffnete ihm einen neuen Anfang.
+Dialoge: keine
+Kontinuität / Änderung: Ausdrücklich märchenhafte Auflösung nach dem reglosen Zusammenbruch, nicht Anschluss an einen bestätigten Tod. Keine garantierte Vergebung durch eine beiläufige fröhliche Umarmung erfinden.
+
+KACHEL 18: Weniger Besitz, mehr Leben
+Ort und Zeit: Schlichte gemeinsame Stube nach dem Neubeginn
+Sichtbare Figuren: Peter Munk, Lisbeth Munk, Peters Mutter
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige gemeinsame Tischszene. Peter im bewusst gewechselten schlichten braunen Rock teilt Brot mit Frau und Mutter. Kein prunkvolles Silber und kein gläsernes Herzregal. Hände menschlich, Körper geschlossen. Beziehungsarbeit statt Triumph über einen toten Michel. Verbindliche Zustände: Peter Munk: Ort: links am einfachen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Brot in der rechten Hand; Kleidung: Schlichter brauner Rock, helles Hemd, braune Hose und Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: eigenes lebendiges Herz zurück im Körper; kein Steinherz mehr darin. Lisbeth Munk: Ort: mittig am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelrotes schlichtes Kleid und helle Schürze. Keine plötzliche neue Person nach dem märchenhaften Wiedersehen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Peters Mutter: Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes dunkelgrünes Kleid, graues Schultertuch und einfache Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Peter begann mit ihnen ein bescheideneres Leben. Weniger Besitz war ihm geblieben, aber wieder Raum für Mitgefühl und Beziehung.
+Dialoge: keine
+Kontinuität / Änderung: Bescheidener gemeinsamer Anfang mit eigenem lebendigem Herz. Keine Rückkehr des Steinherzens, kein Rechtfertigen von Gewalt durch späteres Glück.

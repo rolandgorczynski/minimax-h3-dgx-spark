@@ -1,0 +1,153 @@
+TITEL: Des Schweizervolkes Ursprung · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Suiter aus der Herkunftssage
+Aussehen: Erwachsener Mann mit kurzem blondem Haar und dichtem hellem Bart.
+Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.
+Persönlichkeit und Vorgeschichte: Einer der sagenhaften Anführer der Auswandernden. Wird später mit Ladislaus nach Rom und zurück erzählt, kein belegter Stammvater.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Swey aus der Herkunftssage
+Aussehen: Erwachsener Mann mit dunklem kurzem Haar und schmalem schwarzen Bart.
+Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Begleitet den Aufbau. Die Sage verbindet seinen Namen mit der neuen Heimat, nicht als gesicherte Sprachgeschichte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Restius beim neuen Bau
+Aussehen: Kräftiger erwachsener Mann mit rotem kurzem Bart und kahlem Scheitel.
+Kleidung: Ockerfarbene Leinentunika, dunkle Hose und feste Schuhe.
+Persönlichkeit und Vorgeschichte: Baut der Sage nach Resty bei Meiringen. Arbeit und örtliche Gründung, nicht ein angeborenes Recht auf Land, prägen den Comic.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hasius bei den Hütten
+Aussehen: Erwachsener schmaler Mann mit graubraunem Haar und kurzem Bart.
+Kleidung: Brauner Wollrock, helle Hose und feste Schuhe.
+Persönlichkeit und Vorgeschichte: Führt eine Gruppe, die in der Sage Hasli errichtet. Eigene Figur neben Restius, Suiter und Swey.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ladislaus mit den Feldzeichen
+Aussehen: Erwachsener Mann mit braunen Locken und langem dunklem Bart.
+Kleidung: Dunkelblauer grober Leinenrock und braune Hose. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Zieht in der Sage mit Suiter nach Rom und bringt verliehene Zeichen in die neue Heimat zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ausgeloste Mutter der Auswanderer
+Aussehen: Erwachsene Frau mit braunem Haar unter hellem Tuch und schmalem wettergegerbtem Gesicht.
+Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.
+Persönlichkeit und Vorgeschichte: Unbenannte Rollenfigur aus den mitziehenden Familien. Erzwungener Aufbruch und spätere gemeinsame Arbeit werden an ihr sichtbar.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kind der ausgelosten Familie
+Aussehen: Etwa achtjähriges Kind mit braunen kurzen Locken und schmalem Gesicht.
+Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.
+Persönlichkeit und Vorgeschichte: Zieht mit seiner Mutter, weil das Los die ganze Familie trifft. Kein späterer neuer Körper beim Ortswechsel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zu wenig für den Winter
+Ort und Zeit: Dorf im sagenhaften Herkunftsland
+Sichtbare Figuren: Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. In einem einfachen Haus stehen Mutter und Kind vor fast leeren Vorräten. Durch die offene Tür sind wartende Dorfbewohner sichtbar. Keine Landkarte, die eine gesicherte Wanderung beweisen soll. Verbindliche Zustände: Ausgeloste Mutter der Auswanderer: Ort: vor einem fast leeren Vorratsgefäß; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Eine Herkunftssage beginnt mit Hunger in nördlichen Ländern. Sie erzählt von Not, nicht von einer freiwilligen Abenteuerreise.
+Dialoge: keine
+Kontinuität / Änderung: Sagenrahmen, keine wissenschaftliche Abstammungsdarstellung.
+
+KACHEL 2: Das Los entscheidet
+Ort und Zeit: Dorfversammlung
+Sichtbare Figuren: Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Frau hat ein Los gezogen. Ihr Blick geht zu ihrem Kind, während andere Familien schweigend warten. Kein Jubel über eine freiwillige Abenteuerreise und keine im Bild vollzogene Bestrafung. Verbindliche Zustände: Ausgeloste Mutter der Auswanderer: Ort: vor einer hölzernen Losschale; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gezogenes schlichtes Los; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand am Kleidsaum; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Das Los bestimmte, wer mit seiner Familie auswandern musste. Für die Betroffenen bedeutete es den Verlust ihrer Heimat.
+Dialoge: keine
+Kontinuität / Änderung: Erzwungener Aufbruch; keine Darstellung der Drohung als gerechte oder wünschenswerte Ordnung.
+
+KACHEL 3: Immer neue Aufbrüche
+Ort und Zeit: Weg aus demselben Dorf
+Sichtbare Figuren: Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Als der Mangel fortdauert, steht die Familie mit dem gepackten Bündel zwischen weiteren Aufbrechenden. Das gezogene Los ist im Haus zurückgelassen. Niemand hat plötzlich ein Pferd oder einen Wagen. Verbindliche Zustände: Ausgeloste Mutter der Auswanderer: Ort: vor dem Dorfausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Leinenbündel; andere Hand hält das Kind; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand der Mutter; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Als der Mangel anhielt, wurden aus monatlichen Aufbrüchen wöchentliche Auslosungen. Immer mehr Menschen mussten gehen.
+Dialoge: keine
+Kontinuität / Änderung: Steigerung der Not vor Reisebeginn. Keine mehrfach gleichzeitig abgebildete Familie.
+
+KACHEL 4: Den Rhein hinauf
+Ort und Zeit: Schiff auf dem Rhein
+Sichtbare Figuren: Suiter aus der Herkunftssage, Swey aus der Herkunftssage, Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einfaches Holzschiff fährt stromauf, weitere Boote bleiben fern im Hintergrund. Suiter vorn und Swey am Ruder sind Teil der wandernden Gruppe. Keine behauptete genaue historische Route auf einer modernen Karte. Verbindliche Zustände: Suiter aus der Herkunftssage: Ort: am Bug des Bootes; Körperhaltung: stehend; Mitgeführte Gegenstände: runder Holzschild am Arm; Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Swey aus der Herkunftssage: Ort: bei einer Ruderbank; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Ruder; Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Ausgeloste Mutter der Auswanderer: Ort: zwischen Gepäckbündeln; Körperhaltung: sitzend; Mitgeführte Gegenstände: Leinenbündel auf den Knien; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben der Mutter; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Hand an der Bordwand; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Sage lässt Schweden und Friesen gemeinsam den Rhein hinaufziehen. Ihre Wanderung ist keine gesicherte Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Reise im Schiff, nicht zu Fuß auf Wasser. Die großen Zahlen der Quelle nicht als dokumentierte Zählung ausgeben.
+
+KACHEL 5: Kein leichter Weg
+Ort und Zeit: Uferpfad nach einem überstandenen Kampf
+Sichtbare Figuren: Suiter aus der Herkunftssage, Swey aus der Herkunftssage, Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Anlanden und einer in der Sage nur knapp erwähnten Auseinandersetzung sammeln sich die Reisenden am Ufer. Ein beschädigter Rand am bekannten Schild zeigt die Mühe. Kein sichtbarer Gegner, keine getöteten Gruppen und kein zusätzliches erfundenes Schlachtabenteuer. Verbindliche Zustände: Suiter aus der Herkunftssage: Ort: am steinigen Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: derselbe runde Holzschild mit beschädigtem Rand; Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Swey aus der Herkunftssage: Ort: bei ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ausgeloste Mutter der Auswanderer: Ort: hinter beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: dasselbe Leinenbündel; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand der Mutter; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auch von Kämpfen wird erzählt. Der Weg führte die Vertriebenen nicht mühelos in ein unberührtes Paradies.
+Dialoge: keine
+Kontinuität / Änderung: Alle aus dem Schiff ausgestiegen. Schiffe liegen außerhalb des Ausschnitts; Schildschaden bleibt bestehen.
+
+KACHEL 6: Ein Ort zum Bleiben
+Ort und Zeit: Bergweide am Ende des Wanderwegs
+Sichtbare Figuren: Suiter aus der Herkunftssage, Swey aus der Herkunftssage, Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach weiterer beschwerlicher Reise öffnet sich zwischen den Bergen eine Weide mit Wasser und Platz für einfache Unterkünfte. Die Familie hat ihr Bündel erstmals am neuen Ort abgelegt. Kein fertiges Dorf empfängt sie. Verbindliche Zustände: Suiter aus der Herkunftssage: Ort: am Rand einer weiten Weide; Körperhaltung: stehend; Mitgeführte Gegenstände: beschädigter runder Schild am Arm; Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Swey aus der Herkunftssage: Ort: neben Suiter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ausgeloste Mutter der Auswanderer: Ort: bei einem abgelegten Bündel; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In den Bergen fanden sie schließlich Weide und Platz für Unterkünfte. Zum ersten Mal konnten sie ans Bleiben denken.
+Dialoge: keine
+Kontinuität / Änderung: Ankunft, noch kein fertig bebautes Land. Keine riesenhaften Körper trotz des überlieferten Kraftvergleichs.
+
+KACHEL 7: Gemeinsame Arbeit
+Ort und Zeit: Erster Bauplatz in der neuen Heimat
+Sichtbare Figuren: Restius beim neuen Bau, Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Einige Zeit später wächst Stein um Stein ein niedriger Bau. Restius und andere Erwachsene arbeiten mit natürlichen Kräften; das Kind reicht Wasser und trägt keine gefährlichen Lasten. Keine fertig erscheinende Burg durch einen einzigen Handgriff. Verbindliche Zustände: Restius beim neuen Bau: Ort: am niedrigen Steinbau; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelner flacher Baustein; Kleidung: Ockerfarbene Leinentunika, dunkle Hose und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ausgeloste Mutter der Auswanderer: Ort: an der anderen Seite; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleiner Korb mit Steinen; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: bei einem Wasserkrug; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleiner Holzbecher; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Gemeinsame Arbeit verwandelte den Rastplatz in eine Siedlung. Die Sage verbindet einzelne Bauten mit den Namen der Anführer.
+Dialoge: keine
+Kontinuität / Änderung: Schild aus der Reiseszene bleibt bei Suiter, nicht plötzlich Werkzeug dieser anderen Figur.
+
+KACHEL 8: Ein Name für die Häuser
+Ort und Zeit: Neue Hüttengruppe in den Bergen
+Sichtbare Figuren: Hasius bei den Hütten, Swey aus der Herkunftssage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. An einem anderen Bauplatz setzen Hasius und Helfer eine kleine Holzstruktur zusammen. Swey stützt einen Pfosten; hinter ihnen stehen bereits zwei einfache Hütten. Kein Namensschild behauptet ein urkundlich gesichertes Gründungsdatum. Verbindliche Zustände: Swey aus der Herkunftssage: Ort: neben einer aufgestellten Wand; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand stützt den Pfosten; Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Hasius bei den Hütten: Ort: zwischen einfachen Hütten; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Holzpfosten; Kleidung: Brauner Wollrock, helle Hose und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auch Hasli wird so gedeutet. In den Ortsnamen sollte sich die Erinnerung an die Wandernden erhalten haben.
+Dialoge: keine
+Kontinuität / Änderung: Anderer Ort, andere Bauphase. Keine gleichzeitige Anwesenheit aller Anführer an jedem Ort.
+
+KACHEL 9: Nicht mehr nur unterwegs
+Ort und Zeit: Beweideter Hang bei den neuen Häusern
+Sichtbare Figuren: Suiter aus der Herkunftssage, Swey aus der Herkunftssage, Ausgeloste Mutter der Auswanderer, Kind der ausgelosten Familie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später sitzen Familien an einer einfachen Mahlzeit aus Milch und Käse. Die Männer sehen auf Häuser und Weiden, die aus ihrer Arbeit entstanden sind. Der beschädigte Schild steht sichtbar unbenutzt an einer Wand. Verbindliche Zustände: Suiter aus der Herkunftssage: Ort: vor den Häusern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; beschädigter Schild an einer Hauswand abgelegt; Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Swey aus der Herkunftssage: Ort: neben Suiter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ausgeloste Mutter der Auswanderer: Ort: bei einer kleinen gemeinsamen Mahlzeit; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Holzschale; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind der ausgelosten Familie: Ort: neben ihr; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Stück Käse; Kleidung: Graue lange Tunika, braune Hose und grobe Schuhe. Immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Aus den Namen Suiter und Swey erklärt die Sage die neue Heimat. Solche Deutungen belegen keine historische Abstammung.
+Dialoge: keine
+Kontinuität / Änderung: Aufbau und Alltag begründen Zugehörigkeit. Schild ausdrücklich abgelegt, kein permanenter Kriegszug.
+
+KACHEL 10: Zeichen einer weiteren Reise
+Ort und Zeit: Hof in Rom innerhalb der Sage
+Sichtbare Figuren: Suiter aus der Herkunftssage, Ladislaus mit den Feldzeichen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach einer späteren Reise und dem nur erzählerisch erwähnten Beistand stehen Suiter und Ladislaus vor einem unbenannten kaiserlichen Hof. Sie haben zwei Stofffeldzeichen empfangen: Adler und Bär, mit schlichten roten und weißen Kreuzzeichen. Kein modernes Staatswappen und keine zusätzliche Schlacht im Bild. Verbindliche Zustände: Suiter aus der Herkunftssage: Ort: vor einem erhöhten Empfangsplatz; Körperhaltung: stehend; Mitgeführte Gegenstände: ein neues Feldzeichen mit stilisiertem Adler; Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ladislaus mit den Feldzeichen: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: ein zweites Feldzeichen mit stilisiertem Bären; Kleidung: Dunkelblauer grober Leinenrock und braune Hose. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Später erzählt sie von einem Beistand in Rom. Zwei der Männer erhielten dort Feldzeichen für die Gemeinschaft.
+Dialoge: keine
+Kontinuität / Änderung: Suiters beschädigter Reiseschild bleibt zuhause. Neue Zeichen werden hier einmalig empfangen.
+
+KACHEL 11: Zurückgebrachte Erinnerung
+Ort und Zeit: Bergsiedlung bei der Heimkehr
+Sichtbare Figuren: Suiter aus der Herkunftssage, Ladislaus mit den Feldzeichen, Swey aus der Herkunftssage, Ausgeloste Mutter der Auswanderer
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die beiden Heimkehrer bringen die gleichen zwei Stoffzeichen zu den Siedlern. Die einfachen Häuser und Weiden bleiben dieselben. Kein neuer Herrscher setzt sich auf einen Thron. Verbindliche Zustände: Suiter aus der Herkunftssage: Ort: vor den Häusern; Körperhaltung: stehend; Mitgeführte Gegenstände: dasselbe Adlerfeldzeichen; Kleidung: Graue grobe Leinentunika, braune Hose und einfache Lederstiefel. Auf Reisen ein runder brauner Holzschild mit dunklem Rand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Swey aus der Herkunftssage: Ort: bei den Heimkehrenden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner grober Leinenrock, graue Hose und einfache Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ladislaus mit den Feldzeichen: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: dasselbe Bärenfeldzeichen; Kleidung: Dunkelblauer grober Leinenrock und braune Hose. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ausgeloste Mutter der Auswanderer: Ort: am Rand der Versammlung; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes langes Wollkleid, helles Kopftuch und grobe Schuhe. Kleines Leinenbündel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie brachten die Zeichen nach Hause zurück. Neben den neuen Häusern bekamen nun auch gemeinsame Erinnerungen ihren Platz.
+Dialoge: keine
+Kontinuität / Änderung: Rückkehr von Rom nach der Reise, keine gleichzeitig doppelt vorhandenen Feldzeichen.
+
+KACHEL 12: Was die Hirten erzählen
+Ort und Zeit: Alpenhang viele Generationen später
+Sichtbare Figuren: keine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Viele Generationen später sitzen namenlose ältere Hirten und vollständig bekleidete Kinder vor bewohnten Berghäusern. Tief im Tal stehen jüngere Höfe. Keine der früheren Hauptfiguren sitzt unverändert jung unter ihnen; die Figuren gehören einer späteren Zeit an.
+Erzählertext: Viele Generationen später erzählten Hirten noch von den Vorfahren. Aus erzwungenem Aufbruch wurde in der Sage Zugehörigkeit.
+Dialoge: keine
+Kontinuität / Änderung: Expliziter Generationensprung. Abstammungsmythos bleibt Erzählung, nicht belegte Bevölkerungsgeschichte.

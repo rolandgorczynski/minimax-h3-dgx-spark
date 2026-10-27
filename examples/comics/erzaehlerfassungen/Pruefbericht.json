@@ -1,5 +1,5 @@
 {
-  "rule": "Kacheln 2, 4, 6 usw. erhalten nur Erzählertext. Übrige Kacheln enthalten entweder gesprochene Sprechblasen oder, falls kein Dialog vorliegt, nur Erzählertext. Nie beides in derselben Kachel.",
+  "rule": "Pro Geschichte gilt der angegebene Abstand: erste zehn Vergleichsfassungen jede zweite Kachel, weitere Fassungen jede dritte Kachel. Erzähler und Sprechblasen nie gleichzeitig. Ohne gesprochenen Dialog nur Erzähler.",
   "reviewed_by": "Codex",
   "images_generated": false,
   "stories": [
@@ -24,7 +24,8 @@
         9
       ],
       "warnings": [],
-      "max_caption_length": 117
+      "max_caption_length": 117,
+      "narrator_interval": 2
     },
     {
       "title": "Hänsel und Gretel – Hinter dem süßen Haus · Erzählerfassung",
@@ -53,7 +54,8 @@
         13
       ],
       "warnings": [],
-      "max_caption_length": 119
+      "max_caption_length": 119,
+      "narrator_interval": 2
     },
     {
       "title": "Kalif Storch – Das vergessene Zauberwort · Erzählerfassung",
@@ -78,7 +80,8 @@
         11
       ],
       "warnings": [],
-      "max_caption_length": 131
+      "max_caption_length": 131,
+      "narrator_interval": 2
     },
     {
       "title": "Frau Holle – Zwei Wege durch den Brunnen · Erzählerfassung",
@@ -103,7 +106,8 @@
         11
       ],
       "warnings": [],
-      "max_caption_length": 119
+      "max_caption_length": 119,
+      "narrator_interval": 2
     },
     {
       "title": "Die Sterntaler – Das letzte Stück Brot · Erzählerfassung",
@@ -124,7 +128,8 @@
         5
       ],
       "warnings": [],
-      "max_caption_length": 121
+      "max_caption_length": 121,
+      "narrator_interval": 2
     },
     {
       "title": "Rumpelstilzchen – Drei Tage für einen Namen · Erzählerfassung",
@@ -151,7 +156,8 @@
         13
       ],
       "warnings": [],
-      "max_caption_length": 121
+      "max_caption_length": 121,
+      "narrator_interval": 2
     },
     {
       "title": "Dornröschen – Hundert Jahre hinter den Dornen · Erzählerfassung",
@@ -176,7 +182,8 @@
         11
       ],
       "warnings": [],
-      "max_caption_length": 120
+      "max_caption_length": 120,
+      "narrator_interval": 2
     },
     {
       "title": "Rapunzel – Der Turm ohne Tür · Erzählerfassung",
@@ -205,7 +212,8 @@
         15
       ],
       "warnings": [],
-      "max_caption_length": 128
+      "max_caption_length": 128,
+      "narrator_interval": 2
     },
     {
       "title": "Das tapfere Schneiderlein – Sieben auf einen Streich · Erzählerfassung",
@@ -230,7 +238,8 @@
         11
       ],
       "warnings": [],
-      "max_caption_length": 123
+      "max_caption_length": 123,
+      "narrator_interval": 2
     },
     {
       "title": "Jorinde und Joringel – Die Blume gegen den Bann · Erzählerfassung",
@@ -255,7 +264,2122 @@
         7
       ],
       "warnings": [],
+      "max_caption_length": 129,
+      "narrator_interval": 2
+    },
+    {
+      "title": "In 80 Tagen um die Welt – Der gewonnene Tag · Erzählerfassung",
+      "basis": "achtzig-tage-14",
+      "definition": "achtzig-tage-14-erzaehler.json",
+      "text": "achtzig-tage-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        5,
+        8,
+        10,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Alice im Wunderland – Zu groß für die kleine Tür · Erzählerfassung",
+      "basis": "alice-kleine-tuer-12",
+      "definition": "alice-kleine-tuer-12-erzaehler.json",
+      "text": "alice-kleine-tuer-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        5,
+        8,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 122
+    },
+    {
+      "title": "Beowulf – In der Nacht standhalten · Erzählerfassung",
+      "basis": "beowulf-grendel-10",
+      "definition": "beowulf-grendel-10-erzaehler.json",
+      "text": "beowulf-grendel-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [],
+      "warnings": [],
+      "max_caption_length": 119
+    },
+    {
+      "title": "Beowulf und Wiglaf – Treue, wenn es schwer wird · Erzählerfassung",
+      "basis": "beowulf-wiglaf-12",
+      "definition": "beowulf-wiglaf-12-erzaehler.json",
+      "text": "beowulf-wiglaf-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        7,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 119
+    },
+    {
+      "title": "Die Bergmanndli schützen Herden und Fische · Erzählerfassung",
+      "basis": "bergmanndli-grenzen-14",
+      "definition": "bergmanndli-grenzen-14-erzaehler.json",
+      "text": "bergmanndli-grenzen-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        12,
+        13,
+        14
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        8,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 123
+    },
+    {
+      "title": "Das blaue Licht – Der Ausweg aus dem Brunnen · Erzählerfassung",
+      "basis": "blaues-licht-brunnen-10",
+      "definition": "blaues-licht-brunnen-10-erzaehler.json",
+      "text": "blaues-licht-brunnen-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        7,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 126
+    },
+    {
+      "title": "Dädalus und Ikarus – Zwischen Meer und Sonne · Erzählerfassung",
+      "basis": "daedalus-ikarus-12",
+      "definition": "daedalus-ikarus-12-erzaehler.json",
+      "text": "daedalus-ikarus-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        4,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 122
+    },
+    {
+      "title": "Dagoberts Zeichen · Erzählerfassung",
+      "basis": "dagoberts-zeichen-10",
+      "definition": "dagoberts-zeichen-10-erzaehler.json",
+      "text": "dagoberts-zeichen-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        4
+      ],
+      "warnings": [],
+      "max_caption_length": 133
+    },
+    {
+      "title": "Dietrich und Hildebrand – Niemand muss allein bestehen · Erzählerfassung",
+      "basis": "dietrich-sigenot-14",
+      "definition": "dietrich-sigenot-14-erzaehler.json",
+      "text": "dietrich-sigenot-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        7,
+        11,
+        13,
+        14
+      ],
+      "warnings": [],
       "max_caption_length": 129
+    },
+    {
+      "title": "Von Drachen und Lindwürmen · Erzählerfassung",
+      "basis": "drachen-lindwuermer-grube-12",
+      "definition": "drachen-lindwuermer-grube-12-erzaehler.json",
+      "text": "drachen-lindwuermer-grube-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Die drei Federn – Der unterschätzte Weg · Erzählerfassung",
+      "basis": "drei-federn-12",
+      "definition": "drei-federn-12-erzaehler.json",
+      "text": "drei-federn-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        6,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 132
+    },
+    {
+      "title": "Der Teufel mit den drei goldenen Haaren – Drei Fragen an die Hölle · Erzählerfassung",
+      "basis": "drei-goldene-haare-16",
+      "definition": "drei-goldene-haare-16-erzaehler.json",
+      "text": "drei-goldene-haare-16-erzaehler.txt",
+      "count": 16,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        6,
+        9,
+        12,
+        13,
+        15,
+        16
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 132
+    },
+    {
+      "title": "Der Dürst · Erzählerfassung",
+      "basis": "duerst-alpsegen-8",
+      "definition": "duerst-alpsegen-8-erzaehler.json",
+      "text": "duerst-alpsegen-8-erzaehler.txt",
+      "count": 8,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "spoken_panels": [
+        5
+      ],
+      "warnings": [],
+      "max_caption_length": 127
+    },
+    {
+      "title": "Eisenhans – Der goldene Brunnen · Erzählerfassung",
+      "basis": "eisenhans-goldbrunnen-14",
+      "definition": "eisenhans-goldbrunnen-14-erzaehler.json",
+      "text": "eisenhans-goldbrunnen-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        8,
+        10,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 136
+    },
+    {
+      "title": "Das Fürchten lernen – Drei Nächte im Spukschloss · Erzählerfassung",
+      "basis": "fuerchten-drei-naechte-14",
+      "definition": "fuerchten-drei-naechte-14-erzaehler.json",
+      "text": "fuerchten-drei-naechte-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        6,
+        9,
+        10,
+        12,
+        13
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        11,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 139
+    },
+    {
+      "title": "Fundevogel – Wenn du mich nicht verlässt · Erzählerfassung",
+      "basis": "fundevogel-versprechen-12",
+      "definition": "fundevogel-versprechen-12-erzaehler.json",
+      "text": "fundevogel-versprechen-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        4,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 117
+    },
+    {
+      "title": "Die Gänsemagd – Die vertauschte Braut · Erzählerfassung",
+      "basis": "gaensemagd-14",
+      "definition": "gaensemagd-14-erzaehler.json",
+      "text": "gaensemagd-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        4,
+        7,
+        8,
+        10,
+        11,
+        13,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 130
+    },
+    {
+      "title": "Die St. Galler Mönche erbeten Wein · Erzählerfassung",
+      "basis": "galler-moenche-wein-8",
+      "definition": "galler-moenche-wein-8-erzaehler.json",
+      "text": "galler-moenche-wein-8-erzaehler.txt",
+      "count": 8,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Der geheime Garten – Die Tür hinter dem Efeu · Erzählerfassung",
+      "basis": "geheimer-garten-10",
+      "definition": "geheimer-garten-10-erzaehler.json",
+      "text": "geheimer-garten-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        8,
+        9
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        7,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 127
+    },
+    {
+      "title": "Das Gespensterschiff – Die Toten an Deck · Erzählerfassung",
+      "basis": "gespensterschiff-16",
+      "definition": "gespensterschiff-16-erzaehler.json",
+      "text": "gespensterschiff-16-erzaehler.txt",
+      "count": 16,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        7,
+        9,
+        11,
+        12,
+        14,
+        15,
+        16
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5,
+        8,
+        10,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 131
+    },
+    {
+      "title": "Die getreue Alte · Erzählerfassung",
+      "basis": "getreue-alte-14",
+      "definition": "getreue-alte-14-erzaehler.json",
+      "text": "getreue-alte-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        10,
+        13,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 123
+    },
+    {
+      "title": "Der goldene Vogel – Der Rat des Fuchses · Erzählerfassung",
+      "basis": "goldener-vogel-14",
+      "definition": "goldener-vogel-14-erzaehler.json",
+      "text": "goldener-vogel-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        6,
+        9,
+        10,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        5,
+        7,
+        8,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 133
+    },
+    {
+      "title": "Hagen – Von der Greifeninsel zurück · Erzählerfassung",
+      "basis": "hagen-greifeninsel-10",
+      "definition": "hagen-greifeninsel-10-erzaehler.json",
+      "text": "hagen-greifeninsel-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 120
+    },
+    {
+      "title": "Hans mein Igel – Der Reiter auf dem Hahn · Erzählerfassung",
+      "basis": "hans-mein-igel-14",
+      "definition": "hans-mein-igel-14-erzaehler.json",
+      "text": "hans-mein-igel-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        6,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        4,
+        5,
+        7,
+        8,
+        11,
+        13,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 125
+    },
+    {
+      "title": "Die Heinzelmännchen – Die Nacht der Erbsen · Erzählerfassung",
+      "basis": "heinzelmaennchen-erbsen-8",
+      "definition": "heinzelmaennchen-erbsen-8-erzaehler.json",
+      "text": "heinzelmaennchen-erbsen-8-erzaehler.txt",
+      "count": 8,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "spoken_panels": [
+        1
+      ],
+      "warnings": [],
+      "max_caption_length": 144
+    },
+    {
+      "title": "Herakles – Der Löwe, den keine Waffe trifft · Erzählerfassung",
+      "basis": "herakles-nemea-10",
+      "definition": "herakles-nemea-10-erzaehler.json",
+      "text": "herakles-nemea-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        1
+      ],
+      "warnings": [],
+      "max_caption_length": 141
+    },
+    {
+      "title": "Die Herdmanndli ziehen weg · Erzählerfassung",
+      "basis": "herdmanndli-ziehen-weg-10",
+      "definition": "herdmanndli-ziehen-weg-10-erzaehler.json",
+      "text": "herdmanndli-ziehen-weg-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        2,
+        5
+      ],
+      "warnings": [],
+      "max_caption_length": 129
+    },
+    {
+      "title": "Hermod – Neun Nächte bis Hel · Erzählerfassung",
+      "basis": "hermod-hel-12",
+      "definition": "hermod-hel-12-erzaehler.json",
+      "text": "hermod-hel-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 133
+    },
+    {
+      "title": "Hildebrand – Den eigenen Sohn erkennen · Erzählerfassung",
+      "basis": "hildebrand-heimkehr-12",
+      "definition": "hildebrand-heimkehr-12-erzaehler.json",
+      "text": "hildebrand-heimkehr-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        7,
+        8,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 134
+    },
+    {
+      "title": "Die Herren von Hohensax · Erzählerfassung",
+      "basis": "hohensax-liederbuch-14",
+      "definition": "hohensax-liederbuch-14-erzaehler.json",
+      "text": "hohensax-liederbuch-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        4,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 141
+    },
+    {
+      "title": "Ida von der Toggenburg · Erzählerfassung",
+      "basis": "ida-toggenburg-16",
+      "definition": "ida-toggenburg-16-erzaehler.json",
+      "text": "ida-toggenburg-16-erzaehler.txt",
+      "count": 16,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        14,
+        15,
+        16
+      ],
+      "spoken_panels": [
+        5,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 138
+    },
+    {
+      "title": "Idun – Die geraubten Äpfel · Erzählerfassung",
+      "basis": "idun-aepfel-12",
+      "definition": "idun-aepfel-12-erzaehler.json",
+      "text": "idun-aepfel-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 133
+    },
+    {
+      "title": "Des Kaisers neue Kleider – Was niemand sehen darf · Erzählerfassung",
+      "basis": "kaiser-kleider-12",
+      "definition": "kaiser-kleider-12-erzaehler.json",
+      "text": "kaiser-kleider-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        6,
+        7,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        5,
+        8,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 138
+    },
+    {
+      "title": "Das kalte Herz – Der Preis des Reichtums · Erzählerfassung",
+      "basis": "kaltes-herz-18",
+      "definition": "kaltes-herz-18-erzaehler.json",
+      "text": "kaltes-herz-18-erzaehler.txt",
+      "count": 18,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        6,
+        9,
+        10,
+        12,
+        13,
+        15,
+        17,
+        18
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        11,
+        14,
+        16
+      ],
+      "warnings": [],
+      "max_caption_length": 131
+    },
+    {
+      "title": "Kastelen-Alpe · Erzählerfassung",
+      "basis": "kastelen-alpe-12",
+      "definition": "kastelen-alpe-12-erzaehler.json",
+      "text": "kastelen-alpe-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 135
+    },
+    {
+      "title": "Der kleine Muck – Die gestohlenen Zauberschuhe · Erzählerfassung",
+      "basis": "kleiner-muck-14",
+      "definition": "kleiner-muck-14-erzaehler.json",
+      "text": "kleiner-muck-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        4,
+        5,
+        10,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 119
+    },
+    {
+      "title": "Der kleine Prinz · Erzählerfassung",
+      "basis": "kleiner-prinz-12",
+      "definition": "kleiner-prinz-12-erzaehler.json",
+      "text": "kleiner-prinz-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 144
+    },
+    {
+      "title": "König Drosselbart – Der Mann in der Verkleidung · Erzählerfassung",
+      "basis": "koenig-drosselbart-14",
+      "definition": "koenig-drosselbart-14-erzaehler.json",
+      "text": "koenig-drosselbart-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        8,
+        10,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 143
+    },
+    {
+      "title": "Die Kristallkugel – Das Ei im Feuervogel · Erzählerfassung",
+      "basis": "kristallkugel-16",
+      "definition": "kristallkugel-16-erzaehler.json",
+      "text": "kristallkugel-16-erzaehler.txt",
+      "count": 16,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "spoken_panels": [
+        4,
+        16
+      ],
+      "warnings": [],
+      "max_caption_length": 125
+    },
+    {
+      "title": "Kudrun – Ungebrochen und zur Versöhnung fähig · Erzählerfassung",
+      "basis": "kudrun-versoehnung-14",
+      "definition": "kudrun-versoehnung-14-erzaehler.json",
+      "text": "kudrun-versoehnung-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        7,
+        11,
+        13,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 141
+    },
+    {
+      "title": "Loki – Die Wette in der Schmiede · Erzählerfassung",
+      "basis": "loki-zwergenschmiede-12",
+      "definition": "loki-zwergenschmiede-12-erzaehler.json",
+      "text": "loki-zwergenschmiede-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        7,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 139
+    },
+    {
+      "title": "Luzerner Hörner und Mordnacht · Erzählerfassung",
+      "basis": "luzerner-mordnacht-10",
+      "definition": "luzerner-mordnacht-10-erzaehler.json",
+      "text": "luzerner-mordnacht-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        7
+      ],
+      "warnings": [],
+      "max_caption_length": 135
+    },
+    {
+      "title": "20.000 Meilen unter den Meeren – Angriff auf die Nautilus · Erzählerfassung",
+      "basis": "nautilus-angriff-12",
+      "definition": "nautilus-angriff-12-erzaehler.json",
+      "text": "nautilus-angriff-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        5,
+        7,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 134
+    },
+    {
+      "title": "Orpheus – Nicht zurückblicken · Erzählerfassung",
+      "basis": "orpheus-rueckblick-10",
+      "definition": "orpheus-rueckblick-10-erzaehler.json",
+      "text": "orpheus-rueckblick-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        4,
+        7
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Der Zauberer von Oz – Hinter dem Vorhang · Erzählerfassung",
+      "basis": "oz-vorhang-12",
+      "definition": "oz-vorhang-12-erzaehler.json",
+      "text": "oz-vorhang-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        6,
+        7,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        5,
+        8,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 130
+    },
+    {
+      "title": "Perseus – Der Blick im Schild · Erzählerfassung",
+      "basis": "perseus-spiegelschild-12",
+      "definition": "perseus-spiegelschild-12-erzaehler.json",
+      "text": "perseus-spiegelschild-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        2
+      ],
+      "warnings": [],
+      "max_caption_length": 126
+    },
+    {
+      "title": "Der Pilatus und die Herdmanndli · Erzählerfassung",
+      "basis": "pilatus-herdmanndli-kirschen-12",
+      "definition": "pilatus-herdmanndli-kirschen-12-erzaehler.json",
+      "text": "pilatus-herdmanndli-kirschen-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        7,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 125
+    },
+    {
+      "title": "Der Rattenfänger – Der gebrochene Handel · Erzählerfassung",
+      "basis": "rattenfaenger-hameln-12",
+      "definition": "rattenfaenger-hameln-12-erzaehler.json",
+      "text": "rattenfaenger-hameln-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 123
+    },
+    {
+      "title": "Reise zum Mittelpunkt der Erde – Das Meer unter dem Vulkan · Erzählerfassung",
+      "basis": "reise-erdmittelpunkt-18",
+      "definition": "reise-erdmittelpunkt-18-erzaehler.json",
+      "text": "reise-erdmittelpunkt-18-erzaehler.txt",
+      "count": 18,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "spoken_panels": [
+        7,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 128
+    },
+    {
+      "title": "Vom deutschen Rheinstrom · Erzählerfassung",
+      "basis": "rheinstrom-bund-14",
+      "definition": "rheinstrom-bund-14-erzaehler.json",
+      "text": "rheinstrom-bund-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "spoken_panels": [
+        5,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 122
+    },
+    {
+      "title": "Rikki-Tikki-Tavi – Der Wächter des Gartens · Erzählerfassung",
+      "basis": "rikki-tikki-tavi-14",
+      "definition": "rikki-tikki-tavi-14-erzaehler.json",
+      "text": "rikki-tikki-tavi-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        6,
+        7,
+        9,
+        10,
+        12,
+        13,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        5,
+        8,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 122
+    },
+    {
+      "title": "Robinson Crusoe – Die ersten Tage allein · Erzählerfassung",
+      "basis": "robinson-erste-tage-10",
+      "definition": "robinson-erste-tage-10-erzaehler.json",
+      "text": "robinson-erste-tage-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [],
+      "warnings": [],
+      "max_caption_length": 126
+    },
+    {
+      "title": "Sankt Gallus · Erzählerfassung",
+      "basis": "sankt-gallus-appenzell-16",
+      "definition": "sankt-gallus-appenzell-16-erzaehler.json",
+      "text": "sankt-gallus-appenzell-16-erzaehler.txt",
+      "count": 16,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16
+      ],
+      "spoken_panels": [
+        2,
+        8,
+        14
+      ],
+      "warnings": [],
+      "max_caption_length": 130
+    },
+    {
+      "title": "Der Schatten – Der Diener wird zum Herrn · Erzählerfassung",
+      "basis": "schatten-14",
+      "definition": "schatten-14-erzaehler.json",
+      "text": "schatten-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        6,
+        9,
+        12,
+        13,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 119
+    },
+    {
+      "title": "Die Schatzinsel – Das leere Loch · Erzählerfassung",
+      "basis": "schatzinsel-leeres-loch-12",
+      "definition": "schatzinsel-leeres-loch-12-erzaehler.json",
+      "text": "schatzinsel-leeres-loch-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        7
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Die Schneekönigin – Wärme im Eispalast · Erzählerfassung",
+      "basis": "schneekoenigin-12",
+      "definition": "schneekoenigin-12-erzaehler.json",
+      "text": "schneekoenigin-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        7,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 117
+    },
+    {
+      "title": "Das Mädchen mit den Schwefelhölzern – Ein Licht nach dem anderen · Erzählerfassung",
+      "basis": "schwefelhoelzer-12",
+      "definition": "schwefelhoelzer-12-erzaehler.json",
+      "text": "schwefelhoelzer-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5
+      ],
+      "warnings": [],
+      "max_caption_length": 122
+    },
+    {
+      "title": "Des Schweizervolkes Ursprung · Erzählerfassung",
+      "basis": "schweizervolkes-ursprung-12",
+      "definition": "schweizervolkes-ursprung-12-erzaehler.json",
+      "text": "schweizervolkes-ursprung-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [],
+      "warnings": [],
+      "max_caption_length": 126
+    },
+    {
+      "title": "Sechse kommen durch die ganze Welt – Jeder kann etwas Unmögliches · Erzählerfassung",
+      "basis": "sechse-welt-14",
+      "definition": "sechse-welt-14-erzaehler.json",
+      "text": "sechse-welt-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "spoken_panels": [
+        8,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Siegfried – Mut vor dem Drachen · Erzählerfassung",
+      "basis": "siegfried-drache-8",
+      "definition": "siegfried-drache-8-erzaehler.json",
+      "text": "siegfried-drache-8-erzaehler.txt",
+      "count": 8,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "spoken_panels": [
+        1,
+        2
+      ],
+      "warnings": [],
+      "max_caption_length": 132
+    },
+    {
+      "title": "Der kopflose Reiter – Die letzte Brücke · Erzählerfassung",
+      "basis": "sleepy-hollow-12",
+      "definition": "sleepy-hollow-12-erzaehler.json",
+      "text": "sleepy-hollow-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        5,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 131
+    },
+    {
+      "title": "Der Tannenbaum – Immer erst morgen · Erzählerfassung",
+      "basis": "tannenbaum-12",
+      "definition": "tannenbaum-12-erzaehler.json",
+      "text": "tannenbaum-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        5,
+        7,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Die Tellensage · Erzählerfassung",
+      "basis": "tellensage-bund-18",
+      "definition": "tellensage-bund-18-erzaehler.json",
+      "text": "tellensage-bund-18-erzaehler.txt",
+      "count": 18,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        7
+      ],
+      "warnings": [],
+      "max_caption_length": 128
+    },
+    {
+      "title": "Theseus – Der Faden durch die Finsternis · Erzählerfassung",
+      "basis": "theseus-faden-10",
+      "definition": "theseus-faden-10-erzaehler.json",
+      "text": "theseus-faden-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        2
+      ],
+      "warnings": [],
+      "max_caption_length": 124
+    },
+    {
+      "title": "Thor – Der gestohlene Hammer · Erzählerfassung",
+      "basis": "thor-gestohlener-hammer-12",
+      "definition": "thor-gestohlener-hammer-12-erzaehler.json",
+      "text": "thor-gestohlener-hammer-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        6,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        4,
+        5,
+        7,
+        8,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 127
+    },
+    {
+      "title": "Thor – Die unmöglichen Prüfungen · Erzählerfassung",
+      "basis": "thor-utgard-14",
+      "definition": "thor-utgard-14-erzaehler.json",
+      "text": "thor-utgard-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5,
+        7,
+        10,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 125
+    },
+    {
+      "title": "Tischchen deck dich – Die gestohlenen Wundergaben · Erzählerfassung",
+      "basis": "tischchen-wundergaben-12",
+      "definition": "tischchen-wundergaben-12-erzaehler.json",
+      "text": "tischchen-wundergaben-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        7,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 132
+    },
+    {
+      "title": "Tyr – Die Hand als Pfand · Erzählerfassung",
+      "basis": "tyr-fenrir-12",
+      "definition": "tyr-fenrir-12-erzaehler.json",
+      "text": "tyr-fenrir-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        8,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 129
+    },
+    {
+      "title": "Die vier kunstreichen Brüder – Gemeinsam gegen den Drachen · Erzählerfassung",
+      "basis": "vier-kunstreiche-brueder-12",
+      "definition": "vier-kunstreiche-brueder-12-erzaehler.json",
+      "text": "vier-kunstreiche-brueder-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 126
+    },
+    {
+      "title": "Walther und Hildegund – Gemeinsam in die Freiheit · Erzählerfassung",
+      "basis": "walther-hildegund-14",
+      "definition": "walther-hildegund-14-erzaehler.json",
+      "text": "walther-hildegund-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        6,
+        8,
+        9,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        10,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 132
+    },
+    {
+      "title": "Das Wasser des Lebens – Vor Mitternacht · Erzählerfassung",
+      "basis": "wasser-des-lebens-12",
+      "definition": "wasser-des-lebens-12-erzaehler.json",
+      "text": "wasser-des-lebens-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 129
+    },
+    {
+      "title": "Eine Weihnachtsgeschichte · Erzählerfassung",
+      "basis": "weihnachtsgeschichte-14",
+      "definition": "weihnachtsgeschichte-14-erzaehler.json",
+      "text": "weihnachtsgeschichte-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        6,
+        9,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 144
+    },
+    {
+      "title": "Die treuen Frauen von Weinsberg – Was wir tragen können · Erzählerfassung",
+      "basis": "weinsberg-worttreue-8",
+      "definition": "weinsberg-worttreue-8-erzaehler.json",
+      "text": "weinsberg-worttreue-8-erzaehler.txt",
+      "count": 8,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "spoken_panels": [
+        2,
+        7
+      ],
+      "warnings": [],
+      "max_caption_length": 120
+    },
+    {
+      "title": "Die weiße Schlange – Wer die Tiere versteht · Erzählerfassung",
+      "basis": "weisse-schlange-14",
+      "definition": "weisse-schlange-14-erzaehler.json",
+      "text": "weisse-schlange-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        8,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 132
+    },
+    {
+      "title": "Wieland – Freiheit durch Können · Erzählerfassung",
+      "basis": "wieland-handwerk-10",
+      "definition": "wieland-handwerk-10-erzaehler.json",
+      "text": "wieland-handwerk-10-erzaehler.txt",
+      "count": 10,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        8
+      ],
+      "warnings": [],
+      "max_caption_length": 133
+    },
+    {
+      "title": "Winkelried und der Lindwurm · Erzählerfassung",
+      "basis": "winkelried-lindwurm-12",
+      "definition": "winkelried-lindwurm-12-erzaehler.json",
+      "text": "winkelried-lindwurm-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "spoken_panels": [],
+      "warnings": [],
+      "max_caption_length": 126
+    },
+    {
+      "title": "Wolfdietrich – Die Gefährten nicht vergessen · Erzählerfassung",
+      "basis": "wolfdietrich-treue-12",
+      "definition": "wolfdietrich-treue-12-erzaehler.json",
+      "text": "wolfdietrich-treue-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        2,
+        5,
+        7,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 134
+    },
+    {
+      "title": "Die Zeitmaschine – Der erste Blick auf das Jahr 802701 · Erzählerfassung",
+      "basis": "zeitmaschine-ankunft-12",
+      "definition": "zeitmaschine-ankunft-12-erzaehler.json",
+      "text": "zeitmaschine-ankunft-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        6,
+        9,
+        11,
+        12
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        5,
+        7,
+        8,
+        10
+      ],
+      "warnings": [],
+      "max_caption_length": 141
+    },
+    {
+      "title": "Die zertanzten Schuhe – Der Weg unter dem Bett · Erzählerfassung",
+      "basis": "zertanzte-schuhe-12",
+      "definition": "zertanzte-schuhe-12-erzaehler.json",
+      "text": "zertanzte-schuhe-12-erzaehler.txt",
+      "count": 12,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        12
+      ],
+      "spoken_panels": [
+        2,
+        5,
+        10,
+        11
+      ],
+      "warnings": [],
+      "max_caption_length": 153
+    },
+    {
+      "title": "Zwerg Nase – Das verlorene Gesicht · Erzählerfassung",
+      "basis": "zwerg-nase-14",
+      "definition": "zwerg-nase-14-erzaehler.json",
+      "text": "zwerg-nase-14-erzaehler.txt",
+      "count": 14,
+      "narrator_interval": 3,
+      "narrator_panels": [
+        2,
+        3,
+        6,
+        9,
+        12,
+        14
+      ],
+      "spoken_panels": [
+        1,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        13
+      ],
+      "warnings": [],
+      "max_caption_length": 139
     }
   ]
 }

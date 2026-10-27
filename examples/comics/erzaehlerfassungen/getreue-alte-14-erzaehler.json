@@ -1,0 +1,667 @@
+{
+  "mode": "editorial",
+  "name": "Die getreue Alte · Erzählerfassung",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die getreue Alte. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 192.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Husum sollte einst ein Winterfest gefeiert werden auf dem Eise, denn das Eis war fest. Zelte wurden aufgeschlagen auf der herrlichen blanken Fläche zwischen dem Ufer und der Insel Nordstrand, Schlittschuh lief, was laufen konnte, Stuhlschlitten flogen dahin, Musik und Tanz, Lied und Becherklang verherrlichte den schönen Tag und die nahe lichthelle Mondnacht, die den Jubel noch vermehren sollte, denn schon ging der Mond auf.\n\nAlles und alles war hinaus aufs Eis und machte sich lustig, nur ein steinaltes Mütterlein war zurückgeblieben, hatte die Weltlust hinter sich, und wenn sie ja wollte, konnte sie hinaus und hinab aufs Eis sehen, denn ihr Häuslein stand auf dem Damme. Und sie tat’s, sie sah gegen Abend hinaus und sah im Westen ein Wölkchen über die Kimmung heraufziehen, da befiel sie große Angst, denn sie war eines Schiffers Witwe und kannte die See und die Zeichen von Wetter und Wind. Sie rief, sie winkte – niemand vernahm sie, niemand blickte nach ihr – aber das Wölkchen wuchs zusehends und war ein Bote der Flut und schnell umspringenden Windes von Nord nach West. Und wenn die auf dem Eise nur noch eine halbe – eine Viertelstunde zögerten, so war es um sie getan, so stand Husum menschenleer. Wie die Wolke wuchs, zusehends, riesengroß, schwarz – wie sie schon den lauen Windhauch spürte, wuchs auch der Alten unsagliche Angst – und sie war allein, krank, halb gelähmt, machtlos. Dennoch ermannt sie sich, kriecht auf Händen und Füßen zum Ofen, nimmt einen Brand, zündet das Stroh ihres eignen Bettes an und kriecht zur Türe des Häuschens hinaus. Bald schlägt die Flamme aus dem Fenster, hinauf zum Dach, des Sturmes Odem facht hellodernde Glut an, und: Feuer! Feuer! schreit es auf dem Eise, und die Zelte werden verlassen, die Schlittschuhläufer fliegen dem Strande zu, die Schlitten lenken sich heimwärts. Und da faucht schon der Wind über die Eisfläche, da pocht’s schon drunten und poltert, und wie Kanonendonner kracht das Eis in der Ferne. Die schwarze Wolke überzog den Mond und den ganzen Himmel, wie ein Leuchtturm flammt das Haus der Witwe und zeigt den Heimwärtseilenden die sichere Bahn. Wie die letzten am Strande sind, rollt die Flut ihre Wogen über das Eis und reißt Zelte und Tonnen, Wagen und Zechgeräte in ihre rauschenden Wirbel.\n\nDie arme Alte hatte ihr Häuschen geopfert, die Bewohner ihrer Stadt zu retten. Es wird ihr ja wohl nicht unvergolten geblieben sein.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die getreue Alte. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 192.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Husum sollte einst ein Winterfest gefeiert werden auf dem Eise, denn das Eis war fest. Zelte wurden aufgeschlagen auf der herrlichen blanken Fläche zwischen dem Ufer und der Insel Nordstrand, Schlittschuh lief, was laufen konnte, Stuhlschlitten flogen dahin, Musik und Tanz, Lied und Becherklang verherrlichte den schönen Tag und die nahe lichthelle Mondnacht, die den Jubel noch vermehren sollte, denn schon ging der Mond auf.\n\nAlles und alles war hinaus aufs Eis und machte sich lustig, nur ein steinaltes Mütterlein war zurückgeblieben, hatte die Weltlust hinter sich, und wenn sie ja wollte, konnte sie hinaus und hinab aufs Eis sehen, denn ihr Häuslein stand auf dem Damme. Und sie tat’s, sie sah gegen Abend hinaus und sah im Westen ein Wölkchen über die Kimmung heraufziehen, da befiel sie große Angst, denn sie war eines Schiffers Witwe und kannte die See und die Zeichen von Wetter und Wind. Sie rief, sie winkte – niemand vernahm sie, niemand blickte nach ihr – aber das Wölkchen wuchs zusehends und war ein Bote der Flut und schnell umspringenden Windes von Nord nach West. Und wenn die auf dem Eise nur noch eine halbe – eine Viertelstunde zögerten, so war es um sie getan, so stand Husum menschenleer. Wie die Wolke wuchs, zusehends, riesengroß, schwarz – wie sie schon den lauen Windhauch spürte, wuchs auch der Alten unsagliche Angst – und sie war allein, krank, halb gelähmt, machtlos. Dennoch ermannt sie sich, kriecht auf Händen und Füßen zum Ofen, nimmt einen Brand, zündet das Stroh ihres eignen Bettes an und kriecht zur Türe des Häuschens hinaus. Bald schlägt die Flamme aus dem Fenster, hinauf zum Dach, des Sturmes Odem facht hellodernde Glut an, und: Feuer! Feuer! schreit es auf dem Eise, und die Zelte werden verlassen, die Schlittschuhläufer fliegen dem Strande zu, die Schlitten lenken sich heimwärts. Und da faucht schon der Wind über die Eisfläche, da pocht’s schon drunten und poltert, und wie Kanonendonner kracht das Eis in der Ferne. Die schwarze Wolke überzog den Mond und den ganzen Himmel, wie ein Leuchtturm flammt das Haus der Witwe und zeigt den Heimwärtseilenden die sichere Bahn. Wie die letzten am Strande sind, rollt die Flut ihre Wogen über das Eis und reißt Zelte und Tonnen, Wagen und Zechgeräte in ihre rauschenden Wirbel.\n\nDie arme Alte hatte ihr Häuschen geopfert, die Bewohner ihrer Stadt zu retten. Es wird ihr ja wohl nicht unvergolten geblieben sein.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Das ganze Licht draußen",
+        "setting": "Husum, Haus auf dem Damm und Festfläche, später Winternachmittag",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2",
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8",
+          "423fafd0c5e95bf589df448ba120479e"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Ansicht aus der Stube durch das Fenster. Links im Vordergrund die Witwe auf ihrem Stuhl; rechts draußen klein die drei wiedererkennbaren Feiernden zwischen Zelten, Tischen und stummen Hintergrundgästen. Damm als deutliche Grenze zwischen Haus und Eis. Kind und Mutter tragen Schuhe, keine Kufen. Viel heller Himmel über dem Fest. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: links drinnen am Fenster; Körperhaltung: auf einem niedrigen Stuhl sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug.. Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts weit draußen auf dem Eis; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: neben der Mutter auf dem Eis; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: am offenen Festzelt auf dem Eis; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..",
+        "dialog": "Vor Husum feierte die Stadt ein Winterfest auf dem Eis. Nur eine alte Schifferwitwe war in ihrem Haus am Damm geblieben.",
+        "bubbles": [],
+        "continuity": "Fester Grundriss: Haus auf dem sicheren Damm; Fest auf dem Eis davor. Ofen links in der Stube, Bett rechts nahe der Haustür. Alle sind zunächst außerhalb akuter Gefahr.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "links drinnen am Fenster",
+            "posture": "auf einem niedrigen Stuhl sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          },
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "rechts weit draußen auf dem Eis",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "neben der Mutter auf dem Eis",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          },
+          "423fafd0c5e95bf589df448ba120479e": {
+            "movement": "zu Fuß",
+            "location": "am offenen Festzelt auf dem Eis",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze."
+          }
+        }
+      },
+      {
+        "heading": "Ein kleines Zeichen",
+        "setting": "Am selben Fenster, gegen Abend",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe von hinten über ihre Schulter auf den westlichen Horizont. Dort hebt sich eine kleine dunkle Wolke über dem Meer; noch überwiegend heller Himmel. Eine Hand der Witwe liegt am Fensterrahmen, die andere auf dem Schoß. Keine aufspringende oder gehende Frau. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: am Fenster im Haus; Körperhaltung: auf dem Stuhl sitzend, Oberkörper zum Fenster geneigt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "3ed8dd5ea129511b830fb246f1f2b4a2",
+            "text": "Nicht von dort. Nicht jetzt.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Die Witwe erkennt die sich nähernde Wetteränderung aus Erfahrung. Die Wolke beginnt klein und darf in späteren Bildern wachsen, nicht wieder kleiner werden.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "am Fenster im Haus",
+            "posture": "auf dem Stuhl sitzend, Oberkörper zum Fenster geneigt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      },
+      {
+        "heading": "Gegen den Lärm",
+        "setting": "Dasselbe Fenster, wenig später",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Außenansicht des geöffneten Fensters. Die Witwe sitzt sichtbar tief hinter der Brüstung, ihr graues Tuch und die weiße Haube bleiben gleich. Sie winkt mit einer einzigen erhobenen Hand zum Fest, der Mund ist geöffnet. Über dem Dach ist die westliche Wolke bereits größer. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: drinnen an der geöffneten Fensterhälfte; Körperhaltung: sitzend, ein Arm winkend angehoben; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "Sie erkannte die kleine Wolke im Westen als Gefahr für die Feiernden. Vom Fenster aus rief und winkte sie zum Eis hinaus.",
+        "bubbles": [],
+        "continuity": "Das Fenster wurde zwischen 2 und 3 geöffnet. Die Witwe kann weder hinunterlaufen noch die Menschen eigenhändig holen; sie bleibt auf ihrem Stuhl.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "drinnen an der geöffneten Fensterhälfte",
+            "posture": "sitzend, ein Arm winkend angehoben",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      },
+      {
+        "heading": "Nicht gehört",
+        "setting": "Zwischen Festzelt und Eisfläche, gleichzeitig",
+        "characters": [
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8",
+          "423fafd0c5e95bf589df448ba120479e"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale vom Fest aus. Mutter und Kind lauschen links einer undeutlichen Gruppe Musiker im Hintergrund; rechts beschäftigt sich der Helfer mit dem Tisch. Die Witwe ist weit entfernt nur als kleines unlesbares Fensterdetail am Damm zu erkennen, kein zweites großes Figurenbild. Keine Person spottet über ihre Warnung; sie kommt nur nicht durch. Der Mond steht jetzt knapp am Horizont. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links vor dem Festzelt; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: bei der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: rechts am Tisch des Zelts; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einfacher leerer Holzbecher in der linken Hand; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..",
+        "dialog": "Doch Musik und Festlärm übertönten die Warnung. Niemand bemerkte die Frau am Fenster.",
+        "bubbles": [],
+        "continuity": "Gleichzeitiger Blickwechsel, kein Zeitsprung über die Gefahr hinweg. Die Menschen wissen noch nichts von der Warnung und ignorieren sie nicht absichtlich.",
+        "character_states": {},
+        "continuity_state": {
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Festzelt",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "bei der Mutter",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          },
+          "423fafd0c5e95bf589df448ba120479e": {
+            "movement": "zu Fuß",
+            "location": "rechts am Tisch des Zelts",
+            "posture": "stehend",
+            "held": "ein einfacher leerer Holzbecher in der linken Hand",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze."
+          }
+        }
+      },
+      {
+        "heading": "Kein Weg zu ihnen",
+        "setting": "Stube der Witwe, unmittelbar danach",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Tiefer Blick auf die Dielen. Der leere Stuhl steht hinten am offenen Fenster, die Witwe kniet im Vordergrund auf beiden Knien und stützt sich mit beiden Händen ab. Sie hat sich vom Stuhl auf den Boden hinabgelassen, nicht plötzlich Gehfähigkeit gewonnen. Der Ofen liegt links im nächsten erreichbaren Bereich; das Bett bleibt rechts an der Tür sichtbar. Keine Gegenstände in den Händen. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: auf den Dielen zwischen Fensterstuhl und Ofen; Körperhaltung: auf Händen und Knien, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "3ed8dd5ea129511b830fb246f1f2b4a2",
+            "text": "Die Zeit reicht nicht.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Übergang ausdrücklich: Vom Stuhl hat sie sich mühsam auf den Boden abgesenkt. Ab jetzt kriecht sie; sie steht bis zum Schluss nicht unvermittelt wieder auf.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "auf den Dielen zwischen Fensterstuhl und Ofen",
+            "posture": "auf Händen und Knien, erschöpft",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      },
+      {
+        "heading": "Was noch bleibt",
+        "setting": "Neben dem Ofen in derselben Stube",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Witwe auf den Knien links am Ofen, die linke Hand stützt sie auf dem Boden. In der rechten hält sie einen kleinen glimmenden Brand, keinen modernen Gegenstand und keine Fackel. Ihr Blick geht zum Strohbett rechts im Hintergrund. Der Moment ist ihr stiller Entschluss, keine erklärende Schrittfolge. Keine offene großflächige Flamme im Zimmer. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: links am Ofen auf den Dielen; Körperhaltung: knieend, linke Hand am Boden; Mitgeführte Gegenstände: kleines glimmendes Stück in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "Sie konnte die Menschen nicht mehr rechtzeitig erreichen. Nun entschied sie sich, das eigene Haus als Warnsignal zu opfern.",
+        "bubbles": [],
+        "continuity": "Sie hat den Ofen kriechend erreicht. Der Brand ist ein einziges kleines Stück; nicht zugleich in beiden Händen. Das Bett brennt hier noch nicht.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "links am Ofen auf den Dielen",
+            "posture": "knieend, linke Hand am Boden",
+            "held": "kleines glimmendes Stück in der rechten Hand",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      },
+      {
+        "heading": "Ihr eigenes Bett",
+        "setting": "Rechte Seite der Stube, Augenblicke später",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale ohne technische Detailaufnahme. Am unteren Rand des Strohlagers glimmt bereits eine kleine erste Flamme. Daneben die kniende Witwe, die nun die leere rechte Hand zu sich zurückzieht. Der Stuhl bleibt weit hinten am Fenster; Ofen links im Hintergrund. Das Bild zeigt die bereits begonnene Folge ihrer Entscheidung, keine Anleitung. Keine weitere brennende Stelle im Haus. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: neben dem Strohbett nahe der Haustür; Körperhaltung: knieend, Oberkörper vom Bett zurückweichend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "Ihr Strohlager begann zu brennen. Das Feuer sollte die Blicke zum Damm und weg vom Fest lenken.",
+        "bubbles": [],
+        "continuity": "Zwischen 6 und 7 hat sie den Brand zum eigenen Bett gebracht. Er liegt nun am Lager, nicht mehr in ihrer Hand. Sie muss sofort zur nahen Tür hinaus und erhält keine Hilfe im Zimmer.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "neben dem Strohbett nahe der Haustür",
+            "posture": "knieend, Oberkörper vom Bett zurückweichend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      },
+      {
+        "heading": "Nur noch hinaus",
+        "setting": "Haustür auf dem Damm, unmittelbar danach",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ansicht von außen. Die Witwe ist mit dem gesamten Körper bereits über der Schwelle auf den Steinen vor dem Haus, Hände und Knie auf festem Dammgrund. Hinter ihr bleibt die offene Tür; innen orangefarbenes Flackern und erster Rauch. Kein zweiter Körper noch im Bett, keine Katze oder unbelegte Hilfsperson. Wind zieht ihr graues Tuch leicht zur Seite. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: draußen auf den Steinen unmittelbar vor der Haustür; Körperhaltung: auf Händen und Knien, vom Eingang wegkriechend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "Auf Händen und Knien brachte sie sich über die Schwelle nach draußen. Ihr Haus blieb hinter ihr zurück.",
+        "bubbles": [],
+        "continuity": "Sie hat den kurzen Weg vom Bett zur Tür kriechend geschafft und das brennende Haus verlassen. Ab jetzt bleibt sie draußen auf dem Damm; keine spätere Innenaufnahme mit ihr.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "draußen auf den Steinen unmittelbar vor der Haustür",
+            "posture": "auf Händen und Knien, vom Eingang wegkriechend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      },
+      {
+        "heading": "Das Wort, das ankommt",
+        "setting": "Festfläche, Abenddämmerung",
+        "characters": [
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8",
+          "423fafd0c5e95bf589df448ba120479e"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Blick vom Eis zum Damm. In der Ferne schlagen jetzt Flammen aus dem Fenster der Witwe. Im Vordergrund drehen Mutter und Kind die Köpfe; der Helfer zeigt mit einem Arm zum Haus. Sein Holzbecher steht auf dem nahen Tisch, er hält keinen. Die kleine Wolke ist nun ein dunkler breiter Streifen. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links am Rand des Festzelts; Körperhaltung: stehend, Kopf zum Damm gedreht; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts dicht bei der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: mittig vor dem Festzelt; Körperhaltung: stehend, ein Arm zum Haus weisend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..",
+        "dialog": "Erst die Flammen erreichten die Aufmerksamkeit der Feiernden. Auf dem Eis wandten sie sich endlich dem Damm zu.",
+        "bubbles": [],
+        "continuity": "Erst jetzt bemerken die Feiernden den Brand. Das brennende Haus ist ein Signal am Ufer, nicht ein Festzelt auf dem Eis. Der Becher wurde auf dem Tisch abgestellt.",
+        "character_states": {},
+        "continuity_state": {
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "links am Rand des Festzelts",
+            "posture": "stehend, Kopf zum Damm gedreht",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "rechts dicht bei der Mutter",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          },
+          "423fafd0c5e95bf589df448ba120479e": {
+            "movement": "zu Fuß",
+            "location": "mittig vor dem Festzelt",
+            "posture": "stehend, ein Arm zum Haus weisend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze."
+          }
+        }
+      },
+      {
+        "heading": "Zurück",
+        "setting": "Rand der Festzelte, direkt danach",
+        "characters": [
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8",
+          "423fafd0c5e95bf589df448ba120479e"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Seitenansicht der beginnenden Rückkehr. Mutter links und Kind rechts gehen gemeinsam in Richtung des hell brennenden Hauses am Damm; der Helfer ist ihnen voraus. Die Zelte und unbenutzten Becher bleiben hinter ihnen. Kein Mensch läuft vom Ufer weg. Dunkle Wolken schieben sich vor den eben aufgegangenen Mond. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links zwischen Zelt und Rückweg; Körperhaltung: gehend; Mitgeführte Gegenstände: rechte Hand hält die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts neben der Mutter; Körperhaltung: gehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: vor ihnen Richtung Ufer; Körperhaltung: gehend, Blick über die Schulter; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "423fafd0c5e95bf589df448ba120479e",
+            "text": "Zum Ufer! Alles liegen lassen!",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "b32e6cce804d54ffb4e3ce7c9ec097be",
+            "text": "Bei mir bleiben.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Zwischen 9 und 10 hat die Mutter die linke Hand des Kindes mit ihrer rechten gefasst. Beide tragen unverändert feste Schuhe. Das Fest wird verlassen, bevor die Flut eintrifft.",
+        "character_states": {},
+        "continuity_state": {
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "links zwischen Zelt und Rückweg",
+            "posture": "gehend",
+            "held": "rechte Hand hält die linke Hand des Kindes",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "rechts neben der Mutter",
+            "posture": "gehend",
+            "held": "linke Hand hält die rechte Hand der Mutter",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          },
+          "423fafd0c5e95bf589df448ba120479e": {
+            "movement": "zu Fuß",
+            "location": "vor ihnen Richtung Ufer",
+            "posture": "gehend, Blick über die Schulter",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze."
+          }
+        }
+      },
+      {
+        "heading": "Das Geräusch darunter",
+        "setting": "Eisfläche zwischen Fest und Damm, Sekunden später",
+        "characters": [
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Tiefer seitlicher Blick auf feste Schuhe auf dem Eis. Die Mutter links und das Kind rechts sind im selben sicheren Gehschritt; die Handverbindung ist oben angeschnitten erkennbar. Hinter ihnen weit entfernt eine erste lange dunkle Bruchlinie, nicht direkt unter ihren Füßen. Kein Sturz. Im Hintergrund das Feuer als Fixpunkt am Ufer. Keine Lautschrift aus winzigen Buchstaben. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links auf dem Rückweg; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: rechte Hand hält die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts neben der Mutter; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe..",
+        "dialog": "Unter den zurückkehrenden Menschen begann das Eis zu pochen. Die Wettergefahr war keine ferne Vermutung mehr.",
+        "bubbles": [],
+        "continuity": "Die beiden sind noch auf dem Eis und bewegen sich weiter zum gleichen Ufer. Der Riss liegt hinter ihnen in der Entfernung; kein hinzuerfundenes Loch, aus dem sie gerettet werden müssten.",
+        "character_states": {},
+        "continuity_state": {
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Rückweg",
+            "posture": "eilig gehend",
+            "held": "rechte Hand hält die linke Hand des Kindes",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "rechts neben der Mutter",
+            "posture": "eilig gehend",
+            "held": "linke Hand hält die rechte Hand der Mutter",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          }
+        }
+      },
+      {
+        "heading": "Die letzte Strecke",
+        "setting": "Unterhalb des Damms, letzte Sekunden vor der Flut",
+        "characters": [
+          "423fafd0c5e95bf589df448ba120479e",
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite klare Raumaufteilung: Ufer rechts, Eis links, brennendes Haus weiter rechts oben auf dem Damm. Der Helfer steht bereits auf festem Grund und weist den letzten Kommenden die Richtung. Mutter und Kind folgen unmittelbar vor der Uferkante, niemand liegt im Wasser. Weitere letzte Festgäste nur als kleine stumme Gestalten hinter ihnen. Der Mond ist nun von Wolken verdeckt. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links auf der letzten Eisstrecke; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: rechte Hand hält weiterhin die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts neben der Mutter, kurz vor dem Ufer; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: rechts oben auf festem Ufergrund; Körperhaltung: stehend, beide Arme zum Weg geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..",
+        "dialog": "Die Letzten näherten sich dem Ufer. Das brennende Haus zeigte ihnen die Richtung zum sicheren Damm.",
+        "bubbles": [],
+        "continuity": "Der Helfer hat das Ufer vor den anderen erreicht. Mutter und Kind sind noch auf dem Eis; kein Sprung über eine übergroße Spalte. Die Witwe bleibt oberhalb an der Hausseite außerhalb dieses Ausschnitts.",
+        "character_states": {},
+        "continuity_state": {
+          "423fafd0c5e95bf589df448ba120479e": {
+            "movement": "zu Fuß",
+            "location": "rechts oben auf festem Ufergrund",
+            "posture": "stehend, beide Arme zum Weg geöffnet",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze."
+          },
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "links auf der letzten Eisstrecke",
+            "posture": "eilig gehend",
+            "held": "rechte Hand hält weiterhin die linke Hand des Kindes",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "rechts neben der Mutter, kurz vor dem Ufer",
+            "posture": "eilig gehend",
+            "held": "linke Hand hält die rechte Hand der Mutter",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          }
+        }
+      },
+      {
+        "heading": "Alle am Strand",
+        "setting": "Sicherer Ufersaum, unmittelbar danach",
+        "characters": [
+          "423fafd0c5e95bf589df448ba120479e",
+          "b32e6cce804d54ffb4e3ce7c9ec097be",
+          "6485d7412b915822aaff2b73954552b8"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Blick vom sicheren Ufer zurück auf die verlassene Festfläche. Mutter, Kind und Helfer stehen sämtlich mit beiden Füßen auf festem Grund. Dahinter drückt die erste große Flut über das brechende Eis; Zeltstangen und ein leerer Tisch werden davon erfasst. Keine Menschen mehr auf der überschwemmten Fläche. Der Vordergrund bleibt oberhalb des Wassers. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links neben dem Helfer auf festem Grund; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand hält die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: zwischen Mutter und Helfer auf dem Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: rechts auf dem erhöhten Ufer; Körperhaltung: stehend, nach links zum Eis blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "b32e6cce804d54ffb4e3ce7c9ec097be",
+            "text": "Alle da?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "423fafd0c5e95bf589df448ba120479e",
+            "text": "Alle. Gerade noch.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Der Uferübertritt ist zwischen 12 und 13 erfolgt. Die Flut erreicht das Eis erst nach den letzten Menschen. Keine Verluste oder zusätzliche Vermisstensuche erfinden.",
+        "character_states": {},
+        "continuity_state": {
+          "423fafd0c5e95bf589df448ba120479e": {
+            "movement": "zu Fuß",
+            "location": "rechts auf dem erhöhten Ufer",
+            "posture": "stehend, nach links zum Eis blickend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze."
+          },
+          "b32e6cce804d54ffb4e3ce7c9ec097be": {
+            "movement": "zu Fuß",
+            "location": "links neben dem Helfer auf festem Grund",
+            "posture": "stehend",
+            "held": "rechte Hand hält die linke Hand des Kindes",
+            "life": "lebend",
+            "clothing": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe."
+          },
+          "6485d7412b915822aaff2b73954552b8": {
+            "movement": "zu Fuß",
+            "location": "zwischen Mutter und Helfer auf dem Ufer",
+            "posture": "stehend",
+            "held": "linke Hand hält die rechte Hand der Mutter",
+            "life": "lebend",
+            "clothing": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe."
+          }
+        }
+      },
+      {
+        "heading": "Was es gekostet hat",
+        "setting": "Hausseite auf dem Damm, derselbe Abend",
+        "characters": [
+          "3ed8dd5ea129511b830fb246f1f2b4a2"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe nach den bewegten Bildern. Witwe allein im Vordergrund auf festen Steinen, ihr Gesicht vom Feuer warm beleuchtet. Im Hintergrund rechts ihr brennendes Fenster und ein Teil des beschädigten Dachs, links tief unten die geretteten Menschen nur als unscharfe Gruppe auf dem Ufer. Sie blickt zu ihnen, nicht triumphierend ins Feuer. Kein neu geschenktes Haus, keine Medaille. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: draußen auf den Steinplatten neben der Haustür, vom Feuer abgewandt; Körperhaltung: am Boden sitzend, an eine niedrige feste Dammkante gelehnt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "3ed8dd5ea129511b830fb246f1f2b4a2",
+            "text": "Sie sind am Ufer.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Zwischen 8 und 14 ist sie nur ein kurzes Stück vom Eingang zur geschützten Hausseite gekrochen und hat sich angelehnt. Sie bleibt eingeschränkt beweglich. Ihre Rettungstat ist vollbracht, der Verlust ihres Hauses bleibt; spätere Belohnung unbekannt.",
+        "character_states": {},
+        "continuity_state": {
+          "3ed8dd5ea129511b830fb246f1f2b4a2": {
+            "movement": "zu Fuß",
+            "location": "draußen auf den Steinplatten neben der Haustür, vom Feuer abgewandt",
+            "posture": "am Boden sitzend, an eine niedrige feste Dammkante gelehnt",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "3ed8dd5ea129511b830fb246f1f2b4a2",
+        "name": "Schifferwitwe",
+        "description": "Sehr alte Frau mit schmalem runzligem Gesicht, weißen Haaren unter einer Haube, leichtem Rundrücken. Krank und stark in der Bewegung eingeschränkt; kann nicht frei laufen.",
+        "outfit": "Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug.",
+        "backstory": "Lebt allein im kleinen Haus auf dem Damm. Kennt aus dem Leben mit ihrem verstorbenen Mann die Wetterzeichen und muss eine Warnung sichtbar machen, die niemand hört.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "b32e6cce804d54ffb4e3ce7c9ec097be",
+        "name": "Mutter auf dem Eis",
+        "description": "Erwachsene Frau mit breitem Gesicht, dunklem geflochtenem Haar unter einer Mütze.",
+        "outfit": "Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.",
+        "backstory": "Eine der Feiernden; als wiedererkennbare Beobachterin vertritt sie die Menschen des Festes, ohne eine neue Nebenhandlung zu eröffnen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "6485d7412b915822aaff2b73954552b8",
+        "name": "Kind auf dem Eis",
+        "description": "Etwa achtjähriges Kind, kleines rundes Gesicht, kurze dunkelbraune Haare.",
+        "outfit": "Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.",
+        "backstory": "Bleibt beim Fest und während der Flucht bei seiner Mutter. Keine zusätzliche vermisste oder ins Wasser gefallene Person.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "423fafd0c5e95bf589df448ba120479e",
+        "name": "Festhelfer",
+        "description": "Erwachsener kräftiger Mann mit kurzem braunem Vollbart, markanten Augenbrauen und rotem Gesicht.",
+        "outfit": "Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze.",
+        "backstory": "Hilft beim Festbetrieb und führt nach dem erkennbaren Alarm Menschen zum Ufer. Keine vorausgehende Kenntnis der Flut.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was kann ein scheinbar machtloser Mensch tun, wenn niemand seine Warnung hört?",
+      "core": "Die alte Schifferwitwe erkennt die Wetterzeichen, erreicht die Feiernden aber nicht mit Rufen. Sie opfert das eigene Haus, um ein Signal zu setzen, das alle verstehen und das den Rückweg sichtbar macht.",
+      "ending": "Die letzten Menschen erreichen den Strand, bevor die Flut das Fest hinwegfegt; die Alte hat ihr Haus verloren und die Stadt gerettet.",
+      "reason": "Wetterzeichen, vergebliche Warnung, Entscheidung, Leuchtsignal und knappe Rettung benötigen eine klare Zeitsteigerung. Eine spätere Belohnung wird nur erhofft, nicht im Text berichtet.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Die arme Alte hatte ihr Häuschen geopfert, die Bewohner ihrer Stadt zu retten.",
+          "meaning": "Ihr Wissen und ihre Entschlossenheit bewirken mehr als die körperliche Kraft der Feiernden."
+        }
+      ],
+      "causal_chain": [
+        "Die arme Alte hatte ihr Häuschen geopfert, die Bewohner ihrer Stadt zu retten.",
+        "Die letzten Menschen erreichen den Strand, bevor die Flut das Fest hinwegfegt; die Alte hat ihr Haus verloren und die Stadt gerettet."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "3575ac5813a6487d28b58a683716d0841606d87f62052b3f2fee7006d2b2dd45",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:12:53.310642+00:00"
+    },
+    "post_summary": "Auf dem Eis vor Husum feiert die ganze Stadt. Nur eine alte Schifferwitwe erkennt die drohende Flut – und niemand hört sie. Um die Menschen ans Ufer zu holen, muss sie etwas opfern, das sie nicht zurückbekommt. Eine freie Adaption nach Ludwig Bechstein.",
+    "source_provenance": {
+      "title": "Die getreue Alte",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 192.",
+      "url": "https://textgridrep.org/browse/kdmv.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die getreue Alte. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 192.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Husum sollte einst ein Winterfest gefeiert werden auf dem Eise, denn das Eis war fest. Zelte wurden aufgeschlagen auf der herrlichen blanken Fläche zwischen dem Ufer und der Insel Nordstrand, Schlittschuh lief, was laufen konnte, Stuhlschlitten flogen dahin, Musik und Tanz, Lied und Becherklang verherrlichte den schönen Tag und die nahe lichthelle Mondnacht, die den Jubel noch vermehren sollte, denn schon ging der Mond auf.\n\nAlles und alles war hinaus aufs Eis und machte sich lustig, nur ein steinaltes Mütterlein war zurückgeblieben, hatte die Weltlust hinter sich, und wenn sie ja wollte, konnte sie hinaus und hinab aufs Eis sehen, denn ihr Häuslein stand auf dem Damme. Und sie tat’s, sie sah gegen Abend hinaus und sah im Westen ein Wölkchen über die Kimmung heraufziehen, da befiel sie große Angst, denn sie war eines Schiffers Witwe und kannte die See und die Zeichen von Wetter und Wind. Sie rief, sie winkte – niemand vernahm sie, niemand blickte nach ihr – aber das Wölkchen wuchs zusehends und war ein Bote der Flut und schnell umspringenden Windes von Nord nach West. Und wenn die auf dem Eise nur noch eine halbe – eine Viertelstunde zögerten, so war es um sie getan, so stand Husum menschenleer. Wie die Wolke wuchs, zusehends, riesengroß, schwarz – wie sie schon den lauen Windhauch spürte, wuchs auch der Alten unsagliche Angst – und sie war allein, krank, halb gelähmt, machtlos. Dennoch ermannt sie sich, kriecht auf Händen und Füßen zum Ofen, nimmt einen Brand, zündet das Stroh ihres eignen Bettes an und kriecht zur Türe des Häuschens hinaus. Bald schlägt die Flamme aus dem Fenster, hinauf zum Dach, des Sturmes Odem facht hellodernde Glut an, und: Feuer! Feuer! schreit es auf dem Eise, und die Zelte werden verlassen, die Schlittschuhläufer fliegen dem Strande zu, die Schlitten lenken sich heimwärts. Und da faucht schon der Wind über die Eisfläche, da pocht’s schon drunten und poltert, und wie Kanonendonner kracht das Eis in der Ferne. Die schwarze Wolke überzog den Mond und den ganzen Himmel, wie ein Leuchtturm flammt das Haus der Witwe und zeigt den Heimwärtseilenden die sichere Bahn. Wie die letzten am Strande sind, rollt die Flut ihre Wogen über das Eis und reißt Zelte und Tonnen, Wagen und Zechgeräte in ihre rauschenden Wirbel.\n\nDie arme Alte hatte ihr Häuschen geopfert, die Bewohner ihrer Stadt zu retten. Es wird ihr ja wohl nicht unvergolten geblieben sein.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Zu Husum sollte einst ein Winterfest gefeiert werden auf dem Eise, denn das Eis war fest. Zelte wurden aufgeschlagen auf der herrlichen blanken Fläche zwischen dem Ufer und der Insel Nordstrand, Schlittschuh lief, was laufen konnte, Stuhlschlitten flogen dahin, Musik und Tanz, Lied und Becherklang verherrlichte den schönen Tag und die nahe lichthelle Mondnacht, die den Jubel noch vermehren sollte, denn schon ging der Mond auf.",
+      "id": "bechstein-sagen-kdmv-0",
+      "category": "Liebe und Treue",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "source_script": "TITEL: Die getreue Alte · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Schifferwitwe\nAussehen: Sehr alte Frau mit schmalem runzligem Gesicht, weißen Haaren unter einer Haube, leichtem Rundrücken. Krank und stark in der Bewegung eingeschränkt; kann nicht frei laufen.\nKleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug.\nPersönlichkeit und Vorgeschichte: Lebt allein im kleinen Haus auf dem Damm. Kennt aus dem Leben mit ihrem verstorbenen Mann die Wetterzeichen und muss eine Warnung sichtbar machen, die niemand hört.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Mutter auf dem Eis\nAussehen: Erwachsene Frau mit breitem Gesicht, dunklem geflochtenem Haar unter einer Mütze.\nKleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.\nPersönlichkeit und Vorgeschichte: Eine der Feiernden; als wiedererkennbare Beobachterin vertritt sie die Menschen des Festes, ohne eine neue Nebenhandlung zu eröffnen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Kind auf dem Eis\nAussehen: Etwa achtjähriges Kind, kleines rundes Gesicht, kurze dunkelbraune Haare.\nKleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.\nPersönlichkeit und Vorgeschichte: Bleibt beim Fest und während der Flucht bei seiner Mutter. Keine zusätzliche vermisste oder ins Wasser gefallene Person.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Festhelfer\nAussehen: Erwachsener kräftiger Mann mit kurzem braunem Vollbart, markanten Augenbrauen und rotem Gesicht.\nKleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze.\nPersönlichkeit und Vorgeschichte: Hilft beim Festbetrieb und führt nach dem erkennbaren Alarm Menschen zum Ufer. Keine vorausgehende Kenntnis der Flut.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das ganze Licht draußen\nOrt und Zeit: Husum, Haus auf dem Damm und Festfläche, später Winternachmittag\nSichtbare Figuren: Schifferwitwe, Mutter auf dem Eis, Kind auf dem Eis, Festhelfer\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Ansicht aus der Stube durch das Fenster. Links im Vordergrund die Witwe auf ihrem Stuhl; rechts draußen klein die drei wiedererkennbaren Feiernden zwischen Zelten, Tischen und stummen Hintergrundgästen. Damm als deutliche Grenze zwischen Haus und Eis. Kind und Mutter tragen Schuhe, keine Kufen. Viel heller Himmel über dem Fest. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: links drinnen am Fenster; Körperhaltung: auf einem niedrigen Stuhl sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug.. Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts weit draußen auf dem Eis; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: neben der Mutter auf dem Eis; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: am offenen Festzelt auf dem Eis; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..\nErzählertext: Vor Husum feierte die Stadt ein Winterfest auf dem Eis. Nur eine alte Schifferwitwe war in ihrem Haus am Damm geblieben.\nDialoge: keine\nKontinuität / Änderung: Fester Grundriss: Haus auf dem sicheren Damm; Fest auf dem Eis davor. Ofen links in der Stube, Bett rechts nahe der Haustür. Alle sind zunächst außerhalb akuter Gefahr.\n\nKACHEL 2: Ein kleines Zeichen\nOrt und Zeit: Am selben Fenster, gegen Abend\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe von hinten über ihre Schulter auf den westlichen Horizont. Dort hebt sich eine kleine dunkle Wolke über dem Meer; noch überwiegend heller Himmel. Eine Hand der Witwe liegt am Fensterrahmen, die andere auf dem Schoß. Keine aufspringende oder gehende Frau. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: am Fenster im Haus; Körperhaltung: auf dem Stuhl sitzend, Oberkörper zum Fenster geneigt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Schifferwitwe\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nicht von dort. Nicht jetzt.“\nKontinuität / Änderung: Die Witwe erkennt die sich nähernde Wetteränderung aus Erfahrung. Die Wolke beginnt klein und darf in späteren Bildern wachsen, nicht wieder kleiner werden.\n\nKACHEL 3: Gegen den Lärm\nOrt und Zeit: Dasselbe Fenster, wenig später\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Außenansicht des geöffneten Fensters. Die Witwe sitzt sichtbar tief hinter der Brüstung, ihr graues Tuch und die weiße Haube bleiben gleich. Sie winkt mit einer einzigen erhobenen Hand zum Fest, der Mund ist geöffnet. Über dem Dach ist die westliche Wolke bereits größer. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: drinnen an der geöffneten Fensterhälfte; Körperhaltung: sitzend, ein Arm winkend angehoben; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: Sie erkannte die kleine Wolke im Westen als Gefahr für die Feiernden. Vom Fenster aus rief und winkte sie zum Eis hinaus.\nDialoge: keine\nKontinuität / Änderung: Das Fenster wurde zwischen 2 und 3 geöffnet. Die Witwe kann weder hinunterlaufen noch die Menschen eigenhändig holen; sie bleibt auf ihrem Stuhl.\n\nKACHEL 4: Nicht gehört\nOrt und Zeit: Zwischen Festzelt und Eisfläche, gleichzeitig\nSichtbare Figuren: Mutter auf dem Eis, Kind auf dem Eis, Festhelfer\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale vom Fest aus. Mutter und Kind lauschen links einer undeutlichen Gruppe Musiker im Hintergrund; rechts beschäftigt sich der Helfer mit dem Tisch. Die Witwe ist weit entfernt nur als kleines unlesbares Fensterdetail am Damm zu erkennen, kein zweites großes Figurenbild. Keine Person spottet über ihre Warnung; sie kommt nur nicht durch. Der Mond steht jetzt knapp am Horizont. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links vor dem Festzelt; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: bei der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: rechts am Tisch des Zelts; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einfacher leerer Holzbecher in der linken Hand; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..\nErzählertext: Doch Musik und Festlärm übertönten die Warnung. Niemand bemerkte die Frau am Fenster.\nDialoge: keine\nKontinuität / Änderung: Gleichzeitiger Blickwechsel, kein Zeitsprung über die Gefahr hinweg. Die Menschen wissen noch nichts von der Warnung und ignorieren sie nicht absichtlich.\n\nKACHEL 5: Kein Weg zu ihnen\nOrt und Zeit: Stube der Witwe, unmittelbar danach\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Tiefer Blick auf die Dielen. Der leere Stuhl steht hinten am offenen Fenster, die Witwe kniet im Vordergrund auf beiden Knien und stützt sich mit beiden Händen ab. Sie hat sich vom Stuhl auf den Boden hinabgelassen, nicht plötzlich Gehfähigkeit gewonnen. Der Ofen liegt links im nächsten erreichbaren Bereich; das Bett bleibt rechts an der Tür sichtbar. Keine Gegenstände in den Händen. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: auf den Dielen zwischen Fensterstuhl und Ofen; Körperhaltung: auf Händen und Knien, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Schifferwitwe\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Die Zeit reicht nicht.“\nKontinuität / Änderung: Übergang ausdrücklich: Vom Stuhl hat sie sich mühsam auf den Boden abgesenkt. Ab jetzt kriecht sie; sie steht bis zum Schluss nicht unvermittelt wieder auf.\n\nKACHEL 6: Was noch bleibt\nOrt und Zeit: Neben dem Ofen in derselben Stube\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Witwe auf den Knien links am Ofen, die linke Hand stützt sie auf dem Boden. In der rechten hält sie einen kleinen glimmenden Brand, keinen modernen Gegenstand und keine Fackel. Ihr Blick geht zum Strohbett rechts im Hintergrund. Der Moment ist ihr stiller Entschluss, keine erklärende Schrittfolge. Keine offene großflächige Flamme im Zimmer. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: links am Ofen auf den Dielen; Körperhaltung: knieend, linke Hand am Boden; Mitgeführte Gegenstände: kleines glimmendes Stück in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: Sie konnte die Menschen nicht mehr rechtzeitig erreichen. Nun entschied sie sich, das eigene Haus als Warnsignal zu opfern.\nDialoge: keine\nKontinuität / Änderung: Sie hat den Ofen kriechend erreicht. Der Brand ist ein einziges kleines Stück; nicht zugleich in beiden Händen. Das Bett brennt hier noch nicht.\n\nKACHEL 7: Ihr eigenes Bett\nOrt und Zeit: Rechte Seite der Stube, Augenblicke später\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale ohne technische Detailaufnahme. Am unteren Rand des Strohlagers glimmt bereits eine kleine erste Flamme. Daneben die kniende Witwe, die nun die leere rechte Hand zu sich zurückzieht. Der Stuhl bleibt weit hinten am Fenster; Ofen links im Hintergrund. Das Bild zeigt die bereits begonnene Folge ihrer Entscheidung, keine Anleitung. Keine weitere brennende Stelle im Haus. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: neben dem Strohbett nahe der Haustür; Körperhaltung: knieend, Oberkörper vom Bett zurückweichend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: Ihr Strohlager begann zu brennen. Das Feuer sollte die Blicke zum Damm und weg vom Fest lenken.\nDialoge: keine\nKontinuität / Änderung: Zwischen 6 und 7 hat sie den Brand zum eigenen Bett gebracht. Er liegt nun am Lager, nicht mehr in ihrer Hand. Sie muss sofort zur nahen Tür hinaus und erhält keine Hilfe im Zimmer.\n\nKACHEL 8: Nur noch hinaus\nOrt und Zeit: Haustür auf dem Damm, unmittelbar danach\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ansicht von außen. Die Witwe ist mit dem gesamten Körper bereits über der Schwelle auf den Steinen vor dem Haus, Hände und Knie auf festem Dammgrund. Hinter ihr bleibt die offene Tür; innen orangefarbenes Flackern und erster Rauch. Kein zweiter Körper noch im Bett, keine Katze oder unbelegte Hilfsperson. Wind zieht ihr graues Tuch leicht zur Seite. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: draußen auf den Steinen unmittelbar vor der Haustür; Körperhaltung: auf Händen und Knien, vom Eingang wegkriechend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: Auf Händen und Knien brachte sie sich über die Schwelle nach draußen. Ihr Haus blieb hinter ihr zurück.\nDialoge: keine\nKontinuität / Änderung: Sie hat den kurzen Weg vom Bett zur Tür kriechend geschafft und das brennende Haus verlassen. Ab jetzt bleibt sie draußen auf dem Damm; keine spätere Innenaufnahme mit ihr.\n\nKACHEL 9: Das Wort, das ankommt\nOrt und Zeit: Festfläche, Abenddämmerung\nSichtbare Figuren: Mutter auf dem Eis, Kind auf dem Eis, Festhelfer\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Blick vom Eis zum Damm. In der Ferne schlagen jetzt Flammen aus dem Fenster der Witwe. Im Vordergrund drehen Mutter und Kind die Köpfe; der Helfer zeigt mit einem Arm zum Haus. Sein Holzbecher steht auf dem nahen Tisch, er hält keinen. Die kleine Wolke ist nun ein dunkler breiter Streifen. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links am Rand des Festzelts; Körperhaltung: stehend, Kopf zum Damm gedreht; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts dicht bei der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: mittig vor dem Festzelt; Körperhaltung: stehend, ein Arm zum Haus weisend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..\nErzählertext: Erst die Flammen erreichten die Aufmerksamkeit der Feiernden. Auf dem Eis wandten sie sich endlich dem Damm zu.\nDialoge: keine\nKontinuität / Änderung: Erst jetzt bemerken die Feiernden den Brand. Das brennende Haus ist ein Signal am Ufer, nicht ein Festzelt auf dem Eis. Der Becher wurde auf dem Tisch abgestellt.\n\nKACHEL 10: Zurück\nOrt und Zeit: Rand der Festzelte, direkt danach\nSichtbare Figuren: Mutter auf dem Eis, Kind auf dem Eis, Festhelfer\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Seitenansicht der beginnenden Rückkehr. Mutter links und Kind rechts gehen gemeinsam in Richtung des hell brennenden Hauses am Damm; der Helfer ist ihnen voraus. Die Zelte und unbenutzten Becher bleiben hinter ihnen. Kein Mensch läuft vom Ufer weg. Dunkle Wolken schieben sich vor den eben aufgegangenen Mond. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links zwischen Zelt und Rückweg; Körperhaltung: gehend; Mitgeführte Gegenstände: rechte Hand hält die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts neben der Mutter; Körperhaltung: gehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: vor ihnen Richtung Ufer; Körperhaltung: gehend, Blick über die Schulter; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Festhelfer\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Zum Ufer! Alles liegen lassen!“\nDialog 2:\n  Sprecher: Mutter auf dem Eis\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Bei mir bleiben.“\nKontinuität / Änderung: Zwischen 9 und 10 hat die Mutter die linke Hand des Kindes mit ihrer rechten gefasst. Beide tragen unverändert feste Schuhe. Das Fest wird verlassen, bevor die Flut eintrifft.\n\nKACHEL 11: Das Geräusch darunter\nOrt und Zeit: Eisfläche zwischen Fest und Damm, Sekunden später\nSichtbare Figuren: Mutter auf dem Eis, Kind auf dem Eis\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Tiefer seitlicher Blick auf feste Schuhe auf dem Eis. Die Mutter links und das Kind rechts sind im selben sicheren Gehschritt; die Handverbindung ist oben angeschnitten erkennbar. Hinter ihnen weit entfernt eine erste lange dunkle Bruchlinie, nicht direkt unter ihren Füßen. Kein Sturz. Im Hintergrund das Feuer als Fixpunkt am Ufer. Keine Lautschrift aus winzigen Buchstaben. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links auf dem Rückweg; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: rechte Hand hält die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts neben der Mutter; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe..\nErzählertext: Unter den zurückkehrenden Menschen begann das Eis zu pochen. Die Wettergefahr war keine ferne Vermutung mehr.\nDialoge: keine\nKontinuität / Änderung: Die beiden sind noch auf dem Eis und bewegen sich weiter zum gleichen Ufer. Der Riss liegt hinter ihnen in der Entfernung; kein hinzuerfundenes Loch, aus dem sie gerettet werden müssten.\n\nKACHEL 12: Die letzte Strecke\nOrt und Zeit: Unterhalb des Damms, letzte Sekunden vor der Flut\nSichtbare Figuren: Festhelfer, Mutter auf dem Eis, Kind auf dem Eis\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite klare Raumaufteilung: Ufer rechts, Eis links, brennendes Haus weiter rechts oben auf dem Damm. Der Helfer steht bereits auf festem Grund und weist den letzten Kommenden die Richtung. Mutter und Kind folgen unmittelbar vor der Uferkante, niemand liegt im Wasser. Weitere letzte Festgäste nur als kleine stumme Gestalten hinter ihnen. Der Mond ist nun von Wolken verdeckt. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links auf der letzten Eisstrecke; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: rechte Hand hält weiterhin die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: rechts neben der Mutter, kurz vor dem Ufer; Körperhaltung: eilig gehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: rechts oben auf festem Ufergrund; Körperhaltung: stehend, beide Arme zum Weg geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..\nErzählertext: Die Letzten näherten sich dem Ufer. Das brennende Haus zeigte ihnen die Richtung zum sicheren Damm.\nDialoge: keine\nKontinuität / Änderung: Der Helfer hat das Ufer vor den anderen erreicht. Mutter und Kind sind noch auf dem Eis; kein Sprung über eine übergroße Spalte. Die Witwe bleibt oberhalb an der Hausseite außerhalb dieses Ausschnitts.\n\nKACHEL 13: Alle am Strand\nOrt und Zeit: Sicherer Ufersaum, unmittelbar danach\nSichtbare Figuren: Festhelfer, Mutter auf dem Eis, Kind auf dem Eis\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Blick vom sicheren Ufer zurück auf die verlassene Festfläche. Mutter, Kind und Helfer stehen sämtlich mit beiden Füßen auf festem Grund. Dahinter drückt die erste große Flut über das brechende Eis; Zeltstangen und ein leerer Tisch werden davon erfasst. Keine Menschen mehr auf der überschwemmten Fläche. Der Vordergrund bleibt oberhalb des Wassers. Verbindliche Zustände: Mutter auf dem Eis: Fortbewegung: zu Fuß; Ort: links neben dem Helfer auf festem Grund; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand hält die linke Hand des Kindes; Lebenszustand: lebend; Kleidung: Rostroter Wintermantel, brauner langer Rock, graue Mütze und braune feste Schuhe.. Kind auf dem Eis: Fortbewegung: zu Fuß; Ort: zwischen Mutter und Helfer auf dem Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: linke Hand hält die rechte Hand der Mutter; Lebenszustand: lebend; Kleidung: Ockerfarbene Jacke, blaue Wollmütze, dunkelbraune Hose und feste schwarze Schuhe; keine Schlittschuhe.. Festhelfer: Fortbewegung: zu Fuß; Ort: rechts auf dem erhöhten Ufer; Körperhaltung: stehend, nach links zum Eis blickend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Jacke, graue Hose, braune Stiefel und braune Wollmütze..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Mutter auf dem Eis\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Alle da?“\nDialog 2:\n  Sprecher: Festhelfer\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Alle. Gerade noch.“\nKontinuität / Änderung: Der Uferübertritt ist zwischen 12 und 13 erfolgt. Die Flut erreicht das Eis erst nach den letzten Menschen. Keine Verluste oder zusätzliche Vermisstensuche erfinden.\n\nKACHEL 14: Was es gekostet hat\nOrt und Zeit: Hausseite auf dem Damm, derselbe Abend\nSichtbare Figuren: Schifferwitwe\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe nach den bewegten Bildern. Witwe allein im Vordergrund auf festen Steinen, ihr Gesicht vom Feuer warm beleuchtet. Im Hintergrund rechts ihr brennendes Fenster und ein Teil des beschädigten Dachs, links tief unten die geretteten Menschen nur als unscharfe Gruppe auf dem Ufer. Sie blickt zu ihnen, nicht triumphierend ins Feuer. Kein neu geschenktes Haus, keine Medaille. Verbindliche Zustände: Schifferwitwe: Fortbewegung: zu Fuß; Ort: draußen auf den Steinplatten neben der Haustür, vom Feuer abgewandt; Körperhaltung: am Boden sitzend, an eine niedrige feste Dammkante gelehnt; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelblaues Wollkleid, graues Schultertuch, weiße Haube und dunkle weiche Schuhe. Kein Gehstock als plötzliches neues Werkzeug..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Schifferwitwe\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Sie sind am Ufer.“\nKontinuität / Änderung: Zwischen 8 und 14 ist sie nur ein kurzes Stück vom Eingang zur geschützten Hausseite gekrochen und hat sich angelehnt. Sie bleibt eingeschränkt beweglich. Ihre Rettungstat ist vollbracht, der Verlust ihres Hauses bleibt; spätere Belohnung unbekannt.\n",
+    "book_author": "",
+    "editorial_script_id": "getreue-alte-14-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "getreue-alte-14"
+    },
+    "title": "Die getreue Alte · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "getreue-alte-14"
+    }
+  },
+  "count_policy": "editorial"
+}

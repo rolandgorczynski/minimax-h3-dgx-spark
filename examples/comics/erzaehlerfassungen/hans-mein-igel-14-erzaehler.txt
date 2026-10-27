@@ -1,0 +1,198 @@
+TITEL: Hans mein Igel – Der Reiter auf dem Hahn · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hans mein Igel
+Aussehen: Dieselbe Person mit menschlichem Unterkörper und stacheligem Igeloberkörper, nicht mit zusätzlichem vollständigem Igel auf dem Kopf. Anfangs Kind, ab dem Zeitsprung erwachsen. Nach Ablegen der Haut ein junger Mann mit braunem Haar.
+Kleidung: Anfangs kleine graue Hose; als Erwachsener braune Hose und Stiefel. Nach der Verwandlung Nachtgewand, später grüner Reisemantel. Dudelsack separat.
+Persönlichkeit und Vorgeschichte: Wird wegen seines Aussehens zurückgewiesen. Findet im Schloss Anerkennung schon vor der Verwandlung und braucht danach Pflege.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hansens Reithahn
+Aussehen: Ein großer rotbrauner Hahn mit rotem Kamm, zwei Flügeln, genau zwei beschlagenen Vogelfüßen und dunklem Schweif.
+Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.
+Persönlichkeit und Vorgeschichte: Einziger Reithahn der märchenhaften Geschichte. Tier bleibt dasselbe über den ausdrücklich markierten Zeitsprung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hansens Vater
+Aussehen: Erwachsener Mann, später deutlich gealtert, mit braunem dann grauem Bart und breiter Stirn.
+Kleidung: Brauner Bauernrock, helle Hose und grobe Schuhe.
+Persönlichkeit und Vorgeschichte: Weist seinen Sohn anfangs zurück und erkennt den späteren menschlichen Besucher zunächst nicht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wortgetreuer König
+Aussehen: Älterer Mann mit kurzem grauem Bart und hohem Haaransatz.
+Kleidung: Dunkelblauer Reisemantel, bei Hof ein blaues Gewand und schlichte goldene Krone.
+Persönlichkeit und Vorgeschichte: Der zweite König des vollständigen Märchens. Hält sein Versprechen, anders als der ausgelassene frühere König.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königstochter an Hansens Seite
+Aussehen: Junge erwachsene Frau mit braunem langem Zopf und klarem Blick.
+Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.
+Persönlichkeit und Vorgeschichte: Hält das Versprechen und heißt Hans vor dessen Verwandlung willkommen. Pflegt ihn danach, keine zweite oder ausgetauschte Braut.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Platz hinter dem Ofen
+Ort und Zeit: Bauernhaus, Hans noch ein Kind
+Sichtbare Figuren: Hans mein Igel, Hansens Vater
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige weite Stube. Kleiner Hans links mit menschlichen Kinderbeinen und einem einzigen stacheligen Oberkörper, Vater rechts abgewandt am Tisch. Keine vollständige Menschenfigur mit zusätzlich aufgesetztem Igel. Kein Dudelsack oder Reithahn schon im Ofen. Verbindliche Zustände: Hans mein Igel: Ort: links hinter dem Ofen; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Kinderhose; stacheliger Igeloberkörper eines Kindes; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Hansens Vater: Ort: rechts am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner Bauernrock, helle Hose und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Hans wurde mit einem Igeloberkörper geboren. Zu Hause sah sein Vater vor allem die Stacheln und wies ihn zurück.
+Dialoge: keine
+Kontinuität / Änderung: Hans ausdrücklich noch Kind. Die Zurückweisung ist Ausgangskonflikt, keine Behauptung, die Verwandlung mache ihn erst liebenswert.
+
+KACHEL 2: Ein eigener Weg hinaus
+Ort und Zeit: Dorfweg vor dem Elternhaus
+Sichtbare Figuren: Hans mein Igel, Hansens Reithahn, Hansens Vater
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Seitenansicht. Kindlicher Hans reitet auf genau einem großen Hahn aus dem Dorf, Dudelsack vorm Oberkörper. Hahn besitzt zwei Vogelfüße, keine Hufe oder vier Beine. Vater bleibt im Haus. Kein zweiter Hans geht daneben. Verbindliche Zustände: Hans mein Igel: Ort: links auf dem Hahn; Körperhaltung: auf dem Reitpolster sitzend; Mitgeführte Gegenstände: ein Dudelsack vor dem Oberkörper; Kleidung: Graue Kinderhose; stacheliger Igeloberkörper eines Kindes; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: ein rotbrauner Hahn mit genau zwei beschlagenen Füßen. Hansens Reithahn: Ort: links unter Hans; Körperhaltung: auf zwei beschlagenen Füßen gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Hansens Vater: Ort: rechts im fernen Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Brauner Bauernrock, helle Hose und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit Dudelsack und Hahn verließ Hans das Dorf. Einen Platz bei den Menschen hatte er dort nicht gefunden.
+Dialoge: keine
+Kontinuität / Änderung: Hans verlässt das Dorf mit Dudelsack und Hahn. Keine erwachsene Hochzeitsfigur in diesem Jugendbild, keine neu auftauchende zweite Reitperson.
+
+KACHEL 3: Jahre im Wald
+Ort und Zeit: Waldlichtung nach einem deutlichen Zeitsprung
+Sichtbare Figuren: Hans mein Igel, Hansens Reithahn
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Totale mit großem Baum. Erwachsener Hans sitzt auf seinem Hahn auf einem starken Ast und spielt, eine Herde kleiner Schweine unten auf der Lichtung. Klar erwachsener menschlicher Unterkörper. Hahn zwei Füße am Ast, keine Flügel als Zusatzarme. Verbindliche Zustände: Hans mein Igel: Ort: oben im Baum auf dem Hahn; Körperhaltung: erwachsen im Reitpolster sitzend; Mitgeführte Gegenstände: Dudelsack in beiden Händen; Kleidung: Braune Hose und Stiefel; stacheliger Igeloberkörper eines erwachsenen Hans; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: ein rotbrauner Hahn mit genau zwei beschlagenen Füßen. Hansens Reithahn: Ort: oben auf einem starken Ast; Körperhaltung: mit zwei Füßen auf dem Ast stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Jahre vergingen. Als Erwachsener lebte er mit seiner Herde im Wald und spielte seinen Dudelsack hoch oben im Baum.
+Dialoge: keine
+Kontinuität / Änderung: Expliziter Sprung zum erwachsenen Hans. Herde unbenannte Tiere, nicht zur Charakterklonarmee ausbauen. Reithahn bleibt märchenhaft derselbe.
+
+KACHEL 4: Ein König weiß nicht weiter
+Ort und Zeit: Unter demselben Baum
+Sichtbare Figuren: Hans mein Igel, Hansens Reithahn, Wortgetreuer König
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale mit Höhenunterschied. König zu Fuß unten rechts blickt nach oben, Hans bleibt links oben im Sattel des Hahns. Dudelsack ruht, spielt nicht gleichzeitig beim Sprechen. Kein zweiter Hans am Boden und kein erfundenes Pferd des Königs. Verbindliche Zustände: Hans mein Igel: Ort: oben links im Baum auf dem Hahn; Körperhaltung: im Reitpolster sitzend; Mitgeführte Gegenstände: Dudelsack ruht quer vor dem Oberkörper; Kleidung: Braune Hose und Stiefel; stacheliger Igeloberkörper eines erwachsenen Hans; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: ein rotbrauner Hahn mit genau zwei beschlagenen Füßen. Hansens Reithahn: Ort: oben links auf dem Ast; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wortgetreuer König: Ort: rechts unter dem Baum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Reisemantel, bei Hof ein blaues Gewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wortgetreuer König
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Zeigst du mir den Heimweg?“
+Dialog 2:
+  Sprecher: Hans mein Igel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Was versprichst du mir dafür?“
+Kontinuität / Änderung: Nur wortgetreuer zweiter König. Beide bleiben in ihrer Körperlage; Gespräch ist kein Beleg für stilles Absteigen aus dem Baum.
+
+KACHEL 5: Das Versprechen
+Ort und Zeit: Waldrand auf dem gezeigten Heimweg
+Sichtbare Figuren: Hans mein Igel, Hansens Reithahn, Wortgetreuer König
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breiter Weg. Hans führt links auf dem Hahn, König folgt rechts zu Fuß. Dudelsack nun am Riemen frei von beiden Händen. Tor des Königreichs fern. Keine Königstochter bereits als mitgeführter Besitz neben ihnen. Verbindliche Zustände: Hans mein Igel: Ort: links voraus auf dem Hahn; Körperhaltung: im Reitpolster sitzend; Mitgeführte Gegenstände: Dudelsack am braunen Schulterriemen; Kleidung: Braune Hose und Stiefel; stacheliger Igeloberkörper eines erwachsenen Hans; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: ein rotbrauner Hahn mit genau zwei beschlagenen Füßen. Hansens Reithahn: Ort: links auf dem Waldweg; Körperhaltung: auf zwei Füßen gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wortgetreuer König: Ort: rechts hinter Hans; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Reisemantel, bei Hof ein blaues Gewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Wortgetreuer König
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du bekommst, was mir daheim zuerst begegnet.“
+Kontinuität / Änderung: Hahn ist vor dem Weg vom Baum herabgelangt; Hans bleibt beritten. Wortlaut als freie neue Formulierung, keine erfundene schriftliche Vertragsurkunde.
+
+KACHEL 6: Wen der König zuerst sieht
+Ort und Zeit: Schlosshof bei der Heimkehr des Königs
+Sichtbare Figuren: Wortgetreuer König, Königstochter an Hansens Seite
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. König links zu Fuß im Tor, seine erwachsene Tochter rechts kommt ihm entgegen. Sie sehen sich an, keine Kinderbraut, kein Hans unsichtbar schon als menschlicher Prinz. Ruhige Begegnung trägt Tragweite des Versprechens. Verbindliche Zustände: Wortgetreuer König: Ort: links am Hoftor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Reisemantel, bei Hof ein blaues Gewand und schlichte goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter an Hansens Seite: Ort: rechts im Hof; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der König versprach ihm das Erste, was ihm daheim begegnete. Als seine Tochter ihn begrüßte, wurde ihm die Tragweite bewusst.
+Dialoge: keine
+Kontinuität / Änderung: König kehrt zurück; Tochter ist die erste Begegnung. Hans reist später an. Die frühere grausame Episode am anderen Königshof bleibt vollständig draußen.
+
+KACHEL 7: Ankommen in derselben Gestalt
+Ort und Zeit: Vor dem Schlosseingang, bei Hansens späterem Besuch
+Sichtbare Figuren: Hans mein Igel, Hansens Reithahn, Königstochter an Hansens Seite, Wortgetreuer König
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Eingangsansicht. Hans links vollständig vom einzigen Hahn abgestiegen, dessen Polster leer. Er trägt noch den Igeloberkörper. Tochter rechts reicht ihm offen die Hand, König dahinter. Keine Menschenverwandlung als Eintrittskarte. Verbindliche Zustände: Hans mein Igel: Ort: links auf festem Boden neben dem Hahn; Körperhaltung: stehend; Mitgeführte Gegenstände: Dudelsack am Schulterriemen; Kleidung: Braune Hose und Stiefel; stacheliger Igeloberkörper eines erwachsenen Hans; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Hansens Reithahn: Ort: links neben Hans; Körperhaltung: auf zwei Füßen stehend; Reitpolster leer; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wortgetreuer König: Ort: rechts hinter der Tochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaues Hofgewand und schlichte goldene Krone; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter an Hansens Seite: Ort: rechts am Eingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königstochter an Hansens Seite
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Komm herein.“
+Kontinuität / Änderung: Hans steigt vor dem Schloss ausdrücklich ab. Willkommen geschieht vor dem Ablegen der Haut. König hat zwischen Reise und Empfang Hofkleidung angelegt.
+
+KACHEL 8: Ein Platz ohne Versteck
+Ort und Zeit: Schlosssaal vor der späteren Hochzeitsnacht
+Sichtbare Figuren: Hans mein Igel, Königstochter an Hansens Seite
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Tischansicht. Stacheliger erwachsener Hans links und junge Frau rechts sitzen im Gespräch auf Augenhöhe. Hahn bleibt draußen, kein Tier auf dem Festtisch. Kein Kronentausch und kein menschlicher Hans als Halluzination daneben. Verbindliche Zustände: Hans mein Igel: Ort: links auf einem Stuhl; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Dudelsack am Stuhl abgelegt; Kleidung: Braune Hose und Stiefel; stacheliger Igeloberkörper eines erwachsenen Hans; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter an Hansens Seite: Ort: rechts gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hans mein Igel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du siehst mich an, ohne zurückzuweichen.“
+Dialog 2:
+  Sprecher: Königstochter an Hansens Seite
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich spreche mit dir.“
+Kontinuität / Änderung: Aufnahme und Beziehung vor der Verwandlung. Hochzeit zeitlich danach, ohne sexuelle Darstellung. Dudelsack bleibt hier abgelegt.
+
+KACHEL 9: Die Haut liegt daneben
+Ort und Zeit: Schlafkammer in der Hochzeitsnacht
+Sichtbare Figuren: Hans mein Igel, Königstochter an Hansens Seite
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Dezente Halbnahe. Ein menschlicher erwachsener Hans geschützt hinter dem Sichtschirm, in schlichtem Nachtgewand, neben dem Schirm eine abgelegte leere Igelhaut auf dem Boden. Gesicht neu menschlich, gleiche braune Augen und erkennbares Profil. Keine zweite lebende Igelfigur und keine Nacktheit. Verbindliche Zustände: Hans mein Igel: Ort: links hinter einem hellen Sichtschirm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Nachtgewand; menschlicher Oberkörper, keine Igelhaut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: nach Ablegen der Haut geschwächt. Königstochter an Hansens Seite: Ort: rechts am Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Schloss wurde Hans in seiner bisherigen Gestalt angenommen. In der Hochzeitsnacht legte er selbst die Igelhaut ab.
+Dialoge: keine
+Kontinuität / Änderung: Hans legt die Igelhaut selbst ab. Abgelegte Haut ist leere Hülle, kein verletztes Tier und keine neben dem Menschen fortlebende zweite Person.
+
+KACHEL 10: Nur was abgelegt ist
+Ort und Zeit: Nebenkammer mit Feuerstelle derselben Nacht
+Sichtbare Figuren: keine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Detail einer ruhigen Feuerstelle. Eine bereits leere stachelige Haut wird von zwei unbenannten Helferhänden mit einem langen Holzstab ins Feuer geschoben. Kein Mensch in den Flammen, kein Körperteil mit Haut verbunden. Hans und seine Frau außerhalb des Bildes.
+Erzählertext: Die Helfer verbrannten nur die bereits abgelegte Haut. Hans selbst war nicht im Feuer, brauchte danach aber Pflege.
+Dialoge: keine
+Kontinuität / Änderung: Verbrannt wird ausschließlich die zuvor abgestreifte Hülle. Verwandlung nicht als mühelose Sofortheilung zeigen; der Mensch braucht danach Pflege.
+
+KACHEL 11: Noch nicht gesund
+Ort und Zeit: Schlosskammer nach der Verwandlung
+Sichtbare Figuren: Hans mein Igel, Königstochter an Hansens Seite
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nahe auf einen jungen Mann im weißen Nachtgewand im Bett, Frau rechts legt ein Tuch an seine Stirn. Kein Igeloberkörper mehr, keine verbrannte Haut als Schulterkragen. Krankheit ohne offene Wunden. Hahn und Dudelsack bleiben außerhalb. Verbindliche Zustände: Hans mein Igel: Ort: links im Bett; Körperhaltung: liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Nachtgewand; menschlicher Oberkörper, keine Igelhaut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: geschwächt und pflegebedürftig. Königstochter an Hansens Seite: Ort: rechts am Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kühles Tuch in der rechten Hand; Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königstochter an Hansens Seite
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du musst heute nichts beweisen.“
+Kontinuität / Änderung: Menschlicher Zustand bleibt bestehen. Pflege nach der Verwandlung entscheidend; Nachtgewand ersetzt den Reisemantel im Bett ausdrücklich.
+
+KACHEL 12: Zeit zum Wiedergehen
+Ort und Zeit: Schlosshof nach der Erholung
+Sichtbare Figuren: Hans mein Igel, Hansens Reithahn, Königstochter an Hansens Seite
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Hofansicht nach sichtbarem Zeitabstand. Gesunder menschlicher Hans im grünen Reisemantel, braune Hose, Dudelsack wieder aufgenommen. Er steht zu Fuß neben dem Hahn mit leerem Reitpolster. Frau am Tor. Kein neues zweites Pferd. Verbindliche Zustände: Hans mein Igel: Ort: links neben dem Hahn; Körperhaltung: stehend; Mitgeführte Gegenstände: Dudelsack am Schulterriemen; Kleidung: Grüner Reisemantel und braune Hose; menschlicher Oberkörper, keine Igelhaut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: erholt. Hansens Reithahn: Ort: links neben Hans; Körperhaltung: auf zwei Füßen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes kleines Reitpolster, kein Pferdezaum und keine vier Pferdebeine.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter an Hansens Seite: Ort: rechts im Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Kleid und schmaler goldener Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nach der Pflege war Hans wieder kräftig genug für eine Reise. Als Mensch machte er sich auf den Weg zu seinem Vater.
+Dialoge: keine
+Kontinuität / Änderung: Erholt nach Zeit und Pflege, nicht durch Verbrennen allein magisch sofort gesund. Reisemantel angelegt und Dudelsack aus dem Saal zurückgeholt.
+
+KACHEL 13: Ein unbekannter Besucher
+Ort und Zeit: Altes Bauernhaus nach der Heimreise
+Sichtbare Figuren: Hans mein Igel, Hansens Vater
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Komposition wie Kachel 1. Menschlicher erwachsener Besucher links, gealterter Vater rechts schaut unsicher auf. Hans steht zu Fuß, Hahn draußen außerhalb. Kein heimliches Zurückverwandeln in Stachelgestalt, keine Kinderversion neben ihm. Verbindliche Zustände: Hans mein Igel: Ort: links im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: Dudelsack am Schulterriemen; Kleidung: Grüner Reisemantel und braune Hose; menschlicher Oberkörper, keine Igelhaut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: erholt. Hansens Vater: Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragener brauner Bauernrock; inzwischen grauer Bart; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hansens Vater
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wen sucht Ihr?“
+Dialog 2:
+  Sprecher: Hans mein Igel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Meinen Vater.“
+Kontinuität / Änderung: Nach dem Schlossaufbruch steigt Hans auf denselben Hahn und reitet heim. Vor dem Haus steigt er ausdrücklich ab; Hahn wartet draußen. Vater erkennt ihn zunächst nicht. Alterung des Vaters entspricht den vergangenen Jahren.
+
+KACHEL 14: Der Name war derselbe
+Ort und Zeit: Dasselbe Bauernhaus einen Augenblick später
+Sichtbare Figuren: Hans mein Igel, Hansens Vater
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe. Vater steht nun auf, Hände offen statt abwehrend. Hans bleibt Mensch mit denselben Augen und demselben Dudelsack. Keine behauptete perfekte Versöhnung als großes Fest. Zwei Menschen sehen sich zum ersten Mal wirklich an. Verbindliche Zustände: Hans mein Igel: Ort: links vor dem Vater; Körperhaltung: stehend; Mitgeführte Gegenstände: Dudelsack am Schulterriemen; Kleidung: Grüner Reisemantel und braune Hose; menschlicher Oberkörper, keine Igelhaut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: erholt. Hansens Vater: Ort: rechts neben dem Tisch; Körperhaltung: aufgestanden; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragener brauner Bauernrock; grauer Bart; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hans mein Igel
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich bin Hans.“
+Kontinuität / Änderung: Vater erfährt die Identität. Offener persönlicher Augenblick statt erfundener vollständiger Aufarbeitung. Anerkennung im Schloss begann schon vor der äußeren Verwandlung.

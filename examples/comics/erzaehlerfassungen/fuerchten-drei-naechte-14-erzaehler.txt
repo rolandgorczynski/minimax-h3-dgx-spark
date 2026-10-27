@@ -1,0 +1,202 @@
+TITEL: Das Fürchten lernen – Drei Nächte im Spukschloss · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Junger Mann auf der Suche nach dem Gruseln
+Aussehen: Junger erwachsener Mann mit kurzem braunem Haar und rundem bartlosem Gesicht. Ruhiger neugieriger Blick, kein gepanzerter Superheld.
+Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.
+Persönlichkeit und Vorgeschichte: Versteht Furcht nicht und sucht das Gefühl. Besteht drei Spuknächte, empfindet den gesuchten Schauder aber erst beim kalten Wasser.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bedrohlicher Alter im Schloss
+Aussehen: Großer kräftiger alter Mann mit langem weißem Bart und buschigen Augenbrauen.
+Kleidung: Dunkler schwerer Mantel, graues Hemd und feste Schuhe.
+Persönlichkeit und Vorgeschichte: Letzte Spukprüfung. Wird am Bart festgesetzt und zeigt Schätze; nach dem gebrochenen Spuk kein erneuter Angreifer.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Geisterhafter Kegelspieler
+Aussehen: Eine erwachsene menschenähnliche lichtgraue Nebelgestalt. Ein Kopf, zwei Arme und zwei Beine, als durchlässige Erscheinung statt blutiger Körper.
+Kleidung: Schatten eines langen dunklen Rocks; keine sichtbaren Wunden.
+Persönlichkeit und Vorgeschichte: Führt in der zweiten Nacht durch ein makabres Spiel. Die übrigen gespenstischen Teilerscheinungen sind harmlose Lichtformen, keine realen Verletzten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König des Spukschlosses
+Aussehen: Älterer Mann mit grauem kurzem Bart und würdiger Haltung.
+Kleidung: Dunkelblaues Gewand und einfache goldene Krone.
+Persönlichkeit und Vorgeschichte: Lässt drei Nächte als Mutprobe gelten. Königstochter wird später seine Frau; Zeit und Wechsel klar trennen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Frau des furchtlosen Mannes
+Aussehen: Junge erwachsene Frau mit dunkelblondem langem Zopf und offenem Gesicht.
+Kleidung: Anfangs weinrotes Hofkleid, in der abschließenden Alltagsszene hellblaues Hauskleid.
+Persönlichkeit und Vorgeschichte: Die Königstochter wird nach den Nächten seine Frau. Erzeugt mit kaltem Wasser den gesuchten Schauder; kein tödlicher Schrecken.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Eine seltsame Bitte
+Ort und Zeit: Vor dem verwunschenen Schloss bei Tageslicht
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, König des Spukschlosses
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Totale. Junger Mann links neugierig statt prahlend, König rechts am Tor, dunkles Schloss dahinter. Kein Schatz in seinen Händen und noch keine Fische im Eimer. Drei verschlossene obere Fenster als stille Vorahnung, keine dreifache Heldenkopie. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links vor dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des Spukschlosses: Ort: rechts am Schlosstor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Gewand und einfache goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich möchte das Gruseln lernen.“
+Dialog 2:
+  Sprecher: König des Spukschlosses
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann halte dort drei Nächte aus.“
+Kontinuität / Änderung: Beginn beim Schlossbogen. Frühere Galgen- und Glockenturmszenen bleiben außerhalb. Drei getrennte Nächte, keine pausenlose Nacht ohne Morgenwechsel.
+
+KACHEL 2: Erste Nacht: Augen am Feuer
+Ort und Zeit: Schlossraum mit Feuerstelle, erste Nacht
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Warme kleine Feuerstelle links mit dem ruhigen Mann davor. Im kalten Dunkel rechts zwei übergroße katzenartige Spukschatten mit leuchtenden Augen, keine lebenden Tiere in Flammen. Er hält offene leere Hände, kein Folterwerkzeug oder Bogen. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links am Feuer; Körperhaltung: auf einem Hocker sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn ihr friert, kommt näher.“
+Kontinuität / Änderung: Unheimliche Tiergestalten erscheinen als Spuk. Keine Tierquälerei darstellen. Der Held ist furchtlos, aber nicht als feuerfester Körper inszeniert.
+
+KACHEL 3: Das Bett fährt allein
+Ort und Zeit: Schlafraum des Schlosses in derselben Nacht
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite seitliche Ansicht. Ein einziges Bett fährt schief durch den Raum, Mann einmal auf der Matratze und hält sich mit beiden Händen fest. Keine zweite liegende Version. Katzen außerhalb, keine zermalmten Tiere unter den Bettfüßen. Bewegung durch Schräglage statt Zeitmontage. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: mittig auf einem fahrenden Bett; Körperhaltung: auf der Matratze sitzend; Mitgeführte Gegenstände: beide Hände am Bettgestell; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In der ersten Nacht fuhr das Bett mit ihm durch den Raum. Unbequem war die Fahrt, aber Furcht lernte er dabei nicht.
+Dialoge: keine
+Kontinuität / Änderung: Held legt sich ins Bett, dieses setzt sich magisch in Bewegung. Er ist nicht unverwundbar: hält sich fest und achtet auf seine Lage.
+
+KACHEL 4: Noch kein Schauder
+Ort und Zeit: Vor dem Schloss am ersten Morgen
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, König des Spukschlosses
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhiger heller Morgen, Mann wieder auf festen Beinen vor dem Schloss, König rechts prüfend. Ein zerknitterter Westenrand, sonst unverletzt. Kein weiter fahrendes Bett auf dem Hof und keine schon absolvierte dritte Nacht. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links vor der Treppe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des Spukschlosses: Ort: rechts vor dem Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Gewand und einfache goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: König des Spukschlosses
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und?“
+Dialog 2:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ein unruhiges Bett. Aber kein Gruseln.“
+Kontinuität / Änderung: Erste Nacht vorbei. Mann ist ausdrücklich aus dem gestoppten Bett gestiegen und zu Fuß herausgekommen. Zweite Nacht erst nach dem Tag.
+
+KACHEL 5: Zweite Nacht: Was herunterkommt
+Ort und Zeit: Hoher Schlossraum in der zweiten Nacht
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Geisterhafter Kegelspieler
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Untersicht. Rechts setzen sich gespenstische Lichtformen zu einer durchlässigen menschlichen Gestalt zusammen. Nur der Geist hat absichtlich getrennt wirkende Lichtränder, der Held links normale zwei Arme und zwei Beine. Keine realen abgetrennten Körperteile, kein Blut. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links am Rand eines freien Raums; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Geisterhafter Kegelspieler: Ort: rechts unter der dunklen Decke; Körperhaltung: als Nebelgestalt im Entstehen; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Schatten eines langen dunklen Rocks; keine sichtbaren Wunden.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn du fertig bist, können wir reden.“
+Kontinuität / Änderung: Zweite Spuknacht beginnt nach deutlichem Zeitwechsel. Teilerscheinungen als Licht und Nebel, nicht anatomische Verstümmelung.
+
+KACHEL 6: Ein makabres Spiel
+Ort und Zeit: Derselbe Schlossraum, geisterhafte Kegelbahn
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Geisterhafter Kegelspieler
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale einer improvisierten Kegelbahn. Runde Kugel in Heldenhand links, rechts knochenähnliche aber glatte symbolische Spielkegel und ein vollständig erscheinender Geist. Keine echten Schädel mit Wunden, kein verletzter Mensch als Spielmaterial. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links vor der Kegelbahn; Körperhaltung: kniend; Mitgeführte Gegenstände: eine runde dunkle Spielkugel rechts; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Geisterhafter Kegelspieler: Ort: rechts neben den Kegeln; Körperhaltung: als vollständige Nebelgestalt stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schatten eines langen dunklen Rocks; keine sichtbaren Wunden.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In der zweiten Nacht ließ der Spuk ihn mit geisterhaften Gestalten kegeln. Er behandelte die unheimlichen Dinge wie gewöhnliches Spielzeug.
+Dialoge: keine
+Kontinuität / Änderung: Held behandelt das gespenstische Spiel nüchtern. Freie visuelle Entschärfung der makabren Gegenstände, ohne einen grausamen Angriff auf reale Personen zu erfinden.
+
+KACHEL 7: Zwei Nächte später noch dieselbe Frage
+Ort und Zeit: Vor dem Schloss am zweiten Morgen
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, König des Spukschlosses
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Heller Morgen, Mann links auf festem Stein, König rechts. Hände leer, keine mitgenommene Geisterkugel als neues Zauberinventar. Zwei geöffnete obere Fenster, drittes noch dunkel. Keine Hochzeitskleidung vor der letzten Nacht. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links auf der Treppe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des Spukschlosses: Ort: rechts auf dem Hof; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Gewand und einfache goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich dachte, diesmal würde es klappen.“
+Kontinuität / Änderung: Zweite Nacht beendet, Kegelspiel und Geist bleiben im Schloss. Ehrliche Enttäuschung statt moralischer Überlegenheit gegenüber Menschen, die Angst empfinden.
+
+KACHEL 8: Dritte Nacht: Eine Probe mit Gewicht
+Ort und Zeit: Schlosswerkraum in der dritten Nacht
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Bedrohlicher Alter im Schloss
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite räumliche Übersicht. Alter rechts drückt einen schweren Block auf die Werkbank, langer Bart hängt darüber, Held links beobachtet. Keine körperliche Unverwundbarkeit des Jungen und kein Wassergefäß. Werkbankspalt unter dem Bart gut sichtbar. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links vor einer schweren Werkbank; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bedrohlicher Alter im Schloss: Ort: rechts an der Werkbank; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände am schweren Holzblock; Kleidung: Dunkler schwerer Mantel, graues Hemd und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bedrohlicher Alter im Schloss
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt zeigst du, was du kannst.“
+Kontinuität / Änderung: Letzte Kraft- und Entschlossenheitsprobe. Werkbank als freie räumliche Vereinfachung des Bart-Einklemmens; keine neu erfundene tödliche Kampfhandlung.
+
+KACHEL 9: Fest sitzt nur der Bart
+Ort und Zeit: Dieselbe Werkbank unmittelbar nach der Probe
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Bedrohlicher Alter im Schloss
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nah auf die klare Lage: Langer weißer Bart des Alten sitzt unter einem schweren Holzblock im Werkbankspalt. Gesicht unversehrt, Held links mit einer Hand am Block, kein Messer und keine Folter. Kein zweiter Bart weiter ungeklemmt am gleichen Gesicht. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links neben der Werkbank; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand am verschobenen Holzblock; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bedrohlicher Alter im Schloss: Ort: rechts über die Werkbank gebeugt; Körperhaltung: mit eingeklemmtem Bart vorgebeugt; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler schwerer Mantel, graues Hemd und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Bart im Spalt festgehalten; Körper unverletzt.
+Erzählertext: In der dritten Nacht klemmte er den langen Bart des bedrohlichen Alten ein. Nun verlangte er zu erfahren, was dieser verbarg.
+Dialoge: keine
+Kontinuität / Änderung: Bart durch List festgesetzt. Körper nicht unverwundbar und nicht blutig verletzt. Alter gibt nach, bevor er die Schätze zeigt.
+
+KACHEL 10: Was unter dem Schloss lag
+Ort und Zeit: Schatzraum nach Lösung des Bartes
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Bedrohlicher Alter im Schloss
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite ruhige Schatzkammer. Alter rechts mit gelöstem ungekürztem Bart weist auf Truhen, Held links hat leere Hände. Keine Hochzeit im Schatzraum, kein wieder angreifender Alter. Dunkler Raum wird klarer, Spukdruck lässt nach. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links im geöffneten Schatzraum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bedrohlicher Alter im Schloss: Ort: rechts neben geöffneten Truhen; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand weist auf die Truhen; Kleidung: Dunkler schwerer Mantel, graues Hemd und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Bart wieder frei; unverletzt.
+Erzählertext: Der Alte führte ihn zu den Schätzen unter dem Schloss. Mit dieser letzten Begegnung endete der Spuk.
+Dialoge: keine
+Kontinuität / Änderung: Held löst den Bart vor dem gemeinsamen Weg zur Kammer ausdrücklich. Alter zeigt die verborgenen Schätze; kein plötzlicher Ortswechsel mit weiter eingeklemmtem Bart.
+
+KACHEL 11: Drei Nächte sind vorbei
+Ort und Zeit: Schlosshof am dritten Morgen
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, König des Spukschlosses, Frau des furchtlosen Mannes
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Helle weite Hofszene. Junger Mann links, König und erwachsene Tochter rechts. Kein Geist mehr im Tor, keine Braut als bereits übergebene Besitztruhe. Tochter sieht den jungen Mann an, beide auf gleichem Boden. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links im Hof; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König des Spukschlosses: Ort: rechts vor dem Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Gewand und einfache goldene Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frau des furchtlosen Mannes: Ort: rechts neben dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Anfangs weinrotes Hofkleid, in der abschließenden Alltagsszene hellblaues Hauskleid.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: König des Spukschlosses
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du hast es geschafft.“
+Dialog 2:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nur das Gruseln fehlt noch.“
+Kontinuität / Änderung: Dritte Nacht bestanden. Begegnung mit der Tochter vor späterer Hochzeit, kein Kind und keine sexuelle Darstellung.
+
+KACHEL 12: Die große Sache bleibt aus
+Ort und Zeit: Wohnraum nach der Hochzeit und einem Zeitabstand
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Frau des furchtlosen Mannes
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Alltagsszene. Eheleute erwachsen nebeneinander, Frau nun im hellblauen Hauskleid statt Hofkleid. Mann graues Hemd und braune Weste unverändert, noch kein Nachtgewand. Kein übervoller Fischeimer als vorzeitiger Witz im Hintergrund. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links auf einer Bank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graues Hemd, braune Weste, dunkle Hose und Stiefel. Nach der Hochzeit schlichtes weißes Nachtgewand. Keine Waffe mitgeführt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frau des furchtlosen Mannes: Ort: rechts neben der Bank; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Hellblaues schlichtes Hauskleid; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nach den drei Nächten heiratete er die Königstochter. Doch trotz aller bestandenen Schrecken fehlte ihm noch immer das Gruseln.
+Dialoge: keine
+Kontinuität / Änderung: Hochzeit durch kurzen Zeitsprung bestätigt, keine gegenwärtige Feier mit gleichzeitigem Alltagsraum. Wasseridee kommt erst im folgenden Schluss.
+
+KACHEL 13: Eine kleine andere Probe
+Ort und Zeit: Schlafkammer eines späteren Abends
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Frau des furchtlosen Mannes
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Stille Halbnahe vor der Überraschung. Schlafender Mann links bedeckt, Frau rechts hält ein kleines Gefäß mit klarem Wasser und wenigen kleinen Fischen. Noch kein verschüttetes Wasser und kein zweiter schon schreiender Kopf. Kein Eisblock, keine bedrohliche Badewanne. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links im Bett; Körperhaltung: schlafend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes schlichtes Nachtgewand unter heller Decke; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frau des furchtlosen Mannes: Ort: rechts neben dem Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Gefäß mit kaltem Wasser und wenigen kleinen Fischen in beiden Händen; Kleidung: Hellblaues schlichtes Hauskleid; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Seine Frau versuchte etwas ganz anderes. Sie nahm kaltes Wasser und kleine Fische mit an das Bett des Schlafenden.
+Dialoge: keine
+Kontinuität / Änderung: Erst jetzt erscheinen Wasser und Fische. Alltagsstreich der Märchenfassung, nicht als Verletzung oder Beweis einer psychischen Störung inszenieren.
+
+KACHEL 14: Da ist es
+Ort und Zeit: Dieselbe Schlafkammer direkt nach dem Übergießen
+Sichtbare Figuren: Junger Mann auf der Suche nach dem Gruseln, Frau des furchtlosen Mannes
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Komische Halbnahe. Ein einziger aufgeschreckter Mann mit hochgezogenen Schultern und nassem Nachtgewand, Frau rechts mit leerem Gefäß. Wenige kleine Fische auf der nassen Decke ohne verletzte Tiere oder Übertreibung. Kein Monster oder Spuk mehr im Raum. Verbindliche Zustände: Junger Mann auf der Suche nach dem Gruseln: Ort: links im Bett; Körperhaltung: aufgeschreckt sitzend und erschauernd; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes nasses Nachtgewand; Decke nass; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frau des furchtlosen Mannes: Ort: rechts am Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: geleertes Gefäß in beiden Händen; Kleidung: Hellblaues Hauskleid; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Junger Mann auf der Suche nach dem Gruseln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ach, wie gruselt mir! Das kalte Wasser!“
+Kontinuität / Änderung: Die Kälte erzeugt den gesuchten Schauder. Keine Rückblende mit Geistern als neue Gefahr. Die kleine Alltagsszene ist die Pointe, keine weitere vierte Nachtprüfung.

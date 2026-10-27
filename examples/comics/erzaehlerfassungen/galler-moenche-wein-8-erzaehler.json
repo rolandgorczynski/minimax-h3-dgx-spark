@@ -1,0 +1,433 @@
+{
+  "mode": "editorial",
+  "name": "Die St. Galler Mönche erbeten Wein · Erzählerfassung",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die St. Galler Mönche erbeten Wein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 4.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIn der stattlichen Abtei St. Gallen war große Sorge um den lieben Wein. Es war eben ein durstiges Jahr gewesen und lange Jahre nichts Erkleckliches nachgewachsen; nur noch zween Ohmfässer lagerten voll in dem großen Abteikeller, die reichten voraussichtlich nicht mehr weit, und dann wäre den frommen Vätern eine weinlose, schier schreckliche Zeit gekommen. Da wendete Gott das Herz eines frommen und heiligen Mannes, des Bischof Adalrich in der alten Stadt Augsburg, daß er den nicht weniger frommen Vätern zu St. Gallen ein ganzes Stückfaß voll Wein in ihre Abtei verehrte. Da kam aber die Nachricht nach St. Gallen, das Faß sei unterwegs im Rhein ertrunken, der Fuhrmann habe auf der steilen Brücke über den Fluß in der Nähe des Bodensees die Pferde allzuhart angetrieben, da sei die Achse gebrochen und das Faß hinab in den Strudel gestürzt. Das war ein Schrecken! Ohne Säumen berief der Abt den Konvent, und bald wallte eine lange Prozession mit Kreuz und Kirchenfahnen und Heiligenbildern von St. Gallen herab, sang und betete und kniete am Strudel, und die Küper des Klosters suchten mit Stricken das Faß zu fahen, das glücklicherweise noch unversehrt war und im Strudel tanzte. Wäre der Strudel nicht gewesen, so wäre das Stückfaß längst in den Bodensee geflossen, und ward allda ersichtlich, wozu manchmal ein Strudel gut ist. Nach mancher Mühe gelang es unter Gebet und Fürbitte der lieben Gottesheiligen, das Stückfaß an den Strand zu ziehen, und nun wurde es bekränzt und im Triumphe nach der Abtei geführt, allwo ein Dankfest mit einem Te Deum laudamus und vielen Trankopfern gefeiert ward.\n\nSolches ist wahr und wahrhaftig geschehen, aber »das Märlein gar schnurrig« vom Abt von St. Gallen und dem Kaiser mit den drei Fragen hat sich mitnichten alldort begeben, sondern mit einem Abt von Kentelbury in Altengland, und ward nur durch Dichtermund auf deutschen Boden verpflanzt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die St. Galler Mönche erbeten Wein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 4.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIn der stattlichen Abtei St. Gallen war große Sorge um den lieben Wein. Es war eben ein durstiges Jahr gewesen und lange Jahre nichts Erkleckliches nachgewachsen; nur noch zween Ohmfässer lagerten voll in dem großen Abteikeller, die reichten voraussichtlich nicht mehr weit, und dann wäre den frommen Vätern eine weinlose, schier schreckliche Zeit gekommen. Da wendete Gott das Herz eines frommen und heiligen Mannes, des Bischof Adalrich in der alten Stadt Augsburg, daß er den nicht weniger frommen Vätern zu St. Gallen ein ganzes Stückfaß voll Wein in ihre Abtei verehrte. Da kam aber die Nachricht nach St. Gallen, das Faß sei unterwegs im Rhein ertrunken, der Fuhrmann habe auf der steilen Brücke über den Fluß in der Nähe des Bodensees die Pferde allzuhart angetrieben, da sei die Achse gebrochen und das Faß hinab in den Strudel gestürzt. Das war ein Schrecken! Ohne Säumen berief der Abt den Konvent, und bald wallte eine lange Prozession mit Kreuz und Kirchenfahnen und Heiligenbildern von St. Gallen herab, sang und betete und kniete am Strudel, und die Küper des Klosters suchten mit Stricken das Faß zu fahen, das glücklicherweise noch unversehrt war und im Strudel tanzte. Wäre der Strudel nicht gewesen, so wäre das Stückfaß längst in den Bodensee geflossen, und ward allda ersichtlich, wozu manchmal ein Strudel gut ist. Nach mancher Mühe gelang es unter Gebet und Fürbitte der lieben Gottesheiligen, das Stückfaß an den Strand zu ziehen, und nun wurde es bekränzt und im Triumphe nach der Abtei geführt, allwo ein Dankfest mit einem Te Deum laudamus und vielen Trankopfern gefeiert ward.\n\nSolches ist wahr und wahrhaftig geschehen, aber »das Märlein gar schnurrig« vom Abt von St. Gallen und dem Kaiser mit den drei Fragen hat sich mitnichten alldort begeben, sondern mit einem Abt von Kentelbury in Altengland, und ward nur durch Dichtermund auf deutschen Boden verpflanzt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 8,
+    "panel_count": 8,
+    "scenes": [
+      {
+        "heading": "Noch zwei volle Fässer",
+        "setting": "Weinkeller der Abtei St. Gallen",
+        "characters": [
+          "4b0cd775a24d5e1692b461877ef2a38a",
+          "a54b798bb8025e7081bc2c52a0f52c65"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. In einem großen Keller liegen viele leere Fässer mit offenen Spundlöchern. Genau zwei kleinere geschlossene Vorratsfässer stehen noch an der Rückwand. Der Abt hält die Laterne dicht an den begrenzten Rest. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: zwischen leeren Fasslagern; Körperhaltung: stehend; Mitgeführte Gegenstände: eine kleine Laterne; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: neben den letzten Vorräten; Körperhaltung: stehend; Mitgeführte Gegenstände: ein leerer Holzbecher; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "4b0cd775a24d5e1692b461877ef2a38a",
+            "text": "Zwei volle Fässer. Und dann?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Zwei kleine vorhandene Vorratsfässer. Das später geschenkte große Fass ist ein anderes einzelnes Objekt.",
+        "character_states": {},
+        "continuity_state": {
+          "4b0cd775a24d5e1692b461877ef2a38a": {
+            "location": "zwischen leeren Fasslagern",
+            "posture": "stehend",
+            "held": "eine kleine Laterne",
+            "clothing": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a54b798bb8025e7081bc2c52a0f52c65": {
+            "location": "neben den letzten Vorräten",
+            "posture": "stehend",
+            "held": "ein leerer Holzbecher",
+            "clothing": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein großes Geschenk",
+        "setting": "Augsburger Hof vor der Abfahrt",
+        "characters": [
+          "aa9ec48a2f6052c18551088bd80bff71",
+          "5d577a8d5d3b5652a7e69ddd67e3ca79"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Adalrich übergibt ein einzelnes sehr großes geschlossenes Holzfass mit auffälligem rotem Band um den mittleren Reifen an den Fuhrmann. Es ist auf einem Wagen hinter genau zwei Pferden gesichert. Noch ist die Achse ungebrochen. Verbindliche Zustände: Fuhrmann des geschenkten Fasses: Ort: am vorderen Wagenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel der zwei Zugpferde; Kleidung: Grauer Mantel, braune Hose und dunkle Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bischof Adalrich als Weinschenker: Ort: neben einem beladenen Wagen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand zeigt auf das große Fass; Kleidung: Dunkelviolettes langes Gewand und ein einfaches goldenes Amtskreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "In der Sage schenkte Bischof Adalrich den St. Galler Mönchen ein großes Fass Wein. Ein Fuhrmann sollte es zur Abtei bringen.",
+        "bubbles": [],
+        "continuity": "Fass eindeutig markiert, später dasselbe rote Band. Zwei Pferde vor einem Wagen, keine weiteren Weinfässer als Geschenk.",
+        "character_states": {},
+        "continuity_state": {
+          "aa9ec48a2f6052c18551088bd80bff71": {
+            "location": "neben einem beladenen Wagen",
+            "posture": "stehend",
+            "held": "Hand zeigt auf das große Fass",
+            "clothing": "Dunkelviolettes langes Gewand und ein einfaches goldenes Amtskreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "5d577a8d5d3b5652a7e69ddd67e3ca79": {
+            "location": "am vorderen Wagenrand",
+            "posture": "stehend",
+            "held": "Zügel der zwei Zugpferde",
+            "clothing": "Grauer Mantel, braune Hose und dunkle Stiefel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die gebrochene Achse",
+        "setting": "Steile Rheinbrücke nahe dem Bodensee",
+        "characters": [
+          "5d577a8d5d3b5652a7e69ddd67e3ca79"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach zu heftigem Antreiben ist die Wagenachse gebrochen. Das große Fass mit rotem Band kippt bereits durch die offene Seite hinunter zum Strudel. Der Fuhrmann steht am Geländer; die beiden Pferde bleiben auf dem oberen Brückenteil. Kein Pferd stürzt mit dem Fass. Verbindliche Zustände: Fuhrmann des geschenkten Fasses: Ort: am Brückengeländer; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel in einer Hand, andere Hand am Geländer; Kleidung: Grauer Mantel, braune Hose und dunkle Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Auf der steilen Rheinbrücke brach die Wagenachse. Das Geschenk fiel in den Fluss, noch bevor es den Keller erreichte.",
+        "bubbles": [],
+        "continuity": "Ein Fass im Fallen, kein zweites auf dem Wagen. Keine behauptete Verletzung oder Tötung des Fuhrmanns.",
+        "character_states": {},
+        "continuity_state": {
+          "5d577a8d5d3b5652a7e69ddd67e3ca79": {
+            "location": "am Brückengeländer",
+            "posture": "stehend",
+            "held": "Zügel in einer Hand, andere Hand am Geländer",
+            "clothing": "Grauer Mantel, braune Hose und dunkle Stiefel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Nachricht",
+        "setting": "Kapitelsaal der Abtei",
+        "characters": [
+          "4b0cd775a24d5e1692b461877ef2a38a",
+          "a54b798bb8025e7081bc2c52a0f52c65"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Eintreffen der Unglücksnachricht versammelt der Abt die Gemeinschaft. Der Küper nimmt ein Seilbündel mit; andere bereiten Kreuz und Kirchenfahnen vor. Kein Bischof aus Augsburg steht plötzlich im Saal. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: vor den versammelten Brüdern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: bei den anderen Erwachsenen; Körperhaltung: stehend; Mitgeführte Gegenstände: ein aufgeschlagenes dickes Seilbündel; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "4b0cd775a24d5e1692b461877ef2a38a",
+            "text": "Zum Fluss. Und nehmt die Seile mit.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Berufung der Gemeinschaft vor dem gemeinsamen Weg. Laterne und Becher verbleiben im Keller.",
+        "character_states": {},
+        "continuity_state": {
+          "4b0cd775a24d5e1692b461877ef2a38a": {
+            "location": "vor den versammelten Brüdern",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a54b798bb8025e7081bc2c52a0f52c65": {
+            "location": "bei den anderen Erwachsenen",
+            "posture": "stehend",
+            "held": "ein aufgeschlagenes dickes Seilbündel",
+            "clothing": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Was der Strudel bewahrt",
+        "setting": "Ufer unterhalb der Brücke",
+        "characters": [
+          "4b0cd775a24d5e1692b461877ef2a38a",
+          "a54b798bb8025e7081bc2c52a0f52c65"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Weg zum Fluss knien Brüder mit Kreuz und Fahnen am Ufer. Das eine große Fass mit rotem Band kreist unversehrt im Strudel. Dahinter führt die offene Flussrinne sichtbar weiter Richtung See. Kein Fass schwebt durch ein Wunder in der Luft. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am sicheren Ufersaum; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: auf einem flachen Uferstein; Körperhaltung: stehend; Mitgeführte Gegenstände: aufgerolltes Bergungsseil; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Der Strudel hielt das Fass an einer Stelle fest. Ohne ihn wäre es weiter in den See getrieben und kaum erreichbar gewesen.",
+        "bubbles": [],
+        "continuity": "Gebet und praktische Bergung nebeneinander. Fass noch im Wasser, rotes Band unverändert.",
+        "character_states": {},
+        "continuity_state": {
+          "4b0cd775a24d5e1692b461877ef2a38a": {
+            "location": "am sicheren Ufersaum",
+            "posture": "kniend",
+            "held": "leere Hände",
+            "clothing": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a54b798bb8025e7081bc2c52a0f52c65": {
+            "location": "auf einem flachen Uferstein",
+            "posture": "stehend",
+            "held": "aufgerolltes Bergungsseil",
+            "clothing": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Das Seil fasst",
+        "setting": "Derselbe Uferstein",
+        "characters": [
+          "a54b798bb8025e7081bc2c52a0f52c65",
+          "4b0cd775a24d5e1692b461877ef2a38a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach mehreren Versuchen sitzt eine Seilschlinge um das große Fass zwischen den Reifen. Der Küper und namenlose erwachsene Helfer ziehen gemeinsam vom festen Ufer aus. Das Fass ist noch halb im Wasser, keine gleichzeitig schon geschmückte Version am Land. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am Ufer hinter den Helfern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: auf dem sicheren flachen Stein; Körperhaltung: zurückgelehnt stehend; Mitgeführte Gegenstände: beide Hände am gespannten Bergungsseil; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Nach mehreren Versuchen griff die Seilschlinge um das unversehrte Fass. Gemeinsam zogen die Helfer es zum Ufer.",
+        "bubbles": [],
+        "continuity": "Seil straff am selben Fass. Niemand wird ins Wasser gezogen; Bergung noch nicht abgeschlossen.",
+        "character_states": {},
+        "continuity_state": {
+          "a54b798bb8025e7081bc2c52a0f52c65": {
+            "location": "auf dem sicheren flachen Stein",
+            "posture": "zurückgelehnt stehend",
+            "held": "beide Hände am gespannten Bergungsseil",
+            "clothing": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "4b0cd775a24d5e1692b461877ef2a38a": {
+            "location": "am Ufer hinter den Helfern",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein geschmückter Rückweg",
+        "setting": "Weg vom Ufer zur Abtei",
+        "characters": [
+          "4b0cd775a24d5e1692b461877ef2a38a",
+          "a54b798bb8025e7081bc2c52a0f52c65"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach erfolgreicher Bergung ruht dasselbe unversehrte Fass mit rotem Band auf einer niedrigen hölzernen Transportkufe. Helfer ziehen es bergauf; grüne Zweige und ein kleiner Kranz schmücken es jetzt. Die Rettungsschlinge ist gelöst und das Seil für den Transport befestigt. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: neben dem langsam bewegten Fass; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: bei einer niedrigen Transportschlittenkufe; Körperhaltung: stehend; Mitgeführte Gegenstände: Seil am Transportschlitten; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Mit grünen Zweigen geschmückt wurde das geborgene Fass zur Abtei gebracht. Aus der Verlustnachricht wurde ein Fest.",
+        "bubbles": [],
+        "continuity": "Erst an Land bekränzt. Kein erneutes Sinken, kein zweites Fass und kein von allein rollender Aufstieg.",
+        "character_states": {},
+        "continuity_state": {
+          "4b0cd775a24d5e1692b461877ef2a38a": {
+            "location": "neben dem langsam bewegten Fass",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a54b798bb8025e7081bc2c52a0f52c65": {
+            "location": "bei einer niedrigen Transportschlittenkufe",
+            "posture": "stehend",
+            "held": "Seil am Transportschlitten",
+            "clothing": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Dank für das Hindernis",
+        "setting": "Speisesaal der Abtei beim Dankfest",
+        "characters": [
+          "4b0cd775a24d5e1692b461877ef2a38a",
+          "a54b798bb8025e7081bc2c52a0f52c65"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Beim Dankfest steht das eine große Fass mit rotem Band und grünem Kranz am Rand des Saals. Ein Zapfhahn versorgt die Becher; die Gemeinschaft feiert ohne Trunkenheitssturz. Zwei kleinere alte Kellerfässer werden nicht mit dem Geschenk verwechselt. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am gemeinsamen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein gefüllter Holzbecher; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: neben den Helfern; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein gefüllter Holzbecher; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "4b0cd775a24d5e1692b461877ef2a38a",
+            "text": "Wer hätte gedacht, dass wir dem Strudel einmal danken würden?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Überlieferter komischer Schluss der Sage. Keine zusätzliche Geschichte von drei Kaiserfragen anhängen.",
+        "character_states": {},
+        "continuity_state": {
+          "4b0cd775a24d5e1692b461877ef2a38a": {
+            "location": "am gemeinsamen Tisch",
+            "posture": "sitzend",
+            "held": "ein gefüllter Holzbecher",
+            "clothing": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a54b798bb8025e7081bc2c52a0f52c65": {
+            "location": "neben den Helfern",
+            "posture": "sitzend",
+            "held": "ein gefüllter Holzbecher",
+            "clothing": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "4b0cd775a24d5e1692b461877ef2a38a",
+        "name": "Abt beim gefährdeten Weinfass",
+        "description": "Älterer rundlicher Mann mit kurzem grauem Haar und kleinem Bart.",
+        "outfit": "Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.",
+        "backstory": "Sorgt sich um den knappen Wein und ruft die Gemeinschaft zur Bergung. Humorvolle einzelne Figur, kein allgemeines Urteil über Mönche.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "a54b798bb8025e7081bc2c52a0f52c65",
+        "name": "Küper am Strudel",
+        "description": "Erwachsener kräftiger Mann mit rotem kurzem Bart und breiten Händen.",
+        "outfit": "Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.",
+        "backstory": "Bergt das Fass mit anderen Küpern durch praktische Mühe. Beten ersetzt seine Arbeit nicht.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "5d577a8d5d3b5652a7e69ddd67e3ca79",
+        "name": "Fuhrmann des geschenkten Fasses",
+        "description": "Erwachsener Mann mit dunklem kurzem Bart und breitem wettergegerbtem Gesicht.",
+        "outfit": "Grauer Mantel, braune Hose und dunkle Stiefel.",
+        "backstory": "Treibt die Pferde an der steilen Brücke zu stark an; die Achse bricht. Keine behauptete Absicht, den Wein zu vernichten.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "aa9ec48a2f6052c18551088bd80bff71",
+        "name": "Bischof Adalrich als Weinschenker",
+        "description": "Älterer schmaler Mann mit kurzem weißem Haar und freundlichem Gesicht.",
+        "outfit": "Dunkelviolettes langes Gewand und ein einfaches goldenes Amtskreuz.",
+        "backstory": "Schenkt der Abtei in der Sage ein großes Fass Wein. Bleibt beim Schenken in Augsburg, erscheint nicht plötzlich bei der Bergung.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wozu kann ein Hindernis gut sein, das zunächst nur als Gefahr erscheint?",
+      "core": "Ein ungünstiger Umstand kann zugleich bewahren, was ohne ihn verloren wäre. Gemeinschaftliche Anstrengung und selbstironisch erzählte Frömmigkeit verwandeln drohenden Verlust in ein Fest.",
+      "ending": "Das unversehrte Fass wird geborgen und im Kloster gefeiert.",
+      "reason": "Mangel, Unglücksnachricht, überraschend bewahrendes Hindernis und Bergung ergeben die komische Umwertung.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Wäre der Strudel nicht gewesen, so wäre das Stückfaß längst in den Bodensee geflossen",
+          "meaning": "Die vermeintliche Gefahr erweist sich als Voraussetzung der Bergung."
+        }
+      ],
+      "causal_chain": [
+        "Wäre der Strudel nicht gewesen, so wäre das Stückfaß längst in den Bodensee geflossen",
+        "Das unversehrte Fass wird geborgen und im Kloster gefeiert."
+      ],
+      "recommended_count": 8,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "1d06531ef42cec9aa43ac74bce521c4162e9ce88c9bc8e1527c07f5514941b07",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.308109+00:00"
+    },
+    "post_summary": "Ein geschenktes Weinfass stürzt in den Rhein. Ausgerechnet der gefährliche Strudel bewahrt es vor dem Forttreiben – doch bergen müssen die Mönche es mit Seilen und gemeinsamer Mühe.",
+    "source_provenance": {
+      "title": "Die St. Galler Mönche erbeten Wein",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 4.",
+      "url": "https://textgridrep.org/browse/kf3d.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die St. Galler Mönche erbeten Wein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 4.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIn der stattlichen Abtei St. Gallen war große Sorge um den lieben Wein. Es war eben ein durstiges Jahr gewesen und lange Jahre nichts Erkleckliches nachgewachsen; nur noch zween Ohmfässer lagerten voll in dem großen Abteikeller, die reichten voraussichtlich nicht mehr weit, und dann wäre den frommen Vätern eine weinlose, schier schreckliche Zeit gekommen. Da wendete Gott das Herz eines frommen und heiligen Mannes, des Bischof Adalrich in der alten Stadt Augsburg, daß er den nicht weniger frommen Vätern zu St. Gallen ein ganzes Stückfaß voll Wein in ihre Abtei verehrte. Da kam aber die Nachricht nach St. Gallen, das Faß sei unterwegs im Rhein ertrunken, der Fuhrmann habe auf der steilen Brücke über den Fluß in der Nähe des Bodensees die Pferde allzuhart angetrieben, da sei die Achse gebrochen und das Faß hinab in den Strudel gestürzt. Das war ein Schrecken! Ohne Säumen berief der Abt den Konvent, und bald wallte eine lange Prozession mit Kreuz und Kirchenfahnen und Heiligenbildern von St. Gallen herab, sang und betete und kniete am Strudel, und die Küper des Klosters suchten mit Stricken das Faß zu fahen, das glücklicherweise noch unversehrt war und im Strudel tanzte. Wäre der Strudel nicht gewesen, so wäre das Stückfaß längst in den Bodensee geflossen, und ward allda ersichtlich, wozu manchmal ein Strudel gut ist. Nach mancher Mühe gelang es unter Gebet und Fürbitte der lieben Gottesheiligen, das Stückfaß an den Strand zu ziehen, und nun wurde es bekränzt und im Triumphe nach der Abtei geführt, allwo ein Dankfest mit einem Te Deum laudamus und vielen Trankopfern gefeiert ward.\n\nSolches ist wahr und wahrhaftig geschehen, aber »das Märlein gar schnurrig« vom Abt von St. Gallen und dem Kaiser mit den drei Fragen hat sich mitnichten alldort begeben, sondern mit einem Abt von Kentelbury in Altengland, und ward nur durch Dichtermund auf deutschen Boden verpflanzt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "In der stattlichen Abtei St. Gallen war große Sorge um den lieben Wein. Es war eben ein durstiges Jahr gewesen und lange Jahre nichts Erkleckliches nachgewachsen; nur noch zween Ohmfässer lagerten voll in dem großen Abteikeller, die reichten voraussichtlich nicht mehr weit, und dann wäre den frommen Vätern eine weinlose, schier schreckliche Zeit gekommen.",
+      "id": "bechstein-sagen-kf3d-0",
+      "category": "Heilige und Legenden",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "source_script": "TITEL: Die St. Galler Mönche erbeten Wein · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 8\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Abt beim gefährdeten Weinfass\nAussehen: Älterer rundlicher Mann mit kurzem grauem Haar und kleinem Bart.\nKleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.\nPersönlichkeit und Vorgeschichte: Sorgt sich um den knappen Wein und ruft die Gemeinschaft zur Bergung. Humorvolle einzelne Figur, kein allgemeines Urteil über Mönche.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Küper am Strudel\nAussehen: Erwachsener kräftiger Mann mit rotem kurzem Bart und breiten Händen.\nKleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.\nPersönlichkeit und Vorgeschichte: Bergt das Fass mit anderen Küpern durch praktische Mühe. Beten ersetzt seine Arbeit nicht.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Fuhrmann des geschenkten Fasses\nAussehen: Erwachsener Mann mit dunklem kurzem Bart und breitem wettergegerbtem Gesicht.\nKleidung: Grauer Mantel, braune Hose und dunkle Stiefel.\nPersönlichkeit und Vorgeschichte: Treibt die Pferde an der steilen Brücke zu stark an; die Achse bricht. Keine behauptete Absicht, den Wein zu vernichten.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Bischof Adalrich als Weinschenker\nAussehen: Älterer schmaler Mann mit kurzem weißem Haar und freundlichem Gesicht.\nKleidung: Dunkelviolettes langes Gewand und ein einfaches goldenes Amtskreuz.\nPersönlichkeit und Vorgeschichte: Schenkt der Abtei in der Sage ein großes Fass Wein. Bleibt beim Schenken in Augsburg, erscheint nicht plötzlich bei der Bergung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Noch zwei volle Fässer\nOrt und Zeit: Weinkeller der Abtei St. Gallen\nSichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. In einem großen Keller liegen viele leere Fässer mit offenen Spundlöchern. Genau zwei kleinere geschlossene Vorratsfässer stehen noch an der Rückwand. Der Abt hält die Laterne dicht an den begrenzten Rest. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: zwischen leeren Fasslagern; Körperhaltung: stehend; Mitgeführte Gegenstände: eine kleine Laterne; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: neben den letzten Vorräten; Körperhaltung: stehend; Mitgeführte Gegenstände: ein leerer Holzbecher; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Abt beim gefährdeten Weinfass\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Zwei volle Fässer. Und dann?“\nKontinuität / Änderung: Zwei kleine vorhandene Vorratsfässer. Das später geschenkte große Fass ist ein anderes einzelnes Objekt.\n\nKACHEL 2: Ein großes Geschenk\nOrt und Zeit: Augsburger Hof vor der Abfahrt\nSichtbare Figuren: Bischof Adalrich als Weinschenker, Fuhrmann des geschenkten Fasses\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Adalrich übergibt ein einzelnes sehr großes geschlossenes Holzfass mit auffälligem rotem Band um den mittleren Reifen an den Fuhrmann. Es ist auf einem Wagen hinter genau zwei Pferden gesichert. Noch ist die Achse ungebrochen. Verbindliche Zustände: Fuhrmann des geschenkten Fasses: Ort: am vorderen Wagenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel der zwei Zugpferde; Kleidung: Grauer Mantel, braune Hose und dunkle Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bischof Adalrich als Weinschenker: Ort: neben einem beladenen Wagen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand zeigt auf das große Fass; Kleidung: Dunkelviolettes langes Gewand und ein einfaches goldenes Amtskreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: In der Sage schenkte Bischof Adalrich den St. Galler Mönchen ein großes Fass Wein. Ein Fuhrmann sollte es zur Abtei bringen.\nDialoge: keine\nKontinuität / Änderung: Fass eindeutig markiert, später dasselbe rote Band. Zwei Pferde vor einem Wagen, keine weiteren Weinfässer als Geschenk.\n\nKACHEL 3: Die gebrochene Achse\nOrt und Zeit: Steile Rheinbrücke nahe dem Bodensee\nSichtbare Figuren: Fuhrmann des geschenkten Fasses\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach zu heftigem Antreiben ist die Wagenachse gebrochen. Das große Fass mit rotem Band kippt bereits durch die offene Seite hinunter zum Strudel. Der Fuhrmann steht am Geländer; die beiden Pferde bleiben auf dem oberen Brückenteil. Kein Pferd stürzt mit dem Fass. Verbindliche Zustände: Fuhrmann des geschenkten Fasses: Ort: am Brückengeländer; Körperhaltung: stehend; Mitgeführte Gegenstände: Zügel in einer Hand, andere Hand am Geländer; Kleidung: Grauer Mantel, braune Hose und dunkle Stiefel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Auf der steilen Rheinbrücke brach die Wagenachse. Das Geschenk fiel in den Fluss, noch bevor es den Keller erreichte.\nDialoge: keine\nKontinuität / Änderung: Ein Fass im Fallen, kein zweites auf dem Wagen. Keine behauptete Verletzung oder Tötung des Fuhrmanns.\n\nKACHEL 4: Die Nachricht\nOrt und Zeit: Kapitelsaal der Abtei\nSichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Eintreffen der Unglücksnachricht versammelt der Abt die Gemeinschaft. Der Küper nimmt ein Seilbündel mit; andere bereiten Kreuz und Kirchenfahnen vor. Kein Bischof aus Augsburg steht plötzlich im Saal. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: vor den versammelten Brüdern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: bei den anderen Erwachsenen; Körperhaltung: stehend; Mitgeführte Gegenstände: ein aufgeschlagenes dickes Seilbündel; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Abt beim gefährdeten Weinfass\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Zum Fluss. Und nehmt die Seile mit.“\nKontinuität / Änderung: Berufung der Gemeinschaft vor dem gemeinsamen Weg. Laterne und Becher verbleiben im Keller.\n\nKACHEL 5: Was der Strudel bewahrt\nOrt und Zeit: Ufer unterhalb der Brücke\nSichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Weg zum Fluss knien Brüder mit Kreuz und Fahnen am Ufer. Das eine große Fass mit rotem Band kreist unversehrt im Strudel. Dahinter führt die offene Flussrinne sichtbar weiter Richtung See. Kein Fass schwebt durch ein Wunder in der Luft. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am sicheren Ufersaum; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: auf einem flachen Uferstein; Körperhaltung: stehend; Mitgeführte Gegenstände: aufgerolltes Bergungsseil; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Der Strudel hielt das Fass an einer Stelle fest. Ohne ihn wäre es weiter in den See getrieben und kaum erreichbar gewesen.\nDialoge: keine\nKontinuität / Änderung: Gebet und praktische Bergung nebeneinander. Fass noch im Wasser, rotes Band unverändert.\n\nKACHEL 6: Das Seil fasst\nOrt und Zeit: Derselbe Uferstein\nSichtbare Figuren: Küper am Strudel, Abt beim gefährdeten Weinfass\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach mehreren Versuchen sitzt eine Seilschlinge um das große Fass zwischen den Reifen. Der Küper und namenlose erwachsene Helfer ziehen gemeinsam vom festen Ufer aus. Das Fass ist noch halb im Wasser, keine gleichzeitig schon geschmückte Version am Land. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am Ufer hinter den Helfern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: auf dem sicheren flachen Stein; Körperhaltung: zurückgelehnt stehend; Mitgeführte Gegenstände: beide Hände am gespannten Bergungsseil; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Nach mehreren Versuchen griff die Seilschlinge um das unversehrte Fass. Gemeinsam zogen die Helfer es zum Ufer.\nDialoge: keine\nKontinuität / Änderung: Seil straff am selben Fass. Niemand wird ins Wasser gezogen; Bergung noch nicht abgeschlossen.\n\nKACHEL 7: Ein geschmückter Rückweg\nOrt und Zeit: Weg vom Ufer zur Abtei\nSichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach erfolgreicher Bergung ruht dasselbe unversehrte Fass mit rotem Band auf einer niedrigen hölzernen Transportkufe. Helfer ziehen es bergauf; grüne Zweige und ein kleiner Kranz schmücken es jetzt. Die Rettungsschlinge ist gelöst und das Seil für den Transport befestigt. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: neben dem langsam bewegten Fass; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: bei einer niedrigen Transportschlittenkufe; Körperhaltung: stehend; Mitgeführte Gegenstände: Seil am Transportschlitten; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Mit grünen Zweigen geschmückt wurde das geborgene Fass zur Abtei gebracht. Aus der Verlustnachricht wurde ein Fest.\nDialoge: keine\nKontinuität / Änderung: Erst an Land bekränzt. Kein erneutes Sinken, kein zweites Fass und kein von allein rollender Aufstieg.\n\nKACHEL 8: Dank für das Hindernis\nOrt und Zeit: Speisesaal der Abtei beim Dankfest\nSichtbare Figuren: Abt beim gefährdeten Weinfass, Küper am Strudel\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Beim Dankfest steht das eine große Fass mit rotem Band und grünem Kranz am Rand des Saals. Ein Zapfhahn versorgt die Becher; die Gemeinschaft feiert ohne Trunkenheitssturz. Zwei kleinere alte Kellerfässer werden nicht mit dem Geschenk verwechselt. Verbindliche Zustände: Abt beim gefährdeten Weinfass: Ort: am gemeinsamen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein gefüllter Holzbecher; Kleidung: Schwarze schlichte Kutte mit breitem Ledergürtel und kleinem hölzernem Kreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Küper am Strudel: Ort: neben den Helfern; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein gefüllter Holzbecher; Kleidung: Braune Arbeitsjacke, graue Hose und hohe schwarze Stiefel. Ein langes dickes Bergungsseil erst am Fluss.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Abt beim gefährdeten Weinfass\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Wer hätte gedacht, dass wir dem Strudel einmal danken würden?“\nKontinuität / Änderung: Überlieferter komischer Schluss der Sage. Keine zusätzliche Geschichte von drei Kaiserfragen anhängen.\n",
+    "book_author": "",
+    "editorial_script_id": "galler-moenche-wein-8-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "galler-moenche-wein-8"
+    },
+    "title": "Die St. Galler Mönche erbeten Wein · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "galler-moenche-wein-8"
+    }
+  },
+  "count_policy": "editorial"
+}

@@ -1,0 +1,205 @@
+TITEL: Die Kristallkugel – Das Ei im Feuervogel · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Dritter Bruder mit dem Wunschhut
+Aussehen: Junger erwachsener Mann mit kurzem braunem Haar und schmalem bartlosem Gesicht. Bleibt bis zum Schluss Mensch.
+Kleidung: Dunkelgrüner Reiserock, braune Hose und Stiefel. Genau ein kurzes Schwert in Scheide links am Gürtel. Wunschhut erst nach seinem Erwerb.
+Persönlichkeit und Vorgeschichte: Dritter von genau drei Brüdern. Sucht die Königstochter, wird durch Adler- und Walbruder unterstützt. Reisezauber gehört dem Hut, nicht der später gefundenen Kristallkugel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Adlerbruder der Kristallkugel
+Aussehen: Ein großer brauner Adler mit hellem Brustfleck, einem Kopf, zwei Flügeln und zwei Fängen. Kein menschlicher Oberkörper.
+Kleidung: Braunes Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Einer der drei Brüder vollständig in Adlergestalt. Verfolgt den Feuervogel und ermöglicht erst danach den Fall des Eies.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Walbruder der Kristallkugel
+Aussehen: Ein großer grauer Wal mit einem Körper, zwei Brustflossen und waagerechter Schwanzfluke. Keine Beine oder Menschenarme.
+Kleidung: Graue Haut, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Zweiter verwandelter Bruder. Löst die rettende Welle aus, die das brennende Ei abkühlt. Kein Goldfisch oder zweiter Adler.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königstochter im Schloss der goldenen Sonne
+Aussehen: Junge erwachsene Frau mit braunen Augen und langem dunklem Haar. Vor der Erlösung blass und erschöpft, danach dieselbe Person mit wachem Blick.
+Kleidung: Schlichtes hellblaues langes Gewand und braune Schuhe. Keine zusätzliche Filmrüstung.
+Persönlichkeit und Vorgeschichte: Erklärt die Folge Stier, Feuervogel, Ei, Kugel. Wird durch das Brechen der Zauberermacht erlöst, kein Ersatz für eine andere Frau.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zauberin als Mutter der drei Brüder
+Aussehen: Ältere Frau mit langem grauem Haar und schmalem strengem Gesicht.
+Kleidung: Dunkelbraunes Gewand und grauer Mantel.
+Persönlichkeit und Vorgeschichte: Hat zwei Söhne in Adler und Wal verwandelt. Vom späteren Zauberer getrennte Person, keine vierte Bruderrolle.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zauberer des Sonnenschlosses
+Aussehen: Erwachsener Mann mit langem dunklem Bart und schwerem starrem Blick.
+Kleidung: Dunkelvioletter langer Rock und schmaler dunkler Reif.
+Persönlichkeit und Vorgeschichte: Seine Macht wird durch die gewonnene Kugel gebrochen. Nicht die reisende Wunschhilfe und nicht die Mutter der Brüder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wilder Stier vor dem Feuervogel
+Aussehen: Ein schwarzer wilder Stier mit einem Kopf, zwei Hörnern, vier Beinen und einem Schwanz. Kein Minotaurus.
+Kleidung: Schwarzes Fell, keine Rüstung.
+Persönlichkeit und Vorgeschichte: Erster Teil der Folge. Erst nach seiner Niederlage kommt der Feuervogel hervor; keine Rückkehr als lebender zweiter Stier.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Feuervogel mit dem verborgenen Ei
+Aussehen: Ein großer rotgoldener Vogel mit einem Kopf, zwei Flügeln und zwei Füßen. Kein Drache oder Adler mit neuer Farbe.
+Kleidung: Rotgoldenes Gefieder mit märchenhaftem Feuerglanz.
+Persönlichkeit und Vorgeschichte: Trägt das Ei zunächst im Körper verborgen. Erst nach dem Angriff des Adlerbruders fällt es heraus, Ei und Kugel nicht vorher offen am Boden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Drei Brüder in drei verschiedenen Lagen
+Ort und Zeit: Küstennaher Wald nach der Verzauberung
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Adlerbruder der Kristallkugel, Walbruder der Kristallkugel, Zauberin als Mutter der drei Brüder
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Küstenansicht nach dem Zauber. Ein junger Mann links, ein Adler oben rechts, ein Wal fern im Wasser, Mutter zurück am Waldsaum. Keine zwei menschlichen Brüder zusätzlich neben den Tieren. Ein Schwert links in Scheide beim Menschen, noch kein Hut oder Kristall. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links auf dem Küstenpfad; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose und Stiefel; noch kein Wunschhut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Adlerbruder der Kristallkugel: Ort: oben rechts über den Felsen; Körperhaltung: mit zwei Flügeln fliegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt. Walbruder der Kristallkugel: Ort: rechts fern im Meer; Körperhaltung: an der Oberfläche schwimmend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Haut, keine Kleidung.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt. Zauberin als Mutter der drei Brüder: Ort: links hinten am Waldsaum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes Gewand und grauer Mantel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Eine Zauberin hatte zwei ihrer Söhne verwandelt: einen in einen Adler, den anderen in einen Wal. Der dritte konnte fliehen.
+Dialoge: keine
+Kontinuität / Änderung: Genau drei Brüder, Formen bereits zugeordnet. Menschlicher Dritter bleibt unverwandelt und flieht. Mutter und späterer männlicher Zauberer verschiedene Figuren.
+
+KACHEL 2: Ein Hut vor jeder Kugel
+Ort und Zeit: Weg nach der Flucht und dem Erwerb des Hutes
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Halbnahe. Junger Mann hält erstmals einen einzelnen schlichten besonderen Hut. Kein Kristall darin, kein bereits angelegter zweiter Hut und keine zusätzlich mitreisenden menschlichen Brüder. Schwert noch in der linken Scheide. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: ein besonderer Wunschhut in beiden Händen; Kleidung: Dunkelgrüner Reiserock, Hose und Stiefel; noch kein Wunschhut; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Er erlangte einen Wunschhut. Damit wollte er das Schloss der goldenen Sonne und die verzauberte Königstochter erreichen.
+Dialoge: keine
+Kontinuität / Änderung: Erwerb des Reisehilfsmittels gerafft, keine behauptete frei erfundene Kauf- oder Geschenkszene. Kugel noch nicht gefunden. Macht des Reisens gehört ausdrücklich dem Hut.
+
+KACHEL 3: Der Ort, den der Hut erreicht
+Ort und Zeit: Vor dem Schloss der goldenen Sonne
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Schlossansicht. Ein junger Mann nach dem Ortswechsel auf festem Boden, Wunschhut jetzt auf dem Kopf. Keine zweite Abreisekopie am anderen Bildrand und keine Kugel in seiner Hand. Schloss golden im Licht, nicht als frei erfundenes Raumschiff. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: mittig vor dem Eingang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Der Wunschhut brachte ihn zum Schloss. Die Königstochter konnte ihm erklären, wie sich die Macht des Zauberers brechen ließ.
+Dialoge: keine
+Kontinuität / Änderung: Hut angelegt und Wunsch als Reisezauber benutzt. Keine Kristallkugel als Transportmittel vor ihrer späteren Gewinnung. Schwert ungezogen.
+
+KACHEL 4: Eine Rettung in einer Kette
+Ort und Zeit: Schlossraum bei der verzauberten Königstochter
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Königstochter im Schloss der goldenen Sonne
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe. Mann links mit Hut, junge Frau rechts im hellblauen Gewand blass. Keine gleichzeitig in der Luft vorhandenen Kugel-, Ei- und Vogelmodelle als reale Fundstücke im Zimmer. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links vor der Frau; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Königstochter im Schloss der goldenen Sonne: Ort: rechts am Fenster; Körperhaltung: erschöpft sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellblaues langes Gewand und braune Schuhe. Keine zusätzliche Filmrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königstochter im Schloss der goldenen Sonne
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bezwinge den Stier. Aus ihm kommt ein Feuervogel.“
+Dialog 2:
+  Sprecher: Königstochter im Schloss der goldenen Sonne
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Er trägt ein Ei. Darin liegt die Kristallkugel.“
+Kontinuität / Änderung: Folge wird vor der Handlung erklärt. Noch kein Ei am Boden, keine schon erlöste zweite Frau. Männlicher Zauberer außerhalb des Bildes, Macht noch nicht gebrochen.
+
+KACHEL 5: Der erste Gegner
+Ort und Zeit: Felsiges Gelände nahe dem Meer
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Wilder Stier vor dem Feuervogel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Gegenüberstellung. Mensch links mit genau einer gezogenen kurzen Klinge rechts, leere Scheide links. Ein schwarzer vierbeiniger Stier rechts, keine Menschenarme und kein zweiter Minotaurus. Meer fern, Vogel noch nicht erschienen. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links vor dem Stier; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Schwert in der rechten Hand; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Wilder Stier vor dem Feuervogel: Ort: rechts gegenüber; Körperhaltung: auf vier Beinen zum Angriff gespannt; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarzes Fell, keine Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Um zur Kristallkugel zu gelangen, musste er zuerst den wilden Stier bezwingen. Die Kugel selbst war noch nicht erreichbar.
+Dialoge: keine
+Kontinuität / Änderung: Dritter Bruder erreicht den Stier und zieht die eine Klinge aus der linken Scheide. Stier zunächst lebend. Keine Vogelflucht oder offenes Ei vor dessen Bezwingung.
+
+KACHEL 6: Ein Sieg öffnet die nächste Gefahr
+Ort und Zeit: Dasselbe Gelände nach dem Kampf
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Wilder Stier vor dem Feuervogel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige weite Einstellung nach dem Kampf. Toter Stier rechts mit Kopf am Körper, kein Blut oder geöffnetes Tier. Junge links hält eine gesenkte Klinge. Rötlicher Glanz hinter dem Fels kündigt Bewegung an, aber noch kein offen am Boden liegendes Ei oder Kristall. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links neben dem Stier; Körperhaltung: erschöpft stehend; Mitgeführte Gegenstände: ein Schwert gesenkt rechts; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Wilder Stier vor dem Feuervogel: Ort: rechts am Boden; Körperhaltung: reglos liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarzes Fell, keine Rüstung.; Fortbewegung: zu Fuß; Lebenszustand: tot; Verletzungen: besiegt und getötet, keine sichtbaren Wunden.
+Erzählertext: Der Stier war besiegt. Doch damit war erst der erste Schritt getan; aus ihm sollte der Feuervogel hervorkommen.
+Dialoge: keine
+Kontinuität / Änderung: Tötung außerhalb expliziter Darstellung. Ein Stier, danach nicht erneut lebend. Feuervogel erscheint als folgende magische Konsequenz, kein beliebiger gleichzeitig eingesammelter Schatz.
+
+KACHEL 7: Was aus der Niederlage hervorfliegt
+Ort und Zeit: Himmel über dem Ort des besiegten Stiers
+Sichtbare Figuren: Feuervogel mit dem verborgenen Ei, Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite vertikale Flugansicht. Ein rotgoldener Feuervogel steigt über die Felsen auf. Mensch links klein am Boden, Schwert jetzt zurück in der Scheide. Stierkörper außerhalb der Sicht, keine offene Wunde oder Ei im Schnabel. Nur ein Vogel, noch kein Adlerangriff. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links unten am Küstenpfad; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Feuervogel mit dem verborgenen Ei: Ort: rechts oben in der Luft; Körperhaltung: mit zwei Flügeln fortfliegend; Mitgeführte Gegenstände: Ei noch im Körper verborgen, nicht sichtbar; Kleidung: Rotgoldenes Gefieder mit märchenhaftem Feuerglanz.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Feuervogel stieg auf und flog davon. Der junge Mann konnte ihm vom Boden aus nicht folgen.
+Dialoge: keine
+Kontinuität / Änderung: Zwischen den Bildern beginnt Folge nach Stierfall und Held steckt Klinge ein. Ei im Vogel verborgen, daher noch nicht auf Boden, Hut oder in menschlicher Hand. Vogel kein umgefärbter Bruderadler.
+
+KACHEL 8: Der Bruder, der die Luft erreichen kann
+Ort und Zeit: Himmel über der Küste beim Adlerangriff
+Sichtbare Figuren: Adlerbruder der Kristallkugel, Feuervogel mit dem verborgenen Ei
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Luftansicht. Brauner Adler links mit hellem Brustfleck, rotgoldener Feuervogel rechts. Zwei getrennte Vögel, je ein Kopf, zwei Flügel und zwei Füße. Keine offenen Körperwunden und kein bereits am Strand liegendes Ei unter einem noch unangegriffenen Vogel. Verbindliche Zustände: Adlerbruder der Kristallkugel: Ort: links oben am Feuervogel; Körperhaltung: mit zwei Flügeln und zwei Fängen im Angriff; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt. Feuervogel mit dem verborgenen Ei: Ort: rechts vor dem Adler; Körperhaltung: im Flug bedrängt; Mitgeführte Gegenstände: Ei noch im Körper verborgen; Kleidung: Rotgoldenes Gefieder mit märchenhaftem Feuerglanz.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Jetzt half sein Adlerbruder. In der Luft erreichte er den Feuervogel und verfolgte ihn über die Küste.
+Dialoge: keine
+Kontinuität / Änderung: Erst Adlerbruder greift an und ermöglicht den Ei-Verlust. Held am Boden nicht als zweiter fliegender Mensch dazugemalt. Wal bleibt im Meer, Fähigkeit nicht vertauschen.
+
+KACHEL 9: Das Ei fällt erst jetzt
+Ort und Zeit: Küstenluft oberhalb einer Fischerhütte
+Sichtbare Figuren: Adlerbruder der Kristallkugel, Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Küstenansicht. Ein einziges hell glühendes Ei fällt nun aus der Höhe Richtung Dach einer kleinen verlassen wirkenden Fischerhütte. Adler oben links, Mensch klein unten. Feuervogel bereits außerhalb des Ausschnitts. Keine Kristallkugel sichtbar in zweiter gleicher Flugbahn. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links unten nahe der Hütte; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Adlerbruder der Kristallkugel: Ort: links oben nach dem Angriff; Körperhaltung: weiterfliegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Durch den Angriff fiel das Ei herab. Darin lag die Kugel, die auf keinen Fall zerstört werden durfte.
+Dialoge: keine
+Kontinuität / Änderung: Ei erst nach dem Adlerangriff außerhalb des Vogels. Kugel weiter vollständig darin. Keine offen gezeigte Vogelverletzung oder erfundenen bedrohten Fischerfamilien als neuer Handlungsbogen.
+
+KACHEL 10: Die Hütte unter dem Feuer
+Ort und Zeit: Fischerhütte nach dem Aufprall des Eies
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite sichere Distanz. Ei auf dem Hüttendach noch als eine geschlossene glühende Form, Dach und trockenes Holz brennen. Mensch links hält Abstand, keine verbrannten Menschen oder Tiere. Kein schon kühl in seiner Hand liegender Kristall. Meer direkt rechts. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links mit Abstand zur Hütte; Körperhaltung: zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Das glühende Ei landete auf einer Fischerhütte und setzte sie in Brand. Der Mann musste Abstand halten.
+Dialoge: keine
+Kontinuität / Änderung: Aufprall löst Feuer aus. Schale noch nicht abgekühlt zerbrochen, Kugel bleibt innen. Keine zusätzliche Wunschfunktion der Kugel als selbstlöschende Maschine.
+
+KACHEL 11: Der Bruder, der das Wasser erreichen kann
+Ort und Zeit: Meer direkt vor der brennenden Fischerhütte
+Sichtbare Figuren: Walbruder der Kristallkugel, Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Küstenansicht. Ein grauer Wal rechts bewegt Wasser zu einer großen Welle gegen die brennende Hütte links. Zwei Brustflossen und eine waagerechte Schwanzfluke, keine Beine. Junger Mensch links oben bleibt zurück, kein selbst löschendes Schwert. Ei noch im Feuerbereich. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links auf höherem trockenen Boden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Walbruder der Kristallkugel: Ort: rechts nahe der Küste; Körperhaltung: mit Körper und Fluke eine große Welle auslösend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Haut, keine Kleidung.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nun half der Walbruder vom Meer aus. Seine Welle löschte das Feuer und kühlte das Ei.
+Dialoge: keine
+Kontinuität / Änderung: Wasserhilfe des zweiten verwandelten Bruders entscheidend, nicht Adler oder Wunschhut. Welle trifft danach Hütte und Ei; Abkühlung erst als Folge zeigen.
+
+KACHEL 12: Was die Kühlung freilegt
+Ort und Zeit: Nasse Reste der Fischerhütte nach der Welle
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Halbnahe. Keine Flammen mehr. Eine zerbrochene Eierschale liegt nass im verkohlten Holz, darin genau eine unversehrte klare Kristallkugel. Mensch links sieht hin, hat noch keine zweite Kugel in der Hand. Keine weiteren Eier als Vorrat. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links vor den nassen Holzresten; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Die Schale zerbrach durch die Abkühlung. In ihren nassen Resten lag die Kristallkugel unversehrt.
+Dialoge: keine
+Kontinuität / Änderung: Wasser und Abkühlung vor dem Brechen. Schale jetzt offen, Kugel erstmals sichtbar und noch im Fundort. Kein gleichzeitig noch hoch fliegender voller Ei-Körper.
+
+KACHEL 13: Ein gewonnener Gegenstand, keine neue Weltmaschine
+Ort und Zeit: Küste unmittelbar nach dem Fund
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Adlerbruder der Kristallkugel, Walbruder der Kristallkugel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite ruhige Gruppenansicht. Mensch links hat erstmals die eine Kugel, zerbrochene Schale dahinter leer. Adler sitzt rechts, Wal fern im Meer; keine zusätzlichen menschlichen Brüder daneben. Wunschhut auf Kopf, Schwert links in Scheide. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links vor den nassen Resten; Körperhaltung: stehend; Mitgeführte Gegenstände: die eine Kristallkugel in der rechten Hand; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Adlerbruder der Kristallkugel: Ort: rechts auf einem Felsen; Körperhaltung: als Adler auf zwei Fängen sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Walbruder der Kristallkugel: Ort: rechts fern im Wasser; Körperhaltung: an der Oberfläche schwimmend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Haut, keine Kleidung.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der dritte Bruder nahm die Kugel an sich. Ohne die Fähigkeiten beider verwandelter Brüder hätte er sie nicht gewinnen können.
+Dialoge: keine
+Kontinuität / Änderung: Kugel nach der Abkühlung aufgenommen. Beide Brüder weiterhin Tiergestalten. Gegenstand bricht Zauberermacht, Reiserückkehr bleibt Sache des Hutes.
+
+KACHEL 14: Zurück durch die richtige Magie
+Ort und Zeit: Schloss der goldenen Sonne nach der Rückreise
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Schlossansicht. Junger Mann wieder am bekannten Eingang mit Hut auf Kopf und Kugel rechts, nicht zwei Ankunftskopien im Raum. Kein Wal im Schlossflur oder Adler als plötzlich menschlicher zweiter Besucher. Schwert ungezogen. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: mittig vor dem Schlosseingang; Körperhaltung: stehend; Mitgeführte Gegenstände: Kristallkugel in der rechten Hand; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Mit dem Wunschhut kehrte er zum Schloss zurück. Diesmal hatte er das Mittel gegen den Zauber bei sich.
+Dialoge: keine
+Kontinuität / Änderung: Reisezauber ausdrücklich vom Hut. Die Kugel teleportiert nicht selbst nach Belieben. Adler und Wal bleiben an der Küste, bis ihre Rettung möglich wird.
+
+KACHEL 15: Woran die Macht scheitert
+Ort und Zeit: Saal vor dem Zauberer
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Zauberer des Sonnenschlosses, Königstochter im Schloss der goldenen Sonne
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Gegenüberstellung. Held links hält Kugel statt gezogener Klinge, Zauberer rechts weicht, junge Frau hinten nimmt aufrechtere Haltung an. Keine Explosion zerfetzter Körper und kein neues Schwert in der linken Hand. Kugel bleibt ganz, nicht zerbrochen als neue Wunschfragmente. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links vor dem Herrscher; Körperhaltung: stehend; Mitgeführte Gegenstände: die eine Kristallkugel rechts vorgehalten; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Königstochter im Schloss der goldenen Sonne: Ort: hinten mittig am Fenster; Körperhaltung: aufgerichtet stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellblaues langes Gewand und braune Schuhe. Keine zusätzliche Filmrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zauberer des Sonnenschlosses: Ort: rechts vor einem hohen Sitz; Körperhaltung: zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelvioletter langer Rock und schmaler dunkler Reif.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er hielt dem Zauberer die Kugel entgegen. Dessen Macht brach, und die Königstochter wurde von ihrem Bann frei.
+Dialoge: keine
+Kontinuität / Änderung: Kugel als Gegenmacht eingesetzt, keine weitere Schwertschlacht. Königstochter wird erlöst, gleiche Person und gleiches Gewand, kein ausgetauschter Körper.
+
+KACHEL 16: Die Freiheit muss weiterreichen
+Ort und Zeit: Offener Schlosshof nach der Erlösung
+Sichtbare Figuren: Dritter Bruder mit dem Wunschhut, Königstochter im Schloss der goldenen Sonne
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige weite Hofansicht. Zwei erwachsene Menschen frei vor dem Schloss. Hut bleibt auf Kopf, Kugel einmal in rechter Hand, Schwert geschlossen links. Keine bereits als Menschen neben ihnen stehenden Bruderduplikate und kein lebend wiederkehrender Stier. Blick des jungen Mannes zum fernen Meer. Verbindliche Zustände: Dritter Bruder mit dem Wunschhut: Ort: links neben der befreiten Frau; Körperhaltung: stehend; Mitgeführte Gegenstände: die eine Kristallkugel rechts; Kleidung: Dunkelgrüner Reiserock, Hose, Stiefel; Wunschhut auf dem Kopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Königstochter im Schloss der goldenen Sonne: Ort: rechts neben ihm; Körperhaltung: frei aufrecht stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes hellblaues langes Gewand und braune Schuhe. Keine zusätzliche Filmrüstung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Dritter Bruder mit dem Wunschhut
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Meine Brüder warten noch.“
+Kontinuität / Änderung: Ende bewahrt die gewonnene Möglichkeit zur Rückverwandlung der Brüder, zeigt sie nicht vorzeitig als erledigt. Gemeinsamer Erfolg statt alleiniger Heldenleistung. Kein neuer Reisebogen anhängen.

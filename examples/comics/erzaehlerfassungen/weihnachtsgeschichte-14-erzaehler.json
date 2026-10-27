@@ -1,0 +1,840 @@
+{
+  "mode": "editorial",
+  "name": "Eine Weihnachtsgeschichte · Erzählerfassung",
+  "payload": {
+    "article": "Der geizige Ebenezer Scrooge weist an Weihnachten jede menschliche Nähe zurück. Der Geist seines verstorbenen Geschäftspartners warnt ihn. Drei Geister zeigen ihm seine einsame Vergangenheit, die Wärme und Not der Familie seines Angestellten Bob Cratchit und eine düstere Zukunft, in der niemand um Scrooge trauert. Besonders das Schicksal des kranken Kindes Tiny Tim bewegt ihn. Am Weihnachtsmorgen erwacht Scrooge und nutzt seine neue Chance: Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.",
+    "planned_article": "Der geizige Ebenezer Scrooge weist an Weihnachten jede menschliche Nähe zurück. Der Geist seines verstorbenen Geschäftspartners warnt ihn. Drei Geister zeigen ihm seine einsame Vergangenheit, die Wärme und Not der Familie seines Angestellten Bob Cratchit und eine düstere Zukunft, in der niemand um Scrooge trauert. Besonders das Schicksal des kranken Kindes Tiny Tim bewegt ihn. Am Weihnachtsmorgen erwacht Scrooge und nutzt seine neue Chance: Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Das letzte Licht",
+        "setting": "Scrooges Kontor, Heiligabend kurz vor Feierabend",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "1ed785900ec256b585459744a9c1236c"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Scrooge sitzt hinter seinem breiten Schreibtisch, Bob wartet mit dem Schal an der Kontortür. Eine kleine Kerze steht auf Bobs fast leerem Pult, eine größere bei Scrooge. Keine dritte sprechende Person. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links hinter dem großen Schreibtisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Feder in rechter Hand; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: dunkelroter Schal in beiden Händen; Lebenszustand: lebend; Kleidung: Abgetragene braune Jacke, graue Weste, weißes Hemd, dunkle Hose; gestrickter dunkelroter Schal, der drinnen abgelegt ist..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "1ed785900ec256b585459744a9c1236c",
+            "text": "Meine Familie wartet. Darf ich gehen?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Die Arbeit wartet auch.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Beginn am Heiligabend. Beide in Tageskleidung. Bob hält den Schal noch und trägt ihn nicht zugleich um den Hals.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links hinter dem großen Schreibtisch",
+            "posture": "sitzend",
+            "held": "Feder in rechter Hand",
+            "life": "lebend",
+            "clothing": "Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock."
+          },
+          "1ed785900ec256b585459744a9c1236c": {
+            "movement": "zu Fuß",
+            "location": "rechts an der Tür",
+            "posture": "stehend",
+            "held": "dunkelroter Schal in beiden Händen",
+            "life": "lebend",
+            "clothing": "Abgetragene braune Jacke, graue Weste, weißes Hemd, dunkle Hose; gestrickter dunkelroter Schal, der drinnen abgelegt ist."
+          }
+        }
+      },
+      {
+        "heading": "Viel Platz für einen",
+        "setting": "Scrooges Wohnraum, später am selben Abend",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "aba528b24b835b9183ac5994976e70b6"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Zimmeransicht. Ein einzelner benutzter Teller auf dem großen Tisch, alle anderen Stühle leer. Scrooge im Nachthemd und Schlafrock. Rechts erscheint Marley durchscheinend; die Wandkonturen sind durch ihn sichtbar. Kein körperlicher Besucher und kein doppelter Scrooge. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links an einem großen einsam gedeckten Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Marleys Geist: Fortbewegung: fliegend; Ort: rechts im Raum vor der Wand; Körperhaltung: aufrecht schwebend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Du bist tot.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "aba528b24b835b9183ac5994976e70b6",
+            "text": "Und trotzdem kommst du mir jeden Tag näher.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Bob ist nach der Arbeit gegangen. Scrooge ist heimgekehrt und hat sich zwischen den Bildern umgezogen. Die Geistererscheinung ist nicht lebendig geworden.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links an einem großen einsam gedeckten Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "aba528b24b835b9183ac5994976e70b6": {
+            "movement": "fliegend",
+            "location": "rechts im Raum vor der Wand",
+            "posture": "aufrecht schwebend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden."
+          }
+        }
+      },
+      {
+        "heading": "Noch eine Wahl",
+        "setting": "Derselbe Wohnraum, Nacht",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "aba528b24b835b9183ac5994976e70b6"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe auf Marley rechts und Scrooge links. Scrooge ist vom Tisch aufgestanden, seine Hand hält am Stuhlrücken inne. Marley schaut ihn an, keine Drohgeste und kein Angriff. Die Kette gehört nur Marley. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor seinem Stuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Marleys Geist: Fortbewegung: fliegend; Ort: rechts nahe der Tür; Körperhaltung: aufrecht schwebend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden..",
+        "dialog": "Marleys Geist warnte Scrooge vor einem Leben ohne menschliche Nähe. Drei weitere Geister sollten ihm zeigen, was noch zu ändern war.",
+        "bubbles": [],
+        "continuity": "Marley kündigt die drei nachfolgenden Erscheinungen an. Er selbst ist keine dieser drei. Schlafrock und Nachthemd bleiben bis zum Morgen erhalten.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links vor seinem Stuhl",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "aba528b24b835b9183ac5994976e70b6": {
+            "movement": "fliegend",
+            "location": "rechts nahe der Tür",
+            "posture": "aufrecht schwebend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden."
+          }
+        }
+      },
+      {
+        "heading": "Ein alter leerer Platz",
+        "setting": "Erinnerungsraum der Vergangenheit, erste Erscheinung",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "01097c0db0195ce090dcf0741779246b"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein einzelner Erinnerungsraum: ein kleiner leerer Stuhl vor einem schmalen Tisch, darauf ein geschlossenes Buch und kaltes Kerzenwachs. Der alte Scrooge steht links als heutiger Betrachter der Vergangenheit; sein jüngeres Selbst wird nicht zusätzlich dargestellt. Rechts der helle Vergangenheitsgeist, Marley ist verschwunden. Keine anderen Personen. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links neben einem leeren Holzstuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der vergangenen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts am Rand des Lichtkreises; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Ich dachte, irgendwann hätte ich Zeit für andere.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Ausdrücklicher Wechsel zu einer Vision der Vergangenheit. Scrooge bleibt der alte Betrachter; der leere Raum steht für Erinnerung, nicht für ein neu eingeführtes konkretes Buchereignis.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links neben einem leeren Holzstuhl",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "01097c0db0195ce090dcf0741779246b": {
+            "movement": "zu Fuß",
+            "location": "rechts am Rand des Lichtkreises",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Das Wort irgendwann",
+        "setting": "Derselbe Erinnerungsraum",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "01097c0db0195ce090dcf0741779246b"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Naher auf den leeren Stuhl, dahinter links Scrooges Gesicht und rechts der helle Geist. Scrooges Hand liegt leer auf dem Tisch; kein Brief, kein Porträt und kein neues Erinnerungsstück. Die freie Tischfläche rahmt den Abstand. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am kleinen Tisch; Körperhaltung: stehend, Blick auf den leeren Stuhl; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der vergangenen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts gegenüber dem Stuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "01097c0db0195ce090dcf0741779246b",
+            "text": "Und wann ist daraus später geworden?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Ich habe aufgehört, einen Tag dafür zu suchen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Derselbe vergangene Erinnerungsraum; keine zweite Zeitreise innerhalb der Kachel. Der erste Geist weicht erst vor der nächsten Erscheinung.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links am kleinen Tisch",
+            "posture": "stehend, Blick auf den leeren Stuhl",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "01097c0db0195ce090dcf0741779246b": {
+            "movement": "zu Fuß",
+            "location": "rechts gegenüber dem Stuhl",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände."
+          }
+        }
+      },
+      {
+        "heading": "Ein anderer Tisch",
+        "setting": "Cratchits Wohnung in der Gegenwartsvision",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "94acf5e46bbc5045a3d6f98a1fe4fab1",
+          "1ed785900ec256b585459744a9c1236c",
+          "8baeebce80e95686bfe66ebf64739d07"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Einstellung. Rechts teilen Bob und Tim am engen Tisch eine kleine Mahlzeit; weitere Familienangehörige sind undeutliche stumme Hintergrundgestalten. Links im dunklen Rand stehen Scrooge und der grün gekleidete Gegenwartsgeist, von der Familie nicht wahrgenommen. Einfache warme Kerze statt Reichtum. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am dunklen Rand des Raums; Körperhaltung: stehend, als unbeobachteter Betrachter; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der gegenwärtigen Weihnacht: Fortbewegung: zu Fuß; Ort: links hinter Scrooge; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts am kleinen Familientisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; dunkelroter Schal hängt an einem Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts neben Bob am kleinen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..",
+        "dialog": "Der Geist der Gegenwart führte ihn zu den Cratchits. Ihre knappe Mahlzeit bot mehr Gemeinschaft als sein eigener Reichtum.",
+        "bubbles": [],
+        "continuity": "Wechsel zur zweiten Erscheinung: Gegenwart, nicht Kindheit. Bob ist vom Kontor zu Hause; sein Schal hängt jetzt am Haken. Familie kann die Betrachter der Vision nicht sehen.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links am dunklen Rand des Raums",
+            "posture": "stehend, als unbeobachteter Betrachter",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "94acf5e46bbc5045a3d6f98a1fe4fab1": {
+            "movement": "zu Fuß",
+            "location": "links hinter Scrooge",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen."
+          },
+          "1ed785900ec256b585459744a9c1236c": {
+            "movement": "zu Fuß",
+            "location": "rechts am kleinen Familientisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; dunkelroter Schal hängt an einem Haken."
+          },
+          "8baeebce80e95686bfe66ebf64739d07": {
+            "movement": "zu Fuß",
+            "location": "rechts neben Bob am kleinen Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel."
+          }
+        }
+      },
+      {
+        "heading": "Kein Platz für Überfluss",
+        "setting": "Dasselbe Zimmer, Gegenwart",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "94acf5e46bbc5045a3d6f98a1fe4fab1",
+          "1ed785900ec256b585459744a9c1236c",
+          "8baeebce80e95686bfe66ebf64739d07"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Rechts muss Tim sich kurz am Tisch abstützen; Bob schiebt seinen eigenen Teller dichter zu ihm. Links sieht Scrooge zum ersten Mal nicht auf den Tischinhalt, sondern auf das Kind. Keine dramatische akute Krankheitsszene und keine zusätzliche Verletzung. Platz über Scrooge für eine kurze Frage. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links neben dem grünen Geist; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der gegenwärtigen Weihnacht: Fortbewegung: zu Fuß; Ort: mittig am Rand des Lichts; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts neben Tim am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Reicht das auch für ihn?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Tim bleibt sitzend; keine plötzlich ergänzten Krücken oder geheilter Gang. Die Mahlzeit ist dieselbe, kein zweites Essen eingeblendet.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links neben dem grünen Geist",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "94acf5e46bbc5045a3d6f98a1fe4fab1": {
+            "movement": "zu Fuß",
+            "location": "mittig am Rand des Lichts",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen."
+          },
+          "1ed785900ec256b585459744a9c1236c": {
+            "movement": "zu Fuß",
+            "location": "rechts neben Tim am Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken."
+          },
+          "8baeebce80e95686bfe66ebf64739d07": {
+            "movement": "zu Fuß",
+            "location": "rechts am Tisch",
+            "posture": "sitzend, erschöpft",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel."
+          }
+        }
+      },
+      {
+        "heading": "Eine Rechnung ohne Zahlen",
+        "setting": "Am Rand der Gegenwartsvision",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "94acf5e46bbc5045a3d6f98a1fe4fab1"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nahe auf die zwei Betrachter; im Hintergrund nur die unscharfe warme Tischkante, keine neu hinzugefügten Hauptfiguren. Scrooge hat die Hände leer und schaut betroffen zur Seite. Der Geist zeigt nicht anklagend auf einen Geldbeutel. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor dem Gegenwartsgeist; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der gegenwärtigen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Ich wusste nicht, wie wenig ihnen bleibt.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "94acf5e46bbc5045a3d6f98a1fe4fab1",
+            "text": "Du hast nur gefragt, was dir bleiben soll.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Noch dieselbe Gegenwartsvision. Keine sichere Vorhersage zu Tims Krankheit; die nächste Kachel beginnt eine mögliche Zukunft.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Gegenwartsgeist",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "94acf5e46bbc5045a3d6f98a1fe4fab1": {
+            "movement": "zu Fuß",
+            "location": "rechts neben ihm",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen."
+          }
+        }
+      },
+      {
+        "heading": "Niemand wartet",
+        "setting": "Vision einer möglichen Zukunft, kalter Innenraum",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "7295ffbf02c1529bb81d649e11d93807"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite kalte Einstellung: ein verlassener großer Tisch, ein unbenutzter Stuhl, geschlossene Vorhänge. Kein Toter und kein Todesschild mit erfundenem Datum. Links Scrooge, rechts der dunkle stumme Zukunftsgeist. Die warme Familie ist verschwunden, der grüne Geist nicht mehr da. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links im kahlen Raum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der künftigen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts an der Wand; Körperhaltung: stehend, eine leere Hand zum Raum geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen..",
+        "dialog": "Der letzte Geist zeigte ihm eine mögliche Zukunft. Wo Scrooge eine Hinterlassenschaft erwartet hätte, fand er niemanden, der um ihn trauerte.",
+        "bubbles": [],
+        "continuity": "Dritte Erscheinung: mögliche Zukunft, keine bereits eingetretene Gegenwart. Zukunftsgeist bleibt in allen folgenden Bildern stumm.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links im kahlen Raum",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "7295ffbf02c1529bb81d649e11d93807": {
+            "movement": "zu Fuß",
+            "location": "rechts an der Wand",
+            "posture": "stehend, eine leere Hand zum Raum geöffnet",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen."
+          }
+        }
+      },
+      {
+        "heading": "Was bleibt",
+        "setting": "Derselbe mögliche Zukunftsraum",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "7295ffbf02c1529bb81d649e11d93807"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Scrooge kniet vor einem unbesetzten Stuhl, nicht vor einem Grab mit bestätigtem Datum. Seine Hände liegen geöffnet auf den Knien; rechts steht der verschlossene Kapuzengeist. Keine sichtbare Gesichtsenthüllung. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor dem leeren Stuhl; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der künftigen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend, Hände ruhig am Körper; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "So viel gesammelt. Und niemand, dem ich fehlen würde.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Mögliche Zukunft bleibt eine Warnung, keine unumkehrbare Feststellung. Kein neues Erbstück und keine bestätigte Todesnachricht über Tim.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links vor dem leeren Stuhl",
+            "posture": "knieend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          },
+          "7295ffbf02c1529bb81d649e11d93807": {
+            "movement": "zu Fuß",
+            "location": "rechts neben ihm",
+            "posture": "stehend, Hände ruhig am Körper",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen."
+          }
+        }
+      },
+      {
+        "heading": "Ein noch offener Morgen",
+        "setting": "Scrooges Schlafzimmer, Weihnachtsmorgen",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Helles Morgenlicht. Scrooge sitzt auf der Bettkante und schaut auf seine eigenen leeren Hände. Keine Geister anwesend. Grauer Schlafrock über weißem Nachthemd, keine Tageskleidung bereits darüber kopiert. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links auf der Bettkante; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Dann heute.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Vision beendet, echter Weihnachtsmorgen. Scrooge lebt und hat die Möglichkeit zu handeln; der Geist ist nicht weiter sein Begleiter.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links auf der Bettkante",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe."
+          }
+        }
+      },
+      {
+        "heading": "Die Hände voll",
+        "setting": "Vor Cratchits Haustür, derselbe Morgen",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "1ed785900ec256b585459744a9c1236c"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale im Tageslicht. Links Scrooge jetzt wieder im schwarzen Tagesrock; er hält einen einzigen gut gefüllten Korb, keine zugleich freie klopfende Hand. Rechts öffnet Bob bereits die Tür und starrt überrascht. Der Weg hinter Scrooge ist leer, kein Geist trägt den Korb. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Korb mit Brot und Lebensmitteln in beiden Händen; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; kein Schal um den Hals..",
+        "dialog": "Am Weihnachtsmorgen brachte Scrooge den Cratchits Lebensmittel. Seine neue Einsicht musste nun über Worte hinausgehen.",
+        "bubbles": [],
+        "continuity": "Zwischen 11 und 12 hat Scrooge sich angezogen und Lebensmittel beschafft. Keine Wundervermehrung im Zimmer; Hilfe beginnt jetzt körperlich und sichtbar.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links vor der Tür",
+            "posture": "stehend",
+            "held": "ein Korb mit Brot und Lebensmitteln in beiden Händen",
+            "life": "lebend",
+            "clothing": "Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock."
+          },
+          "1ed785900ec256b585459744a9c1236c": {
+            "movement": "zu Fuß",
+            "location": "rechts in der offenen Haustür",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; kein Schal um den Hals."
+          }
+        }
+      },
+      {
+        "heading": "Nicht nur für einen Tag",
+        "setting": "Cratchits Wohnung, wenig später",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "1ed785900ec256b585459744a9c1236c",
+          "8baeebce80e95686bfe66ebf64739d07"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gleicher kleiner Tisch und gleiche Zimmeraufteilung wie in der Gegenwartsvision, nun echtes Tageslicht. Der Korb steht einmal auf dem Tisch; Scrooges Hände sind leer. Bob steht zwischen ihm und dem sitzenden Tim. Das Kind ist nicht plötzlich gesund aufgesprungen. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: mittig am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f976bad620c25ef38f53aea8c424df4d",
+            "text": "Im Kontor bleibt es nicht beim alten Lohn.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "1ed785900ec256b585459744a9c1236c",
+            "text": "Sie meinen nach Weihnachten auch?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Scrooge ist jetzt ein sichtbarer wirklicher Besucher. Die konkrete Lohnzusage ist frei formulierter Ausdruck der überlieferten Hilfe, kein behauptetes Originalzitat.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links am Tisch",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock."
+          },
+          "1ed785900ec256b585459744a9c1236c": {
+            "movement": "zu Fuß",
+            "location": "mittig am Tisch",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken."
+          },
+          "8baeebce80e95686bfe66ebf64739d07": {
+            "movement": "zu Fuß",
+            "location": "rechts am Tisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel."
+          }
+        }
+      },
+      {
+        "heading": "Ein Platz mehr",
+        "setting": "Dasselbe Zimmer, Weihnachtsvormittag",
+        "characters": [
+          "f976bad620c25ef38f53aea8c424df4d",
+          "1ed785900ec256b585459744a9c1236c",
+          "8baeebce80e95686bfe66ebf64739d07"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige breite Schlussszene als Gegenbild zum einsamen Tisch von Kachel 2. Jetzt sitzt Scrooge selbst mit am kleinen Tisch. Der Korb steht abseits, das Essen wird geteilt. Tim bleibt das gleiche kranke Kind, dessen Zukunft nicht als sichere Heilung gezeichnet wird. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am Familientisch; Körperhaltung: auf einem herangerückten Stuhl sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: mittig am Familientisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts neben Bob; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..",
+        "dialog": "Scrooge versprach auch für den Alltag Veränderung und nahm selbst am gemeinsamen Tisch Platz. Der neue Anfang sollte länger dauern als das Fest.",
+        "bubbles": [],
+        "continuity": "Ein Stuhl wurde zwischen 13 und 14 an den Tisch gerückt. Scrooges Wandel zeigt sich in Hilfe und Nähe; Krankheit und Armut nicht mit einer einzigen Mahlzeit für vollständig gelöst erklären.",
+        "character_states": {},
+        "continuity_state": {
+          "f976bad620c25ef38f53aea8c424df4d": {
+            "movement": "zu Fuß",
+            "location": "links am Familientisch",
+            "posture": "auf einem herangerückten Stuhl sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock."
+          },
+          "1ed785900ec256b585459744a9c1236c": {
+            "movement": "zu Fuß",
+            "location": "mittig am Familientisch",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken."
+          },
+          "8baeebce80e95686bfe66ebf64739d07": {
+            "movement": "zu Fuß",
+            "location": "rechts neben Bob",
+            "posture": "sitzend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "f976bad620c25ef38f53aea8c424df4d",
+        "name": "Ebenezer Scrooge",
+        "description": "Etwa siebzig Jahre, hager, eingefallene Wangen, spitze Nase, graues Haar über kahlen Schläfen, gleiche Gesichtszüge in allen Szenen.",
+        "outfit": "Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.",
+        "backstory": "Wohlhabender Kaufmann. Hält Menschen auf Abstand und verwechselt jede Ausgabe mit einem Verlust.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "aba528b24b835b9183ac5994976e70b6",
+        "name": "Marleys Geist",
+        "description": "Durchscheinender älterer Mann mit breitem Gesicht, schütterem Haar und ernstem Blick; klar von Scrooge unterscheidbar.",
+        "outfit": "Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden.",
+        "backstory": "Scrooges verstorbener Geschäftspartner. Warnt ihn, bevor die drei anderen Erscheinungen kommen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "01097c0db0195ce090dcf0741779246b",
+        "name": "Geist der vergangenen Weihnacht",
+        "description": "Kleine helle menschliche Erscheinung mit sanftem zeitlosem Gesicht, weißlichem Haar und einem weichen Lichtsaum.",
+        "outfit": "Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände.",
+        "backstory": "Macht sichtbar, wie lange Scrooge bereits allein geblieben ist. Nicht mit dem Gegenwartsgeist verwechseln.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "94acf5e46bbc5045a3d6f98a1fe4fab1",
+        "name": "Geist der gegenwärtigen Weihnacht",
+        "description": "Große kräftige menschliche Erscheinung mit warmem Gesicht, dunklen Locken und ruhigen Augen.",
+        "outfit": "Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen.",
+        "backstory": "Führt den Blick zu Menschen, die trotz ihrer Not Wärme miteinander teilen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "7295ffbf02c1529bb81d649e11d93807",
+        "name": "Geist der künftigen Weihnacht",
+        "description": "Hohe schmale Gestalt ohne sichtbares Gesicht, Körper wie eine stehende menschliche Silhouette. Zwei Arme, keine Monsterklauen.",
+        "outfit": "Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen.",
+        "backstory": "Stummer Zeuge einer möglichen Zukunft. Antwortet durch Schweigen und eine zeigende Hand, niemals durch Sprechblasen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "1ed785900ec256b585459744a9c1236c",
+        "name": "Bob Cratchit",
+        "description": "Erwachsener schmaler Mann, kurzes braunes Haar, weiches müdes Gesicht und freundlicher Blick.",
+        "outfit": "Abgetragene braune Jacke, graue Weste, weißes Hemd, dunkle Hose; gestrickter dunkelroter Schal, der drinnen abgelegt ist.",
+        "backstory": "Scrooges Angestellter. Lebt mit seiner Familie in knappen Verhältnissen und hält ihre gemeinsame Wärme aufrecht.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "8baeebce80e95686bfe66ebf64739d07",
+        "name": "Tiny Tim",
+        "description": "Kleiner Junge mit hellem Gesicht und kurzen hellbraunen Haaren; zierlicher Körper, zwei Arme und Beine.",
+        "outfit": "Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel.",
+        "backstory": "Bobs krankes Kind. Die gesundheitliche Zukunft bleibt offen; keine plötzliche Wunderheilung behaupten.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Woran erkennt man eine wirkliche Veränderung des Menschen?",
+      "core": "Einsicht verändert ein Leben erst, wenn sie in konkrete Fürsorge mündet; Reichtum allein verhindert Einsamkeit nicht.",
+      "ending": "Scrooge nutzt den neuen Morgen für Hilfe und Gemeinschaft.",
+      "reason": "Die drei Spiegelungen des Lebens und die anschließende praktische Umkehr brauchen getrennte Momente.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.",
+          "meaning": "Scrooges Wandel zeigt sich im Handeln, nicht allein im Schrecken vor seiner Zukunft."
+        }
+      ],
+      "causal_chain": [
+        "Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.",
+        "Scrooge nutzt den neuen Morgen für Hilfe und Gemeinschaft."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "67043842e4420035507a526565167991f6f58a4fb8059518ab8cf9e47f2d1ff0",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623425+00:00"
+    },
+    "post_summary": "Ein Mann hat alles aufgehoben – außer Platz für andere. Drei nächtliche Begegnungen zeigen Scrooge, was sein Geld nicht bewahren kann. Am Morgen zählt nicht sein Versprechen, sondern die erste wirkliche Hilfe. Freie Adaption nach Charles Dickens.",
+    "source_provenance": {
+      "id": "weihnachtsgeschichte",
+      "title": "Eine Weihnachtsgeschichte",
+      "kind": "Buch",
+      "creator": "Charles Dickens",
+      "edition": "A Christmas Carol, Original von 1843; eigene Zusammenfassung, neue deutsche Dialoge",
+      "url": "https://www.gutenberg.org/ebooks/46",
+      "territories": "Deutschland; weitere Absatzländer prüfen",
+      "rights": "Original von Dickens; moderne deutsche Übersetzungen und Verfilmungen sind nicht automatisch frei.",
+      "text": "Der geizige Ebenezer Scrooge weist an Weihnachten jede menschliche Nähe zurück. Der Geist seines verstorbenen Geschäftspartners warnt ihn. Drei Geister zeigen ihm seine einsame Vergangenheit, die Wärme und Not der Familie seines Angestellten Bob Cratchit und eine düstere Zukunft, in der niemand um Scrooge trauert. Besonders das Schicksal des kranken Kindes Tiny Tim bewegt ihn. Am Weihnachtsmorgen erwacht Scrooge und nutzt seine neue Chance: Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.",
+      "post_summary": "Der geizige Ebenezer Scrooge weist an Weihnachten jede menschliche Nähe zurück. Der Geist seines verstorbenen Geschäftspartners warnt ihn. Drei Geister zeigen ihm seine einsame Vergangenheit, die Wärme und Not der Familie seines Angestellten Bob Cratchit und eine düstere Zukunft, in der niemand um Scrooge trauert. Besonders das Schicksal des kranken Kindes Tiny Tim bewegt ihn. Am Weihnachtsmorgen erwacht Scrooge und nutzt seine neue Chance: Er hilft der Familie, sucht Gemeinschaft und verändert sein Leben durch konkrete Großzügigkeit.",
+      "category": "Geister und Spuk",
+      "collection": "Literarische Klassiker"
+    },
+    "source_script": "TITEL: Eine Weihnachtsgeschichte · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Ebenezer Scrooge\nAussehen: Etwa siebzig Jahre, hager, eingefallene Wangen, spitze Nase, graues Haar über kahlen Schläfen, gleiche Gesichtszüge in allen Szenen.\nKleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.\nPersönlichkeit und Vorgeschichte: Wohlhabender Kaufmann. Hält Menschen auf Abstand und verwechselt jede Ausgabe mit einem Verlust.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Marleys Geist\nAussehen: Durchscheinender älterer Mann mit breitem Gesicht, schütterem Haar und ernstem Blick; klar von Scrooge unterscheidbar.\nKleidung: Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden.\nPersönlichkeit und Vorgeschichte: Scrooges verstorbener Geschäftspartner. Warnt ihn, bevor die drei anderen Erscheinungen kommen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Geist der vergangenen Weihnacht\nAussehen: Kleine helle menschliche Erscheinung mit sanftem zeitlosem Gesicht, weißlichem Haar und einem weichen Lichtsaum.\nKleidung: Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände.\nPersönlichkeit und Vorgeschichte: Macht sichtbar, wie lange Scrooge bereits allein geblieben ist. Nicht mit dem Gegenwartsgeist verwechseln.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Geist der gegenwärtigen Weihnacht\nAussehen: Große kräftige menschliche Erscheinung mit warmem Gesicht, dunklen Locken und ruhigen Augen.\nKleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen.\nPersönlichkeit und Vorgeschichte: Führt den Blick zu Menschen, die trotz ihrer Not Wärme miteinander teilen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Geist der künftigen Weihnacht\nAussehen: Hohe schmale Gestalt ohne sichtbares Gesicht, Körper wie eine stehende menschliche Silhouette. Zwei Arme, keine Monsterklauen.\nKleidung: Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen.\nPersönlichkeit und Vorgeschichte: Stummer Zeuge einer möglichen Zukunft. Antwortet durch Schweigen und eine zeigende Hand, niemals durch Sprechblasen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Bob Cratchit\nAussehen: Erwachsener schmaler Mann, kurzes braunes Haar, weiches müdes Gesicht und freundlicher Blick.\nKleidung: Abgetragene braune Jacke, graue Weste, weißes Hemd, dunkle Hose; gestrickter dunkelroter Schal, der drinnen abgelegt ist.\nPersönlichkeit und Vorgeschichte: Scrooges Angestellter. Lebt mit seiner Familie in knappen Verhältnissen und hält ihre gemeinsame Wärme aufrecht.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Tiny Tim\nAussehen: Kleiner Junge mit hellem Gesicht und kurzen hellbraunen Haaren; zierlicher Körper, zwei Arme und Beine.\nKleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel.\nPersönlichkeit und Vorgeschichte: Bobs krankes Kind. Die gesundheitliche Zukunft bleibt offen; keine plötzliche Wunderheilung behaupten.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das letzte Licht\nOrt und Zeit: Scrooges Kontor, Heiligabend kurz vor Feierabend\nSichtbare Figuren: Ebenezer Scrooge, Bob Cratchit\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Scrooge sitzt hinter seinem breiten Schreibtisch, Bob wartet mit dem Schal an der Kontortür. Eine kleine Kerze steht auf Bobs fast leerem Pult, eine größere bei Scrooge. Keine dritte sprechende Person. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links hinter dem großen Schreibtisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Feder in rechter Hand; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: dunkelroter Schal in beiden Händen; Lebenszustand: lebend; Kleidung: Abgetragene braune Jacke, graue Weste, weißes Hemd, dunkle Hose; gestrickter dunkelroter Schal, der drinnen abgelegt ist..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Bob Cratchit\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Meine Familie wartet. Darf ich gehen?“\nDialog 2:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Die Arbeit wartet auch.“\nKontinuität / Änderung: Beginn am Heiligabend. Beide in Tageskleidung. Bob hält den Schal noch und trägt ihn nicht zugleich um den Hals.\n\nKACHEL 2: Viel Platz für einen\nOrt und Zeit: Scrooges Wohnraum, später am selben Abend\nSichtbare Figuren: Ebenezer Scrooge, Marleys Geist\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Zimmeransicht. Ein einzelner benutzter Teller auf dem großen Tisch, alle anderen Stühle leer. Scrooge im Nachthemd und Schlafrock. Rechts erscheint Marley durchscheinend; die Wandkonturen sind durch ihn sichtbar. Kein körperlicher Besucher und kein doppelter Scrooge. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links an einem großen einsam gedeckten Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Marleys Geist: Fortbewegung: fliegend; Ort: rechts im Raum vor der Wand; Körperhaltung: aufrecht schwebend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du bist tot.“\nDialog 2:\n  Sprecher: Marleys Geist\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Und trotzdem kommst du mir jeden Tag näher.“\nKontinuität / Änderung: Bob ist nach der Arbeit gegangen. Scrooge ist heimgekehrt und hat sich zwischen den Bildern umgezogen. Die Geistererscheinung ist nicht lebendig geworden.\n\nKACHEL 3: Noch eine Wahl\nOrt und Zeit: Derselbe Wohnraum, Nacht\nSichtbare Figuren: Ebenezer Scrooge, Marleys Geist\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe auf Marley rechts und Scrooge links. Scrooge ist vom Tisch aufgestanden, seine Hand hält am Stuhlrücken inne. Marley schaut ihn an, keine Drohgeste und kein Angriff. Die Kette gehört nur Marley. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor seinem Stuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Marleys Geist: Fortbewegung: fliegend; Ort: rechts nahe der Tür; Körperhaltung: aufrecht schwebend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Verblichener grauer Anzug. Eine lose Kette mit Schlüsseln und einem kleinen verschlossenen Kasten um den Oberkörper, kein Blut und keine Wunden..\nErzählertext: Marleys Geist warnte Scrooge vor einem Leben ohne menschliche Nähe. Drei weitere Geister sollten ihm zeigen, was noch zu ändern war.\nDialoge: keine\nKontinuität / Änderung: Marley kündigt die drei nachfolgenden Erscheinungen an. Er selbst ist keine dieser drei. Schlafrock und Nachthemd bleiben bis zum Morgen erhalten.\n\nKACHEL 4: Ein alter leerer Platz\nOrt und Zeit: Erinnerungsraum der Vergangenheit, erste Erscheinung\nSichtbare Figuren: Ebenezer Scrooge, Geist der vergangenen Weihnacht\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein einzelner Erinnerungsraum: ein kleiner leerer Stuhl vor einem schmalen Tisch, darauf ein geschlossenes Buch und kaltes Kerzenwachs. Der alte Scrooge steht links als heutiger Betrachter der Vergangenheit; sein jüngeres Selbst wird nicht zusätzlich dargestellt. Rechts der helle Vergangenheitsgeist, Marley ist verschwunden. Keine anderen Personen. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links neben einem leeren Holzstuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der vergangenen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts am Rand des Lichtkreises; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich dachte, irgendwann hätte ich Zeit für andere.“\nKontinuität / Änderung: Ausdrücklicher Wechsel zu einer Vision der Vergangenheit. Scrooge bleibt der alte Betrachter; der leere Raum steht für Erinnerung, nicht für ein neu eingeführtes konkretes Buchereignis.\n\nKACHEL 5: Das Wort irgendwann\nOrt und Zeit: Derselbe Erinnerungsraum\nSichtbare Figuren: Ebenezer Scrooge, Geist der vergangenen Weihnacht\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Naher auf den leeren Stuhl, dahinter links Scrooges Gesicht und rechts der helle Geist. Scrooges Hand liegt leer auf dem Tisch; kein Brief, kein Porträt und kein neues Erinnerungsstück. Die freie Tischfläche rahmt den Abstand. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am kleinen Tisch; Körperhaltung: stehend, Blick auf den leeren Stuhl; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der vergangenen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts gegenüber dem Stuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Einfaches helles Gewand, keine Krone, keine Waffen und keine Gegenstände..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Geist der vergangenen Weihnacht\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Und wann ist daraus später geworden?“\nDialog 2:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich habe aufgehört, einen Tag dafür zu suchen.“\nKontinuität / Änderung: Derselbe vergangene Erinnerungsraum; keine zweite Zeitreise innerhalb der Kachel. Der erste Geist weicht erst vor der nächsten Erscheinung.\n\nKACHEL 6: Ein anderer Tisch\nOrt und Zeit: Cratchits Wohnung in der Gegenwartsvision\nSichtbare Figuren: Ebenezer Scrooge, Geist der gegenwärtigen Weihnacht, Bob Cratchit, Tiny Tim\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Einstellung. Rechts teilen Bob und Tim am engen Tisch eine kleine Mahlzeit; weitere Familienangehörige sind undeutliche stumme Hintergrundgestalten. Links im dunklen Rand stehen Scrooge und der grün gekleidete Gegenwartsgeist, von der Familie nicht wahrgenommen. Einfache warme Kerze statt Reichtum. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am dunklen Rand des Raums; Körperhaltung: stehend, als unbeobachteter Betrachter; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der gegenwärtigen Weihnacht: Fortbewegung: zu Fuß; Ort: links hinter Scrooge; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts am kleinen Familientisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; dunkelroter Schal hängt an einem Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts neben Bob am kleinen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..\nErzählertext: Der Geist der Gegenwart führte ihn zu den Cratchits. Ihre knappe Mahlzeit bot mehr Gemeinschaft als sein eigener Reichtum.\nDialoge: keine\nKontinuität / Änderung: Wechsel zur zweiten Erscheinung: Gegenwart, nicht Kindheit. Bob ist vom Kontor zu Hause; sein Schal hängt jetzt am Haken. Familie kann die Betrachter der Vision nicht sehen.\n\nKACHEL 7: Kein Platz für Überfluss\nOrt und Zeit: Dasselbe Zimmer, Gegenwart\nSichtbare Figuren: Ebenezer Scrooge, Geist der gegenwärtigen Weihnacht, Bob Cratchit, Tiny Tim\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Rechts muss Tim sich kurz am Tisch abstützen; Bob schiebt seinen eigenen Teller dichter zu ihm. Links sieht Scrooge zum ersten Mal nicht auf den Tischinhalt, sondern auf das Kind. Keine dramatische akute Krankheitsszene und keine zusätzliche Verletzung. Platz über Scrooge für eine kurze Frage. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links neben dem grünen Geist; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der gegenwärtigen Weihnacht: Fortbewegung: zu Fuß; Ort: mittig am Rand des Lichts; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts neben Tim am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Reicht das auch für ihn?“\nKontinuität / Änderung: Tim bleibt sitzend; keine plötzlich ergänzten Krücken oder geheilter Gang. Die Mahlzeit ist dieselbe, kein zweites Essen eingeblendet.\n\nKACHEL 8: Eine Rechnung ohne Zahlen\nOrt und Zeit: Am Rand der Gegenwartsvision\nSichtbare Figuren: Ebenezer Scrooge, Geist der gegenwärtigen Weihnacht\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nahe auf die zwei Betrachter; im Hintergrund nur die unscharfe warme Tischkante, keine neu hinzugefügten Hauptfiguren. Scrooge hat die Hände leer und schaut betroffen zur Seite. Der Geist zeigt nicht anklagend auf einen Geldbeutel. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor dem Gegenwartsgeist; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der gegenwärtigen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weites grünes Gewand mit einfachem braunem Gürtel; keine Krone und keine Waffen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich wusste nicht, wie wenig ihnen bleibt.“\nDialog 2:\n  Sprecher: Geist der gegenwärtigen Weihnacht\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du hast nur gefragt, was dir bleiben soll.“\nKontinuität / Änderung: Noch dieselbe Gegenwartsvision. Keine sichere Vorhersage zu Tims Krankheit; die nächste Kachel beginnt eine mögliche Zukunft.\n\nKACHEL 9: Niemand wartet\nOrt und Zeit: Vision einer möglichen Zukunft, kalter Innenraum\nSichtbare Figuren: Ebenezer Scrooge, Geist der künftigen Weihnacht\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite kalte Einstellung: ein verlassener großer Tisch, ein unbenutzter Stuhl, geschlossene Vorhänge. Kein Toter und kein Todesschild mit erfundenem Datum. Links Scrooge, rechts der dunkle stumme Zukunftsgeist. Die warme Familie ist verschwunden, der grüne Geist nicht mehr da. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links im kahlen Raum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der künftigen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts an der Wand; Körperhaltung: stehend, eine leere Hand zum Raum geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen..\nErzählertext: Der letzte Geist zeigte ihm eine mögliche Zukunft. Wo Scrooge eine Hinterlassenschaft erwartet hätte, fand er niemanden, der um ihn trauerte.\nDialoge: keine\nKontinuität / Änderung: Dritte Erscheinung: mögliche Zukunft, keine bereits eingetretene Gegenwart. Zukunftsgeist bleibt in allen folgenden Bildern stumm.\n\nKACHEL 10: Was bleibt\nOrt und Zeit: Derselbe mögliche Zukunftsraum\nSichtbare Figuren: Ebenezer Scrooge, Geist der künftigen Weihnacht\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe. Scrooge kniet vor einem unbesetzten Stuhl, nicht vor einem Grab mit bestätigtem Datum. Seine Hände liegen geöffnet auf den Knien; rechts steht der verschlossene Kapuzengeist. Keine sichtbare Gesichtsenthüllung. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor dem leeren Stuhl; Körperhaltung: knieend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe.. Geist der künftigen Weihnacht: Fortbewegung: zu Fuß; Ort: rechts neben ihm; Körperhaltung: stehend, Hände ruhig am Körper; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Ein einziger dunkler Kapuzenmantel, keine Sense, keine Kette und keine Waffen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „So viel gesammelt. Und niemand, dem ich fehlen würde.“\nKontinuität / Änderung: Mögliche Zukunft bleibt eine Warnung, keine unumkehrbare Feststellung. Kein neues Erbstück und keine bestätigte Todesnachricht über Tim.\n\nKACHEL 11: Ein noch offener Morgen\nOrt und Zeit: Scrooges Schlafzimmer, Weihnachtsmorgen\nSichtbare Figuren: Ebenezer Scrooge\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Helles Morgenlicht. Scrooge sitzt auf der Bettkante und schaut auf seine eigenen leeren Hände. Keine Geister anwesend. Grauer Schlafrock über weißem Nachthemd, keine Tageskleidung bereits darüber kopiert. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links auf der Bettkante; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Weißes langes Nachthemd unter grauem Schlafrock; einfache dunkle Hausschuhe..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann heute.“\nKontinuität / Änderung: Vision beendet, echter Weihnachtsmorgen. Scrooge lebt und hat die Möglichkeit zu handeln; der Geist ist nicht weiter sein Begleiter.\n\nKACHEL 12: Die Hände voll\nOrt und Zeit: Vor Cratchits Haustür, derselbe Morgen\nSichtbare Figuren: Ebenezer Scrooge, Bob Cratchit\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale im Tageslicht. Links Scrooge jetzt wieder im schwarzen Tagesrock; er hält einen einzigen gut gefüllten Korb, keine zugleich freie klopfende Hand. Rechts öffnet Bob bereits die Tür und starrt überrascht. Der Weg hinter Scrooge ist leer, kein Geist trägt den Korb. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Korb mit Brot und Lebensmitteln in beiden Händen; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: rechts in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; kein Schal um den Hals..\nErzählertext: Am Weihnachtsmorgen brachte Scrooge den Cratchits Lebensmittel. Seine neue Einsicht musste nun über Worte hinausgehen.\nDialoge: keine\nKontinuität / Änderung: Zwischen 11 und 12 hat Scrooge sich angezogen und Lebensmittel beschafft. Keine Wundervermehrung im Zimmer; Hilfe beginnt jetzt körperlich und sichtbar.\n\nKACHEL 13: Nicht nur für einen Tag\nOrt und Zeit: Cratchits Wohnung, wenig später\nSichtbare Figuren: Ebenezer Scrooge, Bob Cratchit, Tiny Tim\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gleicher kleiner Tisch und gleiche Zimmeraufteilung wie in der Gegenwartsvision, nun echtes Tageslicht. Der Korb steht einmal auf dem Tisch; Scrooges Hände sind leer. Bob steht zwischen ihm und dem sitzenden Tim. Das Kind ist nicht plötzlich gesund aufgesprungen. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: mittig am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ebenezer Scrooge\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Im Kontor bleibt es nicht beim alten Lohn.“\nDialog 2:\n  Sprecher: Bob Cratchit\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Sie meinen nach Weihnachten auch?“\nKontinuität / Änderung: Scrooge ist jetzt ein sichtbarer wirklicher Besucher. Die konkrete Lohnzusage ist frei formulierter Ausdruck der überlieferten Hilfe, kein behauptetes Originalzitat.\n\nKACHEL 14: Ein Platz mehr\nOrt und Zeit: Dasselbe Zimmer, Weihnachtsvormittag\nSichtbare Figuren: Ebenezer Scrooge, Bob Cratchit, Tiny Tim\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige breite Schlussszene als Gegenbild zum einsamen Tisch von Kachel 2. Jetzt sitzt Scrooge selbst mit am kleinen Tisch. Der Korb steht abseits, das Essen wird geteilt. Tim bleibt das gleiche kranke Kind, dessen Zukunft nicht als sichere Heilung gezeichnet wird. Verbindliche Zustände: Ebenezer Scrooge: Fortbewegung: zu Fuß; Ort: links am Familientisch; Körperhaltung: auf einem herangerückten Stuhl sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Zu Beginn schwarzer langer Gehrock, graue Weste, weißes Hemd, dunkle Hose und Schuhe. Nachts ausdrücklich weißes langes Nachthemd und grauer Schlafrock.. Bob Cratchit: Fortbewegung: zu Fuß; Ort: mittig am Familientisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Braune Jacke über grauer Weste und weißem Hemd, dunkle Hose; Schal am Haken.. Tiny Tim: Fortbewegung: zu Fuß; Ort: rechts neben Bob; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Beigefarbenes Hemd, dunkelgrüne Weste, braune Hose. Sitzt in den Familienszenen; keine spontan wechselnden Hilfsmittel..\nErzählertext: Scrooge versprach auch für den Alltag Veränderung und nahm selbst am gemeinsamen Tisch Platz. Der neue Anfang sollte länger dauern als das Fest.\nDialoge: keine\nKontinuität / Änderung: Ein Stuhl wurde zwischen 13 und 14 an den Tisch gerückt. Scrooges Wandel zeigt sich in Hilfe und Nähe; Krankheit und Armut nicht mit einer einzigen Mahlzeit für vollständig gelöst erklären.\n",
+    "book_author": "",
+    "editorial_script_id": "weihnachtsgeschichte-14-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "weihnachtsgeschichte-14"
+    },
+    "title": "Eine Weihnachtsgeschichte · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "weihnachtsgeschichte-14"
+    }
+  },
+  "count_policy": "editorial"
+}

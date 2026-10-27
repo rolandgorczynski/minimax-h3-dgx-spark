@@ -1,0 +1,192 @@
+TITEL: Die weiße Schlange – Wer die Tiere versteht · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Tierverstehender Diener
+Aussehen: Junger erwachsener Mann mit kurzem braunem Haar und schmalem bartlosem Gesicht.
+Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Versteht Tiere erst nach dem heimlichen Bissen. Hilft Fischen, Ameisen und Raben; deren Gegenhilfe löst drei spätere Aufgaben. Nach dem Pferdopfer nur noch zu Fuß.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König der weißen Schlangenspeise
+Aussehen: Älterer Mann mit grauem kurzem Bart und schmalem Gesicht.
+Kleidung: Dunkelblaues Hofgewand und schlichte Krone.
+Persönlichkeit und Vorgeschichte: Erster Dienstherr. Verdächtigt den Diener des Ringdiebstahls, wird durch Wiederfinden des ersten Rings widerlegt. Nicht derselbe Hof wie später der Königstochter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ente mit dem ersten Ring
+Aussehen: Eine braune Ente mit hellem Brustfleck, zwei Füßen, zwei Flügeln und einem Schnabel.
+Kleidung: Braunes Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Hat den Ring des ersten Hofes verschluckt. Ihre Stimme wird erst nach dem Bissen verstanden. Kein zweiter Aufgabenring in ihrem Schnabel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Pferd des Tierverstehers
+Aussehen: Ein graues Pferd mit schwarzer Mähne, vier Beinen und einem Schweif.
+Kleidung: Ein einfacher brauner Sattel mit Bauchgurt und braunes Zaumzeug.
+Persönlichkeit und Vorgeschichte: Reittier bis zur Rabenhilfe. In der historischen Fassung wird es außerhalb des Bildes als Nahrung geopfert. Danach tot, keine spätere Reitwiederkehr.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Fisch der ersten Hilfe
+Aussehen: Ein kleiner silberner Fisch mit dunklem Rückenstreifen und einem Schwanz, ohne Beine.
+Kleidung: Silberne Schuppen, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Wiedererkennbare Vertretung der geretteten Fische. Später bringt die Fischgruppe den anderen Ring aus dem Meer.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ameise der geschonten Kolonie
+Aussehen: Eine kleine dunkle Ameise mit sechs Beinen und zwei Fühlern. Keine Menschenhände.
+Kleidung: Dunkler Chitinpanzer.
+Persönlichkeit und Vorgeschichte: Vertreterin der Ameisen, die nicht zertreten werden. Später liest ihre Gruppe die verstreuten Körner auf.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Junger Rabe der gefütterten Gruppe
+Aussehen: Ein junger schwarzer Rabe mit zwei Flügeln, zwei Füßen und dunklem Schnabel.
+Kleidung: Schwarzes Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Vertreter der geholfenen jungen Raben. Später bringt die Rabengruppe den Apfel vom Baum des Lebens.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königstochter mit den drei Aufgaben
+Aussehen: Junge erwachsene Frau mit langem dunkelbraunem Zopf und wachem ovalem Gesicht.
+Kleidung: Weinrotes langes Hofkleid und heller Gürtel.
+Persönlichkeit und Vorgeschichte: Stellt nacheinander Ring-, Körner- und Apfelaufgabe. Kein Wissen um den ersten Hofring, keine Vermischung der beiden Höfe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein heimlicher Bissen
+Ort und Zeit: Nebenraum nach dem Dienst an der königlichen Tafel
+Sichtbare Figuren: Tierverstehender Diener
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Diener links kostet von der bereits zubereiteten weißen Schlange auf einem kleinen Teller, keine lebende Schlange wird verletzt.  Ein gedeckter anderer königlicher Teller nur Hintergrund, kein Zaubertrank. Verbindliche Zustände: Tierverstehender Diener: Ort: links am abgeräumten Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner Teller links; rechte Hand hat einen Bissen genommen; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ein Diener kostete heimlich von der weißen Schlange. Im Märchen konnte er danach die Sprache der Tiere verstehen.
+Dialoge: keine
+Kontinuität / Änderung: Tierverständnis beginnt erst nach dem Bissen. Märchenhafte Ursache, kein reales Rezept. Der Text behauptet nicht, beliebige Schlangen als Nahrung hätten diese Wirkung.
+
+KACHEL 2: Der Verdacht hat einen unerwarteten Zeugen
+Ort und Zeit: Hof des ersten Königs nach dem Ringverdacht
+Sichtbare Figuren: Tierverstehender Diener, Ente mit dem ersten Ring
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Hofansicht. Diener links hört eine braune Ente rechts sprechen, ihre Gestalt vollständig Tier. Kein sichtbarer Ring in der Hand des Dieners als schon bewiesener Diebstahl. Hals der Ente unversehrt, keine aufgeschnittene Tierdarstellung. Verbindliche Zustände: Tierverstehender Diener: Ort: links nahe einer Pfütze; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ente mit dem ersten Ring: Ort: rechts vor einem Trog; Körperhaltung: auf zwei Füßen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ente mit dem ersten Ring
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Der Ring liegt mir schwer im Magen.“
+Kontinuität / Änderung: Nur aufgrund des neu gewonnenen Verständnisses hört er die Aussage. Es ist Ring A vom ersten Hof, nicht der später ins Meer geworfene Ring B.
+
+KACHEL 3: Der erste Ring beendet den Verdacht
+Ort und Zeit: Saal des ersten Königs nach der Auskunft
+Sichtbare Figuren: Tierverstehender Diener, König der weißen Schlangenspeise
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Diener zeigt einen einzelnen zurückgefundenen Ring, König rechts prüft. Keine lebende Ente mit zugleich zweitem Ring auf dem Tisch und keine Tierkörperdetails. Tafelgeschehen der Küche bleibt außerhalb des Ausschnitts. Verbindliche Zustände: Tierverstehender Diener: Ort: links vor dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: ein zurückgefundener erster Ring in der linken Hand; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König der weißen Schlangenspeise: Ort: rechts auf einem Sitz; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Hofgewand und schlichte Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die gehörte Äußerung führte zum vermissten Ring. Der Diener bewies seine Unschuld und konnte den Hof verlassen.
+Dialoge: keine
+Kontinuität / Änderung: Historische Rückholung aus der Ente erfolgt außerhalb des Bildes, keine moderne Ersatzhandlung als angeblicher Originalvorgang. Er übergibt Ring A dem ersten Hof und reist ohne diesen Ring fort.
+
+KACHEL 4: Eine Freiheit, die noch ein Pferd trägt
+Ort und Zeit: Weg nach dem Abschied vom ersten Hof
+Sichtbare Figuren: Tierverstehender Diener, Pferd des Tierverstehers
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Reiseansicht. Ein graues vierbeiniges Pferd mit einem Reiter, einfacher brauner Sattel. Diener ohne den ersten Ring, keine weitere Schlange oder königliche Tafel auf dem Weg. Ein Pferd, kein fliegender Tierzug. Verbindliche Zustände: Tierverstehender Diener: Ort: links im Sattel; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen, Reisetasche am Sattel; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: das eine graue Pferd mit schwarzer Mähne. Pferd des Tierverstehers: Ort: mittig auf dem Weg; Körperhaltung: auf vier Beinen gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein einfacher brauner Sattel mit Bauchgurt und braunes Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Zu Pferd zog er weiter. Seine neue Fähigkeit machte ihn unterwegs auf Not aufmerksam, die er sonst überhört hätte.
+Dialoge: keine
+Kontinuität / Änderung: Diener zieht fort, Reittier und Reisetasche vor der Abreise erhalten. Keine Verwechslung des ersten und späteren Königs. Neue Hilfsbegegnungen beginnen erst unterwegs.
+
+KACHEL 5: Was am Ufer nicht weiterkommt
+Ort und Zeit: Ufer mit gestrandeten Fischen
+Sichtbare Figuren: Tierverstehender Diener, Fisch der ersten Hilfe, Pferd des Tierverstehers
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Diener zu Fuß links setzt einen gestrandeten Fisch ins Wasser, wenige weitere Fische bereits darin. Pferd rechts klar mit leerem Sattel. Keine Verletzung und keine dritte Menschenhand gleichzeitig an Zügeln. Fischgruppe bleibt eine Gruppe, nicht tausend benannte Klone. Verbindliche Zustände: Tierverstehender Diener: Ort: links am Wasser; Körperhaltung: kniend; Mitgeführte Gegenstände: ein kleiner silberner Fisch vorsichtig in beiden Händen; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Pferd des Tierverstehers: Ort: rechts am Ufer; Körperhaltung: auf vier Hufen stehend, Sattel leer; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein einfacher brauner Sattel mit Bauchgurt und braunes Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Fisch der ersten Hilfe: Ort: in seinen Händen unmittelbar über dem Wasser; Körperhaltung: wird ins Wasser zurückgesetzt; Mitgeführte Gegenstände: leere Hände; Kleidung: Silberne Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tierverstehender Diener
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Zurück ins Wasser.“
+Kontinuität / Änderung: Er steigt vor der Hilfe ausdrücklich ab und setzt die Fische zurück. Nach der Hilfe steigt er wieder auf, bevor er zum Ameisenweg weiterreitet. Hilfe vor späterer Ringaufgabe.
+
+KACHEL 6: Ein Umweg, der anderen Raum lässt
+Ort und Zeit: Weg am Ameisenstaat
+Sichtbare Figuren: Tierverstehender Diener, Pferd des Tierverstehers, Ameise der geschonten Kolonie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Bodenperspektive. Pferd und Reiter weichen nach links aus, kleine Ameisenstraße rechts unbetreten. Eine gut erkennbare Ameise mit sechs Beinen am Rand, keine riesige Ameisenkriegerfigur. Kein toter Pferdekörper schon vor dieser Begegnung. Verbindliche Zustände: Tierverstehender Diener: Ort: links im Sattel; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: das eine graue Pferd mit schwarzer Mähne. Pferd des Tierverstehers: Ort: mittig am Wegrand; Körperhaltung: auf vier Beinen am Ameisenweg vorbeigehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ein einfacher brauner Sattel mit Bauchgurt und braunes Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ameise der geschonten Kolonie: Ort: rechts unten am Boden; Körperhaltung: auf sechs Beinen laufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler Chitinpanzer.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Vor einer Ameisenstraße lenkte er das Pferd beiseite. Dieser Umweg kostete wenig und schonte viele kleine Leben.
+Dialoge: keine
+Kontinuität / Änderung: Diener schont die Kolonie, indem er das Pferd um sie herumführt. Er bleibt im Sattel, keine zweite stehende Dienerfigur. Ameisenhilfe bereitet die spätere Körneraufgabe vor.
+
+KACHEL 7: Der harte Preis der überlieferten Hilfe
+Ort und Zeit: Wald bei den hungrigen jungen Raben
+Sichtbare Figuren: Tierverstehender Diener, Junger Rabe der gefütterten Gruppe
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige weite Waldansicht. Diener links auf dem Boden, junger Rabe rechts am Ast, weitere junge Vögel klein im Nest. Pferd, Fleisch und Tötung vollständig außerhalb des Bildes. Keine grausamen Details und keine stattdessen erfundene moderne Fütterungsszene. Verbindliche Zustände: Tierverstehender Diener: Ort: links unter dem Baum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Reisetasche vom Sattel an die Schulter genommen; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Junger Rabe der gefütterten Gruppe: Ort: rechts auf einem niedrigen Ast; Körperhaltung: als junger Vogel auf zwei Füßen sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schwarzes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die alte Fassung erzählt auch einen harten Preis: Um verlassene junge Raben zu nähren, opferte er sein Pferd.
+Dialoge: keine
+Kontinuität / Änderung: Pferd außerhalb des Bildes getötet und als Nahrung verwendet, nicht als harmlose Brotgabe umschreiben. Reisetasche vorher abgenommen. Ab jetzt reist der Diener dauerhaft zu Fuß, Pferd kehrt nicht wieder.
+
+KACHEL 8: Eine neue Aufgabe an einem anderen Hof
+Ort und Zeit: Meeresufer beim Hof der Königstochter
+Sichtbare Figuren: Tierverstehender Diener, Königstochter mit den drei Aufgaben
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Uferansicht. Diener links zu Fuß, junge Frau rechts hebt einen Ring zum bevorstehenden Wurf. Keine erste königliche Ringtruhe und kein Pferd. Meer weit hinter ihr. Noch kein Ring am Strand als bereits durch Fische gelöste Probe. Verbindliche Zustände: Tierverstehender Diener: Ort: links am Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: Reisetasche am Schulterriemen, Hände leer; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter mit den drei Aufgaben: Ort: rechts am Wasser; Körperhaltung: stehend; Mitgeführte Gegenstände: ein zweiter Ring in der rechten Hand; Kleidung: Weinrotes langes Hofkleid und heller Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königstochter mit den drei Aufgaben
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hole mir diesen Ring aus dem Meer.“
+Kontinuität / Änderung: Ring B gehört zu diesem anderen Hof und wird erst nach diesem Moment ins Meer geworfen. Ring A am ersten Hof längst abgegeben. Tierhilfen waren vorher, Aufgaben beginnen jetzt.
+
+KACHEL 9: Was unter der Oberfläche sucht
+Ort und Zeit: Meeresufer nach dem Ringwurf
+Sichtbare Figuren: Tierverstehender Diener, Fisch der ersten Hilfe
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Halbnahe. Wiedererkennbarer silberner Fisch aus der geholfenen Gruppe bringt genau einen Ring im Maul. Diener links nimmt ihn noch nicht als zweiten identischen Ring in die Hand. Kein Vogel als vertauschter Ringhelfer, kein erster Hofkönig am Strand. Verbindliche Zustände: Tierverstehender Diener: Ort: links am Wasserrand; Körperhaltung: kniend; Mitgeführte Gegenstände: leere linke Hand zum Fisch geöffnet; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Fisch der ersten Hilfe: Ort: rechts im flachen Wasser; Körperhaltung: mit einem Ring im Maul an der Oberfläche; Mitgeführte Gegenstände: leere Hände; Kleidung: Silberne Schuppen, keine Kleidung.; Fortbewegung: schwimmend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Später sollte er für eine Königstochter einen Ring aus dem Meer holen. Die geretteten Fische fanden ihn für ihn wieder.
+Dialoge: keine
+Kontinuität / Änderung: Ring B wird aus dem Meer geholt und danach an die Königstochter übergeben. Ring A bleibt am ersten Hof. Märchenhafte Verbindung der geholfenen Fischgruppe, keine neue unabhängige Zaubermaschine.
+
+KACHEL 10: Was eine Hand nicht rechtzeitig schafft
+Ort und Zeit: Wiese vor dem neuen Hof bei der zweiten Probe
+Sichtbare Figuren: Tierverstehender Diener, Königstochter mit den drei Aufgaben
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Wiese. Viele kleine verstreute Körner im Gras, junge Frau rechts mit leerem Korb, Diener links beginnt verzweifelt zu sammeln. Kein bereits ordentlich gefüllter Vorratstisch und kein Ring noch in seiner Hand. Keine Ameisen erst jetzt als von ihm neu gerettete Kolonie. Verbindliche Zustände: Tierverstehender Diener: Ort: links auf der Wiese; Körperhaltung: kniend; Mitgeführte Gegenstände: einige Körner in der linken Hand; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter mit den drei Aufgaben: Ort: rechts am Wiesenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: leerer Korb in beiden Händen; Kleidung: Weinrotes langes Hofkleid und heller Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königstochter mit den drei Aufgaben
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Lies die verstreuten Körner wieder auf.“
+Kontinuität / Änderung: Zweite Aufgabe erst nach Übergabe des gefundenen Rings. Neue Probe beginnt, kein gleichzeitiger dritter Apfelauftrag. Ohne Tierhilfe wäre seine eigene Leistung nicht ausreichend.
+
+KACHEL 11: Die vielen Kleinen
+Ort und Zeit: Dieselbe Wiese nach der Nachtarbeit
+Sichtbare Figuren: Tierverstehender Diener, Ameise der geschonten Kolonie
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Körner nun vollständig geordnet im selben Korb, eine Ameisenstraße bringt letzte Körnchen, keine menschlichen Miniaturhände. Diener links schaut zu, kein von Raben gefüllter Korb. Spuren des Grases dieselben wie zuvor. Verbindliche Zustände: Tierverstehender Diener: Ort: links vor dem nun gefüllten Korb; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ameise der geschonten Kolonie: Ort: rechts am Korbrand; Körperhaltung: auf sechs Beinen mit einem letzten Korn; Mitgeführte Gegenstände: ein Korn in den Mundwerkzeugen; Kleidung: Dunkler Chitinpanzer.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die geschonten Ameisen sammelten die verstreuten Körner. Was seine Hände nicht rechtzeitig geschafft hätten, gelang ihnen gemeinsam.
+Dialoge: keine
+Kontinuität / Änderung: Morgenergebnis der Gegenhilfe. Körner vollständig eingesammelt, nicht weiterhin identisch überall im Gras. Korb wird danach vorgeführt; Ameisen bleiben Helfergruppe, keine neue Königsarmee.
+
+KACHEL 12: Die dritte Grenze
+Ort und Zeit: Hofgarten nach dem Bestehen der Körnerprobe
+Sichtbare Figuren: Tierverstehender Diener, Königstochter mit den drei Aufgaben
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Halbnahe. Beide zu Fuß, kein Apfel bereits am nächstbesten Gartenbaum. Gefüllter Körnerkorb abgegeben außerhalb, keine drei gleichzeitig gestellten Prüfungsbilder als Montage. Blick der Frau ernst, nicht schon Hochzeitsfeier. Verbindliche Zustände: Tierverstehender Diener: Ort: links vor der Königstochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Reisetasche am Riemen; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter mit den drei Aufgaben: Ort: rechts im Garten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weinrotes langes Hofkleid und heller Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Als dritte Aufgabe verlangte die Königstochter einen Apfel vom Baum des Lebens. Wieder reichte sein eigenes Vermögen nicht aus.
+Dialoge: keine
+Kontinuität / Änderung: Dritte Aufgabe nach der zweiten, kein Ring mehr beim Diener. Er weiß selbst keinen unmittelbaren Weg dorthin. Rabenhilfe noch nicht vorweggenommen.
+
+KACHEL 13: Ein Flug erinnert sich
+Ort und Zeit: Weg außerhalb des Hofgartens
+Sichtbare Figuren: Tierverstehender Diener, Junger Rabe der gefütterten Gruppe
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Schwarzer Rabe mit genau einem Apfel im Schnabel, Diener hält eine leere Hand hin. Keine zweite Apfelkopie in seiner Tasche, kein Fisch bringt Früchte. Pferd bleibt fort, kein heimliches weiteres Reittier unter ihm. Verbindliche Zustände: Tierverstehender Diener: Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand offen zum ankommenden Raben; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Junger Rabe der gefütterten Gruppe: Ort: rechts auf einem niedrigen Ast; Körperhaltung: auf zwei Füßen mit einem Apfel; Mitgeführte Gegenstände: ein einzelner Apfel im Schnabel; Kleidung: Schwarzes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Raben brachten den Apfel. Die frühere Hilfe war ihnen nicht entfallen.
+Dialoge: keine
+Kontinuität / Änderung: Dritte frühere Hilfe zahlt sich als dritte Gegenhilfe aus. Herkunft Baum des Lebens durch Erzähler und vorigen Auftrag klar, keine neue große Episode der Reise des Vogels erfinden.
+
+KACHEL 14: Was aus nicht berechneter Hilfe wurde
+Ort und Zeit: Garten nach Übergabe der letzten Gabe
+Sichtbare Figuren: Tierverstehender Diener, Königstochter mit den drei Aufgaben
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Schlussansicht. Zwei erwachsene Menschen stehen sich gleichhoch zugewandt gegenüber, Frau hält den einen Apfel. Keine Tierparade mit lebendig wiedergekehrtem Pferd und keine zweite Ringprobe im Hintergrund. Noch keine beliebigen Kinder als zusätzliche Schlussfiguren. Verbindliche Zustände: Tierverstehender Diener: Ort: links neben der Königstochter; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände leer nach der Übergabe; Kleidung: Dunkelgrüner Rock, helle Hose und braune Stiefel. Zu Beginn keine Tierverstehensmagie; später Reisetasche. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Königstochter mit den drei Aufgaben: Ort: rechts bei ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: der eine übergebene Apfel in beiden Händen; Kleidung: Weinrotes langes Hofkleid und heller Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit der letzten Gabe gewann er die Königstochter. Hinter seinem Erfolg standen auch die Wesen, denen er zuvor beigestanden hatte.
+Dialoge: keine
+Kontinuität / Änderung: Überlieferter Ausgang mit der Königstochter und erfüllt gebliebener Tier-Gegenseitigkeit. Historisches Pferdopfer nicht als reale Empfehlung zum Erwerb von Belohnung ausgeben. Ring A am ersten Hof, Ring B am zweiten, Apfel jetzt bei ihr.

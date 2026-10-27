@@ -1,0 +1,127 @@
+TITEL: Dagoberts Zeichen · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Dagobert in der Seelenrettungssage
+Aussehen: Erwachsener König mit braunem langem Haar, kurzem Bart und breitem Gesicht. Als Seele derselbe Umriss in durchscheinend heller Gestalt.
+Kleidung: Im Leben dunkelblauer Mantel über hellem langem Rock und schmale goldene Krone. Am Sterbebett heller Rock ohne Krone. Als Seele helle schlichte Kontur, keine Krone.
+Persönlichkeit und Vorgeschichte: Mächtiger Herrscher und Freund seiner Hunde. Seine guten Bindungen löschen in der Sage nicht alle Schuld aus; nach dem Tod ist seine Seele auf Fürsprache angewiesen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dagoberts Hund mit dem weißen Ohr
+Aussehen: Mittelgroßer brauner Jagdhund mit genau einem weißen linken Ohr und dunkler Schwanzspitze. Vier Pfoten.
+Kleidung: Braunes Fell, einfacher dunkler Halsriemen.
+Persönlichkeit und Vorgeschichte: Begleitet den König und hilft ihm beim Fund der Gebeine des Dionysius. Bleibt ein lebendes Tier und fährt nicht auf dem Seelenschiff mit.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dionysius als Fürsprecher
+Aussehen: Älterer Mann mit weißem Bart, mildem Gesicht und schmaler heller Lichtkontur.
+Kleidung: Heller langer Mantel über schlichtem weißem Gewand. Keine Waffen.
+Persönlichkeit und Vorgeschichte: In der Sage längst verstorbener Heiliger. Bittet um Erlaubnis zur Rettung und folgt dem Schiff, statt Dagobert weltliche Macht zurückzugeben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Engel der Seelenrettung
+Aussehen: Menschenähnliche helle Gestalt mit ruhigem Gesicht und genau zwei großen hellen Flügeln.
+Kleidung: Weißes langes Gewand, keine Rüstung und keine Klinge.
+Persönlichkeit und Vorgeschichte: Repräsentiert die rettende Engelschar. Trägt die Seele zur Gnade, nicht zurück ins irdische Leben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dunkler Fährmann der Dagobertsage
+Aussehen: Nichtmenschliche dunkle märchenhafte Gestalt mit verhülltem Gesicht und undeutlicher hornartiger Kapuzenkontur. Keine ethnische Karikatur.
+Kleidung: Dunkler langer Mantel ohne Abzeichen; ein hölzernes Ruder.
+Persönlichkeit und Vorgeschichte: Repräsentiert die Teufel des Sagenbildes auf dem Schiff. Keine Darstellung einer realen Bevölkerungsgruppe oder Religion.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Gesellschaft des Königs
+Ort und Zeit: Hof nach einer Mahlzeit
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Dagoberts Hund mit dem weißen Ohr
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Dagobert steht nach seiner Mahlzeit bei den gefütterten Hunden. Der braune Hund mit dem weißen linken Ohr ist vorn deutlich erkennbar; die übrigen bleiben namenlose andere Tiere. Keine Schlacht und keine zweite Krone. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: neben einer niedrigen Futterschale; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Im Leben dunkelblauer Mantel über hellem langem Rock und schmale goldene Krone. Am Sterbebett heller Rock ohne Krone. Als Seele helle schlichte Kontur, keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dagoberts Hund mit dem weißen Ohr: Ort: an der Schale; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leeres Maul; Kleidung: Braunes Fell, einfacher dunkler Halsriemen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Sage erzählt von König Dagoberts Macht und seiner Zuneigung zu den Hunden. Nach seiner Mahlzeit ließ er sie füttern.
+Dialoge: keine
+Kontinuität / Änderung: keine
+
+KACHEL 2: Die gefundene Ruhestätte
+Ort und Zeit: Alter stiller Begräbnisort
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Dagoberts Hund mit dem weißen Ohr
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Hund hat Dagobert zu einer alten Grabstelle geführt. Der König kniet andächtig davor. Keine offenliegenden Gebeine und kein körperlicher Dionysius neben seinem eigenen Grab. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: bei einem alten Grabzeichen; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Im Leben dunkelblauer Mantel über hellem langem Rock und schmale goldene Krone. Am Sterbebett heller Rock ohne Krone. Als Seele helle schlichte Kontur, keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Dagoberts Hund mit dem weißen Ohr: Ort: vor dem Grabzeichen; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leeres Maul; Kleidung: Braunes Fell, einfacher dunkler Halsriemen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit Hilfe der Hunde soll er die Ruhestätte des Dionysius entdeckt haben. Seitdem verehrte er den Heiligen.
+Dialoge: keine
+Kontinuität / Änderung: Fund als Sagenüberlieferung. Dionysius bereits verstorben, nicht zugleich lebender Gefährte.
+
+KACHEL 3: Was Macht markieren kann
+Ort und Zeit: Fels am Alpenrand des Rheintals
+Sichtbare Figuren: Dagobert in der Seelenrettungssage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Bei einem späteren Zug steht Dagobert zu Fuß vor einem großen frisch eingehauenen Halbmond. Namenlose Steinmetze haben ihre Werkzeuge gesenkt. Kein fantastischer Mond vom Himmel und keine belegte politische Grenzkarte. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: vor einem bearbeiteten Felsen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand zeigt auf den Fels; Kleidung: Im Leben dunkelblauer Mantel über hellem langem Rock und schmale goldene Krone. Am Sterbebett heller Rock ohne Krone. Als Seele helle schlichte Kontur, keine Krone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Rheintal ließ er einen Halbmond als Reichsgrenze in den Fels hauen. Sein Zeichen konnte Macht zeigen, den Tod aber nicht abhalten.
+Dialoge: keine
+Kontinuität / Änderung: Kurzer Rahmen des Grenzzeichens. Keine erfundene Eroberungsschlacht zur Streckung.
+
+KACHEL 4: Abschied von den Hunden
+Ort und Zeit: Königliche Sterbekammer
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Dagoberts Hund mit dem weißen Ohr
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Viele Tage später liegt der König im Sterbebett, Krone und dunkler Mantel sind auf einem entfernten Stuhl abgelegt. Sein vertrauter Hund mit dem weißen Ohr sitzt am Bett. Keine Seele steht bereits als zweite Figur neben dem Körper. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: im Bett; Körperhaltung: liegend; Mitgeführte Gegenstände: eine Hand an der Bettkante; Kleidung: Heller langer Rock ohne Krone, vollständig unter heller Decke; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Sterbend, keine sichtbare Wunde. Dagoberts Hund mit dem weißen Ohr: Ort: am Fuß des Bettes; Körperhaltung: auf vier Pfoten sitzend; Mitgeführte Gegenstände: leeres Maul; Kleidung: Braunes Fell, einfacher dunkler Halsriemen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Dagobert in der Seelenrettungssage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Auch von der besten Gesellschaft muss man einmal Abschied nehmen.“
+Kontinuität / Änderung: Letzter irdischer Auftritt. Körperlicher Tod erfolgt vor der folgenden Seelenreise.
+
+KACHEL 5: Nicht von aller Schuld frei
+Ort und Zeit: Dunkles Meer im Jenseitsbild
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Dunkler Fährmann der Dagobertsage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach seinem Tod sitzt Dagoberts einzige durchscheinende Seelengestalt auf einem dunklen Boot. Der Fährmann rudert; weitere namenlose dunkle Gestalten sitzen fern am Bug. Kein lebender gekrönter König und keine Hunde an Bord. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: auf dem dunklen Schiff; Körperhaltung: sitzende Seelengestalt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Helle durchscheinende Seelengestalt ohne Krone oder körperlichen Mantel; Lebenszustand: körperlich verstorben; Seele im Sagenbild; Verletzungen: unverletzt. Dunkler Fährmann der Dagobertsage: Ort: am Heck des Schiffes; Körperhaltung: stehend; Mitgeführte Gegenstände: ein hölzernes Ruder; Kleidung: Dunkler langer Mantel ohne Abzeichen; ein hölzernes Ruder.; Fortbewegung: in einem Fahrzeug; Lebenszustand: sagenhafte Teufelsgestalt; Verletzungen: unverletzt.
+Erzählertext: Nach seinem Tod geriet seine Seele im religiösen Bild der Sage in die Gewalt der Teufel. Seine Schuld war nicht aufgehoben.
+Dialoge: keine
+Kontinuität / Änderung: Tod und Seelengestalt getrennt vom irdischen Körper. Eine Seele, keine mehreren Dagoberts.
+
+KACHEL 6: Die Fürsprache
+Ort und Zeit: Heller leerer Raum über dem Meer
+Sichtbare Figuren: Dionysius als Fürsprecher
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Dionysius bittet vor einem ruhigen Lichtfeld um Erlaubnis zur Rettung. Gott wird nicht als zusätzlicher Herrscherkörper gezeigt. Das Seelenschiff ist außerhalb des Bildes. Verbindliche Zustände: Dionysius als Fürsprecher: Ort: vor einer nicht figürlich dargestellten Lichtöffnung; Körperhaltung: kniend; Mitgeführte Gegenstände: gefaltete leere Hände; Kleidung: Heller langer Mantel über schlichtem weißem Gewand. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: Heiliger im Jenseitsbild; Verletzungen: unverletzt.
+Erzählertext: Dionysius bat um die Erlaubnis, Dagobert zu helfen. Aus der Verehrung zu Lebzeiten wurde in der Sage rettende Fürsprache.
+Dialoge: keine
+Kontinuität / Änderung: Fürsprache vor dem Rettungszug. Kein sofortiger selbstmächtiger Freikauf durch die Königskrone.
+
+KACHEL 7: Dem Schiff nach
+Ort und Zeit: Meer zwischen Dunkel und Licht
+Sichtbare Figuren: Dionysius als Fürsprecher, Engel der Seelenrettung
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Dionysius und die helle Engelsgestalt folgen mit anderen namenlosen Heiligen und Engeln dem fernen dunklen Schiff. Ihr Weg bleibt auf einer gemeinsamen Meerachse. Das Boot liegt voraus, nicht zugleich in zwei Richtungen. Verbindliche Zustände: Dionysius als Fürsprecher: Ort: über der hellen Wasserbahn; Körperhaltung: vorwärts schwebend; Mitgeführte Gegenstände: leere Hände; Kleidung: Heller langer Mantel über schlichtem weißem Gewand. Keine Waffen.; Fortbewegung: fliegend; Lebenszustand: Heiliger im Jenseitsbild; Verletzungen: unverletzt. Engel der Seelenrettung: Ort: vor Dionysius; Körperhaltung: mit zwei Flügeln fliegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes langes Gewand, keine Rüstung und keine Klinge.; Fortbewegung: fliegend; Lebenszustand: Engelsgestalt; Verletzungen: unverletzt.
+Erzählertext: Mit Engeln und weiteren Heiligen folgte Dionysius dem Schiff. Auf ihm wurde Dagoberts Seele fortgebracht.
+Dialoge: keine
+Kontinuität / Änderung: Verfolgung nach gewährter Erlaubnis. Keine bewaffnete Menschenflotte ergänzen.
+
+KACHEL 8: Um die eine Seele
+Ort und Zeit: Dunkles Schiff auf dem Meer
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Dunkler Fährmann der Dagobertsage, Dionysius als Fürsprecher, Engel der Seelenrettung
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Eine einzige lichte Dagobertgestalt steht zwischen zurückweichenden dunklen Schatten und den ausgestreckten Armen des Engels. Der Streit ist als Druck aus Wind, Licht und Dunkel gezeigt, ohne Schläge oder verletzte Körper. Kein neues Schwert. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: in der Mitte des Schiffs; Körperhaltung: aufgerichtete Seelengestalt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Helle durchscheinende Seelengestalt ohne Krone oder körperlichen Mantel; Lebenszustand: körperlich verstorben; Seele im Sagenbild; Verletzungen: unverletzt. Dionysius als Fürsprecher: Ort: am Bug im Licht; Körperhaltung: stehend; Mitgeführte Gegenstände: offene leere Hände; Kleidung: Heller langer Mantel über schlichtem weißem Gewand. Keine Waffen.; Fortbewegung: fliegend; Lebenszustand: Heiliger im Jenseitsbild; Verletzungen: unverletzt. Engel der Seelenrettung: Ort: über der Mitte des Schiffs; Körperhaltung: stehend; Mitgeführte Gegenstände: Arme zur Seelengestalt ausgestreckt; Kleidung: Weißes langes Gewand, keine Rüstung und keine Klinge.; Fortbewegung: fliegend; Lebenszustand: Engelsgestalt; Verletzungen: unverletzt. Dunkler Fährmann der Dagobertsage: Ort: am Heck; Körperhaltung: stehend; Mitgeführte Gegenstände: sein einzelnes hölzernes Ruder; Kleidung: Dunkler langer Mantel ohne Abzeichen; ein hölzernes Ruder.; Fortbewegung: in einem Fahrzeug; Lebenszustand: sagenhafte Teufelsgestalt; Verletzungen: unverletzt.
+Erzählertext: Zwischen Licht und Dunkel wurde um die Seele gestritten. Die königliche Macht spielte dabei keine rettende Rolle mehr.
+Dialoge: keine
+Kontinuität / Änderung: Seele noch am Boot, Rettung im Gange, nicht bereits zugleich im Himmel.
+
+KACHEL 9: Aus der Gewalt genommen
+Ort und Zeit: Luft über dem zurückbleibenden Schiff
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Engel der Seelenrettung
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Engel trägt die eine Dagobertseele vom Schiff fort. Das Boot mit den dunklen Gestalten bleibt weit unter ihm zurück. Die Seele trägt keine Krone, kein Schwert und keinen irdischen Leib. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: in den Armen des Engels; Körperhaltung: getragene Seelengestalt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Helle durchscheinende Seelengestalt ohne Krone oder körperlichen Mantel; Lebenszustand: körperlich verstorben; Seele im Sagenbild; Verletzungen: unverletzt. Engel der Seelenrettung: Ort: über dem Meer; Körperhaltung: mit zwei Flügeln fliegend; Mitgeführte Gegenstände: die eine lichte Seelengestalt in beiden Armen; Kleidung: Weißes langes Gewand, keine Rüstung und keine Klinge.; Fortbewegung: fliegend; Lebenszustand: Engelsgestalt; Verletzungen: unverletzt.
+Erzählertext: Die Fürsprecher entrissen die Seele den Teufeln. Dagobert wurde aus ihrer Gewalt genommen.
+Dialoge: keine
+Kontinuität / Änderung: Ortswechsel derselben Seele. Kein zweiter Dagobert bleibt auf dem Schiff.
+
+KACHEL 10: Gnade statt Rückkehr
+Ort und Zeit: Heller Horizont des Jenseitsbildes
+Sichtbare Figuren: Dagobert in der Seelenrettungssage, Engel der Seelenrettung, Dionysius als Fürsprecher
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die gerettete Seele ruht im Licht, der Engel hat sie dort losgelassen. Dionysius kehrt mit den anderen Heiligen in den hellen Hintergrund zurück. Kein Thron, keine wiederbelebte Sterbekammer und kein zurückkehrender Hund. Verbindliche Zustände: Dagobert in der Seelenrettungssage: Ort: im offenen hellen Raum; Körperhaltung: ruhende lichte Gestalt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Helle durchscheinende Seelengestalt ohne Krone oder körperlichen Mantel; Lebenszustand: körperlich verstorben; Seele im Sagenbild; Verletzungen: unverletzt. Dionysius als Fürsprecher: Ort: im hellen Hintergrund; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Heller langer Mantel über schlichtem weißem Gewand. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: Heiliger im Jenseitsbild; Verletzungen: unverletzt. Engel der Seelenrettung: Ort: am Rand des Lichtes; Körperhaltung: mit gesenkten zwei Flügeln schwebend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes langes Gewand, keine Rüstung und keine Klinge.; Fortbewegung: fliegend; Lebenszustand: Engelsgestalt; Verletzungen: unverletzt.
+Erzählertext: Die Sage endet mit Gnade, nicht mit einer Rückkehr ins irdische Königtum. Der Abschied von seinem Leben blieb bestehen.
+Dialoge: keine
+Kontinuität / Änderung: Überlieferter religiöser Schluss, keine körperliche Wiederauferstehung im Königreich.

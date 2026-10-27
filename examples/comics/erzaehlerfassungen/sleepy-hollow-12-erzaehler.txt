@@ -1,0 +1,154 @@
+TITEL: Der kopflose Reiter – Die letzte Brücke · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ichabod Crane auf dem Heimritt
+Aussehen: Langer dünner erwachsener Mann mit schmalem Gesicht, langer Nase und braunem Haar bis zu den Ohren.
+Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Abergläubischer Schulmeister und Bewerber um Katrina. Verschwindet nach dem Sturz; sein Tod wird nicht bestätigt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Katrina Van Tassel beim Fest
+Aussehen: Junge erwachsene Frau mit blondem geflochtenem Haar und freundlichem rundem Gesicht.
+Kleidung: Schlichtes cremefarbenes Festkleid und dunkelgrünes Schultertuch.
+Persönlichkeit und Vorgeschichte: Umworbene Gastgebertochter. Ihr Auftreten beim Fest begründet Ichabods Konkurrenz zu Brom, ohne ihre Gedanken zu erfinden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Brom Bones nach dem Fest
+Aussehen: Kräftiger erwachsener Mann mit kurzem braunem Haar und breitem Gesicht.
+Kleidung: Braune kurze Reitjacke, rote Weste und dunkle Hose.
+Persönlichkeit und Vorgeschichte: Ichabods Rivale. Seine auffällige Reaktion ist eine Spur, kein Beweis seiner Identität als Verfolger.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gunpowder das Pferd des Schulmeisters
+Aussehen: Älteres mageres braunes Pferd mit grauer Mähne und heller länglicher Stirnzeichnung. Genau vier Beine.
+Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.
+Persönlichkeit und Vorgeschichte: Trägt Ichabod durch die gesamte Verfolgung bis zum Sturz. Kein magischer Gestaltwechsel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Unbekannter nächtlicher Reiter
+Aussehen: Dunkle menschenähnliche Reitergestalt; Hals- und Kopfbereich durch hohen Mantelkragen und Nacht so verdeckt, dass kein Kopf auf den Schultern erkennbar ist.
+Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.
+Persönlichkeit und Vorgeschichte: Bleibt unidentifiziert. Trägt und wirft einen runden Gegenstand, dessen Erscheinung Ichabods Furcht prägt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dunkles Pferd des unbekannten Reiters
+Aussehen: Großes schwarzes Pferd mit schwarzer Mähne und ohne helle Gesichtszeichnung. Genau vier Beine.
+Kleidung: Schwarzer Sattel und dunkles Zaumzeug.
+Persönlichkeit und Vorgeschichte: Trägt den Verfolger; bleibt vom mageren braunen Gunpowder klar unterscheidbar.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein ungleicher Wettbewerb
+Ort und Zeit: Fest im Haus der Van Tassels
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Katrina Van Tassel beim Fest, Brom Bones nach dem Fest
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ichabod spricht steif mit Katrina. Brom steht in Sichtweite, breit und selbstsicher. Namenlose Gäste und schlichtes Kerzenlicht, keine bereits anwesende Geistergestalt. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: vor Katrina; Körperhaltung: stehend; Mitgeführte Gegenstände: schwarzer Hut in beiden Händen; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Katrina Van Tassel beim Fest: Ort: am Rand des Tanzbodens; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichtes cremefarbenes Festkleid und dunkelgrünes Schultertuch.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Brom Bones nach dem Fest: Ort: neben den Gästen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune kurze Reitjacke, rote Weste und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Beim Fest warb Ichabod um Katrina. Brom Bones, sein selbstsicherer Rivale, hatte dasselbe Ziel.
+Dialoge: keine
+Kontinuität / Änderung: keine
+
+KACHEL 2: Die Geschichte vor dem Ritt
+Ort und Zeit: Festsaal später am Abend
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Brom Bones nach dem Fest
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Zwischen Ichabod und Brom erzählen namenlose Gäste vom kopflosen Reiter. Der Schulmeister hört angespannt zu. Die Kerzen werfen natürliche Schatten, doch kein wirklicher Reiter erscheint im Raum. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hut auf den Knien; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Brom Bones nach dem Fest: Ort: gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune kurze Reitjacke, rote Weste und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Später hörte Ichabod vom kopflosen Reiter. Angeblich könne der Schrecken niemandem über die Brücke folgen.
+Dialoge: keine
+Kontinuität / Änderung: Nur überlieferte Festgeschichte, kein objektiv bestätigtes Gesetz der Welt.
+
+KACHEL 3: Der Heimweg
+Ort und Zeit: Waldweg nach dem Fest
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Abschied hat Ichabod seinen Hut aufgesetzt und Gunpowder bestiegen. Er reitet allein am Waldrand. Das Haus ist bereits weit entfernt. Keine zweite Ichabodfigur zu Fuß am Weg. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf Gunpowder; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen; Hut auf dem Kopf; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: unter Ichabod auf dem Waldweg; Körperhaltung: langsam gehend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auf dem Heimritt begleitete ihn die Geschichte. Der dunkle Weg wurde für den abergläubischen Schulmeister zur Prüfung seiner Angst.
+Dialoge: keine
+Kontinuität / Änderung: Ab hier beritten bis zum entscheidenden Sturz; Zügel beim Reiter, beide Füße in Steigbügeln.
+
+KACHEL 4: Etwas wartet
+Ort und Zeit: Biegung am dunklen Waldweg
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters, Unbekannter nächtlicher Reiter, Dunkles Pferd des unbekannten Reiters
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Auf der rechten Wegseite steht der unbekannte Reiter unter tiefen Zweigen. Ichabod hält sein braunes Pferd in mehreren Metern Abstand an. Die dunkle Halskontur ist verdeckt, nicht als blutige Abtrennung gezeigt. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf dem braunen Pferd an der Biegung; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: vor der Biegung; Körperhaltung: stehend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unbekannter nächtlicher Reiter: Ort: auf dem schwarzen Pferd unter den Bäumen; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links, runder dunkler Gegenstand rechts; Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Schwarzes Pferd ohne helle Stirnzeichnung. Dunkles Pferd des unbekannten Reiters: Ort: seitlich des Weges; Körperhaltung: stehend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Schwarzer Sattel und dunkles Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ein unbekannter Reiter wartete am Weg. Unter den Zweigen ließ sich sein Umriss nicht eindeutig erkennen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Reiter auf zwei verschiedenen Pferden. Noch keine Verfolgung und kein Absteigen.
+
+KACHEL 5: Der vermeintliche Kopf
+Ort und Zeit: Waldweg neben der Biegung
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Unbekannter nächtlicher Reiter, Dunkles Pferd des unbekannten Reiters, Gunpowder das Pferd des Schulmeisters
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Beide reiten nun nebeneinander mit Abstand. Auf Höhe des rechten Knies des Fremden ist ein runder dunkler Gegenstand zu sehen. Kein Gesicht, keine Kürbisschnitzerei und keine eindeutige Wunde. Ichabod blickt von der dunklen Schulterpartie auf den Gegenstand. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf Gunpowder im Vordergrund; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: unter Ichabod; Körperhaltung: gehend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unbekannter nächtlicher Reiter: Ort: auf dem schwarzen Pferd seitlich dahinter; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links, runder dunkler Gegenstand rechts; Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Schwarzes Pferd ohne helle Stirnzeichnung. Dunkles Pferd des unbekannten Reiters: Ort: unter dem Verfolger; Körperhaltung: gehend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Schwarzer Sattel und dunkles Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ichabod Crane auf dem Heimritt
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sein Kopf …“
+Kontinuität / Änderung: Subjektive Benennung durch Ichabod, keine objektive Bestätigung eines echten Kopfes.
+
+KACHEL 6: Jeder Schritt gespiegelt
+Ort und Zeit: Gerade zwischen hohen Bäumen
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters, Unbekannter nächtlicher Reiter, Dunkles Pferd des unbekannten Reiters
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ichabod hat das Tempo erhöht. Der andere hält mit und bleibt rechts einige Pferdelängen hinter ihm. Die Bildachse zeigt den Weg nach vorn; keine plötzlich vertauschten Richtungen. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf Gunpowder vorn links; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: links auf dem Weg; Körperhaltung: trabend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unbekannter nächtlicher Reiter: Ort: auf dem schwarzen Pferd rechts zurückgesetzt; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links, runder dunkler Gegenstand rechts; Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Schwarzes Pferd ohne helle Stirnzeichnung. Dunkles Pferd des unbekannten Reiters: Ort: rechts auf dem Weg; Körperhaltung: trabend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Schwarzer Sattel und dunkles Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ichabod erhöhte das Tempo. Der Fremde hielt mit, und aus der unheimlichen Begegnung wurde eine Verfolgung.
+Dialoge: keine
+Kontinuität / Änderung: Beide noch im Sattel, runder Gegenstand beim Verfolger, Hut weiter auf Ichabods Kopf.
+
+KACHEL 7: Jetzt nur noch fort
+Ort und Zeit: Waldweg zur Brücke
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters, Unbekannter nächtlicher Reiter, Dunkles Pferd des unbekannten Reiters
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gunpowder galoppiert Richtung Brücke; der schwarze Reiter folgt aus derselben Richtung. Im Fernhintergrund ist der Anfang der Brücke erkennbar. Die Pferde haben je vier Beine, keine überlagerten Zusatzläufe. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf Gunpowder im Vordergrund; Körperhaltung: vorgebeugt im Sattel; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: auf dem Weg nach vorn; Körperhaltung: galoppierend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unbekannter nächtlicher Reiter: Ort: auf dem schwarzen Pferd dahinter; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links, runder dunkler Gegenstand rechts; Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Schwarzes Pferd ohne helle Stirnzeichnung. Dunkles Pferd des unbekannten Reiters: Ort: in der Spur des braunen Pferdes; Körperhaltung: galoppierend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Schwarzer Sattel und dunkles Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nun galoppierte Ichabod zur Brücke. Er setzte seine ganze Hoffnung auf die Grenze aus der Erzählung.
+Dialoge: keine
+Kontinuität / Änderung: Verfolgung eindeutig auf einer Wegachse. Niemand steht plötzlich neben seinem Pferd.
+
+KACHEL 8: Die vermeintliche Grenze
+Ort und Zeit: Mitte der alten Brücke
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters, Unbekannter nächtlicher Reiter, Dunkles Pferd des unbekannten Reiters
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ichabod ist bereits mitten auf der Brücke, der Verfolger erreicht erst ihren Anfang. Das andere Ende liegt deutlich vor dem braunen Pferd. Der Schulmeister schaut hoffnungsvoll vorwärts. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf Gunpowder in der Brückenmitte; Körperhaltung: vorgebeugt im Sattel; Mitgeführte Gegenstände: Zügel in beiden Händen; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: auf den Brückenplanken; Körperhaltung: galoppierend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unbekannter nächtlicher Reiter: Ort: auf dem schwarzen Pferd am Brückenanfang; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links, runder dunkler Gegenstand rechts; Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Schwarzes Pferd ohne helle Stirnzeichnung. Dunkles Pferd des unbekannten Reiters: Ort: am nahen Brückenende; Körperhaltung: galoppierend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Schwarzer Sattel und dunkles Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ichabod Crane auf dem Heimritt
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dort drüben bin ich sicher.“
+Kontinuität / Änderung: Die Sicherheit ist Ichabods Glaube. Er bleibt bis nach dem Brückenende beritten.
+
+KACHEL 9: Der Wurf
+Ort und Zeit: Weg unmittelbar jenseits der Brücke
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters, Unbekannter nächtlicher Reiter, Dunkles Pferd des unbekannten Reiters
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der runde Gegenstand fliegt bereits durch die Luft auf Ichabod zu. Die rechte Hand des Verfolgers ist leer und ausgestreckt. Kein zweiter Gegenstand in seinem Arm. Ichabod sitzt noch im Sattel, der Hut noch auf dem Kopf. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: auf Gunpowder knapp hinter dem fernen Brückenende; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links, rechte Hand hebt sich schützend; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Gunpowder, mageres braunes Pferd mit heller Stirnzeichnung. Gunpowder das Pferd des Schulmeisters: Ort: jenseits der Brücke; Körperhaltung: galoppierend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unbekannter nächtlicher Reiter: Ort: auf dem schwarzen Pferd hinter ihm; Körperhaltung: im Sattel sitzend; Mitgeführte Gegenstände: Zügel links; rechte Hand nach dem Wurf leer; Kleidung: Langer schwarzer Mantel, dunkle Handschuhe und Stiefel. Keine sichtbaren Wunden oder Waffen.; Fortbewegung: beritten; Lebenszustand: lebend; Verletzungen: unverletzt; Reittier / Fahrzeug: Schwarzes Pferd ohne helle Stirnzeichnung. Dunkles Pferd des unbekannten Reiters: Ort: am fernen Brückenende; Körperhaltung: galoppierend; Mitgeführte Gegenstände: Zaumzeug im Maul; Kleidung: Schwarzer Sattel und dunkles Zaumzeug.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Verfolger warf den runden Gegenstand nach ihm. Die vermeintlich sichere Grenze bewahrte Ichabod nicht vor dem Wurf.
+Dialoge: keine
+Kontinuität / Änderung: Gegenstand geworfen, kein blutiger Kopf. Brücke bot keinen verlässlich sichtbaren Schutz.
+
+KACHEL 10: Aus dem Sattel
+Ort und Zeit: Weg jenseits derselben Brücke
+Sichtbare Figuren: Ichabod Crane auf dem Heimritt, Gunpowder das Pferd des Schulmeisters
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Treffer stürzt Ichabod seitlich aus dem Sattel. Beide Füße lösen sich aus den Steigbügeln, sein schwarzer Hut fällt gesondert zu Boden. Der getroffene runde Gegenstand ist außerhalb des engen Bildausschnitts. Kein zweiter sitzender Ichabod und kein bestätigter Tod. Verbindliche Zustände: Ichabod Crane auf dem Heimritt: Ort: seitlich neben Gunpowder; Körperhaltung: aus dem Sattel fallend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkler langer Rock, helle Weste, braune Hose, hohe Stiefel und schwarzer breiter Hut. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Sturz, keine sichtbaren Wunden. Gunpowder das Pferd des Schulmeisters: Ort: direkt neben dem fallenden Reiter; Körperhaltung: weiter galoppierend; Mitgeführte Gegenstände: lose Zügel am Zaum; Kleidung: Brauner Sattel, dunkle Zügel und einfacher Sattelgurt.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nach dem Treffer stürzte er aus dem Sattel. Sein Hut fiel gesondert auf den Weg.
+Dialoge: keine
+Kontinuität / Änderung: Erster Verlust des Sattels. Reiter und Pferd getrennt; Verfolger hier außerhalb des Bildes.
+
+KACHEL 11: Der Morgenfund
+Ort und Zeit: Dieselbe Wegstelle am nächsten Morgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am folgenden Morgen liegen der schwarze Hut und die Stücke eines zerbrochenen gewöhnlichen orangefarbenen Kürbisses auf der Straße. Zwei namenlose Suchende stehen daneben. Kein Kopf, kein Blut und kein Körper des Schulmeisters.
+Erzählertext: Am nächsten Morgen war Ichabod verschwunden. Die Suchenden fanden seinen Hut und die Stücke eines Kürbisses.
+Dialoge: keine
+Kontinuität / Änderung: Ichabod verschwunden, nicht als tot bestätigt. Pferde und Reiter nicht am Fundort zeigen.
+
+KACHEL 12: Ein Lachen bleibt
+Ort und Zeit: Dorfstube einige Tage später
+Sichtbare Figuren: Brom Bones nach dem Fest
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Als andere namenlose Erwachsene von Hut und Kürbis erzählen, unterdrückt Brom ein auffälliges Lachen. Sein Gesicht ist lesbar, aber kein schwarzer Reitermantel liegt als Beweis im Raum. Keine Enthüllungsrückblende. Verbindliche Zustände: Brom Bones nach dem Fest: Ort: an einem Holztisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Hand vor dem Mund; Kleidung: Braune kurze Reitjacke, rote Weste und dunkle Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Brom lachte auffällig über die Geschichte. Ob Streich oder Spuk: Die Spuren bewiesen nicht, was in jener Nacht geschehen war.
+Dialoge: keine
+Kontinuität / Änderung: Mehrdeutiger Ausgang. Broms Reaktion kein Beweis; keine sichtbare Auflösung als Streich oder echter Geist.

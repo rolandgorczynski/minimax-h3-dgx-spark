@@ -1,0 +1,179 @@
+TITEL: Eisenhans – Der goldene Brunnen · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Königssohn
+Aussehen: Achtjähriger Junge mit schmalem Gesicht und braunem kurzem Haar. Ab dem dritten Brunnenvorfall ganzes Haupthaar golden; Alter bleibt acht.
+Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.
+Persönlichkeit und Vorgeschichte: Befreit Eisenhans, verletzt die Brunnenregel dreimal und muss den Wald verlassen. Sein Helfer bleibt erreichbar; kein erwachsener Krieger in dieser Episode.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Eisenhans
+Aussehen: Sehr großer wilder erwachsener Mann mit dichtem rostbraunem Körperhaar, langem Bart und dunklen Augen. Menschliche Anatomie mit zwei Armen und zwei Beinen.
+Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.
+Persönlichkeit und Vorgeschichte: Aus dem Käfig befreiter wilder Mann. Gibt dem Jungen Schutz und eine Aufgabe. Im Ausschnitt noch nicht zum König erlöst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Ball hinter den Stäben
+Ort und Zeit: Königshof beim verschlossenen Käfig
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Augenhöhe des Kindes. Junge links, Eisenhans rechts hinter klar geschlossener Käfigtür. Ein goldener Ball in der großen rechten Hand des Gefangenen. Keine zweite Kugel auf dem Hof und kein Schlüssel im Schloss. Verbindliche Zustände: Königssohn: Ort: links vor dem Käfig; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eisenhans: Ort: rechts im Käfig; Körperhaltung: hinter den Stäben sitzend; Mitgeführte Gegenstände: ein goldener Ball in der rechten Hand; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königssohn
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Gib mir meinen Ball.“
+Dialog 2:
+  Sprecher: Eisenhans
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn du mir die Tür öffnest.“
+Kontinuität / Änderung: Der Ball ist bereits in den Käfig gefallen. Der Gefangene bleibt eingesperrt bis zur ausdrücklich gezeigten Öffnung.
+
+KACHEL 2: Unter dem Kissen
+Ort und Zeit: Schlafkammer der Mutter am Königshof
+Sichtbare Figuren: Königssohn
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Enge Detailansicht. Der Junge hat einen einzelnen Schlüssel unter dem angehobenen Kopfkissen hervorgezogen. Bett leer, keine aufgeschreckte Königin oder erfundene Verfolgung. Der goldene Ball bleibt bei Eisenhans außerhalb des Bildes. Verbindliche Zustände: Königssohn: Ort: links am Bett; Körperhaltung: auf Zehenspitzen stehend; Mitgeführte Gegenstände: ein Schlüssel in der rechten Hand; linke Hand hebt das Kissen; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Junge fand den Käfigschlüssel unter dem Kopfkissen seiner Mutter. Damit kehrte er zum gefangenen Eisenhans zurück.
+Dialoge: keine
+Kontinuität / Änderung: Junge geht in die Kammer und holt genau einen Schlüssel. Kein weiterer Schlüssel am Gürtel, kein Ball plötzlich in seiner anderen Hand.
+
+KACHEL 3: Der Preis der offenen Tür
+Ort und Zeit: Wieder am Käfig im Königshof
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nahaufnahme der bereits aufgesprungenen Tür. Der Junge zieht den schmerzenden rechten Zeigefinger aus dem Türspalt; Schlüssel steckt im Schloss derselben Tür. Eisenhans noch auf der inneren Seite. Kein wildes Quetschblut und keine zweite Tür. Verbindliche Zustände: Königssohn: Ort: links an der offenen Käfigtür; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand an der Tür; linke Hand am Rahmen; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger frisch eingeklemmt, ohne offene Wunde. Eisenhans: Ort: rechts im offenen Käfig; Körperhaltung: stehend; Mitgeführte Gegenstände: ein goldener Ball rechts; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er öffnete den Käfig und klemmte sich dabei den Finger ein. Mit der Befreiung des Gefangenen geriet auch sein eigenes Leben in Bewegung.
+Dialoge: keine
+Kontinuität / Änderung: Schlüssel ins Schloss, Tür geöffnet, Finger eingeklemmt. Diese Zustandsänderungen sind erfolgt. Der Schlüssel bleibt im Schloss und reist später nicht unbemerkt mit.
+
+KACHEL 4: Der Ball ist wieder da
+Ort und Zeit: Hof vor dem jetzt leeren Käfig
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Eisenhans vollständig frei rechts, Käfig hinten offen und leer. Junge links hält den zurückgegebenen Ball links, schont rechts den verletzten Finger. Ein auffallend großer Abstand des Kindes zum Palast. Keine königlichen Wachen im Ansturm. Verbindliche Zustände: Königssohn: Ort: links vor Eisenhans; Körperhaltung: stehend; Mitgeführte Gegenstände: ein goldener Ball in der linken Hand; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger schmerzt. Eisenhans: Ort: rechts außerhalb des Käfigs; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königssohn
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn sie zurückkommen, bekomme ich Angst.“
+Dialog 2:
+  Sprecher: Eisenhans
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann komm mit mir.“
+Kontinuität / Änderung: Eisenhans ist ausgetreten und hat den Ball zurückgegeben. Der Käfig bleibt offen und leer. Der Junge folgt aus Angst, nicht als gewaltsam geraubtes Kind.
+
+KACHEL 5: Vom Hof fort
+Ort und Zeit: Waldweg außerhalb des Schlosses
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Rückenansicht. Zwei einzelne Gestalten gehen zu Fuß in den Wald, Palast klein hinter ihnen. Junge nicht plötzlich auf einem Pferd oder Eisenhans Rücken. Ball links am Körper, rechte Hand geschont. Kein erwachsener Junge in einer Zeitmontage. Verbindliche Zustände: Königssohn: Ort: links neben Eisenhans; Körperhaltung: gehend; Mitgeführte Gegenstände: ein goldener Ball in der linken Hand; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger schmerzt. Eisenhans: Ort: rechts auf dem Waldweg; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Aus Angst vor der Strafe ging der Junge mit Eisenhans fort. Der Königshof blieb hinter ihnen zurück.
+Dialoge: keine
+Kontinuität / Änderung: Beide gehen ausdrücklich zu Fuß in den Wald. Der Junge bleibt acht, braunhaarig und im gleichen Wams.
+
+KACHEL 6: Eine klare Grenze
+Ort und Zeit: Goldbrunnen im Wald, erster Morgen
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Übersicht auf klares Wasser in einer natürlichen Steinfassung. Eisenhans zeigt auf die Oberfläche, der Junge steht am Rand. Sein einer Ball liegt auf einem trockenen flachen Stein dahinter, weit genug gegen versehentliches Rollen. Keine goldenen Haare vorzeitig. Verbindliche Zustände: Königssohn: Ort: links am Brunnenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Ball liegt trocken auf flachem Stein; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger schmerzt. Eisenhans: Ort: rechts beim Brunnen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Wald erhielt er eine Aufgabe: Er sollte den Goldbrunnen hüten. Nichts durfte die klare Wasserfläche berühren.
+Dialoge: keine
+Kontinuität / Änderung: Ball wird vor Dienstbeginn auf dem trockenen Stein abgelegt. Auftrag gilt ab jetzt. Eisenhans geht nach der Erklärung fort; Junge bleibt am Brunnen.
+
+KACHEL 7: Nur den Finger
+Ort und Zeit: Derselbe Brunnen, später am ersten Tag
+Sichtbare Figuren: Königssohn
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Extreme Nahaufnahme. Ein rechter Zeigefinger berührt die klare Wasserfläche, am eingetauchten Teil beginnt goldener Glanz. Braunes Haar nur unscharf oben. Kein ganzer goldener Arm, kein Ball im Wasser; Ball bleibt trocken hinten. Verbindliche Zustände: Königssohn: Ort: links über dem Rand; Körperhaltung: kniend; Mitgeführte Gegenstände: rechter Zeigefinger im Wasser; linke Hand auf dem Steinrand; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger schmerzt noch beim Eintauchen.
+Erzählertext: Sein verletzter Finger schmerzte. Als er ihn ins Wasser tauchte, wurde er golden; die erste Grenze war überschritten.
+Dialoge: keine
+Kontinuität / Änderung: Erster Verstoß durch den schmerzenden Finger. Genau der rechte Zeigefinger vergoldet, nicht die Hand oder das Haar. Kein gleichzeitiger zweiter Verstoß.
+
+KACHEL 8: Die Hand hinter dem Rücken
+Ort und Zeit: Am Brunnen bei Eisenhans Rückkehr
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe im Profil. Junge verbirgt rechts die Hand hinter dem Rücken; der goldene Zeigefinger ist für den Leser sichtbar, Eisenhans sieht den ausweichenden Blick. Haar noch braun, Ball weiterhin auf dem flachen Stein im Hintergrund. Verbindliche Zustände: Königssohn: Ort: links vor Eisenhans; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand hinter dem Rücken; linke Hand leer; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden; keine offene Wunde. Eisenhans: Ort: rechts vor dem Jungen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Eisenhans
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Was ist ins Wasser gekommen?“
+Dialog 2:
+  Sprecher: Königssohn
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mein Finger.“
+Kontinuität / Änderung: Der goldene Finger bleibt golden. Keine Heilung zur normalen Haut. Eisenhans weiß vom Verstoß, gibt aber eine weitere Gelegenheit.
+
+KACHEL 9: Ein einzelnes Haar
+Ort und Zeit: Goldbrunnen am zweiten Tag
+Sichtbare Figuren: Königssohn
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nah auf die Oberfläche: genau ein vom Kopf gelöstes braunes Haar liegt im Wasser und glänzt an einer Stelle golden. Junge darüber weiterhin braunhaarig, kein langer goldener Zopf. Der goldene rechte Zeigefinger liegt trocken am Rand, Ball hinten unverändert. Verbindliche Zustände: Königssohn: Ort: links am Rand; Körperhaltung: kniend über den Rand gebeugt; Mitgeführte Gegenstände: beide Hände trocken auf dem Steinrand; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden.
+Erzählertext: Am zweiten Tag fiel ein einzelnes Haar hinein. Auch diesmal blieb die Berührung nicht folgenlos.
+Dialoge: keine
+Kontinuität / Änderung: Zweiter Verstoß: einzelnes abgelöstes Haar vergoldet im Wasser, noch nicht das ganze Kopfhaar. Ein anderer Tag, keine Montage mit erneutem Fingerbad.
+
+KACHEL 10: Noch einmal bleiben dürfen
+Ort und Zeit: Waldrand am Brunnen, nach dem zweiten Verstoß
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Beide stehen trocken außerhalb der Fassung. Eisenhans ruhig, nicht drohend mit einer Waffe. Junge mit braunem Haar und goldenem Zeigefinger. Ball bleibt auf dem gleichen Stein. Kein bereits fertiger goldener Jüngling. Verbindliche Zustände: Königssohn: Ort: links mit gesenktem Blick; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rostrotes knielanges Wams, braune Hose und weiche braune Schuhe. Keine Krone, keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden. Eisenhans: Ort: rechts am Brunnenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Eisenhans
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Auch ein Haar fällt nicht von selbst zurück.“
+Dialog 2:
+  Sprecher: Königssohn
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich passe auf.“
+Kontinuität / Änderung: Eisenhans erkennt auch den zweiten Verstoß; dritte Gelegenheit folgt. Es wird kein zusätzliches Verbot über die überlieferte Brunnenregel hinaus erfunden.
+
+KACHEL 11: Zu nah am eigenen Spiegel
+Ort und Zeit: Goldbrunnen am dritten Tag
+Sichtbare Figuren: Königssohn
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Klare Seitenansicht. Junge beugt den Kopf so tief vor, dass die vorderen Haare die Oberfläche berühren; das gesamte Haupthaar zeigt nun goldenen Glanz. Gesicht bleibt menschliche Haut, kein Goldkörper. Ball trocken auf dem Stein hinter ihm, Hände oben am Rand. Verbindliche Zustände: Königssohn: Ort: links über dem Wasser; Körperhaltung: weit über den Brunnen gebeugt; Mitgeführte Gegenstände: beide Hände auf dem Rand; Kleidung: Rostrotes Wams und braune Hose; Kopfhaar berührt das Wasser und wird ganz golden; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden.
+Erzählertext: Beim dritten Mal beugte er sich über sein Spiegelbild. Nun berührte sein Haar das Wasser und wurde vollständig golden.
+Dialoge: keine
+Kontinuität / Änderung: Dritter Verstoß durch Berührung des Haupthaars. Nach diesem Moment bleibt das gesamte Kopfhaar golden. Kein Rücksprung zu braunem Haar in den Schlussbildern.
+
+KACHEL 12: Es lässt sich nicht verstecken
+Ort und Zeit: Brunnenrand nach dem dritten Verstoß
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Junge versucht vergeblich, goldenes Haar mit beiden Händen zu bedecken; darunter bleibt Glanz sichtbar. Eisenhans rechts steht ernst. Kein neu eingeführter Hut. Ball weiterhin trocken hinten auf dem Stein. Verbindliche Zustände: Königssohn: Ort: links vor Eisenhans; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände am goldenen Kopfhaar; Kleidung: Rostrotes Wams und braune Hose; gesamtes Kopfhaar golden; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden. Eisenhans: Ort: rechts vor dem Jungen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Das goldene Haar ließ sich nicht verbergen. Nach den drei Verstößen musste der Junge Eisenhans und den Wald verlassen.
+Dialoge: keine
+Kontinuität / Änderung: Eisenhans kehrt zurück und erkennt den dritten Verstoß. Der Junge wird nicht sofort erwachsen; kein Kronentausch oder Schlachtbeginn.
+
+KACHEL 13: Gehen heißt nicht allein sein
+Ort und Zeit: Ausgang des Waldwegs
+Sichtbare Figuren: Königssohn, Eisenhans
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Einstellung. Junge vorn links, Eisenhans rechts in der Tiefe. Kein physisches Wegstoßen. Der Junge hat seinen Ball vom Stein wieder aufgenommen und hält ihn links, rechts goldener Zeigefinger sichtbar. Pfad hell in die unbekannte Ferne. Verbindliche Zustände: Königssohn: Ort: links vor dem Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein goldener Ball wieder in der linken Hand; Kleidung: Rostrotes Wams und braune Hose; gesamtes Kopfhaar golden; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden. Eisenhans: Ort: rechts zwischen den Bäumen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grobe dunkle Leinenhose, barfuß; kein Schwert und keine Königskrone.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königssohn
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und wenn ich nicht weiterweiß?“
+Dialog 2:
+  Sprecher: Eisenhans
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann ruf mich. Ich werde dir helfen.“
+Kontinuität / Änderung: Der Junge nimmt den Ball vor dem Aufbruch ausdrücklich wieder auf. Eisenhans bleibt im Wald. Hilfsversprechen beendet den Schutzraum, nicht die Beziehung.
+
+KACHEL 14: Der erste eigene Schritt
+Ort und Zeit: Weg außerhalb des Waldes
+Sichtbare Figuren: Königssohn
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Rückenansicht. Ein kleiner achtjähriger Junge mit eindeutig goldenem Haar geht zu Fuß ins offene Land. Rostrotes Wams bleibt gleich. Goldener Ball links, Wald hinter ihm. Keine Burg als bereits gewonnener Besitz, keine Braut, kein Pferd und keine Kriegergestalt. Verbindliche Zustände: Königssohn: Ort: mittig jenseits des Waldrands; Körperhaltung: vorwärts gehend; Mitgeführte Gegenstände: ein goldener Ball in der linken Hand; Kleidung: Rostrotes Wams und braune Hose; gesamtes Kopfhaar golden; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: rechter Zeigefinger golden.
+Erzählertext: Mit dem Ball und seinem veränderten Aussehen ging der Junge ins offene Land. Eisenhans hatte ihm Hilfe für kommende Not versprochen.
+Dialoge: keine
+Kontinuität / Änderung: Goldenes Haar und rechter goldener Finger bestehen fort. Offenes Ende des Jugendabschnitts; spätere Abenteuer ausdrücklich nicht als bereits geschafft zeigen.

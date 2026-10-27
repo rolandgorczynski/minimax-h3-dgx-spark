@@ -1,0 +1,104 @@
+TITEL: Die Heinzelmännchen – Die Nacht der Erbsen · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kölner Schneider
+Aussehen: Schmaler erwachsener Mann mit kurzem braunem Haar, müden Augen und kleinem Kinnbart.
+Kleidung: Weißes Hemd, dunkelgrüne Weste und braune Hose. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Verlässt sich auf nächtliche Hilfe und muss nach deren Verlust wieder selbst arbeiten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schneiderfrau
+Aussehen: Erwachsene Frau mit rundem Gesicht und dunklem Haar unter einer weißen Haube.
+Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.
+Persönlichkeit und Vorgeschichte: Will die unbekannten Helfer sehen. Legt Erbsen auf die Treppe und verletzt die Grenze ihrer heimlichen Hilfe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Nähendes Heinzelmännchen
+Aussehen: Winziger erwachsener menschenähnlicher Helfer mit kurzem weißem Bart und roter Zipfelmütze, zwei Armen und zwei Beinen.
+Kleidung: Graue kurze Jacke, rote Mütze, braune Hose.
+Persönlichkeit und Vorgeschichte: Ein Vertreter der unsichtbaren Arbeitsgruppe. Für den Leser sichtbar, vor der Falle nicht von den Menschen gesehen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Tragendes Heinzelmännchen
+Aussehen: Winziger erwachsener menschenähnlicher Helfer mit braunem Bart und blauer Zipfelmütze, zwei Armen und zwei Beinen.
+Kleidung: Beigefarbene kurze Jacke, blaue Mütze, braune Hose.
+Persönlichkeit und Vorgeschichte: Zweiter wiedererkennbarer Helfer. Verschwindet mit der Gruppe nach der Entdeckung, keine Rachehandlung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Was am Abend liegenbleibt
+Ort und Zeit: Kölner Schneiderwerkstatt am Abend
+Sichtbare Figuren: Kölner Schneider, Schneiderfrau
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Werkstatt. Links Schneider vor einem unfertigen braunen Rock, müde Hände. Rechts Treppe im Hintergrund und Frau im Türrahmen. Noch keine Erbsen auf den Stufen und keine Lampe in der Hand. Die Kleidung auf dem Tisch ist Arbeit, kein zusätzlicher Menschenkörper. Verbindliche Zustände: Kölner Schneider: Ort: links am Nähtisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Nadel in der rechten Hand; Kleidung: Weißes Hemd, dunkelgrüne Weste und braune Hose. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schneiderfrau: Ort: rechts an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kölner Schneider
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Das schaffe ich heute nicht mehr.“
+Kontinuität / Änderung: Arbeit bleibt unfertig liegen. Die unbekannten Helfer sind den Menschen noch nicht erschienen.
+
+KACHEL 2: Andere Hände
+Ort und Zeit: Dieselbe Werkstatt nachts
+Sichtbare Figuren: Nähendes Heinzelmännchen, Tragendes Heinzelmännchen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nah auf zwei winzige Helfer am einen unfertigen Rock. Rote Mütze links näht, blaue Mütze rechts hält Stoff. Menschen schlafen außerhalb des Raums, kein beobachtendes Gesicht im Türspalt. Nächtliches Fensterlicht genügt, keine schon entlarvende Lampe. Verbindliche Zustände: Nähendes Heinzelmännchen: Ort: links oben auf dem Tisch; Körperhaltung: am Stoff kniend; Mitgeführte Gegenstände: eine kleine Nadel in der rechten Hand; Kleidung: Graue kurze Jacke, rote Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Tragendes Heinzelmännchen: Ort: rechts am Tischrand; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Stück desselben braunen Stoffes in beiden Händen; Kleidung: Beigefarbene kurze Jacke, blaue Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nachts übernahmen die Heinzelmännchen die liegengebliebene Arbeit. Der Schneider schlief, während die winzigen Helfer seinen Rock fertig nähten.
+Dialoge: keine
+Kontinuität / Änderung: Helfer nur für den Leser sichtbar; Unsichtbarkeit für die Menschen ist nicht Transparenz ihrer Körper. Die Arbeitsgruppe gehört zur Kölner Sage, nicht zum Schuster-Märchen.
+
+KACHEL 3: Alles schon getan
+Ort und Zeit: Schneiderwerkstatt am nächsten Morgen
+Sichtbare Figuren: Kölner Schneider, Schneiderfrau
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Fertig genähter brauner Rock in Schneiders Händen, sauberer Tisch. Frau rechts schaut statt auf die Naht zur dunklen Treppe. Keine Helfer mehr im Bild. Gleicher Rock wie zuvor, nicht plötzlich Schuhpaar als Verwechslung mit einem anderen Märchen. Verbindliche Zustände: Kölner Schneider: Ort: links am fertigen Rock; Körperhaltung: stehend; Mitgeführte Gegenstände: fertiger brauner Rock in beiden Händen; Kleidung: Weißes Hemd, dunkelgrüne Weste und braune Hose. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schneiderfrau: Ort: rechts neben der Treppe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am Morgen war alles getan. Doch die Schneiderfrau wollte die unsichtbaren Helfer sehen und ihre heimliche Arbeit aufdecken.
+Dialoge: keine
+Kontinuität / Änderung: Tag danach; Arbeit fertig. Die Frau hat noch niemanden gesehen, plant erst die Entdeckung.
+
+KACHEL 4: Eine Falle aus Kleinigkeiten
+Ort und Zeit: Werkstatttreppe am folgenden Abend
+Sichtbare Figuren: Schneiderfrau
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Detail der Stufen. Frau verteilt trockene runde Erbsen aus einem Schälchen über die Tritte. Noch keine Heinzelmännchen auf der Treppe. Keine Lampe eingeschaltet, kein Klebstoff und keine Nägel. Geländer rechts schafft klare Fallrichtung. Verbindliche Zustände: Schneiderfrau: Ort: oben an der Treppe; Körperhaltung: kniend; Mitgeführte Gegenstände: ein Schälchen mit Erbsen in der linken Hand; rechte Hand streut; Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie streute Erbsen auf die Treppe und wartete im Dunkeln. Die Helfer sollten sich durch ein Geräusch verraten.
+Dialoge: keine
+Kontinuität / Änderung: Erbsen werden vor der Nacht ausgelegt. Schälchen danach abgestellt. Lampenlicht kommt ausdrücklich erst nach dem Sturz hinzu.
+
+KACHEL 5: Ein Geräusch im Dunkeln
+Ort und Zeit: Dieselbe Treppe in der Nacht
+Sichtbare Figuren: Nähendes Heinzelmännchen, Tragendes Heinzelmännchen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Seitliche Ansicht. Zwei winzige Helfer verlieren auf den Erbsen Halt, rote Mütze oben links, blaue darunter rechts. Erbsen rollen nach unten. Schwaches Nachtlicht, Menschen nicht im Bild, noch kein gelber Lampenkegel. Kein schwerer Schaden oder Blut. Verbindliche Zustände: Nähendes Heinzelmännchen: Ort: links auf den mittleren Stufen; Körperhaltung: auf Erbsen ausrutschend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue kurze Jacke, rote Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Tragendes Heinzelmännchen: Ort: rechts eine Stufe tiefer; Körperhaltung: rückwärts ins Rutschen geratend; Mitgeführte Gegenstände: leere Hände; Kleidung: Beigefarbene kurze Jacke, blaue Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In der Nacht gerieten die Heinzelmännchen auf den Erbsen ins Rutschen. Der Lärm lockte die Wartende herbei.
+Dialoge: keine
+Kontinuität / Änderung: Ausgelegte Erbsen lösen das Rutschen aus. Nicht zugleich als entdeckte Gruppe in einem taghellen Raum zeigen.
+
+KACHEL 6: Jetzt sieht sie sie
+Ort und Zeit: Fuß derselben Treppe, unmittelbar danach
+Sichtbare Figuren: Schneiderfrau, Nähendes Heinzelmännchen, Tragendes Heinzelmännchen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Frau rechts hebt genau eine leuchtende Lampe, gelber Kegel trifft erstmals die beiden kleinen Helfer. Erbsen liegen am Treppenfuß. Helfer unverletzt, erschrocken und sichtbar. Keine zweite Frau oben auf der Treppe, kein plötzliches Tageslicht. Verbindliche Zustände: Schneiderfrau: Ort: rechts am Treppenfuß; Körperhaltung: stehend; Mitgeführte Gegenstände: eine brennende Öllampe rechts; Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nähendes Heinzelmännchen: Ort: links unten auf der Stufe; Körperhaltung: am Boden sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue kurze Jacke, rote Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Tragendes Heinzelmännchen: Ort: mittig am Treppenfuß; Körperhaltung: auf Händen und Knien; Mitgeführte Gegenstände: leere Hände; Kleidung: Beigefarbene kurze Jacke, blaue Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Mit ihrer Lampe machte sie die Helfer sichtbar. Was sie aus Neugier gesucht hatte, erschreckte die Entdeckten.
+Dialoge: keine
+Kontinuität / Änderung: Frau eilt erst nach dem Geräusch mit der angezündeten Lampe herbei. Entdeckung beendet die heimliche Beziehung, nicht bloß einen gelungenen Streich.
+
+KACHEL 7: Was das Licht nicht hält
+Ort und Zeit: Werkstatttür in derselben Nacht
+Sichtbare Figuren: Schneiderfrau, Nähendes Heinzelmännchen, Tragendes Heinzelmännchen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Türansicht. Die beiden kleinen Helfer laufen ins Dunkel außerhalb, rote Mütze vor blauer; der Lichtkegel reicht nur bis zur Schwelle. Frau bleibt rechts zurück. Keine Gefangenen und keine vergebenden Rückkehrer in einem zweiten Hintergrundbild. Verbindliche Zustände: Schneiderfrau: Ort: rechts mit der Lampe; Körperhaltung: stehend; Mitgeführte Gegenstände: eine brennende Öllampe rechts; Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nähendes Heinzelmännchen: Ort: links hinter der Türschwelle; Körperhaltung: fortlaufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue kurze Jacke, rote Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Tragendes Heinzelmännchen: Ort: links knapp hinter dem roten Helfer; Körperhaltung: fortlaufend; Mitgeführte Gegenstände: leere Hände; Kleidung: Beigefarbene kurze Jacke, blaue Mütze, braune Hose.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Heinzelmännchen verließen das Haus und kehrten nicht zurück. Die Frau konnte sie mit ihrem Licht nicht halten.
+Dialoge: keine
+Kontinuität / Änderung: Helfer verschwinden nach der Entdeckung und kehren in dieser Fassung nicht zurück. Nicht das Wort verschwinden als gewaltsamen Tod auslegen.
+
+KACHEL 8: Wieder die eigenen Hände
+Ort und Zeit: Schneiderwerkstatt am späteren Morgen
+Sichtbare Figuren: Kölner Schneider, Schneiderfrau
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gleiche Komposition wie Kachel 1. Neuer unfertiger Stoff auf dem Tisch, Schneider näht selbst. Frau fegt die verbliebenen Erbsen vom Treppenfuß, Lampe aus auf der Fensterbank. Keine versteckte blaue oder rote Mütze im Hintergrund als Hoffnung auf sofortige Rückkehr. Verbindliche Zustände: Kölner Schneider: Ort: links am Nähtisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Nadel rechts und unfertiger Stoff links; Kleidung: Weißes Hemd, dunkelgrüne Weste und braune Hose. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Schneiderfrau: Ort: rechts an der Treppe; Körperhaltung: stehend; Mitgeführte Gegenstände: Besen in beiden Händen; Kleidung: Dunkelblaues Kleid und helle Schürze. Eine kleine Öllampe nur beim Entdecken.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Fortan musste der Schneider selbst arbeiten. Die Erbsen waren bald weggefegt; die verlorene Hilfe kam nicht wieder.
+Dialoge: keine
+Kontinuität / Änderung: Nach dem Fortgang bleibt die Arbeit liegen, bis Menschen sie tun. Schluss ohne erfundenes Wiederkommen nach Entschuldigung.

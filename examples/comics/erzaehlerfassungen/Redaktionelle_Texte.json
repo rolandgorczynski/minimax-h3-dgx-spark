@@ -1,6 +1,6 @@
 {
   "redaktion": "Codex – gezielte Erzählerbearbeitung vorhandener Skripte, keine Modellgenerierung",
-  "regel": "Kacheln 2, 4, 6 usw. erhalten nur Erzählertext. Übrige Kacheln enthalten entweder gesprochene Sprechblasen oder, falls kein Dialog vorliegt, nur Erzählertext. Nie beides in derselben Kachel.",
+  "regel": "Pro Geschichte gilt der angegebene Abstand: erste zehn Vergleichsfassungen jede zweite Kachel, weitere Fassungen jede dritte Kachel. Erzähler und Sprechblasen nie gleichzeitig. Ohne gesprochenen Dialog nur Erzähler.",
   "geschichten": [
     {
       "basis": "bremer-stadtmusikanten-10",
@@ -16,7 +16,8 @@
         "",
         "Auch aus dem Hof floh der Räuber. Die Tiere blieben zusammen im Haus. Nach Bremen kamen sie nie."
       ],
-      "sprechtexte": {}
+      "sprechtexte": {},
+      "intervall": 2
     },
     {
       "basis": "haensel-gretel-16",
@@ -42,7 +43,8 @@
         "1": [
           "Die weißen Kiesel zeigen uns im Mondlicht den Heimweg."
         ]
-      }
+      },
+      "intervall": 2
     },
     {
       "basis": "kalif-storch-12",
@@ -64,7 +66,8 @@
         "11": [
           "Ich bin wieder ein Mensch. Und mein Versprechen bleibt."
         ]
-      }
+      },
+      "intervall": 2
     },
     {
       "basis": "frau-holle-zwei-wege-12",
@@ -86,7 +89,8 @@
         "1": [
           "Die Spule ist im Brunnen? Dann hol sie zurück!"
         ]
-      }
+      },
+      "intervall": 2
     },
     {
       "basis": "sterntaler-8",
@@ -100,7 +104,8 @@
         "Da geschah das Wunder des Märchens: Sterne fielen vom Himmel und wurden zu Talern.",
         "Zugleich trug das Mädchen ein neues feines Hemd. Darin sammelte es die Taler, die ihm ein gesichertes Leben ermöglichten."
       ],
-      "sprechtexte": {}
+      "sprechtexte": {},
+      "intervall": 2
     },
     {
       "basis": "rumpelstilzchen-14",
@@ -127,7 +132,8 @@
         "9": [
           "Suche weitere Namen – auch dort, wo sonst niemand fragt."
         ]
-      }
+      },
+      "intervall": 2
     },
     {
       "basis": "dornroeschen-12",
@@ -145,7 +151,8 @@
         "",
         "Mit Dornröschen war das ganze Schloss erwacht. Die angehaltenen Tätigkeiten gingen weiter. Später feierten sie Hochzeit."
       ],
-      "sprechtexte": {}
+      "sprechtexte": {},
+      "intervall": 2
     },
     {
       "basis": "rapunzel-turm-16",
@@ -167,7 +174,8 @@
         "",
         "Ihre Tränen hatten ihm das Augenlicht zurückgegeben. Gemeinsam gingen sie weiter; kein Turm trennte sie mehr."
       ],
-      "sprechtexte": {}
+      "sprechtexte": {},
+      "intervall": 2
     },
     {
       "basis": "schneiderlein-riesen-12",
@@ -185,7 +193,8 @@
         "",
         "Als der Schneider unversehrt auftauchte, flohen die Riesen. Er zog weiter: Größer geworden war sein Ruf, nicht seine Kraft."
       ],
-      "sprechtexte": {}
+      "sprechtexte": {},
+      "intervall": 2
     },
     {
       "basis": "jorinde-joringel-12",
@@ -202,6 +211,1578 @@
         "Als er den Käfig mit der Blume berührte, erhielt Jorinde ihre menschliche Gestalt zurück. Der Käfig war leer.",
         "Doch er hörte nicht auf, als Jorinde frei war. Auch die anderen Gefangenen sollten wieder Menschen werden.",
         "Er löste auch ihren Zauber. Gemeinsam verließen die Befreiten das Schloss; niemand musste in seinem Käfig zurückbleiben."
+      ],
+      "sprechtexte": {},
+      "intervall": 2
+    },
+    {
+      "basis": "achtzig-tage-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Fogg hatte gewettet, die Erde in achtzig Tagen zu umrunden. Nun näherte sich die Reise ihrem entscheidenden Ende.",
+        "Nach vielen Verzögerungen erreichten Fogg und seine Gefährten England. Dort wartete Detektiv Fix auf ihn.",
+        "Fix hielt Fogg für einen gesuchten Dieb und ließ ihn festnehmen. Während Fogg eingesperrt war, lief die Frist weiter.",
+        "Dann kam die Nachricht: Der wirkliche Täter war gefasst. Fix musste seinen Irrtum eingestehen und Fogg freilassen.",
+        "",
+        "Nach Foggs eigener Tageszählung kamen sie zu spät. Er hielt die Wette für verloren.",
+        "Zurück in London zog er sich niedergeschlagen in sein Haus zurück. Aouda und Passepartout waren bei ihm geblieben.",
+        "",
+        "Fogg und Aouda wollten heiraten. Passepartout sollte nachfragen, ob die Trauung am vermeintlich nächsten Montag möglich sei.",
+        "",
+        "",
+        "Die Reise nach Osten hatte ihnen einen Kalendertag gewonnen. Nun blieb noch Zeit, den Club rechtzeitig zu erreichen.",
+        "",
+        "Fogg gewann die Wette. Doch seine Verbindung mit Aouda war ihm wichtiger geworden als der Geldgewinn."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "alice-kleine-tuer-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Alice folgte dem Kaninchen in seinen Bau. Der Weg führte plötzlich tief hinunter in eine fremde Welt.",
+        "In einer Halle fand sie den Schlüssel zu einem Garten. Doch die Tür war viel zu klein für sie.",
+        "Ein Trank ließ sie schrumpfen. Nun passte Alice durch die Tür, aber der Schlüssel lag unerreichbar auf dem Tisch.",
+        "",
+        "Der Kuchen kehrte das Problem um: Jetzt war Alice so groß, dass sie sich in der Halle kaum bewegen konnte.",
+        "Vor Verzweiflung weinte sie. Ihre riesigen Tränen sammelten sich zu einem See auf dem Boden.",
+        "",
+        "Der Fächer des Kaninchens ließ sie wieder schrumpfen. Als winziges Mädchen stand sie nun vor ihren eigenen, tiefen Tränen.",
+        "",
+        "Zusammen mit den Tieren erreichte Alice festen Boden. Der Garten blieb vorerst unerreichbar.",
+        "Am Ufer hatten alle dieselbe Sorge: Sie waren nass und mussten wieder trocken werden. Der nächste Schritt zählte jetzt."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "beowulf-grendel-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Grendel suchte Heorot in den Nächten heim. Die Halle, einst Treffpunkt der Menschen, war zum Ort der Angst geworden.",
+        "Beowulf hörte von ihrer Not und kam mit seinen Gefährten über das Meer. Er wollte den Menschen die Halle zurückgeben.",
+        "Hrothgar empfing ihn. Beowulf versprach, die nächste Nacht in Heorot zu bleiben und Grendel entgegenzutreten.",
+        "Während seine Gefährten schliefen, hielt Beowulf Wache. Er wartete ohne Schwert auf den Angreifer.",
+        "In der Nacht trat Grendel durch das Hallentor. Diesmal fand er jemanden, der ihm nicht auswich.",
+        "Beowulf packte Grendels Arm mit bloßen Händen. Der Kampf begann zwischen den Bänken der Halle.",
+        "Die Bank kippte, doch Beowulf ließ nicht los. Grendel musste vor seinem Griff zurückweichen.",
+        "Tödlich verwundet floh Grendel in die Dunkelheit. Beowulf blieb erschöpft in der beschädigten Halle zurück.",
+        "Am Morgen sah Hrothgar die Spuren des Kampfes. Die Nacht hatte ihre Macht über Heorot verloren.",
+        "Die Menschen kehrten an die Tische zurück. Beowulfs Sieg bedeutete, dass sie wieder gemeinsam und sicher leben konnten."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "beowulf-wiglaf-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Ein Dieb nahm einen Becher aus dem bewachten Schatz. Damit störte er die Ruhe des Drachen.",
+        "Der Drache verwüstete das Land. Sein Zorn traf auch Menschen, die nichts mit dem Diebstahl zu tun hatten.",
+        "Beowulf war inzwischen ein alter König. Trotzdem wollte er sich der Gefahr stellen, die sein Volk bedrohte.",
+        "Vor der Drachenhöhle standen Beowulf, Wiglaf und die anderen Gefährten. Noch war niemand aus dem Kampf zurückgewichen.",
+        "Als Beowulf dem Drachen entgegentrat, zog er seine einzige Klinge. Der Gegner hielt dem ersten Angriff stand.",
+        "Hinter ihm wichen die Gefährten zurück. Nur Wiglaf blieb dem Kampf zugewandt.",
+        "",
+        "Wiglaf eilte Beowulf zu Hilfe. Gemeinsam stellten sie sich dem Drachen, statt ihn dem alten König allein zu überlassen.",
+        "Der Drache war besiegt. Doch Beowulf hatte eine tödliche Verletzung erlitten; der Sieg konnte ihn nicht retten.",
+        "",
+        "Wiglaf hielt seine Hand, als Beowulf starb. Er blieb auch in dem Augenblick, in dem keine Hilfe mehr möglich war.",
+        "Ohne den König musste die Gemeinschaft weiterleben. Die Gefahr war bezwungen, ihre Zukunft aber noch offen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "bergmanndli-grenzen-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Bergsage gibt den Gemsen eigene Hüter. Ein Jäger verfolgt ihre Herde bis in die hohen Felsen.",
+        "",
+        "Der Berggeist versprach ihm jede Woche Nahrung, wenn er keine weitere Gemse schoss. Doch der versorgte Jäger wollte mehr.",
+        "",
+        "Als der Jäger erneut schoss, riss der Hüter ihn vom Fels. Die Geschichte schildert die Strafe als grausame Drohung.",
+        "Der Jäger kehrte nicht zurück. Nicht Hunger, sondern die missachtete Grenze hatte ihn erneut auf den Berg getrieben.",
+        "Ein anderer Erzählfall handelt von Hans Bucher. Am Rümligbach wollte er Forellen fangen, die ein weiterer Berggeist hütete.",
+        "",
+        "Bucher kam lebend, aber schwer geschwächt nach Hause. Der Sage zufolge blieb eine Körperseite dauerhaft beeinträchtigt.",
+        "Von da an stieg er nicht mehr zum Jagen und Fischen hinauf. Die Begegnung hatte seinen Alltag verändert.",
+        "",
+        "Im dritten Fall verspottete Heinrich Immlin den kleinen Warner. Er hielt dessen geringe Größe für ein Zeichen von Schwäche.",
+        "Die kleine Gestalt überwältigte ihn und drückte ihn an den Fels. Immlin verlor das Bewusstsein.",
+        "Seine Begleiter fanden ihn und führten ihn heim. Die drei Sagengeschichten erzählen von Grenzen, die Stärke nicht aufhebt."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "blaues-licht-brunnen-10",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Der verwundete Soldat musste für seine Unterkunft arbeiten. Schließlich ließ die Frau ihn hinab, um ein blaues Licht zu holen.",
+        "Am Grund des Brunnens fand er die Lichtschale. Noch war er auf das Seil und die Hilfe der Frau angewiesen.",
+        "",
+        "Als er das Licht erst oben übergeben wollte, ließ sie ihn wieder fallen. Nun saß er mit der Flamme in der Tiefe fest.",
+        "Er entzündete seine Pfeife am blauen Licht. Diese gewöhnliche Handlung rief einen unerwarteten Helfer hervor.",
+        "",
+        "Der kleine Helfer brachte ihn über den Brunnenrand. Der Soldat behielt die Lichtschale bei sich.",
+        "Mit dem Licht verließ er das Haus. Seine Not war noch nicht vorbei, aber der Gewalt der Frau war er entkommen."
+      ],
+      "sprechtexte": {
+        "1": [
+          "Verwundet haben sie mich entlassen. Kann ich hier bleiben?"
+        ]
+      }
+    },
+    {
+      "basis": "daedalus-ikarus-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Dädalus wurde auf Kreta festgehalten. Weil Land und Meer bewacht waren, suchte er einen Weg durch die Luft.",
+        "Für sich und seinen Sohn baute er Flügel aus Federn und Wachs. Die Befestigung musste ihr Gewicht tragen können.",
+        "Vor dem Aufbruch prüfte er die Flügel. Seine Erfindung eröffnete einen Fluchtweg, blieb aber an ihre Materialien gebunden.",
+        "",
+        "Gemeinsam flogen Vater und Sohn über das Meer. Zunächst hielten beide die schmale, sichere Flughöhe ein.",
+        "Die Freude am Fliegen wurde für Ikarus größer als die Warnung. Er wollte über die bisherige Flugbahn hinaussteigen.",
+        "Er stieg höher und entfernte sich von seinem Vater. Damit kam er der Hitze der Sonne näher.",
+        "Das Wachs wurde weich. Als die Federn sich lösten, verlor das künstliche Flügelpaar seinen Zusammenhalt.",
+        "Die beschädigten Flügel trugen Ikarus nicht mehr. Er stürzte ins Meer.",
+        "",
+        "Dädalus suchte vergeblich nach seinem Sohn. Auf dem Wasser blieben nur Federn zurück.",
+        "Der Vater erreichte Land. Seine Erfindung hatte die Flucht ermöglicht, aber sie brachte ihm den Sohn nicht zurück."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "dagoberts-zeichen-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Sage erzählt von König Dagoberts Macht und seiner Zuneigung zu den Hunden. Nach seiner Mahlzeit ließ er sie füttern.",
+        "Mit Hilfe der Hunde soll er die Ruhestätte des Dionysius entdeckt haben. Seitdem verehrte er den Heiligen.",
+        "Im Rheintal ließ er einen Halbmond als Reichsgrenze in den Fels hauen. Sein Zeichen konnte Macht zeigen, den Tod aber nicht abhalten.",
+        "",
+        "Nach seinem Tod geriet seine Seele im religiösen Bild der Sage in die Gewalt der Teufel. Seine Schuld war nicht aufgehoben.",
+        "Dionysius bat um die Erlaubnis, Dagobert zu helfen. Aus der Verehrung zu Lebzeiten wurde in der Sage rettende Fürsprache.",
+        "Mit Engeln und weiteren Heiligen folgte Dionysius dem Schiff. Auf ihm wurde Dagoberts Seele fortgebracht.",
+        "Zwischen Licht und Dunkel wurde um die Seele gestritten. Die königliche Macht spielte dabei keine rettende Rolle mehr.",
+        "Die Fürsprecher entrissen die Seele den Teufeln. Dagobert wurde aus ihrer Gewalt genommen.",
+        "Die Sage endet mit Gnade, nicht mit einer Rückkehr ins irdische Königtum. Der Abschied von seinem Leben blieb bestehen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "dietrich-sigenot-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Dietrich hatte den Zwerg befreit. Zum Dank erhielt er einen kleinen Zauberstein, dessen Schutz er noch nicht brauchte.",
+        "",
+        "Gegen Sigenot genügte seine Kraft nicht. Dietrich verlor den Kampf; sein Schwert lag unerreichbar am Boden.",
+        "Sigenot warf ihn in eine Schlangengrube. Aus eigener Kraft konnte Dietrich die hohen Wände nicht überwinden.",
+        "",
+        "Als Dietrich ausblieb, machte Hildebrand sich auf die Suche. Sein Gefährte musste nicht vergessen im Wald bleiben.",
+        "Doch auch Hildebrand wurde zunächst gefangen. Noch lag Dietrich unten in der Grube.",
+        "Hildebrand löste seine Fessel, öffnete die Absperrung und nahm sein Schwert wieder an sich. Nun konnte er Sigenot entgegentreten.",
+        "",
+        "Nach Hildebrands Sieg kam auch der befreite Zwerg zu Hilfe. Gemeinsam ließen sie ein Seil zu Dietrich hinab.",
+        "",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "drachen-lindwuermer-grube-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Eine Pilatussage erzählt von einem Küfer, der Holz für seine Fässer suchte. Im Nebel verlor er den Weg.",
+        "Als die Nacht kam, stürzte er in eine tiefe Grube. Beil und Korb blieben oben zurück.",
+        "Am Morgen erkannte er zwei Höhlen und ihre Bewohner: zwei Lindwürmer. Die Wände waren zu hoch für einen Ausweg.",
+        "Er fürchtete die Drachen. Doch keiner griff ihn an; er musste mit ihnen in der Grube ausharren.",
+        "Die Sage lässt ihn wie die Lindwürmer an feuchten, salzigen Felsen Nahrung finden. So überstand er die erste Entbehrung.",
+        "Ein ganzer Winter verging. Der Küfer blieb am Leben, doch Hunger und Eingeschlossensein schwächten ihn.",
+        "Im Frühling flog der größere Lindwurm hinaus. Der Mann blieb mit dem kleineren zurück.",
+        "",
+        "Als auch der kleinere aufflog, hielt der Küfer sich an dessen Schwanz fest. Der gefürchtete Drache trug ihn aus der Grube.",
+        "Oben ließ er los und fand zu Menschen zurück. Die Rettung machte die lange Entbehrung nicht ungeschehen.",
+        "Er hielt sein Gelübde und stiftete das versprochene Kirchengewand. Seine Rettung sollte darauf sichtbar bleiben.",
+        "Der Küfer starb bald an den Folgen der Entbehrung. Die Sage bewahrte die Erinnerung an Hilfe von den vermeintlichen Feinden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "drei-federn-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Die nahe gelandete Feder führte den Jüngsten unter die Erde. Dort bat er eine große Kröte um Hilfe und erhielt einen Teppich.",
+        "",
+        "",
+        "Auch für den zweiten Vergleich suchte er die Helferin auf. Der goldene Ring, den sie ihm gab, übertraf die Funde seiner Brüder.",
+        "",
+        "",
+        "Bei der dritten Suche setzte er auf Rat der großen Kröte eine kleine grüne Kröte in einen Kürbiswagen.",
+        "Die kleine Kröte wurde zur jungen Frau, der Kürbis zur Kutsche. Der Jüngste hatte die unscheinbare Hilfe ernst genommen.",
+        "Die Brüder forderten zuletzt einen Sprung durch einen Reifen. Auch diese nachgeschobene Prüfung bestand seine Begleiterin.",
+        "Der König erkannte den Jüngsten als Nachfolger an. Nicht der längste Weg, sondern der aufmerksam gegangene hatte ihn weitergebracht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "drei-goldene-haare-16",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Nach der Frage nach dem versiegten Weinbrunnen wurde ihm ein zweites Rätsel anvertraut: Ein Baum trug keine goldenen Äpfel mehr.",
+        "",
+        "",
+        "In der Hölle half ihm die Großmutter des Teufels. Sie verwandelte ihn in eine Ameise und verbarg ihn in ihrem Gewand.",
+        "",
+        "",
+        "Mit dem dritten goldenen Haar erfuhr sie auch die letzte Antwort: Der Fährmann musste seine Stange einem anderen übergeben.",
+        "",
+        "",
+        "Erst nach der sicheren Überfahrt erklärte er dem Fährmann den Ausweg. Am Apfelbaum ließ er die wurzelfressende Maus entfernen.",
+        "Auch die Kröte wurde aus dem Weinbrunnen geholt. Danach floss wieder Wein; die Antworten hatten den Wartenden geholfen.",
+        "",
+        "Der König wollte selbst zum vermeintlichen Goldreichtum reisen. An der Fähre nahm er die Stange an und übernahm damit den Dienst.",
+        "Der frühere Fährmann war frei. Der König blieb zurück: Vor lauter Aussicht auf Gold hatte er die Folgen seines Griffs nicht bedacht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "duerst-alpsegen-8",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Pilatussage gibt der gefürchteten Nacht einen Namen: Dürst. Vor der Hütte des Hirten zog dunkles Wetter auf.",
+        "Im Sturm erschienen der wilde Nachtjäger und seine gespenstische Begleiterin. Ihr Zug kam über die Almen.",
+        "Der Wind rüttelte an der Hütte. Der Hirte sah nach seiner Kuh, während sich die Stalltür gegen den Pfosten drückte.",
+        "Ein Wirbel hob die Kuh von der Matte. Der Hirte griff nach dem Milchtrichter, um seinen Alpsegen über den Wind zu tragen.",
+        "",
+        "Im Schutzbild der Sage löste der rechtzeitige Segen den Zugriff des Dürst. Die Kuh sank behutsam auf die Matte zurück.",
+        "Der Hirte trat zu ihr und sah nach dem Tier. Was verloren schien, stand wieder vor seiner Hütte.",
+        "An späteren Abenden blieb der Alpsegen als Ruf über die Berge. Er trug die gemeinsame Hoffnung, Menschen und Tiere zu bewahren."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "eisenhans-goldbrunnen-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Der Junge fand den Käfigschlüssel unter dem Kopfkissen seiner Mutter. Damit kehrte er zum gefangenen Eisenhans zurück.",
+        "Er öffnete den Käfig und klemmte sich dabei den Finger ein. Mit der Befreiung des Gefangenen geriet auch sein eigenes Leben in Bewegung.",
+        "",
+        "Aus Angst vor der Strafe ging der Junge mit Eisenhans fort. Der Königshof blieb hinter ihnen zurück.",
+        "Im Wald erhielt er eine Aufgabe: Er sollte den Goldbrunnen hüten. Nichts durfte die klare Wasserfläche berühren.",
+        "Sein verletzter Finger schmerzte. Als er ihn ins Wasser tauchte, wurde er golden; die erste Grenze war überschritten.",
+        "",
+        "Am zweiten Tag fiel ein einzelnes Haar hinein. Auch diesmal blieb die Berührung nicht folgenlos.",
+        "",
+        "Beim dritten Mal beugte er sich über sein Spiegelbild. Nun berührte sein Haar das Wasser und wurde vollständig golden.",
+        "Das goldene Haar ließ sich nicht verbergen. Nach den drei Verstößen musste der Junge Eisenhans und den Wald verlassen.",
+        "",
+        "Mit dem Ball und seinem veränderten Aussehen ging der Junge ins offene Land. Eisenhans hatte ihm Hilfe für kommende Not versprochen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "fuerchten-drei-naechte-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "In der ersten Nacht fuhr das Bett mit ihm durch den Raum. Unbequem war die Fahrt, aber Furcht lernte er dabei nicht.",
+        "",
+        "",
+        "In der zweiten Nacht ließ der Spuk ihn mit geisterhaften Gestalten kegeln. Er behandelte die unheimlichen Dinge wie gewöhnliches Spielzeug.",
+        "",
+        "",
+        "In der dritten Nacht klemmte er den langen Bart des bedrohlichen Alten ein. Nun verlangte er zu erfahren, was dieser verbarg.",
+        "Der Alte führte ihn zu den Schätzen unter dem Schloss. Mit dieser letzten Begegnung endete der Spuk.",
+        "",
+        "Nach den drei Nächten heiratete er die Königstochter. Doch trotz aller bestandenen Schrecken fehlte ihm noch immer das Gruseln.",
+        "Seine Frau versuchte etwas ganz anderes. Sie nahm kaltes Wasser und kleine Fische mit an das Bett des Schlafenden.",
+        ""
+      ],
+      "sprechtexte": {
+        "14": [
+          "Ach, wie gruselt mir! Das kalte Wasser!"
+        ]
+      }
+    },
+    {
+      "basis": "fundevogel-versprechen-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Ein Förster fand ein verlassenes Kind im Baum. Er nahm es mit nach Hause und nannte es Fundevogel.",
+        "Fundevogel wuchs mit der Försterstochter Lenchen auf. Die beiden wurden einander so vertraut wie Geschwister.",
+        "Dann verriet die Köchin Sanne Lenchen ihren Plan: Fundevogel sollte im Kessel sterben. Lenchen musste ihn warnen.",
+        "",
+        "Auf der Flucht verwandelten sie sich: Fundevogel wurde zum Rosenstrauch, Lenchen zur Rose an ihm.",
+        "Die Verfolger suchten nach Kindern und übersahen die beiden. Ihr Versprechen hielt auch unter der ersten Verwandlung.",
+        "Beim nächsten Versuch wurden sie zur Kirche und zur Krone darin. Wieder fanden die Suchenden keine Kinder.",
+        "",
+        "Als Sanne selbst näherkam, wurde Fundevogel zum Teich und Lenchen zur Ente. Noch einmal verbargen sie sich gemeinsam.",
+        "Die Ente zog Sanne ins Wasser. Damit endete die Bedrohung durch die Köchin.",
+        "Danach nahmen Fundevogel und Lenchen ihre menschlichen Gestalten wieder an. Sie konnten zusammen heimkehren.",
+        "Der Förster empfing beide an derselben Tür. Ihr Versprechen hatte nicht nur Worte, sondern jede Gefahr überstanden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "gaensemagd-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Eine Königstochter reiste mit ihrer Dienerin zum zukünftigen Mann. Von der Mutter hatte sie ein schützendes Tuch erhalten.",
+        "An einem Bach verlor sie das Tuch. Damit ging ihr Schutz verloren, und die Dienerin nutzte ihre Schwäche aus.",
+        "Die Dienerin zwang sie zum Tausch von Kleidern und Pferden. Unter einem Eid musste die wirkliche Braut ihre Herkunft verschweigen.",
+        "",
+        "Am Hof bekam die vermeintliche Dienerin Arbeit bei den Gänsen. Die falsche Braut durfte im Schloss bleiben.",
+        "Die falsche Braut ließ Falada töten. Die Königstochter erbat nur, sein Haupt am Tor aufzubewahren.",
+        "",
+        "",
+        "Kürdchen berichtete dem alten König von Faladas Stimme und dem seltsamen Wind. Dieser wollte selbst beobachten, was geschah.",
+        "",
+        "",
+        "Weil sie Menschen nichts verraten durfte, erzählte sie ihr Leid dem kalten Ofen. Der König hörte unbemerkt zu.",
+        "",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "galler-moenche-wein-8",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "In der Sage schenkte Bischof Adalrich den St. Galler Mönchen ein großes Fass Wein. Ein Fuhrmann sollte es zur Abtei bringen.",
+        "Auf der steilen Rheinbrücke brach die Wagenachse. Das Geschenk fiel in den Fluss, noch bevor es den Keller erreichte.",
+        "",
+        "Der Strudel hielt das Fass an einer Stelle fest. Ohne ihn wäre es weiter in den See getrieben und kaum erreichbar gewesen.",
+        "Nach mehreren Versuchen griff die Seilschlinge um das unversehrte Fass. Gemeinsam zogen die Helfer es zum Ufer.",
+        "Mit grünen Zweigen geschmückt wurde das geborgene Fass zur Abtei gebracht. Aus der Verlustnachricht wurde ein Fest.",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "geheimer-garten-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Nach dem Tod ihrer Eltern kam Mary in das Haus ihres Onkels. Zwischen den vielen fremden Menschen blieb sie zunächst allein.",
+        "",
+        "Bei einem Spaziergang machte ein Rotkehlchen sie auf lockere Erde aufmerksam. Darin steckte ein vergrabener Schlüssel.",
+        "",
+        "Tage später bewegte der Wind den Efeu an der Mauer. Mary entdeckte die lange verborgene Gartentür.",
+        "Der Schlüssel passte ins rostige Schloss. Zum ersten Mal konnte Mary den verschlossenen Garten betreten.",
+        "",
+        "Nicht mit einem großen Eingriff, sondern bei wiederholten Besuchen begann sie zu jäten. Um die kleinen Triebe wurde Platz frei.",
+        "Dann vertraute Mary Dickon ihr Geheimnis an. Er zeigte ihr, welche Zweige noch lebten, und half ihr bei der Arbeit.",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "gespensterschiff-16",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "An Bord fanden die Schiffbrüchigen Tote, die sich nicht vom Holz lösen ließen. Auch der Kapitän haftete am Mast.",
+        "In der ersten Nacht bewegte sich die tote Besatzung. Die beiden Lebenden flohen vor dem gespenstischen Treiben unter Deck.",
+        "",
+        "Bei Tageslicht lagen die Toten wieder reglos da. Jetzt konnten Reisender und Diener das Schiff zur Küste steuern.",
+        "Doch in der nächsten Nacht änderten die Geister den Kurs. Was die Lebenden tagsüber gewonnen hatten, ging wieder verloren.",
+        "",
+        "Die Schutzbänder an den eingerollten Segeln hielten. Nun blieb der Tagesfortschritt bestehen, doch die Besatzung war noch gebunden.",
+        "",
+        "Mit Muleys Hilfe lösten sie die Toten mitsamt den Brettern vom Deck. Der Bann hielt ihre Körper am Holz fest.",
+        "Sobald die Toten mit der Erde in Berührung kamen, zerfielen sie zu Staub. So fanden die ersten Gebundenen Ruhe.",
+        "",
+        "Für den Kapitän brachten sie Erde an Bord. Was ihn noch am Mast festhielt, ließ sich damit ebenfalls lösen.",
+        "Er konnte den Ursprung des Fluches erzählen. Dann fand auch er Ruhe; seine Geschichte war nicht mit bloßer Flucht zu beenden.",
+        "Erst jetzt war das Schiff wieder ein Schiff ohne gefangene Besatzung. Die Lebenden konnten seine Schäden ausbessern."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "getreue-alte-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Vor Husum feierte die Stadt ein Winterfest auf dem Eis. Nur eine alte Schifferwitwe war in ihrem Haus am Damm geblieben.",
+        "",
+        "Sie erkannte die kleine Wolke im Westen als Gefahr für die Feiernden. Vom Fenster aus rief und winkte sie zum Eis hinaus.",
+        "Doch Musik und Festlärm übertönten die Warnung. Niemand bemerkte die Frau am Fenster.",
+        "",
+        "Sie konnte die Menschen nicht mehr rechtzeitig erreichen. Nun entschied sie sich, das eigene Haus als Warnsignal zu opfern.",
+        "Ihr Strohlager begann zu brennen. Das Feuer sollte die Blicke zum Damm und weg vom Fest lenken.",
+        "Auf Händen und Knien brachte sie sich über die Schwelle nach draußen. Ihr Haus blieb hinter ihr zurück.",
+        "Erst die Flammen erreichten die Aufmerksamkeit der Feiernden. Auf dem Eis wandten sie sich endlich dem Damm zu.",
+        "",
+        "Unter den zurückkehrenden Menschen begann das Eis zu pochen. Die Wettergefahr war keine ferne Vermutung mehr.",
+        "Die Letzten näherten sich dem Ufer. Das brennende Haus zeigte ihnen die Richtung zum sicheren Damm.",
+        "",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "goldener-vogel-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Nacht für Nacht verschwanden goldene Äpfel. Der jüngste Königssohn blieb wach und sah den Vogel, der sie nahm.",
+        "",
+        "Trotz der Warnung des Fuchses wählte er den goldenen Käfig. Der schöne Tausch löste Alarm aus.",
+        "",
+        "",
+        "Auch beim Pferd griff er nach der prächtigen Ausstattung. Der einfache Sattel blieb hängen, und der Alarm wiederholte sich.",
+        "",
+        "",
+        "Nach dem Plan des Fuchses tauschte er die Königstochter gegen das Pferd. Mit einer Bitte um Abschied bereitete er ihren Ausweg vor.",
+        "Der Abschied wurde zur gemeinsamen Flucht. Nun waren der junge Mann, die Königstochter und das Pferd wieder beisammen.",
+        "",
+        "Nach dem nächsten Tausch hatte er den Vogel, aber das Pferd war beim König. Ein letzter erbetener Ritt brachte auch das Pferd zurück.",
+        "",
+        "Mit Königstochter, Pferd und Vogel begann die Heimreise. Nicht größere Pracht, sondern der beachtete Rat hatte den Ausweg ermöglicht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "hagen-greifeninsel-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Ein Greif entführte den kleinen Hagen. Weit entfernt von seinen Eltern musste er in einer fremden Wildnis überleben.",
+        "",
+        "Dort fand er drei Königstöchter, die ebenfalls geraubt worden waren. Sie zeigten ihm den schützenden Unterschlupf.",
+        "",
+        "Sie teilten Nahrung, Wissen und Wache. Aus vier einsamen Gefangenen wurde eine Gemeinschaft.",
+        "Jahre vergingen. Hagen und seine Gefährtinnen wurden erwachsen; nun konnte er den Greifen entgegentreten.",
+        "Hagen stellte sich dem Greifen mit einem einfachen Stab. Hinter ihm lag der gemeinsame Schutzraum seiner Gefährtinnen.",
+        "Nach dem Kampf war der Weg offen. Die Befreiung sollte aber nicht nur Hagen allein zurück nach Hause führen.",
+        "Alle vier verließen die Insel gemeinsam und gelangten übers Meer. Niemand blieb in der bisherigen Gefangenschaft zurück.",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "hans-mein-igel-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Hans wurde mit einem Igeloberkörper geboren. Zu Hause sah sein Vater vor allem die Stacheln und wies ihn zurück.",
+        "Mit Dudelsack und Hahn verließ Hans das Dorf. Einen Platz bei den Menschen hatte er dort nicht gefunden.",
+        "Jahre vergingen. Als Erwachsener lebte er mit seiner Herde im Wald und spielte seinen Dudelsack hoch oben im Baum.",
+        "",
+        "",
+        "Der König versprach ihm das Erste, was ihm daheim begegnete. Als seine Tochter ihn begrüßte, wurde ihm die Tragweite bewusst.",
+        "",
+        "",
+        "Im Schloss wurde Hans in seiner bisherigen Gestalt angenommen. In der Hochzeitsnacht legte er selbst die Igelhaut ab.",
+        "Die Helfer verbrannten nur die bereits abgelegte Haut. Hans selbst war nicht im Feuer, brauchte danach aber Pflege.",
+        "",
+        "Nach der Pflege war Hans wieder kräftig genug für eine Reise. Als Mensch machte er sich auf den Weg zu seinem Vater.",
+        "",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "heinzelmaennchen-erbsen-8",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Nachts übernahmen die Heinzelmännchen die liegengebliebene Arbeit. Der Schneider schlief, während die winzigen Helfer seinen Rock fertig nähten.",
+        "Am Morgen war alles getan. Doch die Schneiderfrau wollte die unsichtbaren Helfer sehen und ihre heimliche Arbeit aufdecken.",
+        "Sie streute Erbsen auf die Treppe und wartete im Dunkeln. Die Helfer sollten sich durch ein Geräusch verraten.",
+        "In der Nacht gerieten die Heinzelmännchen auf den Erbsen ins Rutschen. Der Lärm lockte die Wartende herbei.",
+        "Mit ihrer Lampe machte sie die Helfer sichtbar. Was sie aus Neugier gesucht hatte, erschreckte die Entdeckten.",
+        "Die Heinzelmännchen verließen das Haus und kehrten nicht zurück. Die Frau konnte sie mit ihrem Licht nicht halten.",
+        "Fortan musste der Schneider selbst arbeiten. Die Erbsen waren bald weggefegt; die verlorene Hilfe kam nicht wieder."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "herakles-nemea-10",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Herakles fand den Löwen im offenen Land. Noch trug er dessen Fell nicht; erst musste er diese erste Aufgabe bestehen.",
+        "Sein Pfeil prallte ab. Das Fell des Löwen erwies sich als undurchdringlich für die gewohnte Waffe.",
+        "Auch ein Schlag mit der Keule blieb wirkungslos. Mehr Kraft mit demselben Mittel brachte keinen Fortschritt.",
+        "Herakles legte Bogen, Köcher und Keule ab. Nun waren beide Hände frei für einen anderen Weg.",
+        "Ohne Waffen stellte er sich dem Löwen im direkten Ringen. Die Nähe war gefährlich, doch das undurchdringliche Fell half dem Tier jetzt nicht.",
+        "Nach dem Kampf lag der Löwe tot am Boden. Herakles hatte ihn mit bloßen Händen bezwungen.",
+        "Er trug den ganzen Löwen zu Eurystheus zurück. Sein Auftraggeber sollte das Ergebnis selbst sehen.",
+        "Eurystheus erschrak vor dem bezwungenen Tier. Künftige Berichte sollte Herakles deshalb außerhalb der Stadt abgeben.",
+        "Erst nach diesem Sieg wurde das Fell zum Schutz des Helden. Es war das Ergebnis der Aufgabe, nicht seine ursprüngliche Ausrüstung."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "herdmanndli-ziehen-weg-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Sage erzählt von kleinen Helfern auf den Höfen. Die Menschen teilten ihre Nahrung, und die Herdmanndli halfen bei der Arbeit.",
+        "",
+        "Eines Tages schauten die Helfer nur zu. Aus Ärger machten die Heuer den vertrauten Sitzstein zu einer verborgenen Gefahr.",
+        "Die Männer beseitigten die sichtbaren Spuren ihres Streichs. Für die Rückkehrenden sah der Sitzplatz wie gewöhnlich aus.",
+        "",
+        "Ein zweiter Fall spielt im Haslital. Andere Bergmanndli saßen dort gern in den Zweigen eines Ahorns und sahen beim Heuen zu.",
+        "Auch hier wollten Menschen die Zuschauer demütigen. Sie machten die gewohnten Sitzäste unsicher, während die Helfer fort waren.",
+        "Als die kleinen Leute wieder Platz nahmen, brach der Halt. Der vertraute Baum war zur Falle geworden.",
+        "Nach dem Sturz richteten sie sich wieder auf und verließen den Ort. Sie kündigten an, nicht zurückzukehren.",
+        "Im nächsten Sommer blieben ihre Plätze leer. Was die Menschen einen Spaß genannt hatten, hatte die gemeinsame Hilfe beendet."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "hermod-hel-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Nach Balders Tod wollte Hermod ihn aus Hels Reich zurückholen. Auf Sleipnir brach er zu einer Reise ohne sichere Rückkehrantwort auf.",
+        "Neun Nächte ritt er durch dunkle Täler. Die Welt der Lebenden lag immer weiter hinter ihm.",
+        "An der Gjöllbrücke fragte er die Wächterin nach Balder. Sie wies ihm den Weg weiter hinab zu Hel.",
+        "Vor dem hohen Gitter stieg Hermod aus dem Sattel. Sleipnir blieb neben ihm stehen.",
+        "Mit beiden Händen zog er den Sattelgurt fester. Für den Sprung durfte die Ausrüstung nicht verrutschen.",
+        "Dann stieg er wieder auf. Erst jetzt waren Reiter und Pferd zum Überqueren des Gitters bereit.",
+        "Sleipnir sprang mit Hermod über das Hindernis. Der Weg zur Halle war frei geworden.",
+        "Vor der Halle stieg Hermod erneut ab. Das Pferd blieb draußen, während er zu Balder und Hel ging.",
+        "Hel stellte eine Bedingung: Alle Wesen und Dinge mussten um Balder weinen. Nur dann durfte er zurückkehren.",
+        "Hermod ritt mit dieser Botschaft zurück. Noch brachte er nicht Balder heim, sondern den Auftrag, alle zur Trauer zu bewegen.",
+        "",
+        "Die Welt trauerte, doch Thökk verweigerte ihre Tränen. Damit blieb die Bedingung unerfüllt und Balder bei Hel."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "hildebrand-heimkehr-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Nach vielen Jahren in der Fremde kehrte Hildebrand heim. Er wusste noch nicht, wem er auf dem letzten Weg begegnen würde.",
+        "",
+        "Der Alte fragte nach seinem Haus und seiner Heimat. Doch der junge Krieger hörte in den Fragen nur einen Grund zum Misstrauen.",
+        "",
+        "Statt weiterzureden ließen sie die Klingen aufeinandertreffen. Noch kämpfte jeder gegen einen vermeintlich fremden Gegner.",
+        "Hildebrands Erfahrung brachte ihn in die bessere Stellung. Er drängte den Jüngeren an den Wegrand, ohne den Kampf schon zu beenden.",
+        "",
+        "",
+        "Am Namen erkannten sie die Verwandtschaft: Alebrand war Hildebrands Sohn. Der Vater steckte sein Schwert weg und gab sich zu erkennen.",
+        "Als der Sohn wieder aufstand, standen beide auf gleicher Höhe. Für den Heimweg brauchten sie keinen Besiegten mehr.",
+        "",
+        "An der offenen Haustür fanden Mann, Frau und Sohn wieder zusammen. Aus dem drohenden Verlust war eine Heimkehr geworden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "hohensax-liederbuch-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Hohensaxsage erzählt von Hans Philipp und seinem alten Liederbuch. Er wollte die Stimmen der Minnesänger bewahren.",
+        "Der Text nennt ihn einen Kämpfer für die Freiheit im Niederland. Sein Leben führte ihn mitten in die Konflikte seiner Zeit.",
+        "Auch in Frankreich geriet er in Gefahr. Der protestantische Herr entkam der Verfolgung der Überlieferung zufolge nur mit Mühe.",
+        "",
+        "Als späterer Mörder nennt der Text seinen Neffen Ulrich Georg. Ein Glaubensmotiv bleibt eine Vermutung, keine gesicherte Erklärung.",
+        "Hans Philipp wurde getötet. Sein leerer Platz und das zurückgelassene Buch erzählen von einem Ende, das den Liedern nicht gesetzt war.",
+        "Das Liederbuch gelangte nach Heidelberg. Sein Inhalt konnte bewahrt werden, ohne dass sein früherer Besitzer weiterlebte.",
+        "Vom späteren Fortbringen nach Frankreich erzählt Bechstein mit der Polemik seiner eigenen Zeit. Die Erinnerung wurde auch zum Besitzanspruch.",
+        "Hans Philipp war in Sennewald beigesetzt worden. Dort entwickelte sich um seine Ruhestätte eine neue Überlieferung.",
+        "Es hieß, sein Leichnam verwese nicht. Manche deuteten dies als Heiligkeit, auch über konfessionelle Grenzen hinweg.",
+        "Doch Verehrung ging in Aneignung über. Der Text erzählt zuerst vom heimlichen Fortnehmen einzelner Teile des Leichnams.",
+        "Schließlich wurde die ganze Bahre fortgebracht. Die Einwohner von Sennewald verlangten die Rückgabe ihres Toten.",
+        "",
+        "Die Bahre kam zurück. Das Liederbuch und die Grabgeschichte blieben verschiedene Formen des Erinnerns und des Beanspruchens."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "ida-toggenburg-16",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Toggenburgsage beginnt mit einem Ring am offenen Fenster. Noch ahnte Ida nicht, welchen falschen Verdacht sein Verlust auslösen würde.",
+        "Ein Rabe nahm den Ring und trug ihn in sein Nest. Kein Mensch hatte ihn als heimliches Geschenk erhalten.",
+        "Ida bemerkte den Verlust. Aus Angst vor dem heftigen Zorn ihres Gemahls sagte sie nichts.",
+        "Ein Diener fand den Ring im Rabennest. Ohne seine Besitzerin zu kennen, steckte er ihn an den Finger.",
+        "",
+        "Der Graf hielt den Fund für einen Beweis der Untreue. Ohne Verhör ließ er den Diener töten und stieß Ida vom Balkon.",
+        "Im Wunderbild der Sage trugen unsichtbare Hände Ida durch die Zweige. Sie überlebte den Sturz.",
+        "Fern von der Burg baute sie sich eine Hütte. Als Einsiedlerin begann sie ein eigenes Leben außerhalb seiner Gewalt.",
+        "Später erfuhr der Graf vom Fund im Rabennest. Sein Urteil hatte auf einer Täuschung beruht; der unschuldige Diener blieb tot.",
+        "Ein anderer Jäger entdeckte Ida im Wald. Er brachte die Nachricht, dass sie noch lebte, zurück zum Grafen.",
+        "",
+        "Zur Buße zog der Graf in einen fernen Kreuzzug. Ida kehrte nicht in die Burg zurück und blieb auf ihrem eigenen Weg.",
+        "",
+        "Nach seiner Heimkehr legte er Rang, Wehr und Waffen ab. Als armer Einsiedler zog er nach Fischingen, wo Ida im Kloster lebte.",
+        "Er wohnte in der Nähe der Klostermauer. Nähe bedeutete aber nicht, dass Ida die frühere Beziehung wieder aufnehmen musste.",
+        "Dort büßte er bis zu seinem Tod. Seine Reue änderte sein eigenes Leben; über Idas Entscheidung verfügte sie nicht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "idun-aepfel-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Jenseits der Mauer wartete Thjazi in Adlergestalt. Loki hatte Idun aus Asgard gelockt und damit in die vorbereitete Falle geführt.",
+        "Ohne Idun und ihre Äpfel alterten die Götter rasch. Nun erkannten sie, welche Folgen Lokis Täuschung hatte.",
+        "",
+        "Mit Freyjas geliehenem Falkengewand erreichte Loki Thjazis Behausung. Idun war dort allein zurückgeblieben.",
+        "Für den Rückflug verwandelte Loki Idun in eine Nuss. So konnte er sie sicher in seinen Fängen tragen.",
+        "Thjazi bemerkte die Flucht und folgte als großer Adler. Loki flog in der kleineren Falkengestalt voraus.",
+        "Der Falke gelangte zuerst hinter Asgards Mauer. Davor warteten die Götter mit dem vorbereiteten Feuer auf den Verfolger.",
+        "Der große Adler geriet in die Flammen und wurde überwältigt. Loki hatte Idun bereits über die Mauer gebracht.",
+        "",
+        "Idun erhielt ihre Gestalt zurück, und die drohende Vergreisung war abgewendet. Vertrauen ließ sich nicht ebenso leicht zurückbringen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kaiser-kleider-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Die Weber ließen sich kostbares Material bezahlen. Sie verstauten es in ihrer Truhe und arbeiteten an leeren Rahmen.",
+        "Der Minister sah keinen Stoff. Aus Angst, für dumm oder untauglich gehalten zu werden, lobte er trotzdem die angeblichen Muster.",
+        "",
+        "",
+        "Auch der Kaiser sah nichts. Doch vor den beobachtenden Beamten wagte er nicht, die Wahrheit auszusprechen.",
+        "Die Betrüger schnitten und nähten nur mit Gesten. Das gemeinsame Lob hatte aus der leeren Werkstatt ein öffentliches Schauspiel gemacht.",
+        "",
+        "Bei der Prozession bestätigten auch die Zuschauer, was am Hof niemand bestritten hatte. Alle fürchteten, allein als untauglich dazustehen.",
+        "",
+        "Die Worte des Kindes gingen durch die Menge. Erst flüsternd, dann laut sagten die Menschen, was sie tatsächlich sahen.",
+        "Der Kaiser hörte es und ahnte den Betrug. Trotzdem setzte er den Umzug fort; Anhalten hätte den Irrtum öffentlich eingestanden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kaltes-herz-18",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Peters Wünsche verschafften ihm Besitz und Ansehen, aber keine Zufriedenheit. Am Spieltisch setzte er immer mehr aufs Spiel.",
+        "",
+        "",
+        "Für neuen Reichtum gab er Michel sein lebendiges Herz. An dessen Stelle bekam er einen Stein, der kein Mitgefühl kannte.",
+        "",
+        "",
+        "Als Lisbeth einem Hungrigen Brot geben wollte, sah Peter darin nur den Verlust seines Eigentums. Ihr Mitgefühl erreichte ihn nicht.",
+        "Er schlug Lisbeth. Danach lag sie reglos am Boden; sein Reichtum konnte daran nichts ändern.",
+        "",
+        "Auf den Rat des Glasmännleins stellte Peter Michels Macht infrage. Er behauptete, dieser könne gar keine Herzen austauschen.",
+        "Um seine Macht zu beweisen, setzte Michel ihm das lebendige Herz vorübergehend wieder ein. Peter konnte wieder fühlen.",
+        "",
+        "Mit seinem zurückerhaltenen Herzen spürte Peter auch seine Schuld. Reue machte das Getane nicht ungeschehen.",
+        "",
+        "Das Glasmännlein führte ihn zu seiner lebenden Frau und seiner Mutter. Das Märchen eröffnete ihm einen neuen Anfang.",
+        "Peter begann mit ihnen ein bescheideneres Leben. Weniger Besitz war ihm geblieben, aber wieder Raum für Mitgefühl und Beziehung."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kastelen-alpe-12",
+      "intervall": 3,
+      "erzaehler": [
+        "In der Kastelen-Sage bittet die Tochter einer kranken Witwe um Hilfe. Ihr reicher Verwandter lebt oben auf der Alp.",
+        "",
+        "Der Vetter wies sie ab und ließ sie trotz des drohenden Gewitters gehen. Ihre Tasche blieb leer.",
+        "",
+        "Auf dem nassen Hang rutschte sie aus. Der kleine Käse, Aloys' Gabe für zwei Menschen, rollte außer Reichweite in die Tiefe.",
+        "Ein Herdmanndli brachte den verlorenen Käse zurück. Dazu gab es ihr ein Kräutlein für die kranke Mutter.",
+        "Mit der geretteten Gabe ging sie weiter ins Tal. Oben auf der Alp donnerte das Unwetter noch.",
+        "Zuhause fand sie statt des Käses ein gleich geformtes Stück Gold. Aus der kleinen Gabe war im Wunder der Sage neue Sicherheit geworden.",
+        "Auch die Mutter wurde im Sagenwunder wieder gesund. Die beiden Frauen waren nicht länger ohne Hilfe.",
+        "Am nächsten Tag zeigte sich oben die Verwüstung: Ein Bergsturz hatte den reichen Hof und seine Herden vernichtet.",
+        "",
+        "Nun stand der frühere reiche Vetter als Bittsteller vor ihrer Tür. Besitz und Mitgefühl waren in der Geschichte nie dasselbe gewesen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kleiner-muck-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Muck besaß zwei besondere Gaben: Schuhe, die ihn sehr schnell machten, und einen Stock, der verborgene Schätze fand.",
+        "Durch seine Schnelligkeit erhielt er eine Stelle am Königshof. Doch nicht jeder dort freute sich über seinen Erfolg.",
+        "Der Suchstock führte ihn zu einer alten Kiste mit Gold. Es war ein Fund, kein Diebstahl am Hof.",
+        "",
+        "",
+        "Unter dem Druck der Anschuldigung verriet Muck seine Gaben. Der König nahm ihm Schuhe und Stock und ließ ihn fortjagen.",
+        "Fern vom Hof fand Muck dunkle Feigen. Als er davon aß, wurden seine Ohren lang und seine Nase groß.",
+        "Andere, helle Feigen hoben die Veränderung auf. Nun kannte er beide Wirkungen und konnte sein Wissen nutzen.",
+        "Verkleidet als Obstverkäufer brachte er die dunklen Feigen an den Hof. Die Früchte gelangten auf die königliche Tafel.",
+        "",
+        "",
+        "Als vermeintlicher Helfer gewann Muck Zugang zur Schatzkammer. Dort nahm er seine Schuhe und den Stock wieder an sich.",
+        "",
+        "Mit seinen eigenen Gaben verließ er den Hof. Der König blieb mit den Folgen seiner Gier zurück."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kleiner-prinz-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Der kleine Reisende erzählte von seinem Heimatplaneten und seiner Rose. Weit fortzugehen hatte die Verbindung zu ihr nicht aufgehoben.",
+        "Unterwegs hatte er Erwachsene getroffen, deren einzelne Gewissheiten kaum Platz für andere ließen. Größere Welten hatten ihm keine Nähe gegeben.",
+        "",
+        "Beim Fuchs lernte er das Wiederkommen. Vertrauen entstand nicht sofort, sondern mit Geduld und gemeinsam verbrachter Zeit.",
+        "",
+        "",
+        "Zurück beim Piloten verstand er seine Rose anders: Die Zeit und Fürsorge hatten sie für ihn wichtig gemacht. Er wollte Verantwortung übernehmen.",
+        "",
+        "Am Morgen nach der Begegnung mit der Schlange war der Junge verschwunden. Der Pilot fand keine eindeutige Erklärung für den Abschied.",
+        "Beim Blick zu den Sternen erinnerte der Pilot sich an ihn. Der Abschied blieb offen, die entstandene Verbindung aber nicht bedeutungslos."
+      ],
+      "sprechtexte": {
+        "2": [
+          "In der Kiste kannst du dir das Schaf vorstellen.",
+          "Dann hat es einen Ort zum Ausruhen."
+        ]
+      }
+    },
+    {
+      "basis": "koenig-drosselbart-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Der erzürnte Vater verheiratete seine Tochter mit einem vermeintlich armen Spielmann. Über den Wechsel ihres Lebens bestimmte er allein.",
+        "",
+        "In der kleinen Hütte musste sie ungewohnte Arbeit übernehmen. Vom Schutz des Hofes war kaum etwas geblieben.",
+        "Um Geld zu verdienen, bot sie Tongefäße auf dem Markt an. Ihre neue Existenz hing an einer zerbrechlichen Ware.",
+        "Ein Reiter ritt durch die Gefäße und zerstörte sie. Die Frau musste vor dem Pferd zurückweichen.",
+        "",
+        "Danach wurde sie Küchenhilfe am Hof. Die Feste der anderen erlebte sie nun vom Rand aus.",
+        "",
+        "Im Festsaal fiel das mitgenommene Essen vor aller Augen zu Boden. Die Küchenhilfe stand beschämt vor den Gästen.",
+        "Ihr Mann enthüllte seine Verkleidungen: Spielmann und Reiter waren beide König Drosselbart. Die Erniedrigungen waren von ihm inszeniert worden.",
+        "",
+        "Das Paar wurde am Hof aufgenommen. Die Enthüllung ließ offen, ob diese Demütigungen deshalb eine berechtigte Lehre gewesen waren."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kristallkugel-16",
+      "intervall": 3,
+      "erzaehler": [
+        "Eine Zauberin hatte zwei ihrer Söhne verwandelt: einen in einen Adler, den anderen in einen Wal. Der dritte konnte fliehen.",
+        "Er erlangte einen Wunschhut. Damit wollte er das Schloss der goldenen Sonne und die verzauberte Königstochter erreichen.",
+        "Der Wunschhut brachte ihn zum Schloss. Die Königstochter konnte ihm erklären, wie sich die Macht des Zauberers brechen ließ.",
+        "",
+        "Um zur Kristallkugel zu gelangen, musste er zuerst den wilden Stier bezwingen. Die Kugel selbst war noch nicht erreichbar.",
+        "Der Stier war besiegt. Doch damit war erst der erste Schritt getan; aus ihm sollte der Feuervogel hervorkommen.",
+        "Der Feuervogel stieg auf und flog davon. Der junge Mann konnte ihm vom Boden aus nicht folgen.",
+        "Jetzt half sein Adlerbruder. In der Luft erreichte er den Feuervogel und verfolgte ihn über die Küste.",
+        "Durch den Angriff fiel das Ei herab. Darin lag die Kugel, die auf keinen Fall zerstört werden durfte.",
+        "Das glühende Ei landete auf einer Fischerhütte und setzte sie in Brand. Der Mann musste Abstand halten.",
+        "Nun half der Walbruder vom Meer aus. Seine Welle löschte das Feuer und kühlte das Ei.",
+        "Die Schale zerbrach durch die Abkühlung. In ihren nassen Resten lag die Kristallkugel unversehrt.",
+        "Der dritte Bruder nahm die Kugel an sich. Ohne die Fähigkeiten beider verwandelter Brüder hätte er sie nicht gewinnen können.",
+        "Mit dem Wunschhut kehrte er zum Schloss zurück. Diesmal hatte er das Mittel gegen den Zauber bei sich.",
+        "Er hielt dem Zauberer die Kugel entgegen. Dessen Macht brach, und die Königstochter wurde von ihrem Bann frei.",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "kudrun-versoehnung-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Kudrun war verschleppt worden. Das fremde Ufer war kein Ziel, das sie sich selbst gewählt hatte.",
+        "",
+        "Hartmut wollte sie zur Frau, obwohl sie Herwig verbunden war. Kudrun widersetzte sich dem Druck und hielt an ihrem Nein fest.",
+        "Aus Tagen wurden Jahre. Auch die erniedrigende Arbeit sollte ihre Selbstbestimmung brechen.",
+        "Mit Hildeburg musste sie am kalten Meer Wäsche waschen. Der gemeinsame Alltag verlangte beiden immer neue Kraft ab.",
+        "Die Frauen stärkten einander. Standhaftigkeit bedeutete nicht, die schwere Zeit ohne Beistand zu ertragen.",
+        "",
+        "Noch waren sie gefangen. Doch die Nachricht von nahender Hilfe gab ihrem Warten eine neue Richtung.",
+        "Die Verbündeten erreichten das Ufer. Die Befreiung musste erkämpft werden; die Ankunft allein beendete die Gewalt noch nicht.",
+        "Hinter den Mauern warteten die Frauen auf den Ausgang. Der Kampf blieb vorerst jenseits ihrer geschützten Stellung.",
+        "",
+        "Nach ihrer Befreiung verlangte Kudrun Schutz für Überlebende der Gegenseite. Die gewonnene Freiheit sollte nicht in grenzenlose Rache münden.",
+        "",
+        ""
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "loki-zwergenschmiede-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Als Ersatz für Sifs abgeschnittenes Haar schufen die Ivaldi-Söhne drei Gaben: goldenes Haar, den Speer und das faltbare Schiff.",
+        "Loki setzte seinen Kopf darauf, dass Brokk und Sindri keine ebenso guten Werke schaffen könnten. Die Brüder nahmen die Wette an.",
+        "",
+        "Eine Fliege stach Brokk in die Hand. Trotzdem hielt er den Blasebalg ohne Unterbrechung in Bewegung.",
+        "Der erste Schmiedegang gelang: Aus der Arbeit kam der Eber mit goldenen Borsten hervor.",
+        "",
+        "Auch der Ring Draupnir war fertig geworden. Nur das letzte Werk musste noch durch die Glut.",
+        "Beim letzten Angriff der Fliege nahm Brokk die Hand kurz vom Hebel. Der Blasebalg stand einen Augenblick still.",
+        "",
+        "",
+        "Die Götter bewerteten alle sechs Gaben. Trotz des kurzen Griffs galt Mjölnir als wertvollste Waffe: Die Schmiede hatten die Wette gewonnen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "luzerner-mordnacht-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Eine Luzerner Sage erzählt von einem Jungen, der nachts Stimmen unter einem Schwibbogen hörte. Er blieb verborgen und lauschte.",
+        "",
+        "Die Verschwörer entdeckten den Zuhörer. Unter Todesdrohung musste er schwören, keinem Menschen von ihrem Anschlag zu erzählen.",
+        "Wieder frei, suchte er einen Weg, die Stadt dennoch zu warnen. Schweigen hätte die anderen dem geplanten Überfall ausgeliefert.",
+        "",
+        "Die Männer in der Zunftstube verstanden die Rede zum Ofen. Nun mussten sie die Zünfte, das Rathaus und den Glöckner rechtzeitig warnen.",
+        "",
+        "Die gewarnten Bürger kamen den Verschwörern zuvor. Der geplante Überraschungsangriff konnte nicht beginnen.",
+        "Am Morgen war die Gefahr vorüber. Der Junge hatte einen Ausweg gefunden, weil andere bereit gewesen waren zuzuhören.",
+        "Später erinnerte sein gemaltes Bild hinter dem Ofen an die Nacht. Die Sage bewahrte auch die Erinnerung an aufmerksame Zuhörer."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "nautilus-angriff-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Aronnax, Conseil und Ned Land reisten auf Nemos Nautilus. Sie waren Gäste, die das Schiff nicht nach eigenem Willen verlassen durften.",
+        "Ein großer Kalmar blockierte den Antrieb. Die Fahrt konnte erst weitergehen, wenn die Besatzung sich von ihm befreite.",
+        "Nemo ließ das Schiff auftauchen. Erst an der Oberfläche wurde die Luke geöffnet, und die Männer stiegen an Deck.",
+        "Zwischen Reling und Lukeneingang drangen die Fangarme vor. Auf dem schmalen Deck begann der Kampf gegen die Tiere.",
+        "",
+        "Ein Besatzungsmitglied war fortgerissen worden und blieb verschwunden. An seiner Stelle stand nur noch die nasse Reling.",
+        "",
+        "Nemo erreichte den bedrohten Ned und half ihm aus dem Griff. Für diesen Moment handelte er über ihren Gegensatz hinweg.",
+        "Schließlich wichen die Tiere zurück. Der Antrieb wurde frei, und die Nautilus konnte ihre Fahrt fortsetzen.",
+        "Die Männer gingen wieder unter Deck und schlossen die Luke. Die geretteten Gäste waren damit noch nicht frei geworden.",
+        "",
+        "Nemo blieb um seinen verlorenen Mann in Trauer. Das Schiff war gerettet, aber Verlust und Gefangenschaft bestanden weiter."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "orpheus-rueckblick-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Eurydike starb am Biss einer Schlange. Orpheus blieb mit seiner Leier zurück, doch seine Musik erreichte sie nicht mehr.",
+        "Er stieg ihr nach in die Unterwelt. Dort wollte er um einen Weg zurück ins Leben bitten.",
+        "Mit seiner Musik bewegte er selbst den Herrn der Toten. Orpheus bekam eine einzige, an eine Bedingung gebundene Möglichkeit.",
+        "",
+        "Er ging voraus, und Eurydike folgte ihm. Auf dem ganzen Weg durfte er nicht nach ihr zurücksehen.",
+        "Die Schritte hinter ihm waren hörbar, aber nicht sichtbar. Gerade die Nähe ließ die Angst wachsen, sie könne doch fehlen.",
+        "",
+        "Kurz vor dem Ausgang drehte Orpheus sich um. Eurydike stand noch im Dunkel und hatte das Tageslicht nicht erreicht.",
+        "Damit war die Bedingung gebrochen. Eurydike musste zurückkehren, während Orpheus an der Grenze stehenblieb.",
+        "Draußen blieb er allein. Die gesuchte Gewissheit hatte die Verbindung beendet, die er retten wollte."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "oz-vorhang-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Nach bestandenen Gefahren kehrten Dorothy und ihre Gefährten zu Oz zurück. Sie erwarteten die versprochenen Gaben.",
+        "",
+        "Toto zog den lockeren Vorhang zur Seite. Hinter der vermeintlichen Macht wurden ein Gestell und ein menschlicher Fuß sichtbar.",
+        "",
+        "",
+        "Oz erinnerte die Vogelscheuche an ihre eigenen Lösungen auf der Reise. Der gesuchte Verstand hatte sich längst im Handeln gezeigt.",
+        "Die gewöhnliche Füllung ihres Kopfes war nur eine Bestätigung. Sie erschuf nicht erst, was die Vogelscheuche schon bewiesen hatte.",
+        "",
+        "Auch der Löwe hatte trotz seiner Angst geholfen. Oz bot ihm ein Zeichen für Mut, den er bereits gezeigt hatte.",
+        "",
+        "",
+        "Die Gefährten bekamen ihre Bestätigungen, und Oz blieb ein gewöhnlicher Mann. Dorothys eigener Weg nach Hause war noch ungeklärt."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "perseus-spiegelschild-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Perseus sollte Medusas Haupt holen. Wer ihr direkt ins Gesicht sah, war ihrer gefährlichen Macht ausgesetzt.",
+        "",
+        "Bei den Graien nahm er das gemeinsam benutzte Auge vorübergehend an sich. Als Gegenleistung verlangte er den weiteren Weg.",
+        "Er erhielt die Auskunft und gab das Auge zurück. Nun wusste er, wo er die Gorgonen suchen musste.",
+        "Mit seiner besonderen Ausrüstung erreichte er ihr Lager. Medusa und die anderen schliefen noch.",
+        "Perseus näherte sich nur über das Spiegelbild im Schild. Sein wirklicher Blick blieb von Medusas Gesicht abgewandt.",
+        "Ein entscheidender Hieb trennte ihr Haupt ab. Noch durfte Perseus die Gefahr nicht ungeschützt ansehen.",
+        "Er verstaute das Haupt im vorgesehenen Beutel und zog ihn zu. Die gefährlichen Augen blieben vollständig verborgen.",
+        "Die anderen Gorgonen erwachten. Mit der Tarnkappe entzog Perseus sich ihren suchenden Blicken.",
+        "Seine Flügelsandalen trugen ihn vom Lager fort. Er musste keinen weiteren Kampf beginnen, um zu entkommen.",
+        "Auf sicherem Boden wurde er wieder sichtbar. Den Beutel ließ er geschlossen; die Gefahr war nicht mit der Flucht verschwunden.",
+        "Er war entkommen, weil er Vorbereitung und Blickregel ernst genommen hatte. Das gewonnene Haupt blieb sicher verborgen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "pilatus-herdmanndli-kirschen-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Am Pilatus, erzählt die Sage, halfen kleine Herdmanndli den Menschen. Ihre langen Kutten verbargen stets die Füße.",
+        "Nachts pflückten sie Kirschen und legten sie auf Hürden zum Trocknen. Die Menschen mussten dafür nicht wach bleiben.",
+        "Am Morgen fand der Hirte die Ernte fertig vor. Von den stillen Helfern war niemand mehr zu sehen.",
+        "Bald galt seine Aufmerksamkeit weniger ihrer Hilfe als den verborgenen Füßen. Er wollte ihr Geheimnis aufdecken.",
+        "Ein Jahr später, zur nächsten Kirschernte, legte er einen Ring aus Asche um den Stamm. Darin sollten Spuren zurückbleiben.",
+        "Die Helfer kamen erneut und erledigten die Ernte. Als sie gingen, zeichneten sich ihre Schritte in der Asche ab.",
+        "",
+        "",
+        "Die Herdmanndli hörten das Lachen der Menschen. Die erhaltene Hilfe hatte niemandem das Recht gegeben, sie bloßzustellen.",
+        "In ihrem Zorn beschädigten sie Baum und Haus und versprengten die Herde. Die frühere Vertrautheit war zerstört.",
+        "Dem Hirten blieb das aufgedeckte Geheimnis, aber nicht die Hilfe. Er ging allein durch die beschädigte Hofstelle.",
+        "Die Helfer blieben im Berg. Die Sage endet mit ihrem dauerhaften Fortbleiben und dem unglücklichen weiteren Leben des Hirten."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "rattenfaenger-hameln-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Rattenplage beherrschte Hameln. In den Häusern fanden die Menschen keinen sicheren Platz mehr vor den Tieren.",
+        "",
+        "Für den vereinbarten Lohn begann der Fremde zu spielen. Die Ratten verließen die Häuser und folgten seiner Flöte.",
+        "Er führte den Zug bis an die Weser. Die Tiere verschwanden im Wasser; die Stadt war von der Plage befreit.",
+        "",
+        "Doch nachdem die Hilfe geleistet war, verweigerten die Bürger die Zahlung. Die ausgestreckte Hand des Pfeifers blieb leer.",
+        "Zornig verließ er Hameln. Noch folgte ihm kein Kind aus der Stadt.",
+        "Später kam er zurück und spielte erneut. Diesmal sammelte sich hinter seiner Musik ein Zug von Kindern.",
+        "Die Kinder folgten ihm aus den Gassen bis zu einem Berg. Die Erwachsenen hatten den Zug nicht aufgehalten.",
+        "Mit dem Pfeifer gingen sie durch die dunkle Felsöffnung. Danach waren sie für ihre Familien verschwunden.",
+        "",
+        "Die Eltern suchten vergeblich. Das gesparte Geld konnte ihren Verlust nicht ersetzen; den Preis trugen unbeteiligte Kinder."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "reise-erdmittelpunkt-18",
+      "intervall": 3,
+      "erzaehler": [
+        "Eine entzifferte Botschaft führte Lidenbrock und Axel nach Island. Hans übernahm die Führung unter die Erde.",
+        "Durch einen erloschenen Vulkan begann der Abstieg. Was vor ihnen lag, kannte keiner der drei.",
+        "Mit jeder Wegstrecke wuchs der Abstand zur Oberfläche. Zurückzukehren würde ebenso Kraft kosten wie weiterzugehen.",
+        "Als das Trinkwasser ausging, wurde aus wissenschaftlicher Neugier eine Frage des Überlebens.",
+        "Hans erschloss Wasser im Fels. Erst seine praktische Erfahrung machte die Fortsetzung möglich.",
+        "Dann verlor Axel den Anschluss. Im verzweigten Gestein wusste er nicht mehr, welchen Weg die anderen genommen hatten.",
+        "",
+        "Die Stimmen führten sie wieder zusammen. Von nun an mussten sie nicht nur den Weg, sondern einander im Blick behalten.",
+        "Vor ihnen öffnete sich ein unterirdisches Meer. Den Mittelpunkt der Erde hatten sie damit noch lange nicht erreicht.",
+        "",
+        "Während der Überfahrt kämpften in der Ferne gewaltige Tiere. Die drei konnten nur Abstand halten.",
+        "Ein Sturm nahm ihnen die Richtung. Auf dem Floß blieb nur, sich festzuhalten und zusammenzubleiben.",
+        "Am nächsten Ufer fanden sie Spuren ihres Vorgängers Saknussemm. Die Entdeckung versprach einen weiteren Weg.",
+        "Sie sprengten ein Hindernis. Was dadurch in Bewegung geriet, konnten sie nicht mehr steuern.",
+        "Das Wasser erfasste das Floß und riss alle drei in einen engen Gang. Einen sicheren Rückweg gab es jetzt nicht.",
+        "Die Strömung trieb sie aufwärts, durch Hitze und Dampf. Sie wussten nicht, wo dieser Schacht enden würde.",
+        "Der Vulkan warf sie am Stromboli wieder aus. Zwischen Eingang und Ausgang lag inzwischen halb Europa.",
+        "An der italienischen Küste lebten alle drei. Ihr Wissen hatte sie vorangetrieben; Hans und ihr Zusammenhalt hatten sie gerettet."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "rheinstrom-bund-14",
+      "intervall": 3,
+      "erzaehler": [
+        "In Bechsteins Rheinsage entstand ein Bund dort, wo einzelne Menschen der Willkür ihrer Herren ausgeliefert waren.",
+        "Auf der Bärenburg zwang ein Kastellan einen Bauern, bei den Schweinen zu essen. Die Erniedrigung traf nicht nur ihn.",
+        "Bei Fardün ließ ein Herr Vieh über die Saat treiben. Mit dem Feld wurde die Arbeit eines ganzen Jahres zerstört.",
+        "Allein kam ein Bauer gegen solche Macht kaum an. Auch die Rückkehr vom Schloss brachte keine Abhilfe.",
+        "",
+        "Nachts berieten die Ältesten bei Tovanosa. Gemeinsam suchten sie einen Ausweg aus der eigenen Ohnmacht.",
+        "Später, erzählt die Sage, zeigte man noch die Spuren ihrer aufgehängten Brotsäcke im Fels.",
+        "",
+        "Aus einzelnen Klagen wurde ein gemeinsamer Entschluss: Niemand sollte mit der Willkür allein bleiben.",
+        "Die geheime Beratung führte zu einer öffentlichen Versammlung bei Bruns. Nun musste aus Zustimmung Verbindlichkeit werden.",
+        "Unter einer Linde sammelten sie sich zum Bund. Keiner konnte seine Freiheit allein bewahren.",
+        "Sie schworen einander dauerhaften Beistand. Der Bund sollte über den Augenblick der gemeinsamen Empörung hinausreichen.",
+        "Bechstein verbindet den Namen Graubünden mit den grauen Häuptern dieser Ältesten. So erklärt es die Sage.",
+        "Die Burgen standen noch. Doch aus verstreuten Untertanen waren Menschen geworden, die füreinander einstanden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "rikki-tikki-tavi-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Nach der Flut nahmen die Menschen Rikki-Tikki-Tavi bei sich auf. Im Haus fand er Nahrung und einen neuen Platz.",
+        "Im Garten lebten die Kobras Nag und Nagaina. Für die Familie wurde ihre Anwesenheit zur tödlichen Gefahr.",
+        "",
+        "",
+        "Als Nag nachts ins Badezimmer eindrang, griff Rikki an. Hinter der Tür schliefen die Menschen, die ihn aufgenommen hatten.",
+        "Der Vater beendete den Kampf mit einem Schuss. Nag war tot; Nagaina bedrohte die Familie weiterhin.",
+        "",
+        "Rikki machte die übrigen Eier unschädlich und behielt nur das letzte. Da erfuhr er: Nagaina war bei Teddy.",
+        "Mit dem letzten Ei näherte er sich der Veranda. Er musste Nagainas Aufmerksamkeit vom Kind ablenken.",
+        "",
+        "Nagaina nahm das Ei und floh in ihren Bau. Rikki folgte ihr dorthin, wo ihm niemand zu Hilfe kommen konnte.",
+        "Am Eingang blieb es still. Die Wartenden wussten nicht, ob Rikki aus dem unterirdischen Kampf zurückkehren würde.",
+        "Dann kam er allein wieder heraus. Das gerettete Tier hatte nun seinerseits das Haus und seine Bewohner geschützt."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "robinson-erste-tage-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Robinson hatte den Schiffbruch überlebt. An Land fehlten ihm Unterkunft, Vorräte und jeder menschliche Beistand.",
+        "Als die See ruhiger wurde, schwamm er zum Wrack. Noch konnte er Dinge bergen, die an Land unersetzlich waren.",
+        "Aus dem Wrack baute er ein Floß und sicherte Nahrung, Werkzeug und Ausrüstung. Jeder brauchbare Gegenstand zählte.",
+        "Die erste Ladung erreichte das Ufer. Aus den Trümmern begann er, sich die Voraussetzungen zum Überleben zusammenzutragen.",
+        "Er kehrte wiederholt zum Wrack zurück. Die Vorräte wuchsen, solange das beschädigte Schiff noch erreichbar blieb.",
+        "Ein neuer Sturm zerstörte den Rest des Wracks. Was Robinson bereits an Land gebracht hatte, musste nun reichen.",
+        "Am Fels begann er einen geschützten Lagerplatz einzurichten. Noch war daraus kein fertiges Zuhause geworden.",
+        "Frisches Wasser fand er im Landesinneren. Das Meer ringsum konnte seinen Durst nicht stillen.",
+        "Mit Kerben hielt er die Tage fest. Vorräte und ein Tagesrhythmus gaben dem unübersichtlichen Dasein eine erste Ordnung.",
+        "Der nächste Regen traf ihn unter einem Dach. Gegen das Wetter hatte er einen Anfang gefunden, gegen die Einsamkeit noch nicht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "sankt-gallus-appenzell-16",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Gallussage beginnt mit Einsiedlern, die Kranken helfen. Aus dieser Hilfe erwuchs zunächst Vertrauen.",
+        "",
+        "Gallus soll die Tochter Gunzos geheilt haben. Der dankbare Herzog wollte der Gemeinschaft einen dauerhaften Platz geben.",
+        "Er schenkte den Einsiedlern Waldland. Ihre Niederlassung begann noch ohne die Macht einer großen Abtei.",
+        "Aus den ersten Hütten lässt die Überlieferung St. Gallen wachsen. Mit der Gemeinschaft veränderte sich auch der Ort.",
+        "Weiter die Sitter hinauf entstand eine weitere Zelle. Die Sage verbindet damit den Namen Appenzell.",
+        "Jahrhunderte später beanspruchte die mächtige Abtei Herrschaft über die Hirten. Aus früherem Vertrauen sollte Unterordnung werden.",
+        "",
+        "Rudolf von Werdenberg unterstützte die Hirten und führte sie nach der Sage in den Kampf um ihre Freiheit.",
+        "Auch die Frauen und erwachsenen Töchter brachen auf. In weiter Männertracht näherten sie sich über den Berg.",
+        "Am Stoß blieb der Ausgang des Kampfes ungewiss. Noch konnte niemand auf der Seite der Hirten den Sieg beanspruchen.",
+        "Da erschien die Schar auf dem Kamm. Für die Gegner sah sie von unten wie frische Verstärkung aus.",
+        "Der Anblick bewog die Gegner zum Rückzug. Erst damit entschied sich die bedrohliche Lage zugunsten der Hirten.",
+        "",
+        "Seitdem, schließt die Sage, habe Appenzell sich selbst regiert. Die frühere Hilfe begründete keinen ewigen Herrschaftsanspruch.",
+        "Die Abtei blieb bestehen. Doch die Hirten ließen sich ihre Freiheit nicht als Gegenleistung für den alten Glauben nehmen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "schatten-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Der Schatten ging tatsächlich fort. Was als Scherz begonnen hatte, ließ sich nicht wieder zurückrufen.",
+        "Jahre vergingen. Der Gelehrte schrieb über Wahrheit und Güte, während sein eigenes Leben immer ärmer wurde.",
+        "",
+        "",
+        "Auf der gemeinsamen Reise bestimmte der wohlhabende Schatten die Rollen. Der Gelehrte musste hinter ihm zurückbleiben.",
+        "",
+        "",
+        "Als der Gelehrte die Täuschung offenlegen wollte, hatte sein früherer Schatten bereits bestimmt, wem man glauben würde.",
+        "",
+        "",
+        "Vor der Hochzeit ließ man den Gelehrten töten. Seine Wahrheit erreichte die Feiernden nicht mehr.",
+        "Der einzige Mensch, der die Herkunft des Bräutigams bezeugen konnte, war zum Schweigen gebracht worden.",
+        "Der Schatten erhielt den Beifall und die Königstochter. Dass alle ihn anerkannten, machte seine Lüge nicht wahr."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "schatzinsel-leeres-loch-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Silver führte die Meuterer nach Flints Karte. Jim blieb in seiner Gewalt und unter seinem eigennützigen Schutz.",
+        "Eine Stimme klang im Wald wie die des toten Flint. Die Schatzsucher ahnten nicht, dass ein Lebender sie täuschte.",
+        "",
+        "An der markierten Stelle war nur eine leere Grube. Die Karte zeigte noch den Ort, aber nicht mehr die Wirklichkeit.",
+        "Die Enttäuschung richtete sich gegen Silver und Jim. Aus der gemeinsamen Gier wurde eine unmittelbare Bedrohung.",
+        "",
+        "Livesey und seine Verbündeten griffen ein, bevor die Meuterer sich an den beiden rächen konnten.",
+        "Ben Gunn gab sich als Urheber der Stimme zu erkennen. Den Schatz hatte er schon vor ihrer Suche fortgeschafft.",
+        "In seiner Höhle lag das Gold. Das vermeintlich sichere Ziel der Karte war längst überholt gewesen.",
+        "Nun brachten die Überlebenden den geborgenen Schatz zum Schiff. Auch der richtige Fundort ersparte ihnen diese Arbeit nicht.",
+        "Sie ließen die Insel hinter sich. Nicht die Karte allein, sondern das Wissen um ihre Grenzen hatte sie ans Ziel gebracht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "schneekoenigin-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Spiegelsplitter hatten Kays Blick und Herz verändert. Seit die Schneekönigin ihn mitgenommen hatte, suchte Gerda ihn.",
+        "",
+        "Die Finnin konnte Gerda den Weg zeigen. Die Begegnung mit Kay konnte ihr jedoch niemand abnehmen.",
+        "",
+        "Am letzten Fels stieg Gerda ab. Das Rentier blieb zurück, während sie den restlichen Weg allein ging.",
+        "Im Palast fand sie Kay über einem Rätsel aus Eis. Er suchte nach der Lösung und erkannte seine Freundin nicht.",
+        "",
+        "Gerda umarmte ihn und weinte. Ihre Tränen lösten im Märchen das Eis um sein Herz.",
+        "Nun weinte auch Kay. Der Splitter glitt aus seinem Auge, und endlich erkannte er Gerda wieder.",
+        "Das gesuchte Wort hatte sich aus den Eisstücken gefügt. Doch Kay brauchte Gerda nicht länger darüber zu vergessen.",
+        "",
+        "Nach der langen Heimreise saßen sie wieder bei den Rosen. Was Kay verloren hatte, konnte er nun wieder wahrnehmen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "schwefelhoelzer-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Am letzten Abend des Jahres suchte das barfüßige Mädchen Schutz zwischen zwei Mauern. Verkauft hatte es nichts.",
+        "Im Licht des ersten Holzes erschien ihm ein warmer Ofen. Die Wärme gehörte zur Vision, nicht zur kalten Nische.",
+        "",
+        "Die nächste Flamme zeigte eine festliche Tafel. Als das Licht erlosch, blieb das Mädchen ebenso hungrig zurück.",
+        "Ein weiteres Holz ließ einen geschmückten Baum erscheinen. Auch dieser Glanz endete mit der kleinen Flamme.",
+        "Ein fallender Stern erinnerte sie an ihre verstorbene Großmutter, bei der sie sich einst geborgen gefühlt hatte.",
+        "Im nächsten Licht erschien die Großmutter. Das Mädchen fürchtete, auch diese vertraute Gestalt wieder zu verlieren.",
+        "Als das Holz ausging, blieben nur noch zwei übrig. Mit ihnen wollte sie den letzten Trost festhalten.",
+        "Im Schein der letzten beiden Hölzer nahm die Großmutter sie in ihrer Vorstellung an einen Ort ohne Kälte mit.",
+        "Am Morgen fand man das erfrorene Kind und die abgebrannten Hölzer. Niemand hatte ihm rechtzeitig wirkliche Wärme gebracht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "schweizervolkes-ursprung-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Eine Herkunftssage beginnt mit Hunger in nördlichen Ländern. Sie erzählt von Not, nicht von einer freiwilligen Abenteuerreise.",
+        "Das Los bestimmte, wer mit seiner Familie auswandern musste. Für die Betroffenen bedeutete es den Verlust ihrer Heimat.",
+        "Als der Mangel anhielt, wurden aus monatlichen Aufbrüchen wöchentliche Auslosungen. Immer mehr Menschen mussten gehen.",
+        "Die Sage lässt Schweden und Friesen gemeinsam den Rhein hinaufziehen. Ihre Wanderung ist keine gesicherte Geschichte.",
+        "Auch von Kämpfen wird erzählt. Der Weg führte die Vertriebenen nicht mühelos in ein unberührtes Paradies.",
+        "In den Bergen fanden sie schließlich Weide und Platz für Unterkünfte. Zum ersten Mal konnten sie ans Bleiben denken.",
+        "Gemeinsame Arbeit verwandelte den Rastplatz in eine Siedlung. Die Sage verbindet einzelne Bauten mit den Namen der Anführer.",
+        "Auch Hasli wird so gedeutet. In den Ortsnamen sollte sich die Erinnerung an die Wandernden erhalten haben.",
+        "Aus den Namen Suiter und Swey erklärt die Sage die neue Heimat. Solche Deutungen belegen keine historische Abstammung.",
+        "Später erzählt sie von einem Beistand in Rom. Zwei der Männer erhielten dort Feldzeichen für die Gemeinschaft.",
+        "Sie brachten die Zeichen nach Hause zurück. Neben den neuen Häusern bekamen nun auch gemeinsame Erinnerungen ihren Platz.",
+        "Viele Generationen später erzählten Hirten noch von den Vorfahren. Aus erzwungenem Aufbruch wurde in der Sage Zugehörigkeit."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "sechse-welt-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Nach langem Dienst blieb dem Soldaten kaum Lohn. Er zog fort und fand Gefährten mit sehr verschiedenen Fähigkeiten.",
+        "Einer war ungeheuer stark, andere konnten weit schießen, Wind blasen, rasend laufen oder Frost hervorrufen.",
+        "Am Königshof übernahm der Läufer eine vereinbarte Wettprobe gegen die Königstochter. Er trat für den Soldaten an.",
+        "Sein großer Vorsprung schien den Ausgang bereits zu sichern. Doch das Ziel hatte er noch nicht erreicht.",
+        "Der Läufer legte sich schlafen. Während er nichts bemerkte, zog seine Gegnerin wieder an ihm vorbei.",
+        "Der Schütze traf das steinerne Kopfpolster und weckte ihn unverletzt. Rechtzeitig konnte der Läufer das Rennen fortsetzen.",
+        "Er gewann die Probe. Der König wollte seine Zusage trotzdem nicht erfüllen und ersann eine Falle.",
+        "",
+        "Der Frostmann kühlte den verriegelten Raum. Was die sechs töten sollte, konnte ihnen nun nichts mehr anhaben.",
+        "",
+        "Der König hatte die Tragkraft eines Einzelnen unterschätzt. Der Kraftmann füllte seinen großen Sack mit dem zugesagten Gold.",
+        "Kaum waren sie fort, schickte der König Reiter hinterher. Wieder sollte seine eigene Zusage nicht gelten.",
+        "Jetzt schuf der Bläser den nötigen Abstand. Sein Wind drängte die Verfolger zurück.",
+        "Die sechs zogen gemeinsam weiter. Keiner beherrschte alles; zusammen hatten sie die gebrochenen Versprechen überstanden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "siegfried-drache-8",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Im Kampf mit dem Lindwurm musste Siegfried dem schweren Kopf ausweichen. Seine Entschlossenheit machte die Gefahr nicht kleiner.",
+        "Der nächste Angriff verlangte einen festen Stand. Noch war der Lindwurm nicht bezwungen.",
+        "Erst jetzt war der Kampf vorüber. Siegfried blieb erschöpft neben dem reglosen Gegner zurück.",
+        "Nach der Sage machte das Drachenblut seine Haut widerstandsfähig. Ein Lindenblatt bedeckte dabei eine Stelle zwischen den Schultern.",
+        "Unter dem Blatt blieb die Haut ungeschützt. Ausgerechnet das kleine Hindernis begrenzte den außergewöhnlichen Schutz.",
+        "Siegfried zog als Drachentöter weiter. Sein Sieg hatte ihn stark gemacht, aber nicht gegen jede Gefahr unverwundbar."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "sleepy-hollow-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Beim Fest warb Ichabod um Katrina. Brom Bones, sein selbstsicherer Rivale, hatte dasselbe Ziel.",
+        "Später hörte Ichabod vom kopflosen Reiter. Angeblich könne der Schrecken niemandem über die Brücke folgen.",
+        "Auf dem Heimritt begleitete ihn die Geschichte. Der dunkle Weg wurde für den abergläubischen Schulmeister zur Prüfung seiner Angst.",
+        "Ein unbekannter Reiter wartete am Weg. Unter den Zweigen ließ sich sein Umriss nicht eindeutig erkennen.",
+        "",
+        "Ichabod erhöhte das Tempo. Der Fremde hielt mit, und aus der unheimlichen Begegnung wurde eine Verfolgung.",
+        "Nun galoppierte Ichabod zur Brücke. Er setzte seine ganze Hoffnung auf die Grenze aus der Erzählung.",
+        "",
+        "Der Verfolger warf den runden Gegenstand nach ihm. Die vermeintlich sichere Grenze bewahrte Ichabod nicht vor dem Wurf.",
+        "Nach dem Treffer stürzte er aus dem Sattel. Sein Hut fiel gesondert auf den Weg.",
+        "Am nächsten Morgen war Ichabod verschwunden. Die Suchenden fanden seinen Hut und die Stücke eines Kürbisses.",
+        "Brom lachte auffällig über die Geschichte. Ob Streich oder Spuk: Die Spuren bewiesen nicht, was in jener Nacht geschehen war."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "tannenbaum-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Der Baum wuchs. Doch die Gegenwart erschien ihm stets zu klein; erst der nächste Zustand sollte das wirkliche Leben bringen.",
+        "Als andere Stämme fortgefahren wurden, beneidete er sie. Wohin sie kamen, wusste er nicht.",
+        "Dann wurde auch er gefällt. Der ersehnte Aufbruch bedeutete, dass er niemals wieder im Waldboden wachsen konnte.",
+        "",
+        "Als Weihnachtsbaum erlebte er einen einzigen glänzenden Abend. Wieder wartete er dabei auf das, was danach kommen sollte.",
+        "",
+        "Nach dem Abschmücken trug man ihn auf den Dachboden. Sein Warten hatte nun weder Sonne noch frische Luft.",
+        "Den Mäusen erzählte er vom Fest. Ihre Fragen lenkten seine Erinnerung weiter zurück, bis in den Wald.",
+        "",
+        "Im Frühjahr wurde der trockene Baum zerkleinert. Erst jetzt erschien ihm die frühere Waldzeit als das verlorene Glück.",
+        "Das Holz verbrannte. Das Leben, auf dessen Beginn er immer gewartet hatte, war längst gewesen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "tellensage-bund-18",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Tellensage beginnt nicht mit einem einzigen Schuss. Die Klagen gegen die Willkür der Vögte fanden kein Gehör.",
+        "",
+        "Stauffachers Frau riet ihm, mit Vertrauten zu sprechen. Was ihn bedrückte, konnte auch andere betreffen.",
+        "",
+        "Der Bund plante gemeinsame Gegenwehr. Die Burgen sollten möglichst mit List gewonnen werden; Wehrlosen wurde Abzug zugesagt.",
+        "Währenddessen verweigerte Tell den verlangten Gruß vor dem Hut des Vogtes. Grißler machte daraus eine Machtdemonstration.",
+        "",
+        "Tell traf den Apfel. Sein Sohn blieb unverletzt, doch damit war die Gewalt des Vogtes noch nicht zu Ende.",
+        "Auf Grißlers Frage erklärte Tell den zweiten Bolzen: Er war für den Vogt bestimmt, falls Tell sein Kind getroffen hätte.",
+        "Grißler hatte Tell das Leben zugesichert. Frei ließ er ihn nicht, sondern brachte ihn gefesselt aufs Schiff.",
+        "Erst der Sturm machte Tells Können unentbehrlich. Losgebunden lenkte er das Boot zum Felsufer.",
+        "Tell nahm Armbrust und letzten Bolzen an sich, sprang auf die Felsplatte und stieß das Schiff wieder vom Ufer.",
+        "Über Bergpfade erreichte er die hohle Gasse. Der Vogt hatte inzwischen angelegt und seinen Weg zu Pferd fortgesetzt.",
+        "Tell erschoss Grißler mit dem aufgesparten Bolzen. Danach entzog er sich ungesehen dem Ort der Tat.",
+        "Er berichtete den Verbündeten von Probe, Flucht und Tod des Vogtes. Der lange vorbereitete Bund musste nun handeln.",
+        "Roßberg wurde mit List gewonnen, Sarnen ohne Schwertschlag. Die Leute der Vögte erhielten den versprochenen Abzug.",
+        "Die Zwingburgen fielen. Die Sage führt die Befreiung auf gemeinsames Handeln zurück, nicht allein auf Tells Schuss.",
+        "Eine spätere Überlieferung erzählt von drei schlafenden Tellen in einer Höhle. Für eine künftige Notzeit sollen sie dort warten."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "theseus-faden-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Mit den aus Athen geforderten jungen Menschen kam Theseus nach Kreta. Er wollte dem Minotaurus entgegentreten.",
+        "",
+        "Am Eingang blieb das eine Ende von Ariadnes Faden befestigt. Theseus wickelte ihn auf seinem Weg ins Dunkel ab.",
+        "An jeder Biegung hielt der Faden den Rückweg fest. Mut allein hätte die gleichförmigen Gänge nicht unterscheidbar gemacht.",
+        "Im Inneren fand Theseus den Minotaurus. Noch trennte ihn ein Kampf von der erhofften Rückkehr.",
+        "Theseus stellte sich dem Gegner. Der Faden blieb liegen, während er nun beide Aufmerksamkeit und Kraft zum Kämpfen brauchte.",
+        "Der Minotaurus war bezwungen. Damit war Theseus jedoch noch nicht aus dem Labyrinth entkommen.",
+        "Er folgte derselben Spur zurück und wickelte den Faden auf. Ariadnes Hilfe wirkte bis zum Ausgang weiter.",
+        "Draußen warteten Ariadne und die anderen. Theseus' gelungener Rückweg musste auch für sie einen Ausweg eröffnen.",
+        "Gemeinsam flohen sie von Kreta. Der Mut hatte ihn hinein geführt; die angenommene Hilfe brachte sie zusammen wieder hinaus."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "thor-gestohlener-hammer-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Thor erwachte und fand den Platz seines Hammers leer. Ohne Mjölnir konnte er seine gewohnte Stärke nicht einsetzen.",
+        "",
+        "Loki brachte Thryms Forderung zurück. Freyja wies sie zurück: Sie stand als Preis für den Hammer nicht zur Verfügung.",
+        "",
+        "",
+        "Thor kam schließlich selbst als verschleierte Braut zu Thrym. Loki begleitete ihn und musste die Verkleidung glaubhaft halten.",
+        "",
+        "",
+        "Als Thryms Misstrauen wuchs, erklärte Loki auch Thors scharfen Blick mit der angeblichen Ungeduld der Braut.",
+        "Erst zur Weihe wurde der verborgene Hammer gebracht. Nun lag die verlorene Waffe zum ersten Mal wieder in Thors Reichweite.",
+        "",
+        "Thor enttarnte sich und überwältigte Thrym. Den Hammer gewann er mit Kraft zurück; zu ihm gelangt war er nur durch Lokis Hilfe."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "thor-utgard-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Thor sollte ein Trinkhorn leeren. Die Aufgabe schien einfach, solange er nur den sichtbaren Gegenstand vor sich sah.",
+        "Er trank lange, doch der Pegel sank kaum. Über das andere Ende des Horns hatte ihm niemand etwas gesagt.",
+        "",
+        "Bei der nächsten Probe hob Thor von der Katze nur einen Fuß an. Wieder erklärte der Gastgeber sein Ergebnis für ungenügend.",
+        "",
+        "Im Ringen zwang die alte Elli ihn auf ein Knie. Was sie tatsächlich verkörperte, blieb ihm verborgen.",
+        "Am Abend hielt Thor sich für gescheitert. Er maß seine Kraft an Aufgaben, deren wirkliche Bedingungen er nicht kannte.",
+        "",
+        "",
+        "Beim Abschied erfuhr Thor: Die Katze war die Midgardschlange gewesen. Sein kleiner sichtbarer Erfolg hatte kosmische Größe.",
+        "",
+        "Auch das Horn hatte ins Meer gereicht, Elli war das Alter gewesen. Thor hob den Hammer, doch Gastgeber und Burg verschwanden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "tischchen-wundergaben-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "In der Nacht vertauschte der Wirt das Zaubertischchen mit einem gewöhnlichen Tisch. Die gleiche Form verbarg den Diebstahl.",
+        "Später kam der zweite Bruder mit einem Esel, der Gold hervorbrachte. Wieder erkannte der Wirt eine Gelegenheit zum Betrug.",
+        "Er tauschte auch den Esel aus. Der zweite Gast reiste mit einem ähnlichen, aber ganz gewöhnlichen Tier weiter.",
+        "Beim Vater versagten beide vermeintlichen Wundergaben. Die Brüder wussten noch nicht, dass man ihnen die Originale gestohlen hatte.",
+        "",
+        "Der jüngste Bruder kannte inzwischen das Muster. Als der Wirt nach seinem Sack griff, war der Gast darauf vorbereitet.",
+        "Der Zauberknüppel zwang den Wirt zur Aufgabe. Diesmal traf seine Gier auf einen Gast, der sich wehren konnte.",
+        "",
+        "",
+        "Mit den echten Gaben saßen die Brüder wieder beim Vater. Der erkannte Betrug hatte nicht nur Besitz, sondern auch Vertrauen bedroht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "tyr-fenrir-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Tyr war derjenige, der Fenrir zum Füttern nahekam. Zwischen dem Gott und dem Wolf bestand zunächst Vertrauen.",
+        "",
+        "Die schweren Fesseln hielten Fenrirs Kraft nicht stand. Für die Götter wuchs damit auch die Furcht vor ihm.",
+        "Dann erhielten sie Gleipnir. Das unscheinbare Band sollte leisten, woran das starke Eisen gescheitert war.",
+        "",
+        "Fenrir misstraute der neuen Probe. Er verlangte eine Hand in seinem Maul als Pfand für die versprochene Freilassung.",
+        "Keiner wollte das Pfand geben. Das Zögern verriet, wie wenig die Götter ihrer eigenen Zusage entsprachen.",
+        "",
+        "Tyr hatte seine rechte Hand in Fenrirs Maul gelegt. Jetzt spannte der Wolf sich gegen das Band, doch Gleipnir hielt.",
+        "",
+        "",
+        "Die Götter befreiten Fenrir nicht. Tyr verlor die Hand; ihre Sicherheit blieb mit diesem Opfer und dem Vertrauensbruch verbunden."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "vier-kunstreiche-brueder-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Nach vier Jahren trafen sich die Brüder wieder. Als Dieb, Sterngucker, Jäger und Schneider hatten sie Verschiedenes gelernt.",
+        "",
+        "Der Sterngucker hatte die geraubte Königstochter gefunden. Doch solange sie beim Drachen lag, durfte der Jäger nicht schießen.",
+        "Der Dieb schlich sich heran und trug die Schlafende fort. Seine Geschicklichkeit schuf den Ausweg, den die Waffe nicht bot.",
+        "",
+        "Als der Drache das Schiff aus der Luft verfolgte, war die Gerettete außer Gefahr. Jetzt konnte der Jäger schießen.",
+        "Der tote Drache fiel auf das Schiff. Der gelungene Schuss wurde dadurch zur nächsten Gefahr für alle an Bord.",
+        "",
+        "Zwischen den schwimmenden Trümmern brauchten sie nun den Schneider. Mit seiner Wundernadel verband er die Schiffsteile wieder.",
+        "Erst das reparierte Schiff machte aus der Befreiung eine sichere Heimfahrt. Alle fünf erreichten gemeinsam das Land.",
+        "",
+        "Die Belohnung gehörte den vier Brüdern gemeinsam. Jede Kunst hatte eine Grenze gehabt, an der eine andere gebraucht wurde."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "walther-hildegund-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Walther und Hildegund entkamen dem Geiselhof mit zwei Schätzen. Die Freiheit begann, aber Sicherheit hatten sie noch nicht erreicht.",
+        "",
+        "",
+        "Am Rhein hatte Gunther vom Gold erfahren. In den Vogesen verstellte er dem Paar mit seinen Männern den Weg.",
+        "",
+        "Gier machte selbst Walthers früheren Gefährten Hagen zum Gegner. Der Heimweg verwandelte sich in einen Kampf.",
+        "Nach schweren Kämpfen waren Walther, Gunther und Hagen verwundet. Hildegund bestand darauf, die Waffen ruhen zu lassen.",
+        "",
+        "",
+        "Hildegund versorgte auch die Gegner. Weiterzukämpfen hätte den Verwundeten nur noch mehr von dem genommen, was zu retten war.",
+        "",
+        "Walther und Hildegund setzten ihren Weg fort. Die Wunden blieben, aber das Ende des Kampfes machte die Heimkehr wieder möglich."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "wasser-des-lebens-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Weil der Jüngste freundlich antwortete, erhielt er Rat und Hilfsmittel: eine eiserne Rute, zwei Brote und den Weg zum Schloss.",
+        "Mit drei Schlägen der Rute öffnete er das Tor. Hinter ihm lag der Rückweg, vor ihm die nächste Aufgabe.",
+        "Jedem der beiden Löwen gab er eines der Brote. So konnte er weitergehen, ohne gegen sie kämpfen zu müssen.",
+        "Die Königstochter warnte ihn: Vor Mitternacht musste er mit dem Wasser wieder draußen sein. Danach würde sich das Tor schließen.",
+        "Trotz der Warnung schlief er erschöpft ein. Während er ruhte, verging die Zeit für seine Flucht.",
+        "",
+        "Kurz vor Mitternacht schöpfte er das Wasser und verschloss das Fläschchen. Noch musste er es durch das Tor bringen.",
+        "Er eilte zum Ausgang. Die schließenden Torflügel ließen ihm nur noch einen schmalen Weg ins Freie.",
+        "Das Tor schlug hinter ihm zu. Das Wasser war gerettet, der junge Mann unverletzt auf der anderen Seite.",
+        "Nun konnte die Heimreise beginnen. Ob der Vater genesen würde, lag noch vor ihm; Freundlichkeit hatte erst diesen Weg ermöglicht."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "weihnachtsgeschichte-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Marleys Geist warnte Scrooge vor einem Leben ohne menschliche Nähe. Drei weitere Geister sollten ihm zeigen, was noch zu ändern war.",
+        "",
+        "",
+        "Der Geist der Gegenwart führte ihn zu den Cratchits. Ihre knappe Mahlzeit bot mehr Gemeinschaft als sein eigener Reichtum.",
+        "",
+        "",
+        "Der letzte Geist zeigte ihm eine mögliche Zukunft. Wo Scrooge eine Hinterlassenschaft erwartet hätte, fand er niemanden, der um ihn trauerte.",
+        "",
+        "",
+        "Am Weihnachtsmorgen brachte Scrooge den Cratchits Lebensmittel. Seine neue Einsicht musste nun über Worte hinausgehen.",
+        "",
+        "Scrooge versprach auch für den Alltag Veränderung und nahm selbst am gemeinsamen Tisch Platz. Der neue Anfang sollte länger dauern als das Fest."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "weinsberg-worttreue-8",
+      "intervall": 3,
+      "erzaehler": [
+        "Die Sage erzählt von Weinsbergs Niederlage. Vor dem Tor entschied sich nun, was die Unterlegenen retten durften.",
+        "",
+        "Die Frauen durften mitnehmen, was sie auf den Schultern tragen konnten. Eine Truhe war ihnen nicht das Wertvollste.",
+        "Eine Frau hob ihren Mann auf den Rücken. Ihre Auslegung der Erlaubnis war schwer zu tragen, aber eindeutig.",
+        "Andere taten es ihr gleich. Der Zug zum Tor bestand nicht aus geretteten Wertsachen, sondern aus Menschen.",
+        "Im Gefolge des Königs erhob sich Widerspruch. So hatten die Sieger die gewährte Erlaubnis offenbar nicht verstanden.",
+        "",
+        "Konrad ließ die Frauen mit ihren Männern ziehen. Sein Wort bewährte sich gerade dort, wo die Auslegung ihm unbequem war."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "weisse-schlange-14",
+      "intervall": 3,
+      "erzaehler": [
+        "Ein Diener kostete heimlich von der weißen Schlange. Im Märchen konnte er danach die Sprache der Tiere verstehen.",
+        "",
+        "Die gehörte Äußerung führte zum vermissten Ring. Der Diener bewies seine Unschuld und konnte den Hof verlassen.",
+        "Zu Pferd zog er weiter. Seine neue Fähigkeit machte ihn unterwegs auf Not aufmerksam, die er sonst überhört hätte.",
+        "",
+        "Vor einer Ameisenstraße lenkte er das Pferd beiseite. Dieser Umweg kostete wenig und schonte viele kleine Leben.",
+        "Die alte Fassung erzählt auch einen harten Preis: Um verlassene junge Raben zu nähren, opferte er sein Pferd.",
+        "",
+        "Später sollte er für eine Königstochter einen Ring aus dem Meer holen. Die geretteten Fische fanden ihn für ihn wieder.",
+        "",
+        "Die geschonten Ameisen sammelten die verstreuten Körner. Was seine Hände nicht rechtzeitig geschafft hätten, gelang ihnen gemeinsam.",
+        "Als dritte Aufgabe verlangte die Königstochter einen Apfel vom Baum des Lebens. Wieder reichte sein eigenes Vermögen nicht aus.",
+        "Die Raben brachten den Apfel. Die frühere Hilfe war ihnen nicht entfallen.",
+        "Mit der letzten Gabe gewann er die Königstochter. Hinter seinem Erfolg standen auch die Wesen, denen er zuvor beigestanden hatte."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "wieland-handwerk-10",
+      "intervall": 3,
+      "erzaehler": [
+        "Wieland war ein außergewöhnlicher Schmied. Ein Herrscher wollte nicht nur seine Arbeit, sondern auch ihn selbst besitzen.",
+        "",
+        "Der Herrscher ließ ihn verstümmeln. Seine Beine blieben verletzt; der gewöhnliche Weg aus der Gefangenschaft war ihm genommen.",
+        "Die Werkstatt wurde zum Gefängnis. Werkzeug durfte Wieland benutzen, über seine Freiheit aber sollte er nicht verfügen.",
+        "",
+        "Wieland arbeitete an einem anderen Ausweg. Das Können, das der Herrscher ausbeutete, bekam eine neue Richtung.",
+        "Aus den einzelnen Arbeiten entstand in der Sage ein Gestell mit zwei künstlichen Flügeln. Noch musste der Ausbruch gelingen.",
+        "",
+        "Mit den Flügeln erhob Wieland sich über die Mauer. Seine verletzten Beine waren nicht geheilt; er hatte die Grenze anders überwunden.",
+        "Der Hof wurde unter ihm klein. Diese Episode endet mit der Flucht, nicht mit einer Aussage über sein ganzes weiteres Leben."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "winkelried-lindwurm-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Bei Wylen, erzählt die Sage, verödete ein Lindwurm den Landstrich. Menschen mieden die Höfe in seiner Nähe.",
+        "Winkelried war wegen einer Mordtat flüchtig. Er bot an, das Tier zu bekämpfen, wenn man ihn wieder aufnehmen würde.",
+        "Die Bewohner nahmen das Angebot an. Für Winkelried verband sich die Befreiung des Landes mit der Hoffnung auf Rückkehr.",
+        "Statt eines Schildes trug er ein Dornbündel. Damit wollte er den offenen Rachen des angreifenden Tieres blockieren.",
+        "Vor der Höhle zog er das Schwert. Das Dornbündel hielt er zwischen sich und dem herankommenden Lindwurm.",
+        "Beim Vorstoß geriet das Bündel in den Rachen. Während sich der Lindwurm wand, suchte Winkelried eine erreichbare Blöße.",
+        "Als die Flanke frei lag, stieß Winkelried zu. Erst dieser Angriff entschied den Kampf.",
+        "Der Lindwurm war tot. Winkelried glaubte, nun zugleich das Land und sein eigenes weiteres Leben gerettet zu haben.",
+        "Im Jubel hob er die Klinge. Dass noch eine Gefahr an ihr haftete, bedachte er nicht.",
+        "Nach der Sage rann giftiges Drachenblut über den Griff auf seine Hand. Der überstandene Kampf bekam eine tödliche Nachwirkung.",
+        "Winkelried starb neben dem besiegten Tier. Der sichtbare Erfolg hatte ihn nicht vor dieser Folge geschützt.",
+        "Die Bewohner kehrten ins befreite Land zurück. Das Drachenloch erinnerte an einen Sieger, der selbst nicht mehr heimkehrte."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "wolfdietrich-treue-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "",
+        "Nach dem Verlust seines Platzes entkam Wolfdietrich. Berchtung und seine Söhne blieben zurück; ihre Treue kostete sie die Freiheit.",
+        "Fern der Heimat war Wolfdietrich zunächst sicher. Die Gefährten hatten keinen Anteil an dieser Rettung.",
+        "",
+        "Ein neues Leben allein hätte bedeutet, die Gefangenen aufzugeben. Wolfdietrich konnte seinen eigenen Ausweg nicht für das Ende halten.",
+        "",
+        "Die Rückkehr musste er erkämpfen. Sein Anspruch auf das Reich war nicht ohne Widerstand wiederherzustellen.",
+        "Nachdem er sich durchgesetzt hatte, ging Wolfdietrich am Herrschaftssessel vorbei. Zuerst suchte er die zurückgelassenen Gefährten.",
+        "",
+        "",
+        "Berchtung und seine Söhne traten mit ihm ins Freie. Erst als auch sie gerettet waren, war Wolfdietrichs Rückkehr vollständig."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "zeitmaschine-ankunft-12",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Tage und Jahreszeiten zogen vorbei. Der kurze Versuch entfernte den Reisenden immer weiter von seiner eigenen Zeit.",
+        "Im Jahr 802701 hielt die Maschine an. Die Zukunft empfing ihn mit Hagelresten, nassem Gras und einer fremden Landschaft.",
+        "",
+        "",
+        "Die freundlichen Eloi konnten ihm die alten Werke ihrer Umgebung nicht erklären. Seine erste Deutung einer gelösten Menschheit bekam Risse.",
+        "",
+        "",
+        "Am leeren Landeplatz fand er Schleifspuren zum Sockel der Sphinx. Die Maschine war offenbar nicht verschwunden, sondern fortgeschafft worden.",
+        "",
+        "Er hatte sichtbares Wohlbefinden für eine vollständige Antwort gehalten. Ohne seine Maschine war er nun selbst von dieser Welt abhängig.",
+        "Die Tür blieb zu. Mit dem verbliebenen Hebel in der Hand beschloss er, seinen Rückweg und das Verborgene hinter der Ruhe zu suchen."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "zertanzte-schuhe-12",
+      "intervall": 3,
+      "erzaehler": [
+        "Nachts schloss man die zwölf Königstöchter ein. Trotzdem lagen morgens ihre abgetragenen Schuhe bereit; der König verlangte Aufklärung.",
+        "",
+        "Gewarnt vor dem Schlaftrunk, täuschte der Soldat das Trinken vor. Wach zu bleiben war die Voraussetzung seiner Beobachtung.",
+        "Unter einem Bett öffneten die Schwestern einen geheimen Weg. Im unsichtbar machenden Mantel folgte er ihnen hinab.",
+        "",
+        "Im Boot verriet sich beinahe sein zusätzliches Gewicht. Unsichtbarkeit nahm ihm weder Körper noch Wirkung auf die Umgebung.",
+        "In der zweiten Nacht ging er denselben Weg. Einen weiteren Zweig nahm er als überprüfbare Spur mit.",
+        "In der dritten Nacht gelangte er wieder in den Tanzsaal und nahm einen Becher. Seine Beobachtungen bekamen greifbare Belege.",
+        "Morgens war der verborgene Zugang wieder geschlossen. Der Soldat kehrte sichtbar mit den gesammelten Gegenständen zurück.",
+        "",
+        "",
+        "Das Rätsel war aufgeklärt; der Soldat hatte die älteste Tochter gewählt. Ob die Aufklärung auch das heimliche Beobachten rechtfertigte, blieb eine Frage."
+      ],
+      "sprechtexte": {}
+    },
+    {
+      "basis": "zwerg-nase-14",
+      "intervall": 3,
+      "erzaehler": [
+        "",
+        "Im Haus der Kräuterfrau geriet Jakob unter einen Zauber. Seine Mutter wusste nicht, warum er nicht zurückkam.",
+        "Sieben Jahre musste er in Tiergestalt dienen. Dabei erlernte er die Kochkunst, die ihm später einen Lebensunterhalt ermöglichen sollte.",
+        "",
+        "",
+        "Am Herzogshof rettete Jakob die sprechende Gans Mimi. Auch sie lebte in einer Gestalt, die ihr eigentliches Wesen verbarg.",
+        "",
+        "",
+        "Bei einer verlangten Pastete half Mimi ihm mit dem Rezept. Aus Jakobs Können und ihrem Wissen entstand das Gericht.",
+        "",
+        "",
+        "Unter einer Kastanie fanden sie das fehlende Kraut. Sein Geruch erinnerte Jakob an den Zauber der Kräuterfrau.",
+        "",
+        "Jakob gewann seine menschliche Gestalt zurück und verließ mit Mimi den Hof. Nun wollten sie ihren Vater suchen, der auch ihr helfen konnte."
       ],
       "sprechtexte": {}
     }

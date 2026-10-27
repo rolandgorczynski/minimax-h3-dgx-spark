@@ -1,0 +1,142 @@
+TITEL: Die Zeitmaschine – Der erste Blick auf das Jahr 802701 · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Namenloser Reisender mit der Zeitmaschine
+Aussehen: Erwachsener Mann mit kurzem braunem Haar, gerader Nase und schmalem Bart an Kinn und Oberlippe.
+Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Erreicht die ferne Zukunft und deutet ihre Bequemlichkeit vorschnell als gelöstes Menschheitsproblem. Verliert die Maschine, nicht seinen Willen zu verstehen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Eloi am ersten Landeplatz
+Aussehen: Kleiner erwachsener Mensch mit weichem Gesicht, lockigem kurzem dunklem Haar und runden menschlichen Ohren.
+Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Freundlicher erster Kontakt in der Zukunft. Kein Elf und kein Zauberwesen. Versteht anfangs nicht die Sprache des Zeitreisenden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der erste Versuch
+Ort und Zeit: Viktorianisches Labor
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein einziges technisches Gerät mit dunklem gepolstertem Sitz, glänzendem Messingrahmen und großer matter Scheibe steht im Labor. Der Reisende sitzt darin und betätigt einen kleinen abnehmbaren Messinghebel. Zeitskala noch nahe seiner Ausgangszeit. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: im Sattel der Zeitmaschine; Körperhaltung: sitzend; Mitgeführte Gegenstände: rechte Hand am kleinen Messinghebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Namenloser Reisender mit der Zeitmaschine
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ein kurzer Versuch. Dann zurück.“
+Kontinuität / Änderung: Einzigartige Maschine mit gleichbleibender Form; kein zweites Gerät oder futuristischer Filmnachbau.
+
+KACHEL 2: Die Jahre laufen
+Ort und Zeit: Zeitmaschine während der Fahrt
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einzelner Moment subjektiver Zeitfahrt: Das Gerät und der Reisende sind scharf, außerhalb der Maschinensilhouette liegen abstrakte helle und dunkle Bewegungsbänder. Die Skala nähert sich 802701. Keine zusätzliche Figur aus einer anderen Epoche. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: weiter auf demselben Sitz; Körperhaltung: sitzend; Mitgeführte Gegenstände: rechte Hand am Messinghebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Tage und Jahreszeiten zogen vorbei. Der kurze Versuch entfernte den Reisenden immer weiter von seiner eigenen Zeit.
+Dialoge: keine
+Kontinuität / Änderung: Reisender bleibt im Sitz, unveränderte Kleidung. Keine räumlich getrennten Zeitszenen als Montage.
+
+KACHEL 3: Ankunft im Regen
+Ort und Zeit: Parklandschaft vor einer weißen Sphinx
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Maschine steht jetzt auf einer Rasenstelle nahe einem großen weißen Sphinxdenkmal mit bronzenem Sockel. Nachlassender Hagel liegt zwischen den Halmen. Auf der Zeitanzeige steht 802701. Der Mann sitzt noch im Gerät und betrachtet die fremde Vegetation. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: auf dem stehenden Gerät; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hand am angehaltenen Hebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Jahr 802701 hielt die Maschine an. Die Zukunft empfing ihn mit Hagelresten, nassem Gras und einer fremden Landschaft.
+Dialoge: keine
+Kontinuität / Änderung: Ankunft abgeschlossen, Maschine am Landeplatz. Noch kein Diebstahl und kein Aussteigen.
+
+KACHEL 4: Die freundliche Begrüßung
+Ort und Zeit: Rasen neben der Zeitmaschine
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Reisende ist ausdrücklich vom Sitz abgestiegen. Ein kleiner erwachsener Mensch in helllila Tunika reicht ihm eine Blüte entgegen. Die Maschine steht unverschlossen hinter ihm; er hat nur den Steuerhebel zur Sicherung abgenommen. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: neben dem Sitz der Maschine; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner abgenommener Messinghebel in der rechten Hand; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: einige Schritte vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Blüte; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Namenloser Reisender mit der Zeitmaschine
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Menschen. Also doch.“
+Kontinuität / Änderung: Abgestiegen und zu Fuß. Abgenommener Hebel existiert genau einmal. Noch liegt er nicht in der Tasche.
+
+KACHEL 5: Eine mühelose Welt
+Ort und Zeit: Große Speisehalle zwischen alten Säulen
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Weggehen vom Landeplatz sitzt er zwischen namenlosen erwachsenen Eloi beim Obstmahl. Der vorher gezeigte Hebel steckt nun in seiner geschlossenen inneren Jackentasche. Die erhaltene Blüte liegt vor ihm auf dem Tisch. Keiner versteht seine Worte sicher; die Eloi antworten mit freundlichen Gesten. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: an einem niedrigen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Stück Obst; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Namenloser Reisender mit der Zeitmaschine
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Kein Hunger, keine Arbeit? Haben wir es am Ende geschafft?“
+Kontinuität / Änderung: Maschine bleibt unbeaufsichtigt auf dem Rasen außerhalb des Bildes. Kein mitreisendes Miniaturgerät.
+
+KACHEL 6: Fragen ohne Widerhall
+Ort und Zeit: Verfallener Seitenflügel der Halle
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später zeigt der Reisende auf ein altes technisches Relief, das zwischen Ranken zerbröckelt. Der Eloi zuckt freundlich mit den Schultern und wendet sich zu anderen ab. Der Reisende bleibt mit seiner unbeantworteten Frage zurück. Keine erfundene verständliche Eloi-Rede. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor gebrochenem altem Säulenrelief; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: beim Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die freundlichen Eloi konnten ihm die alten Werke ihrer Umgebung nicht erklären. Seine erste Deutung einer gelösten Menschheit bekam Risse.
+Dialoge: keine
+Kontinuität / Änderung: Fröhlichkeit ist keine belegte vollständige Gesellschaftserklärung; Sprachbarriere bleibt bestehen.
+
+KACHEL 7: Vor der Dunkelheit
+Ort und Zeit: Eingang der großen Halle bei Abendlicht
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Bei sinkendem Tageslicht ziehen sich die Eloi eng in die große Halle zurück. Der bekannte Eloi scheut den dunklen Garten und winkt ihn hastig herein. Der Reisende schaut stattdessen Richtung Landeplatz. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: auf der Eingangsstufe; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: im hellen Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände eng am Gürtel; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Namenloser Reisender mit der Zeitmaschine
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wovor habt ihr Angst?“
+Kontinuität / Änderung: Angst vor Dunkelheit als Beobachtung, Ursache noch unbekannt. Keine Monster im Garten zeigen.
+
+KACHEL 8: Der leere Landeplatz
+Ort und Zeit: Rasen vor der weißen Sphinx bei Dämmerung
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Rückweg zu Fuß steht er vor derselben Rasenstelle. Genau dort, wo das Gerät stand, liegen nur gequetschtes Gras und Hagelreste. Die Sphinx und der Bronzesockel erlauben räumliche Wiedererkennung. Keine Maschine im Hintergrund. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor der leeren Rasenfläche; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Namenloser Reisender mit der Zeitmaschine
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nein. Hier stand sie.“
+Kontinuität / Änderung: Maschine ist verschwunden. Sie bleibt ab hier außerhalb des Bildes hinter dem verschlossenen Sockel, noch nicht vom Reisenden gesehen.
+
+KACHEL 9: Eine Richtung
+Ort und Zeit: Boden zwischen Landeplatz und Sockel
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Er kniet bei breiten Druck- und Schleifspuren, die vom leeren Platz zum bronzenen Sockel unter der Sphinx führen. Sein Finger folgt einer Spur. Keine eindeutigen Täterabdrücke und keine heimliche Ansicht der Verursacher. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: an Schleifspuren im Gras; Körperhaltung: kniend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am leeren Landeplatz fand er Schleifspuren zum Sockel der Sphinx. Die Maschine war offenbar nicht verschwunden, sondern fortgeschafft worden.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Landeplatz und Spuren sind beobachtbar; Täter und genauer Mechanismus bleiben unbekannt.
+
+KACHEL 10: Verschlossen
+Ort und Zeit: Bronzetür im Sphinxsockel
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Reisende prüft eine fest geschlossene bronzene Türfuge unter dem weißen Denkmal. Keine Klinke gibt nach. Die Kamera bleibt vor der Tür; weder Maschine noch ein anderer Bewohner ist durch sie hindurch sichtbar. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: unmittelbar vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: linke Hand an Fuge; Messinghebel weiter in innerer Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Namenloser Reisender mit der Zeitmaschine
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Macht auf!“
+Kontinuität / Änderung: Keine Türöffnung und keine Lösung. Messinghebel passt nicht automatisch als magischer Schlüssel.
+
+KACHEL 11: Die falsche Sicherheit
+Ort und Zeit: Stufe vor dem verschlossenen Sockel bei Nacht
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der erschöpfte Reisende sitzt vor der verschlossenen Tür. Im Fernhintergrund leuchten die Fenster der Halle, auf dem Rasen steht keine Maschine. Er schaut zwischen scheinbar sicherer Halle und unbekanntem Inneren des Sockels hin und her. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: am Fuß der Bronzetür; Körperhaltung: sitzend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er hatte sichtbares Wohlbefinden für eine vollständige Antwort gehalten. Ohne seine Maschine war er nun selbst von dieser Welt abhängig.
+Dialoge: keine
+Kontinuität / Änderung: Noch in 802701 gefangen. Kein nächtlicher Angriff und keine gerettete Rückfahrt.
+
+KACHEL 12: Die nächste Frage
+Ort und Zeit: Sphinxsockel im ersten Morgenlicht
+Sichtbare Figuren: Namenloser Reisender mit der Zeitmaschine
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am Morgen ist er aufgestanden und hat denselben Hebel aus der Tasche genommen. Er betrachtet ihn als verbliebenes Stück seines Rückwegs, dann die Türfuge. Die Tür bleibt zu und die Maschine unsichtbar. Sein Stand ist nun prüfend statt panisch. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor derselben geschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner Messinghebel in der rechten Hand; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Tür blieb zu. Mit dem verbliebenen Hebel in der Hand beschloss er, seinen Rückweg und das Verborgene hinter der Ruhe zu suchen.
+Dialoge: keine
+Kontinuität / Änderung: Offener Episodenschluss: Suche beschlossen, Ursache und Rückkehr ungelöst. Keine Morlocks oder späteren Rettungsversuche vorwegnehmen.

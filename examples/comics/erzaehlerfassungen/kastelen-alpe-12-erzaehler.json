@@ -1,0 +1,567 @@
+{
+  "mode": "editorial",
+  "name": "Kastelen-Alpe · Erzählerfassung",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Kastelen-Alpe. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 16.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAuf der Kastelen-Alpe wohnte ein reicher Bauer, der hatte viele Herden und Matten, und drunten in Kriens hatte er eine arme Muhme, die war Witwe, hatte nur eine einzige Tochter und nährte sich mit dieser gar kümmerlich, lag auch schwer an der Gicht darnieder. Da entschloß sich das Maidli, hinauf auf die Alp zum reichen Vetter zu gehen und ihn um eine Unterstützung anzusprechen. Da stieg ein schrecklich Gewitter am Himmel auf, als sie auf der Alpe ankam, ihr aber ward kein Trost und keine Gabe, nur Hohn und Scheltworte, und sie ließen droben auch trotz des drohenden Wetters das Mägdlein wieder fortgehen. Das kam tüchtig in das Wetter und erreichte mit Not die Hütte eines Sennen, das war ihr Bube Aloys, der hatte noch einen kleinen Käs, den gab er ihr für sie und ihre Mutter. Raschen Schrittes eilte die Dirne abwärts, da glitt sie auf der glatten Trift, fiel hin, und der Käs rollte in die Tiefe, unaufhaltbar in unzugängliche Felsklüfte. Weinend und kummervoll schaute die arme Dirne dem entrollten Käse nach, da faßte etwas ihre Hand, und sie erschrak zum Tode, und bei ihr stand so ein klein winziges graues Herdmanndli, das hatte auf seiner Schulter das verlorengegangene Stückchen Alpenkäse, etwa so groß wie ein Viertelsmühlstein und in der Hand ein Büschel Kräuter, und sprach: Magst den Käs mit heimnehmen und deiner Mutter von den Kräutern einen Tee kochen, sollst nicht mehr hülflos weinen. – Hoch droben im Gebirg aber tobte das Unwetter noch fort, über alle Maßen greulich, und war ein Donnern, Tosen und Krachen, als ginge die Welt unter. Wie das Maidli zur Mutter kam, war der Käs ein Stück so schweres Gold geworden, und vom Kräutertee wurde die Mutter ganz gesund. Über die Kastelen-Alp aber hatte sich im Gewitter ein Bergsturz geschüttet, die Matten verwüstet, die Herden erschlagen und ein Stein, etwa so groß wie ein Alpenkäs, hatte dem geizigen Vetter einen Fuß abgeschlagen. Später ist er noch zu seiner Muhme Haus gehinkt gekommen und hat gebettelt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Kastelen-Alpe. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 16.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAuf der Kastelen-Alpe wohnte ein reicher Bauer, der hatte viele Herden und Matten, und drunten in Kriens hatte er eine arme Muhme, die war Witwe, hatte nur eine einzige Tochter und nährte sich mit dieser gar kümmerlich, lag auch schwer an der Gicht darnieder. Da entschloß sich das Maidli, hinauf auf die Alp zum reichen Vetter zu gehen und ihn um eine Unterstützung anzusprechen. Da stieg ein schrecklich Gewitter am Himmel auf, als sie auf der Alpe ankam, ihr aber ward kein Trost und keine Gabe, nur Hohn und Scheltworte, und sie ließen droben auch trotz des drohenden Wetters das Mägdlein wieder fortgehen. Das kam tüchtig in das Wetter und erreichte mit Not die Hütte eines Sennen, das war ihr Bube Aloys, der hatte noch einen kleinen Käs, den gab er ihr für sie und ihre Mutter. Raschen Schrittes eilte die Dirne abwärts, da glitt sie auf der glatten Trift, fiel hin, und der Käs rollte in die Tiefe, unaufhaltbar in unzugängliche Felsklüfte. Weinend und kummervoll schaute die arme Dirne dem entrollten Käse nach, da faßte etwas ihre Hand, und sie erschrak zum Tode, und bei ihr stand so ein klein winziges graues Herdmanndli, das hatte auf seiner Schulter das verlorengegangene Stückchen Alpenkäse, etwa so groß wie ein Viertelsmühlstein und in der Hand ein Büschel Kräuter, und sprach: Magst den Käs mit heimnehmen und deiner Mutter von den Kräutern einen Tee kochen, sollst nicht mehr hülflos weinen. – Hoch droben im Gebirg aber tobte das Unwetter noch fort, über alle Maßen greulich, und war ein Donnern, Tosen und Krachen, als ginge die Welt unter. Wie das Maidli zur Mutter kam, war der Käs ein Stück so schweres Gold geworden, und vom Kräutertee wurde die Mutter ganz gesund. Über die Kastelen-Alp aber hatte sich im Gewitter ein Bergsturz geschüttet, die Matten verwüstet, die Herden erschlagen und ein Stein, etwa so groß wie ein Alpenkäs, hatte dem geizigen Vetter einen Fuß abgeschlagen. Später ist er noch zu seiner Muhme Haus gehinkt gekommen und hat gebettelt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Die Bitte für zwei",
+        "setting": "Armes Haus in Kriens",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3",
+          "66faf6beaed15a7bad64d7f70a06b68a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Tochter steht bei ihrer bettlägerigen Mutter. Die kleine Vorratsschale auf dem Tisch ist fast leer; eine einzelne Tasche reicht für den Weg. Kein Gold und kein Käse liegen schon bereit. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Bett der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere kleine Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: im Bett; Körperhaltung: liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Schwer an Gicht leidend, keine sichtbare Wunde.",
+        "dialog": "In der Kastelen-Sage bittet die Tochter einer kranken Witwe um Hilfe. Ihr reicher Verwandter lebt oben auf der Alp.",
+        "bubbles": [],
+        "continuity": "Zwei Frauen in Armut vor der erbetenen Hilfe. Kein bereits geschenkter Kräutervorrat.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "neben dem Bett der Mutter",
+            "posture": "stehend",
+            "held": "leere kleine Leinentasche",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "66faf6beaed15a7bad64d7f70a06b68a": {
+            "location": "im Bett",
+            "posture": "liegend",
+            "held": "leere Hände",
+            "clothing": "Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "Schwer an Gicht leidend, keine sichtbare Wunde"
+          }
+        }
+      },
+      {
+        "heading": "Oben zieht das Wetter auf",
+        "setting": "Hof des reichen Vetters",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3",
+          "01c007a580b85affa2d27f8eef469d79"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach dem Aufstieg bittet die junge Frau an einem wohlhabenden Hof. Hinter dem Vetter liegen volle Vorräte, draußen steigt ein Gewitter auf. Er bleibt trocken unter dem Dach. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: vor der großen Hoftür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Reicher Vetter auf der Kastelen-Alpe: Ort: im geschützten Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "d9ed3fc1985750debf6ce7f674a15af3",
+            "text": "Meine Mutter ist krank. Könnt Ihr uns etwas geben?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "01c007a580b85affa2d27f8eef469d79",
+            "text": "Hier bekommst du nichts.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Er hat Vorräte, verweigert aber die Gabe. Kein Tier oder Mensch wird im Bild verletzt.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "vor der großen Hoftür",
+            "posture": "stehend",
+            "held": "leere Leinentasche",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "01c007a580b85affa2d27f8eef469d79": {
+            "location": "im geschützten Türrahmen",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Zurück in den Sturm",
+        "setting": "Hangweg unterhalb des Hofes",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die abgewiesene Frau muss bei drohendem Unwetter gehen. Sie hält das Tuch über die leere Tasche. Der wohlhabende Hof verschwindet oben im dunklen Regen, eine kleine Sennhütte liegt weiter unten. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf dem abfallenden Pfad; Körperhaltung: gegen den Regen gehend; Mitgeführte Gegenstände: leere Tasche unter dem Schultertuch; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Der Vetter wies sie ab und ließ sie trotz des drohenden Gewitters gehen. Ihre Tasche blieb leer.",
+        "bubbles": [],
+        "continuity": "Keine Gabe vom Vetter, Tasche bleibt leer. Noch kein Bergsturz und kein Käseverlust.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "auf dem abfallenden Pfad",
+            "posture": "gegen den Regen gehend",
+            "held": "leere Tasche unter dem Schultertuch",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die kleine Gabe",
+        "setting": "Sennhütte des Aloys",
+        "characters": [
+          "32550d764aa9589580c318996f3afa9d",
+          "d9ed3fc1985750debf6ce7f674a15af3"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Die junge Frau hat Aloys erreicht. In der bescheidenen Hütte steht kaum Vorrat. Er reicht ihr den einen kleinen runden Käse mit einer flachen Kerbe an der Rinde entgegen, sie öffnet die Tasche. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: unter dem schmalen Vordach; Körperhaltung: stehend; Mitgeführte Gegenstände: geöffnete leere Tasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aloys mit dem kleinen Käse: Ort: in seiner Hüttentür; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelner kleiner runder Käse; Kleidung: Graue Leinentunika, dunkelbraune Hose und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "32550d764aa9589580c318996f3afa9d",
+            "text": "Nimm ihn für dich und deine Mutter.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Genau ein Käse vom armen Senner. Seine flache Rindenkerbe bleibt Erkennungszeichen bis zur Verwandlung.",
+        "character_states": {},
+        "continuity_state": {
+          "32550d764aa9589580c318996f3afa9d": {
+            "location": "in seiner Hüttentür",
+            "posture": "stehend",
+            "held": "ein einzelner kleiner runder Käse",
+            "clothing": "Graue Leinentunika, dunkelbraune Hose und feste Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "unter dem schmalen Vordach",
+            "posture": "stehend",
+            "held": "geöffnete leere Tasche",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die entgleitende Hoffnung",
+        "setting": "Nasser Hangweg",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Weitergehen rutscht sie auf dem nassen Hang aus. Der eine Käse ist aus der Tasche gerollt und bewegt sich bereits unterhalb ihrer Reichweite Richtung Felsspalte. Keine zweite Gabe bleibt im Beutel. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf der glatten Trift; Körperhaltung: auf ein Knie gerutscht; Mitgeführte Gegenstände: offene nun leere Tasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Auf dem nassen Hang rutschte sie aus. Der kleine Käse, Aloys' Gabe für zwei Menschen, rollte außer Reichweite in die Tiefe.",
+        "bubbles": [],
+        "continuity": "Ein Stück verloren, nicht gegessen oder zerbrochen. Keine sichtbare Verletzung der Frau.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "auf der glatten Trift",
+            "posture": "auf ein Knie gerutscht",
+            "held": "offene nun leere Tasche",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die unerwartete Hand",
+        "setting": "Rand derselben Felskluft",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3",
+          "322f22c9f0ef5ed48f7f48140fedfd39"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Weinende erschrickt, als das winzige Herdmanndli neben ihr steht. Auf seiner Schulter liegt der Käse mit derselben flachen Kerbe; in der anderen Hand hält es ein einzelnes Büschel unbestimmter Kräuter. Kein neues zweites Stück in der Spalte. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: oberhalb der unerreichbaren Spalte; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; leere Tasche am Boden; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graues Herdmanndli mit der verlorenen Gabe: Ort: unmittelbar neben ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: derselbe kleine Käse auf der Schulter, Kräuterbüschel in einer Hand; Kleidung: Langer grauer Rock bis auf den Boden, Füße verdeckt. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Ein Herdmanndli brachte den verlorenen Käse zurück. Dazu gab es ihr ein Kräutlein für die kranke Mutter.",
+        "bubbles": [],
+        "continuity": "Wiedergefundener identischer Käse. Kräuter sind zusätzliche Zaubergabe, keine botanisch bestimmte Arznei.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "oberhalb der unerreichbaren Spalte",
+            "posture": "kniend",
+            "held": "leere Hände; leere Tasche am Boden",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "322f22c9f0ef5ed48f7f48140fedfd39": {
+            "location": "unmittelbar neben ihr",
+            "posture": "stehend",
+            "held": "derselbe kleine Käse auf der Schulter, Kräuterbüschel in einer Hand",
+            "clothing": "Langer grauer Rock bis auf den Boden, Füße verdeckt. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Sicher nach unten",
+        "setting": "Abwärtsweg im nachlassenden Regen",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach der Übergabe hat sie Käse und Kräuter fest in der Tasche verstaut und hält diese mit beiden Händen. Hinter ihr bleibt das Gewitter hoch am Berg dunkel. Kein Herdmanndli begleitet sie als zweite reisende Person. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf dem Weg nach Kriens; Körperhaltung: vorsichtig gehend; Mitgeführte Gegenstände: Käse und Kräuter fest in der geschlossenen Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Mit der geretteten Gabe ging sie weiter ins Tal. Oben auf der Alp donnerte das Unwetter noch.",
+        "bubbles": [],
+        "continuity": "Käse und Kräuter bei ihr, nicht mehr auf der Schulter des Helfers. Bergsturz wird noch nicht aus der Nähe sichtbar.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "auf dem Weg nach Kriens",
+            "posture": "vorsichtig gehend",
+            "held": "Käse und Kräuter fest in der geschlossenen Leinentasche",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Was zuhause ankommt",
+        "setting": "Haus der Mutter in Kriens",
+        "characters": [
+          "d9ed3fc1985750debf6ce7f674a15af3",
+          "66faf6beaed15a7bad64d7f70a06b68a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Zuhause legt die Tochter die Gabe auf den Tisch. Statt des Käses liegt dort jetzt ein schweres goldenes Stück in derselben runden Form mit flacher Kerbe; daneben das eine Kräuterbüschel. Kein essbarer Käse bleibt gleichzeitig daneben. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: offene Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: im Bett; Körperhaltung: aufgerichtet sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter schwer an Gicht leidend.",
+        "dialog": "Zuhause fand sie statt des Käses ein gleich geformtes Stück Gold. Aus der kleinen Gabe war im Wunder der Sage neue Sicherheit geworden.",
+        "bubbles": [],
+        "continuity": "Ein Objekt verwandelt sich, keine Verdopplung in Käse und Gold. Mutter zu diesem Zeitpunkt noch krank.",
+        "character_states": {},
+        "continuity_state": {
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "neben dem Tisch",
+            "posture": "stehend",
+            "held": "offene Leinentasche",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "66faf6beaed15a7bad64d7f70a06b68a": {
+            "location": "im Bett",
+            "posture": "aufgerichtet sitzend",
+            "held": "leere Hände",
+            "clothing": "Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "Weiter schwer an Gicht leidend"
+          }
+        }
+      },
+      {
+        "heading": "Die sagenhafte Genesung",
+        "setting": "Dasselbe Haus etwas später",
+        "characters": [
+          "66faf6beaed15a7bad64d7f70a06b68a",
+          "d9ed3fc1985750debf6ce7f674a15af3"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem aus den unbestimmten Kräutern zubereiteten Getränk sitzt die Mutter im Sagenwunder aufrecht und erleichtert am Bett. Keine Kräuternamen, Mengen oder Heilrezepte werden gezeigt. Das eine Goldstück liegt auf dem Tisch. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: auf der Bettkante; Körperhaltung: aufrecht sitzend; Mitgeführte Gegenstände: eine einfache Tasse; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: In der Sage genesen.",
+        "dialog": "Auch die Mutter wurde im Sagenwunder wieder gesund. Die beiden Frauen waren nicht länger ohne Hilfe.",
+        "bubbles": [],
+        "continuity": "Wunder innerhalb der Erzählung, keine reale Behandlungsempfehlung für Gicht. Gold weiterhin ein Stück.",
+        "character_states": {},
+        "continuity_state": {
+          "66faf6beaed15a7bad64d7f70a06b68a": {
+            "location": "auf der Bettkante",
+            "posture": "aufrecht sitzend",
+            "held": "eine einfache Tasse",
+            "clothing": "Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "In der Sage genesen"
+          },
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "neben dem Bett",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Alp nach dem Unwetter",
+        "setting": "Verwüstete Kastelen-Alpe",
+        "characters": [],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am nächsten Tag sieht man die Alp nach einem Bergsturz. Geröll bedeckt frühere Matten, leere beschädigte Gatter stehen zwischen Steinen. Keine erschlagenen Tiere und keine verletzte Person sind sichtbar. Das Herdmanndli lenkt den Bergsturz nicht im Bild.",
+        "dialog": "Am nächsten Tag zeigte sich oben die Verwüstung: Ein Bergsturz hatte den reichen Hof und seine Herden vernichtet.",
+        "bubbles": [],
+        "continuity": "Bergsturz vergangen, keine neue Rettungsszene der Herden erfinden. Kein eindeutig behaupteter Zauberbefehl als Ursache.",
+        "character_states": {},
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die umgekehrte Bitte",
+        "setting": "Vor dem Haus der Witwe einige Zeit später",
+        "characters": [
+          "01c007a580b85affa2d27f8eef469d79",
+          "d9ed3fc1985750debf6ce7f674a15af3",
+          "66faf6beaed15a7bad64d7f70a06b68a"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Später erreicht der Vetter mit zwei Holzstützen die Tür. Der lange Mantel verdeckt die Folgen seiner Verletzung vollständig. Die Frauen sind beide aufrecht und lebend, keine prunkvolle neue Burg oder erfundene Rachehandlung. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: hinter der Tochter im Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: In der Sage weiter genesen. Reicher Vetter auf der Kastelen-Alpe: Ort: vor der Tür der früher armen Frauen; Körperhaltung: auf zwei Holzstützen stehend; Mitgeführte Gegenstände: je eine Holzstütze; Kleidung: Abgetragener dunkelroter Rock, langer Mantel bis über die Beine; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Ein Fuß fehlt nach dem Bergsturz, durch Mantel vollständig verdeckt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "01c007a580b85affa2d27f8eef469d79",
+            "text": "Habt ihr etwas für mich?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Vetter jetzt hilfsbedürftig und mit bleibendem Verlust eines Fußes, nicht nur vorübergehend stolpernd.",
+        "character_states": {},
+        "continuity_state": {
+          "01c007a580b85affa2d27f8eef469d79": {
+            "location": "vor der Tür der früher armen Frauen",
+            "posture": "auf zwei Holzstützen stehend",
+            "held": "je eine Holzstütze",
+            "clothing": "Abgetragener dunkelroter Rock, langer Mantel bis über die Beine",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "Ein Fuß fehlt nach dem Bergsturz, durch Mantel vollständig verdeckt"
+          },
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "in der offenen Haustür",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "66faf6beaed15a7bad64d7f70a06b68a": {
+            "location": "hinter der Tochter im Haus",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "In der Sage weiter genesen"
+          }
+        }
+      },
+      {
+        "heading": "An derselben Schwelle",
+        "setting": "Nähere Ansicht derselben offenen Tür",
+        "characters": [
+          "01c007a580b85affa2d27f8eef469d79",
+          "d9ed3fc1985750debf6ce7f674a15af3",
+          "66faf6beaed15a7bad64d7f70a06b68a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Blick geht von der Seite auf die Begegnung, nicht auf eine weitere neue Handlung. Der einst abweisende Mann wartet als Bittsteller, die Tochter und Mutter stehen auf gleicher Bodenhöhe an ihrer Tür. Keine Antwort erfindet eine Bestrafung oder erzwungene Vergebung. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: neben der Tochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter genesen im Sagenwunder. Reicher Vetter auf der Kastelen-Alpe: Ort: vor der Tür auf den Stützen; Körperhaltung: gestützt stehend; Mitgeführte Gegenstände: zwei Holzstützen; Kleidung: Abgetragener dunkelroter Rock, langer Mantel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Fehlender Fuß dauerhaft, verdeckt.",
+        "dialog": "Nun stand der frühere reiche Vetter als Bittsteller vor ihrer Tür. Besitz und Mitgefühl waren in der Geschichte nie dasselbe gewesen.",
+        "bubbles": [],
+        "continuity": "Überliefertes Ende bei seiner Bitte. Kein unbelegtes weiteres Almosen, keine Vertreibung und keine neue moralische Prüfung der Frauen.",
+        "character_states": {},
+        "continuity_state": {
+          "01c007a580b85affa2d27f8eef469d79": {
+            "location": "vor der Tür auf den Stützen",
+            "posture": "gestützt stehend",
+            "held": "zwei Holzstützen",
+            "clothing": "Abgetragener dunkelroter Rock, langer Mantel",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "Fehlender Fuß dauerhaft, verdeckt"
+          },
+          "d9ed3fc1985750debf6ce7f674a15af3": {
+            "location": "im Türrahmen",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "66faf6beaed15a7bad64d7f70a06b68a": {
+            "location": "neben der Tochter",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "Weiter genesen im Sagenwunder"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "d9ed3fc1985750debf6ce7f674a15af3",
+        "name": "Tochter auf dem Weg zur Kastelen-Alpe",
+        "description": "Neunzehnjährige junge Frau mit braunem Haar in einem festen Zopf und ernstem Gesicht.",
+        "outfit": "Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.",
+        "backstory": "Bittet für ihre kranke Mutter um Hilfe. Die kleine Gabe des armen Aloys wird nach einem Verlust zum Sagenwunder.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "66faf6beaed15a7bad64d7f70a06b68a",
+        "name": "Kranke Witwe in Kriens",
+        "description": "Ältere Frau mit grauen Haaren unter heller Haube und schmalem Gesicht.",
+        "outfit": "Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.",
+        "backstory": "Lebt mit der Tochter in Armut und leidet in der Sage schwer an Gicht. Die Genesung durch die geschenkten Kräuter ist ein Sagenwunder, keine Behandlungsempfehlung.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "01c007a580b85affa2d27f8eef469d79",
+        "name": "Reicher Vetter auf der Kastelen-Alpe",
+        "description": "Erwachsener kräftiger Mann mit schwarzem kurzem Bart und breitem Gesicht.",
+        "outfit": "Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.",
+        "backstory": "Weist die hilfesuchende Verwandte ab. Verliert beim Bergsturz Besitz und einen Fuß, kommt später selbst als Bittender.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "32550d764aa9589580c318996f3afa9d",
+        "name": "Aloys mit dem kleinen Käse",
+        "description": "Junger erwachsener Mann mit hellbraunem kurzem Haar und bartlosem Gesicht.",
+        "outfit": "Graue Leinentunika, dunkelbraune Hose und feste Schuhe.",
+        "backstory": "Senner und Geliebter der jungen Frau. Gibt ihr von seinem geringen Vorrat den einen kleinen Käse, ohne eine Gegenleistung zu verlangen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "322f22c9f0ef5ed48f7f48140fedfd39",
+        "name": "Graues Herdmanndli mit der verlorenen Gabe",
+        "description": "Sehr kleine erwachsene märchenhafte Gestalt mit langem grauem Bart und rundem Gesicht.",
+        "outfit": "Langer grauer Rock bis auf den Boden, Füße verdeckt. Keine Waffen.",
+        "backstory": "Bringt denselben verlorenen Käse und ein Kräuterbüschel. Ein einzelner Helfer, kein zweiter Käseverkäufer oder rachsüchtiger Bergsturzlenker.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Woran bemisst sich Wohlstand gegenüber der Not anderer?",
+      "core": "Besitz ohne Mitgefühl kann moralisch ärmer sein als eine kleine hilfreiche Gabe. Die Sage kehrt die soziale Lage um und entlarvt den zuvor als überlegen auftretenden Verwandten.",
+      "ending": "Die Mutter wird gesund, das Mädchen erhält Gold; der frühere reiche Vetter muss betteln.",
+      "reason": "Bitte, Abweisung, kleine Hilfe, verlorene Gabe und überraschende Umkehr bilden den ganzen Gegensatz.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Später ist er noch zu seiner Muhme Haus gehinkt gekommen und hat gebettelt.",
+          "meaning": "Der abweisende Reiche wird selbst hilfsbedürftig; das bloße Haben erweist sich nicht als Sicherheit."
+        }
+      ],
+      "causal_chain": [
+        "Später ist er noch zu seiner Muhme Haus gehinkt gekommen und hat gebettelt.",
+        "Die Mutter wird gesund, das Mädchen erhält Gold; der frühere reiche Vetter muss betteln."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "a682ef78066fcee6b239d04504ac7ec0f4a77805eb5c3acda48523b5007cc78c",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.308656+00:00"
+    },
+    "post_summary": "Der reiche Verwandte weist eine Bitte ab, der arme Aloys teilt seinen kleinen Käse. Nach Verlust, Hilfe und Sagenwunder kehren sich die Verhältnisse um: Nun steht der einst Reiche als Bittsteller an der Tür.",
+    "source_provenance": {
+      "title": "Kastelen-Alpe",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 16.",
+      "url": "https://textgridrep.org/browse/kg8g.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Kastelen-Alpe. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 16.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAuf der Kastelen-Alpe wohnte ein reicher Bauer, der hatte viele Herden und Matten, und drunten in Kriens hatte er eine arme Muhme, die war Witwe, hatte nur eine einzige Tochter und nährte sich mit dieser gar kümmerlich, lag auch schwer an der Gicht darnieder. Da entschloß sich das Maidli, hinauf auf die Alp zum reichen Vetter zu gehen und ihn um eine Unterstützung anzusprechen. Da stieg ein schrecklich Gewitter am Himmel auf, als sie auf der Alpe ankam, ihr aber ward kein Trost und keine Gabe, nur Hohn und Scheltworte, und sie ließen droben auch trotz des drohenden Wetters das Mägdlein wieder fortgehen. Das kam tüchtig in das Wetter und erreichte mit Not die Hütte eines Sennen, das war ihr Bube Aloys, der hatte noch einen kleinen Käs, den gab er ihr für sie und ihre Mutter. Raschen Schrittes eilte die Dirne abwärts, da glitt sie auf der glatten Trift, fiel hin, und der Käs rollte in die Tiefe, unaufhaltbar in unzugängliche Felsklüfte. Weinend und kummervoll schaute die arme Dirne dem entrollten Käse nach, da faßte etwas ihre Hand, und sie erschrak zum Tode, und bei ihr stand so ein klein winziges graues Herdmanndli, das hatte auf seiner Schulter das verlorengegangene Stückchen Alpenkäse, etwa so groß wie ein Viertelsmühlstein und in der Hand ein Büschel Kräuter, und sprach: Magst den Käs mit heimnehmen und deiner Mutter von den Kräutern einen Tee kochen, sollst nicht mehr hülflos weinen. – Hoch droben im Gebirg aber tobte das Unwetter noch fort, über alle Maßen greulich, und war ein Donnern, Tosen und Krachen, als ginge die Welt unter. Wie das Maidli zur Mutter kam, war der Käs ein Stück so schweres Gold geworden, und vom Kräutertee wurde die Mutter ganz gesund. Über die Kastelen-Alp aber hatte sich im Gewitter ein Bergsturz geschüttet, die Matten verwüstet, die Herden erschlagen und ein Stein, etwa so groß wie ein Alpenkäs, hatte dem geizigen Vetter einen Fuß abgeschlagen. Später ist er noch zu seiner Muhme Haus gehinkt gekommen und hat gebettelt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Auf der Kastelen-Alpe wohnte ein reicher Bauer, der hatte viele Herden und Matten, und drunten in Kriens hatte er eine arme Muhme, die war Witwe, hatte nur eine einzige Tochter und nährte sich mit dieser gar kümmerlich, lag auch schwer an der Gicht darnieder.",
+      "id": "bechstein-sagen-kg8g-0",
+      "category": "Schätze und verborgene Orte",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "source_script": "TITEL: Kastelen-Alpe · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Tochter auf dem Weg zur Kastelen-Alpe\nAussehen: Neunzehnjährige junge Frau mit braunem Haar in einem festen Zopf und ernstem Gesicht.\nKleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.\nPersönlichkeit und Vorgeschichte: Bittet für ihre kranke Mutter um Hilfe. Die kleine Gabe des armen Aloys wird nach einem Verlust zum Sagenwunder.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Kranke Witwe in Kriens\nAussehen: Ältere Frau mit grauen Haaren unter heller Haube und schmalem Gesicht.\nKleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.\nPersönlichkeit und Vorgeschichte: Lebt mit der Tochter in Armut und leidet in der Sage schwer an Gicht. Die Genesung durch die geschenkten Kräuter ist ein Sagenwunder, keine Behandlungsempfehlung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Reicher Vetter auf der Kastelen-Alpe\nAussehen: Erwachsener kräftiger Mann mit schwarzem kurzem Bart und breitem Gesicht.\nKleidung: Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.\nPersönlichkeit und Vorgeschichte: Weist die hilfesuchende Verwandte ab. Verliert beim Bergsturz Besitz und einen Fuß, kommt später selbst als Bittender.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Aloys mit dem kleinen Käse\nAussehen: Junger erwachsener Mann mit hellbraunem kurzem Haar und bartlosem Gesicht.\nKleidung: Graue Leinentunika, dunkelbraune Hose und feste Schuhe.\nPersönlichkeit und Vorgeschichte: Senner und Geliebter der jungen Frau. Gibt ihr von seinem geringen Vorrat den einen kleinen Käse, ohne eine Gegenleistung zu verlangen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Graues Herdmanndli mit der verlorenen Gabe\nAussehen: Sehr kleine erwachsene märchenhafte Gestalt mit langem grauem Bart und rundem Gesicht.\nKleidung: Langer grauer Rock bis auf den Boden, Füße verdeckt. Keine Waffen.\nPersönlichkeit und Vorgeschichte: Bringt denselben verlorenen Käse und ein Kräuterbüschel. Ein einzelner Helfer, kein zweiter Käseverkäufer oder rachsüchtiger Bergsturzlenker.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Bitte für zwei\nOrt und Zeit: Armes Haus in Kriens\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Tochter steht bei ihrer bettlägerigen Mutter. Die kleine Vorratsschale auf dem Tisch ist fast leer; eine einzelne Tasche reicht für den Weg. Kein Gold und kein Käse liegen schon bereit. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Bett der Mutter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere kleine Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: im Bett; Körperhaltung: liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Schwer an Gicht leidend, keine sichtbare Wunde.\nErzählertext: In der Kastelen-Sage bittet die Tochter einer kranken Witwe um Hilfe. Ihr reicher Verwandter lebt oben auf der Alp.\nDialoge: keine\nKontinuität / Änderung: Zwei Frauen in Armut vor der erbetenen Hilfe. Kein bereits geschenkter Kräutervorrat.\n\nKACHEL 2: Oben zieht das Wetter auf\nOrt und Zeit: Hof des reichen Vetters\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Reicher Vetter auf der Kastelen-Alpe\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach dem Aufstieg bittet die junge Frau an einem wohlhabenden Hof. Hinter dem Vetter liegen volle Vorräte, draußen steigt ein Gewitter auf. Er bleibt trocken unter dem Dach. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: vor der großen Hoftür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Reicher Vetter auf der Kastelen-Alpe: Ort: im geschützten Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter Wollrock, braune Hose und feste schwarze Schuhe; später abgetragen und mit langem Mantel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Tochter auf dem Weg zur Kastelen-Alpe\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Meine Mutter ist krank. Könnt Ihr uns etwas geben?“\nDialog 2:\n  Sprecher: Reicher Vetter auf der Kastelen-Alpe\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Hier bekommst du nichts.“\nKontinuität / Änderung: Er hat Vorräte, verweigert aber die Gabe. Kein Tier oder Mensch wird im Bild verletzt.\n\nKACHEL 3: Zurück in den Sturm\nOrt und Zeit: Hangweg unterhalb des Hofes\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die abgewiesene Frau muss bei drohendem Unwetter gehen. Sie hält das Tuch über die leere Tasche. Der wohlhabende Hof verschwindet oben im dunklen Regen, eine kleine Sennhütte liegt weiter unten. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf dem abfallenden Pfad; Körperhaltung: gegen den Regen gehend; Mitgeführte Gegenstände: leere Tasche unter dem Schultertuch; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Der Vetter wies sie ab und ließ sie trotz des drohenden Gewitters gehen. Ihre Tasche blieb leer.\nDialoge: keine\nKontinuität / Änderung: Keine Gabe vom Vetter, Tasche bleibt leer. Noch kein Bergsturz und kein Käseverlust.\n\nKACHEL 4: Die kleine Gabe\nOrt und Zeit: Sennhütte des Aloys\nSichtbare Figuren: Aloys mit dem kleinen Käse, Tochter auf dem Weg zur Kastelen-Alpe\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Die junge Frau hat Aloys erreicht. In der bescheidenen Hütte steht kaum Vorrat. Er reicht ihr den einen kleinen runden Käse mit einer flachen Kerbe an der Rinde entgegen, sie öffnet die Tasche. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: unter dem schmalen Vordach; Körperhaltung: stehend; Mitgeführte Gegenstände: geöffnete leere Tasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Aloys mit dem kleinen Käse: Ort: in seiner Hüttentür; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelner kleiner runder Käse; Kleidung: Graue Leinentunika, dunkelbraune Hose und feste Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Aloys mit dem kleinen Käse\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nimm ihn für dich und deine Mutter.“\nKontinuität / Änderung: Genau ein Käse vom armen Senner. Seine flache Rindenkerbe bleibt Erkennungszeichen bis zur Verwandlung.\n\nKACHEL 5: Die entgleitende Hoffnung\nOrt und Zeit: Nasser Hangweg\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Weitergehen rutscht sie auf dem nassen Hang aus. Der eine Käse ist aus der Tasche gerollt und bewegt sich bereits unterhalb ihrer Reichweite Richtung Felsspalte. Keine zweite Gabe bleibt im Beutel. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf der glatten Trift; Körperhaltung: auf ein Knie gerutscht; Mitgeführte Gegenstände: offene nun leere Tasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Auf dem nassen Hang rutschte sie aus. Der kleine Käse, Aloys' Gabe für zwei Menschen, rollte außer Reichweite in die Tiefe.\nDialoge: keine\nKontinuität / Änderung: Ein Stück verloren, nicht gegessen oder zerbrochen. Keine sichtbare Verletzung der Frau.\n\nKACHEL 6: Die unerwartete Hand\nOrt und Zeit: Rand derselben Felskluft\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Graues Herdmanndli mit der verlorenen Gabe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Weinende erschrickt, als das winzige Herdmanndli neben ihr steht. Auf seiner Schulter liegt der Käse mit derselben flachen Kerbe; in der anderen Hand hält es ein einzelnes Büschel unbestimmter Kräuter. Kein neues zweites Stück in der Spalte. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: oberhalb der unerreichbaren Spalte; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; leere Tasche am Boden; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graues Herdmanndli mit der verlorenen Gabe: Ort: unmittelbar neben ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: derselbe kleine Käse auf der Schulter, Kräuterbüschel in einer Hand; Kleidung: Langer grauer Rock bis auf den Boden, Füße verdeckt. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Ein Herdmanndli brachte den verlorenen Käse zurück. Dazu gab es ihr ein Kräutlein für die kranke Mutter.\nDialoge: keine\nKontinuität / Änderung: Wiedergefundener identischer Käse. Kräuter sind zusätzliche Zaubergabe, keine botanisch bestimmte Arznei.\n\nKACHEL 7: Sicher nach unten\nOrt und Zeit: Abwärtsweg im nachlassenden Regen\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach der Übergabe hat sie Käse und Kräuter fest in der Tasche verstaut und hält diese mit beiden Händen. Hinter ihr bleibt das Gewitter hoch am Berg dunkel. Kein Herdmanndli begleitet sie als zweite reisende Person. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: auf dem Weg nach Kriens; Körperhaltung: vorsichtig gehend; Mitgeführte Gegenstände: Käse und Kräuter fest in der geschlossenen Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Mit der geretteten Gabe ging sie weiter ins Tal. Oben auf der Alp donnerte das Unwetter noch.\nDialoge: keine\nKontinuität / Änderung: Käse und Kräuter bei ihr, nicht mehr auf der Schulter des Helfers. Bergsturz wird noch nicht aus der Nähe sichtbar.\n\nKACHEL 8: Was zuhause ankommt\nOrt und Zeit: Haus der Mutter in Kriens\nSichtbare Figuren: Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Zuhause legt die Tochter die Gabe auf den Tisch. Statt des Käses liegt dort jetzt ein schweres goldenes Stück in derselben runden Form mit flacher Kerbe; daneben das eine Kräuterbüschel. Kein essbarer Käse bleibt gleichzeitig daneben. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: offene Leinentasche; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: im Bett; Körperhaltung: aufgerichtet sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter schwer an Gicht leidend.\nErzählertext: Zuhause fand sie statt des Käses ein gleich geformtes Stück Gold. Aus der kleinen Gabe war im Wunder der Sage neue Sicherheit geworden.\nDialoge: keine\nKontinuität / Änderung: Ein Objekt verwandelt sich, keine Verdopplung in Käse und Gold. Mutter zu diesem Zeitpunkt noch krank.\n\nKACHEL 9: Die sagenhafte Genesung\nOrt und Zeit: Dasselbe Haus etwas später\nSichtbare Figuren: Kranke Witwe in Kriens, Tochter auf dem Weg zur Kastelen-Alpe\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem aus den unbestimmten Kräutern zubereiteten Getränk sitzt die Mutter im Sagenwunder aufrecht und erleichtert am Bett. Keine Kräuternamen, Mengen oder Heilrezepte werden gezeigt. Das eine Goldstück liegt auf dem Tisch. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: neben dem Bett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: auf der Bettkante; Körperhaltung: aufrecht sitzend; Mitgeführte Gegenstände: eine einfache Tasse; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: In der Sage genesen.\nErzählertext: Auch die Mutter wurde im Sagenwunder wieder gesund. Die beiden Frauen waren nicht länger ohne Hilfe.\nDialoge: keine\nKontinuität / Änderung: Wunder innerhalb der Erzählung, keine reale Behandlungsempfehlung für Gicht. Gold weiterhin ein Stück.\n\nKACHEL 10: Die Alp nach dem Unwetter\nOrt und Zeit: Verwüstete Kastelen-Alpe\nSichtbare Figuren: keine\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am nächsten Tag sieht man die Alp nach einem Bergsturz. Geröll bedeckt frühere Matten, leere beschädigte Gatter stehen zwischen Steinen. Keine erschlagenen Tiere und keine verletzte Person sind sichtbar. Das Herdmanndli lenkt den Bergsturz nicht im Bild.\nErzählertext: Am nächsten Tag zeigte sich oben die Verwüstung: Ein Bergsturz hatte den reichen Hof und seine Herden vernichtet.\nDialoge: keine\nKontinuität / Änderung: Bergsturz vergangen, keine neue Rettungsszene der Herden erfinden. Kein eindeutig behaupteter Zauberbefehl als Ursache.\n\nKACHEL 11: Die umgekehrte Bitte\nOrt und Zeit: Vor dem Haus der Witwe einige Zeit später\nSichtbare Figuren: Reicher Vetter auf der Kastelen-Alpe, Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Später erreicht der Vetter mit zwei Holzstützen die Tür. Der lange Mantel verdeckt die Folgen seiner Verletzung vollständig. Die Frauen sind beide aufrecht und lebend, keine prunkvolle neue Burg oder erfundene Rachehandlung. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: hinter der Tochter im Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: In der Sage weiter genesen. Reicher Vetter auf der Kastelen-Alpe: Ort: vor der Tür der früher armen Frauen; Körperhaltung: auf zwei Holzstützen stehend; Mitgeführte Gegenstände: je eine Holzstütze; Kleidung: Abgetragener dunkelroter Rock, langer Mantel bis über die Beine; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Ein Fuß fehlt nach dem Bergsturz, durch Mantel vollständig verdeckt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Reicher Vetter auf der Kastelen-Alpe\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Habt ihr etwas für mich?“\nKontinuität / Änderung: Vetter jetzt hilfsbedürftig und mit bleibendem Verlust eines Fußes, nicht nur vorübergehend stolpernd.\n\nKACHEL 12: An derselben Schwelle\nOrt und Zeit: Nähere Ansicht derselben offenen Tür\nSichtbare Figuren: Reicher Vetter auf der Kastelen-Alpe, Tochter auf dem Weg zur Kastelen-Alpe, Kranke Witwe in Kriens\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der Blick geht von der Seite auf die Begegnung, nicht auf eine weitere neue Handlung. Der einst abweisende Mann wartet als Bittsteller, die Tochter und Mutter stehen auf gleicher Bodenhöhe an ihrer Tür. Keine Antwort erfindet eine Bestrafung oder erzwungene Vergebung. Verbindliche Zustände: Tochter auf dem Weg zur Kastelen-Alpe: Ort: im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Wollkleid, graues Schultertuch und braune feste Schuhe. Eine kleine Leinentasche.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kranke Witwe in Kriens: Ort: neben der Tochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes langes Kleid und helle Haube; zunächst graue Decke über den Beinen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter genesen im Sagenwunder. Reicher Vetter auf der Kastelen-Alpe: Ort: vor der Tür auf den Stützen; Körperhaltung: gestützt stehend; Mitgeführte Gegenstände: zwei Holzstützen; Kleidung: Abgetragener dunkelroter Rock, langer Mantel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Fehlender Fuß dauerhaft, verdeckt.\nErzählertext: Nun stand der frühere reiche Vetter als Bittsteller vor ihrer Tür. Besitz und Mitgefühl waren in der Geschichte nie dasselbe gewesen.\nDialoge: keine\nKontinuität / Änderung: Überliefertes Ende bei seiner Bitte. Kein unbelegtes weiteres Almosen, keine Vertreibung und keine neue moralische Prüfung der Frauen.\n",
+    "book_author": "",
+    "editorial_script_id": "kastelen-alpe-12-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "kastelen-alpe-12"
+    },
+    "title": "Kastelen-Alpe · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "kastelen-alpe-12"
+    }
+  },
+  "count_policy": "editorial"
+}

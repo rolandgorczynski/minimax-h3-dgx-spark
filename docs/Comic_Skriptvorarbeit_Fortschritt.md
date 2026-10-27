@@ -124,3 +124,9 @@ Zehn vorhandene Stoffe als neue Geschichten mit dem Titelzusatz „Erzählerfass
 [Auswahl und technische Prüfberichte](../examples/comics/erzaehlerfassungen/README.md) · [Alle Texte kompakt lesen](Comic_Erzaehlerfassungen_10.md).
 
 Diese Varianten ändern den Stand **90 von 382** der allgemeinen Skriptvorarbeit nicht. Deren Warteschlange bleibt pausiert.
+
+## Erzählerfassungen vollständig vorbereitet (27. Oktober 2026)
+
+Alle 90 vorhandenen redaktionellen Basisskripte haben jetzt eine zusätzliche, getrennt importierte Erzählerfassung. Die ersten zehn bleiben Vergleichsfassungen mit Erzählertext in jeder zweiten Kachel; die weiteren 80 verwenden jede dritte Kachel und zusätzliche Übergänge bei Bedarf. Kacheln ohne gesprochenen Dialog enthalten ausschließlich Erzählertext. Erzähler und Dialog werden innerhalb einer Kachel nicht vermischt. Figuren, Kontinuitätszustände, Kachelzahl und Originalfassungen bleiben erhalten. Keine Bilder erzeugt.
+
+Diese Varianten erhöhen nicht den Fortschritt des weiterhin pausierten 382er-Auftrags. [Übersicht, Lesefassungen und Prüfberichte](../examples/comics/erzaehlerfassungen/README.md).

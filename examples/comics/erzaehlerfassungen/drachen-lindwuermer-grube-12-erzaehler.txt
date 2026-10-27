@@ -1,0 +1,136 @@
+TITEL: Von Drachen und Lindwürmen · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Luzerner Küfer in der Drachengrube
+Aussehen: Erwachsener Mann mit kurzem dunkelbraunem Bart und braunem Haar; über den Winter zunehmend schmal und blass.
+Kleidung: Braune Arbeitsjacke, graue Hose und feste dunkle Schuhe. Kleines Handbeil und leerer Tragkorb nur vor dem Sturz. Keine Schwerter.
+Persönlichkeit und Vorgeschichte: Sucht Holz, stürzt in eine Grube und wird von den gefürchteten Lindwürmern nicht angegriffen. Entkommt, erfüllt sein Gelübde und stirbt später an den Folgen der Entbehrung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Großer Lindwurm der linken Höhle
+Aussehen: Großer dunkelgrüner Drache mit schmalem Kopf, zwei kurzen Hörnern, vier Beinen, genau zwei ledernen Flügeln und einem langen Schwanz.
+Kleidung: Dunkelgrüne Schuppen ohne Kleidung; in der Höhle beide Flügel gefaltet.
+Persönlichkeit und Vorgeschichte: Bewohner der linken Höhle. Fliegt im Frühling zuerst hinaus, ohne den Küfer zu tragen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kleiner Lindwurm der rechten Höhle
+Aussehen: Etwas kleinerer graugrüner Drache mit hellem Fleck an der linken Wange, vier Beinen, genau zwei ledernen Flügeln und einem langen Schwanz.
+Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.
+Persönlichkeit und Vorgeschichte: Bewohner der rechten Höhle. Umkreist den Küfer freundlich und trägt ihn schließlich am Schwanz aus der Grube.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Sakristan beim gestifteten Messgewand
+Aussehen: Älterer Mann mit grauem kurzem Haar und schmalem Gesicht.
+Kleidung: Einfacher dunkler langer Rock und feste schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Nimmt in der Sage das gestiftete Gewand für die Kirche entgegen. Ist keine zweite Erscheinung des heiligen Leodager.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Holz für das Handwerk
+Ort und Zeit: Waldpfad am Pilatus im Spätherbst
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein Küfer sucht im herbstlichen Wald passendes Holz für Fassreifen und Dauben. Der schmale Pfad verliert sich im Nebel. Kein mitgeführtes Schwert und kein gefällter Drachenkörper. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: zwischen nassen Bäumen; Körperhaltung: stehend; Mitgeführte Gegenstände: kleines Handbeil in der rechten Hand; leerer Tragkorb auf dem Rücken; Kleidung: Braune Arbeitsjacke, graue Hose und feste dunkle Schuhe. Kleines Handbeil und leerer Tragkorb nur vor dem Sturz. Keine Schwerter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Eine Pilatussage erzählt von einem Küfer, der Holz für seine Fässer suchte. Im Nebel verlor er den Weg.
+Dialoge: keine
+Kontinuität / Änderung: Gewählter Grubenbogen. Heilstein und andere Drachensichtungen gehören nicht zu diesem Abenteuer.
+
+KACHEL 2: Der verlorene Boden
+Ort und Zeit: Rand einer tiefen Felsspalte bei Nacht
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Im Dunkeln bricht unter seinem Schritt der Halt ab. Der Mann rutscht unter den Rand, das kleine Beil und der Korb bleiben sichtbar oben im Gestrüpp hängen. Kein Aufprall und keine Knochenverletzung dargestellt. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: unter dem oberen Spaltenrand; Körperhaltung: in die Tiefe rutschend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Arbeitsjacke, graue Hose und feste dunkle Schuhe. Kleines Handbeil und leerer Tragkorb nur vor dem Sturz. Keine Schwerter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Sturz im Gang, keine sichtbare Wunde.
+Erzählertext: Als die Nacht kam, stürzte er in eine tiefe Grube. Beil und Korb blieben oben zurück.
+Dialoge: keine
+Kontinuität / Änderung: Werkzeuge oben verloren, nicht später unerklärt in der Grube in der Hand. Ein Körper, kein gleichzeitiger zweiter Küfer am Rand.
+
+KACHEL 3: Zwei bewohnte Eingänge
+Ort und Zeit: Boden der Drachengrube am Morgen
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube, Großer Lindwurm der linken Höhle, Kleiner Lindwurm der rechten Höhle
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Bei Tageslicht sieht der Küfer die hohen unerreichbaren Wände und genau zwei Höhleneingänge. Der größere dunkle Drache ruht links, der kleinere mit hellem Wangenfleck rechts. Keine Flamme bedroht den Mann. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: im Schlamm zwischen zwei Höhleneingängen; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Verschmutzte braune Arbeitsjacke, graue Hose und Schuhe; kein Korb; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Lindwurm der linken Höhle: Ort: in der linken Höhle; Körperhaltung: auf vier Beinen ruhend, Flügel gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkelgrüne Schuppen ohne Kleidung; in der Höhle beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kleiner Lindwurm der rechten Höhle: Ort: in der rechten Höhle; Körperhaltung: auf vier Beinen ruhend, Flügel gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am Morgen erkannte er zwei Höhlen und ihre Bewohner: zwei Lindwürmer. Die Wände waren zu hoch für einen Ausweg.
+Dialoge: keine
+Kontinuität / Änderung: Sturz überlebt. Zwei verschiedene Drachen mit fester Höhlenzuordnung, keine vervielfachten Tierkörper.
+
+KACHEL 4: Gefürchtet, aber kein Angriff
+Ort und Zeit: Zwischen rechter Höhle und Felswand
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube, Kleiner Lindwurm der rechten Höhle
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der kleinere Drache kommt nahe, hält den Kopf ruhig und lässt den Fluchtweg zur Wand frei. Der Mann presst sich ängstlich an den Fels. Keine Zähne greifen nach ihm und kein erfundener Drachenkampf. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: an der feuchten Wand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Verschmutzte und zunehmend abgetragene braune Jacke, graue Hose und Schuhe; kein Korb oder Handbeil; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kleiner Lindwurm der rechten Höhle: Ort: mit Abstand vor ihm; Körperhaltung: auf vier Beinen stehend, Flügel gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er fürchtete die Drachen. Doch keiner griff ihn an; er musste mit ihnen in der Grube ausharren.
+Dialoge: keine
+Kontinuität / Änderung: Keine neue Feindschaft oder heimlich angelegte Waffe. Vertrauen entsteht langsam aus ausbleibender Gewalt.
+
+KACHEL 5: Das Wunder des Überlebens
+Ort und Zeit: Feuchte Felswand in der Grube
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube, Großer Lindwurm der linken Höhle
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der große Drache berührt die feuchte Felsstelle mit der Zunge. Der Küfer kniet daneben und folgt seinem Beispiel nur angedeutet, ohne Lehrbild einer wirklichen Überlebenstechnik. Kein fertiges Essen oder wundersamer Heilstein erscheint. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: bei einem feuchten salzigen Fels; Körperhaltung: kniend; Mitgeführte Gegenstände: eine Hand am Stein; Kleidung: Verschmutzte und zunehmend abgetragene braune Jacke, graue Hose und Schuhe; kein Korb oder Handbeil; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Großer Lindwurm der linken Höhle: Ort: seitlich der linken Höhle; Körperhaltung: Kopf am feuchten Fels, Flügel gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkelgrüne Schuppen ohne Kleidung; in der Höhle beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Sage lässt ihn wie die Lindwürmer an feuchten, salzigen Felsen Nahrung finden. So überstand er die erste Entbehrung.
+Dialoge: keine
+Kontinuität / Änderung: Sagenwunder, keine naturkundliche Ernährungsanleitung. Keine monatelange normale Gesundheit behaupten.
+
+KACHEL 6: Ein ganzer Winter
+Ort und Zeit: Drachengrube im Winterlicht
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube, Kleiner Lindwurm der rechten Höhle
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Viel später fällt kaltes Licht durch die verschneite obere Spalte. Der Küfer ist sichtbar schmaler, der kleinere Drache bleibt bei seiner rechten Höhle. Keine gleichzeitig im Bild wechselnden Jahreszeiten. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: am Rand der rechten Höhle; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragene verschmutzte braune Jacke, graue Hose und Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Deutlich abgemagert und geschwächt. Kleiner Lindwurm der rechten Höhle: Ort: in derselben rechten Höhle; Körperhaltung: auf vier Beinen zusammengeruht, Flügel gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ein ganzer Winter verging. Der Küfer blieb am Leben, doch Hunger und Eingeschlossensein schwächten ihn.
+Dialoge: keine
+Kontinuität / Änderung: Lang anhaltende Entbehrung sichtbar. Krankheit wird nach der Rettung nicht plötzlich rückgängig gemacht.
+
+KACHEL 7: Der erste Ausflug
+Ort und Zeit: Grube im ersten Frühlingslicht
+Sichtbare Figuren: Großer Lindwurm der linken Höhle, Luzerner Küfer in der Drachengrube, Kleiner Lindwurm der rechten Höhle
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Im Frühjahr erhebt sich der größere Drache allein zum oberen Spalt. Genau zwei Flügel sind ausgebreitet, seine vier Beine am Körper angezogen. Der Küfer steht unten, nicht auf seinem Rücken. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: auf dem Grubenboden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Verschmutzte und zunehmend abgetragene braune Jacke, graue Hose und Schuhe; kein Korb oder Handbeil; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Abgemagert und geschwächt. Großer Lindwurm der linken Höhle: Ort: oberhalb der linken Höhle; Körperhaltung: mit zwei ausgebreiteten Flügeln aufsteigend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkelgrüne Schuppen ohne Kleidung; in der Höhle beide Flügel gefaltet.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt. Kleiner Lindwurm der rechten Höhle: Ort: vor der rechten Höhle; Körperhaltung: auf vier Beinen stehend, Flügel gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Frühling flog der größere Lindwurm hinaus. Der Mann blieb mit dem kleineren zurück.
+Dialoge: keine
+Kontinuität / Änderung: Großer Drache verlässt die linke Höhle, trägt niemanden und erscheint nicht im folgenden Fluchtbild erneut unten.
+
+KACHEL 8: Eine Möglichkeit
+Ort und Zeit: Vor der rechten Höhle
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube, Kleiner Lindwurm der rechten Höhle
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nachdem der Große fort ist, streicht der kleinere Drache ruhig um den Mann. Der Küfer betet und sieht den erreichbaren langen Schwanz. Keine Leine, kein Sattel und keine plötzlich erschienene Flugausrüstung. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: neben dem kleineren Drachen; Körperhaltung: kniend; Mitgeführte Gegenstände: gefaltete leere Hände; Kleidung: Verschmutzte und zunehmend abgetragene braune Jacke, graue Hose und Schuhe; kein Korb oder Handbeil; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter abgemagert und geschwächt. Kleiner Lindwurm der rechten Höhle: Ort: mit langem Schwanz neben dem Küfer; Körperhaltung: auf vier Beinen stehend, Flügel noch gefaltet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Luzerner Küfer in der Drachengrube
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Komme ich hinaus, stifte ich Leodagers Kirche ein schönes Gewand.“
+Kontinuität / Änderung: Gelübde vor dem Ausstieg. Großer Drache fort, nur kleiner Drache als Fluchthelfer.
+
+KACHEL 9: Am Schwanz ins Licht
+Ort und Zeit: Oberer Spalt der Drachengrube
+Sichtbare Figuren: Kleiner Lindwurm der rechten Höhle, Luzerner Küfer in der Drachengrube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der kleine graugrüne Drache mit hellem Wangenfleck steigt mit genau zwei Flügeln zum Licht. Der Küfer hat beide Hände an seinem einen Schwanz und hängt unter ihm, nicht zugleich im Sattel. Die linke Höhle unter ihnen ist leer. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: am langen Schwanz des kleineren Drachen; Körperhaltung: mit beiden Händen am Schwanz hängend; Mitgeführte Gegenstände: beide Hände an demselben Schwanz; Kleidung: Verschmutzte und zunehmend abgetragene braune Jacke, graue Hose und Schuhe; kein Korb oder Handbeil; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: Weiter abgemagert und geschwächt. Kleiner Lindwurm der rechten Höhle: Ort: am oberen Felsrand; Körperhaltung: mit zwei Flügeln aufwärts fliegend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Graugrüne Schuppen ohne Kleidung; im Winter beide Flügel gefaltet.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Als auch der kleinere aufflog, hielt der Küfer sich an dessen Schwanz fest. Der gefürchtete Drache trug ihn aus der Grube.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mensch wird von genau einem Drachen getragen. Keine vervielfachten Schwänze, keine eigenen Flügel des Küfers.
+
+KACHEL 10: Zurück bei den Seinen
+Ort und Zeit: Weg nach Luzern nach der Flucht
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach dem Loslassen am sicheren oberen Rand hat er den Weg zu Menschen zurückgefunden. Zwei Erwachsene stützen ihn. Beide Drachen sind außer Sicht, sein früherer Korb und das Handbeil noch immer nicht zurück. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: bei zwei namenlosen erwachsenen Angehörigen; Körperhaltung: gestützt stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragene braune Jacke, graue Hose und Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Stark abgemagert und erschöpft.
+Erzählertext: Oben ließ er los und fand zu Menschen zurück. Die Rettung machte die lange Entbehrung nicht ungeschehen.
+Dialoge: keine
+Kontinuität / Änderung: Wieder zu Fuß, kein fortgesetzter Flug. Geschwächter Zustand bleibt nach dem Ortswechsel erhalten.
+
+KACHEL 11: Das gehaltene Wort
+Ort und Zeit: Stiftskirche im Hof zu Luzern
+Sichtbare Figuren: Luzerner Küfer in der Drachengrube, Sakristan beim gestifteten Messgewand
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach der Rückkehr lässt der Küfer das versprochene Gewand anfertigen. Gemeinsam mit dem Sakristan betrachtet er die fertige Stickerei: ein einzelner kleiner Mensch und zwei unterschiedlich große Drachen als gewebtes Erinnerungsbild. Der Gehstock ist neue Unterstützung wegen seiner Schwäche. Verbindliche Zustände: Luzerner Küfer in der Drachengrube: Ort: vor dem Sakristan; Körperhaltung: auf einen Holzstock gestützt; Mitgeführte Gegenstände: eine Hand am neuen Gehstock, andere an der Gewandkante; Kleidung: Gereinigte braune Jacke, graue Hose und Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Weiter stark geschwächt. Sakristan beim gestifteten Messgewand: Ort: vor einem ausgebreiteten Messgewand; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände an den oberen Stoffkanten; Kleidung: Einfacher dunkler langer Rock und feste schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er hielt sein Gelübde und stiftete das versprochene Kirchengewand. Seine Rettung sollte darauf sichtbar bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Gewand eigens angefertigt, nicht als fertiger Schatz aus der Grube mitgenommen. Stickerei keine lebenden zweiten Figuren.
+
+KACHEL 12: Was die Rettung bewahrte
+Ort und Zeit: Kirchenraum nach seinem Tod
+Sichtbare Figuren: Sakristan beim gestifteten Messgewand
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später betrachtet der Sakristan das fertig gestickte Gewand und den Eintrag im Buch. Der Küfer ist nicht lebend anwesend, kein Geist steht daneben. Zwei bestickte Drachen bleiben Bilder im Stoff. Verbindliche Zustände: Sakristan beim gestifteten Messgewand: Ort: bei dem aufgehängten Erinnerungsgewand; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geöffnetes Kirchenbuch; Kleidung: Einfacher dunkler langer Rock und feste schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Küfer starb bald an den Folgen der Entbehrung. Die Sage bewahrte die Erinnerung an Hilfe von den vermeintlichen Feinden.
+Dialoge: keine
+Kontinuität / Änderung: Tragischer Ausgang erhalten. Keine moderne Heilsteinbehauptung und kein als heutige Besichtigung behaupteter Beleg.

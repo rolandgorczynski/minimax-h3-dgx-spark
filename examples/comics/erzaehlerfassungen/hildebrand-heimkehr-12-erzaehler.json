@@ -1,0 +1,652 @@
+{
+  "mode": "editorial",
+  "name": "Hildebrand – Den eigenen Sohn erkennen · Erzählerfassung",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Deutsche Dietrichsage; spätmittelalterliche Fassung des Vater-Sohn-Stoffs.\nÜBERLIEFERUNG: Anonymes Jüngeres Hildebrandslied, überliefert im 15.–17. Jahrhundert; ausdrücklich die versöhnliche jüngere Fassung.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nNach vielen Jahren in der Fremde kehrt der alte Hildebrand heim. Unterwegs stellt sich ihm ein junger Krieger entgegen. Beide kennen einander zunächst nicht. Misstrauen und Stolz führen zum Zweikampf. Der Alte gewinnt die Oberhand. Doch bevor aus dem Kampf ein endgültiger Verlust wird, erkennen Vater und Sohn ihre Verwandtschaft. Der Gegner ist der Mensch, den Hildebrand seit seiner Trennung nicht aufwachsen sah. Die Waffen verlieren ihre Bedeutung. Zusammen gehen sie heim; Hildebrand begegnet auch seiner Frau wieder. Aus einer drohenden Familientragödie wird eine Heimkehr.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Die Stärke, einen Kampf zu beenden, zuzuhören und nach langer Trennung wieder Nähe zuzulassen.\nABGRENZUNG: Nicht mit dem fragmentarischen älteren Hildebrandslied oder einer Fassung mit getötetem Sohn vermischen. Der Sohn heißt je nach jüngerer Fassung Alebrand oder Hadubrand; für diesen Comic durchgehend Alebrand verwenden.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_article": "STOFF UND HERKUNFT: Deutsche Dietrichsage; spätmittelalterliche Fassung des Vater-Sohn-Stoffs.\nÜBERLIEFERUNG: Anonymes Jüngeres Hildebrandslied, überliefert im 15.–17. Jahrhundert; ausdrücklich die versöhnliche jüngere Fassung.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nNach vielen Jahren in der Fremde kehrt der alte Hildebrand heim. Unterwegs stellt sich ihm ein junger Krieger entgegen. Beide kennen einander zunächst nicht. Misstrauen und Stolz führen zum Zweikampf. Der Alte gewinnt die Oberhand. Doch bevor aus dem Kampf ein endgültiger Verlust wird, erkennen Vater und Sohn ihre Verwandtschaft. Der Gegner ist der Mensch, den Hildebrand seit seiner Trennung nicht aufwachsen sah. Die Waffen verlieren ihre Bedeutung. Zusammen gehen sie heim; Hildebrand begegnet auch seiner Frau wieder. Aus einer drohenden Familientragödie wird eine Heimkehr.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Die Stärke, einen Kampf zu beenden, zuzuhören und nach langer Trennung wieder Nähe zuzulassen.\nABGRENZUNG: Nicht mit dem fragmentarischen älteren Hildebrandslied oder einer Fassung mit getötetem Sohn vermischen. Der Sohn heißt je nach jüngerer Fassung Alebrand oder Hadubrand; für diesen Comic durchgehend Alebrand verwenden.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Der letzte Weg",
+        "setting": "Weg vor der Heimat, Tag",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Totale. Hildebrand kommt allein zu Fuß von links, der Weg führt rechts zwischen niedrigen Hügeln nach Hause. Keine Pferde, keine Reitspuren als Nebenhandlung. Genau ein Schwertgriff über der linken Scheide, beide Hände leer. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links auf dem Landweg; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "Nach vielen Jahren in der Fremde kehrte Hildebrand heim. Er wusste noch nicht, wem er auf dem letzten Weg begegnen würde.",
+        "bubbles": [],
+        "continuity": "Diese freie Inszenierung beginnt ausdrücklich zu Fuß und bleibt ohne Pferde. Hildebrand kommt nicht beritten an und steigt nicht außerhalb der Handlung unbemerkt ab.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Landweg",
+            "posture": "gehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Ein Fremder auf dem Weg",
+        "setting": "Derselbe Weg",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Beide stehen auf gleicher Bodenhöhe, Hildebrand links, Alebrand rechts. Alebrands Körper sperrt den Weg, seine Hände sind noch leer; die eine Klinge steckt links an seinem Gürtel. Hildebrands Hände ebenfalls leer. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor Alebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts quer auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "2f1ad56addf951a4a1bfe192a997cd7b",
+            "text": "Ich will heim.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "4a9104fe0f9053f0aaa8013c26303fca",
+            "text": "Das sagen viele, die etwas anderes wollen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Beide noch zu Fuß, beide Schwerter eingesteckt. Sie wissen noch nicht, dass sie Vater und Sohn sind.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links vor Alebrand",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts quer auf dem Weg",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Ein Name ist nicht genug",
+        "setting": "Derselbe Ort",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nähe auf die zwei Gesichter mit Abstand zwischen ihnen. Hildebrand blickt ernst, Alebrand hält das Kinn hoch. Keine gezogenen Waffen in diesem Ausschnitt; die Hände am unteren Bildrand bleiben ohne Klinge. Keine Gedankenbilder, die schon eine Wiedererkennung bestätigen. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "Der Alte fragte nach seinem Haus und seiner Heimat. Doch der junge Krieger hörte in den Fragen nur einen Grund zum Misstrauen.",
+        "bubbles": [],
+        "continuity": "Die Namensnennung reicht noch nicht zur sicheren Identifikation. Vorsicht und Trotz verhindern ein ruhiges Gespräch; nicht bereits vor dem Kampf Vater und Sohn im Dialog bestätigen.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Weg",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts gegenüber",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Der falsche Beweis",
+        "setting": "Landweg, Augenblicke später",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Seitenansicht. Zwei Männer, genau zwei sichtbare Klingen: je eine in der rechten Hand. Beide linken Scheiden deutlich leer, keine weiteren Griffe. Alebrand rechts und Hildebrand links haben Abstand; noch kein Klingenkontakt. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gezogenes Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gezogenes Schwert rechts; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "4a9104fe0f9053f0aaa8013c26303fca",
+            "text": "Dann zeig, ob du den Weg nehmen kannst.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "2f1ad56addf951a4a1bfe192a997cd7b",
+            "text": "Das ist ein schlechter Grund für einen Kampf.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Zwischen 3 und 4 ziehen beide ausdrücklich ihre jeweils einzige Klinge. Kein Schild und keine wechselnde Waffenhand. Das Gespräch ist noch keine Versöhnung.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links auf dem Weg",
+            "posture": "stehend",
+            "held": "ein gezogenes Schwert rechts",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "rechte Hand"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts gegenüber",
+            "posture": "stehend",
+            "held": "ein gezogenes Schwert rechts",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "rechte Hand"
+          }
+        }
+      },
+      {
+        "heading": "Klingen statt Worte",
+        "setting": "Derselbe Weg, im Zweikampf",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einziger lesbarer Klingenkontakt. Hildebrand links führt seine rechte Klinge gegen Alebrands rechte Klinge; Alebrand steht rechts. Beide linken Hände leer, Scheiden links ohne Griff. Keine Körperverletzung und keine zusätzlichen Schwerter als Bewegungsschatten. Füße auf demselben Weg, kein Pferd im Hintergrund. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links in der Mitte des Wegs; Körperhaltung: vorwärts ausfallend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts auf derselben Höhe; Körperhaltung: mit gebeugten Knien parierend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..",
+        "dialog": "Statt weiterzureden ließen sie die Klingen aufeinandertreffen. Noch kämpfte jeder gegen einen vermeintlich fremden Gegner.",
+        "bubbles": [],
+        "continuity": "Beide bleiben im Kampf lebend und unverletzt. Weder Sieger noch Verwandtschaft werden schon im Erzählertext behauptet.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links in der Mitte des Wegs",
+            "posture": "vorwärts ausfallend",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "rechte Hand"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts auf derselben Höhe",
+            "posture": "mit gebeugten Knien parierend",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "rechte Hand"
+          }
+        }
+      },
+      {
+        "heading": "Der alte Schritt",
+        "setting": "Derselbe Ort, später im Kampf",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Hildebrand hat den jungen Gegner mit seiner rechten Klinge seitlich abgedrängt, hält aber selbst Abstand. Alebrand weicht einen Schritt zum rechten Wegrand. Genau zwei Klingen, keine neue Wunde, kein zerstörtes Schild. Die alte Ruhe und der junge Kraftaufwand sind am Körper sichtbar. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links dicht vor Alebrand; Körperhaltung: stabil auf beiden Füßen; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Rand des Wegs; Körperhaltung: nach hinten ausweichend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..",
+        "dialog": "Hildebrands Erfahrung brachte ihn in die bessere Stellung. Er drängte den Jüngeren an den Wegrand, ohne den Kampf schon zu beenden.",
+        "bubbles": [],
+        "continuity": "Hildebrand gewinnt die Oberhand; Alebrand besitzt seine Klinge noch. Beide Scheiden bleiben leer, beide zu Fuß.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links dicht vor Alebrand",
+            "posture": "stabil auf beiden Füßen",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "rechte Hand"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts am Rand des Wegs",
+            "posture": "nach hinten ausweichend",
+            "held": "ein Schwert rechts",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "rechte Hand"
+          }
+        }
+      },
+      {
+        "heading": "Nicht der letzte Schlag",
+        "setting": "Rechter Rand des Landwegs",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe. Alebrand rechts kniet auf einem Knie; sein einziges Schwert liegt rechts neben ihm im Sand. Hildebrand steht links, seine Klinge zeigt gesenkt zum Boden und berührt den Sohn nicht. Kein Schwert an der Kehle, kein Blut. Beide sehen sich erstmals an, statt nur auf die gegnerische Hand. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor dem knienden Alebrand; Körperhaltung: stehend, Schwertspitze nach unten; Mitgeführte Gegenstände: ein gesenktes Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: auf einem Knie, rechte Hand geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "2f1ad56addf951a4a1bfe192a997cd7b",
+            "text": "Genug. Wie heißt du?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Zwischen 6 und 7 hat Alebrand die Klinge verloren und ist auf ein Knie gesunken. Hildebrand hält den Sieg an, bevor er zum tödlichen Verlust werden kann.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links vor dem knienden Alebrand",
+            "posture": "stehend, Schwertspitze nach unten",
+            "held": "ein gesenktes Schwert rechts",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "rechte Hand"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts am Wegrand",
+            "posture": "auf einem Knie, rechte Hand geöffnet",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "am Boden"
+          }
+        }
+      },
+      {
+        "heading": "Der Name",
+        "setting": "Derselbe Moment am Weg",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nahe Gesichter. Links Hildebrand erschüttert, rechts Alebrand noch kniend und trotzig. Im unteren Rand ein Ausschnitt von Hildebrands gesenkter Klinge; Alebrands Schwert bleibt am Boden außerhalb des engen Ausschnitts. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor Alebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gesenktes Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: auf einem Knie; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "4a9104fe0f9053f0aaa8013c26303fca",
+            "text": "Alebrand. Hildebrands Sohn.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "2f1ad56addf951a4a1bfe192a997cd7b",
+            "text": "Dann habe ich zu lange auf dem falschen Gegner gesehen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Erst jetzt wird die Verwandtschaft benannt. Alebrand steht noch nicht auf und greift nicht plötzlich nach einem zweiten Schwert.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links vor Alebrand",
+            "posture": "stehend",
+            "held": "ein gesenktes Schwert rechts",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "rechte Hand"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts am Wegrand",
+            "posture": "auf einem Knie",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "am Boden"
+          }
+        }
+      },
+      {
+        "heading": "Ohne Klinge antworten",
+        "setting": "Derselbe Wegrand, nach der Namensnennung",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Hildebrands rechte Hand ist sichtbar leer und geöffnet. Sein einziges Schwert steckt wieder vollständig in der linken Scheide. Alebrand kniet rechts und blickt auf die Hand, seine Klinge unverändert neben ihm im Sand. Kein gleichzeitiges Umarmen und Einstecken als Doppelhandlung. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor Alebrand; Körperhaltung: stehend, rechte leere Hand offen zum Sohn; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: auf einem Knie; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..",
+        "dialog": "Am Namen erkannten sie die Verwandtschaft: Alebrand war Hildebrands Sohn. Der Vater steckte sein Schwert weg und gab sich zu erkennen.",
+        "bubbles": [],
+        "continuity": "Zwischen 8 und 9 steckt Hildebrand sein Schwert ausdrücklich ein. Nur die angebotene Hand ist jetzt frei. Alebrands Schwert liegt noch am Boden.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links vor Alebrand",
+            "posture": "stehend, rechte leere Hand offen zum Sohn",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts am Wegrand",
+            "posture": "auf einem Knie",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "am Boden"
+          }
+        }
+      },
+      {
+        "heading": "Auf gleicher Höhe",
+        "setting": "Derselbe Weg, kurz danach",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite ruhige Einstellung. Beide stehen nun nebeneinander auf derselben Bodenhöhe und schauen in Richtung Heimat. Je ein Griff in der linken Scheide, keine Klinge mehr in der Hand, kein Schwert auf dem Boden. Keine Kampfhaltung. Der freie Platz zwischen ihnen ist kleiner als zu Beginn. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links neben Alebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts neben Hildebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..",
+        "dialog": "Als der Sohn wieder aufstand, standen beide auf gleicher Höhe. Für den Heimweg brauchten sie keinen Besiegten mehr.",
+        "bubbles": [],
+        "continuity": "Zwischen 9 und 10 steht Alebrand auf, hebt seine einzige Klinge vom Boden auf und steckt sie in seine linke Scheide. Beide Hände sind danach leer; keiner erhält eine neue Waffe.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links neben Alebrand",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "rechts neben Hildebrand",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "in der Scheide"
+          }
+        }
+      },
+      {
+        "heading": "Die offene Tür",
+        "setting": "Vor dem Familienhaus, später am Tag",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca",
+          "3a565e51e0825f368a5297e5c252986a"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Links Hildebrand, mittig Alebrand, rechts die ältere Frau in der offenen Haustür. Kein neues Pferd oder Reiter vor dem Haus. Beide Schwerter eingesteckt, die leeren Hände ohne Drohung. Die Frau blickt vom alten Gesicht ihres Mannes zu ihrem Sohn. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor dem Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: mittig neben Hildebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Hildebrands Frau: Fortbewegung: zu Fuß; Ort: rechts in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen..",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "3a565e51e0825f368a5297e5c252986a",
+            "text": "Hildebrand?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          },
+          {
+            "speaker": "2f1ad56addf951a4a1bfe192a997cd7b",
+            "text": "Wenn du mich noch hereinlässt.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.54,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.75,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Ausdrücklicher Ortswechsel nach gemeinsamem Weg zu Fuß. Die Frau erscheint erst im Heimathaus; kein dritter Krieger und keine neue Verwechslung.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "links vor dem Haus",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "mittig neben Hildebrand",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "in der Scheide"
+          },
+          "3a565e51e0825f368a5297e5c252986a": {
+            "movement": "zu Fuß",
+            "location": "rechts in der offenen Haustür",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen."
+          }
+        }
+      },
+      {
+        "heading": "Heim",
+        "setting": "Schwelle des Familienhauses, unmittelbar danach",
+        "characters": [
+          "2f1ad56addf951a4a1bfe192a997cd7b",
+          "4a9104fe0f9053f0aaa8013c26303fca",
+          "3a565e51e0825f368a5297e5c252986a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhiger Abschluss auf Höhe der leeren Hände. Hildebrand und seine Frau stehen dicht voreinander auf der Schwelle; Alebrand bleibt links im gleichen Bild, kein ausgeschnittener zweiter Sieger. Beide männlichen Schwerter stecken in den linken Scheiden. Die offene Tür bietet Platz für alle drei, der frühere Kampfweg läuft im Hintergrund aus. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: mittig auf der Schwelle; Körperhaltung: stehend, Arme zur Frau geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: links neben der offenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Hildebrands Frau: Fortbewegung: zu Fuß; Ort: rechts auf der Schwelle; Körperhaltung: stehend, Arme zum Mann geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen..",
+        "dialog": "An der offenen Haustür fanden Mann, Frau und Sohn wieder zusammen. Aus dem drohenden Verlust war eine Heimkehr geworden.",
+        "bubbles": [],
+        "continuity": "Die Heimkehr ist versöhnlich. Vater und Sohn leben, niemand liegt tot zurück. Keine Rückkehr in die tragische ältere Hildebrandsfassung.",
+        "character_states": {},
+        "continuity_state": {
+          "2f1ad56addf951a4a1bfe192a997cd7b": {
+            "movement": "zu Fuß",
+            "location": "mittig auf der Schwelle",
+            "posture": "stehend, Arme zur Frau geöffnet",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+            "sword_position": "in der Scheide"
+          },
+          "4a9104fe0f9053f0aaa8013c26303fca": {
+            "movement": "zu Fuß",
+            "location": "links neben der offenen Tür",
+            "posture": "stehend",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+            "sword_position": "in der Scheide"
+          },
+          "3a565e51e0825f368a5297e5c252986a": {
+            "movement": "zu Fuß",
+            "location": "rechts auf der Schwelle",
+            "posture": "stehend, Arme zum Mann geöffnet",
+            "held": "keine Gegenstände",
+            "life": "lebend",
+            "clothing": "Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen."
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "2f1ad56addf951a4a1bfe192a997cd7b",
+        "name": "Hildebrand",
+        "description": "Älterer kräftiger Mann mit grauen Haaren und kurzem grauem Bart, tiefe Augenfalten, gerade Nase.",
+        "outfit": "Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.",
+        "backstory": "Nach langer Trennung auf dem Heimweg. Erfahren, aber empfindlich gegenüber dem Misstrauen des jungen Fremden.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "4a9104fe0f9053f0aaa8013c26303fca",
+        "name": "Alebrand",
+        "description": "Junger erwachsener Mann mit braunen Haaren, kurzem braunem Bart und ähnlicher gerader Nase wie Hildebrand.",
+        "outfit": "Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.",
+        "backstory": "Hildebrands Sohn, ohne den Vater aufgewachsen. Erkennt im heimkehrenden Fremden zunächst eine Gefahr statt einen Angehörigen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "3a565e51e0825f368a5297e5c252986a",
+        "name": "Hildebrands Frau",
+        "description": "Ältere Frau mit grauem geflochtenem Haar, schmalem Gesicht und ruhigem Blick.",
+        "outfit": "Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen.",
+        "backstory": "Lebt im Haus, zu dem Hildebrand und Alebrand zurückkehren. Ihre Anwesenheit vollendet die Heimkehr, keine erfundene Nebenbiografie.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was ist stärker als der Wille, einen Gegner zu besiegen?",
+      "core": "Wahre Stärke kann darin liegen, den Kampf rechtzeitig zu beenden und im vermeintlichen Feind einen nahen Menschen zu erkennen.",
+      "ending": "Vater und Sohn beenden den Kampf und kehren zur Familie zurück.",
+      "reason": "Unkenntnis, Eskalation, Wiedererkennen und versöhnliche Heimkehr benötigen einen nachvollziehbaren Übergang.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Aus einer drohenden Familientragödie wird eine Heimkehr.",
+          "meaning": "Die Anerkennung der Verwandtschaft verändert den Sinn des vorherigen Sieges."
+        }
+      ],
+      "causal_chain": [
+        "Aus einer drohenden Familientragödie wird eine Heimkehr.",
+        "Vater und Sohn beenden den Kampf und kehren zur Familie zurück."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "823b7690b546092c94ee96bead435f8b0c451a547f29b7e1bba312e3a95f1f12",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:44.623469+00:00"
+    },
+    "post_summary": "Ein alter Krieger will heim. Ein junger stellt sich ihm in den Weg. Erst als die Klinge sinkt, wird sichtbar, wer der vermeintliche Gegner ist. Freie Adaption der versöhnlichen jüngeren Hildebrandsüberlieferung.",
+    "source_provenance": {
+      "title": "Hildebrand – Den eigenen Sohn erkennen",
+      "kind": "Eigene Vorlage",
+      "creator": "Anonym überlieferter Sagenstoff; eigene deutsche Inhaltsgrundlage für den Comic",
+      "edition": "Anonymes Jüngeres Hildebrandslied, überliefert im 15.–17. Jahrhundert; ausdrücklich die versöhnliche jüngere Fassung.; freie, neu formulierte Inhaltszusammenfassung, keine übernommene moderne Nacherzählung.",
+      "url": "https://kdih.badw.de/datenbank/untergruppe/29/2",
+      "territories": "Deutschland: zugrunde liegender mittelalterlicher Stoff gemeinfrei. Keine weltweite Rechtefreigabe für fremde Ausgaben, Bilder oder Verfilmungen.",
+      "rights": "Gemeinfreier historischer Sagenstoff. Dieser Eintrag enthält eine neu formulierte Inhaltsgrundlage, keine kopierte moderne Übersetzung und keine fremden Bilder. Die beigefügte Quellenadresse dient als Werk- oder Sachnachweis; deren moderne Texte werden nicht mitlizenziert. Grundlage: §§ 64 und 69 UrhG.",
+      "text": "STOFF UND HERKUNFT: Deutsche Dietrichsage; spätmittelalterliche Fassung des Vater-Sohn-Stoffs.\nÜBERLIEFERUNG: Anonymes Jüngeres Hildebrandslied, überliefert im 15.–17. Jahrhundert; ausdrücklich die versöhnliche jüngere Fassung.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nNach vielen Jahren in der Fremde kehrt der alte Hildebrand heim. Unterwegs stellt sich ihm ein junger Krieger entgegen. Beide kennen einander zunächst nicht. Misstrauen und Stolz führen zum Zweikampf. Der Alte gewinnt die Oberhand. Doch bevor aus dem Kampf ein endgültiger Verlust wird, erkennen Vater und Sohn ihre Verwandtschaft. Der Gegner ist der Mensch, den Hildebrand seit seiner Trennung nicht aufwachsen sah. Die Waffen verlieren ihre Bedeutung. Zusammen gehen sie heim; Hildebrand begegnet auch seiner Frau wieder. Aus einer drohenden Familientragödie wird eine Heimkehr.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Die Stärke, einen Kampf zu beenden, zuzuhören und nach langer Trennung wieder Nähe zuzulassen.\nABGRENZUNG: Nicht mit dem fragmentarischen älteren Hildebrandslied oder einer Fassung mit getötetem Sohn vermischen. Der Sohn heißt je nach jüngerer Fassung Alebrand oder Hadubrand; für diesen Comic durchgehend Alebrand verwenden.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate. Das ist eine freie Comic-Adaption, keine historische Tatsachendarstellung. Figuren konsequent gestalten. Mut darf mit Angst einhergehen; Stärke durch Entscheidungen und Handlungen zeigen. Gewalt ohne explizite Verletzungsbilder darstellen. Keine zusätzlichen Schlachten oder magischen Fähigkeiten erfinden. Den angegebenen Ausschnitt und sein Ende erhalten.",
+      "id": "heldensagen-hildebrand-heimkehr",
+      "post_summary": "STOFF UND HERKUNFT: Deutsche Dietrichsage; spätmittelalterliche Fassung des Vater-Sohn-Stoffs. ÜBERLIEFERUNG: Anonymes Jüngeres Hildebrandslied, überliefert im 15.–17. Jahrhundert; ausdrücklich die versöhnliche jüngere Fassung. HANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG: Nach vielen Jahren in der Fremde kehrt der alte Hildebrand heim. Unterwegs stellt sich ihm ein junger Krieger entgegen. Beide kennen einander zunächst nicht. Misstrauen und Stolz führen zum Zweikampf. Der Alte gewinnt die Oberhand.",
+      "category": "Heldensagen und Mythen",
+      "collection": "Mittelalterliche Heldensagen"
+    },
+    "source_script": "TITEL: Hildebrand – Den eigenen Sohn erkennen · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Hildebrand\nAussehen: Älterer kräftiger Mann mit grauen Haaren und kurzem grauem Bart, tiefe Augenfalten, gerade Nase.\nKleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.\nPersönlichkeit und Vorgeschichte: Nach langer Trennung auf dem Heimweg. Erfahren, aber empfindlich gegenüber dem Misstrauen des jungen Fremden.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Alebrand\nAussehen: Junger erwachsener Mann mit braunen Haaren, kurzem braunem Bart und ähnlicher gerader Nase wie Hildebrand.\nKleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.\nPersönlichkeit und Vorgeschichte: Hildebrands Sohn, ohne den Vater aufgewachsen. Erkennt im heimkehrenden Fremden zunächst eine Gefahr statt einen Angehörigen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hildebrands Frau\nAussehen: Ältere Frau mit grauem geflochtenem Haar, schmalem Gesicht und ruhigem Blick.\nKleidung: Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen.\nPersönlichkeit und Vorgeschichte: Lebt im Haus, zu dem Hildebrand und Alebrand zurückkehren. Ihre Anwesenheit vollendet die Heimkehr, keine erfundene Nebenbiografie.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der letzte Weg\nOrt und Zeit: Weg vor der Heimat, Tag\nSichtbare Figuren: Hildebrand\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Totale. Hildebrand kommt allein zu Fuß von links, der Weg führt rechts zwischen niedrigen Hügeln nach Hause. Keine Pferde, keine Reitspuren als Nebenhandlung. Genau ein Schwertgriff über der linken Scheide, beide Hände leer. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links auf dem Landweg; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: Nach vielen Jahren in der Fremde kehrte Hildebrand heim. Er wusste noch nicht, wem er auf dem letzten Weg begegnen würde.\nDialoge: keine\nKontinuität / Änderung: Diese freie Inszenierung beginnt ausdrücklich zu Fuß und bleibt ohne Pferde. Hildebrand kommt nicht beritten an und steigt nicht außerhalb der Handlung unbemerkt ab.\n\nKACHEL 2: Ein Fremder auf dem Weg\nOrt und Zeit: Derselbe Weg\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Beide stehen auf gleicher Bodenhöhe, Hildebrand links, Alebrand rechts. Alebrands Körper sperrt den Weg, seine Hände sind noch leer; die eine Klinge steckt links an seinem Gürtel. Hildebrands Hände ebenfalls leer. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor Alebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts quer auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hildebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ich will heim.“\nDialog 2:\n  Sprecher: Alebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das sagen viele, die etwas anderes wollen.“\nKontinuität / Änderung: Beide noch zu Fuß, beide Schwerter eingesteckt. Sie wissen noch nicht, dass sie Vater und Sohn sind.\n\nKACHEL 3: Ein Name ist nicht genug\nOrt und Zeit: Derselbe Ort\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nähe auf die zwei Gesichter mit Abstand zwischen ihnen. Hildebrand blickt ernst, Alebrand hält das Kinn hoch. Keine gezogenen Waffen in diesem Ausschnitt; die Hände am unteren Bildrand bleiben ohne Klinge. Keine Gedankenbilder, die schon eine Wiedererkennung bestätigen. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: Der Alte fragte nach seinem Haus und seiner Heimat. Doch der junge Krieger hörte in den Fragen nur einen Grund zum Misstrauen.\nDialoge: keine\nKontinuität / Änderung: Die Namensnennung reicht noch nicht zur sicheren Identifikation. Vorsicht und Trotz verhindern ein ruhiges Gespräch; nicht bereits vor dem Kampf Vater und Sohn im Dialog bestätigen.\n\nKACHEL 4: Der falsche Beweis\nOrt und Zeit: Landweg, Augenblicke später\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Seitenansicht. Zwei Männer, genau zwei sichtbare Klingen: je eine in der rechten Hand. Beide linken Scheiden deutlich leer, keine weiteren Griffe. Alebrand rechts und Hildebrand links haben Abstand; noch kein Klingenkontakt. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links auf dem Weg; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gezogenes Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gezogenes Schwert rechts; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Alebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann zeig, ob du den Weg nehmen kannst.“\nDialog 2:\n  Sprecher: Hildebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das ist ein schlechter Grund für einen Kampf.“\nKontinuität / Änderung: Zwischen 3 und 4 ziehen beide ausdrücklich ihre jeweils einzige Klinge. Kein Schild und keine wechselnde Waffenhand. Das Gespräch ist noch keine Versöhnung.\n\nKACHEL 5: Klingen statt Worte\nOrt und Zeit: Derselbe Weg, im Zweikampf\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einziger lesbarer Klingenkontakt. Hildebrand links führt seine rechte Klinge gegen Alebrands rechte Klinge; Alebrand steht rechts. Beide linken Hände leer, Scheiden links ohne Griff. Keine Körperverletzung und keine zusätzlichen Schwerter als Bewegungsschatten. Füße auf demselben Weg, kein Pferd im Hintergrund. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links in der Mitte des Wegs; Körperhaltung: vorwärts ausfallend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts auf derselben Höhe; Körperhaltung: mit gebeugten Knien parierend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..\nErzählertext: Statt weiterzureden ließen sie die Klingen aufeinandertreffen. Noch kämpfte jeder gegen einen vermeintlich fremden Gegner.\nDialoge: keine\nKontinuität / Änderung: Beide bleiben im Kampf lebend und unverletzt. Weder Sieger noch Verwandtschaft werden schon im Erzählertext behauptet.\n\nKACHEL 6: Der alte Schritt\nOrt und Zeit: Derselbe Ort, später im Kampf\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Hildebrand hat den jungen Gegner mit seiner rechten Klinge seitlich abgedrängt, hält aber selbst Abstand. Alebrand weicht einen Schritt zum rechten Wegrand. Genau zwei Klingen, keine neue Wunde, kein zerstörtes Schild. Die alte Ruhe und der junge Kraftaufwand sind am Körper sichtbar. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links dicht vor Alebrand; Körperhaltung: stabil auf beiden Füßen; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Rand des Wegs; Körperhaltung: nach hinten ausweichend; Mitgeführte Gegenstände: ein Schwert rechts; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..\nErzählertext: Hildebrands Erfahrung brachte ihn in die bessere Stellung. Er drängte den Jüngeren an den Wegrand, ohne den Kampf schon zu beenden.\nDialoge: keine\nKontinuität / Änderung: Hildebrand gewinnt die Oberhand; Alebrand besitzt seine Klinge noch. Beide Scheiden bleiben leer, beide zu Fuß.\n\nKACHEL 7: Nicht der letzte Schlag\nOrt und Zeit: Rechter Rand des Landwegs\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe. Alebrand rechts kniet auf einem Knie; sein einziges Schwert liegt rechts neben ihm im Sand. Hildebrand steht links, seine Klinge zeigt gesenkt zum Boden und berührt den Sohn nicht. Kein Schwert an der Kehle, kein Blut. Beide sehen sich erstmals an, statt nur auf die gegnerische Hand. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor dem knienden Alebrand; Körperhaltung: stehend, Schwertspitze nach unten; Mitgeführte Gegenstände: ein gesenktes Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: auf einem Knie, rechte Hand geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hildebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Genug. Wie heißt du?“\nKontinuität / Änderung: Zwischen 6 und 7 hat Alebrand die Klinge verloren und ist auf ein Knie gesunken. Hildebrand hält den Sieg an, bevor er zum tödlichen Verlust werden kann.\n\nKACHEL 8: Der Name\nOrt und Zeit: Derselbe Moment am Weg\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nahe Gesichter. Links Hildebrand erschüttert, rechts Alebrand noch kniend und trotzig. Im unteren Rand ein Ausschnitt von Hildebrands gesenkter Klinge; Alebrands Schwert bleibt am Boden außerhalb des engen Ausschnitts. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor Alebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: ein gesenktes Schwert rechts; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: auf einem Knie; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Alebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Alebrand. Hildebrands Sohn.“\nDialog 2:\n  Sprecher: Hildebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann habe ich zu lange auf dem falschen Gegner gesehen.“\nKontinuität / Änderung: Erst jetzt wird die Verwandtschaft benannt. Alebrand steht noch nicht auf und greift nicht plötzlich nach einem zweiten Schwert.\n\nKACHEL 9: Ohne Klinge antworten\nOrt und Zeit: Derselbe Wegrand, nach der Namensnennung\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Hildebrands rechte Hand ist sichtbar leer und geöffnet. Sein einziges Schwert steckt wieder vollständig in der linken Scheide. Alebrand kniet rechts und blickt auf die Hand, seine Klinge unverändert neben ihm im Sand. Kein gleichzeitiges Umarmen und Einstecken als Doppelhandlung. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor Alebrand; Körperhaltung: stehend, rechte leere Hand offen zum Sohn; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts am Wegrand; Körperhaltung: auf einem Knie; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..\nErzählertext: Am Namen erkannten sie die Verwandtschaft: Alebrand war Hildebrands Sohn. Der Vater steckte sein Schwert weg und gab sich zu erkennen.\nDialoge: keine\nKontinuität / Änderung: Zwischen 8 und 9 steckt Hildebrand sein Schwert ausdrücklich ein. Nur die angebotene Hand ist jetzt frei. Alebrands Schwert liegt noch am Boden.\n\nKACHEL 10: Auf gleicher Höhe\nOrt und Zeit: Derselbe Weg, kurz danach\nSichtbare Figuren: Hildebrand, Alebrand\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite ruhige Einstellung. Beide stehen nun nebeneinander auf derselben Bodenhöhe und schauen in Richtung Heimat. Je ein Griff in der linken Scheide, keine Klinge mehr in der Hand, kein Schwert auf dem Boden. Keine Kampfhaltung. Der freie Platz zwischen ihnen ist kleiner als zu Beginn. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links neben Alebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: rechts neben Hildebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..\nErzählertext: Als der Sohn wieder aufstand, standen beide auf gleicher Höhe. Für den Heimweg brauchten sie keinen Besiegten mehr.\nDialoge: keine\nKontinuität / Änderung: Zwischen 9 und 10 steht Alebrand auf, hebt seine einzige Klinge vom Boden auf und steckt sie in seine linke Scheide. Beide Hände sind danach leer; keiner erhält eine neue Waffe.\n\nKACHEL 11: Die offene Tür\nOrt und Zeit: Vor dem Familienhaus, später am Tag\nSichtbare Figuren: Hildebrand, Alebrand, Hildebrands Frau\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Links Hildebrand, mittig Alebrand, rechts die ältere Frau in der offenen Haustür. Kein neues Pferd oder Reiter vor dem Haus. Beide Schwerter eingesteckt, die leeren Hände ohne Drohung. Die Frau blickt vom alten Gesicht ihres Mannes zu ihrem Sohn. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: links vor dem Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: mittig neben Hildebrand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Hildebrands Frau: Fortbewegung: zu Fuß; Ort: rechts in der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen..\nErzählertext: keiner\nDialog 1:\n  Sprecher: Hildebrands Frau\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Hildebrand?“\nDialog 2:\n  Sprecher: Hildebrand\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Wenn du mich noch hereinlässt.“\nKontinuität / Änderung: Ausdrücklicher Ortswechsel nach gemeinsamem Weg zu Fuß. Die Frau erscheint erst im Heimathaus; kein dritter Krieger und keine neue Verwechslung.\n\nKACHEL 12: Heim\nOrt und Zeit: Schwelle des Familienhauses, unmittelbar danach\nSichtbare Figuren: Hildebrand, Alebrand, Hildebrands Frau\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhiger Abschluss auf Höhe der leeren Hände. Hildebrand und seine Frau stehen dicht voreinander auf der Schwelle; Alebrand bleibt links im gleichen Bild, kein ausgeschnittener zweiter Sieger. Beide männlichen Schwerter stecken in den linken Scheiden. Die offene Tür bietet Platz für alle drei, der frühere Kampfweg läuft im Hintergrund aus. Verbindliche Zustände: Hildebrand: Fortbewegung: zu Fuß; Ort: mittig auf der Schwelle; Körperhaltung: stehend, Arme zur Frau geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Blauer Wollrock, Kettenhemd, braune Hose und hohe Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild, keine zweite Klinge.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Alebrand: Fortbewegung: zu Fuß; Ort: links neben der offenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Rostbrauner Wollrock, Kettenhemd, dunkle Hose und braune Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Helm, kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Hildebrands Frau: Fortbewegung: zu Fuß; Ort: rechts auf der Schwelle; Körperhaltung: stehend, Arme zum Mann geöffnet; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Grünes Wollkleid mit beiger Schürze, graues Tuch auf den Schultern; keine Waffen..\nErzählertext: An der offenen Haustür fanden Mann, Frau und Sohn wieder zusammen. Aus dem drohenden Verlust war eine Heimkehr geworden.\nDialoge: keine\nKontinuität / Änderung: Die Heimkehr ist versöhnlich. Vater und Sohn leben, niemand liegt tot zurück. Keine Rückkehr in die tragische ältere Hildebrandsfassung.\n",
+    "book_author": "",
+    "editorial_script_id": "hildebrand-heimkehr-12-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "hildebrand-heimkehr-12"
+    },
+    "title": "Hildebrand – Den eigenen Sohn erkennen · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "hildebrand-heimkehr-12"
+    }
+  },
+  "count_policy": "editorial"
+}

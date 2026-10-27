@@ -1,0 +1,202 @@
+TITEL: Sankt Gallus · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Gallus in der Gründungssage
+Aussehen: Erwachsener schlanker Mann mit langem braunem Bart und kurzem dunklem Haar.
+Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.
+Persönlichkeit und Vorgeschichte: Hilft in der Sage Kranken und baut eine Zelle. Lebt nur im frühen Gründungsbogen, nicht gleichzeitig mit dem späteren Freiheitskampf.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Herzog Gunzo in der Gallussage
+Aussehen: Erwachsener Mann mit kurzem graubraunem Bart und breitem Gesicht.
+Kleidung: Dunkelroter Wollmantel, heller langer Rock und dunkle Schuhe. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Seine Tochter ist schwer krank. Gibt nach ihrer sagenhaften Heilung Waldland als Dank, nicht als modern belegten Vertrag.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gunzos Tochter in der Gallussage
+Aussehen: Junge erwachsene Frau mit langem braunem Haar und blassem ovalem Gesicht.
+Kleidung: Helles langes Leinenkleid und blaugraues Schultertuch.
+Persönlichkeit und Vorgeschichte: Wird in der Sage von Gallus geheilt. Nur frühe Epoche; nicht identisch mit den Frauen des späteren Kampfes.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Späterer Abt von St. Gallen
+Aussehen: Älterer kräftiger Mann mit kurzgeschorenem grauem Haar und kurzem weißem Bart.
+Kleidung: Dunkelbraune prächtige Kutte mit breitem Gürtel und vergoldetem Amtskreuz.
+Persönlichkeit und Vorgeschichte: Leitet die viel später mächtig gewordene Abtei. Ist ausdrücklich nicht Gallus; seine Herrschaftsansprüche gefährden die Freiheit der Hirten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hirte aus dem Appenzeller Freiheitsbogen
+Aussehen: Erwachsener Mann mit dunkelblondem kurzem Haar und rauem bartlosem Gesicht.
+Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.
+Persönlichkeit und Vorgeschichte: Unbenannte repräsentative Figur der späteren Hirten. Nimmt mit anderen die Bedrohung ihrer Selbstbestimmung nicht hin.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Rudolf von Werdenberg in der Sage
+Aussehen: Junger erwachsener Mann mit kurzem braunem Haar und kurzem Bart.
+Kleidung: Dunkelblauer Waffenrock, einfache graue Armschienen und feste Stiefel. Genau ein Schwert links am Gürtel in einer braunen Scheide.
+Persönlichkeit und Vorgeschichte: Grafensohn, der sich im überlieferten Kampf auf die Seite der Hirten stellt. Keine zweite Klinge und kein unbelegter ständiger Ritt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Frau vom Appenzeller Berghang
+Aussehen: Erwachsene Frau mit dunkelbraunem langem Zopf und eckigem Gesicht.
+Kleidung: Zunächst schlichtes dunkelgrünes langes Kleid; zum Auftritt am Berg braune Hose, graue weite Tunika und dunkle Mütze über dem Zopf. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Repräsentiert die erwachsenen Frauen, deren entfernter Auftritt in männlicher Tracht den Gegner täuscht. Bleibt dieselbe Frau beim Kleidungswechsel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der hilfreiche Anfang
+Ort und Zeit: Einfache Einsiedlerhütten am Bodensee
+Sichtbare Figuren: Gallus in der Gründungssage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gallus steht mit schlicht gekleideten namenlosen Gefährten vor kleinen Hütten. Ein Hilfesuchender wartet vor der Tür. Keine große spätere Abtei beherrscht bereits den Ort und kein späterer Schlachtführer ist dabei. Verbindliche Zustände: Gallus in der Gründungssage: Ort: vor einer Holzhütte; Körperhaltung: stehend; Mitgeführte Gegenstände: ein hölzerner Stab in der linken Hand; Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Gallussage beginnt mit Einsiedlern, die Kranken helfen. Aus dieser Hilfe erwuchs zunächst Vertrauen.
+Dialoge: keine
+Kontinuität / Änderung: Frühe Gründungszeit innerhalb der Sage. Kein dokumentarischer Beweis für ihre einzelnen Überlieferungen.
+
+KACHEL 2: Die Bitte des Herzogs
+Ort und Zeit: Kammer in Überlingen
+Sichtbare Figuren: Herzog Gunzo in der Gallussage, Gunzos Tochter in der Gallussage, Gallus in der Gründungssage
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Gunzo hat den Einsiedler zu seiner schwerkranken erwachsenen Tochter gebeten. Gallus blickt zu ihr, der Vater steht seitlich. Keine Folter, kein austretender Dämon und keine behauptete moderne Behandlungsmethode. Verbindliche Zustände: Gallus in der Gründungssage: Ort: am Fußende; Körperhaltung: stehend; Mitgeführte Gegenstände: sein einzelner Wanderstab; Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Herzog Gunzo in der Gallussage: Ort: neben dem Bett seiner Tochter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter Wollmantel, heller langer Rock und dunkle Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gunzos Tochter in der Gallussage: Ort: im Bett; Körperhaltung: liegend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Leinenkleid, Schultertuch und helle Bettdecke; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Schwer krank, keine sichtbare Wunde.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Herzog Gunzo in der Gallussage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Könnt Ihr meiner Tochter helfen?“
+Kontinuität / Änderung: Tochter krank vor der sagenhaften Heilung; gleiche Person und Kleidung im nächsten Bild.
+
+KACHEL 3: Der Dank
+Ort und Zeit: Dieselbe Kammer nach der Heilung
+Sichtbare Figuren: Gunzos Tochter in der Gallussage, Gallus in der Gründungssage, Herzog Gunzo in der Gallussage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später sitzt die Tochter aufgerichtet im selben Bett, ihr blaugraues Schultertuch wieder umgelegt. Der Herzog reicht Gallus dankbar die Hand. Die Heilung wird als überlieferte Wendung erzählt, nicht als nachmachbare medizinische Anleitung. Verbindliche Zustände: Gallus in der Gründungssage: Ort: neben der Bettkante; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelner Wanderstab; Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Herzog Gunzo in der Gallussage: Ort: vor beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand reicht Gallus entgegen; Kleidung: Dunkelroter Wollmantel, heller langer Rock und dunkle Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gunzos Tochter in der Gallussage: Ort: auf dem Bettrand; Körperhaltung: aufrecht sitzend; Mitgeführte Gegenstände: Hände auf den Knien; Kleidung: Helles langes Leinenkleid und blaugraues Schultertuch.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Gallus soll die Tochter Gunzos geheilt haben. Der dankbare Herzog wollte der Gemeinschaft einen dauerhaften Platz geben.
+Dialoge: keine
+Kontinuität / Änderung: Genesung ausdrücklich sagenhaft. Keine pauschale Behauptung, jede Krankheit lasse sich durch Glauben heilen.
+
+KACHEL 4: Land für den Anfang
+Ort und Zeit: Waldhang außerhalb der Siedlung
+Sichtbare Figuren: Herzog Gunzo in der Gallussage, Gallus in der Gründungssage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gunzo zeigt Gallus einen bewaldeten Hang. Einige Gefährten stehen weit zurück bei ihren einfachen Bündeln. Keine riesige Abtei steht dort schon und keine erfundene versiegelte Urkunde wird gezeigt. Verbindliche Zustände: Gallus in der Gründungssage: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: sein Wanderstab; Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Herzog Gunzo in der Gallussage: Ort: am Rand des Waldgebirges; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand zeigt in den Wald; Kleidung: Dunkelroter Wollmantel, heller langer Rock und dunkle Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er schenkte den Einsiedlern Waldland. Ihre Niederlassung begann noch ohne die Macht einer großen Abtei.
+Dialoge: keine
+Kontinuität / Änderung: Geschenk als überlieferter Schritt vom Helfen zum gemeinschaftlichen Anbau.
+
+KACHEL 5: Aus Hütten wächst eine Abtei
+Ort und Zeit: Frühe Anlage von St. Gallen
+Sichtbare Figuren: Gallus in der Gründungssage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nach Aufbau und wachsender Gemeinschaft steht Gallus vor einer noch überschaubaren Anlage aus schlichten Gebäuden. Baustoffe und Menschen bei der Arbeit zeigen Entstehung. Es ist nicht die viel spätere mächtige Abtei. Verbindliche Zustände: Gallus in der Gründungssage: Ort: vor einer neu gebauten einfachen Klosteranlage; Körperhaltung: stehend; Mitgeführte Gegenstände: Wanderstab; Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Aus den ersten Hütten lässt die Überlieferung St. Gallen wachsen. Mit der Gemeinschaft veränderte sich auch der Ort.
+Dialoge: keine
+Kontinuität / Änderung: Zeit fortgeschritten, aber Gallus lebt in diesem frühen Erzählabschnitt noch. Spätere Machthaber werden getrennt.
+
+KACHEL 6: Weiter die Sitter hinauf
+Ort und Zeit: Kleine Zelle oberhalb des Flusses Sitter
+Sichtbare Figuren: Gallus in der Gründungssage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Gallus ist zu Fuß der Sitter aufwärts gezogen. Er steht vor einer kleinen neuen Zelle bei den Hirtenhängen. Die alte Anlage liegt nicht daneben, sondern weit flussabwärts außerhalb des Bildes. Verbindliche Zustände: Gallus in der Gründungssage: Ort: neben einer neu errichteten einfachen Zelle; Körperhaltung: stehend; Mitgeführte Gegenstände: Wanderstab; Kleidung: Einfache braune Mönchskutte mit Strickgürtel und Sandalen. Ein hölzerner Wanderstab.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Weiter die Sitter hinauf entstand eine weitere Zelle. Die Sage verbindet damit den Namen Appenzell.
+Dialoge: keine
+Kontinuität / Änderung: Zweiter Ort und eigene kleine Zelle, kein Sprung Gallus in den späteren Kampf. Namensdeutung ausdrücklich der Sage zugeschrieben.
+
+KACHEL 7: Viel später
+Ort und Zeit: Hof der nun mächtigen Abtei
+Sichtbare Figuren: Späterer Abt von St. Gallen, Hirte aus dem Appenzeller Freiheitsbogen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Jahrhunderte nach der Gründungszeit steht ein anderer Abt vor einer deutlich größeren Abtei. Ein Hirte hört seine Herrschaftsansprüche an. Gallus, Gunzo und die Tochter sind längst verstorben und erscheinen nicht unter den Anwesenden. Verbindliche Zustände: Späterer Abt von St. Gallen: Ort: auf einer erhöhten Steinstufe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraune prächtige Kutte mit breitem Gürtel und vergoldetem Amtskreuz.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Hirte aus dem Appenzeller Freiheitsbogen: Ort: unterhalb der Stufe; Körperhaltung: stehend; Mitgeführte Gegenstände: ein hölzerner Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Jahrhunderte später beanspruchte die mächtige Abtei Herrschaft über die Hirten. Aus früherem Vertrauen sollte Unterordnung werden.
+Dialoge: keine
+Kontinuität / Änderung: Expliziter Epochensprung. Späterer Abt ist eigene ID, keine gealterte Version von Gallus.
+
+KACHEL 8: Nicht dafür gewonnen
+Ort und Zeit: Versammlung auf einem Hirtenhof
+Sichtbare Figuren: Hirte aus dem Appenzeller Freiheitsbogen, Frau vom Appenzeller Berghang
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Hirte berichtet Erwachsenen aus den Höfen. Die bekannte Frau im dunkelgrünen Kleid hört mit anderen Frauen und Männern zu. Alle stehen auf gleicher Bodenhöhe, der Stab bleibt ein Holzstab. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: im Kreis der Versammelten; Körperhaltung: stehend; Mitgeführte Gegenstände: derselbe Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frau vom Appenzeller Berghang: Ort: auf der anderen Seite des Kreises; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Zunächst schlichtes dunkelgrünes langes Kleid; zum Auftritt am Berg braune Hose, graue weite Tunika und dunkle Mütze über dem Zopf. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hirte aus dem Appenzeller Freiheitsbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Unsere Vorfahren nahmen ihren Glauben an. Nicht die Unfreiheit.“
+Kontinuität / Änderung: Widerstand richtet sich gegen konkrete Herrschaft, nicht gegen pauschal dargestellte Gläubige.
+
+KACHEL 9: Ein Verbündeter
+Ort und Zeit: Hof unterhalb von Werdenberg
+Sichtbare Figuren: Rudolf von Werdenberg in der Sage, Hirte aus dem Appenzeller Freiheitsbogen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Rudolf tritt zu den Hirten, zu Fuß und mit seinem einzigen Schwert links in geschlossener Scheide. Seine leeren Hände und der gemeinsame Standpunkt zeigen Unterstützung. Keine bereits laufende Schlacht im Hintergrund. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: neben Rudolf; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rudolf von Werdenberg in der Sage: Ort: vor den Hirten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; einziges Schwert links in der Scheide; Kleidung: Dunkelblauer Waffenrock, einfache graue Armschienen und feste Stiefel. Genau ein Schwert links am Gürtel in einer braunen Scheide.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Rudolf von Werdenberg unterstützte die Hirten und führte sie nach der Sage in den Kampf um ihre Freiheit.
+Dialoge: keine
+Kontinuität / Änderung: Rudolf von Beginn an zu Fuß. Ein Schwert, noch nicht gezogen, keine zweite sichtbare Klinge.
+
+KACHEL 10: Ein anderer Aufbruch
+Ort und Zeit: Hof vor dem Berghang
+Sichtbare Figuren: Frau vom Appenzeller Berghang
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Frau hat das dunkelgrüne Kleid gegen Hose und weite Tunika gewechselt; das Kleid hängt an einem Holzstift in der Hütte. Weitere erwachsene Frauen bereiten dieselbe männlich gelesene Tracht vor. Keine Verwandlung in Männer und keine weiblichen Kinder als Kämpfende. Verbindliche Zustände: Frau vom Appenzeller Berghang: Ort: vor einer niedrigen Hüttentür; Körperhaltung: stehend; Mitgeführte Gegenstände: dunkle Mütze in der Hand; Kleidung: Braune Hose und graue weite Tunika; Zopf noch offen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auch die Frauen und erwachsenen Töchter brachen auf. In weiter Männertracht näherten sie sich über den Berg.
+Dialoge: keine
+Kontinuität / Änderung: Erkennbare gleiche Frau vor und nach Kleidungswechsel. Waffenlose Vorbereitung, noch nicht auf dem Kamm.
+
+KACHEL 11: Am Stoß
+Ort und Zeit: Offener Hang am Schlachtfeld
+Sichtbare Figuren: Rudolf von Werdenberg in der Sage, Hirte aus dem Appenzeller Freiheitsbogen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Rudolf hat sein einziges Schwert aus der linken Scheide gezogen und hält es rechts. Die Scheide hängt leer ohne zweiten Griff. In mittlerer Entfernung drängen zwei Gruppen mit Schilden gegeneinander; keine Wunden, kein Körperberg und keine unübersichtlichen Einzelduelle. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: neben Rudolf; Körperhaltung: angespannt stehend; Mitgeführte Gegenstände: derselbe einzelne Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rudolf von Werdenberg in der Sage: Ort: bei den Hirten am Hang; Körperhaltung: stehend; Mitgeführte Gegenstände: genau ein Schwert in rechter Hand; linke Scheide leer ohne zweiten Griff; Kleidung: Dunkelblauer Waffenrock, einfache graue Armschienen und feste Stiefel. Genau ein Schwert links am Gürtel in einer braunen Scheide.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..
+Erzählertext: Am Stoß blieb der Ausgang des Kampfes ungewiss. Noch konnte niemand auf der Seite der Hirten den Sieg beanspruchen.
+Dialoge: keine
+Kontinuität / Änderung: Schwert jetzt rechts, leere Scheide links. Kampf als Gefahr, nicht als bereits gewonnener Sieg.
+
+KACHEL 12: Die Silhouetten auf dem Kamm
+Ort und Zeit: Bergkamm über dem Schlachtfeld
+Sichtbare Figuren: Frau vom Appenzeller Berghang
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Von weit unten betrachtet zieht eine große Schar in weiter Tracht über den Kamm. Die bekannte Frau steht vorn, durch Entfernung nur ihre Silhouette. Erwachsene Begleiterinnen tragen ähnliche Kleidung. Keine tatsächlich neue bewaffnete Männerarmee. Verbindliche Zustände: Frau vom Appenzeller Berghang: Ort: oben am Kamm; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Hose, graue weite Tunika; dunkle Mütze über dem Zopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Da erschien die Schar auf dem Kamm. Für die Gegner sah sie von unten wie frische Verstärkung aus.
+Dialoge: keine
+Kontinuität / Änderung: Mütze jetzt aufgesetzt, Zopf darunter. Erscheinung aus Distanz und tatsächliche Identität auseinanderhalten.
+
+KACHEL 13: Der Blick entscheidet
+Ort und Zeit: Gegenseite am Hang
+Sichtbare Figuren: Rudolf von Werdenberg in der Sage, Hirte aus dem Appenzeller Freiheitsbogen
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Im Vordergrund drehen sich namenlose gegnerische Kämpfer vom Kamm weg und ziehen sich hastig zurück. Rudolf und die Hirten stehen räumlich auf der anderen Seite, das Schwert unverändert rechts. Keine von den Frauen geführten Schläge und kein Nachsetzen an Wehrlose. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: bei Rudolf; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rudolf von Werdenberg in der Sage: Ort: bei den Hirten im mittleren Hintergrund; Körperhaltung: stehend; Mitgeführte Gegenstände: genau ein Schwert in rechter Hand; linke Scheide leer ohne zweiten Griff; Kleidung: Dunkelblauer Waffenrock, einfache graue Armschienen und feste Stiefel. Genau ein Schwert links am Gürtel in einer braunen Scheide.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken..
+Erzählertext: Der Anblick bewog die Gegner zum Rückzug. Erst damit entschied sich die bedrohliche Lage zugunsten der Hirten.
+Dialoge: keine
+Kontinuität / Änderung: Rückzug durch wahrgenommene Verstärkung. Keine erfundene zweite entscheidende Gewalttat.
+
+KACHEL 14: Wer da gekommen war
+Ort und Zeit: Hang zwischen Kamm und Hirten
+Sichtbare Figuren: Frau vom Appenzeller Berghang, Hirte aus dem Appenzeller Freiheitsbogen, Rudolf von Werdenberg in der Sage
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach dem Rückzug der Gegner erreichen die Frauen die Hirten. Die bekannte Frau nimmt die Mütze ab und ihr Zopf wird sichtbar. Rudolf hat die Klinge bereits gesenkt, hält sie aber noch rechts; die linke Scheide ist weiterhin leer. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: vor ihr; Körperhaltung: stehend; Mitgeführte Gegenstände: derselbe Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rudolf von Werdenberg in der Sage: Ort: neben beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: genau ein Schwert in rechter Hand; linke Scheide leer ohne zweiten Griff; Kleidung: Dunkelblauer Waffenrock, einfache graue Armschienen und feste Stiefel. Genau ein Schwert links am Gürtel in einer braunen Scheide.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Frau vom Appenzeller Berghang: Ort: bei den Hirten; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommene dunkle Mütze; Kleidung: Braune Hose, graue weite Tunika; eigener dunkler Zopf sichtbar; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hirte aus dem Appenzeller Freiheitsbogen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ihr wart das auf dem Kamm?“
+Dialog 2:
+  Sprecher: Frau vom Appenzeller Berghang
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wer denn sonst?“
+Kontinuität / Änderung: Auflösung für die Nahsicht: dieselben Frauen, keine Männerverwandlung. Rudolf steckt das Schwert erst vor dem folgenden Bild ein.
+
+KACHEL 15: Selbst entscheiden
+Ort und Zeit: Versammlung in Appenzell nach dem Kampf
+Sichtbare Figuren: Hirte aus dem Appenzeller Freiheitsbogen, Frau vom Appenzeller Berghang, Rudolf von Werdenberg in der Sage
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später beraten die Menschen des Ländchens im eigenen Kreis. Die Frau hat zuhause wieder ihr Kleid angezogen; Rudolf hat sein Schwert in die linke Scheide zurückgesteckt und nun leere Hände. Kein neuer Herr steht über dem Kreis. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: im Kreis der Hirten; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Rudolf von Werdenberg in der Sage: Ort: am Rand des Kreises; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; einziges Schwert links in der Scheide; Kleidung: Dunkelblauer Waffenrock, einfache graue Armschienen und feste Stiefel. Genau ein Schwert links am Gürtel in einer braunen Scheide.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Frau vom Appenzeller Berghang: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Wieder ihr dunkelgrünes langes Kleid; dunkler Zopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Seitdem, schließt die Sage, habe Appenzell sich selbst regiert. Die frühere Hilfe begründete keinen ewigen Herrschaftsanspruch.
+Dialoge: keine
+Kontinuität / Änderung: Schlacht beendet, Schwert wieder in der Scheide. Kleidung nach ausdrücklich genanntem Wechsel. Keine neue Amtsgewalt Rudolfs erfinden.
+
+KACHEL 16: Hilfe ist kein Eigentum
+Ort und Zeit: Alpenweide über den Klosterdächern
+Sichtbare Figuren: Hirte aus dem Appenzeller Freiheitsbogen, Frau vom Appenzeller Berghang
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Auf einem Hang stehen die beiden Erwachsenen bei der Herde. Weit unten bleibt die Abtei sichtbar; sie wird nicht zerstört. Die freie Weide und die ruhige gemeinsame Haltung schließen den Bogen ohne neue Schlacht. Verbindliche Zustände: Hirte aus dem Appenzeller Freiheitsbogen: Ort: bei einer ruhig weidenden Herde; Körperhaltung: stehend; Mitgeführte Gegenstände: ein Hirtenstab; Kleidung: Grauer Wollrock, braune Hose und hohe grobe Schuhe. Ein einziger langer hölzerner Hirtenstab, keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Frau vom Appenzeller Berghang: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrünes langes Kleid; dunkler Zopf; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Abtei blieb bestehen. Doch die Hirten ließen sich ihre Freiheit nicht als Gegenleistung für den alten Glauben nehmen.
+Dialoge: keine
+Kontinuität / Änderung: Sagenende in Selbstbestimmung. Keine Rückkehr der frühen Gründer und kein Urteil über sämtliche Angehörigen einer Religion.

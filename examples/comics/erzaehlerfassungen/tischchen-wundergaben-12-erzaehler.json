@@ -1,0 +1,726 @@
+{
+  "mode": "editorial",
+  "name": "Tischchen deck dich – Die gestohlenen Wundergaben · Erzählerfassung",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Tischchen deck dich – Die gestohlenen Wundergaben.\nÜBERLIEFERUNG: Kinder- und Hausmärchen, 7. Auflage 1857, KHM 36: Tischchen deck dich, Goldesel, und Knüppel aus dem Sack.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nDrei Brüder gehen bei unterschiedlichen Meistern in die Lehre. Als Abschiedsgaben erhalten sie ein Tischchen, das sich auf Zuruf mit Essen deckt, einen Esel, der Gold hervorbringt, und einen Sack mit einem schlagkräftigen Zauberknüppel. Der erste Bruder übernachtet mit seinem Tisch bei einem Wirt. Dieser ersetzt ihn heimlich durch einen gewöhnlichen Tisch. Dem zweiten stiehlt er auf dieselbe Weise den Goldesel. Beide stehen beim Vater mit scheinbar wirkungslosen Geschenken da. Der jüngste erfährt vom Betrug und übernachtet ebenfalls beim Wirt. Als dieser nach dem Sack greift, ruft er den Knüppel heraus und erzwingt die Rückgabe der gestohlenen Gaben. Die Brüder kehren mit den echten Gegenständen zum Vater zurück.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Visuell lesbare Austauschtricks, zweimalige Enttäuschung und eine vorbereitete Umkehr beim dritten Versuch.\nABGRENZUNG: Der Ziegen- und Vertreibungsprolog bleibt außerhalb des Ausschnitts. Beim Austausch Original und Nachbildung räumlich unterscheiden. Nur der echte Tisch und der echte Esel zaubern. Der einzelne Knüppel befindet sich entweder im Sack oder außerhalb. Die magische Züchtigung ohne explizite Verletzungen darstellen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_article": "STOFF UND HERKUNFT: Tischchen deck dich – Die gestohlenen Wundergaben.\nÜBERLIEFERUNG: Kinder- und Hausmärchen, 7. Auflage 1857, KHM 36: Tischchen deck dich, Goldesel, und Knüppel aus dem Sack.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nDrei Brüder gehen bei unterschiedlichen Meistern in die Lehre. Als Abschiedsgaben erhalten sie ein Tischchen, das sich auf Zuruf mit Essen deckt, einen Esel, der Gold hervorbringt, und einen Sack mit einem schlagkräftigen Zauberknüppel. Der erste Bruder übernachtet mit seinem Tisch bei einem Wirt. Dieser ersetzt ihn heimlich durch einen gewöhnlichen Tisch. Dem zweiten stiehlt er auf dieselbe Weise den Goldesel. Beide stehen beim Vater mit scheinbar wirkungslosen Geschenken da. Der jüngste erfährt vom Betrug und übernachtet ebenfalls beim Wirt. Als dieser nach dem Sack greift, ruft er den Knüppel heraus und erzwingt die Rückgabe der gestohlenen Gaben. Die Brüder kehren mit den echten Gegenständen zum Vater zurück.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Visuell lesbare Austauschtricks, zweimalige Enttäuschung und eine vorbereitete Umkehr beim dritten Versuch.\nABGRENZUNG: Der Ziegen- und Vertreibungsprolog bleibt außerhalb des Ausschnitts. Beim Austausch Original und Nachbildung räumlich unterscheiden. Nur der echte Tisch und der echte Esel zaubern. Der einzelne Knüppel befindet sich entweder im Sack oder außerhalb. Die magische Züchtigung ohne explizite Verletzungen darstellen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Ein Abschied, der satt macht",
+        "setting": "Tischlerwerkstatt nach der Lehrzeit",
+        "characters": [
+          "66f144f404f65e34b1d65e0c3c915dd5"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Kleiner fertiger Holztisch mit heller Kerbe am linken Vorderbein, darauf warmes Essen. Ältester links staunt, Meister nur als unbenannte zurückgezogene Hand am Rand. Genau ein Tisch, kein Esel oder Knüppel. Verbindliche Zustände: Ältester Bruder: Ort: links vor dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "66f144f404f65e34b1d65e0c3c915dd5",
+            "text": "Tischchen, deck dich!",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Erster Bruder nach seiner Tischlerlehre. Kerbe ist freie Markierung des Originals, keine Schrift, die das Bildmodell erzeugen soll.",
+        "character_states": {},
+        "continuity_state": {
+          "66f144f404f65e34b1d65e0c3c915dd5": {
+            "location": "links vor dem Tisch",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ein zu aufmerksamer Gastgeber",
+        "setting": "Schankraum des Wirts am Abend",
+        "characters": [
+          "66f144f404f65e34b1d65e0c3c915dd5",
+          "a1cf64b989eb50aba5f3c977b0df1c26"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Schankstube. Originaltisch mit heller Beinkerbe vorn links reich gedeckt, ältester Bruder isst. Wirt rechts beobachtet den Tisch. Gewöhnlicher Ersatztisch noch in der abgeschlossenen hinteren Kammer, nicht daneben aufgestellt. Verbindliche Zustände: Ältester Bruder: Ort: links am echten Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts vor dem Durchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "a1cf64b989eb50aba5f3c977b0df1c26",
+            "text": "Das ist ein besonderes Möbel.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Ältester hat seinen einen Zaubertisch mitgebracht und vorgeführt. Wirt erkennt erst jetzt dessen Wert; Tisch noch beim Eigentümer.",
+        "character_states": {},
+        "continuity_state": {
+          "66f144f404f65e34b1d65e0c3c915dd5": {
+            "location": "links am echten Tisch",
+            "posture": "sitzend",
+            "held": "leere Hände",
+            "clothing": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts vor dem Durchgang",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Gleiche Form, anderer Tisch",
+        "setting": "Schankraum in derselben Nacht",
+        "characters": [
+          "a1cf64b989eb50aba5f3c977b0df1c26"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Räumlich eindeutige Totale. Wirt schiebt den Tisch mit heller Kerbe rechts in die Kammer. Links an der Stelle des Originals steht schon der gewöhnliche Tisch ohne Kerbe. Zwei unterschiedliche Tische, jeweils nur einmal. Ältester schläft außerhalb. Verbindliche Zustände: Wirt mit den Wundergaben: Ort: rechts an der offenen Hinterkammertür; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände schieben den echten Tisch in die Kammer; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "In der Nacht vertauschte der Wirt das Zaubertischchen mit einem gewöhnlichen Tisch. Die gleiche Form verbarg den Diebstahl.",
+        "bubbles": [],
+        "continuity": "Wirt stellt zunächst Nachbildung an die alte Stelle und bringt jetzt Original in die Kammer. Im folgenden Heimweg trägt Ältester unwissentlich nur die Nachbildung.",
+        "character_states": {},
+        "continuity_state": {
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts an der offenen Hinterkammertür",
+            "posture": "stehend",
+            "held": "beide Hände schieben den echten Tisch in die Kammer",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Der zweite Gast",
+        "setting": "Derselbe Hof des Gasthauses, späterer Abend",
+        "characters": [
+          "a1e74076563d5fb5b95a14b14ee46312",
+          "f328cd45794d5c9fb189af8a105a7d26",
+          "a1cf64b989eb50aba5f3c977b0df1c26"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Hofansicht. Echter grauer Esel mit weißem Stirnfleck und rotem Halfter steht mittig, wenige frisch entstandene Goldstücke auf einem Tuch darunter ohne Körperdetail. Mittlerer links führt ihn, Wirt rechts sieht zu. Kein erster Bruder mehr im Gasthaus. Verbindliche Zustände: Mittlerer Bruder: Ort: links vor dem echten Esel; Körperhaltung: stehend; Mitgeführte Gegenstände: roter Führstrick links; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: mittig im Hof; Körperhaltung: auf vier Hufen stehend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Später kam der zweite Bruder mit einem Esel, der Gold hervorbrachte. Wieder erkannte der Wirt eine Gelegenheit zum Betrug.",
+        "bubbles": [],
+        "continuity": "Zweiter Bruder hat den Esel vom Müller zum Lehrabschluss erhalten. Erster Gast bereits weitergereist; neuer Besuch klar als späterer Zeitpunkt.",
+        "character_states": {},
+        "continuity_state": {
+          "a1e74076563d5fb5b95a14b14ee46312": {
+            "location": "links vor dem echten Esel",
+            "posture": "stehend",
+            "held": "roter Führstrick links",
+            "clothing": "Blauer Rock, helles Hemd, graue Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "f328cd45794d5c9fb189af8a105a7d26": {
+            "location": "mittig im Hof",
+            "posture": "auf vier Hufen stehend",
+            "held": "keine Gegenstände",
+            "clothing": "Rotes Halfter; kein Sattel und keine Reiter.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts im Türrahmen",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Noch einmal derselbe Trick",
+        "setting": "Stall des Wirts in der folgenden Nacht",
+        "characters": [
+          "a1cf64b989eb50aba5f3c977b0df1c26",
+          "f328cd45794d5c9fb189af8a105a7d26",
+          "97ac0db1b4795716af1bbb0d078dbdc3"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Frontaler Stall mit zwei getrennten Buchten. Wirt rechts führt Original mit Stirnfleck und rotem Halfter in Hinterbox. Links steht eingesetzter gewöhnlicher Esel ohne Fleck mit braunem Halfter. Kein Gold aus dem falschen Tier. Kein dritter Esel. Verbindliche Zustände: Wirt mit den Wundergaben: Ort: rechts im Stalldurchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: roter Führstrick in der rechten Hand; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: rechts auf dem Weg in die Hinterbox; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gewöhnlicher Austauschesel: Ort: links im Gaststand; Körperhaltung: auf vier Hufen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Halfter; kein Sattel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Er tauschte auch den Esel aus. Der zweite Gast reiste mit einem ähnlichen, aber ganz gewöhnlichen Tier weiter.",
+        "bubbles": [],
+        "continuity": "Wieder zuerst Ersatz hingestellt, dann echtes Tier beiseitegeführt. Nächster Morgen: mittlerer Bruder nimmt nur den gewöhnlichen Esel mit.",
+        "character_states": {},
+        "continuity_state": {
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts im Stalldurchgang",
+            "posture": "stehend",
+            "held": "roter Führstrick in der rechten Hand",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "f328cd45794d5c9fb189af8a105a7d26": {
+            "location": "rechts auf dem Weg in die Hinterbox",
+            "posture": "gehend",
+            "held": "leere Hände",
+            "clothing": "Rotes Halfter; kein Sattel und keine Reiter.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "97ac0db1b4795716af1bbb0d078dbdc3": {
+            "location": "links im Gaststand",
+            "posture": "auf vier Hufen stehend",
+            "held": "leere Hände",
+            "clothing": "Braunes Halfter; kein Sattel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Was beim Vater ankommt",
+        "setting": "Hof und Stube des Vaters nach beiden Rückkehren",
+        "characters": [
+          "66f144f404f65e34b1d65e0c3c915dd5",
+          "a1e74076563d5fb5b95a14b14ee46312",
+          "97ac0db1b4795716af1bbb0d078dbdc3",
+          "8d96193d033954cab0db87dee5d0dcb1"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Ansicht durch offene Tür. Links Tisch ohne Kerbe bleibt leer, rechts Esel ohne Stirnfleck bleibt gewöhnlich. Vater mittig, beide Brüder enttäuscht. Keine Zauberspeisen und kein Gold. Originale weiterhin beim Wirt außerhalb. Verbindliche Zustände: Ältester Bruder: Ort: links am gewöhnlichen Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts beim gewöhnlichen Esel; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner Führstrick links; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vater der drei Brüder: Ort: mittig hinter dem leeren Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gewöhnlicher Austauschesel: Ort: rechts vor der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Halfter; kein Sattel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Beim Vater versagten beide vermeintlichen Wundergaben. Die Brüder wussten noch nicht, dass man ihnen die Originale gestohlen hatte.",
+        "bubbles": [],
+        "continuity": "Beide Heimkehren im vorausgegangenen Abstand vollzogen. Beide falschen Geschenke werden jetzt gemeinsam geprüft; kein Rücktausch ohne Konfrontation.",
+        "character_states": {},
+        "continuity_state": {
+          "66f144f404f65e34b1d65e0c3c915dd5": {
+            "location": "links am gewöhnlichen Tisch",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1e74076563d5fb5b95a14b14ee46312": {
+            "location": "rechts beim gewöhnlichen Esel",
+            "posture": "stehend",
+            "held": "brauner Führstrick links",
+            "clothing": "Blauer Rock, helles Hemd, graue Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "97ac0db1b4795716af1bbb0d078dbdc3": {
+            "location": "rechts vor der offenen Haustür",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braunes Halfter; kein Sattel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8d96193d033954cab0db87dee5d0dcb1": {
+            "location": "mittig hinter dem leeren Tisch",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grauer Rock, dunkle Hose und schlichte Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die dritte Reise beginnt mit Wissen",
+        "setting": "Beim Vater, vor dem nächsten Gasthausbesuch",
+        "characters": [
+          "66f144f404f65e34b1d65e0c3c915dd5",
+          "a1e74076563d5fb5b95a14b14ee46312",
+          "95397614876e5dd9a6fa317c8cd82038"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe mit drei farblich verschiedenen Brüdern, grün links, rostrot Mitte, blau rechts. Jüngster hält einen geschlossenen Sack, kein Knüppel zugleich in der Hand. Kein spontan herbeigezauberter neuer Tisch. Verbindliche Zustände: Ältester Bruder: Ort: links beim Jüngsten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts beim Jüngsten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngster Bruder: Ort: mittig vor den Brüdern; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossener Leinensack links; ein Knüppel darin; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "95397614876e5dd9a6fa317c8cd82038",
+            "text": "Derselbe Wirt. Zweimal.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Jüngster kommt vom Drechsler mit seiner Abschiedsgabe und erfährt von beiden Diebstählen. Er fährt nicht ahnungslos wie die älteren Brüder fort.",
+        "character_states": {},
+        "continuity_state": {
+          "66f144f404f65e34b1d65e0c3c915dd5": {
+            "location": "links beim Jüngsten",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1e74076563d5fb5b95a14b14ee46312": {
+            "location": "rechts beim Jüngsten",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Blauer Rock, helles Hemd, graue Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "95397614876e5dd9a6fa317c8cd82038": {
+            "location": "mittig vor den Brüdern",
+            "posture": "stehend",
+            "held": "ein geschlossener Leinensack links; ein Knüppel darin",
+            "clothing": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Eine Hand zu viel",
+        "setting": "Zimmer im Gasthaus, dritte Nacht",
+        "characters": [
+          "95397614876e5dd9a6fa317c8cd82038",
+          "a1cf64b989eb50aba5f3c977b0df1c26"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nahe. Jüngster liegt links mit scheinbar geschlossenen Augen; Wirt rechts greift nach dem einen Sack neben dessen Kopf. Noch kein Knüppel außerhalb. Kein Tischtausch als dritte andere Variante, kein echter Schlaf als Überraschung ohne Vorbereitung. Verbindliche Zustände: Jüngster Bruder: Ort: links auf der Bank; Körperhaltung: mit geschlossenen Augen liegend; Mitgeführte Gegenstände: leere Hände; Sack geschlossen neben seinem Kopf; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts an der Bank; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand greift zum noch geschlossenen Sack; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Der jüngste Bruder kannte inzwischen das Muster. Als der Wirt nach seinem Sack griff, war der Gast darauf vorbereitet.",
+        "bubbles": [],
+        "continuity": "Jüngster stellt sich schlafend und wartet auf den Zugriff. Sack ist noch geschlossen; Wirt hat ihn noch nicht weggetragen.",
+        "character_states": {},
+        "continuity_state": {
+          "95397614876e5dd9a6fa317c8cd82038": {
+            "location": "links auf der Bank",
+            "posture": "mit geschlossenen Augen liegend",
+            "held": "leere Hände; Sack geschlossen neben seinem Kopf",
+            "clothing": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts an der Bank",
+            "posture": "stehend",
+            "held": "rechte Hand greift zum noch geschlossenen Sack",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Diesmal ist der Gast vorbereitet",
+        "setting": "Dasselbe Zimmer unmittelbar danach",
+        "characters": [
+          "95397614876e5dd9a6fa317c8cd82038",
+          "a1cf64b989eb50aba5f3c977b0df1c26"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Ein einzelner frei schwebender Holzknüppel zwischen Jüngstem links und Wirt rechts. Knüppel außerhalb des offen leeren Sacks. Wirt schützt sich mit Armen, keine blutigen Treffer oder Verletzungen. Verbindliche Zustände: Jüngster Bruder: Ort: links auf der Bank; Körperhaltung: aufgerichtet sitzend; Mitgeführte Gegenstände: geöffneter leerer Sack links; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts vor der Bank; Körperhaltung: mit gehobenen Unterarmen zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Der Zauberknüppel zwang den Wirt zur Aufgabe. Diesmal traf seine Gier auf einen Gast, der sich wehren konnte.",
+        "bubbles": [],
+        "continuity": "Knüppel wird herausgerufen; es ist genau derselbe zuvor im Sack. Magische Züchtigung ohne explizite Verletzungen, Rückgabe wird verlangt statt neuer Raubzug des Jüngsten.",
+        "character_states": {},
+        "continuity_state": {
+          "95397614876e5dd9a6fa317c8cd82038": {
+            "location": "links auf der Bank",
+            "posture": "aufgerichtet sitzend",
+            "held": "geöffneter leerer Sack links",
+            "clothing": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts vor der Bank",
+            "posture": "mit gehobenen Unterarmen zurückweichend",
+            "held": "leere Hände",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Originale kommen ans Licht",
+        "setting": "Gasthaushof nach dem Eingeständnis",
+        "characters": [
+          "95397614876e5dd9a6fa317c8cd82038",
+          "a1cf64b989eb50aba5f3c977b0df1c26",
+          "f328cd45794d5c9fb189af8a105a7d26"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Hofansicht. Echter Tisch mit heller Kerbe rechts, echter Esel mit weißem Stirnfleck und rotem Halfter mittig. Wirt steht daneben mit leeren Händen. Jüngster links mit wieder geschlossenem Sack. Kein zweiter schwebender Knüppel, keine Nachbildungen im Bild. Verbindliche Zustände: Jüngster Bruder: Ort: links im Hof; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossener Sack links; einziger Knüppel wieder darin; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts beim zurückgegebenen Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: mittig neben dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "95397614876e5dd9a6fa317c8cd82038",
+            "text": "Nicht ähnliche. Die echten.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Wirt hat beide Originale herausgebracht. Jüngster ruft Knüppel vorher in den Sack zurück. Zwei falsche Gegenstücke bleiben beim Vater, keine Vervielfachung der Wundergaben.",
+        "character_states": {},
+        "continuity_state": {
+          "95397614876e5dd9a6fa317c8cd82038": {
+            "location": "links im Hof",
+            "posture": "stehend",
+            "held": "geschlossener Sack links; einziger Knüppel wieder darin",
+            "clothing": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1cf64b989eb50aba5f3c977b0df1c26": {
+            "location": "rechts beim zurückgegebenen Tisch",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "f328cd45794d5c9fb189af8a105a7d26": {
+            "location": "mittig neben dem Tisch",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Rotes Halfter; kein Sattel und keine Reiter.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Kein leeres Versprechen mehr",
+        "setting": "Hof des Vaters nach der Rückkehr",
+        "characters": [
+          "66f144f404f65e34b1d65e0c3c915dd5",
+          "a1e74076563d5fb5b95a14b14ee46312",
+          "95397614876e5dd9a6fa317c8cd82038",
+          "8d96193d033954cab0db87dee5d0dcb1",
+          "f328cd45794d5c9fb189af8a105a7d26"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Totale. Originaltisch mit heller Beinkerbe ist voller Essen, Originalesel mit Stirnfleck steht rechts, wenige Goldstücke auf dem Tuch. Drei Brüder und Vater lebend unverletzt, Sack geschlossen. Falsche Gegenstücke abseits gelagert außerhalb des Bildes. Verbindliche Zustände: Ältester Bruder: Ort: links beim echten Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts beim echten Esel; Körperhaltung: stehend; Mitgeführte Gegenstände: roter Führstrick links; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngster Bruder: Ort: links hinter dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossener Sack links; Knüppel darin; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vater der drei Brüder: Ort: mittig am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: rechts neben dem Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "8d96193d033954cab0db87dee5d0dcb1",
+            "text": "Diesmal ist es wirklich euer Tisch.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Rücktransport durch Handkarren außerhalb der gezeigten Episode, keine Reise auf dem beladenen Esel. Originale nun eindeutig zuhause; nur sie zaubern.",
+        "character_states": {},
+        "continuity_state": {
+          "66f144f404f65e34b1d65e0c3c915dd5": {
+            "location": "links beim echten Tisch",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1e74076563d5fb5b95a14b14ee46312": {
+            "location": "rechts beim echten Esel",
+            "posture": "stehend",
+            "held": "roter Führstrick links",
+            "clothing": "Blauer Rock, helles Hemd, graue Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "95397614876e5dd9a6fa317c8cd82038": {
+            "location": "links hinter dem Tisch",
+            "posture": "stehend",
+            "held": "geschlossener Sack links; Knüppel darin",
+            "clothing": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8d96193d033954cab0db87dee5d0dcb1": {
+            "location": "mittig am Tisch",
+            "posture": "sitzend",
+            "held": "leere Hände",
+            "clothing": "Grauer Rock, dunkle Hose und schlichte Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "f328cd45794d5c9fb189af8a105a7d26": {
+            "location": "rechts neben dem Haus",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Rotes Halfter; kein Sattel und keine Reiter.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Wieder gemeinsam am Tisch",
+        "setting": "Beim Vater nach der wiederhergestellten Gabe",
+        "characters": [
+          "66f144f404f65e34b1d65e0c3c915dd5",
+          "a1e74076563d5fb5b95a14b14ee46312",
+          "95397614876e5dd9a6fa317c8cd82038",
+          "8d96193d033954cab0db87dee5d0dcb1"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige gemeinsame Tischszene mit vier Personen. Helle Kerbe am einzigen Tischbein erkennbar, Sack geschlossen auf dem Boden. Kein Knüppel als dauernd schwingende Familienwaffe. Esel ist außerhalb im Stall, nicht unter den Tisch geschrumpft. Verbindliche Zustände: Ältester Bruder: Ort: links am gedeckten Originaltisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngster Bruder: Ort: vorn am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; geschlossener Sack neben der Bank; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vater der drei Brüder: Ort: hinten am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Mit den echten Gaben saßen die Brüder wieder beim Vater. Der erkannte Betrug hatte nicht nur Besitz, sondern auch Vertrauen bedroht.",
+        "bubbles": [],
+        "continuity": "Originale bleiben bei der Familie. Ende des gewählten Betrugsbogens ohne Ziegenprolog und ohne neue Rache am Wirt.",
+        "character_states": {},
+        "continuity_state": {
+          "66f144f404f65e34b1d65e0c3c915dd5": {
+            "location": "links am gedeckten Originaltisch",
+            "posture": "sitzend",
+            "held": "leere Hände",
+            "clothing": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "a1e74076563d5fb5b95a14b14ee46312": {
+            "location": "rechts am Tisch",
+            "posture": "sitzend",
+            "held": "leere Hände",
+            "clothing": "Blauer Rock, helles Hemd, graue Hose und Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "95397614876e5dd9a6fa317c8cd82038": {
+            "location": "vorn am Tisch",
+            "posture": "sitzend",
+            "held": "leere Hände; geschlossener Sack neben der Bank",
+            "clothing": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "8d96193d033954cab0db87dee5d0dcb1": {
+            "location": "hinten am Tisch",
+            "posture": "sitzend",
+            "held": "leere Hände",
+            "clothing": "Grauer Rock, dunkle Hose und schlichte Schuhe.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "66f144f404f65e34b1d65e0c3c915dd5",
+        "name": "Ältester Bruder",
+        "description": "Junger erwachsener Mann mit kurzem braunem Haar und schmalem Kinnbart.",
+        "outfit": "Grüner Rock, helles Hemd, braune Hose und Schuhe.",
+        "backstory": "Erhält vom Tischler einen Zaubertisch und wird vom Wirt getäuscht.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "a1e74076563d5fb5b95a14b14ee46312",
+        "name": "Mittlerer Bruder",
+        "description": "Junger erwachsener Mann mit dunklen Locken und rundem Gesicht.",
+        "outfit": "Blauer Rock, helles Hemd, graue Hose und Schuhe.",
+        "backstory": "Erhält einen Goldesel. Der Austausch mit einem gewöhnlichen Tier macht den Betrug zunächst unsichtbar.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "95397614876e5dd9a6fa317c8cd82038",
+        "name": "Jüngster Bruder",
+        "description": "Junger erwachsener Mann mit kurzem rotbraunem Haar und sommersprossigem Gesicht.",
+        "outfit": "Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.",
+        "backstory": "Kennt das Muster des Wirts und ist vorbereitet. Die dritte Begegnung stellt gestohlene Gaben wieder her.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "a1cf64b989eb50aba5f3c977b0df1c26",
+        "name": "Wirt mit den Wundergaben",
+        "description": "Kräftiger erwachsener Mann mit schwarzem Schnurrbart und kahlem Oberkopf.",
+        "outfit": "Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.",
+        "backstory": "Tauscht die echten Gaben heimlich gegen gewöhnliche Gegenstücke. Behält die Originale bis zur erzwungenen Rückgabe.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "8d96193d033954cab0db87dee5d0dcb1",
+        "name": "Vater der drei Brüder",
+        "description": "Älterer Mann mit grauem Bart und markanten Stirnfalten.",
+        "outfit": "Grauer Rock, dunkle Hose und schlichte Schuhe.",
+        "backstory": "Erlebt die zwei falschen Geschenke und später die Wiederherstellung. Ziegenprolog bleibt außerhalb.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "f328cd45794d5c9fb189af8a105a7d26",
+        "name": "Echter Goldesel",
+        "description": "Ein grauer Esel mit weißem Fleck auf der Stirn, zwei langen Ohren, vier Beinen und einem Schwanz.",
+        "outfit": "Rotes Halfter; kein Sattel und keine Reiter.",
+        "backstory": "Einziger zaubernder Esel. Rotes Halfter und weißer Stirnfleck sind freie visuelle Erkennungszeichen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "97ac0db1b4795716af1bbb0d078dbdc3",
+        "name": "Gewöhnlicher Austauschesel",
+        "description": "Ein grauer Esel ohne weißen Stirnfleck, mit zwei langen Ohren, vier Beinen und einem Schwanz.",
+        "outfit": "Braunes Halfter; kein Sattel.",
+        "backstory": "Gewöhnliches vom Wirt unterschobenes Tier; zaubert niemals Gold.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie wird aus bloßem Verdacht die Wiederherstellung verletzten Vertrauens?",
+      "core": "Wer den gleichen Betrug erkennt und ihm vorbereitet begegnet, kann zurückgewinnen, was argloses Vertrauen allein nicht schützt.",
+      "ending": "Die gestohlenen echten Gaben gelangen zu den Brüdern und ihrem Vater zurück.",
+      "reason": "Die zwei Diebstähle müssen vergleichbar sein; erst die dritte Begegnung kehrt das wiederholte Muster um.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Der jüngste erfährt vom Betrug und übernachtet ebenfalls beim Wirt.",
+          "meaning": "Er wiederholt die Situation mit Wissen und einem Mittel zur Gegenwehr."
+        }
+      ],
+      "causal_chain": [
+        "Der jüngste erfährt vom Betrug und übernachtet ebenfalls beim Wirt.",
+        "Die gestohlenen echten Gaben gelangen zu den Brüdern und ihrem Vater zurück."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "3fbcfd211bf9e7bc6339be9007c8395e533f3e4ec7b1ead20b63458e4a2a00e2",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:05:45.172516+00:00"
+    },
+    "post_summary": "Ein Tisch voller Speisen und ein Esel, der Gold gibt: Zwei Brüder glauben ihr Glück gefunden zu haben. Doch ein Wirt tauscht die Wundergaben aus – bis der dritte Bruder mit einem unscheinbaren Sack erscheint.",
+    "source_provenance": {
+      "title": "Tischchen deck dich – Die gestohlenen Wundergaben",
+      "kind": "Buch",
+      "creator": "Jacob Grimm (1785–1863) und Wilhelm Grimm (1786–1859).",
+      "edition": "Kinder- und Hausmärchen, 7. Auflage 1857, KHM 36: Tischchen deck dich, Goldesel, und Knüppel aus dem Sack. Eigene neu formulierte deutsche Inhaltszusammenfassung.",
+      "url": "https://de.wikisource.org/wiki/Tischchen_deck_dich,_Goldesel,_und_Knüppel_aus_dem_Sack_(1857)",
+      "territories": "Deutschland; Bezug auf den historischen Ausgangstext und diese eigene Inhaltsfassung.",
+      "rights": "Gemeinfreier historischer Ausgangstext eines seit mehr als 70 Jahren verstorbenen Autors beziehungsweise Bearbeiters. Eigene deutsche Inhaltszusammenfassung; keine moderne Übersetzung, Filmfassung oder fremde Illustration übernommen. Rechtehinweis für Deutschland gemäß § 64 UrhG; nicht als Freigabe sämtlicher Ausgaben, Webseiten oder Bilder zu verstehen.",
+      "text": "STOFF UND HERKUNFT: Tischchen deck dich – Die gestohlenen Wundergaben.\nÜBERLIEFERUNG: Kinder- und Hausmärchen, 7. Auflage 1857, KHM 36: Tischchen deck dich, Goldesel, und Knüppel aus dem Sack.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nDrei Brüder gehen bei unterschiedlichen Meistern in die Lehre. Als Abschiedsgaben erhalten sie ein Tischchen, das sich auf Zuruf mit Essen deckt, einen Esel, der Gold hervorbringt, und einen Sack mit einem schlagkräftigen Zauberknüppel. Der erste Bruder übernachtet mit seinem Tisch bei einem Wirt. Dieser ersetzt ihn heimlich durch einen gewöhnlichen Tisch. Dem zweiten stiehlt er auf dieselbe Weise den Goldesel. Beide stehen beim Vater mit scheinbar wirkungslosen Geschenken da. Der jüngste erfährt vom Betrug und übernachtet ebenfalls beim Wirt. Als dieser nach dem Sack greift, ruft er den Knüppel heraus und erzwingt die Rückgabe der gestohlenen Gaben. Die Brüder kehren mit den echten Gegenständen zum Vater zurück.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Visuell lesbare Austauschtricks, zweimalige Enttäuschung und eine vorbereitete Umkehr beim dritten Versuch.\nABGRENZUNG: Der Ziegen- und Vertreibungsprolog bleibt außerhalb des Ausschnitts. Beim Austausch Original und Nachbildung räumlich unterscheiden. Nur der echte Tisch und der echte Esel zaubern. Der einzelne Knüppel befindet sich entweder im Sack oder außerhalb. Die magische Züchtigung ohne explizite Verletzungen darstellen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+      "post_summary": "Ein Tisch voller Speisen und ein Esel, der Gold gibt: Zwei Brüder glauben ihr Glück gefunden zu haben. Doch ein Wirt tauscht die Wundergaben aus – bis der dritte Bruder mit einem unscheinbaren Sack erscheint.",
+      "id": "comic-quellen-3-tischchen-deck-dich",
+      "category": "Märchen und Verwandlungen",
+      "collection": "Grimm – Märchen"
+    },
+    "source_script": "TITEL: Tischchen deck dich – Die gestohlenen Wundergaben · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Ältester Bruder\nAussehen: Junger erwachsener Mann mit kurzem braunem Haar und schmalem Kinnbart.\nKleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.\nPersönlichkeit und Vorgeschichte: Erhält vom Tischler einen Zaubertisch und wird vom Wirt getäuscht.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Mittlerer Bruder\nAussehen: Junger erwachsener Mann mit dunklen Locken und rundem Gesicht.\nKleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.\nPersönlichkeit und Vorgeschichte: Erhält einen Goldesel. Der Austausch mit einem gewöhnlichen Tier macht den Betrug zunächst unsichtbar.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Jüngster Bruder\nAussehen: Junger erwachsener Mann mit kurzem rotbraunem Haar und sommersprossigem Gesicht.\nKleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.\nPersönlichkeit und Vorgeschichte: Kennt das Muster des Wirts und ist vorbereitet. Die dritte Begegnung stellt gestohlene Gaben wieder her.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Wirt mit den Wundergaben\nAussehen: Kräftiger erwachsener Mann mit schwarzem Schnurrbart und kahlem Oberkopf.\nKleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.\nPersönlichkeit und Vorgeschichte: Tauscht die echten Gaben heimlich gegen gewöhnliche Gegenstücke. Behält die Originale bis zur erzwungenen Rückgabe.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Vater der drei Brüder\nAussehen: Älterer Mann mit grauem Bart und markanten Stirnfalten.\nKleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.\nPersönlichkeit und Vorgeschichte: Erlebt die zwei falschen Geschenke und später die Wiederherstellung. Ziegenprolog bleibt außerhalb.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Echter Goldesel\nAussehen: Ein grauer Esel mit weißem Fleck auf der Stirn, zwei langen Ohren, vier Beinen und einem Schwanz.\nKleidung: Rotes Halfter; kein Sattel und keine Reiter.\nPersönlichkeit und Vorgeschichte: Einziger zaubernder Esel. Rotes Halfter und weißer Stirnfleck sind freie visuelle Erkennungszeichen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Gewöhnlicher Austauschesel\nAussehen: Ein grauer Esel ohne weißen Stirnfleck, mit zwei langen Ohren, vier Beinen und einem Schwanz.\nKleidung: Braunes Halfter; kein Sattel.\nPersönlichkeit und Vorgeschichte: Gewöhnliches vom Wirt unterschobenes Tier; zaubert niemals Gold.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Ein Abschied, der satt macht\nOrt und Zeit: Tischlerwerkstatt nach der Lehrzeit\nSichtbare Figuren: Ältester Bruder\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Kleiner fertiger Holztisch mit heller Kerbe am linken Vorderbein, darauf warmes Essen. Ältester links staunt, Meister nur als unbenannte zurückgezogene Hand am Rand. Genau ein Tisch, kein Esel oder Knüppel. Verbindliche Zustände: Ältester Bruder: Ort: links vor dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Ältester Bruder\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Tischchen, deck dich!“\nKontinuität / Änderung: Erster Bruder nach seiner Tischlerlehre. Kerbe ist freie Markierung des Originals, keine Schrift, die das Bildmodell erzeugen soll.\n\nKACHEL 2: Ein zu aufmerksamer Gastgeber\nOrt und Zeit: Schankraum des Wirts am Abend\nSichtbare Figuren: Ältester Bruder, Wirt mit den Wundergaben\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Schankstube. Originaltisch mit heller Beinkerbe vorn links reich gedeckt, ältester Bruder isst. Wirt rechts beobachtet den Tisch. Gewöhnlicher Ersatztisch noch in der abgeschlossenen hinteren Kammer, nicht daneben aufgestellt. Verbindliche Zustände: Ältester Bruder: Ort: links am echten Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts vor dem Durchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Wirt mit den Wundergaben\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das ist ein besonderes Möbel.“\nKontinuität / Änderung: Ältester hat seinen einen Zaubertisch mitgebracht und vorgeführt. Wirt erkennt erst jetzt dessen Wert; Tisch noch beim Eigentümer.\n\nKACHEL 3: Gleiche Form, anderer Tisch\nOrt und Zeit: Schankraum in derselben Nacht\nSichtbare Figuren: Wirt mit den Wundergaben\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Räumlich eindeutige Totale. Wirt schiebt den Tisch mit heller Kerbe rechts in die Kammer. Links an der Stelle des Originals steht schon der gewöhnliche Tisch ohne Kerbe. Zwei unterschiedliche Tische, jeweils nur einmal. Ältester schläft außerhalb. Verbindliche Zustände: Wirt mit den Wundergaben: Ort: rechts an der offenen Hinterkammertür; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände schieben den echten Tisch in die Kammer; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: In der Nacht vertauschte der Wirt das Zaubertischchen mit einem gewöhnlichen Tisch. Die gleiche Form verbarg den Diebstahl.\nDialoge: keine\nKontinuität / Änderung: Wirt stellt zunächst Nachbildung an die alte Stelle und bringt jetzt Original in die Kammer. Im folgenden Heimweg trägt Ältester unwissentlich nur die Nachbildung.\n\nKACHEL 4: Der zweite Gast\nOrt und Zeit: Derselbe Hof des Gasthauses, späterer Abend\nSichtbare Figuren: Mittlerer Bruder, Echter Goldesel, Wirt mit den Wundergaben\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Hofansicht. Echter grauer Esel mit weißem Stirnfleck und rotem Halfter steht mittig, wenige frisch entstandene Goldstücke auf einem Tuch darunter ohne Körperdetail. Mittlerer links führt ihn, Wirt rechts sieht zu. Kein erster Bruder mehr im Gasthaus. Verbindliche Zustände: Mittlerer Bruder: Ort: links vor dem echten Esel; Körperhaltung: stehend; Mitgeführte Gegenstände: roter Führstrick links; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts im Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: mittig im Hof; Körperhaltung: auf vier Hufen stehend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Später kam der zweite Bruder mit einem Esel, der Gold hervorbrachte. Wieder erkannte der Wirt eine Gelegenheit zum Betrug.\nDialoge: keine\nKontinuität / Änderung: Zweiter Bruder hat den Esel vom Müller zum Lehrabschluss erhalten. Erster Gast bereits weitergereist; neuer Besuch klar als späterer Zeitpunkt.\n\nKACHEL 5: Noch einmal derselbe Trick\nOrt und Zeit: Stall des Wirts in der folgenden Nacht\nSichtbare Figuren: Wirt mit den Wundergaben, Echter Goldesel, Gewöhnlicher Austauschesel\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Frontaler Stall mit zwei getrennten Buchten. Wirt rechts führt Original mit Stirnfleck und rotem Halfter in Hinterbox. Links steht eingesetzter gewöhnlicher Esel ohne Fleck mit braunem Halfter. Kein Gold aus dem falschen Tier. Kein dritter Esel. Verbindliche Zustände: Wirt mit den Wundergaben: Ort: rechts im Stalldurchgang; Körperhaltung: stehend; Mitgeführte Gegenstände: roter Führstrick in der rechten Hand; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: rechts auf dem Weg in die Hinterbox; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gewöhnlicher Austauschesel: Ort: links im Gaststand; Körperhaltung: auf vier Hufen stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Halfter; kein Sattel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Er tauschte auch den Esel aus. Der zweite Gast reiste mit einem ähnlichen, aber ganz gewöhnlichen Tier weiter.\nDialoge: keine\nKontinuität / Änderung: Wieder zuerst Ersatz hingestellt, dann echtes Tier beiseitegeführt. Nächster Morgen: mittlerer Bruder nimmt nur den gewöhnlichen Esel mit.\n\nKACHEL 6: Was beim Vater ankommt\nOrt und Zeit: Hof und Stube des Vaters nach beiden Rückkehren\nSichtbare Figuren: Ältester Bruder, Mittlerer Bruder, Gewöhnlicher Austauschesel, Vater der drei Brüder\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Ansicht durch offene Tür. Links Tisch ohne Kerbe bleibt leer, rechts Esel ohne Stirnfleck bleibt gewöhnlich. Vater mittig, beide Brüder enttäuscht. Keine Zauberspeisen und kein Gold. Originale weiterhin beim Wirt außerhalb. Verbindliche Zustände: Ältester Bruder: Ort: links am gewöhnlichen Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts beim gewöhnlichen Esel; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner Führstrick links; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vater der drei Brüder: Ort: mittig hinter dem leeren Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Gewöhnlicher Austauschesel: Ort: rechts vor der offenen Haustür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Halfter; kein Sattel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Beim Vater versagten beide vermeintlichen Wundergaben. Die Brüder wussten noch nicht, dass man ihnen die Originale gestohlen hatte.\nDialoge: keine\nKontinuität / Änderung: Beide Heimkehren im vorausgegangenen Abstand vollzogen. Beide falschen Geschenke werden jetzt gemeinsam geprüft; kein Rücktausch ohne Konfrontation.\n\nKACHEL 7: Die dritte Reise beginnt mit Wissen\nOrt und Zeit: Beim Vater, vor dem nächsten Gasthausbesuch\nSichtbare Figuren: Ältester Bruder, Mittlerer Bruder, Jüngster Bruder\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbnahe mit drei farblich verschiedenen Brüdern, grün links, rostrot Mitte, blau rechts. Jüngster hält einen geschlossenen Sack, kein Knüppel zugleich in der Hand. Kein spontan herbeigezauberter neuer Tisch. Verbindliche Zustände: Ältester Bruder: Ort: links beim Jüngsten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts beim Jüngsten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngster Bruder: Ort: mittig vor den Brüdern; Körperhaltung: stehend; Mitgeführte Gegenstände: ein geschlossener Leinensack links; ein Knüppel darin; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Jüngster Bruder\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Derselbe Wirt. Zweimal.“\nKontinuität / Änderung: Jüngster kommt vom Drechsler mit seiner Abschiedsgabe und erfährt von beiden Diebstählen. Er fährt nicht ahnungslos wie die älteren Brüder fort.\n\nKACHEL 8: Eine Hand zu viel\nOrt und Zeit: Zimmer im Gasthaus, dritte Nacht\nSichtbare Figuren: Jüngster Bruder, Wirt mit den Wundergaben\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nahe. Jüngster liegt links mit scheinbar geschlossenen Augen; Wirt rechts greift nach dem einen Sack neben dessen Kopf. Noch kein Knüppel außerhalb. Kein Tischtausch als dritte andere Variante, kein echter Schlaf als Überraschung ohne Vorbereitung. Verbindliche Zustände: Jüngster Bruder: Ort: links auf der Bank; Körperhaltung: mit geschlossenen Augen liegend; Mitgeführte Gegenstände: leere Hände; Sack geschlossen neben seinem Kopf; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts an der Bank; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand greift zum noch geschlossenen Sack; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Der jüngste Bruder kannte inzwischen das Muster. Als der Wirt nach seinem Sack griff, war der Gast darauf vorbereitet.\nDialoge: keine\nKontinuität / Änderung: Jüngster stellt sich schlafend und wartet auf den Zugriff. Sack ist noch geschlossen; Wirt hat ihn noch nicht weggetragen.\n\nKACHEL 9: Diesmal ist der Gast vorbereitet\nOrt und Zeit: Dasselbe Zimmer unmittelbar danach\nSichtbare Figuren: Jüngster Bruder, Wirt mit den Wundergaben\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Ein einzelner frei schwebender Holzknüppel zwischen Jüngstem links und Wirt rechts. Knüppel außerhalb des offen leeren Sacks. Wirt schützt sich mit Armen, keine blutigen Treffer oder Verletzungen. Verbindliche Zustände: Jüngster Bruder: Ort: links auf der Bank; Körperhaltung: aufgerichtet sitzend; Mitgeführte Gegenstände: geöffneter leerer Sack links; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts vor der Bank; Körperhaltung: mit gehobenen Unterarmen zurückweichend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Der Zauberknüppel zwang den Wirt zur Aufgabe. Diesmal traf seine Gier auf einen Gast, der sich wehren konnte.\nDialoge: keine\nKontinuität / Änderung: Knüppel wird herausgerufen; es ist genau derselbe zuvor im Sack. Magische Züchtigung ohne explizite Verletzungen, Rückgabe wird verlangt statt neuer Raubzug des Jüngsten.\n\nKACHEL 10: Die Originale kommen ans Licht\nOrt und Zeit: Gasthaushof nach dem Eingeständnis\nSichtbare Figuren: Jüngster Bruder, Wirt mit den Wundergaben, Echter Goldesel\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Hofansicht. Echter Tisch mit heller Kerbe rechts, echter Esel mit weißem Stirnfleck und rotem Halfter mittig. Wirt steht daneben mit leeren Händen. Jüngster links mit wieder geschlossenem Sack. Kein zweiter schwebender Knüppel, keine Nachbildungen im Bild. Verbindliche Zustände: Jüngster Bruder: Ort: links im Hof; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossener Sack links; einziger Knüppel wieder darin; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Wirt mit den Wundergaben: Ort: rechts beim zurückgegebenen Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Weste, weißes Hemd, dunkle Hose und fleckige Schürze.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: mittig neben dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Jüngster Bruder\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nicht ähnliche. Die echten.“\nKontinuität / Änderung: Wirt hat beide Originale herausgebracht. Jüngster ruft Knüppel vorher in den Sack zurück. Zwei falsche Gegenstücke bleiben beim Vater, keine Vervielfachung der Wundergaben.\n\nKACHEL 11: Kein leeres Versprechen mehr\nOrt und Zeit: Hof des Vaters nach der Rückkehr\nSichtbare Figuren: Ältester Bruder, Mittlerer Bruder, Jüngster Bruder, Vater der drei Brüder, Echter Goldesel\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Totale. Originaltisch mit heller Beinkerbe ist voller Essen, Originalesel mit Stirnfleck steht rechts, wenige Goldstücke auf dem Tuch. Drei Brüder und Vater lebend unverletzt, Sack geschlossen. Falsche Gegenstücke abseits gelagert außerhalb des Bildes. Verbindliche Zustände: Ältester Bruder: Ort: links beim echten Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts beim echten Esel; Körperhaltung: stehend; Mitgeführte Gegenstände: roter Führstrick links; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngster Bruder: Ort: links hinter dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: geschlossener Sack links; Knüppel darin; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vater der drei Brüder: Ort: mittig am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Echter Goldesel: Ort: rechts neben dem Haus; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Rotes Halfter; kein Sattel und keine Reiter.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Vater der drei Brüder\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Diesmal ist es wirklich euer Tisch.“\nKontinuität / Änderung: Rücktransport durch Handkarren außerhalb der gezeigten Episode, keine Reise auf dem beladenen Esel. Originale nun eindeutig zuhause; nur sie zaubern.\n\nKACHEL 12: Wieder gemeinsam am Tisch\nOrt und Zeit: Beim Vater nach der wiederhergestellten Gabe\nSichtbare Figuren: Ältester Bruder, Mittlerer Bruder, Jüngster Bruder, Vater der drei Brüder\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige gemeinsame Tischszene mit vier Personen. Helle Kerbe am einzigen Tischbein erkennbar, Sack geschlossen auf dem Boden. Kein Knüppel als dauernd schwingende Familienwaffe. Esel ist außerhalb im Stall, nicht unter den Tisch geschrumpft. Verbindliche Zustände: Ältester Bruder: Ort: links am gedeckten Originaltisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grüner Rock, helles Hemd, braune Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mittlerer Bruder: Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blauer Rock, helles Hemd, graue Hose und Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jüngster Bruder: Ort: vorn am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; geschlossener Sack neben der Bank; Kleidung: Rostroter Rock, helles Hemd, braune Hose und Schuhe. Ein Leinensack mit genau einem Zauberknüppel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vater der drei Brüder: Ort: hinten am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer Rock, dunkle Hose und schlichte Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Mit den echten Gaben saßen die Brüder wieder beim Vater. Der erkannte Betrug hatte nicht nur Besitz, sondern auch Vertrauen bedroht.\nDialoge: keine\nKontinuität / Änderung: Originale bleiben bei der Familie. Ende des gewählten Betrugsbogens ohne Ziegenprolog und ohne neue Rache am Wirt.\n",
+    "book_author": "",
+    "editorial_script_id": "tischchen-wundergaben-12-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "tischchen-wundergaben-12"
+    },
+    "title": "Tischchen deck dich – Die gestohlenen Wundergaben · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "tischchen-wundergaben-12"
+    }
+  },
+  "count_policy": "editorial"
+}

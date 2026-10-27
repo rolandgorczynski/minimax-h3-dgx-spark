@@ -1,0 +1,195 @@
+TITEL: Kudrun – Ungebrochen und zur Versöhnung fähig · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kudrun
+Aussehen: Junge erwachsene Frau mit langem dunkelbraunem Haar, kräftigem geradem Blick, ovalem Gesicht. Ältert im Zeitsprung sichtbar um mehrere Jahre.
+Kleidung: Anfangs dunkelblaues Kleid mit grauem Tuch und braunen Schuhen; in der langen Gefangenschaft ausdrücklich schlichtes graues Arbeitskleid. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Verschleppt, Herwig verbunden. Bewahrt ihre Selbstbestimmung und will nach der Befreiung keine unbegrenzte Rache.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hildeburg
+Aussehen: Junge erwachsene Frau mit hellem Gesicht und rotbraunem Haar in einem festen Zopf, später etwas älter.
+Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Teilt Kudruns schwere Arbeit und stützt sie. Bleibt als eigene handelnde Gefährtin erkennbar.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hartmut
+Aussehen: Erwachsener großer Mann mit kurzen blonden Haaren, kurzem blondem Bart und geradem Gesicht.
+Kleidung: Dunkelroter Wollrock, braune Hose, dunkle Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Schild.
+Persönlichkeit und Vorgeschichte: Will Kudrun gegen ihre bestehende Bindung heiraten. Überlebt die ausgewählte Befreiung und ist Teil der schwierigen Friedensfrage.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Herwig
+Aussehen: Erwachsener kräftiger Mann mit schwarzen kurzen Haaren und kurzem dunklem Bart.
+Kleidung: Dunkelgrüne Tunika über Kettenhemd, braune Hose und Stiefel. Ein Schwert, eine Scheide links am Gürtel; kein Helm oder Schild.
+Persönlichkeit und Vorgeschichte: Mit Kudrun verbunden, kommt mit den Befreiern. Muss nach dem Kampf auch ihre Entscheidung gegen weitere Vergeltung respektieren.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bote am Strand
+Aussehen: Erwachsener schlanker Mann mit windzerzaustem braunem Haar, glattem Gesicht, wettergegerbter Haut.
+Kleidung: Graubrauner Reisemantel, dunkle Hose und Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Unbenannter Überbringer der nahenden Hilfe in freier bildlicher Verdichtung; keine neue Abenteuerhandlung und kein fest behaupteter Originalname.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein anderes Ufer
+Ort und Zeit: Fremder Küstenhof nach der Verschleppung
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Totale. Kudrun links und Hildeburg rechts stehen vor dem fremden Tor, hinter ihnen das Meer, vor ihnen das geschlossene Innere der fremden Burg. Unbenannte Wächter im Abstand, keine Verletzungen oder gefesselte Körper als Spektakel. Kudrun noch im dunkelblauen Kleid. Die beiden sehen zum Tor, ohne freiwilligen Einzug zu feiern. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links vor dem Hoftor; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs dunkelblaues Kleid mit grauem Tuch und braunen Schuhen; in der langen Gefangenschaft ausdrücklich schlichtes graues Arbeitskleid. Keine Waffe.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts neben Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: Kudrun war verschleppt worden. Das fremde Ufer war kein Ziel, das sie sich selbst gewählt hatte.
+Dialoge: keine
+Kontinuität / Änderung: Beginn nach der Verschleppung. Kudrun und Hildeburg sind keine freien Gäste. Keine Verwechslung mit Gudrun der nordischen Nibelungensage.
+
+KACHEL 2: Ein vorgegebener Entschluss
+Ort und Zeit: Innenraum des fremden Hofs, kurz darauf
+Sichtbare Figuren: Kudrun, Hartmut
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Kudrun links, Hartmut rechts; zwischen ihnen freier Abstand statt Brautpaarpose. Seine Klinge steckt in der linken Scheide, Hände leer. Kein Ring wird schon getragen oder übergeben. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links vor Hartmut; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs dunkelblaues Kleid mit grauem Tuch und braunen Schuhen; in der langen Gefangenschaft ausdrücklich schlichtes graues Arbeitskleid. Keine Waffe.. Hartmut: Fortbewegung: zu Fuß; Ort: rechts im Raum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollrock, braune Hose, dunkle Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hartmut
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier könntest du an meiner Seite stehen.“
+Dialog 2:
+  Sprecher: Kudrun
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du hast mich nicht gefragt, ob ich hier sein will.“
+Kontinuität / Änderung: Heiratsdruck, noch keine Einwilligung und keine Eheschließung. Herwig bleibt Kudruns bestehende Bindung, erscheint hier nicht körperlich.
+
+KACHEL 3: Das eigene Wort
+Ort und Zeit: Derselbe Raum
+Sichtbare Figuren: Kudrun, Hartmut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nähe auf Kudruns Gesicht, Hartmut rechts im Mittelgrund. Keine Klinge in der Hand und keine Ohrfeige. Kudrun steht gerade; ihre Hände leer am Körper. Das Fenster zeigt weit entfernt das unzugängliche Meer. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links vor dem offenen Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Anfangs dunkelblaues Kleid mit grauem Tuch und braunen Schuhen; in der langen Gefangenschaft ausdrücklich schlichtes graues Arbeitskleid. Keine Waffe.. Hartmut: Fortbewegung: zu Fuß; Ort: rechts vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollrock, braune Hose, dunkle Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Hartmut wollte sie zur Frau, obwohl sie Herwig verbunden war. Kudrun widersetzte sich dem Druck und hielt an ihrem Nein fest.
+Dialoge: keine
+Kontinuität / Änderung: Kudrun widersetzt sich dem Druck. Standhaftigkeit ist Entscheidung, keine plötzlich verliehene körperliche Unverwundbarkeit.
+
+KACHEL 4: Jahre zählen anders
+Ort und Zeit: Karger Arbeitsraum, viele Jahre später
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Expliziter Zeitsprung. Beide Frauen sichtbar etwas älter mit denselben Gesichtszügen. Kudrun jetzt im schlichten grauen Arbeitskleid, Hildeburg weiter braun; keine Festkleidung. Links ein Korb, rechts ein kleines Bündel, keine doppelte Kudrun als Zeitschicht. Das karge Zimmer ersetzt den repräsentativen Raum. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links an einem einfachen Holztisch; Körperhaltung: stehend; Mitgeführte Gegenstände: ein leerer Wäschekorb in beiden Händen; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleines Bündel ungewaschener Tücher; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: Aus Tagen wurden Jahre. Auch die erniedrigende Arbeit sollte ihre Selbstbestimmung brechen.
+Dialoge: keine
+Kontinuität / Änderung: Viele Jahre Gefangenschaft, sichtbare altersgerechte Entwicklung statt wechselnder Identität. Kudruns Kleid wurde durch das graue Arbeitskleid ersetzt; sie trägt nicht beide übereinander.
+
+KACHEL 5: Das kalte Wasser
+Ort und Zeit: Strand am fremden Hof, Wintertag nach dem Zeitsprung
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite ruhige Seitenansicht. Zwei Frauen waschen am kalten Meer, je ein Tuch und genau ein Korb auf dem festen Strand hinter ihnen. Hände arbeiten im flachen Wasser, Körper auf dem Ufer, keine schwimmenden Personen. Keine schöne freiwillige Badeidylle. Himmel und Meer lassen Raum für Stille. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links am Wasserrand; Körperhaltung: knieend; Mitgeführte Gegenstände: ein einzelnes nasses Leinentuch in beiden Händen; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts neben ihr am Wasser; Körperhaltung: knieend; Mitgeführte Gegenstände: ein zweites Leinentuch in beiden Händen; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: Mit Hildeburg musste sie am kalten Meer Wäsche waschen. Der gemeinsame Alltag verlangte beiden immer neue Kraft ab.
+Dialoge: keine
+Kontinuität / Änderung: Die Arbeit am Meer ist erzwungen. Feuchte Säume und Hände bleiben während dieses Strandabschnitts bestehen; kein Sommerfest dazwischen.
+
+KACHEL 6: Nicht nur aushalten
+Ort und Zeit: Derselbe Strand, unmittelbar danach
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe auf die Frauen am Strand. Beide haben das jeweilige Tuch auf die Knie gelegt; Hildeburgs linke Hand ruht kurz an Kudruns Unterarm, nicht zugleich mit einer zweiten Waschbewegung. Gesichter müde, aber einander zugewandt. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links neben Hildeburg; Körperhaltung: knieend; Mitgeführte Gegenstände: nasses Tuch auf den Knien; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts neben Kudrun; Körperhaltung: knieend, linke Hand kurz an Kudruns Unterarm; Mitgeführte Gegenstände: eigenes Tuch auf den Knien; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: Die Frauen stärkten einander. Standhaftigkeit bedeutete nicht, die schwere Zeit ohne Beistand zu ertragen.
+Dialoge: keine
+Kontinuität / Änderung: Kurze Unterbrechung der Arbeit, keine neue Flucht oder endgültige Befreiung. Hildeburg ist nicht bloß stummer Hintergrund.
+
+KACHEL 7: Die Nachricht
+Ort und Zeit: Derselbe Strand, später am Tag
+Sichtbare Figuren: Kudrun, Hildeburg, Bote am Strand
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Frauen links am einen Korb, Bote rechts auf trockenem Strand. Die Tücher liegen nun im Korb, keine dreifachen Stoffe in den Händen. Der Mann kommt nicht über Wasser gelaufen. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links vor dem Wäschekorb; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: hinter Kudrun beim Korb; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe.. Bote am Strand: Fortbewegung: zu Fuß; Ort: rechts am trockenen Strand; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Graubrauner Reisemantel, dunkle Hose und Schuhe. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bote am Strand
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Eure Leute sind unterwegs. Hilfe kommt.“
+Dialog 2:
+  Sprecher: Kudrun
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann müssen wir bis dahin bei uns bleiben.“
+Kontinuität / Änderung: Die Quelle nennt eine Nachricht, nicht den hier frei inszenierten Überbringer als gesicherte Originalfigur. Keine übernatürliche Gestalt aus anderer Fassung hinzufügen.
+
+KACHEL 8: Nicht gebrochen
+Ort und Zeit: Am selben Meer, nach der Nachricht
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Rückenansicht der beiden Frauen, der gefüllte Wäschekorb steht hinter ihnen. Am Horizont noch kein direkt gelandetes Heer; sie warten nicht plötzlich frei außerhalb der Gefahr. Kudruns Rücken ist aufrechter als in der Waschsituation. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links auf dem Strand; Körperhaltung: stehend, Blick zum Horizont; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts neben Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: Noch waren sie gefangen. Doch die Nachricht von nahender Hilfe gab ihrem Warten eine neue Richtung.
+Dialoge: keine
+Kontinuität / Änderung: Bote hat den Ort verlassen; die Nachricht ist angekommen. Noch kein Sieg und keine Rückkehr in Hochzeitskleidung.
+
+KACHEL 9: Hilfe ist nicht Frieden
+Ort und Zeit: Strand vor der Burg, ein späterer Tag
+Sichtbare Figuren: Herwig
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Totale auf das Ufer. Herwig links auf festem Boden, dahinter mehrere angelegte Schiffe und unbenannte Verbündete. Seine Klinge steckt noch in der linken Scheide. Die Burg liegt rechts oben; kein kampfloses Willkommen. Kudrun bleibt außer Sicht im Burgbereich. Verbindliche Zustände: Herwig: Fortbewegung: zu Fuß; Ort: links am Ufer nach der Ankunft; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika über Kettenhemd, braune Hose und Stiefel. Ein Schwert, eine Scheide links am Gürtel; kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Die Verbündeten erreichten das Ufer. Die Befreiung musste erkämpft werden; die Ankunft allein beendete die Gewalt noch nicht.
+Dialoge: keine
+Kontinuität / Änderung: Ausdrücklicher späterer Tag. Herwig ist erst jetzt angekommen, zu Fuß an Land. Keine Szene mit erfolgreicher Befreiung vor der militärischen Auseinandersetzung.
+
+KACHEL 10: Hinter der Mauer
+Ort und Zeit: Burgbereich während des Befreiungskampfs
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Innenperspektive. Frauen im Vordergrund sicher vom unmittelbaren Schlachtfeld getrennt. Durch einen schmalen Mauerschlitz nur unklare kämpfende Silhouetten und Staub; kein Blut und kein abgetrennter Körper. Keine konkrete Person gleichzeitig hier innen und draußen. Ihre Hände sind leer, das Arbeitsgewand bleibt dasselbe. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links hinter einem schmalen Innenfenster; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts dicht bei Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: Hinter den Mauern warteten die Frauen auf den Ausgang. Der Kampf blieb vorerst jenseits ihrer geschützten Stellung.
+Dialoge: keine
+Kontinuität / Änderung: Der schwere Kampf wird aus ihrer begrenzten Perspektive gezeigt. Die Befreiung ist nicht rückwirkend gewaltfrei; keine erfundene neue Nebenfehde.
+
+KACHEL 11: Die offene Zelle
+Ort und Zeit: Burgraum nach dem Kampf
+Sichtbare Figuren: Kudrun, Hildeburg, Herwig
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Tür geöffnet, Herwig rechts im Rahmen, Kudrun links und Hildeburg etwas hinter ihr. Er trägt seine eine Klinge wieder eingesteckt, Hände leer. Kein gewaltsames Ziehen an Kudruns Arm. Sie geht nicht mit augenblicklicher Glanzkleidung in eine Hochzeit. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links im Raum; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hildeburg: Fortbewegung: zu Fuß; Ort: links hinter Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe.. Herwig: Fortbewegung: zu Fuß; Ort: rechts in der geöffneten Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika über Kettenhemd, braune Hose und Stiefel. Ein Schwert, eine Scheide links am Gürtel; kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Herwig
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Es ist vorbei.“
+Dialog 2:
+  Sprecher: Kudrun
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Für die Gefangenschaft. Noch nicht für alles.“
+Kontinuität / Änderung: Die Gefangenschaft ist jetzt tatsächlich beendet. Herwig hat nach dem nicht im Detail gezeigten Kampf seine Klinge eingesteckt. Kudruns Satz eröffnet die noch nötige Entscheidung gegen weitere Rache.
+
+KACHEL 12: Nicht noch einer
+Ort und Zeit: Burghof nach dem Sieg
+Sichtbare Figuren: Kudrun, Herwig, Hartmut
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite klare Gegenüberstellung. Herwig links mit eingesteckter Klinge; Hartmut rechts entwaffnet sitzend, seine eine Klinge liegt gesondert bei der Mauer. Kudrun in grauem Arbeitskleid dazwischen mit leerer erhobener Hand. Keine neue Hinrichtung oder angedeutete sichere Todesabsicht Herwigs; sie verhindert die Ausweitung der Vergeltung. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: mittig zwischen Herwig und Hartmut; Körperhaltung: stehend, leere Hand ruhig erhoben; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, braune Schuhe, graues Tuch; Hände und Saum vom Waschen feucht.. Hartmut: Fortbewegung: zu Fuß; Ort: rechts an der Mauer; Körperhaltung: sitzend, erschöpft; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollrock, braune Hose, dunkle Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.. Herwig: Fortbewegung: zu Fuß; Ort: links vor Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika über Kettenhemd, braune Hose und Stiefel. Ein Schwert, eine Scheide links am Gürtel; kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Nach ihrer Befreiung verlangte Kudrun Schutz für Überlebende der Gegenseite. Die gewonnene Freiheit sollte nicht in grenzenlose Rache münden.
+Dialoge: keine
+Kontinuität / Änderung: Kudrun schützt Überlebende nach dem schweren Kampf. Hartmut lebt; seine abgelegte Waffe erscheint nicht gleichzeitig in einer Scheide. Keine sofortige moralische Absolution seiner Gefangennahme Kudruns.
+
+KACHEL 13: Eine neue Aufgabe
+Ort und Zeit: Ruhiger Saal nach der Befreiung, später
+Sichtbare Figuren: Kudrun, Herwig, Hartmut, Hildeburg
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite Tischszene ohne Festpracht. Kudrun steht mittig in ihrer nun trockenen schlichten Kleidung, Hildeburg bei ihr. Die zuvor verfeindeten Männer sitzen links und rechts mit Abstand; keine Klinge auf dem Verhandlungstisch. Hartmuts entwaffneter Zustand bleibt, seine Waffe ist verwahrt. Undeutliche Angehörige im Hintergrund ohne eigene neue Namen. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: mittig am schlichten Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Arbeitskleid, inzwischen trocken, braune Schuhe und graues Tuch.. Hildeburg: Fortbewegung: zu Fuß; Ort: neben Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe.. Hartmut: Fortbewegung: zu Fuß; Ort: rechts am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelroter Wollrock, braune Hose, dunkle Stiefel. Ein Schwert mit einer Scheide links am Gürtel; kein Schild.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken.. Herwig: Fortbewegung: zu Fuß; Ort: links am Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelgrüne Tunika über Kettenhemd, braune Hose und Stiefel. Ein Schwert, eine Scheide links am Gürtel; kein Helm oder Schild.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kudrun
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn wir nur Feinde behalten, war das nicht das Ende.“
+Kontinuität / Änderung: Späterer Zeitpunkt: Arbeit an Verbindungen zwischen den Familien, keine bereits fertig vollzogene Hochzeit mit erfundenen Paaren. Keine zugleich am Boden liegende und getragene Klinge Hartmuts.
+
+KACHEL 14: Die andere Arbeit
+Ort und Zeit: Ufer vor dem befreiten Hof, ein späterer ruhiger Tag
+Sichtbare Figuren: Kudrun, Hildeburg
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Rückkehr zur Bildachse der Wäscheszene, aber beide Frauen stehen jetzt frei und die Hände sind leer. Kein Wäschekorb und kein Wächter, der auf sie wartet. Im Hintergrund belebtes ruhiges Ufer statt brennender Siegeskulisse. Ihre bekannten Gesichter und gealterten Haare bleiben. Verbindliche Zustände: Kudrun: Fortbewegung: zu Fuß; Ort: links am Meer; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes graues Kleid, trocken, graues Tuch und braune Schuhe.. Hildeburg: Fortbewegung: zu Fuß; Ort: rechts neben Kudrun; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Schlichtes braunes Arbeitskleid, beigefarbenes Kopftuch und braune Schuhe. Keine Waffe..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hildeburg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und jetzt?“
+Dialog 2:
+  Sprecher: Kudrun
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt soll niemand mehr so warten müssen.“
+Kontinuität / Änderung: Aussicht auf Frieden, keine behauptete vollständige Heilung aller Folgen und keine nächste Entführung als Schlussschock. Kudrun ist handlungsfähig und muss nicht Hartmut heiraten.

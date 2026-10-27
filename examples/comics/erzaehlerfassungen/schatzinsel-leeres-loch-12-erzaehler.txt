@@ -1,0 +1,151 @@
+TITEL: Die Schatzinsel – Das leere Loch · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Jim Hawkins am leeren Schatzloch
+Aussehen: Jugendlicher Junge mit kurzem braunem Haar und schmalem sommersprossigem Gesicht.
+Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Gerät nach der Meuterei in Silvers Gewalt. Er ist Rückversicherung, nicht schon freier gleichberechtigter Pirat.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Long John Silver mit der Krücke
+Aussehen: Erwachsener kräftiger Mann mit graumeliertem kurzem Haar und breitem Gesicht. Das linke Bein fehlt ab dem Oberschenkel, rechtes Bein intakt. Kein Holzbein.
+Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.
+Persönlichkeit und Vorgeschichte: Benutzt Jim als mögliche Rückversicherung und schützt ihn deshalb. Einbeinigkeit bleibt dieselbe Seite, Krücke bleibt links. Kein zusätzlicher Film-Piratenkapitän.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ben Gunn auf der Schatzinsel
+Aussehen: Erwachsener hagerer Mann mit struppigem hellem Haar, langem Bart und wachen Augen.
+Kleidung: Ausgeblichene graubraune zerschlissene Kleidung und einfache gebundene Schuhe.
+Persönlichkeit und Vorgeschichte: Hat den Schatz schon vor der Suchgruppe aus der Grube in seine Höhle versetzt. Imitiert Flints Stimme, ist kein Geist.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Doktor Livesey bei der Rettung
+Aussehen: Erwachsener Mann mit braunem zurückgenommenem Haar und ruhigem bartlosem Gesicht.
+Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.
+Persönlichkeit und Vorgeschichte: Greift mit Verbündeten ein und schützt Jim. Erfindet keine neue Schatzkarte; Ben Gunn hat die tatsächliche Lage verändert.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: George Merry bei der leeren Grube
+Aussehen: Erwachsener Mann mit kurzem schwarzem Bart und zornigem schmalem Gesicht.
+Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.
+Persönlichkeit und Vorgeschichte: Verdichteter benannter Vertreter der Meuterer. Wendet sich nach dem Fund der leeren Grube gegen Silver und Jim.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Schutz mit Hintergedanken
+Ort und Zeit: Lager der Meuterer vor der Schatzsuche
+Sichtbare Figuren: Jim Hawkins am leeren Schatzloch, Long John Silver mit der Krücke, George Merry bei der leeren Grube
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Lageransicht. Jim links hinter Silver, Merry rechts bedrohlich. Silver einbeinig: linkes Bein fehlt, rechter Schuh am Boden, Krücke links. Karte rechts, keine dritte Hand am Jungen. Ein Seil von Jims Gürtel an Silvers Gürtel hält die Gefangenschaft sichtbar. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links neben Silver; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände, loses Ende einer Gefangenenleine am Gürtel; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: mittig zwischen Jim und Merry; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links unter der Achsel, Schatzkarte rechts; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. George Merry bei der leeren Grube: Ort: rechts gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Pistole am Gürtel; Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Long John Silver mit der Krücke
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Der Junge bleibt bei mir.“
+Kontinuität / Änderung: Silver schützt Jim als Rückversicherung, nicht durch selbstlose Umkehr zum neuen Vater. Keine vorzeitige Freiheit. Leine an Gürteln, damit Krücke und Karte jeweils eine Hand beanspruchen dürfen.
+
+KACHEL 2: Eine Karte scheint alles zu wissen
+Ort und Zeit: Weg zur markierten Stelle
+Sichtbare Figuren: Long John Silver mit der Krücke, Jim Hawkins am leeren Schatzloch, George Merry bei der leeren Grube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Wegansicht. Drei Hauptfiguren vorne, übrige Meuterer kleine unbenannte Hintergrundgestalten. Einbeiniger Silver stützt sich links auf eine Krücke, Jim bleibt an seiner Seite. Kein Schatz in Truhen auf dem Weg und keine Karte als magische leuchtende Bodenlinie. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: mittig neben Silver; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände, Leine weiter am Gürtel; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: links auf dem Pfad; Körperhaltung: mit Krücke gehend; Mitgeführte Gegenstände: Krücke links, Karte rechts; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. George Merry bei der leeren Grube: Ort: rechts hinter beiden; Körperhaltung: gehend; Mitgeführte Gegenstände: Pistole am Gürtel; Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Silver führte die Meuterer nach Flints Karte. Jim blieb in seiner Gewalt und unter seinem eigennützigen Schutz.
+Dialoge: keine
+Kontinuität / Änderung: Schatz ist bereits in Bens Höhle, auch wenn die Suchgruppe das nicht weiß. Nicht zugleich an der alten Fundstelle versteckte Münzen als Bildvorschau zeichnen.
+
+KACHEL 3: Eine Stimme, die nicht aus dem Grab kommt
+Ort und Zeit: Dichterer Wald auf dem Suchweg
+Sichtbare Figuren: Jim Hawkins am leeren Schatzloch, Long John Silver mit der Krücke, George Merry bei der leeren Grube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Drei Menschen halten im Wald inne, schauen nach einem Geräusch außerhalb des Bildes. Keine sichtbare Flint-Geistergestalt und kein lebender zweiter Kapitän. Silvers linke Krücke bleibt unter derselben Achsel, sein rechtes Bein trägt Gewicht. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links bei Silver; Körperhaltung: stehend; Mitgeführte Gegenstände: Leine am Gürtel, Hände leer; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: mittig am Baum; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links, zusammengefaltete Karte rechts; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. George Merry bei der leeren Grube: Ort: rechts auf dem Pfad; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand am Pistolengriff; Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Eine Stimme klang im Wald wie die des toten Flint. Die Schatzsucher ahnten nicht, dass ein Lebender sie täuschte.
+Dialoge: keine
+Kontinuität / Änderung: Ben Gunn spricht aus dem Versteck und imitiert den Toten. Stimme ist keine tatsächlich auferstandene Figur. Bens Körper bleibt für diese Szene unsichtbar, Stimme trotzdem seiner bekannten Figuren-ID zugeordnet.
+
+KACHEL 4: Die Gier geht trotz der Angst weiter
+Ort und Zeit: Waldlichtung nach der Stimme
+Sichtbare Figuren: Long John Silver mit der Krücke, Jim Hawkins am leeren Schatzloch, George Merry bei der leeren Grube
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Lichtung. Silver links vergleicht die eine Karte mit einem markanten Baum in der Ferne, Jim still, Merry rechts ungeduldig. Keine zweite Schatzkarte in Merrys Faust und keine neue Leiche als Beweis eines Geistes. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: mittig neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: Leine am Gürtel; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: links vor den anderen; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links, geöffnete Karte rechts; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. George Merry bei der leeren Grube: Ort: rechts hinter beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: Pistole noch am Gürtel; Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: George Merry bei der leeren Grube
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Weiter. Wir sind fast da.“
+Kontinuität / Änderung: Furcht stoppt den Anspruch nicht. Leine bleibt bis zur Rettung bestehen. Ben zieht sich unbemerkt zum Eingreifen der Verbündeten zurück, kein Geist begleitet sichtbar den Suchzug.
+
+KACHEL 5: Das Ziel ist ein Loch
+Ort und Zeit: Alte Schatzgrube bei der markierten Stelle
+Sichtbare Figuren: Jim Hawkins am leeren Schatzloch, Long John Silver mit der Krücke, George Merry bei der leeren Grube
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite klare Fundstellenansicht. Große leere ausgehobene Grube, alte Erdschollen und wenige wertlose Reste, keine Goldtruhen im Boden. Silver stützt sich links, rechter Fuß sicher am Rand. Jim bleibt außerhalb der Grube. Keine gleichzeitig volle Schatzhöhle im selben Bild. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links am Grubenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: mittig am Rand; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links, Karte rechts; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. George Merry bei der leeren Grube: Ort: rechts über die Grube gebeugt; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: An der markierten Stelle war nur eine leere Grube. Die Karte zeigte noch den Ort, aber nicht mehr die Wirklichkeit.
+Dialoge: keine
+Kontinuität / Änderung: Leere ist tatsächlicher Zustand bei Ankunft. Schatz wurde vorher von Ben verlegt, nicht erst vor ihren Augen durch Magie entfernt. Karte und Besitzanspruch garantieren keine Wirklichkeit.
+
+KACHEL 6: Was die Enttäuschung freisetzt
+Ort und Zeit: Rand derselben leeren Grube
+Sichtbare Figuren: George Merry bei der leeren Grube, Long John Silver mit der Krücke, Jim Hawkins am leeren Schatzloch
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Merry rechts hat seine eine Pistole gezogen, Silver links stellt sich mit freier rechter Hand vor Jim. Krücke links, fehlendes linkes Bein nicht durch Pose ergänzt. Kein Schuss in einen Kinderkörper, keine Schätze tauchen in der Grube auf. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links hinter Silver; Körperhaltung: stehend; Mitgeführte Gegenstände: Leine am Gürtel, Hände leer; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: links zwischen Merry und Jim; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links; Karte in den Rock gesteckt, rechte Hand frei; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. George Merry bei der leeren Grube: Ort: rechts vor Silver; Körperhaltung: stehend; Mitgeführte Gegenstände: eine kurze dunkle Pistole rechts; Kleidung: Braune offene Seemannsjacke, rotes Halstuch und dunkle Hose. Eine kurze dunkle historische Pistole am Gürtel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Enttäuschung richtete sich gegen Silver und Jim. Aus der gemeinsamen Gier wurde eine unmittelbare Bedrohung.
+Dialoge: keine
+Kontinuität / Änderung: Wut richtet sich gegen die frühere Führung. Silver steckt die Karte vor der Schutzbewegung ein, sodass rechte Hand frei ist. Jim noch nicht frei, Bedrohung noch nicht beendet.
+
+KACHEL 7: Noch ein Abstand zur Rettung
+Ort und Zeit: Gebüsch nahe der Grube, gleicher Gefahrenmoment
+Sichtbare Figuren: Doktor Livesey bei der Rettung, Ben Gunn auf der Schatzinsel
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige enge Perspektive der Verbündeten auf die bedrohte Gruppe außerhalb. Livesey links und Ben rechts als reale lebende Menschen, keine Flint-Gestalt. Jede Figur nur zwei Hände. Keine bereits volle Karte oder Schatztruhe als Köder in ihren Händen. Verbindliche Zustände: Ben Gunn auf der Schatzinsel: Ort: rechts neben Livesey; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ausgeblichene graubraune zerschlissene Kleidung und einfache gebundene Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Doktor Livesey bei der Rettung: Ort: links im Gebüsch; Körperhaltung: stehend; Mitgeführte Gegenstände: eine historische Pistole rechts; Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Doktor Livesey bei der Rettung
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt.“
+Kontinuität / Änderung: Hilfe ist vorbereitet und räumlich nahe, kein plötzliches unerklärtes Erscheinen aus dem Goldloch. Ben wird erstmals sichtbar als der lebende Urheber der Stimme.
+
+KACHEL 8: Der Angriff wird unterbrochen
+Ort und Zeit: Leere Grube beim Eingreifen der Verbündeten
+Sichtbare Figuren: Doktor Livesey bei der Rettung, Long John Silver mit der Krücke, Jim Hawkins am leeren Schatzloch
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Distanzansicht. Kleiner Rauchrest an Liveseys Pistole rechts, Silver und Jim links geschützt. Aufrührer nur als entfernte zurückweichende Schatten oder außerhalb des Bildes, keine Wunddetails oder getroffenen Kinder. Schatzgrube weiterhin leer. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links hinter Silver; Körperhaltung: geduckt; Mitgeführte Gegenstände: Leine am Gürtel; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: links am Grubenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links; rechte Hand frei; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. Doktor Livesey bei der Rettung: Ort: rechts am Gebüschrand; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Pistole rechts nach dem Schuss; Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Livesey und seine Verbündeten griffen ein, bevor die Meuterer sich an den beiden rächen konnten.
+Dialoge: keine
+Kontinuität / Änderung: Rettungswendung nach drohender Gewalt. George Merrys genauer Körperzustand nicht in einem neuen Bild erfinden; er kehrt in der folgenden Reisegruppe nicht als unversehrter Verbündeter zurück. Keine zweite Pistole in Liveseys anderer Hand.
+
+KACHEL 9: Der Geist bekommt einen Namen
+Ort und Zeit: Sicherer Platz nahe der Grube nach dem Kampf
+Sichtbare Figuren: Doktor Livesey bei der Rettung, Jim Hawkins am leeren Schatzloch, Long John Silver mit der Krücke, Ben Gunn auf der Schatzinsel
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Gruppenansicht. Doktor hat die Waffe verstaut und löst mit freien Händen Jims Leine. Ben real hinter ihm, Silver rechts mit linkem Beinstumpf und rechter Standseite. Kein glücklicher Geisterkapitän und kein neuer verschleppter Junge. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: mittig vor Livesey; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände, gelöste Leine fällt vom Gürtel; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: rechts daneben; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links, Karte im Rock; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. Ben Gunn auf der Schatzinsel: Ort: hinten zwischen beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ausgeblichene graubraune zerschlissene Kleidung und einfache gebundene Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Doktor Livesey bei der Rettung: Ort: links bei Jim; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände lösen die Leine; Pistole wieder am Gürtel; Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ben Gunn gab sich als Urheber der Stimme zu erkennen. Den Schatz hatte er schon vor ihrer Suche fortgeschafft.
+Dialoge: keine
+Kontinuität / Änderung: Jim nach der Rettung von der Leine befreit. Aufklärung der Stimme und des Schatzorts jetzt ausdrücklich. Silver bleibt zweideutiger Überlebender, keine ungeklärte Verdoppelung seiner Loyalität als Zauber.
+
+KACHEL 10: Wo das Gold wirklich lag
+Ort und Zeit: Ben Gunns Höhle
+Sichtbare Figuren: Ben Gunn auf der Schatzinsel, Jim Hawkins am leeren Schatzloch, Doktor Livesey bei der Rettung, Long John Silver mit der Krücke
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Höhlenansicht. Bereits gelagerte Truhen und Goldvorräte tief rechts, Ben zeigt sie, Jim und Doktor links. Kein Bild des soeben erst aus der leeren Grube gegrabenen Schatzes. Silver hinten mit einer Krücke, keine zwei intakten Beine in der Dunkelheit. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links bei Livesey; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: links hinten am Höhleneingang; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links, Hände sonst frei; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. Ben Gunn auf der Schatzinsel: Ort: rechts vor den gelagerten Truhen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ausgeblichene graubraune zerschlissene Kleidung und einfache gebundene Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Doktor Livesey bei der Rettung: Ort: mittig neben Jim; Körperhaltung: stehend; Mitgeführte Gegenstände: Pistole gesichert am Gürtel; Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: In seiner Höhle lag das Gold. Das vermeintlich sichere Ziel der Karte war längst überholt gewesen.
+Dialoge: keine
+Kontinuität / Änderung: Höhle ist tatsächlicher Lagerort vor ihrer Ankunft. Die Enthüllung erklärt rückwirkend die leere Grube, kein Trick mit zwei gleichzeitig vollen Fundstellen.
+
+KACHEL 11: Ein Schatz muss zum Schiff
+Ort und Zeit: Ufer beim Verladen
+Sichtbare Figuren: Jim Hawkins am leeren Schatzloch, Ben Gunn auf der Schatzinsel, Doktor Livesey bei der Rettung, Long John Silver mit der Krücke
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite Uferansicht. Ein beladenes Transportboot mit Truhen, größeres Schiff fern in der Bucht. Jim und Ben helfen mit überschaubaren Lasten, Silver stützt sich statt schwere Truhen mit drei Armen zu tragen. Keine Meutererarmee als neue freundliche Mannschaft. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links am beladenen Boot; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleiner geschlossener Beutel in beiden Händen; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: rechts hinten auf festem Ufer; Körperhaltung: stehend; Mitgeführte Gegenstände: Krücke links; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. Ben Gunn auf der Schatzinsel: Ort: mittig am Boot; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände an einer kleinen Kiste; Kleidung: Ausgeblichene graubraune zerschlissene Kleidung und einfache gebundene Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Doktor Livesey bei der Rettung: Ort: rechts vor dem Boot; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Pistole am Gürtel; Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nun brachten die Überlebenden den geborgenen Schatz zum Schiff. Auch der richtige Fundort ersparte ihnen diese Arbeit nicht.
+Dialoge: keine
+Kontinuität / Änderung: Schatz aus Höhle zum Ufer und in kleinen Fahrten an Bord. Boot ist kein zweites großes Schiff. Silver einbeinig, Krücke nicht während einer Lastbewegung vergessen.
+
+KACHEL 12: Die Insel liegt hinter ihnen
+Ort und Zeit: Deck des abfahrenden Schiffs
+Sichtbare Figuren: Jim Hawkins am leeren Schatzloch, Doktor Livesey bei der Rettung, Ben Gunn auf der Schatzinsel, Long John Silver mit der Krücke
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite ruhige Deckansicht. Insel entfernt sich, vier wiedererkennbare Überlebende und gesicherte Truhen an Bord. Silver sitzt mit fehlendem linkem Bein, ein rechter Schuh, Krücke griffbereit links. Keine Flint-Geistergestalt und keine leere Grube als neuer tatsächlicher Schatzraum auf Deck. Verbindliche Zustände: Jim Hawkins am leeren Schatzloch: Ort: links an der Reling; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Blaue abgetragene Jacke, helles Hemd, braune Hose und einfache Schuhe. Keine Waffe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Long John Silver mit der Krücke: Ort: rechts hinten an einer Sitzbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Krücke links neben der Bank; Kleidung: Dunkler Seemannsrock, braune Hose, ein Schuh am rechten Fuß. Genau eine Krücke unter der linken Achsel.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: linkes Bein fehlt ab Oberschenkel; rechtes Bein intakt, Krücke links. Ben Gunn auf der Schatzinsel: Ort: rechts am Deck; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Ausgeblichene graubraune zerschlissene Kleidung und einfache gebundene Schuhe.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt. Doktor Livesey bei der Rettung: Ort: mittig neben Jim; Körperhaltung: stehend; Mitgeführte Gegenstände: Pistole am Gürtel; Kleidung: Grauer Reiseanzug, helles Hemd und feste Schuhe. Eine historische Pistole am Gürtel, nur bei der Rettung in der Hand.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie ließen die Insel hinter sich. Nicht die Karte allein, sondern das Wissen um ihre Grenzen hatte sie ans Ziel gebracht.
+Dialoge: keine
+Kontinuität / Änderung: Abreise mit umgelagertem Schatz nach gemeinsamer Rettung. Spätere Silver-Episoden nicht anhängen, George Merry nicht als unversehrter heimkehrender Freund. Jim frei von der Leine.

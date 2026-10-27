@@ -1,0 +1,94 @@
+TITEL: Siegfried – Mut vor dem Drachen · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Siegfried
+Aussehen: Junger erwachsener Mann, kräftig, schulterlanges blondes Haar, gerades Gesicht, kein Bart.
+Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.
+Persönlichkeit und Vorgeschichte: Sucht die Begegnung mit dem Lindwurm. Mutig, aber sein Sieg macht ihn nicht vollkommen unverletzlich.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Lindwurm
+Aussehen: Sehr großer dunkelgrüner drachenartiger Lindwurm; langer kräftiger Rumpf, genau vier Beine und ein langer Schwanz. Ein Kopf, keine Flügel.
+Kleidung: Keine Kleidung, keine Waffen und kein Schmuck.
+Persönlichkeit und Vorgeschichte: Die übermächtige Gefahr des gewählten Ausschnitts. Keine eigene menschliche Vorgeschichte und keine Gespräche.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Am Rand
+Ort und Zeit: Lichtung unter einer alten Linde, Tag
+Sichtbare Figuren: Siegfried, Lindwurm
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Weite seitliche Einstellung. Siegfried links klein vor dem großen Lindwurm rechts. Der Rumpf des Tieres und alle vier Ansatzstellen der Beine sind räumlich verständlich; ein Schwanz führt nach hinten. Oben ragen Lindenblätter in den Bildrand. Siegfrieds eine Hand liegt nahe am geschlossenen Schwertgriff links, die andere hängt leer. Kein Dorf und keine zu rettende Person. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: links am Rand der Lichtung; Körperhaltung: stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen.. Lindwurm: Ort: rechts zwischen den Stämmen; Körperhaltung: auf vier Beinen, Kopf zu Siegfried gesenkt; Lebenszustand: lebend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Keine Kleidung, keine Waffen und kein Schmuck..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Siegfried
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Noch kann ich umkehren.“
+Kontinuität / Änderung: Schwert zunächst vollständig in seiner einzigen linken Scheide. Freie Inszenierung des knapp überlieferten Kampfs, keine zusätzliche Drachenfähigkeit.
+
+KACHEL 2: Ein Griff
+Ort und Zeit: Dieselbe Lichtung
+Sichtbare Figuren: Siegfried, Lindwurm
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Halbtotale. Das Schwert ist bereits vollständig gezogen und liegt schräg vor Siegfrieds Körper in der rechten Hand. Links am Gürtel die eindeutig leere Scheide mit offener Mündung ohne zweiten Griff. Der Lindwurm bewegt einen Vorderfuß nach vorn, steht mit den übrigen drei am Boden. Keine Mehrfachbelichtung eines Ziehvorgangs. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: links vor der Linde; Körperhaltung: stehend; Mitgeführte Gegenstände: genau ein Schwert in der rechten Hand; linke Hand leer; Lebenszustand: lebend; Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Lindwurm: Ort: rechts gegenüber; Körperhaltung: auf vier Beinen, einen Vorderfuß angehoben; Lebenszustand: lebend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Keine Kleidung, keine Waffen und kein Schmuck..
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Siegfried
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann nicht halb.“
+Kontinuität / Änderung: Zwischen 1 und 2 zieht Siegfried sein einziges Schwert. Es ist nicht zugleich in der Scheide. Linke Hand ohne Schild oder zweite Klinge.
+
+KACHEL 3: Zu nah
+Ort und Zeit: Lichtung, im Kampf
+Sichtbare Figuren: Siegfried, Lindwurm
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Breite klare Seitenansicht. Der tief vorgestoßene Kopf des Lindwurms liegt rechts über dem Sand, Siegfried weicht links seitlich aus; das Schwert bleibt rechts eng am eigenen Körper. Eine lange Schleifspur und aufgeworfener Staub geben Kraft und Richtung. Keine sichtbare Wunde, keine zusätzlichen Menschen und keine Szene nach einem bereits behaupteten Sieg. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: links vor dem Kopf des Lindwurms; Körperhaltung: mit gebeugten Knien ausweichend; Mitgeführte Gegenstände: ein Schwert in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Lindwurm: Ort: rechts mit dem Kopf tief über dem Boden; Körperhaltung: auf vier Beinen, Hals nach links gestreckt; Lebenszustand: lebend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Keine Kleidung, keine Waffen und kein Schmuck..
+Erzählertext: Im Kampf mit dem Lindwurm musste Siegfried dem schweren Kopf ausweichen. Seine Entschlossenheit machte die Gefahr nicht kleiner.
+Dialoge: keine
+Kontinuität / Änderung: Kampf noch offen. Beide leben, keine Siegesbehauptung im Erzählertext. Ein Schwert rechts, linke Scheide leer.
+
+KACHEL 4: Standhalten
+Ort und Zeit: Dieselbe Lichtung, später im selben Kampf
+Sichtbare Figuren: Siegfried, Lindwurm
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einzelner entscheidender Kampfmoment im Halbprofil: Siegfried links an der Flanke hält die Klinge zum Schlag bereit; der Lindwurm rechts wendet den schweren Kopf zurück. Bewegung im Staub, kein Eindringen der Klinge und keine offene Verletzung. Lindenstamm im Hintergrund bleibt derselbe Orientierungspunkt. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: links dicht an der Flanke des Lindwurms; Körperhaltung: mit festem Stand und erhobenem rechten Arm; Mitgeführte Gegenstände: ein Schwert in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Lindwurm: Ort: rechts quer zur Lichtung; Körperhaltung: auf vier Beinen, Körper seitlich gedreht; Lebenszustand: lebend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Keine Kleidung, keine Waffen und kein Schmuck..
+Erzählertext: Der nächste Angriff verlangte einen festen Stand. Noch war der Lindwurm nicht bezwungen.
+Dialoge: keine
+Kontinuität / Änderung: Das Bild zeigt einen Zeitpunkt vor dem abgeschlossenen Sieg. Die genauen Kampfschritte sind freie Verdichtung; keine historische oder textgetreue Kampfstrategie behaupten.
+
+KACHEL 5: Danach
+Ort und Zeit: Lichtung nach dem Kampf
+Sichtbare Figuren: Siegfried, Lindwurm
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ruhige Totale nach einer sichtbaren Zeitlücke. Lindwurm rechts geschlossen und reglos, keine offenen Wunden. Siegfried links erschöpft, die einzige Klinge gesenkt, keine Jubelpose. Hinter dem toten Tier am Rand eine dunkle rotbraune Mulde, keine anatomischen Details. Viel freier Raum im nun stillen Wald. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: links neben dem gefallenen Lindwurm; Körperhaltung: erschöpft stehend; Mitgeführte Gegenstände: ein gesenktes Schwert in der rechten Hand; Lebenszustand: lebend; Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: in der rechten Hand. Linke Hand ohne weiteres Schwert. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein weiteres Schwert am Gürtel oder Rücken.. Lindwurm: Ort: rechts reglos am Boden; Körperhaltung: auf der Seite liegend, vier Beine zum Körper angewinkelt; Lebenszustand: tot; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Keine Kleidung, keine Waffen und kein Schmuck..
+Erzählertext: Erst jetzt war der Kampf vorüber. Siegfried blieb erschöpft neben dem reglosen Gegner zurück.
+Dialoge: keine
+Kontinuität / Änderung: Erst jetzt ist der Lindwurm tot. Er bleibt in 6 bis 8 reglos und greift nicht erneut an. Schwert weiterhin in Siegfrieds rechter Hand, noch nicht abgelegt.
+
+KACHEL 6: Das Blatt
+Ort und Zeit: Am Rand der Mulde unter der Linde
+Sichtbare Figuren: Siegfried
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Nicht explizite Rückenansicht des erwachsenen Siegfried vom Schulterblatt bis zur Wasserlinie. Dunkle rotbraune Oberfläche verdeckt den Unterkörper. Ein einziges kleines Lindenblatt haftet sichtbar zwischen den Schultern. Kleidung und Gürtel auf einem Stein, daneben genau ein abgelegtes Schwert außerhalb der Scheide. Kein toter Drachenleib im Ausschnitt, kein Gewaltbild. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: mittig in der flachen Mulde; Körperhaltung: bis zur Hüfte in der Flüssigkeit stehend, Rücken zur Kamera; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Oberkörper frei, Unterkörper in der dunklen Mulde verdeckt. Tunika, Gürtel mit leerer Scheide und Stiefel liegen gefaltet auf einem Stein am Rand.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..
+Erzählertext: Nach der Sage machte das Drachenblut seine Haut widerstandsfähig. Ein Lindenblatt bedeckte dabei eine Stelle zwischen den Schultern.
+Dialoge: keine
+Kontinuität / Änderung: Siegfried hat die Klinge vor dem Bad abgelegt und den Oberkörper entkleidet. Die einzige Scheide am abgelegten Gürtel ist leer. Das Blatt verhindert den Schutz genau an dieser Stelle.
+
+KACHEL 7: Eine kleine Grenze
+Ort und Zeit: An derselben Mulde, nach dem Bad
+Sichtbare Figuren: Siegfried
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Naher, nicht erotischer Ausschnitt auf Siegfrieds Rücken und einen Teil des Steins. Ein einzelnes Lindenblatt löst sich gerade von der Stelle zwischen den Schulterblättern; darunter bleibt die deutlich hellere blattförmige Hautstelle. Das Schwert liegt weiterhin auf dem Stein außerhalb der Scheide. Keine zweite Blattkopie am Rücken und in der Luft. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: am Stein mit seiner Kleidung; Körperhaltung: von hinten stehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Oberkörper noch frei; braune Hose wieder angezogen. Tunika und Gürtel mit leerer Scheide noch auf dem Stein.; Verbindlicher Schwertzustand: Das einzige Schwert liegt am Boden. Kein Schwert mehr in den Händen. Die Schwertscheide ist leer und zeigt keinen Schwertgriff. Kein zusätzliches Schwert am Gürtel oder Rücken..
+Erzählertext: Unter dem Blatt blieb die Haut ungeschützt. Ausgerechnet das kleine Hindernis begrenzte den außergewöhnlichen Schutz.
+Dialoge: keine
+Kontinuität / Änderung: Siegfried ist aus der Mulde gestiegen und hat die Hose angezogen. Dasselbe Blatt löst sich jetzt vom Rücken; Schwert noch abgelegt. Keine tatsächliche Verwundung als Probe ergänzen.
+
+KACHEL 8: Ein Sieger geht weiter
+Ort und Zeit: Weg aus derselben Lichtung, später
+Sichtbare Figuren: Siegfried
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Rückenansicht des wieder vollständig bekleideten Siegfried. Genau ein Schwert steckt vollständig in der linken Scheide, beide Hände leer. Das kleine gefallene Blatt liegt vorn auf dem Sand; keine sichtbare zweite Klinge auf dem Stein. Der Wald öffnet sich nach links. Kein Hagen, kein Speer und kein späterer Verrat im Bild. Verbindliche Zustände: Siegfried: Fortbewegung: zu Fuß; Ort: links auf dem Weg aus der Lichtung; Körperhaltung: gehend; Mitgeführte Gegenstände: keine Gegenstände; Lebenszustand: lebend; Kleidung: Dunkelrote Tunika, braune Hose und Stiefel. Genau ein Schwert, genau eine braune Scheide links am Gürtel. Kein zweites Schwert und kein Rückenwaffengurt.; Verbindlicher Schwertzustand: Genau ein Schwert insgesamt: vollständig in der Scheide; genau ein Griff an der Scheide. Kein zusätzliches Schwert in den Händen..
+Erzählertext: Siegfried zog als Drachentöter weiter. Sein Sieg hatte ihn stark gemacht, aber nicht gegen jede Gefahr unverwundbar.
+Dialoge: keine
+Kontinuität / Änderung: Zwischen 7 und 8 zieht Siegfried Tunika, Stiefel und Gürtel wieder an und steckt dasselbe Schwert ein. Schutzlücke bleibt unter der Tunika bestehen. Späterer Tod gehört nicht zum Ausschnitt.

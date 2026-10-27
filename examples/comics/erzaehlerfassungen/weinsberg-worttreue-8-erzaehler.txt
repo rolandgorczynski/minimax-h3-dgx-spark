@@ -1,0 +1,108 @@
+TITEL: Die treuen Frauen von Weinsberg – Was wir tragen können · Erzählerfassung
+AUTOR:
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
+STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Trägerin von Weinsberg
+Aussehen: Erwachsene kräftige Frau mit braunem Haar in einem festen Zopf und schmalem entschlossenem Gesicht. Normale menschliche Körperkraft und Anatomie.
+Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.
+Persönlichkeit und Vorgeschichte: Eine frei verdichtete Vertreterin der Frauen. Wählt ihren Mann als das Wertvollste und trägt genau ihn durch das Tor.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Mann der Weinsberger Trägerin
+Aussehen: Erwachsener schlanker Mann mit kurzem dunklem Haar und schmalem Bart.
+Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.
+Persönlichkeit und Vorgeschichte: Wird von derselben Frau getragen. Steht währenddessen nicht zugleich neben ihr und kämpft keine neue Schlacht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: König Konrad vor Weinsberg
+Aussehen: Erwachsener Mann mit kurzem braunem Bart und ruhigem strengem Gesicht.
+Kleidung: Dunkelblauer Mantel, helles Gewand und schlichte goldene Königskrone. Kein Kaiserornat und kein gezogenes Schwert.
+Persönlichkeit und Vorgeschichte: Siegreicher König der Sage. Lässt die überraschende Auslegung seiner Erlaubnis gelten und hält sein Wort.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Einwender im königlichen Gefolge
+Aussehen: Erwachsener Mann mit schmalem Gesicht, dunklem Schnurrbart und steifer Haltung.
+Kleidung: Grauer langer Rock, brauner Gürtel und dunkle Schuhe. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Freie Verdichtung des Gefolges, das die Erlaubnis enger ausgelegt wissen will. Letzte Entscheidung bleibt beim König.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Nach der Niederlage
+Ort und Zeit: Weinsberg vor dem geschlossenen Stadttor
+Sichtbare Figuren: Trägerin von Weinsberg, Mann der Weinsberger Trägerin
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Stadtansicht von innen. Zwei Menschen links vor verschlossenem Tor, leere Vorratskörbe und müde unbenannte Bewohner im Hintergrund. Keine neue Schlacht und keine bewaffnete Frau auf dem Wehrgang. Beide Partner noch einzeln auf ihren eigenen Füßen. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links innerhalb der Stadtmauer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: links neben seiner Frau; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Sage erzählt von Weinsbergs Niederlage. Vor dem Tor entschied sich nun, was die Unterlegenen retten durften.
+Dialoge: keine
+Kontinuität / Änderung: Als Sage kenntlich, kein gesichertes Protokoll von 1140. Belagerung ist beendet, Kernhandlung beginnt beim gewährten Abzug.
+
+KACHEL 2: Ein Wort vor dem Tor
+Ort und Zeit: Geöffnetes Tor bei der Bekanntgabe der Erlaubnis
+Sichtbare Figuren: König Konrad vor Weinsberg, Einwender im königlichen Gefolge, Trägerin von Weinsberg
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Breite Toransicht. König rechts zu Fuß mit Königskrone, Trägerin links hört zu. Einwender hinter König, kein Pferd und keine neue Waffenhandlung. Blickachse zeigt innen links und außen rechts, die im weiteren Ablauf gleich bleibt. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links innerhalb des Torbogens; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König Konrad vor Weinsberg: Ort: rechts außerhalb des Tors; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Mantel, helles Gewand und schlichte goldene Königskrone. Kein Kaiserornat und kein gezogenes Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Einwender im königlichen Gefolge: Ort: rechts hinter dem König; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer langer Rock, brauner Gürtel und dunkle Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: König Konrad vor Weinsberg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Die Frauen dürfen gehen. Mit dem, was sie auf ihren Schultern tragen können.“
+Kontinuität / Änderung: König erteilt Erlaubnis vor dem Abzug. Hier König, nicht Kaiser. Er bleibt bei allen Gesprächen zu Fuß, kein ungeschilderter Reitwechsel.
+
+KACHEL 3: Was ist das Wertvollste?
+Ort und Zeit: Innenhof der Stadt vor dem Abzug
+Sichtbare Figuren: Trägerin von Weinsberg, Mann der Weinsberger Trägerin
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbnahe. Offene Truhe mit wenigen Habseligkeiten mittig, Frau links schaut nicht hinein, sondern auf ihren Mann rechts. Beide Hände leer. Kein bereits getragener zweiter Mann im Hintergrund und keine Goldkrone im Gepäck. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links vor einer offenen Truhe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: rechts neben der Truhe; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Frauen durften mitnehmen, was sie auf den Schultern tragen konnten. Eine Truhe war ihnen nicht das Wertvollste.
+Dialoge: keine
+Kontinuität / Änderung: Frau entscheidet sich für ihren Mann statt für Besitz. Noch keine Zauberkraft und keine Behauptung, jeder Mensch könne jede Last mühelos tragen.
+
+KACHEL 4: Eine schwere Entscheidung
+Ort und Zeit: Derselbe Innenhof bei der Vorbereitung
+Sichtbare Figuren: Trägerin von Weinsberg, Mann der Weinsberger Trägerin
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Klare seitliche Ansicht. Frau trägt einen schlanken Mann auf dem Rücken, seine Arme locker an ihren Schultern, seine Füße vom Boden. Sie hält mit ihren zwei Händen seine Oberschenkel. Keine zusätzliche Truhe, keine Rüstung und kein zweiter Männerkörper daneben. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links unter ihrem Mann; Körperhaltung: mit gebeugten Knien unter der Last stehend; Mitgeführte Gegenstände: beide Hände stützen seine Oberschenkel; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: auf dem Rücken genau dieser Frau; Körperhaltung: auf dem Rücken seiner Frau getragen; beide Füße vom Boden; Mitgeführte Gegenstände: Arme locker um ihre Schultern, keine Gegenstände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Eine Frau hob ihren Mann auf den Rücken. Ihre Auslegung der Erlaubnis war schwer zu tragen, aber eindeutig.
+Dialoge: keine
+Kontinuität / Änderung: Mann steigt mit ihrer Hilfe auf ihren Rücken, Trageposition jetzt hergestellt. Er bleibt getragen, bis später ausdrücklich anders beschrieben; keine stillen Zwischenszenen zu Fuß.
+
+KACHEL 5: Der Zug zum Ausgang
+Ort und Zeit: Weg von der Stadt zum geöffneten Tor
+Sichtbare Figuren: Trägerin von Weinsberg, Mann der Weinsberger Trägerin
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Rückenansicht. Wiedererkennbare Frau mit braunem Kleid und heller Haube trägt ihren einen Mann Richtung Tor rechts. Andere Frauen klein und mit jeweils nur einem Mann als ähnliche Silhouetten, keine namenlosen Doppelgänger derselben Kernbesetzung. Anstrengung sichtbar, kein Schweben. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links auf dem Weg zum Tor; Körperhaltung: unter der Last vorwärtsgehend; Mitgeführte Gegenstände: beide Hände stützen die Oberschenkel ihres Mannes; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: auf demselben Rücken unterwegs zum Tor; Körperhaltung: auf dem Rücken seiner Frau getragen; beide Füße vom Boden; Mitgeführte Gegenstände: Arme locker um ihre Schultern, keine Gegenstände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Andere taten es ihr gleich. Der Zug zum Tor bestand nicht aus geretteten Wertsachen, sondern aus Menschen.
+Dialoge: keine
+Kontinuität / Änderung: Gleicher Mann auf gleichem Rücken wie zuvor. Kleine Gruppe als Sagenbild, keine Frauenarmee und kein neuer Angriff zur Befreiung.
+
+KACHEL 6: So war es nicht gemeint
+Ort und Zeit: Im geöffneten Stadttor
+Sichtbare Figuren: Trägerin von Weinsberg, Mann der Weinsberger Trägerin, Einwender im königlichen Gefolge, König Konrad vor Weinsberg
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Halbtotale. Frau links stoppt kurz, Mann weiterhin klar auf ihrem Rücken mit zwei freien Füßen über Boden. Einwender rechts hebt nur eine offene Hand. König dahinter hört zu. Kein plötzlich abgestiegener Mann in der Diskussion und kein gezogenes Schwert. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links im Torbogen; Körperhaltung: unter der Last stehengeblieben; Mitgeführte Gegenstände: beide Hände stützen den getragenen Mann; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: auf dem Rücken im Torbogen; Körperhaltung: auf dem Rücken seiner Frau getragen; beide Füße vom Boden; Mitgeführte Gegenstände: Arme locker um ihre Schultern, keine Gegenstände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König Konrad vor Weinsberg: Ort: rechts hinter dem Einwender; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblauer Mantel, helles Gewand und schlichte goldene Königskrone. Kein Kaiserornat und kein gezogenes Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Einwender im königlichen Gefolge: Ort: rechts vor dem Tor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer langer Rock, brauner Gürtel und dunkle Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Im Gefolge des Königs erhob sich Widerspruch. So hatten die Sieger die gewährte Erlaubnis offenbar nicht verstanden.
+Dialoge: keine
+Kontinuität / Änderung: Widerspruch über die Auslegung, keine physische neue Gefangennahme. Frau hält die Last während der kurzen Unterbrechung weiter.
+
+KACHEL 7: Das Wort hält auch jetzt
+Ort und Zeit: Derselbe Torbogen bei Konrads Entscheidung
+Sichtbare Figuren: König Konrad vor Weinsberg, Einwender im königlichen Gefolge, Trägerin von Weinsberg, Mann der Weinsberger Trägerin
+Bildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ruhige Halbnahe mit breiter freier Passage zwischen König und Frau. König rechts tritt selbst zur Seite, nicht die Frau zum Kampf. Mann auf ihrem Rücken sichtbar. Die offene Hand ist Erlaubnis zum Durchgang, keine Belohnungstruhe. Verbindliche Zustände: Trägerin von Weinsberg: Ort: links unter der Last; Körperhaltung: stehend; Mitgeführte Gegenstände: beide Hände stützen ihren Mann; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: auf ihrem Rücken, Tor links; Körperhaltung: auf dem Rücken seiner Frau getragen; beide Füße vom Boden; Mitgeführte Gegenstände: Arme locker um ihre Schultern, keine Gegenstände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. König Konrad vor Weinsberg: Ort: rechts vor dem Einwender; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand gibt den Weg frei; Kleidung: Dunkelblauer Mantel, helles Gewand und schlichte goldene Königskrone. Kein Kaiserornat und kein gezogenes Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Einwender im königlichen Gefolge: Ort: rechts dahinter; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grauer langer Rock, brauner Gürtel und dunkle Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: König Konrad vor Weinsberg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mein Wort gilt.“
+Kontinuität / Änderung: König hält die überraschende zulässige Auslegung aus. Er revidiert nicht still die Erlaubnis. Der entscheidende Sieg ist Worttreue, nicht Gewalt.
+
+KACHEL 8: Was vor das Tor kam
+Ort und Zeit: Offener Weg außerhalb der Stadt
+Sichtbare Figuren: Trägerin von Weinsberg, Mann der Weinsberger Trägerin
+Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Weite Schlussansicht. Paar ganz außerhalb, Stadtmauer hinter ihnen, offene Landschaft voraus. Frau trägt noch denselben Mann, keine zweite stehende Kopie neben ihr. Kein Gold oder Truhe auf den Schultern. Andere Gerettete nur kleine Silhouetten in weitem Abstand. Verbindliche Zustände: Trägerin von Weinsberg: Ort: mittig jenseits des Stadttors; Körperhaltung: mit schweren Schritten weitergehend; Mitgeführte Gegenstände: beide Hände stützen die Oberschenkel ihres Mannes; Kleidung: Braunes Wollkleid mit gegürtetem Rock, helle Haube und feste Lederschuhe. Keine Rüstung, kein Schwert.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Mann der Weinsberger Trägerin: Ort: auf ihrem Rücken außerhalb der Stadt; Körperhaltung: auf dem Rücken seiner Frau getragen; beide Füße vom Boden; Mitgeführte Gegenstände: Arme locker um ihre Schultern, keine Gegenstände; Kleidung: Helle dünne Tunika, braune Hose und weiche Schuhe. Keine Rüstung oder Waffe, keine schwere Truhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Konrad ließ die Frauen mit ihren Männern ziehen. Sein Wort bewährte sich gerade dort, wo die Auslegung ihm unbequem war.
+Dialoge: keine
+Kontinuität / Änderung: Auszug erlaubt und vollzogen. Beide lebend frei, Kernpaar weiterhin in derselben Trageposition. Keine neu erfundene Schlacht oder zauberhafte Kraft am Ende.

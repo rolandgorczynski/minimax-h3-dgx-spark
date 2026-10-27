@@ -1,0 +1,515 @@
+{
+  "mode": "editorial",
+  "name": "Die Zeitmaschine – Der erste Blick auf das Jahr 802701 · Erzählerfassung",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die Zeitmaschine – Der erste Blick auf das Jahr 802701.\nÜBERLIEFERUNG: The Time Machine, 1895; Ankunft und erste Erkundung der Zukunft. Englischer Originaltext als Beleg, keine moderne deutsche Übersetzung.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nEin namenloser Zeitreisender erprobt seine Maschine und erreicht das Jahr 802701. In einer parkartigen Landschaft begegnet er den kleinen, freundlich wirkenden Eloi. Ihre mühelose Lebensweise erscheint ihm zunächst wie ein gelöstes Menschheitsproblem. Er beobachtet jedoch ihre Gleichgültigkeit, ihr geringes Wissen und ihre Angst vor der Dunkelheit. Als er zum Landeplatz zurückkehrt, ist die Maschine verschwunden. Spuren führen zu einem verschlossenen Sockel unter einer großen Sphinx. Der Reisende muss bleiben und beginnt zu begreifen, dass unter der friedlichen Oberfläche etwas verborgen ist. Die Episode endet mit seinem Entschluss, den verschwundenen Rückweg zu suchen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Eine Utopie kippt in ein Rätsel; das vertraute technische Gerät wird zum verlorenen Lebensanker.\nABGRENZUNG: Nur Ankunft und Verlust der Maschine. Morlocks und spätere Rettungsversuche als mögliche Fortsetzung, nicht als bereits gelöste Ursache verraten. Die Maschine befindet sich anfangs am Landeplatz, später hinter dem verschlossenen Zugang; sie darf nicht zugleich draußen stehen. Kein erfundener Eigenname des Reisenden aus Filmen. Eloi sind eine künftige menschliche Entwicklung, keine Elfen mit frei erfundenen Zauberkräften.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_article": "STOFF UND HERKUNFT: Die Zeitmaschine – Der erste Blick auf das Jahr 802701.\nÜBERLIEFERUNG: The Time Machine, 1895; Ankunft und erste Erkundung der Zukunft. Englischer Originaltext als Beleg, keine moderne deutsche Übersetzung.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nEin namenloser Zeitreisender erprobt seine Maschine und erreicht das Jahr 802701. In einer parkartigen Landschaft begegnet er den kleinen, freundlich wirkenden Eloi. Ihre mühelose Lebensweise erscheint ihm zunächst wie ein gelöstes Menschheitsproblem. Er beobachtet jedoch ihre Gleichgültigkeit, ihr geringes Wissen und ihre Angst vor der Dunkelheit. Als er zum Landeplatz zurückkehrt, ist die Maschine verschwunden. Spuren führen zu einem verschlossenen Sockel unter einer großen Sphinx. Der Reisende muss bleiben und beginnt zu begreifen, dass unter der friedlichen Oberfläche etwas verborgen ist. Die Episode endet mit seinem Entschluss, den verschwundenen Rückweg zu suchen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Eine Utopie kippt in ein Rätsel; das vertraute technische Gerät wird zum verlorenen Lebensanker.\nABGRENZUNG: Nur Ankunft und Verlust der Maschine. Morlocks und spätere Rettungsversuche als mögliche Fortsetzung, nicht als bereits gelöste Ursache verraten. Die Maschine befindet sich anfangs am Landeplatz, später hinter dem verschlossenen Zugang; sie darf nicht zugleich draußen stehen. Kein erfundener Eigenname des Reisenden aus Filmen. Eloi sind eine künftige menschliche Entwicklung, keine Elfen mit frei erfundenen Zauberkräften.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Der erste Versuch",
+        "setting": "Viktorianisches Labor",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein einziges technisches Gerät mit dunklem gepolstertem Sitz, glänzendem Messingrahmen und großer matter Scheibe steht im Labor. Der Reisende sitzt darin und betätigt einen kleinen abnehmbaren Messinghebel. Zeitskala noch nahe seiner Ausgangszeit. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: im Sattel der Zeitmaschine; Körperhaltung: sitzend; Mitgeführte Gegenstände: rechte Hand am kleinen Messinghebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "241650ec53bb559da74195ef2203b56a",
+            "text": "Ein kurzer Versuch. Dann zurück.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Einzigartige Maschine mit gleichbleibender Form; kein zweites Gerät oder futuristischer Filmnachbau.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "im Sattel der Zeitmaschine",
+            "posture": "sitzend",
+            "held": "rechte Hand am kleinen Messinghebel",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die Jahre laufen",
+        "setting": "Zeitmaschine während der Fahrt",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einzelner Moment subjektiver Zeitfahrt: Das Gerät und der Reisende sind scharf, außerhalb der Maschinensilhouette liegen abstrakte helle und dunkle Bewegungsbänder. Die Skala nähert sich 802701. Keine zusätzliche Figur aus einer anderen Epoche. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: weiter auf demselben Sitz; Körperhaltung: sitzend; Mitgeführte Gegenstände: rechte Hand am Messinghebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Tage und Jahreszeiten zogen vorbei. Der kurze Versuch entfernte den Reisenden immer weiter von seiner eigenen Zeit.",
+        "bubbles": [],
+        "continuity": "Reisender bleibt im Sitz, unveränderte Kleidung. Keine räumlich getrennten Zeitszenen als Montage.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "weiter auf demselben Sitz",
+            "posture": "sitzend",
+            "held": "rechte Hand am Messinghebel",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Ankunft im Regen",
+        "setting": "Parklandschaft vor einer weißen Sphinx",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Maschine steht jetzt auf einer Rasenstelle nahe einem großen weißen Sphinxdenkmal mit bronzenem Sockel. Nachlassender Hagel liegt zwischen den Halmen. Auf der Zeitanzeige steht 802701. Der Mann sitzt noch im Gerät und betrachtet die fremde Vegetation. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: auf dem stehenden Gerät; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hand am angehaltenen Hebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Im Jahr 802701 hielt die Maschine an. Die Zukunft empfing ihn mit Hagelresten, nassem Gras und einer fremden Landschaft.",
+        "bubbles": [],
+        "continuity": "Ankunft abgeschlossen, Maschine am Landeplatz. Noch kein Diebstahl und kein Aussteigen.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "auf dem stehenden Gerät",
+            "posture": "sitzend",
+            "held": "Hand am angehaltenen Hebel",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "in einem Fahrzeug",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die freundliche Begrüßung",
+        "setting": "Rasen neben der Zeitmaschine",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a",
+          "42150f4ff5625499a0053bc1697ebbe3"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Reisende ist ausdrücklich vom Sitz abgestiegen. Ein kleiner erwachsener Mensch in helllila Tunika reicht ihm eine Blüte entgegen. Die Maschine steht unverschlossen hinter ihm; er hat nur den Steuerhebel zur Sicherung abgenommen. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: neben dem Sitz der Maschine; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner abgenommener Messinghebel in der rechten Hand; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: einige Schritte vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Blüte; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "241650ec53bb559da74195ef2203b56a",
+            "text": "Menschen. Also doch.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Abgestiegen und zu Fuß. Abgenommener Hebel existiert genau einmal. Noch liegt er nicht in der Tasche.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "neben dem Sitz der Maschine",
+            "posture": "stehend",
+            "held": "kleiner abgenommener Messinghebel in der rechten Hand",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "42150f4ff5625499a0053bc1697ebbe3": {
+            "location": "einige Schritte vor ihm",
+            "posture": "stehend",
+            "held": "eine Blüte",
+            "clothing": "Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Eine mühelose Welt",
+        "setting": "Große Speisehalle zwischen alten Säulen",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a",
+          "42150f4ff5625499a0053bc1697ebbe3"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Weggehen vom Landeplatz sitzt er zwischen namenlosen erwachsenen Eloi beim Obstmahl. Der vorher gezeigte Hebel steckt nun in seiner geschlossenen inneren Jackentasche. Die erhaltene Blüte liegt vor ihm auf dem Tisch. Keiner versteht seine Worte sicher; die Eloi antworten mit freundlichen Gesten. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: an einem niedrigen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Stück Obst; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "241650ec53bb559da74195ef2203b56a",
+            "text": "Kein Hunger, keine Arbeit? Haben wir es am Ende geschafft?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Maschine bleibt unbeaufsichtigt auf dem Rasen außerhalb des Bildes. Kein mitreisendes Miniaturgerät.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "an einem niedrigen Tisch",
+            "posture": "sitzend",
+            "held": "abgenommener kleiner Messinghebel in der inneren Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "42150f4ff5625499a0053bc1697ebbe3": {
+            "location": "gegenüber",
+            "posture": "sitzend",
+            "held": "ein Stück Obst",
+            "clothing": "Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Fragen ohne Widerhall",
+        "setting": "Verfallener Seitenflügel der Halle",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a",
+          "42150f4ff5625499a0053bc1697ebbe3"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später zeigt der Reisende auf ein altes technisches Relief, das zwischen Ranken zerbröckelt. Der Eloi zuckt freundlich mit den Schultern und wendet sich zu anderen ab. Der Reisende bleibt mit seiner unbeantworteten Frage zurück. Keine erfundene verständliche Eloi-Rede. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor gebrochenem altem Säulenrelief; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: beim Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Die freundlichen Eloi konnten ihm die alten Werke ihrer Umgebung nicht erklären. Seine erste Deutung einer gelösten Menschheit bekam Risse.",
+        "bubbles": [],
+        "continuity": "Fröhlichkeit ist keine belegte vollständige Gesellschaftserklärung; Sprachbarriere bleibt bestehen.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "vor gebrochenem altem Säulenrelief",
+            "posture": "stehend",
+            "held": "abgenommener kleiner Messinghebel in der inneren Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "42150f4ff5625499a0053bc1697ebbe3": {
+            "location": "beim Ausgang",
+            "posture": "stehend",
+            "held": "leere Hände",
+            "clothing": "Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Vor der Dunkelheit",
+        "setting": "Eingang der großen Halle bei Abendlicht",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a",
+          "42150f4ff5625499a0053bc1697ebbe3"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Bei sinkendem Tageslicht ziehen sich die Eloi eng in die große Halle zurück. Der bekannte Eloi scheut den dunklen Garten und winkt ihn hastig herein. Der Reisende schaut stattdessen Richtung Landeplatz. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: auf der Eingangsstufe; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: im hellen Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände eng am Gürtel; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "241650ec53bb559da74195ef2203b56a",
+            "text": "Wovor habt ihr Angst?",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Angst vor Dunkelheit als Beobachtung, Ursache noch unbekannt. Keine Monster im Garten zeigen.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "auf der Eingangsstufe",
+            "posture": "stehend",
+            "held": "abgenommener kleiner Messinghebel in der inneren Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          },
+          "42150f4ff5625499a0053bc1697ebbe3": {
+            "location": "im hellen Türrahmen",
+            "posture": "stehend",
+            "held": "Hände eng am Gürtel",
+            "clothing": "Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Der leere Landeplatz",
+        "setting": "Rasen vor der weißen Sphinx bei Dämmerung",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Rückweg zu Fuß steht er vor derselben Rasenstelle. Genau dort, wo das Gerät stand, liegen nur gequetschtes Gras und Hagelreste. Die Sphinx und der Bronzesockel erlauben räumliche Wiedererkennung. Keine Maschine im Hintergrund. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor der leeren Rasenfläche; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "241650ec53bb559da74195ef2203b56a",
+            "text": "Nein. Hier stand sie.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Maschine ist verschwunden. Sie bleibt ab hier außerhalb des Bildes hinter dem verschlossenen Sockel, noch nicht vom Reisenden gesehen.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "vor der leeren Rasenfläche",
+            "posture": "stehend",
+            "held": "abgenommener kleiner Messinghebel in der inneren Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Eine Richtung",
+        "setting": "Boden zwischen Landeplatz und Sockel",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Er kniet bei breiten Druck- und Schleifspuren, die vom leeren Platz zum bronzenen Sockel unter der Sphinx führen. Sein Finger folgt einer Spur. Keine eindeutigen Täterabdrücke und keine heimliche Ansicht der Verursacher. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: an Schleifspuren im Gras; Körperhaltung: kniend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Am leeren Landeplatz fand er Schleifspuren zum Sockel der Sphinx. Die Maschine war offenbar nicht verschwunden, sondern fortgeschafft worden.",
+        "bubbles": [],
+        "continuity": "Leerer Landeplatz und Spuren sind beobachtbar; Täter und genauer Mechanismus bleiben unbekannt.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "an Schleifspuren im Gras",
+            "posture": "kniend",
+            "held": "abgenommener kleiner Messinghebel in der inneren Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Verschlossen",
+        "setting": "Bronzetür im Sphinxsockel",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Reisende prüft eine fest geschlossene bronzene Türfuge unter dem weißen Denkmal. Keine Klinke gibt nach. Die Kamera bleibt vor der Tür; weder Maschine noch ein anderer Bewohner ist durch sie hindurch sichtbar. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: unmittelbar vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: linke Hand an Fuge; Messinghebel weiter in innerer Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "241650ec53bb559da74195ef2203b56a",
+            "text": "Macht auf!",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "continuity": "Keine Türöffnung und keine Lösung. Messinghebel passt nicht automatisch als magischer Schlüssel.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "unmittelbar vor der Tür",
+            "posture": "stehend",
+            "held": "linke Hand an Fuge; Messinghebel weiter in innerer Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die falsche Sicherheit",
+        "setting": "Stufe vor dem verschlossenen Sockel bei Nacht",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der erschöpfte Reisende sitzt vor der verschlossenen Tür. Im Fernhintergrund leuchten die Fenster der Halle, auf dem Rasen steht keine Maschine. Er schaut zwischen scheinbar sicherer Halle und unbekanntem Inneren des Sockels hin und her. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: am Fuß der Bronzetür; Körperhaltung: sitzend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Er hatte sichtbares Wohlbefinden für eine vollständige Antwort gehalten. Ohne seine Maschine war er nun selbst von dieser Welt abhängig.",
+        "bubbles": [],
+        "continuity": "Noch in 802701 gefangen. Kein nächtlicher Angriff und keine gerettete Rückfahrt.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "am Fuß der Bronzetür",
+            "posture": "sitzend",
+            "held": "abgenommener kleiner Messinghebel in der inneren Jackentasche",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      },
+      {
+        "heading": "Die nächste Frage",
+        "setting": "Sphinxsockel im ersten Morgenlicht",
+        "characters": [
+          "241650ec53bb559da74195ef2203b56a"
+        ],
+        "story": "Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am Morgen ist er aufgestanden und hat denselben Hebel aus der Tasche genommen. Er betrachtet ihn als verbliebenes Stück seines Rückwegs, dann die Türfuge. Die Tür bleibt zu und die Maschine unsichtbar. Sein Stand ist nun prüfend statt panisch. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor derselben geschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner Messinghebel in der rechten Hand; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.",
+        "dialog": "Die Tür blieb zu. Mit dem verbliebenen Hebel in der Hand beschloss er, seinen Rückweg und das Verborgene hinter der Ruhe zu suchen.",
+        "bubbles": [],
+        "continuity": "Offener Episodenschluss: Suche beschlossen, Ursache und Rückkehr ungelöst. Keine Morlocks oder späteren Rettungsversuche vorwegnehmen.",
+        "character_states": {},
+        "continuity_state": {
+          "241650ec53bb559da74195ef2203b56a": {
+            "location": "vor derselben geschlossenen Tür",
+            "posture": "stehend",
+            "held": "kleiner Messinghebel in der rechten Hand",
+            "clothing": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+            "movement": "zu Fuß",
+            "life": "lebend",
+            "injury": "unverletzt"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "id": "241650ec53bb559da74195ef2203b56a",
+        "name": "Namenloser Reisender mit der Zeitmaschine",
+        "description": "Erwachsener Mann mit kurzem braunem Haar, gerader Nase und schmalem Bart an Kinn und Oberlippe.",
+        "outfit": "Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.",
+        "backstory": "Erreicht die ferne Zukunft und deutet ihre Bequemlichkeit vorschnell als gelöstes Menschheitsproblem. Verliert die Maschine, nicht seinen Willen zu verstehen.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "id": "42150f4ff5625499a0053bc1697ebbe3",
+        "name": "Eloi am ersten Landeplatz",
+        "description": "Kleiner erwachsener Mensch mit weichem Gesicht, lockigem kurzem dunklem Haar und runden menschlichen Ohren.",
+        "outfit": "Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.",
+        "backstory": "Freundlicher erster Kontakt in der Zukunft. Kein Elf und kein Zauberwesen. Versteht anfangs nicht die Sprache des Zeitreisenden.",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Darf eine bequeme Oberfläche mit einem gelösten Menschheitsproblem verwechselt werden?",
+      "core": "Wohlbefinden im sichtbaren Augenblick ist kein verlässlicher Maßstab für eine Gesellschaft, solange Wissen, Abhängigkeiten und verdrängte Gefahren unbekannt bleiben.",
+      "ending": "Der Reisende bleibt vorerst gefangen und beschließt, seine Maschine zu suchen.",
+      "reason": "Ankunft, optimistischer Ersteindruck, widersprechende Beobachtungen und verlorener Rückweg begründen die Umwertung.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "dass unter der friedlichen Oberfläche etwas verborgen ist.",
+          "meaning": "Die verlorene Rückkehrmöglichkeit zwingt zur Prüfung der ersten vermeintlichen Utopie."
+        }
+      ],
+      "causal_chain": [
+        "dass unter der friedlichen Oberfläche etwas verborgen ist.",
+        "Der Reisende bleibt vorerst gefangen und beschließt, seine Maschine zu suchen."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "035a46916ed155f9fc9f066413573b448dfe28b7dcd21f7ca772043498227431",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:13:30.700732+00:00"
+    },
+    "post_summary": "Ein Erfinder landet in einer scheinbar friedlichen Zukunft. Als seine Maschine verschwindet, wird aus dem Ausflug ein Kampf um den Rückweg.",
+    "source_provenance": {
+      "title": "Die Zeitmaschine – Der erste Blick auf das Jahr 802701",
+      "kind": "Buch",
+      "creator": "Herbert George Wells (1866–1946).",
+      "edition": "The Time Machine, 1895; Ankunft und erste Erkundung der Zukunft. Englischer Originaltext als Beleg, keine moderne deutsche Übersetzung. Eigene deutsche Inhaltszusammenfassung.",
+      "url": "https://www.gutenberg.org/ebooks/35",
+      "territories": "Deutschland; Bezug auf den historischen Ausgangstext und diese eigene Inhaltsfassung.",
+      "rights": "Gemeinfreier historischer Ausgangstext eines seit mehr als 70 Jahren verstorbenen Autors beziehungsweise Bearbeiters. Eigene deutsche Inhaltszusammenfassung; keine moderne Übersetzung, Filmfassung oder fremde Illustration übernommen. Rechtehinweis für Deutschland gemäß § 64 UrhG; nicht als Freigabe sämtlicher Ausgaben, Webseiten oder Bilder zu verstehen.",
+      "text": "STOFF UND HERKUNFT: Die Zeitmaschine – Der erste Blick auf das Jahr 802701.\nÜBERLIEFERUNG: The Time Machine, 1895; Ankunft und erste Erkundung der Zukunft. Englischer Originaltext als Beleg, keine moderne deutsche Übersetzung.\n\nHANDLUNGSGRUNDLAGE – EIGENE ZUSAMMENFASSUNG:\nEin namenloser Zeitreisender erprobt seine Maschine und erreicht das Jahr 802701. In einer parkartigen Landschaft begegnet er den kleinen, freundlich wirkenden Eloi. Ihre mühelose Lebensweise erscheint ihm zunächst wie ein gelöstes Menschheitsproblem. Er beobachtet jedoch ihre Gleichgültigkeit, ihr geringes Wissen und ihre Angst vor der Dunkelheit. Als er zum Landeplatz zurückkehrt, ist die Maschine verschwunden. Spuren führen zu einem verschlossenen Sockel unter einer großen Sphinx. Der Reisende muss bleiben und beginnt zu begreifen, dass unter der friedlichen Oberfläche etwas verborgen ist. Die Episode endet mit seinem Entschluss, den verschwundenen Rückweg zu suchen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Eine Utopie kippt in ein Rätsel; das vertraute technische Gerät wird zum verlorenen Lebensanker.\nABGRENZUNG: Nur Ankunft und Verlust der Maschine. Morlocks und spätere Rettungsversuche als mögliche Fortsetzung, nicht als bereits gelöste Ursache verraten. Die Maschine befindet sich anfangs am Landeplatz, später hinter dem verschlossenen Zugang; sie darf nicht zugleich draußen stehen. Kein erfundener Eigenname des Reisenden aus Filmen. Eloi sind eine künftige menschliche Entwicklung, keine Elfen mit frei erfundenen Zauberkräften.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren. Keine angeblichen Originalzitate und keine modernen Filmkostüme übernehmen. Pro Kachel einen klaren Zeitpunkt zeigen. Figuren, Verwandlungen, Kleidung und Gegenstände über die Szenen hinweg logisch fortführen. Ortswechsel, Zeitsprünge und Zustandsänderungen ausdrücklich beschreiben. Den angegebenen Handlungsbogen und sein Ende erhalten. Nebenfiguren knapp halten; höchstens acht eigenständige Figuren benötigen feste Profile.",
+      "post_summary": "Ein Erfinder landet in einer scheinbar friedlichen Zukunft. Als seine Maschine verschwindet, wird aus dem Ausflug ein Kampf um den Rückweg.",
+      "id": "comic-quellen-5-zeitmaschine",
+      "category": "Abenteuer und Entdeckungen",
+      "collection": "Literarische Klassiker"
+    },
+    "source_script": "TITEL: Die Zeitmaschine – Der erste Blick auf das Jahr 802701 · Erzählerfassung\nAUTOR: \nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Generierung\nSTIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Namenloser Reisender mit der Zeitmaschine\nAussehen: Erwachsener Mann mit kurzem braunem Haar, gerader Nase und schmalem Bart an Kinn und Oberlippe.\nKleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.\nPersönlichkeit und Vorgeschichte: Erreicht die ferne Zukunft und deutet ihre Bequemlichkeit vorschnell als gelöstes Menschheitsproblem. Verliert die Maschine, nicht seinen Willen zu verstehen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Eloi am ersten Landeplatz\nAussehen: Kleiner erwachsener Mensch mit weichem Gesicht, lockigem kurzem dunklem Haar und runden menschlichen Ohren.\nKleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.\nPersönlichkeit und Vorgeschichte: Freundlicher erster Kontakt in der Zukunft. Kein Elf und kein Zauberwesen. Versteht anfangs nicht die Sprache des Zeitreisenden.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der erste Versuch\nOrt und Zeit: Viktorianisches Labor\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Ein einziges technisches Gerät mit dunklem gepolstertem Sitz, glänzendem Messingrahmen und großer matter Scheibe steht im Labor. Der Reisende sitzt darin und betätigt einen kleinen abnehmbaren Messinghebel. Zeitskala noch nahe seiner Ausgangszeit. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: im Sattel der Zeitmaschine; Körperhaltung: sitzend; Mitgeführte Gegenstände: rechte Hand am kleinen Messinghebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Namenloser Reisender mit der Zeitmaschine\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ein kurzer Versuch. Dann zurück.“\nKontinuität / Änderung: Einzigartige Maschine mit gleichbleibender Form; kein zweites Gerät oder futuristischer Filmnachbau.\n\nKACHEL 2: Die Jahre laufen\nOrt und Zeit: Zeitmaschine während der Fahrt\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Ein einzelner Moment subjektiver Zeitfahrt: Das Gerät und der Reisende sind scharf, außerhalb der Maschinensilhouette liegen abstrakte helle und dunkle Bewegungsbänder. Die Skala nähert sich 802701. Keine zusätzliche Figur aus einer anderen Epoche. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: weiter auf demselben Sitz; Körperhaltung: sitzend; Mitgeführte Gegenstände: rechte Hand am Messinghebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Tage und Jahreszeiten zogen vorbei. Der kurze Versuch entfernte den Reisenden immer weiter von seiner eigenen Zeit.\nDialoge: keine\nKontinuität / Änderung: Reisender bleibt im Sitz, unveränderte Kleidung. Keine räumlich getrennten Zeitszenen als Montage.\n\nKACHEL 3: Ankunft im Regen\nOrt und Zeit: Parklandschaft vor einer weißen Sphinx\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Die Maschine steht jetzt auf einer Rasenstelle nahe einem großen weißen Sphinxdenkmal mit bronzenem Sockel. Nachlassender Hagel liegt zwischen den Halmen. Auf der Zeitanzeige steht 802701. Der Mann sitzt noch im Gerät und betrachtet die fremde Vegetation. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: auf dem stehenden Gerät; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hand am angehaltenen Hebel; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: in einem Fahrzeug; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Im Jahr 802701 hielt die Maschine an. Die Zukunft empfing ihn mit Hagelresten, nassem Gras und einer fremden Landschaft.\nDialoge: keine\nKontinuität / Änderung: Ankunft abgeschlossen, Maschine am Landeplatz. Noch kein Diebstahl und kein Aussteigen.\n\nKACHEL 4: Die freundliche Begrüßung\nOrt und Zeit: Rasen neben der Zeitmaschine\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Reisende ist ausdrücklich vom Sitz abgestiegen. Ein kleiner erwachsener Mensch in helllila Tunika reicht ihm eine Blüte entgegen. Die Maschine steht unverschlossen hinter ihm; er hat nur den Steuerhebel zur Sicherung abgenommen. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: neben dem Sitz der Maschine; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner abgenommener Messinghebel in der rechten Hand; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: einige Schritte vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Blüte; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Namenloser Reisender mit der Zeitmaschine\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Menschen. Also doch.“\nKontinuität / Änderung: Abgestiegen und zu Fuß. Abgenommener Hebel existiert genau einmal. Noch liegt er nicht in der Tasche.\n\nKACHEL 5: Eine mühelose Welt\nOrt und Zeit: Große Speisehalle zwischen alten Säulen\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Weggehen vom Landeplatz sitzt er zwischen namenlosen erwachsenen Eloi beim Obstmahl. Der vorher gezeigte Hebel steckt nun in seiner geschlossenen inneren Jackentasche. Die erhaltene Blüte liegt vor ihm auf dem Tisch. Keiner versteht seine Worte sicher; die Eloi antworten mit freundlichen Gesten. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: an einem niedrigen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: gegenüber; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Stück Obst; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Namenloser Reisender mit der Zeitmaschine\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Kein Hunger, keine Arbeit? Haben wir es am Ende geschafft?“\nKontinuität / Änderung: Maschine bleibt unbeaufsichtigt auf dem Rasen außerhalb des Bildes. Kein mitreisendes Miniaturgerät.\n\nKACHEL 6: Fragen ohne Widerhall\nOrt und Zeit: Verfallener Seitenflügel der Halle\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Später zeigt der Reisende auf ein altes technisches Relief, das zwischen Ranken zerbröckelt. Der Eloi zuckt freundlich mit den Schultern und wendet sich zu anderen ab. Der Reisende bleibt mit seiner unbeantworteten Frage zurück. Keine erfundene verständliche Eloi-Rede. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor gebrochenem altem Säulenrelief; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: beim Ausgang; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Die freundlichen Eloi konnten ihm die alten Werke ihrer Umgebung nicht erklären. Seine erste Deutung einer gelösten Menschheit bekam Risse.\nDialoge: keine\nKontinuität / Änderung: Fröhlichkeit ist keine belegte vollständige Gesellschaftserklärung; Sprachbarriere bleibt bestehen.\n\nKACHEL 7: Vor der Dunkelheit\nOrt und Zeit: Eingang der großen Halle bei Abendlicht\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine, Eloi am ersten Landeplatz\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Bei sinkendem Tageslicht ziehen sich die Eloi eng in die große Halle zurück. Der bekannte Eloi scheut den dunklen Garten und winkt ihn hastig herein. Der Reisende schaut stattdessen Richtung Landeplatz. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: auf der Eingangsstufe; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Eloi am ersten Landeplatz: Ort: im hellen Türrahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände eng am Gürtel; Kleidung: Helllila kurze Tunika, weicher Gürtel und leichte Sandalen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Namenloser Reisender mit der Zeitmaschine\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Wovor habt ihr Angst?“\nKontinuität / Änderung: Angst vor Dunkelheit als Beobachtung, Ursache noch unbekannt. Keine Monster im Garten zeigen.\n\nKACHEL 8: Der leere Landeplatz\nOrt und Zeit: Rasen vor der weißen Sphinx bei Dämmerung\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Nach Rückweg zu Fuß steht er vor derselben Rasenstelle. Genau dort, wo das Gerät stand, liegen nur gequetschtes Gras und Hagelreste. Die Sphinx und der Bronzesockel erlauben räumliche Wiedererkennung. Keine Maschine im Hintergrund. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor der leeren Rasenfläche; Körperhaltung: stehend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Namenloser Reisender mit der Zeitmaschine\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Nein. Hier stand sie.“\nKontinuität / Änderung: Maschine ist verschwunden. Sie bleibt ab hier außerhalb des Bildes hinter dem verschlossenen Sockel, noch nicht vom Reisenden gesehen.\n\nKACHEL 9: Eine Richtung\nOrt und Zeit: Boden zwischen Landeplatz und Sockel\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Er kniet bei breiten Druck- und Schleifspuren, die vom leeren Platz zum bronzenen Sockel unter der Sphinx führen. Sein Finger folgt einer Spur. Keine eindeutigen Täterabdrücke und keine heimliche Ansicht der Verursacher. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: an Schleifspuren im Gras; Körperhaltung: kniend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Am leeren Landeplatz fand er Schleifspuren zum Sockel der Sphinx. Die Maschine war offenbar nicht verschwunden, sondern fortgeschafft worden.\nDialoge: keine\nKontinuität / Änderung: Leerer Landeplatz und Spuren sind beobachtbar; Täter und genauer Mechanismus bleiben unbekannt.\n\nKACHEL 10: Verschlossen\nOrt und Zeit: Bronzetür im Sphinxsockel\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Dialogkachel: Die gesprochenen Texte und Blasen werden nachträglich gesetzt. Keinen Erzählerkasten, keine Blasen und keine Schrift zeichnen. Freie Flächen bei den Sprechern vorsehen, Gesichter und Hände frei halten. Der Reisende prüft eine fest geschlossene bronzene Türfuge unter dem weißen Denkmal. Keine Klinke gibt nach. Die Kamera bleibt vor der Tür; weder Maschine noch ein anderer Bewohner ist durch sie hindurch sichtbar. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: unmittelbar vor der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: linke Hand an Fuge; Messinghebel weiter in innerer Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Namenloser Reisender mit der Zeitmaschine\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Macht auf!“\nKontinuität / Änderung: Keine Türöffnung und keine Lösung. Messinghebel passt nicht automatisch als magischer Schlüssel.\n\nKACHEL 11: Die falsche Sicherheit\nOrt und Zeit: Stufe vor dem verschlossenen Sockel bei Nacht\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Der erschöpfte Reisende sitzt vor der verschlossenen Tür. Im Fernhintergrund leuchten die Fenster der Halle, auf dem Rasen steht keine Maschine. Er schaut zwischen scheinbar sicherer Halle und unbekanntem Inneren des Sockels hin und her. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: am Fuß der Bronzetür; Körperhaltung: sitzend; Mitgeführte Gegenstände: abgenommener kleiner Messinghebel in der inneren Jackentasche; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Er hatte sichtbares Wohlbefinden für eine vollständige Antwort gehalten. Ohne seine Maschine war er nun selbst von dieser Welt abhängig.\nDialoge: keine\nKontinuität / Änderung: Noch in 802701 gefangen. Kein nächtlicher Angriff und keine gerettete Rückfahrt.\n\nKACHEL 12: Die nächste Frage\nOrt und Zeit: Sphinxsockel im ersten Morgenlicht\nSichtbare Figuren: Namenloser Reisender mit der Zeitmaschine\nBildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt. Weder Sprechblasen noch Kästen oder Schrift zeichnen. Oben eine ruhige freie Fläche reservieren, Köpfe und wichtige Hände darunter. Am Morgen ist er aufgestanden und hat denselben Hebel aus der Tasche genommen. Er betrachtet ihn als verbliebenes Stück seines Rückwegs, dann die Türfuge. Die Tür bleibt zu und die Maschine unsichtbar. Sein Stand ist nun prüfend statt panisch. Verbindliche Zustände: Namenloser Reisender mit der Zeitmaschine: Ort: vor derselben geschlossenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: kleiner Messinghebel in der rechten Hand; Kleidung: Braune viktorianische Anzugjacke, helle Weste, weißes Hemd, dunkle Hose und braune feste Schuhe. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.\nErzählertext: Die Tür blieb zu. Mit dem verbliebenen Hebel in der Hand beschloss er, seinen Rückweg und das Verborgene hinter der Ruhe zu suchen.\nDialoge: keine\nKontinuität / Änderung: Offener Episodenschluss: Suche beschlossen, Ursache und Rückkehr ungelöst. Keine Morlocks oder späteren Rettungsversuche vorwegnehmen.\n",
+    "book_author": "",
+    "editorial_script_id": "zeitmaschine-ankunft-12-erzaehler-dreier-v1",
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Erzählertexte von Codex redaktionell bearbeitet; technische Struktur- und Beschriftungsprüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_every_second_panel": false,
+      "narrator_every_third_panel": true,
+      "narrator_and_dialogue_exclusive": true,
+      "silent_panels_have_narrator": true,
+      "continuity_unchanged": true,
+      "based_on": "zeitmaschine-ankunft-12"
+    },
+    "title": "Die Zeitmaschine – Der erste Blick auf das Jahr 802701 · Erzählerfassung",
+    "revisions": {},
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex",
+      "based_on_editorial_script_id": "zeitmaschine-ankunft-12"
+    }
+  },
+  "count_policy": "editorial"
+}
