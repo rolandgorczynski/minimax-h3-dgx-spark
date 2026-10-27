@@ -71,7 +71,7 @@
 </details></section>
 <section id="verwaltung"><h3>Eigener Text / Skript</h3>
 <p>Titel, Text und Kachelanzahl eingeben. Skript erstellen und die Szenen prüfen. Bildstil und Seitenvorlage folgen in Schritt 2.</p>
-<label>Geschichten suchen <input id="story-search" type="search" placeholder="Titel oder Serienname eingeben …" aria-controls="story-list" style="width:100%;box-sizing:border-box"></label><small id="story-search-status" role="status" aria-live="polite"></small>
+<label>Geschichten suchen <input id="story-search" type="search" placeholder="Titel oder Serienname eingeben …" aria-controls="story-list" style="width:100%;box-sizing:border-box"></label><small id="story-search-status" role="status" aria-live="polite"></small><div id="story-search-results" hidden aria-label="Gefundene Geschichten" style="max-height:280px;overflow-y:auto;display:grid;gap:6px;margin:8px 0"></div>
 <div class="row" id="story-selection"><label>Gespeichertes Skript / Geschichte <select id="story-list"><option value="">Neue Geschichte</option></select></label><div class="row" id="resume-story-row"><button id="resume-story" type="button" disabled>Zuletzt bearbeitete Geschichte öffnen</button><small id="resume-story-state" role="status"></small></div></div>
 
 
@@ -293,7 +293,17 @@ function recentStory(){const edited=definitions.find(d=>d.id===localStorage.getI
 function updateRecentStory(){const recent=recentStory();$('resume-story').disabled=!recent;$('resume-story').textContent=recent?.edited?'Zuletzt bearbeitete Geschichte öffnen':'Zuletzt geöffnete Geschichte öffnen';$('resume-story-state').textContent=recent?recent.doc.name:'Noch keine Geschichte vorgemerkt.'}
 function rememberEditedStory(){if(!definitionId)return;localStorage.setItem('comic-last-edited-story-id',definitionId);updateRecentStory()}
 $('resume-story').onclick=async()=>{const recent=recentStory();if(!recent)return;if(dirty&&!confirm('Ungespeicherte Änderungen verwerfen und die gespeicherte Geschichte öffnen?'))return;try{const doc=await(await api('/stories/'+recent.doc.id)).json();fillDefinition(doc);showWorkflowInput('own');message('Gespeicherte Geschichte geöffnet: '+doc.name)}catch(e){error(e)}};
-function filterStories(){const normalize=text=>String(text||'').toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss'),terms=normalize($('story-search').value).trim().split(/\s+/).filter(Boolean);let matches=0;for(const option of $('story-list').options){if(!option.value){option.hidden=false;continue}option.hidden=!terms.every(term=>normalize(option.textContent).includes(term));if(!option.hidden)matches++}$('story-search-status').textContent=terms.length?(matches?`${matches} von ${definitions.length} Geschichten gefunden.`:'Keine passende Geschichte gefunden. Suche ändern oder leeren.'):`${definitions.length} gespeicherte Geschichten.`;}
+function filterStories(){
+ const normalize=text=>String(text||'').toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss'),terms=normalize($('story-search').value).trim().split(/\s+/).filter(Boolean),results=$('story-search-results');let matches=0;
+ results.replaceChildren();results.hidden=!terms.length;
+ for(const option of $('story-list').options){
+  if(!option.value){option.hidden=false;continue}
+  option.hidden=!terms.every(term=>normalize(option.textContent).includes(term));
+  if(option.hidden)continue;matches++;
+  if(terms.length){const button=document.createElement('button');button.type='button';button.textContent=option.textContent;button.style.textAlign='left';button.onclick=async()=>{$('story-list').value=option.value;await $('story-list').onchange()};results.append(button)}
+ }
+ $('story-search-status').textContent=terms.length?(matches?`${matches} von ${definitions.length} Geschichten gefunden. Zum Öffnen auf einen Titel klicken.`:'Keine passende Geschichte gefunden. Suche ändern oder leeren.'):`${definitions.length} gespeicherte Geschichten.`;
+}
 $('story-search').addEventListener('input',filterStories);
 async function refreshStories(){const result=await(await api('/stories')).json();definitions=result.stories;$('story-list').replaceChildren();const empty=document.createElement('option');empty.value='';empty.textContent='Neue Geschichte';$('story-list').append(empty);for(const d of definitions){const o=document.createElement('option');o.value=d.id;o.textContent=d.name+(d.series?.episode?' · '+d.series.name+' / Folge '+d.series.episode:'');$('story-list').append(o)}$('story-list').value=definitionId;filterStories();if(typeof updateWorkflowState==='function')updateWorkflowState();updateRecentStory();}
 async function saveDefinition(){const doc=await(await api('/stories'+(definitionId?'/'+definitionId:''),definitionId?'PATCH':'POST',definitionValue())).json();await refreshStories();fillDefinition(doc);rememberEditedStory();return doc;}
