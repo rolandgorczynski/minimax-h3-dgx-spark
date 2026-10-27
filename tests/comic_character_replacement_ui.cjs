@@ -42,7 +42,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   await page.click('[data-workflow-step="render"]');
   const card=page.locator('#story-characters [data-character-id="'+target+'"]');
   await card.locator('summary').click();await card.getByRole('button',{name:'Bibliothek laden',exact:true}).click();
-  await page.waitForFunction(()=>characterLibraryLoaded);await card.locator('summary').click();
+  await page.waitForFunction(()=>characterLibraryLoaded);assert(await card.evaluate(el=>el.open));
   const select=page.locator('[data-character-replacement="'+target+'"]'),apply=page.locator('[data-character-replacement-apply="'+target+'"]');
   assert(await apply.isDisabled());
   assert(await apply.evaluate(el=>el.compareDocumentPosition(el.closest('fieldset').querySelector('.character-library-picker-grid'))&Node.DOCUMENT_POSITION_FOLLOWING));

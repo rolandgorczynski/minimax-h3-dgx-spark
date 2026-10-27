@@ -3,7 +3,7 @@ let characterLibrary=[],characterLibraryLoaded=false,characterLibraryLoading=fal
 const characterAlignments={'':'Nicht festgelegt',lawful_good:'Rechtschaffen gut',neutral_good:'Neutral gut',chaotic_good:'Chaotisch gut',lawful_neutral:'Rechtschaffen neutral',true_neutral:'Neutral',chaotic_neutral:'Chaotisch neutral',lawful_evil:'Rechtschaffen böse',neutral_evil:'Neutral böse',chaotic_evil:'Chaotisch böse'};
 const characterFields=[['name','Name',100,'input'],['description','Festes Aussehen',2500,'textarea'],['outfit','Kleidung',1000,'textarea'],['backstory','Vorgeschichte',2500,'textarea'],['personality','Persönlichkeit',1200,'textarea'],['motivation','Motivation / Ziele',1200,'textarea']];
 function markCharacterDirty(){dirty=true;$('definition-state').textContent='Ungespeicherte Änderungen an Figuren';}
-async function loadCharacterLibrary(){if(characterLibraryLoading)return;characterLibraryLoading=true;$('character-library-status').textContent='Figurenbibliothek wird geladen …';try{const value=await(await api('/characters')).json();characterLibrary=value.characters;characterLibraryLoaded=true;$('character-library-status').textContent=characterLibrary.length+' wiederverwendbare Figuren';drawCharacterEditor()}catch(e){$('character-library-status').textContent=e.message}finally{characterLibraryLoading=false}}
+async function loadCharacterLibrary(){if(characterLibraryLoading)return;characterLibraryLoading=true;$('character-library-status').textContent='Figurenbibliothek wird geladen …';try{const value=await(await api('/characters')).json();characterLibrary=value.characters;characterLibraryLoaded=true;$('character-library-status').textContent=characterLibrary.length+' wiederverwendbare Figuren';drawCharacterEditor({preserveOpen:true})}catch(e){$('character-library-status').textContent=e.message}finally{characterLibraryLoading=false}}
 async function characterLibrarySnapshot(character){
  const snapshot=structuredClone(character);
  if(snapshot.references?.length&&!snapshot.inline_references?.length){
@@ -142,9 +142,11 @@ function characterPicture(c,scope){
  if(scope==='story'){const output=jobs.find(j=>j.story_id===definitionId&&j.artifacts?.some(a=>a.name==='characters/'+c.id+'.png'||a.name==='characters/'+c.id+'-0.png'));const item=output?.artifacts.find(a=>a.name==='characters/'+c.id+'.png'||a.name==='characters/'+c.id+'-0.png');if(item)return {path:item.url}}
  return null;
 }
-function drawCharacterEditor(){
+function drawCharacterEditor({preserveOpen=false}={}){
+ const openIds=preserveOpen?new Set(Array.from($('story-characters').children).filter(card=>card.open).map(card=>card.dataset.characterId)):new Set();
  const ticket=++characterRenderTicket;characterPreviewObserver?.disconnect();for(const url of characterImageUrls)URL.revokeObjectURL(url);characterImageUrls=[];
  const cast=editorPayload.characters||[];$('story-characters').replaceChildren(...cast.map(c=>characterCard(c,'story',ticket)));
+ for(const card of $('story-characters').children)if(openIds.has(card.dataset.characterId))card.open=true;
  $('story-character-empty').hidden=cast.length>0;
  $('library-characters').replaceChildren(...characterLibrary.map(c=>characterCard(c,'library',ticket)));
  refreshSpeechCastOptions();
