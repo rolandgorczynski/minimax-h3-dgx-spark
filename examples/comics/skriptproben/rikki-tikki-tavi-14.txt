@@ -1,0 +1,190 @@
+TITEL: Rikki-Tikki-Tavi – Der Wächter des Gartens
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Rikki-Tikki-Tavi der Mungo
+Aussehen: Kleiner schlanker Mungo mit graubraunem Fell, heller Kehle, spitzer Schnauze und buschiger Schwanzspitze. Genau vier Pfoten.
+Kleidung: Fell ohne Kleidung, keine Waffen.
+Persönlichkeit und Vorgeschichte: Von einer Familie gerettet. Lernt die Gefahren des Gartens kennen und nimmt die Hilfe der Vögel an.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Nag die dunkle Kobra
+Aussehen: Große dunkle Kobra mit heller brillenartiger Zeichnung auf der Rückseite des aufgestellten Nackens. Keine Gliedmaßen.
+Kleidung: Dunkle Schuppen, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Plant mit Nagaina einen Angriff auf die Familie. Stirbt nach dem nächtlichen Kampf und kehrt nicht lebend zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Nagaina am Gartenbau
+Aussehen: Große braune Kobra mit schmalen hellen Querzeichnungen und dunklen Augen. Keine Gliedmaßen.
+Kleidung: Braune Schuppen, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Bedroht die Familie, bewacht ihre Eier und wird durch das letzte Ei vom Kind abgelenkt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Vogelhelferin aus Darzees Nest
+Aussehen: Kleiner brauner Gartenvogel mit heller Brust und schmalem Schnabel. Zwei Flügel und zwei Füße.
+Kleidung: Braunhelles Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Kennt das Versteck der Eier und hilft dem Mungo. Bleibt ein Vogel, kein menschlicher Bote.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Teddy aus Rikkis Haus
+Aussehen: Etwa siebenjähriger Junge mit kurzem braunem Haar und rundem Gesicht.
+Kleidung: Helles Hemd, beige kurze Hose und braune Schuhe.
+Persönlichkeit und Vorgeschichte: Familienkind, dessen Nähe den Garten zum Zuhause des Mungos macht. Wird von Nagaina bedroht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Teddys Vater mit dem Jagdgewehr
+Aussehen: Erwachsener Mann mit kurzem dunkelblondem Haar und kleinem Bart.
+Kleidung: Weißes Hemd, braune lange Hose und feste Schuhe. Nachts dasselbe Hemd mit hochgekrempelten Ärmeln.
+Persönlichkeit und Vorgeschichte: Rettet den Mungo mit seiner Familie. Beendet den nächtlichen Kampf mit seinem einzelnen Gewehr und schützt Teddy.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Angespült
+Ort und Zeit: Veranda nach einer Überschwemmung
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Teddy aus Rikkis Haus, Teddys Vater mit dem Jagdgewehr
+Bildbeschreibung: Nach der Flut liegt ein einzelner durchnässter Mungo auf einem Tuch. Teddy und sein Vater beugen sich vorsichtig zu ihm. Kein zweites Tier im Wasser und kein Gewehr in der Hand. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: auf einem nassen Tuch; Körperhaltung: liegend; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Nass und erschöpft, keine sichtbaren Wunden. Teddy aus Rikkis Haus: Ort: neben dem Tuch; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, beige kurze Hose und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Teddys Vater mit dem Jagdgewehr: Ort: bei beiden; Körperhaltung: kniend; Mitgeführte Gegenstände: eine Hand am Tuchrand; Kleidung: Weißes Hemd, braune lange Hose und feste Schuhe. Nachts dasselbe Hemd mit hochgekrempelten Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Teddy aus Rikkis Haus
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Er lebt noch.“
+Kontinuität / Änderung: Gerettetes Wildtier, kein Haustier mit Halsband. Erschöpfung vor späterer Erholung.
+
+KACHEL 2: Ein Platz am Tisch
+Ort und Zeit: Veranda am folgenden Morgen
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Teddy aus Rikkis Haus
+Bildbeschreibung: Trocken und erholt beschnuppert Rikki eine kleine Futterportion neben dem Kind. Teddy hält die Hand ruhig, ohne den Mungo festzuhalten. Der Garten beginnt direkt hinter der Veranda. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: neben Teddys Stuhl; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Teddy aus Rikkis Haus: Ort: auf seinem Stuhl; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Hand neben kleiner Futterportion; Kleidung: Helles Hemd, beige kurze Hose und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie hatten ihm Schutz gegeben. Nun gehörte dieser Ort zu seinem Leben.
+Dialoge: keine
+Kontinuität / Änderung: Fell trocken, Tier wieder beweglich. Keine zuvor nicht gezeigte Waffe oder Ausrüstung.
+
+KACHEL 3: Die Herren des Gartens
+Ort und Zeit: Dichtes Gebüsch am Gartenweg
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Nag die dunkle Kobra, Nagaina am Gartenbau
+Bildbeschreibung: Nag richtet seine dunkel gezeichnete Haube frontal vor dem Mungo auf. Seitlich im Gras verrät eine braune Schlinge Nagainas Vorbereitung. Zwei klar unterschiedliche Schlangen, keine Vervielfachung desselben Körpers. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: auf dem schmalen Weg; Körperhaltung: aufgerichtet auf Hinterpfoten; Mitgeführte Gegenstände: freie Vorderpfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nag die dunkle Kobra: Ort: vor Rikki; Körperhaltung: Vorderkörper mit Nackenhaube aufgerichtet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkle Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt. Nagaina am Gartenbau: Ort: verdeckt seitlich hinter Rikki; Körperhaltung: flach lauernd; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braune Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Nag die dunkle Kobra
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dieser Garten braucht dich nicht.“
+Kontinuität / Änderung: Nag und Nagaina getrennte Identitäten. Nag lenkt ab, Nagaina nähert sich seitlich.
+
+KACHEL 4: Nicht nur nach vorn schauen
+Ort und Zeit: Derselbe Gartenweg
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Nagaina am Gartenbau, Vogelhelferin aus Darzees Nest
+Bildbeschreibung: Rikki springt seitlich aus Nagainas Angriffslinie, gewarnt vom Vogel auf dem Zweig. Nag befindet sich außerhalb des engen Bildausschnitts. Keine getroffene Haut oder blutige Fangzähne. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: über dem Gras neben Nagainas Kopf; Körperhaltung: seitlich springend; Mitgeführte Gegenstände: freie Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nagaina am Gartenbau: Ort: unter Rikkis Sprungbahn; Körperhaltung: Kopf nach fehlgegangenem Vorstoß ausgestreckt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braune Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt. Vogelhelferin aus Darzees Nest: Ort: auf einem niedrigen Zweig; Körperhaltung: auf beiden Füßen sitzend; Mitgeführte Gegenstände: leerer Schnabel; Kleidung: Braunhelles Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Vogelhelferin aus Darzees Nest
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hinter dir!“
+Kontinuität / Änderung: Erster Angriff abgewehrt, beide Kobras noch lebend. Rikki achtet auf Warnungen anderer.
+
+KACHEL 5: Der belauschte Plan
+Ort und Zeit: Außenwand des Hauses in der Nacht
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Nag die dunkle Kobra, Nagaina am Gartenbau
+Bildbeschreibung: In der Nacht belauscht der Mungo die beiden Kobras an der Hauswand. Nag befindet sich unmittelbar vor der Öffnung ins Bad, Nagaina bleibt draußen. Die Menschen sind noch nicht im Bild. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: im Schatten hinter einem Topf; Körperhaltung: geduckt auf vier Pfoten; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nag die dunkle Kobra: Ort: vor einer offenen Abflussöffnung; Körperhaltung: flach vorwärts gestreckt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkle Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt. Nagaina am Gartenbau: Ort: neben der Öffnung; Körperhaltung: Kopf leicht angehoben; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braune Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Nagaina am Gartenbau
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn die Menschen fort sind, ist auch der Mungo fort.“
+Kontinuität / Änderung: Plan gegen die Familie wird hörbar. Kein bereits abgeschlossener Angriff auf Teddy.
+
+KACHEL 6: Im Badezimmer
+Ort und Zeit: Dunkles Bad neben einem großen Wasserkrug
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Nag die dunkle Kobra
+Bildbeschreibung: Nag ist ins Haus eingedrungen; Rikki ist ihm gefolgt. Der Mungo hält ihn hinter dem Kopf fest, während der schwere Krug die enge räumliche Lage zeigt. Kontaktstelle im Schatten, keine Wunde und kein Blut. Keine Schlange außerhalb und zugleich im Bad. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: hinter Nags Kopf; Körperhaltung: am Schlangennacken festhaltend; Mitgeführte Gegenstände: Vorderpfoten am dunklen Schuppenkörper; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nag die dunkle Kobra: Ort: am Fuß des Wasserkrugs; Körperhaltung: Körper in einer angespannten Windung; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkle Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er konnte Nag nicht loslassen, ohne die Schlafenden hinter sich preiszugeben.
+Dialoge: keine
+Kontinuität / Änderung: Nag noch lebend im Kampf. Nur der Mensch wird später das Gewehr führen.
+
+KACHEL 7: Nach dem Schuss
+Ort und Zeit: Dasselbe Badezimmer
+Sichtbare Figuren: Teddys Vater mit dem Jagdgewehr, Rikki-Tikki-Tavi der Mungo
+Bildbeschreibung: Nach dem Schuss steht der Vater mit gesenktem Gewehr in der Tür. Rikki steht lebend neben dem Krug. Nags regloser Körper ist vollständig durch ein Tuch und den Krug verdeckt; keine Verletzungsdetails. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: auf den Fliesen neben dem Krug; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Erschöpft, keine sichtbaren Wunden. Teddys Vater mit dem Jagdgewehr: Ort: an der Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einzelnes Gewehr mit gesenkter Mündung; Kleidung: Weißes Hemd, braune lange Hose und feste Schuhe. Nachts dasselbe Hemd mit hochgekrempelten Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Vater beendete den Kampf. Nag war tot. Nagaina lebte noch.
+Dialoge: keine
+Kontinuität / Änderung: Nag endgültig tot und nie wieder angreifend. Ein Gewehr beim Vater, keines beim Mungo.
+
+KACHEL 8: Das Wissen der Vögel
+Ort und Zeit: Verstecktes Beet am nächsten Morgen
+Sichtbare Figuren: Vogelhelferin aus Darzees Nest, Rikki-Tikki-Tavi der Mungo
+Bildbeschreibung: Am nächsten Morgen zeigt die Vogelhelferin dem Mungo ein verborgenes Nest voller intakter weißlicher Schlangeneier. Rikki hat noch keines aufgenommen. Die Kobramutter ist außerhalb des Bildes. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: am Rand des verborgenen Geleges; Körperhaltung: geduckt auf vier Pfoten; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vogelhelferin aus Darzees Nest: Ort: auf einem niedrigen Zweig über dem Nest; Körperhaltung: auf beiden Füßen sitzend; Mitgeführte Gegenstände: leerer Schnabel; Kleidung: Braunhelles Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Vogelhelferin aus Darzees Nest
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier hat sie ihre Eier verborgen.“
+Kontinuität / Änderung: Eier werden vor dem Ablenkungsmanöver entdeckt. Nag bleibt tot außerhalb des Bildes.
+
+KACHEL 9: Das letzte Ei
+Ort und Zeit: Dasselbe verborgene Beet
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Vogelhelferin aus Darzees Nest
+Bildbeschreibung: Nach dem unblutig ausgesparten Zerstören der übrigen Eier liegen nur leere Schalenreste in tiefem Schatten. Rikki hält genau das letzte intakte Ei im Maul. Keine Embryonen und keine Verletzungen. Der Vogel blickt alarmiert zum Haus. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: am leeren Nest; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: genau ein unbeschädigtes Ei im Maul; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Vogelhelferin aus Darzees Nest: Ort: auf demselben Zweig; Körperhaltung: auf beiden Füßen sitzend; Mitgeführte Gegenstände: leerer Schnabel; Kleidung: Braunhelles Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Vogelhelferin aus Darzees Nest
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie ist bei dem Kind!“
+Kontinuität / Änderung: Nur ein unbeschädigtes Ei verbleibt. Schalen werden nicht später wieder zu intakten Eiern.
+
+KACHEL 10: Die Veranda
+Ort und Zeit: Frühstücksveranda
+Sichtbare Figuren: Nagaina am Gartenbau, Teddy aus Rikkis Haus, Teddys Vater mit dem Jagdgewehr, Rikki-Tikki-Tavi der Mungo
+Bildbeschreibung: Nagaina bedroht den still sitzenden Teddy. Rikki erreicht den Verandarand mit demselben letzten Ei. Der Vater steht nahe genug hinter dem Kind, kann es aber noch nicht ohne Risiko bewegen. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: am Rand der Veranda; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: das letzte intakte Ei im Maul; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nagaina am Gartenbau: Ort: vor Teddys Stuhl; Körperhaltung: drohend aufgerichteter Vorderkörper; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braune Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt. Teddy aus Rikkis Haus: Ort: auf dem Stuhl; Körperhaltung: starr sitzend; Mitgeführte Gegenstände: Hände auf der Sitzfläche; Kleidung: Helles Hemd, beige kurze Hose und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Teddys Vater mit dem Jagdgewehr: Ort: hinter Teddy; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Weißes Hemd, braune lange Hose und feste Schuhe. Nachts dasselbe Hemd mit hochgekrempelten Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Am Rand der Veranda hielt Rikki ihr das letzte Ei entgegen.
+Dialoge: keine
+Kontinuität / Änderung: Vater hat sein Gewehr nach dem Nachtkampf weggeräumt; hier leere Hände. Ei noch im Maul, Rikki spricht nicht.
+
+KACHEL 11: Der abgewandte Blick
+Ort und Zeit: Veranda an der Gartentreppe
+Sichtbare Figuren: Nagaina am Gartenbau, Rikki-Tikki-Tavi der Mungo, Teddys Vater mit dem Jagdgewehr, Teddy aus Rikkis Haus
+Bildbeschreibung: Rikki hat das Ei auf der Stufe abgelegt. Als Nagaina ihm folgt und vom Stuhl wegschaut, hat der Vater Teddy hinter den Tisch gezogen. Ein klarer Zeitpunkt nach dieser Rettungsbewegung, nicht zugleich Teddy auf dem Stuhl. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: auf der untersten Stufe; Körperhaltung: geduckt; Mitgeführte Gegenstände: eine Vorderpfote direkt neben dem abgelegten letzten Ei; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nagaina am Gartenbau: Ort: zwischen Stuhl und Treppe; Körperhaltung: Kopf und Vorderkörper zu Rikki gewendet; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braune Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt. Teddy aus Rikkis Haus: Ort: in den Armen des Vaters; Körperhaltung: gehalten; Mitgeführte Gegenstände: Hände am Hemd des Vaters; Kleidung: Helles Hemd, beige kurze Hose und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Teddys Vater mit dem Jagdgewehr: Ort: hinter dem Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: Arme um Teddy; Kleidung: Weißes Hemd, braune lange Hose und feste Schuhe. Nachts dasselbe Hemd mit hochgekrempelten Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Rikki-Tikki-Tavi der Mungo
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dein letztes Ei liegt hier.“
+Kontinuität / Änderung: Teddy jetzt beim Vater in Sicherheit. Ei genau einmal auf der Stufe; nicht mehr im Maul des sprechenden Mungos.
+
+KACHEL 12: Der Weg in den Bau
+Ort und Zeit: Garten am Eingang des Kobralochs
+Sichtbare Figuren: Nagaina am Gartenbau, Rikki-Tikki-Tavi der Mungo
+Bildbeschreibung: Nachdem Nagaina das Ei gegriffen hat, flieht sie mit ihm ins Erdloch. Rikki verfolgt sie. Der Kopf der Kobra samt Ei ist schon im Schatten, der braun gezeichnete Körper noch am Eingang. Kein zweites Ei auf dem Gartenweg. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: unmittelbar hinter ihr; Körperhaltung: laufend auf vier Pfoten; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Nagaina am Gartenbau: Ort: halb im dunklen Baueingang; Körperhaltung: in die Öffnung gleitend; Mitgeführte Gegenstände: letztes Ei im Maul; Kleidung: Braune Schuppen, keine Kleidung.; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Ei ist zur Kobra übergegangen. Beide gehen in denselben Bau; der spätere Kampf bleibt unsichtbar.
+
+KACHEL 13: Das Warten
+Ort und Zeit: Garten vor dem Kobraloch
+Sichtbare Figuren: Vogelhelferin aus Darzees Nest
+Bildbeschreibung: Der Eingang ist leer und dunkel. Weder Mungo noch Kobra sind außerhalb zu sehen. Der Vogel neigt sich zur Öffnung. Keine Darstellung eines Kampfes unter der Erde und keine vorweggenommene Siegespose. Verbindliche Zustände: Vogelhelferin aus Darzees Nest: Ort: auf einem Zweig über der Öffnung; Körperhaltung: auf beiden Füßen sitzend; Mitgeführte Gegenstände: leerer Schnabel; Kleidung: Braunhelles Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Lange kam kein Laut, auf den sie sich verlassen konnten.
+Dialoge: keine
+Kontinuität / Änderung: Rikkis Ausgang hier noch ungewiss. Kein Nachruf als bestätigter Tod und keine doppelte Tiergestalt.
+
+KACHEL 14: Zurück im Garten
+Ort und Zeit: Garten vor dem Bau am selben Tag
+Sichtbare Figuren: Rikki-Tikki-Tavi der Mungo, Vogelhelferin aus Darzees Nest, Teddy aus Rikkis Haus, Teddys Vater mit dem Jagdgewehr
+Bildbeschreibung: Rikki ist allein lebend aus dem Bau zurückgekehrt. Staub hängt in seinem Fell. Der Vogel beugt sich zu ihm; Vater und Teddy stehen sicher am Haus. Keine lebende Nagaina und kein Ei folgen ihm. Verbindliche Zustände: Rikki-Tikki-Tavi der Mungo: Ort: vor dem Baueingang; Körperhaltung: auf vier Pfoten stehend; Mitgeführte Gegenstände: leere Pfoten; Kleidung: Fell ohne Kleidung, keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Erschöpft und staubig, keine sichtbaren Wunden. Vogelhelferin aus Darzees Nest: Ort: auf dem niedrigen Zweig; Körperhaltung: auf beiden Füßen sitzend; Mitgeführte Gegenstände: leerer Schnabel; Kleidung: Braunhelles Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Teddy aus Rikkis Haus: Ort: bei seinem Vater am fernen Verandarand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, beige kurze Hose und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Teddys Vater mit dem Jagdgewehr: Ort: neben Teddy; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand an Teddys Schulter; Kleidung: Weißes Hemd, braune lange Hose und feste Schuhe. Nachts dasselbe Hemd mit hochgekrempelten Ärmeln.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Nagaina kam nicht zurück. Rikki blieb bei denen, die ihn aufgenommen hatten.
+Dialoge: keine
+Kontinuität / Änderung: Kampf beendet, beide Kobras tot, Garten wieder sicher. Keine detaillierten Tierverletzungen.

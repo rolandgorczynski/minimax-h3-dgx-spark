@@ -188,3 +188,33 @@ def render(store,job):
     store.write(job,'scenes.json',{'scenes':value['scenes']})
     store.write(job,'lettering-report.json',{'image_generation':False,'model_calls':0,'original_art_preserved':True,'visual_review':'pending'})
     return {'status':'needs_review','artifacts':export(store,job),'warnings':store.get(job).get('equipment_warnings',[])+['Nur Beschriftung geändert. Zeichnungen unverändert übernommen. Ergebnis vor Veröffentlichung prüfen.']}
+
+
+def editor_draft(store,job,value=None):
+    """Bearbeitungsstand ohne Neuzeichnen oder Änderung der Originalausgabe sichern."""
+    original,version=source(store,job)
+    path=store.directory(job['id'])/'editing-draft.json'
+    if value is None:
+        draft=json.loads(path.read_text()) if path.exists() else None
+        return {'draft':draft if draft and draft.get('version')==version else None}
+    if not isinstance(value,dict) or set(value)-{'version','panels','corrections','index','plans'} or value.get('version')!=version:
+        raise Conflict('Ausgabe wurde geändert. Bearbeitung neu öffnen.')
+    patches=value.get('panels');corrections=value.get('corrections');index=value.get('index')
+    count=len(original['scenes'])
+    if not isinstance(patches,list) or len(patches)!=count:raise ValueError('Alle Kacheln mit unveränderter Anzahl senden.')
+    if type(index) is not int or not 0<=index<count:raise ValueError('Vorhandene Kachel auswählen.')
+    if not isinstance(corrections,list) or len(corrections)!=count or any(not isinstance(t,str) or len(t)>2000 for t in corrections):
+        raise ValueError('Je Kachel einen Korrekturtext mit maximal 2000 Zeichen senden.')
+    plans=value.get('plans',[None]*count)
+    if not isinstance(plans,list) or len(plans)!=count:raise ValueError('Je Kachel eine Bildanweisung senden.')
+    from panel_correction import validate_proposal
+    from engine import Engine
+    checked=[]
+    for i,plan in enumerate(plans):
+        if plan is None:checked.append(None);continue
+        if not isinstance(plan,dict) or set(plan)-{'story','character_states','wish'} or not isinstance(plan.get('wish',''),str) or len(plan.get('wish',''))>2000:raise ValueError('Ungültige Bildanweisung.')
+        checked.append({**validate_proposal({k:v for k,v in plan.items() if k!='wish'},original['scenes'][i],original['characters'],Engine),'wish':plan.get('wish','')})
+    draft={'version':version,'panels':[panel(p,original['characters']) for p in patches],'corrections':corrections,'index':index,'plans':checked}
+
+    store.write(job['id'],'editing-draft.json',draft)
+    return {'draft':draft}

@@ -62,7 +62,7 @@ class Service:
             'backend':'comfyui','text_model':self.engine.text_model,'vision_model':self.engine.vision_model},'workflow':'04_Comic_Automat_9B'}
 
     def cleanup(self,job):
-        if (self.store.get(job) or {}).get('book_mode') or (self.store.get(job) or {}).get('lettering_mode') or (self.store.get(job) or {}).get('narrative_mode'):
+        if (self.store.get(job) or {}).get('book_mode') or (self.store.get(job) or {}).get('lettering_mode') or (self.store.get(job) or {}).get('narrative_mode') or (self.store.get(job) or {}).get('correction_plan_mode'):
             self.store.update(job,cleanup_pending=False);return
         try:self.client.cleanup(job)
         except Exception as exc:
@@ -97,6 +97,9 @@ class Service:
                 elif job.get('book_mode'):
                     from books import run
                     result=run(self.store,ident)
+                elif job.get('correction_plan_mode'):
+                    from panel_correction import run_plan
+                    result=run_plan(self.engine,ident)
                 elif job.get('panel_correction_mode'):
                     from panel_correction import run
                     result=run(self.engine,ident)
@@ -212,7 +215,7 @@ class Handler(BaseHTTPRequestHandler):
         if path=='/ready':
             try:return self.reply(200,self.service.capabilities())
             except Exception as exc:return self.reply(503,{'ready':False,'error':str(exc)[:2000]})
-        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list(public_only=True) if not job.get('character_mode') and not job.get('book_mode') and not job.get('source_mode') and not job.get('narrative_mode')]})
+        if path=='/jobs':return self.reply(200,{'jobs':[self.public(job) for job in self.service.store.list(public_only=True) if not job.get('correction_plan_mode') and not job.get('character_mode') and not job.get('book_mode') and not job.get('source_mode') and not job.get('narrative_mode')]})
         parts=path.strip('/').split('/')
         if len(parts)==3 and parts[:2]==['characters','regenerations'] and ID.fullmatch(parts[2]):
             job=self.service.store.get(parts[2])
@@ -249,6 +252,12 @@ class Handler(BaseHTTPRequestHandler):
                 try:
                     import books
                     return self.reply(200,books.settings(self.service.store,job))
+                except Conflict as exc:return self.reply(409,{'error':str(exc)})
+                except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
+            if len(parts)==4 and parts[2:]==['lettering','draft']:
+                try:
+                    import lettering
+                    return self.reply(200,lettering.editor_draft(self.service.store,job))
                 except Conflict as exc:return self.reply(409,{'error':str(exc)})
                 except (ValueError,KeyError,OSError) as exc:return self.reply(400,{'error':str(exc)})
             if len(parts)==3 and parts[2]=='lettering':
@@ -350,17 +359,17 @@ class Handler(BaseHTTPRequestHandler):
             except (ValueError,TypeError,OSError) as exc:return self.reply(400,{'error':str(exc)})
         if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='book-export':
             return self.book_action(parts[1],True)
-        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2]=='correct-panel':
+        if len(parts)==3 and parts[0]=='jobs' and ID.fullmatch(parts[1]) and parts[2] in ('correct-panel','correction-plan'):
             if not self.authorized():return
             try:
                 size=int(self.headers.get('Content-Length','0'))
-                if not 0<size<=16384:raise ValueError('Korrekturanfrage maximal 16 KB.')
+                if not 0<size<=4_194_304:raise ValueError('Korrekturanfrage maximal 4 MB.')
                 import panel_correction
                 value=json.loads(self.rfile.read(size))
                 with self.service.stories.lock:
                     parent=self.service.store.get(parts[1])
                     if not parent:raise KeyError(parts[1])
-                    job=panel_correction.enqueue(self.service.store,parent,value)
+                    job=(panel_correction.enqueue_plan if parts[2]=='correction-plan' else panel_correction.enqueue)(self.service.store,parent,value)
                 return self.reply(202,self.public(job))
             except Conflict as exc:return self.reply(409,{'error':str(exc)})
             except KeyError:return self.reply(404,{'error':'Ausgabe nicht gefunden.'})
@@ -370,7 +379,7 @@ class Handler(BaseHTTPRequestHandler):
             if not self.authorized():return
             try:
                 size=int(self.headers.get('Content-Length','0'))
-                if not 0<size<=65536:raise ValueError('Beschriftung maximal 64 KB.')
+                if not 0<size<=4_194_304:raise ValueError('Beschriftung maximal 4 MB.')
                 value=json.loads(self.rfile.read(size))
                 if not isinstance(value,dict):raise ValueError('JSON-Objekt erforderlich.')
                 job=self.service.store.get(parts[1])
@@ -379,6 +388,9 @@ class Handler(BaseHTTPRequestHandler):
                 if len(parts)==3:
                     with self.service.stories.lock:result=lettering.enqueue(self.service.store,job,value)
                     return self.reply(202,self.public(result))
+                if parts[3]=='draft':
+                    with self.service.stories.lock:result=lettering.editor_draft(self.service.store,job,value)
+                    return self.reply(200,result)
                 if parts[3]=='preview':return self.reply(200,lettering.preview(self.service.store,job,value))
                 if parts[3]=='automatic':return self.reply(200,lettering.automatic(self.service.store,job,value))
                 return self.reply(404,{'error':'Endpunkt nicht gefunden.'})

@@ -1,0 +1,199 @@
+TITEL: Ida von der Toggenburg
+AUTOR:
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Historische Sage als Sage, keine dokumentarische Rekonstruktion. Eigenständige klare Bildgestaltung, räumlich genaue Gruppen und zurückhaltende Gewalt. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ida von der Toggenburg in der Sage
+Aussehen: Junge erwachsene Frau mit langem braunem Haar und ovalem Gesicht.
+Kleidung: Zunächst dunkelblaues langes Kleid mit hellem Gürtel. Im Wald dasselbe Kleid mit abgenutztem Saum und grauem Tuch. Später schlichtes braunes Klostergewand mit hellem Schleier.
+Persönlichkeit und Vorgeschichte: Wird ohne Prüfung beschuldigt und überlebt den Sturz sagenhaft. Entscheidet selbst, nicht zum gewalttätigen Gemahl zurückzukehren.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Graf von Toggenburg in Idas Sage
+Aussehen: Erwachsener Mann mit schwarzem kurzem Bart, dunklem Haar und hartem Gesicht.
+Kleidung: Dunkelroter langer Rock und schwarzer Gürtel, später Reiseharnisch mit dunkelrotem Mantel, zuletzt schlichte graubraune Einsiedlerkutte. Keine sichtbare Klinge.
+Persönlichkeit und Vorgeschichte: Tötet einen Unschuldigen und stürzt Ida hinab. Seine spätere Reue gibt ihm keinen Anspruch auf ihre Rückkehr.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Rabe mit Idas Ring
+Aussehen: Großer schwarzer Rabe mit blauschwarzem Gefieder und kräftigem Schnabel. Genau zwei Flügel und zwei Füße.
+Kleidung: Schwarzes Gefieder, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Trägt den glänzenden Ring vom Fenster ins Nest. Das missverstandene Zeichen stammt von ihm, nicht aus einer Liebesbeziehung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Unschuldiger Ringfinder der Toggenburg
+Aussehen: Junger erwachsener Diener mit kurzem hellbraunem Haar und bartlosem Gesicht.
+Kleidung: Braune Leinentunika, graue Hose und grobe Schuhe.
+Persönlichkeit und Vorgeschichte: Findet den Ring im Rabennest, ohne die Besitzerin zu kennen. Wird ohne Verhör getötet und erscheint später nicht wieder lebend.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Diener mit der Nachricht vom Rabennest
+Aussehen: Älterer Mann mit grauem kurzem Bart und schmalem Gesicht.
+Kleidung: Dunkelgrüne Leinentunika, braune Hose und einfache Schuhe.
+Persönlichkeit und Vorgeschichte: Berichtet dem Grafen nach der Tat vom Fund im Rabennest. Nicht mit dem getöteten jungen Diener verwechseln.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Jäger bei Idas Entdeckung im Wald
+Aussehen: Erwachsener Mann mit rotem kurzem Bart und breiten Schultern.
+Kleidung: Braune Jagdjacke, graue Hose und dunkle Stiefel. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Verirrt sich in die Wildnis und findet die Einsiedlerin. Meldet dies dem Grafen, ist nicht der tote Ringfinder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Ring im Licht
+Ort und Zeit: Offenes Fenster in der Toggenburg
+Sichtbare Figuren: Ida von der Toggenburg in der Sage
+Bildbeschreibung: Ida hat ihren einen goldenen Brautring auf die äußere Fensterbank gelegt. Licht fällt auf ihn, ihre Finger sind jetzt ohne Ring. Ein schwarzer Rabe ist als ferner Vogel im Anflug, noch nicht als zweite individuelle Figur im Raum. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: neben dem offenen Fenster; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Zunächst dunkelblaues langes Kleid mit hellem Gürtel. Im Wald dasselbe Kleid mit abgenutztem Saum und grauem Tuch. Später schlichtes braunes Klostergewand mit hellem Schleier.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Toggenburgsage beginnt mit einem verlorenen Ring. Was er später beweisen soll, hat nie stattgefunden.
+Dialoge: keine
+Kontinuität / Änderung: Genau ein goldener Ring, auf der Fensterbank. Kein Ring zugleich an Idas Hand.
+
+KACHEL 2: Der wirkliche Weg
+Ort und Zeit: Luft zwischen Burgfenster und Wald
+Sichtbare Figuren: Rabe mit Idas Ring
+Bildbeschreibung: Der Rabe trägt den Ring im Schnabel vom offenen Burgfenster zu seinem Nest im Wald. Das Fenster bleibt leer, kein zweiter Ring blinkt darin. Keine menschliche Übergabe an einen heimlichen Liebhaber. Verbindliche Zustände: Rabe mit Idas Ring: Ort: über dem Waldrand; Körperhaltung: mit zwei Flügeln fliegend; Mitgeführte Gegenstände: der eine goldene Ring im Schnabel; Kleidung: Schwarzes Gefieder, keine Kleidung.; Fortbewegung: fliegend; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialoge: keine
+Kontinuität / Änderung: Ring vom Fenster genommen. Seine Herkunft bleibt für die Lesenden sichtbar, für den Grafen noch unbekannt.
+
+KACHEL 3: Die Angst vor dem Zorn
+Ort und Zeit: Idas Kammer
+Sichtbare Figuren: Ida von der Toggenburg in der Sage
+Bildbeschreibung: Ida steht vor der leeren Bank und blickt besorgt zur geschlossenen Zimmertür. Sie hat den Verlust bemerkt. Der Graf ist außerhalb des Raums; keine ausgesprochene Lüge oder inszenierte Untreue. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: vor dem leeren Fensterbrett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände, beide Ringfinger frei; Kleidung: Zunächst dunkelblaues langes Kleid mit hellem Gürtel. Im Wald dasselbe Kleid mit abgenutztem Saum und grauem Tuch. Später schlichtes braunes Klostergewand mit hellem Schleier.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sie vermisst den Ring. Aus Angst vor dem Zorn ihres Gemahls schweigt sie.
+Dialoge: keine
+Kontinuität / Änderung: Ring weiter im Rabennest, nicht zurück am Finger. Ihr Schweigen ist Angst, kein Beleg für eine Beziehung.
+
+KACHEL 4: Ein Fund ohne Wissen
+Ort und Zeit: Baum mit Rabennest
+Sichtbare Figuren: Unschuldiger Ringfinder der Toggenburg, Rabe mit Idas Ring
+Bildbeschreibung: Der junge Diener hat den Ring im Nest entdeckt und hält ihn noch zwischen den Fingern. Er kennt seine Besitzerin nicht. Der Rabe sitzt weit abseits, das Nest enthält keinen zweiten Ring. Verbindliche Zustände: Rabe mit Idas Ring: Ort: auf einem fernen Zweig; Körperhaltung: auf zwei Füßen sitzend; Mitgeführte Gegenstände: leerer Schnabel; Kleidung: Schwarzes Gefieder, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unschuldiger Ringfinder der Toggenburg: Ort: auf einer Astgabel am Nest; Körperhaltung: sitzend auf dem Ast; Mitgeführte Gegenstände: Ring zwischen den Fingern; Kleidung: Braune Leinentunika, graue Hose und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Ein Diener findet den Ring, ohne zu wissen, wem er gehört.
+Dialoge: keine
+Kontinuität / Änderung: Fund vor dem späteren Tragen. Kein zweiter Mensch muss als heimlicher Schenker erfunden werden.
+
+KACHEL 5: Ein Urteil aus einem Zeichen
+Ort und Zeit: Burghof
+Sichtbare Figuren: Unschuldiger Ringfinder der Toggenburg, Graf von Toggenburg in Idas Sage
+Bildbeschreibung: Nach der Rückkehr trägt der Diener den gefundenen Ring an der rechten Hand. Der Graf erkennt ihn und starrt darauf, ohne den Mann nach dem Fund zu fragen. Keine Waffe wird gezeigt. Verbindliche Zustände: Graf von Toggenburg in Idas Sage: Ort: unmittelbar vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter langer Rock und schwarzer Gürtel, später Reiseharnisch mit dunkelrotem Mantel, zuletzt schlichte graubraune Einsiedlerkutte. Keine sichtbare Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Unschuldiger Ringfinder der Toggenburg: Ort: vor dem Grafen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; der eine Ring an der rechten Hand; Kleidung: Braune Leinentunika, graue Hose und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Graf von Toggenburg in Idas Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Diesen Ring habe ich meiner Frau gegeben.“
+Kontinuität / Änderung: Ring jetzt am Finger des Finders. Erkenntnis des Gegenstands ist kein Wissen über seinen Weg.
+
+KACHEL 6: Ohne Verhör
+Ort und Zeit: Geschlossener Burggang vor dem Balkon
+Sichtbare Figuren: keine
+Bildbeschreibung: Ein leerer geschlossener Gang, am Ende die offene Balkontür. Keine Menschen im Vollzug einer Gewalttat, kein Pferd mit einem Körper daran und keine Verletzungsdetails.
+Erzählertext: Ohne Verhör lässt der Graf den Diener töten und stößt Ida vom Balkon. Beide waren unschuldig.
+Dialoge: keine
+Kontinuität / Änderung: Diener endgültig tot außerhalb des Bildes. Ida vom Balkon gestoßen, Ausgang ihres Sturzes erst im nächsten Bild.
+
+KACHEL 7: Die überlebende Frau
+Ort und Zeit: Bewaldeter Felsgrund unterhalb der Burg
+Sichtbare Figuren: Ida von der Toggenburg in der Sage
+Bildbeschreibung: Ida sitzt nach dem Sturz auf weichem Moos zwischen schützenden Zweigen. Eine sanfte Lichtkante markiert die sagenhafte Rettung, ohne einen zweiten Körper oder sichtbare tragende Engel zu erfinden. Die Burg ist weit oben. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: auf weichem Moos unter Zweigen; Körperhaltung: aufrecht sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaues langes Kleid, heller Gürtel; Saum verschmutzt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: Unverletzt im Sagenwunder.
+Erzählertext: Unsichtbare Hände, erzählt die Sage, tragen Ida durch die Zweige. Sie überlebt.
+Dialoge: keine
+Kontinuität / Änderung: Märchenhafte Rettung, keine Wiederbelebung. Ida ist lebend, der Diener bleibt tot.
+
+KACHEL 8: Ein eigenes Leben
+Ort und Zeit: Unwegsame Waldwildnis
+Sichtbare Figuren: Ida von der Toggenburg in der Sage
+Bildbeschreibung: Nach ihrem Weg fort von der Burg lebt sie in einer aus Zweigen gebauten kleinen Hütte. Beeren in einer Schale und ein Wassergefäß stehen bereit. Keine Rückkehr des Rings und kein Graf als Helfer beim Bau. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: vor einer kleinen Zweighütte; Körperhaltung: stehend; Mitgeführte Gegenstände: eine kleine Schale mit Waldbeeren; Kleidung: Dunkelblaues Kleid mit abgenutztem Saum, graues Tuch; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Fern von der Burg baut sie eine Hütte und lebt als Einsiedlerin.
+Dialoge: keine
+Kontinuität / Änderung: Zeit vergeht, neue Hütte nach eigener Wanderschaft. Kleidung sichtbar abgenutzt.
+
+KACHEL 9: Der zu spät gehörte Fund
+Ort und Zeit: Saal der Toggenburg
+Sichtbare Figuren: Diener mit der Nachricht vom Rabennest, Graf von Toggenburg in Idas Sage
+Bildbeschreibung: Der ältere Diener berichtet vom Rabennest. Der Graf sitzt erschüttert auf seiner Bank. Der tote junge Finder erscheint nicht als rückblickender Zeuge neben ihm; kein Ring wird ohne Quellenbeleg zurückgegeben. Verbindliche Zustände: Graf von Toggenburg in Idas Sage: Ort: auf einer niedrigen Bank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter langer Rock und schwarzer Gürtel, später Reiseharnisch mit dunkelrotem Mantel, zuletzt schlichte graubraune Einsiedlerkutte. Keine sichtbare Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Diener mit der Nachricht vom Rabennest: Ort: vor dem Grafen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Leinentunika, braune Hose und einfache Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Diener mit der Nachricht vom Rabennest
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Euer Diener hatte ihn im Nest gefunden. Er wusste nicht, wem er gehörte.“
+Kontinuität / Änderung: Wahrheit nach der Gewalttat. Ringverbleib danach unbekannt, keine erfundene Wiedervereinigung mit dem Objekt.
+
+KACHEL 10: Die entdeckte Einsiedlerin
+Ort und Zeit: Waldpfad vor Idas Hütte
+Sichtbare Figuren: Jäger bei Idas Entdeckung im Wald, Ida von der Toggenburg in der Sage
+Bildbeschreibung: Ein anderer, rothaariger Jäger hat sich im Wald verirrt und findet Ida an der Hütte. Er erkennt überrascht eine lebende Frau, nicht einen Geist. Er ist deutlich älter und anders gekleidet als der getötete Ringfinder. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: vor ihrer Hütte; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Schale; Kleidung: Abgetragenes dunkelblaues Kleid und graues Tuch; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Jäger bei Idas Entdeckung im Wald: Ort: am unwegsamen Pfad; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braune Jagdjacke, graue Hose und dunkle Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Später findet ein Jäger die Einsame und bringt dem Grafen Nachricht.
+Dialoge: keine
+Kontinuität / Änderung: Neue Entdeckung führt zur folgenden Begegnung. Kein zurückgekehrter toter Diener.
+
+KACHEL 11: Keine geschuldete Rückkehr
+Ort und Zeit: Vor derselben Waldhütte
+Sichtbare Figuren: Ida von der Toggenburg in der Sage, Graf von Toggenburg in Idas Sage
+Bildbeschreibung: Nach der Nachricht kommt der Graf zu Ida und kniet vor ihr. Sie steht aufrecht an ihrer Hüttentür, ohne ihm die Hand zur Heimkehr zu reichen. Keine erzwungene Umarmung und kein romantisierter Tätergriff. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: vor ihrer eigenen Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Abgetragenes dunkelblaues Kleid und graues Tuch; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graf von Toggenburg in Idas Sage: Ort: mit Abstand vor ihr; Körperhaltung: kniend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter langer Rock und schwarzer Gürtel, später Reiseharnisch mit dunkelrotem Mantel, zuletzt schlichte graubraune Einsiedlerkutte. Keine sichtbare Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Graf von Toggenburg in Idas Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Vergib mir. Komm mit mir zurück.“
+Dialog 2:
+  Sprecher: Ida von der Toggenburg in der Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich werde nicht in die Burg zurückkehren.“
+Kontinuität / Änderung: Idas eigene Entscheidung bleibt bestehen. Seine Reue bedeutet keinen wiederhergestellten Anspruch auf ihre Nähe.
+
+KACHEL 12: Der ferne Weg der Buße
+Ort und Zeit: Hafen beim Aufbruch
+Sichtbare Figuren: Graf von Toggenburg in Idas Sage
+Bildbeschreibung: Der Graf steht beim Aufbruch mit seinen namenlosen Dienstmannen an einem Schiff. Nur sein Reisehelm ist in der Hand, Waffen und Kampfhandlungen bleiben außerhalb des Bildes. Keine Ida reist mit. Verbindliche Zustände: Graf von Toggenburg in Idas Sage: Ort: am Schiffsaufgang; Körperhaltung: stehend; Mitgeführte Gegenstände: ein einfacher Reisehelm; Kleidung: Reiseharnisch, dunkelroter Mantel und Stiefel; keine sichtbaren Klingen; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er zieht zur Buße in einen fernen Kreuzzug. Ida bleibt auf ihrem selbst gewählten Weg.
+Dialoge: keine
+Kontinuität / Änderung: Kein Krieg als automatische Entsühnung oder Rechtfertigung von Gewalt gegen Andersgläubige. Trennung besteht fort.
+
+KACHEL 13: Die Antwort nach einem Jahr
+Ort und Zeit: Burghof nach der Heimkehr
+Sichtbare Figuren: Graf von Toggenburg in Idas Sage, Diener mit der Nachricht vom Rabennest
+Bildbeschreibung: Nach einem Jahr ist er heimgekehrt. Der ältere Diener berichtet ihm von Idas Aufnahme ins Kloster Fischingen. Der Graf steht müde mit dem gleichen Helm, ohne Siegesbeute oder neue Frau an seiner Seite. Verbindliche Zustände: Graf von Toggenburg in Idas Sage: Ort: im Burghof; Körperhaltung: stehend; Mitgeführte Gegenstände: Reisehelm in beiden Händen; Kleidung: Abgenutzter Reiseharnisch, dunkelroter Mantel und Stiefel; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Diener mit der Nachricht vom Rabennest: Ort: vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Leinentunika, braune Hose und einfache Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Diener mit der Nachricht vom Rabennest
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie hat in Fischingen den Schleier genommen.“
+Kontinuität / Änderung: Klarer Jahres- und Ortswechsel. Ida inzwischen Klosterfrau, keine plötzlich auf der Burg wartende Gemahlin.
+
+KACHEL 14: Abgelegter Rang
+Ort und Zeit: Kapelle der Toggenburg
+Sichtbare Figuren: Graf von Toggenburg in Idas Sage
+Bildbeschreibung: Der Graf hat den Harnisch und den roten Mantel abgelegt. Helm, Handschuhe und ein vollständig geschlossenes Bündel mit seiner Wehr liegen auf dem Wandbrett der Kapelle. Er trägt nun eine schlichte Kutte; keine Klinge bleibt am Körper. Verbindliche Zustände: Graf von Toggenburg in Idas Sage: Ort: vor einem schlichten Wandbrett; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Schlichte graubraune Kutte, grobe Schuhe, kein ritterlicher Schmuck; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er legt den ritterlichen Schmuck, Wehr und Waffen ab und geht als armer Einsiedler nach Fischingen.
+Dialoge: keine
+Kontinuität / Änderung: Ausrüstung ausdrücklich abgelegt; keine versteckte Kampfmontur im späteren Einsiedlerleben.
+
+KACHEL 15: Nähe ist keine Vereinigung
+Ort und Zeit: Außerhalb und innerhalb der Klostermauer von Fischingen
+Sichtbare Figuren: Graf von Toggenburg in Idas Sage, Ida von der Toggenburg in der Sage
+Bildbeschreibung: Ein weiter räumlicher Blick zeigt eine kleine Einsiedlerhütte vor der Klostermauer und Ida auf einem davon getrennten inneren Weg. Die Mauer bleibt dazwischen, kein heimlicher Besuch oder eheliches Zusammenleben. Beide sind je nur einmal dargestellt. Verbindliche Zustände: Ida von der Toggenburg in der Sage: Ort: auf einem inneren Klosterweg hinter der Mauer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Klostergewand und heller Schleier; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graf von Toggenburg in Idas Sage: Ort: vor einer kleinen Hütte außerhalb der Mauer; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graubraune Einsiedlerkutte und grobe Schuhe; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er wählt einen Platz in der Nähe. Ida bleibt im Kloster. Ihre Wege werden nicht wieder dieselben.
+Dialoge: keine
+Kontinuität / Änderung: Gleicher Ort, klar getrennte Lebensräume. Keine Aufhebung ihrer Ablehnung durch seine fortgesetzte Nähe.
+
+KACHEL 16: Bis zum Ende
+Ort und Zeit: Leere Einsiedlerhütte nahe Fischingen
+Sichtbare Figuren: keine
+Bildbeschreibung: Viele Jahre später ist die schlichte Hütte leer. Eine graubraune Kutte hängt über einem niedrigen Stuhl, vor dem Fenster steht unverändert die Klostermauer. Kein Leichnam und keine rückblickende glückliche Hochzeit.
+Erzählertext: Dort büßt und betet er bis zu seinem Tod. Die Reue ändert seinen Weg. Sie verfügt nicht über ihren.
+Dialoge: keine
+Kontinuität / Änderung: Graf endgültig verstorben. Ida wird nicht nachträglich zur Rückkehr bewegt.

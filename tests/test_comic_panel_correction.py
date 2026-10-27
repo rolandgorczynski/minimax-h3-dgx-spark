@@ -53,6 +53,64 @@ class PanelCorrectionTests(unittest.TestCase):
             self.assertEqual(source['scenes'][1]['character_states']['b'*32],'Aussehen: Kinnlanger Bob.');self.assertTrue((out/'comic.pdf').exists());self.assertTrue((out/'comic-bundle.zip').exists())
             self.assertEqual(original,{str(p.relative_to(store.directory(parent['id']))):p.read_bytes() for p in store.directory(parent['id']).rglob('*') if p.is_file()})
 
+    def test_image_correction_keeps_all_edited_bubbles_and_only_generates_one_image(self):
+        with tempfile.TemporaryDirectory() as root:
+            store,parent=setup(root);info=manifest(store,parent);original={str(p.relative_to(store.directory(parent['id']))):p.read_bytes() for p in store.directory(parent['id']).rglob('*') if p.is_file()}
+            patches=[{k:p[k] for k in ('dialog','bubbles','protected_areas')} for p in info['panels']]
+            patches[0]['dialog']='Neue Beschriftung der anderen Kachel.'
+            patches[0]['bubbles'][0]['x']=.12
+            patches[1]['bubbles'][0]['text']='Neuer Dialog bleibt erhalten.'
+            job=panel_correction.enqueue(store,parent,{'version':info['version'],'panel':1,'correction':'Bei Ria die Haare kürzer.','panels':patches})
+            with self.assertRaises(Conflict):Stories(store).delete_job(parent['id'])
+            picture=io.BytesIO();Image.new('RGB',(1024,704),'red').save(picture,format='PNG');generated=picture.getvalue();studio_calls=[];downloads=[]
+            class Client:
+                def download(self,ident,descriptor):downloads.append(descriptor);return generated
+                def request(self,*args,**kwargs):raise AssertionError('Keine anderen ComfyUI-Aufträge erlauben.')
+            class FakeEngine:
+                validate_scenes=Engine.validate_scenes
+                def __init__(self):self.store=store;self.client=Client()
+                def json_call(self,ident,step,prompt,validator,images,tokens):
+                    self.asserted_image=images[0];return validator({'story':'Ria mit sichtbar kürzerem Bob sitzt am Eingang.','character_states':{'b'*32:{'Aussehen':'Kinnlanger Bob.'}}})
+                def preflight(self,plan,cast):self.checked_count=len(plan['scenes']);return {'valid':True,'issues':[]}
+                def studio(self,ident,step,doc,cast,plan,revisions,request_override):studio_calls.append((request_override,copy.deepcopy(plan)));return {'comic_panels':[{'filename':'01_panel.png','type':'temp','subfolder':'test'}]}
+                def workflow(self,*args):return {'nodes':[]}
+            engine=FakeEngine();result=panel_correction.run(engine,job['id']);self.assertEqual(result['status'],'needs_review')
+            self.assertEqual(len(studio_calls),1);self.assertEqual(studio_calls[0][0]['kacheln'],1);self.assertEqual(len(studio_calls[0][1]['scenes']),1);self.assertEqual(engine.checked_count,1);self.assertEqual(len(downloads),1)
+            out=store.directory(job['id']);self.assertEqual((out/'panels/01_art.png').read_bytes(),original['panels/01_art.png']);self.assertNotEqual((out/'panels/01_panel.png').read_bytes(),original['panels/01_panel.png']);self.assertEqual((out/'panels/02_art.png').read_bytes(),generated)
+            source=json.loads((out/'editorial-source.json').read_text());old=json.loads(original['editorial-source.json'])
+            self.assertEqual(source['scenes'][0]['dialog'],patches[0]['dialog']);self.assertEqual(source['scenes'][0]['bubbles'][0]['x'],.12);self.assertEqual(source['scenes'][1]['bubbles'][0]['text'],'Neuer Dialog bleibt erhalten.');self.assertEqual(source['scenes'][1]['dialog'],old['scenes'][1]['dialog']);self.assertEqual(source['article'],old['article'])
+            self.assertEqual(source['scenes'][1]['character_states']['b'*32],'Aussehen: Kinnlanger Bob.');self.assertTrue((out/'comic.pdf').exists());self.assertTrue((out/'comic-bundle.zip').exists())
+            self.assertEqual(original,{str(p.relative_to(store.directory(parent['id']))):p.read_bytes() for p in store.directory(parent['id']).rglob('*') if p.is_file()})
+
+    def test_approved_instruction_is_rendered_verbatim_without_second_model_rewrite(self):
+        with tempfile.TemporaryDirectory() as root:
+            store,parent=setup(root);info=manifest(store,parent);original={str(p.relative_to(store.directory(parent['id']))):p.read_bytes() for p in store.directory(parent['id']).rglob('*') if p.is_file()}
+            patches=[{k:p[k] for k in ('dialog','bubbles','protected_areas')} for p in info['panels']]
+            patches[0]['dialog']='Neue Beschriftung der anderen Kachel.'
+            patches[0]['bubbles'][0]['x']=.12
+            patches[1]['bubbles'][0]['text']='Neuer Dialog bleibt erhalten.'
+            job=panel_correction.enqueue(store,parent,{'version':info['version'],'panel':1,'correction':'Bei Ria die Haare kürzer.','panels':patches,'approved_story':'GENAU DIESE GEPRÜFTE BILDANWEISUNG.','approved_states':{'b'*32:'Aussehen: Kinnlanger Bob.'}})
+            with self.assertRaises(Conflict):Stories(store).delete_job(parent['id'])
+            picture=io.BytesIO();Image.new('RGB',(1024,704),'red').save(picture,format='PNG');generated=picture.getvalue();studio_calls=[];downloads=[]
+            class Client:
+                def download(self,ident,descriptor):downloads.append(descriptor);return generated
+                def request(self,*args,**kwargs):raise AssertionError('Keine anderen ComfyUI-Aufträge erlauben.')
+            class FakeEngine:
+                validate_scenes=Engine.validate_scenes
+                def __init__(self):self.store=store;self.client=Client()
+                def json_call(self,ident,step,prompt,validator,images,tokens):
+                    raise AssertionError('Geprüfte Bildanweisung nicht neu umformulieren.')
+                def preflight(self,plan,cast):self.checked_count=len(plan['scenes']);return {'valid':True,'issues':[]}
+                def studio(self,ident,step,doc,cast,plan,revisions,request_override):studio_calls.append((request_override,copy.deepcopy(plan)));return {'comic_panels':[{'filename':'01_panel.png','type':'temp','subfolder':'test'}]}
+                def workflow(self,*args):return {'nodes':[]}
+            engine=FakeEngine();result=panel_correction.run(engine,job['id']);self.assertEqual(result['status'],'needs_review')
+            self.assertEqual(len(studio_calls),1);self.assertEqual(studio_calls[0][0]['kacheln'],1);self.assertEqual(len(studio_calls[0][1]['scenes']),1);self.assertEqual(engine.checked_count,1);self.assertEqual(len(downloads),1)
+            out=store.directory(job['id']);self.assertEqual((out/'panels/01_art.png').read_bytes(),original['panels/01_art.png']);self.assertNotEqual((out/'panels/01_panel.png').read_bytes(),original['panels/01_panel.png']);self.assertEqual((out/'panels/02_art.png').read_bytes(),generated)
+            source=json.loads((out/'editorial-source.json').read_text());old=json.loads(original['editorial-source.json'])
+            self.assertEqual(source['scenes'][0]['dialog'],patches[0]['dialog']);self.assertEqual(source['scenes'][0]['bubbles'][0]['x'],.12);self.assertEqual(source['scenes'][1]['bubbles'][0]['text'],'Neuer Dialog bleibt erhalten.');self.assertEqual(source['scenes'][1]['dialog'],old['scenes'][1]['dialog']);self.assertEqual(source['article'],old['article'])
+            self.assertEqual(source['scenes'][1]['story'],'GENAU DIESE GEPRÜFTE BILDANWEISUNG.');self.assertEqual(source['scenes'][1]['character_states']['b'*32],'Aussehen: Kinnlanger Bob.');self.assertTrue((out/'comic.pdf').exists());self.assertTrue((out/'comic-bundle.zip').exists())
+            self.assertEqual(original,{str(p.relative_to(store.directory(parent['id']))):p.read_bytes() for p in store.directory(parent['id']).rglob('*') if p.is_file()})
+
     def test_nested_local_model_states_are_normalized_without_mutating_input(self):
         cast=[{'id':'a'*32,'name':'Siegfried'},{'id':'b'*32,'name':'Lindwurm'}]
         before={'story':'Der Lindwurm liegt besiegt.','dialog':'Er hat ihn bezwungen.','characters':['a'*32,'b'*32],'bubbles':[],'character_states':{'a'*32:'Schwert gesenkt.'}}

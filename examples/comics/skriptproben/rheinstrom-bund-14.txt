@@ -1,0 +1,174 @@
+TITEL: Vom deutschen Rheinstrom
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Historische Sage als Sage, keine dokumentarische Rekonstruktion. Eigenständige klare Bildgestaltung, räumlich genaue Gruppen und zurückhaltende Gewalt. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bauer von der Bärenburg
+Aussehen: Erwachsener Mann mit kurzem schwarzem Bart und breiten erschöpften Gesichtszügen.
+Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Erlebt entwürdigende Willkür und erkennt in der Beratung, dass andere dieselbe Ohnmacht teilen. Unbenannte Rollenfigur der Sage, kein historisch identifizierter Held.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bauer von Fardün
+Aussehen: Erwachsener schmaler Mann mit rotem Bart und gebräuntem Gesicht.
+Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Sieht fremde Herden seine Saat zerstören und beteiligt sich am gemeinsamen Rat statt allein zu bleiben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Graubärtiger Dorfältester beim Bund
+Aussehen: Älterer Mann mit langem grauem Bart und ruhigem Blick.
+Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.
+Persönlichkeit und Vorgeschichte: Eine repräsentative unbenannte Ältestenfigur. Verbindet das Anhören der einzelnen Klagen mit einem gemeinsamen verlässlichen Bund.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kastellan der Bärenburg
+Aussehen: Erwachsener breiter Mann mit dunklem kurzem Haar und strengem bartlosem Gesicht.
+Kleidung: Dunkelroter langer Rock und schwarzer Ledergürtel. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Übt in der Sage Erniedrigung aus. Einzelner Amtsträger, kein allgemeines Urteil über eine Bevölkerungsgruppe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Strom, viele Ufer
+Ort und Zeit: Alpenschlucht am jungen Rhein
+Sichtbare Figuren: keine
+Bildbeschreibung: Weites Bild einer schmalen wilden Flut zwischen grauen Alpenwänden. Auf einem Hang liegen kleine Höfe, weit darüber eine dunkle Burg. Keine Opferhandlung und keine behauptete historische Karte.
+Erzählertext: Bechsteins Rheinsage erzählt auch von Menschen, die sich gegen die Willkür ihrer Herren verbanden.
+Dialoge: keine
+Kontinuität / Änderung: Gewählter Erzählbogen: Unterdrückung, Beratung und Bund. Andere Abschnitte der Sammelsage werden nicht als zusätzliche Abenteuer vermischt.
+
+KACHEL 2: Der Trog
+Ort und Zeit: Hof der Bärenburg
+Sichtbare Figuren: Bauer von der Bärenburg, Kastellan der Bärenburg
+Bildbeschreibung: Der Kastellan zwingt den Bauern vor einen Trog, an dessen anderem Ende Schweine fressen. Die gebeugte Haltung und sein gesenkter Blick zeigen die Demütigung. Kein Schlagen und kein tatsächliches Essen im selben Moment. Verbindliche Zustände: Bauer von der Bärenburg: Ort: neben einem Futtertrog; Körperhaltung: gebeugt; Mitgeführte Gegenstände: Hände am Trog; eigener Brotsack an der Seite; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kastellan der Bärenburg: Ort: oberhalb der niedrigen Hofstufe; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand weist auf den Trog; Kleidung: Dunkelroter langer Rock und schwarzer Ledergürtel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: An der Bärenburg zwang ein Kastellan Bauern, mit den Schweinen aus einem Trog zu essen.
+Dialoge: keine
+Kontinuität / Änderung: Einzelne überlieferte Gewalttat der Sage, keine heutige Tatsachenbehauptung.
+
+KACHEL 3: Die zertretene Saat
+Ort und Zeit: Acker bei Fardün
+Sichtbare Figuren: Bauer von Fardün
+Bildbeschreibung: Auf dem bestellten Acker trampelt eine namenlose fremde Rinderherde über die Saat. Ein ferner Aufseher treibt sie weiter. Der Bauer steht ohnmächtig vor den zerstörten Halmen. Keine Burg aus der vorigen Szene hier versetzen. Verbindliche Zustände: Bauer von Fardün: Ort: am Rand seines Ackers; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand hält zerdrückte Halme; grauer Brotsack am Riemen; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Bei Fardün ließ ein anderer Herr seine Herden in die Saat treiben.
+Dialoge: keine
+Kontinuität / Änderung: Zweiter Ort und zweiter Bauer. Kastellan der Bärenburg nicht ohne Beleg als identischer Amtsträger zeigen.
+
+KACHEL 4: Allein reicht die Stimme nicht
+Ort und Zeit: Weg unterhalb der Bärenburg
+Sichtbare Figuren: Bauer von der Bärenburg
+Bildbeschreibung: Nach der Erniedrigung geht der Bauer allein bergab. Die Burg liegt weit über seinem Rücken, die Höfe klein und voneinander getrennt. Keine kämpfenden Aufständischen, kein schon geschlossener Bund. Verbindliche Zustände: Bauer von der Bärenburg: Ort: auf dem schmalen Weg; Körperhaltung: gehend; Mitgeführte Gegenstände: eine Hand am braunen Brotsack; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Solange jeder allein vor seinem Herrn stand, blieb auch jede Klage allein.
+Dialoge: keine
+Kontinuität / Änderung: Bauer wieder aufrecht und zu Fuß, Brotsack unverändert bei ihm.
+
+KACHEL 5: Dieselbe Last
+Ort und Zeit: Wegkreuzung zwischen den Höfen
+Sichtbare Figuren: Bauer von der Bärenburg, Bauer von Fardün
+Bildbeschreibung: Die beiden Männer begegnen sich auf dem Weg zur nächtlichen Beratung. Der Bauer von Fardün zeigt die zerdrückten Halme in seiner offenen Hand, der andere erkennt die gemeinsame Lage. Verbindliche Zustände: Bauer von der Bärenburg: Ort: an der Wegkreuzung; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner Brotsack am Riemen; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: grauer Brotsack am Riemen; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bauer von Fardün
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bei mir war es die Saat.“
+Dialog 2:
+  Sprecher: Bauer von der Bärenburg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bei uns wollten sie, dass wir uns selbst verachten.“
+Kontinuität / Änderung: Freie Dialogadaption der beiden in der Quelle genannten Missstände; kein erfundener zusätzlicher Frevel.
+
+KACHEL 6: Die Nachtberatung
+Ort und Zeit: Felsenumwallte Wiese bei Tovanosa
+Sichtbare Figuren: Bauer von der Bärenburg, Bauer von Fardün, Graubärtiger Dorfältester beim Bund
+Bildbeschreibung: In der Nacht kommen Männer aus verschiedenen Höfen auf einer von Felsen geschützten Wiese zusammen. Die beiden bekannten Bauern schließen sich dem Kreis an. Der Älteste hat keinen Thron und keine Waffe; die Beratung erfolgt auf gleicher Höhe. Verbindliche Zustände: Bauer von der Bärenburg: Ort: am Rand des Kreises; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner Brotsack; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: grauer Brotsack; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: im Kreis der Älteren; Körperhaltung: stehend; Mitgeführte Gegenstände: dunkler Brotsack; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Sage nach berieten sie sich bei Tovanosa, unter grauen Bergen und im Schutz der Nacht.
+Dialoge: keine
+Kontinuität / Änderung: Erstes gemeinsames Treffen, noch nicht der spätere öffentliche Schwur in Bruns.
+
+KACHEL 7: Ein Zeichen im Fels
+Ort und Zeit: Rand derselben Wiese
+Sichtbare Figuren: Graubärtiger Dorfältester beim Bund, Bauer von der Bärenburg
+Bildbeschreibung: Der Dorfälteste hängt seinen dunklen Brotsack an einen in einer Felsritze sitzenden Nagel. Der bekannte braune Sack hängt bereits daneben. Keine magischen Nägel und keine Schriftrollen mit ausgearbeiteten Gesetzen. Verbindliche Zustände: Bauer von der Bärenburg: Ort: neben dem Ältesten; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner Brotsack an einem zweiten Nagel; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: vor einer schmalen Felsritze; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände hängen den dunklen Brotsack an einen Nagel; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Später, heißt es, zeigte man noch die Felsritzen, an denen ihre Brotsäcke gehangen hatten.
+Dialoge: keine
+Kontinuität / Änderung: Säcke zur Beratung abgelegt, nicht verschwunden. Überlieferte Erinnerung als solche benannt.
+
+KACHEL 8: Einander anhören
+Ort und Zeit: Beratungskreis auf der Nachtwiese
+Sichtbare Figuren: Bauer von der Bärenburg, Bauer von Fardün, Graubärtiger Dorfältester beim Bund
+Bildbeschreibung: Der Älteste hört den beiden Männern zu. Weitere namenlose ältere Männer sitzen im offenen Kreis. Die Gesichter wenden sich zum Sprecher statt zu einem bewaffneten Anführer. Keine parallele Kampfszene. Verbindliche Zustände: Bauer von der Bärenburg: Ort: im Kreis; Körperhaltung: auf einem Stein sitzend; Mitgeführte Gegenstände: leere Hände; Brotsack am Felsnagel; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: neben ihm; Körperhaltung: auf einem Stein sitzend; Mitgeführte Gegenstände: leere Hände; grauer Brotsack neben dem Stein; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: gegenüber; Körperhaltung: auf einem Stein sitzend; Mitgeführte Gegenstände: leere Hände; dunkler Brotsack am Felsnagel; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Graubärtiger Dorfältester beim Bund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wer von uns kann allein verhindern, was jedem geschieht?“
+Kontinuität / Änderung: Brotsäcke am selben Ort abgelegt. Beratung statt nachträglich erfundener Eroberung.
+
+KACHEL 9: Aus Klagen wird ein Entschluss
+Ort und Zeit: Dieselbe Nachtwiese
+Sichtbare Figuren: Graubärtiger Dorfältester beim Bund, Bauer von der Bärenburg, Bauer von Fardün
+Bildbeschreibung: Die Männer sind aufgestanden und rücken enger zusammen. Die drei Brotsäcke sind noch bei Fels und Stein. Es ist die Entscheidung zum Zusammenhalt, nicht bereits der spätere Schwur unter der Linde. Verbindliche Zustände: Bauer von der Bärenburg: Ort: neben dem Ältesten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: auf der anderen Seite; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: im aufgestandenen Kreis; Körperhaltung: stehend; Mitgeführte Gegenstände: offene leere Hand; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bauer von der Bärenburg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann soll keiner mehr allein stehen.“
+Dialog 2:
+  Sprecher: Bauer von Fardün
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und der Beistand muss gelten, wenn es schwer wird.“
+Kontinuität / Änderung: Gemeinsamer Entschluss. Keine versprochene sofortige Beseitigung aller Not.
+
+KACHEL 10: Am hellen Tag
+Ort und Zeit: Weg nach Bruns
+Sichtbare Figuren: Bauer von der Bärenburg, Bauer von Fardün, Graubärtiger Dorfältester beim Bund
+Bildbeschreibung: An einem späteren Tag ziehen die bekannten Männer mit weiteren Vertretern nach Bruns. Die Säcke sind von den Nägeln zurückgenommen und wieder geschultert. Im Tal liegt eine Kapelle mit großer Linde davor. Verbindliche Zustände: Bauer von der Bärenburg: Ort: auf dem Weg nach Bruns; Körperhaltung: gehend; Mitgeführte Gegenstände: brauner Brotsack am Riemen; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: neben ihm; Körperhaltung: gehend; Mitgeführte Gegenstände: grauer Brotsack am Riemen; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: vorn im Zug; Körperhaltung: gehend; Mitgeführte Gegenstände: dunkler Brotsack am Riemen; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Später traten sie in Bruns unter freiem Himmel zusammen.
+Dialoge: keine
+Kontinuität / Änderung: Ortswechsel und neuer Tag ausdrücklich. Keine geheime Nachtberatung und öffentlicher Tag im selben Bild.
+
+KACHEL 11: Kein Herr auf der Stufe
+Ort und Zeit: Vor der St. Annenkapelle in Bruns
+Sichtbare Figuren: Graubärtiger Dorfältester beim Bund, Bauer von der Bärenburg, Bauer von Fardün
+Bildbeschreibung: Unter der weit ausladenden Linde steht ein Kreis von Männern vor der Kapelle. Die Dorfältesten stehen nicht auf einer erhöhten Bühne. Freier Himmel ist über den Zweigen sichtbar; keine Burg und kein Kastellan im Zentrum. Verbindliche Zustände: Bauer von der Bärenburg: Ort: neben dem Ältesten; Körperhaltung: stehend; Mitgeführte Gegenstände: brauner Brotsack am Riemen; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: im offenen Kreis; Körperhaltung: stehend; Mitgeführte Gegenstände: grauer Brotsack am Riemen; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: unter der großen Linde; Körperhaltung: stehend; Mitgeführte Gegenstände: dunkler Brotsack am Riemen; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Unter der Linde sollte aus dem gemeinsamen Entschluss eine verlässliche Bindung werden.
+Dialoge: keine
+Kontinuität / Änderung: Ort des überlieferten Bundes, keine spätere moderne Staatsgründungszeremonie.
+
+KACHEL 12: Der Schwur
+Ort und Zeit: Unter derselben Linde
+Sichtbare Figuren: Graubärtiger Dorfältester beim Bund, Bauer von der Bärenburg, Bauer von Fardün
+Bildbeschreibung: Die Männer heben gemeinsam die rechten Hände. Die große Linde und die Kapellenwand verorten den einen Schwurmoment. Keine modernen Flaggen oder angeblich erhaltene Gründungsurkunde. Verbindliche Zustände: Bauer von der Bärenburg: Ort: links neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand zum Schwur erhoben; Brotsack am Riemen; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: rechts neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand zum Schwur erhoben; Brotsack am Riemen; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: im Kreis; Körperhaltung: stehend; Mitgeführte Gegenstände: rechte Hand zum Schwur erhoben; Brotsack am Riemen; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Graubärtiger Dorfältester beim Bund
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Unser Bund soll bestehen, solange Grund und Grat stehen.“
+Kontinuität / Änderung: Neu formulierter Schwur nach der Sage, keine dokumentarisch belegte wörtliche Rede.
+
+KACHEL 13: Ein gemeinsamer Name
+Ort und Zeit: Platz vor der Kapelle nach dem Schwur
+Sichtbare Figuren: Bauer von der Bärenburg, Bauer von Fardün, Graubärtiger Dorfältester beim Bund
+Bildbeschreibung: Nach dem Schwur haben sie die Arme gesenkt. Die beiden Bauern stehen nun im Gespräch mit den Ältesten, keine isolierten Bittsteller unter einer Burg. Die Gruppe bleibt eine Gemeinschaft verschiedener Gesichter. Verbindliche Zustände: Bauer von der Bärenburg: Ort: unter der Linde; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; brauner Brotsack am Riemen; Kleidung: Graue Leinentunika, braune Hose und grobe Schuhe. Ein kleiner brauner Brotsack am Lederriemen. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Bauer von Fardün: Ort: neben ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; grauer Brotsack am Riemen; Kleidung: Dunkelgrüne Leinentunika, graue Hose und grobe braune Schuhe. Grauer Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Graubärtiger Dorfältester beim Bund: Ort: bei beiden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; dunkler Brotsack am Riemen; Kleidung: Brauner Wollmantel, helles Hemd und schwarze Schuhe. Dunkler Brotsack. Keine Waffen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Bechstein verbindet den Namen Graubünden mit diesem Bund der grauen Ältesten.
+Dialoge: keine
+Kontinuität / Änderung: Namensdeutung der Sage, kein wissenschaftlicher Herkunftsnachweis. Kein neuer Herr setzt sich an ihre Stelle.
+
+KACHEL 14: Derselbe Strom
+Ort und Zeit: Weite Alpenlandschaft mit Rhein
+Sichtbare Figuren: keine
+Bildbeschreibung: Der Rhein läuft durch dieselbe Schlucht wie im Anfangsbild. Auf einem Weg sind kleine Gruppen heimkehrender Männer erkennbar; kein Schlachtfeld und keine brennenden Burgen. Die Höfe bleiben räumlich getrennt, aber der verbindende Weg ist jetzt sichtbar.
+Erzählertext: Der Strom blieb derselbe. Wer an seinen Ufern Unrecht erlitt, sollte nicht mehr allein bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Ende beim beschworenen Bund. Keine unüberlieferte siegreiche Schlacht ergänzen.

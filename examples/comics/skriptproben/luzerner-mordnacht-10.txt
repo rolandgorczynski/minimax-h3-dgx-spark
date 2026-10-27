@@ -1,0 +1,145 @@
+TITEL: Luzerner Hörner und Mordnacht
+AUTOR:
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Historische Sage als Sage, keine dokumentarische Rekonstruktion. Eigenständige klare Bildgestaltung, räumlich genaue Gruppen und zurückhaltende Gewalt. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Betteljunge der Luzerner Mordnachtsage
+Aussehen: Etwa elfjähriger schmaler Junge mit braunem zerzaustem Haar und Sommersprossen.
+Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.
+Persönlichkeit und Vorgeschichte: Hört den Anschlag und wird zum Schweigeeid gezwungen. Findet eine indirekte Warnung, die erst durch aufmerksame Zuhörer wirksam wird.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Verschwörer mit den roten Ärmeln
+Aussehen: Erwachsener Mann mit schwarzem kurzem Bart und schmalem Gesicht.
+Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Eine einzelne repräsentative Figur der Verschwörer. Rote Ärmel sind das Erkennungszeichen dieser Gruppe, kein allgemeines Urteil über Herkunft oder heutige Gesinnung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Metzgergeselle als aufmerksamer Zuhörer
+Aussehen: Erwachsener kräftiger Mann mit rotem kurzem Haar und bartlosem Gesicht.
+Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.
+Persönlichkeit und Vorgeschichte: Hört dem Jungen am Ofen zu und alarmiert mit anderen die Stadt. Kein zusätzlicher allwissender Retter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Glöckner vor Mitternacht
+Aussehen: Älterer Mann mit grauem Bart und kleinen ruhigen Augen.
+Kleidung: Grauer langer Wollrock und braune Schuhe.
+Persönlichkeit und Vorgeschichte: Wird rechtzeitig gewarnt und schlägt die zwölfte Stunde nicht. Trägt das gemeinsame Handeln mit.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Stimmen in der Nacht
+Ort und Zeit: Luzerner Gasse am Abend
+Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage
+Bildbeschreibung: Der Junge geht in der Dunkelheit an der Schneiderzunftstube vorbei. Unter einem großen nahen Schwibbogen glimmt Licht; von dort kommen gedämpfte Stimmen. Kein bereits ausgeführter Angriff in der Gasse. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: unter einer dunklen Hausecke; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Luzerns Sagen erzählen von Hörnern und Aufständen. Diese Nacht entscheidet zunächst ein leiseres Geräusch.
+Dialoge: keine
+Kontinuität / Änderung: Kurzer Rahmen ohne zusätzliche Schlachtgeschichte um die Hörner.
+
+KACHEL 2: Der Anschlag
+Ort und Zeit: Schwibbogen bei der Schneiderzunftstube
+Sichtbare Figuren: Verschwörer mit den roten Ärmeln, Betteljunge der Luzerner Mordnachtsage
+Bildbeschreibung: Mehrere erwachsene Männer mit roten Ärmeln beraten sich unter dem Bogen. Der bekannte Verschwörer steht vorn, der Junge hört verborgen hinter dem Pfeiler. Der große Bogen und die rote Ärmelgruppe bleiben klar verortet. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: verdeckt hinter dem Randpfeiler; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verschwörer mit den roten Ärmeln: Ort: unter dem Bogen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Verschwörer mit den roten Ärmeln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn es Mitternacht schlägt, fallen wir über die Eidgenössischen her.“
+Kontinuität / Änderung: Geplanter Anschlag, noch keine Gewalt ausgeführt. Einzelne Partei der Sage, kein pauschales Bevölkerungsurteil.
+
+KACHEL 3: Entdeckt
+Ort und Zeit: Rand desselben Bogens
+Sichtbare Figuren: Verschwörer mit den roten Ärmeln, Betteljunge der Luzerner Mordnachtsage
+Bildbeschreibung: Der Junge ist bemerkt worden. Der Verschwörer versperrt ihm den Weg und beugt sich bedrohlich vor. Keine Waffe berührt das Kind, keine Verletzung und keine tatsächliche Tötung. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: zwischen Pfeiler und Wand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Verschwörer mit den roten Ärmeln: Ort: vor dem Jungen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand am Türpfosten; Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Verschwörer mit den roten Ärmeln
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Schwöre, dass du niemandem davon erzählst. Sonst stirbst du.“
+Dialog 2:
+  Sprecher: Betteljunge der Luzerner Mordnachtsage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich schwöre.“
+Kontinuität / Änderung: Eid unter Todesdrohung erzwungen. Junge bleibt lebend und unverletzt.
+
+KACHEL 4: Wohin mit der Wahrheit
+Ort und Zeit: Weg zur Metzgerzunftstube
+Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage
+Bildbeschreibung: Nach seiner Freilassung steht er zögernd vor der noch beleuchteten Metzgerzunftstube. Drinnen sitzen Erwachsene bei Bechern. Er klopft nicht bei den Verschwörern an und trägt keine schriftliche Warnung. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: vor der beleuchteten Tür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Schweigen hieße, die anderen unvorbereitet zu lassen. Zu einem Menschen durfte er den Anschlag nicht sagen.
+Dialoge: keine
+Kontinuität / Änderung: Er sucht einen indirekten Weg, nicht die nächste Person für einen direkten Bericht.
+
+KACHEL 5: Der Ofen als Zuhörer
+Ort und Zeit: Metzgerzunftstube vor Mitternacht
+Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage, Metzgergeselle als aufmerksamer Zuhörer
+Bildbeschreibung: Der Junge sitzt auf der Bank am großen warmen Ofen und spricht bewusst dessen Kacheln an. Der Metzgergeselle und andere Erwachsene sitzen in Hörweite, werden aber nicht direkt angesprochen. Keine Sprechblase, die aus dem Ofen kommt. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: auf der Ofenbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Metzgergeselle als aufmerksamer Zuhörer: Ort: am nahen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: ein Holzbecher; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Betteljunge der Luzerner Mordnachtsage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dir, Ofen, klage ich es: Wenn es zwölf schlägt, wollen sie die Menschen überfallen.“
+Kontinuität / Änderung: Indirekte Warnung an den Ofen; kein neuer magischer sprechender Gegenstand.
+
+KACHEL 6: Was Zuhören verlangt
+Ort und Zeit: Dieselbe Zunftstube
+Sichtbare Figuren: Metzgergeselle als aufmerksamer Zuhörer, Betteljunge der Luzerner Mordnachtsage
+Bildbeschreibung: Der Geselle hat den Becher auf den Tisch gestellt und steht plötzlich auf. Andere erwachsene Männer werden aufmerksam. Der Junge blickt weiter zum Ofen; niemand zwingt ihn zu einem zweiten direkten Geständnis. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: weiter auf der Ofenbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Metzgergeselle als aufmerksamer Zuhörer: Ort: vom Tisch aufgestanden; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Metzgergeselle als aufmerksamer Zuhörer
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Zum Rathaus. Zum Glöckner. Und warnt die Zünfte!“
+Kontinuität / Änderung: Erkennen und gemeinsames Handeln folgen dem Hören. Keine neue Mordtat zur Dramatisierung.
+
+KACHEL 7: Vor dem zwölften Schlag
+Ort und Zeit: Glockenstube im Turm
+Sichtbare Figuren: Metzgergeselle als aufmerksamer Zuhörer, Glöckner vor Mitternacht
+Bildbeschreibung: Ein warnender Geselle hat den Glöckner erreicht. Die Glocke hängt unbewegt, das Seil wird nicht gezogen. Durch das Fenster liegt die dunkle Stadt. Keine gleichzeitig schon zwölfmal anschlagende Glocke. Verbindliche Zustände: Metzgergeselle als aufmerksamer Zuhörer: Ort: an der Turmtür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Glöckner vor Mitternacht: Ort: neben dem Glockenseil; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand hält das Glockenseil still; Kleidung: Grauer langer Wollrock und braune Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Metzgergeselle als aufmerksamer Zuhörer
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Schlagt nicht zwölf. Der Schlag ist ihr Zeichen.“
+Kontinuität / Änderung: Warnung rechtzeitig vor Mitternacht. Andere Boten warnen parallel Rathaus und Zünfte außerhalb dieser Einstellung.
+
+KACHEL 8: Zuvorgekommen
+Ort und Zeit: Gasse am Schwibbogen
+Sichtbare Figuren: Verschwörer mit den roten Ärmeln
+Bildbeschreibung: Vorbereitete erwachsene Bürger und Zunftleute versperren den rotärmeligen Männern die Ausgänge. Die Gruppe kann ihren Überraschungsangriff nicht beginnen. Kein blutiger Kampf, keine Hinrichtung und kein Junge als bewaffneter Angreifer. Verbindliche Zustände: Verschwörer mit den roten Ärmeln: Ort: unter dem Bogen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes Wams mit auffälligen roten Ärmeln, schwarze Hose und feste Schuhe. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Gewarnten kommen den Verschwörern zuvor. Der geplante Überfall findet nicht statt.
+Dialoge: keine
+Kontinuität / Änderung: Gleichzeitige Warnwege haben die Stadt vorbereitet. Nicht allein das Schweigen der Glocke als magische Rettung ausgeben.
+
+KACHEL 9: Der Morgen ohne Mordnacht
+Ort und Zeit: Metzgerzunftstube am nächsten Morgen
+Sichtbare Figuren: Betteljunge der Luzerner Mordnachtsage, Metzgergeselle als aufmerksamer Zuhörer
+Bildbeschreibung: Der Junge sitzt nach der überstandenen Nacht wieder auf der Bank. Der Geselle kniet sich etwas zu ihm herunter, um auf Augenhöhe zu sprechen. Es liegt keine Belohnung als erfundener Schatz auf dem Tisch. Verbindliche Zustände: Betteljunge der Luzerner Mordnachtsage: Ort: auf derselben Ofenbank; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Geflickte graue lange Tunika, dunkle Hose und abgetragene braune Schuhe. Vollständig bekleidet. Keine Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Metzgergeselle als aufmerksamer Zuhörer: Ort: vor ihm; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und sauber abgelegte weiße Arbeitsschürze am Stuhl. Keine Klinge.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Metzgergeselle als aufmerksamer Zuhörer
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir haben dich gehört.“
+Kontinuität / Änderung: Junge lebt unverletzt. Sein Einfall und das Handeln der Zuhörer gehören beide zur Rettung.
+
+KACHEL 10: Das Bild hinter dem Ofen
+Ort und Zeit: Metzgerzunftstube lange danach
+Sichtbare Figuren: keine
+Bildbeschreibung: Lange später sieht man hinter dem alten Ofen ein gemaltes Bild eines Jungen in geflickter grauer Tunika auf der Bank. Es ist eine Wandmalerei, keine zweite lebende Figur neben einem unverändert jungen Original. Ein namenloser erwachsener Besucher betrachtet sie.
+Erzählertext: Sein Bild, erzählt die Sage, blieb hinter dem Ofen. Es erinnerte auch daran, dass jemand zugehört hatte.
+Dialoge: keine
+Kontinuität / Änderung: Erinnerungsbild nach Zeitsprung. Kein zwingender Beleg, dass Wandmalerei oder Ereignis heute nachweisbar erhalten sind.

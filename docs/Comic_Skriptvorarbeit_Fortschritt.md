@@ -4,7 +4,7 @@ Stand: 26. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihe
 
 ## 1. Redaktionelle Skripte
 
-**62 von 382 Einträgen fertig.** Alle sind unter **2 · Comic erzeugen** auswählbar und unter **1 · Skript erstellen** bearbeitbar. Bildstil offen, keine Bilder erzeugt. Alle zuvor vorhandenen Geschichten und Aufträge bleiben unverändert.
+**90 von 382 Einträgen fertig.** Alle sind unter **2 · Comic erzeugen** auswählbar und unter **1 · Skript erstellen** bearbeitbar. Bildstil offen, keine Bilder erzeugt. Alle zuvor vorhandenen Geschichten und Aufträge bleiben unverändert.
 
 - Der kleine Prinz: 12 Kacheln.
 - Die Bremer Stadtmusikanten: 10 Kacheln.
@@ -67,15 +67,43 @@ Stand: 26. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihe
 - Fundevogel – Wenn du mich nicht verlässt: 12 Kacheln.
 - Das blaue Licht – Der Ausweg aus dem Brunnen: 10 Kacheln.
 - Die Kristallkugel – Das Ei im Feuervogel: 16 Kacheln.
+- Die drei Federn – Der unterschätzte Weg: 12 Kacheln.
+- Die Gänsemagd – Die vertauschte Braut: 14 Kacheln.
+- Die Schneekönigin – Wärme im Eispalast: 12 Kacheln.
+- Des Kaisers neue Kleider – Was niemand sehen darf: 12 Kacheln.
+- Der Tannenbaum – Immer erst morgen: 12 Kacheln.
+- Der Schatten – Der Diener wird zum Herrn: 14 Kacheln.
+- Das Mädchen mit den Schwefelhölzern – Ein Licht nach dem anderen: 12 Kacheln.
+- Die Zeitmaschine – Der erste Blick auf das Jahr 802701: 12 Kacheln.
+- Rikki-Tikki-Tavi – Der Wächter des Gartens: 14 Kacheln.
+- Der kopflose Reiter – Die letzte Brücke: 12 Kacheln.
+- Der geheime Garten – Die Tür hinter dem Efeu: 10 Kacheln.
+- Der Zauberer von Oz – Hinter dem Vorhang: 12 Kacheln.
+- Vom deutschen Rheinstrom: 14 Kacheln.
+- Des Schweizervolkes Ursprung: 12 Kacheln.
+- Sankt Gallus: 16 Kacheln.
+- Die St. Galler Mönche erbeten Wein: 8 Kacheln.
+- Dagoberts Zeichen: 10 Kacheln.
+- Die Tellensage: 18 Kacheln.
+- Luzerner Hörner und Mordnacht: 10 Kacheln.
+- Die Herren von Hohensax: 14 Kacheln.
+- Ida von der Toggenburg: 16 Kacheln.
+- Der Pilatus und die Herdmanndli: 12 Kacheln.
+- Die Bergmanndli schützen Herden und Fische: 14 Kacheln.
+- Die Herdmanndli ziehen weg: 10 Kacheln.
+- Der Dürst: 8 Kacheln.
+- Von Drachen und Lindwürmen: 12 Kacheln.
+- Winkelried und der Lindwurm: 12 Kacheln.
+- Kastelen-Alpe: 12 Kacheln.
 - Die getreue Alte: 14 Kacheln.
 
 Die vollständige Auftragsliste ist unter `/home/jee/docker-data/comic-sinnanalyse-redaktion/skriptauftrag.json` eingefroren: 373 aktive Quellen und neun zuvor vorhandene Geschichten. Die 627 zurückgestellten Quellen bleiben außen vor. Neue Skriptkopien vergrößern nicht nachträglich diesen Auftrag. Jeder Eintrag enthält Quellenkennung, Text-Hash, empfohlene Kachelzahl und Bearbeitungsstatus; fertige Einträge zusätzlich die neue Studio-Geschichtenkennung.
 
 Die Skripte werden von Codex geschrieben und redaktionell geprüft. Der Import erzeugt weder Skripte mit lokalen Modellen noch Bilder. Bestehende Bearbeitungen bleiben erhalten; neue Skripte werden separat abgelegt. Ergebnisse und Importanleitung: [Skriptproben](../examples/comics/skriptproben/README.md).
 
-Die übrigen 320 Skripte sind noch offen. Ein Benutzer-Cron prüft jetzt jede Minute, ob diese Codex-Unterhaltung frei ist, und kann höchstens einen Folgeauftrag für vier Skripte einreihen. Die Einrichtung hat keinen sofortigen Arbeitslauf gestartet. Einrichtung, Protokolle und Pause: [Skript-Cron](Comic_Skript_Cron.md).
+Die übrigen 292 Skripte sind noch offen. Ein Benutzer-Cron prüft jetzt jede Minute, ob diese Codex-Unterhaltung frei ist, und kann höchstens einen Folgeauftrag für vier Skripte einreihen. Die Einrichtung hat keinen sofortigen Arbeitslauf gestartet. Einrichtung, Protokolle und Pause: [Skript-Cron](Comic_Skript_Cron.md).
 
-Prüfung des aktuellen Stands: Der Fertig-Filter zeigt 62 Quellen. Die vier zuletzt ergänzten Skripte wurden im Browser unter Schritt 2 ausgewählt; Stil bleibt offen, alle Szenen einschließlich zweiter Skriptseite sind erreichbar. Sie bestehen die Beschriftungsprüfung ohne Warnungen. Die zuvor fertigen Skripte waren bereits in den vorherigen Arbeitsrunden im Browser geprüft worden. Bestehende Geschichten und Renderaufträge wurden mit dem Stand vor dieser Arbeitsrunde verglichen und blieben unverändert.
+Prüfung des aktuellen Stands: Der Fertig-Filter zeigt 90 Quellen. Die vier zuletzt ergänzten Skripte wurden im Browser unter Schritt 2 ausgewählt; Stil bleibt offen und alle Szenen sind erreichbar. Sie bestehen die Beschriftungsprüfung ohne Warnungen. Die zuvor fertigen Skripte und die Seitennavigation längerer Skripte waren bereits in den vorherigen Arbeitsrunden im Browser geprüft worden. Bestehende Geschichten und Renderaufträge wurden mit dem Stand vor dieser Arbeitsrunde verglichen und blieben unverändert.
 
 ## Danach, noch offen
 

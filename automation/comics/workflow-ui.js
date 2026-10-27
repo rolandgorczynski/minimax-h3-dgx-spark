@@ -2,10 +2,51 @@
 let workflowInstalled=false,workflowStep='script',workflowOutput=null;
 function showWorkflowStep(step){
  if(!['script','render','edit','publish'].includes(step))return;
- workflowStep=step;
+ workflowStep=step;if(step==='publish')loadPublishProfiles();
  for(const value of ['script','render','edit','publish'])$('workflow-'+value).hidden=value!==step;
  for(const button of document.querySelectorAll('[data-workflow-step]'))button.setAttribute('aria-current',button.dataset.workflowStep===step?'step':'false');
  updateWorkflowState();$('workflow-navigation').scrollIntoView({behavior:'smooth',block:'start'});
+}
+let publishProfileDirty={},publishProfileLoading=false,publishProfileSaving=false;
+async function loadPublishProfiles(){
+ if(publishProfileLoading)return;publishProfileLoading=true;
+ const results=await Promise.allSettled([api('/sharing').then(r=>r.json()),api('/telegram-publishing').then(r=>r.json())]);
+ for(const platform of ['x','substack','telegram']){
+  const result=results[platform==='telegram'?1:0],field=$('publish-'+platform+(platform==='telegram'?'-channel':'-url'));
+  if(publishProfileDirty[platform])continue;
+  if(result.status==='fulfilled'){
+   field.value=platform==='telegram'?result.value.target?.channel||'':result.value[platform+'_url']||'';
+   $('publish-'+platform+'-status').textContent=field.value?'Gespeicherter Standard. Änderbar für deine nächsten Veröffentlichungen.':'Noch kein Standard angegeben.';
+   $('publish-'+platform+'-save').disabled=true;
+  }else $('publish-'+platform+'-status').textContent='Standard konnte nicht geladen werden: '+result.reason.message;
+ }
+ publishProfileLoading=false;
+}
+async function savePublishProfile(platform){
+ if(publishProfileSaving)return;
+ const field=$('publish-'+platform+(platform==='telegram'?'-channel':'-url')),button=$('publish-'+platform+'-save'),status=$('publish-'+platform+'-status');
+ if(platform!=='telegram'&&!field.reportValidity())return;
+ const value=field.value.trim();publishProfileSaving=true;for(const target of ['x','substack','telegram'])$('publish-'+target+'-save').disabled=true;
+ try{
+  if(platform==='telegram'){
+   status.textContent='Kanal und Bot-Berechtigung werden geprüft …';
+   const result=await(await api('/telegram-publishing','PUT',{channel:value})).json();
+   if(field.value.trim()===value){field.value=result.target?.channel||value;publishProfileDirty[platform]=false}
+  }else{
+   // Aktuelle andere Plattform beibehalten, auch wenn sie zwischenzeitlich im Teilen-Dialog geändert wurde.
+   const targets=await(await api('/sharing')).json();
+   await api('/sharing','PUT',{...targets,[platform+'_url']:value});
+   if(field.value.trim()===value){field.value=value;publishProfileDirty[platform]=false}
+  }
+  status.textContent=publishProfileDirty[platform]?'Standard gespeichert. Weitere Änderungen im Feld sind noch nicht gespeichert.':'Als Standard gespeichert. Wird bei kommenden Veröffentlichungen vorbelegt. Noch nichts veröffentlicht.';
+ }catch(e){status.textContent=e.message}
+ finally{publishProfileSaving=false;for(const target of ['x','substack','telegram'])$('publish-'+target+'-save').disabled=!publishProfileDirty[target]}
+}
+function installPublishProfiles(){
+ for(const platform of ['x','substack','telegram']){
+  $('publish-'+platform+(platform==='telegram'?'-channel':'-url')).oninput=()=>{publishProfileDirty[platform]=true;$('publish-'+platform+'-save').disabled=publishProfileSaving;$('publish-'+platform+'-status').textContent='Geändert, noch nicht als Standard gespeichert.'};
+  $('publish-'+platform+'-save').onclick=()=>savePublishProfile(platform);
+ }
 }
 function showWorkflowInput(input){
  showWorkflowStep('script');
@@ -66,6 +107,6 @@ function installWorkflowUI(){
  $('style').addEventListener('change',()=>{editorPayload.visual_style_pending=!$('style').value;dirty=true;modeHelp()});
  $('new').addEventListener('click',()=>{if(!definitionId&&!dirty)showWorkflowInput('own')});
  $('story-list').addEventListener('change',()=>showWorkflowInput('own'));
- workflowInstalled=true;showWorkflowInput('own');
+ installPublishProfiles();workflowInstalled=true;showWorkflowInput('own');
 }
 document.addEventListener('DOMContentLoaded',installWorkflowUI);

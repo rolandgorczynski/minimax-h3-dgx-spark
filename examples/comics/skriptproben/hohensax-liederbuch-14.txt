@@ -1,0 +1,163 @@
+TITEL: Die Herren von Hohensax
+AUTOR:
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Historische Sage als Sage, keine dokumentarische Rekonstruktion. Eigenständige klare Bildgestaltung, räumlich genaue Gruppen und zurückhaltende Gewalt. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hans Philipp von Hohensax beim Liederbuch
+Aussehen: Erwachsener Mann mit dunkelbraunem lockigem Haar, kurzem spitzem Bart und aufmerksamen Augen.
+Kleidung: Dunkelgrüner langer Rock, heller Kragen und braune Stiefel. Keine sichtbare Waffe. Das Liederbuch nur in ausdrücklich benannten Buchszenen.
+Persönlichkeit und Vorgeschichte: Schätzt alte Dichtung und wird in der Sage später von seinem Neffen ermordet. Buch und sterbliche Überreste haben unterschiedliche Wege; keine Wiederauferstehung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ulrich Georg als Neffe der Hohensaxsage
+Aussehen: Junger erwachsener Mann mit schwarzem kurzem Haar und schmalem bartlosem Gesicht.
+Kleidung: Dunkelroter langer Rock, schwarzer Gürtel und braune Stiefel. Keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Der im Text genannte Neffe und Mörder. Ein religiöses Motiv wird nur als ungesicherte Überlieferung genannt, nicht als erwiesene Erklärung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bewahrer des Liederbuchs in Heidelberg
+Aussehen: Älterer Mann mit grauem kurzem Bart und ruhigen Augen.
+Kleidung: Brauner langer Gelehrtenrock und schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Unbenannte Rollenfigur für die Übernahme des Buches in eine Bibliothek. Kein erfundener Eigentumsnachweis durch seine bloße Haltung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Einwohnerin von Sennewald vor dem Grab
+Aussehen: Ältere Frau mit grauen Haaren unter weißem Kopftuch und ernstem Gesicht.
+Kleidung: Dunkelbraunes langes Kleid, graues Schultertuch und grobe Schuhe.
+Persönlichkeit und Vorgeschichte: Repräsentiert die örtliche Erinnerung und den Protest gegen das Wegbringen des Leichnams. Verwechselt Verehrung nicht mit freiem Besitzrecht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Fremder Träger in der Reliquiengeschichte
+Aussehen: Erwachsener Mann mit braunem kurzem Bart und schmalem Gesicht.
+Kleidung: Grauer langer Mantel mit Kapuze, braune Hose und dunkle Schuhe.
+Persönlichkeit und Vorgeschichte: Unbenannte Rollenfigur des heimlichen Wegtragens. Keine ethnischen oder konfessionellen Abzeichen; Quelle benennt hier keine belegte individuelle Identität.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Was er bewahren wollte
+Ort und Zeit: Burgraum von Hohensax
+Sichtbare Figuren: Hans Philipp von Hohensax beim Liederbuch
+Bildbeschreibung: Hans Philipp sitzt im Burgraum über einem großen braunen Buch mit zwei dunklen Schließen. Die aufgeschlagenen Seiten tragen verzierte Liedanfänge und kleine gezeichnete Figuren, keine modern gedruckten Noten. Im Fenster liegt die Alpenlandschaft. Verbindliche Zustände: Hans Philipp von Hohensax beim Liederbuch: Ort: an einem Tisch beim Fenster; Körperhaltung: sitzend; Mitgeführte Gegenstände: Hände an dem einen geöffneten Liederbuch; Kleidung: Dunkelgrüner langer Rock, heller Kragen und braune Stiefel. Keine sichtbare Waffe. Das Liederbuch nur in ausdrücklich benannten Buchszenen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Die Hohensaxsage erzählt von einem Herrn, dem alte Lieder mehr bedeuten als ein kostbarer Besitz.
+Dialoge: keine
+Kontinuität / Änderung: Ein Liederbuch als wiederkehrendes Objekt. Keine Behauptung über seinen heutigen Aufbewahrungsort.
+
+KACHEL 2: Zwischen den Konflikten
+Ort und Zeit: Niederländischer Ort im Sagenrückblick
+Sichtbare Figuren: Hans Philipp von Hohensax beim Liederbuch
+Bildbeschreibung: In einem klar später erzählten Abschnitt seines Lebens steht Hans Philipp mit namenlosen Verbündeten vor einem beschädigten Tor. Keine Körper und kein neu eingeführtes Schwert. Sein Liederbuch liegt sicher außerhalb der Szene, nicht als Schild am Arm. Verbindliche Zustände: Hans Philipp von Hohensax beim Liederbuch: Ort: an einem von Auseinandersetzungen gezeichneten Stadttor; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner langer Rock, heller Kragen und braune Stiefel. Keine sichtbare Waffe. Das Liederbuch nur in ausdrücklich benannten Buchszenen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Text nennt ihn einen Kämpfer für Freiheit im Niederland. Dieser Ruhm schützt ihn nicht überall.
+Dialoge: keine
+Kontinuität / Änderung: Rollenbiografie knapp gerahmt, keine erfundene einzelne Schlacht oder heutige politische Gleichsetzung.
+
+KACHEL 3: Der entkommene Mann
+Ort und Zeit: Dunkler Ausgang einer französischen Stadt
+Sichtbare Figuren: Hans Philipp von Hohensax beim Liederbuch
+Bildbeschreibung: Nach Ausbruch einer Verfolgung gelangt er durch einen dunklen Tordurchgang ins Freie. Fern liegen unruhige Lichter, keine gezeigten Opfer und keine pauschal bedrohliche Bevölkerung. Keine Jahreszahl fixiert widersprüchliche Zeitangaben der Vorlage. Verbindliche Zustände: Hans Philipp von Hohensax beim Liederbuch: Ort: in einem seitlichen Tordurchgang; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner langer Rock, heller Kragen und braune Stiefel. Keine sichtbare Waffe. Das Liederbuch nur in ausdrücklich benannten Buchszenen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auch seine Flucht vor Verfolgung in Frankreich gehört zur Überlieferung. Er entkommt mit Mühe.
+Dialoge: keine
+Kontinuität / Änderung: Verfolgung als erzählte Episode, keine Abrechnung mit einem ganzen Land oder einer Konfession.
+
+KACHEL 4: Ein anderes Vermächtnis
+Ort und Zeit: Wieder im Burgraum beim Liederbuch
+Sichtbare Figuren: Hans Philipp von Hohensax beim Liederbuch
+Bildbeschreibung: Zurück in einem Burgraum liegt dasselbe Buch mit zwei dunklen Schließen unter seiner Hand. Er schließt es sorgfältig, als wolle er etwas für andere bewahren. Keine neue Sammlung wächst neben dem Original. Verbindliche Zustände: Hans Philipp von Hohensax beim Liederbuch: Ort: am gleichen Tisch; Körperhaltung: sitzend; Mitgeführte Gegenstände: eine Hand am geschlossenen braunen Liederbuch; Kleidung: Dunkelgrüner langer Rock, heller Kragen und braune Stiefel. Keine sichtbare Waffe. Das Liederbuch nur in ausdrücklich benannten Buchszenen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hans Philipp von Hohensax beim Liederbuch
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Diese Stimmen sollen nicht verstummen.“
+Kontinuität / Änderung: Freie Dialogadaption über seine belegte Wertschätzung im Text, kein angebliches Originalzitat.
+
+KACHEL 5: Der Neffe
+Ort und Zeit: Gang der Burg
+Sichtbare Figuren: Hans Philipp von Hohensax beim Liederbuch, Ulrich Georg als Neffe der Hohensaxsage
+Bildbeschreibung: Hans Philipp und sein Neffe stehen sich im Gang gegenüber. Der Blick des jüngeren Mannes ist verschlossen; keine Waffe wird gezogen. Das eine Buch liegt nur durch die offene Tür sichtbar auf dem Tisch. Verbindliche Zustände: Hans Philipp von Hohensax beim Liederbuch: Ort: vor der offenen Tür zum Buchraum; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüner langer Rock, heller Kragen und braune Stiefel. Keine sichtbare Waffe. Das Liederbuch nur in ausdrücklich benannten Buchszenen.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Ulrich Georg als Neffe der Hohensaxsage: Ort: ihm gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelroter langer Rock, schwarzer Gürtel und braune Stiefel. Keine sichtbare Waffe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Sein Neffe Ulrich Georg wird als Mörder genannt. Warum es geschieht, bleibt im Text nur vermutet.
+Dialoge: keine
+Kontinuität / Änderung: Keine ungesicherte religiöse Motivbehauptung als Tatsache und kein zusätzlicher Augenzeugenbericht.
+
+KACHEL 6: Die geschlossene Tür
+Ort und Zeit: Burgraum nach der Tötung
+Sichtbare Figuren: keine
+Bildbeschreibung: Die Tür ist geschlossen, auf dem Tisch vor dem Fenster liegt das braune Liederbuch mit zwei dunklen Schließen. Ein dunkler Stuhl steht leer. Keine Leiche, kein Blut und keine tatverdächtige Waffe im Bild.
+Erzählertext: Hans Philipp wird getötet. Der Erzähler vermutet ein Glaubensmotiv; Gewissheit schafft er damit nicht.
+Dialoge: keine
+Kontinuität / Änderung: Tod außerhalb des Bildes. Hans Philipp erscheint ab jetzt nicht mehr lebend. Unzuverlässige Jahresangabe der Quelle nicht als belegte Chronologie übernehmen.
+
+KACHEL 7: Das Buch geht weiter
+Ort und Zeit: Bibliotheksraum in Heidelberg
+Sichtbare Figuren: Bewahrer des Liederbuchs in Heidelberg
+Bildbeschreibung: Nach dem Tod gelangt das Buch in eine Bibliothek in Heidelberg. Der Bewahrer hält es mit beiden Händen vor einem freien Regalplatz. Keine zweite identische Ausgabe bei der Burg und kein gleichzeitig transportierter Leichnam im Raum. Verbindliche Zustände: Bewahrer des Liederbuchs in Heidelberg: Ort: vor einem Regal; Körperhaltung: stehend; Mitgeführte Gegenstände: das eine geschlossene braune Liederbuch mit zwei dunklen Schließen; Kleidung: Brauner langer Gelehrtenrock und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Liederschatz gelangt nach Heidelberg. Das Buch kann weitergelesen werden, der Tote nicht weiterleben.
+Dialoge: keine
+Kontinuität / Änderung: Buch und Körper werden fortan getrennt verfolgt. Kein gemeinsamer Transport beider Objekte erfunden.
+
+KACHEL 8: Ein weiterer Besitzerwechsel
+Ort und Zeit: Bibliotheksgang beim Abtransport
+Sichtbare Figuren: keine
+Bildbeschreibung: Zu einer späteren Zeit wird ein geschlossenes Transportbehältnis vorbereitet. Das eine braune Buch mit zwei dunklen Schließen liegt erkennbar obenauf, bevor der Deckel geschlossen wird. Namenlose erwachsene Träger ohne nationale Karikatur stehen daneben.
+Erzählertext: Bechstein erzählt auch vom Fortbringen des Buches nach Frankreich – mit der Polemik seiner eigenen Zeit.
+Dialoge: keine
+Kontinuität / Änderung: Historische Erzählerwertung als solche benannt. Kein heutiger Aufenthaltsort und kein allgemeines Gruppenurteil behauptet.
+
+KACHEL 9: Die andere Ruhestätte
+Ort und Zeit: Kirche von Sennewald nach der Beisetzung
+Sichtbare Figuren: Einwohnerin von Sennewald vor dem Grab
+Bildbeschreibung: Die Frau steht vor einer geschlossenen steinernen Grababdeckung. Ein schlichtes Licht erhellt den Platz. Der Körper bleibt vollständig unsichtbar, das Buch befindet sich nicht auf dem Grab. Verbindliche Zustände: Einwohnerin von Sennewald vor dem Grab: Ort: vor einer geschlossenen Grababdeckung; Körperhaltung: stehend; Mitgeführte Gegenstände: gefaltete leere Hände; Kleidung: Dunkelbraunes langes Kleid, graues Schultertuch und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Hans Philipp wird in Sennewald beigesetzt. Dann entsteht um seinen Leichnam eine neue Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Körper tot und beigesetzt. Keine lebende Doppelung oder Verbindung des Buchtransports mit dem Grab.
+
+KACHEL 10: Ein Zeichen, sagen sie
+Ort und Zeit: Vor derselben geschlossenen Grabstelle
+Sichtbare Figuren: Einwohnerin von Sennewald vor dem Grab
+Bildbeschreibung: Einwohner stehen vor der unveränderten Grababdeckung und sprechen leise miteinander. Die Frau hört aufmerksam zu. Kein unverwesender Körper wird vorgeführt und keine leuchtende Beweisgestalt steigt aus dem Grab. Verbindliche Zustände: Einwohnerin von Sennewald vor dem Grab: Ort: neben anderen Einwohnern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes langes Kleid, graues Schultertuch und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er verwese nicht, heißt es. Manche halten das für Heiligkeit, obwohl er einer anderen Konfession angehörte.
+Dialoge: keine
+Kontinuität / Änderung: Behauptung aus der Sage und ihre Deutung, kein medizinisch oder religiös gesicherter Befund.
+
+KACHEL 11: Verehrung wird Aneignung
+Ort und Zeit: Kirchennische in der Nacht
+Sichtbare Figuren: Fremder Träger in der Reliquiengeschichte
+Bildbeschreibung: Ein fremder Träger verbirgt ein kleines geschlossenes Behältnis unter seinem Mantel. Die Grabstelle bleibt im Schatten; keine abgetrennten Finger, keine offenen Körperteile und kein Vollzug einer Verstümmelung. Verbindliche Zustände: Fremder Träger in der Reliquiengeschichte: Ort: an einer Nische bei der Grabstelle; Körperhaltung: stehend; Mitgeführte Gegenstände: ein kleines geschlossenes hölzernes Behältnis; Kleidung: Grauer langer Mantel mit Kapuze, braune Hose und dunkle Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Zuerst, erzählt der Text, nimmt man heimlich Teile des Leichnams. Aus Verehrung wird Aneignung.
+Dialoge: keine
+Kontinuität / Änderung: Nur indirekte Darstellung der Reliquienentnahme. Körper bleibt tot, keine wundersame Regeneration.
+
+KACHEL 12: Nun fehlt die ganze Ruhestätte
+Ort und Zeit: Kirchenausgang im Morgengrauen
+Sichtbare Figuren: Fremder Träger in der Reliquiengeschichte
+Bildbeschreibung: Zwei Erwachsene tragen eine vollständig blickdicht verhüllte Bahre aus dem Kirchenausgang. Dahinter ist eine offene leere Grabnische zu sehen. Kein Körper und kein Liederbuch auf der Bahre. Verbindliche Zustände: Fremder Träger in der Reliquiengeschichte: Ort: am Ausgang mit einem zweiten namenlosen Erwachsenen; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Hand trägt die Stange einer vollständig geschlossenen Bahre; Kleidung: Grauer langer Mantel mit Kapuze, braune Hose und dunkle Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Schließlich wird der ganze Leichnam fortgebracht. Die Menschen in Sennewald nehmen das nicht hin.
+Dialoge: keine
+Kontinuität / Änderung: Der tote Körper wurde weggetragen, nicht lebend aus dem Grab gegangen. Keine zweite Leiche zurückgelassen.
+
+KACHEL 13: Die erhobene Klage
+Ort und Zeit: Vor der Kirche in Sennewald
+Sichtbare Figuren: Einwohnerin von Sennewald vor dem Grab
+Bildbeschreibung: Die Frau steht mit anderen Einwohnern vor der Kirche und verlangt die Rückgabe. Niemand bietet einen Kaufpreis, niemand führt eine bewaffnete Strafexpedition. Die leere Grabstelle ist nicht als zweites paralleles Ereignis eingeblendet. Verbindliche Zustände: Einwohnerin von Sennewald vor dem Grab: Ort: vor versammelten Einwohnern; Körperhaltung: stehend; Mitgeführte Gegenstände: leere geöffnete Hände; Kleidung: Dunkelbraunes langes Kleid, graues Schultertuch und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Einwohnerin von Sennewald vor dem Grab
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Gedenken heißt nicht, ihn einfach fortzunehmen. Bringt ihn zurück.“
+Kontinuität / Änderung: Überlieferte Klage der Ortsgemeinschaft, keine neue Entführung oder erfundene Schlacht um Reliquien.
+
+KACHEL 14: Zurück, aber nicht dasselbe
+Ort und Zeit: Kirchenraum nach der Rückgabe
+Sichtbare Figuren: Einwohnerin von Sennewald vor dem Grab
+Bildbeschreibung: Die vollständig bedeckte Bahre liegt wieder im Kirchenraum. Die Frau und andere Einwohner halten Abstand; kein Körper wird ausgestellt und niemand wacht auf. Das Liederbuch ist weiterhin außerhalb der Szene, sein eigener Weg wird nicht mit der Rückgabe gleichgesetzt. Verbindliche Zustände: Einwohnerin von Sennewald vor dem Grab: Ort: neben der zurückgebrachten bedeckten Ruhestätte; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelbraunes langes Kleid, graues Schultertuch und grobe Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Der Leichnam kommt zurück. Wer etwas bewahrt, besitzt deshalb noch nicht den Menschen oder seine Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Ende des gewählten Buch- und Erinnerungsbogens. Andere Hohensax-Anekdote gehört einem anderen Freiherrn und wird nicht als Ereignis dieses Toten vermischt.

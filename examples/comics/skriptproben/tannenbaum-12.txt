@@ -1,0 +1,154 @@
+TITEL: Der Tannenbaum – Immer erst morgen
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Tannenbaum mit dem gekrümmten unteren Ast
+Aussehen: Eine schlanke Tanne mit asymmetrischem unteren Ast nach links und kleinem hellen Fleck auf der Rinde. Keine Augen, Arme oder Beine.
+Kleidung: Grüne Nadeln; später Festschmuck nur im Festsaal, nach dem Abschmücken kahle Zweige mit wenigen Nadeln.
+Persönlichkeit und Vorgeschichte: Wartet ständig auf das nächste Leben und erkennt den Wert des Waldes erst, als keine Rückkehr möglich ist.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kleine Maus auf dem Dachboden
+Aussehen: Kleine graubraune Maus mit rundem rechtem Ohr und dunkler Schwanzspitze. Genau vier Pfoten.
+Kleidung: Graubraunes Fell, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Hört der Erzählung des Baumes zu und geht später fort. Keine rettende Zauberkraft.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Arbeiter mit dem Tannenbaum
+Aussehen: Erwachsener Mann mit kurzem braunem Bart und breiten Schultern.
+Kleidung: Graue Wolljacke, braune Hose und feste schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Fällt und transportiert den Baum. Eine beiläufige menschliche Arbeit ist für den Baum ein unumkehrbarer Verlust.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zu klein für heute
+Ort und Zeit: Sonnige Waldlichtung
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast
+Bildbeschreibung: Der junge kleine Baum steht im Sonnenfleck zwischen größeren Tannen. Sein linker unterer Ast ist deutlich gekrümmt. Licht liegt auf den frischen Nadeln; keine menschliche Gesichtsmimik am Stamm. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: fest im Waldboden verwurzelt; Körperhaltung: aufrecht gewachsen; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dichte grüne Nadeln, keine Dekoration; Lebenszustand: lebend; Verletzungen: unversehrt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tannenbaum mit dem gekrümmten unteren Ast
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn ich erst größer wäre.“
+Kontinuität / Änderung: Noch verwurzelt, kein tragbarer Weihnachtsbaum. Jahreszeit Frühling.
+
+KACHEL 2: Wieder ein Jahr
+Ort und Zeit: Dieselbe Lichtung im Sommer
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast
+Bildbeschreibung: Nach weiterem Wachstum streift ein namenloser Hase knapp am unteren Ast vorbei. Der Baum ist höher, doch derselbe linke Ast und der helle Rindenfleck bleiben erkennbar. Sonne und bewegte Gräser füllen den freien Raum. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: an derselben Wurzelstelle; Körperhaltung: höher gewachsen; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Grüne Nadeln und helle neue Triebspitzen; Lebenszustand: lebend; Verletzungen: unversehrt.
+Erzählertext: Er wurde größer. Groß genug war ihm immer erst morgen.
+Dialoge: keine
+Kontinuität / Änderung: Jahreszeit und Höhe ändern sich, Standort und Identität bleiben.
+
+KACHEL 3: Die Fortgefahrenen
+Ort und Zeit: Waldweg an der Lichtung im Spätherbst
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast
+Bildbeschreibung: Hinter dem lebenden Baum fährt ein Wagen mit den gefällten Stämmen anderer, namenloser Bäume vorbei. Sein gekrümmter Ast zeigt zum Weg. Sein eigener Stamm steht noch am selben Platz. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: weiter fest im Waldboden; Körperhaltung: aufrecht gewachsen; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Dunkelgrüne Nadeln ohne Schnee; Lebenszustand: lebend; Verletzungen: unversehrt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tannenbaum mit dem gekrümmten unteren Ast
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wohin sie wohl kommen? Dort muss es herrlich sein.“
+Kontinuität / Änderung: Transportierte Stämme sind andere Bäume. Die Hauptfigur ist noch nicht gefällt.
+
+KACHEL 4: Aus dem Boden
+Ort und Zeit: Waldrand im Winter
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast, Arbeiter mit dem Tannenbaum
+Bildbeschreibung: Nach dem Fällen liegt die Tanne waagerecht neben ihrem eigenen niedrigen Stumpf. Der Arbeiter steht mit gesenkter Axt daneben. Der Wurzelstock bleibt im Boden; keine freigerissenen Wurzeln am transportierbaren Stamm. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: im Schnee neben dem Stumpf; Körperhaltung: seitlich liegend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Grüne Nadeln mit etwas Schnee; Lebenszustand: lebend; Verletzungen: Stamm am unteren Ende glatt durchtrennt; keine Wurzeln am Baum. Arbeiter mit dem Tannenbaum: Ort: neben der gefällten Tanne; Körperhaltung: stehend; Mitgeführte Gegenstände: eine gesenkte Axt; Kleidung: Graue Wolljacke, braune Hose und feste schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Als man ihn endlich fortbringen wollte, konnte er nicht mehr zurückwachsen.
+Dialoge: keine
+Kontinuität / Änderung: Endgültige Trennung von den Wurzeln. Kein zweiter stehender Hauptbaum.
+
+KACHEL 5: Alles für den Abend
+Ort und Zeit: Wohnstube eines Hauses
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast, Arbeiter mit dem Tannenbaum
+Bildbeschreibung: Nach dem Transport richtet der Arbeiter die geschmückte Tanne im Kreuzständer aus. Der gekrümmte untere Ast trägt einen roten Apfel. Alle Kerzen sind noch aus, niemand tanzt schon um ihn. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: in einem hölzernen Kreuzständer; Körperhaltung: aufrecht eingespannt; Mitgeführte Gegenstände: Festschmuck an den Zweigen; Kleidung: Grüne Nadeln, rote Äpfel, Papierketten und unentzündete Kerzen; Lebenszustand: lebend; Verletzungen: Abgesägtes Stammende im Ständer. Arbeiter mit dem Tannenbaum: Ort: neben dem Ständer; Körperhaltung: kniend; Mitgeführte Gegenstände: Hände am Holzständer; Kleidung: Graue Wolljacke, braune Hose und feste schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tannenbaum mit dem gekrümmten unteren Ast
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt fängt es an.“
+Kontinuität / Änderung: Innenraum nach Transport. Genau ein Baum, keine Wurzeln. Kerzen werden erst zum Fest entzündet.
+
+KACHEL 6: Der glänzende Abend
+Ort und Zeit: Dieselbe Wohnstube bei Nacht
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast
+Bildbeschreibung: Die Kerzen brennen unter beaufsichtigten Bedingungen. Vollständig bekleidete Kinder und Erwachsene stehen als namenlose Festgesellschaft um den Baum. Lichter spiegeln sich in seinen grünen Nadeln. Kein anderer Zeitpunkt in derselben Kachel. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: im selben Kreuzständer; Körperhaltung: aufrecht eingespannt; Mitgeführte Gegenstände: Festschmuck an den Zweigen; Kleidung: Grüne Nadeln, rote Äpfel, Papierketten und brennende Kerzen; Lebenszustand: lebend; Verletzungen: Abgesägtes Stammende im Ständer.
+Erzählertext: Einen Abend lang war er die Mitte des Zimmers.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Dekoration wie zuvor, jetzt mit entzündeten Kerzen. Keine Waldwurzeln.
+
+KACHEL 7: Danach
+Ort und Zeit: Wohnstube am folgenden Morgen
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast
+Bildbeschreibung: Am Morgen sind Kerzen, Äpfel und Papierketten entfernt. Der Baum steht allein im Raum. Ein paar abgefallene Nadeln liegen neben dem Fuß; das Licht aus dem Fenster ist kühl. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: noch im Kreuzständer; Körperhaltung: aufrecht eingespannt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Zweige mit weniger grünen Nadeln; kein Festschmuck; Lebenszustand: lebend; Verletzungen: Abgesägter Stamm, erste trockene Nadeln.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tannenbaum mit dem gekrümmten unteren Ast
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Vielleicht ist morgen wieder ein Fest.“
+Kontinuität / Änderung: Vollständig abgeschmückt. Später keine erneut leuchtenden Kerzen am Baum.
+
+KACHEL 8: Aufbewahrt
+Ort und Zeit: Dunkler Dachboden
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast, Arbeiter mit dem Tannenbaum
+Bildbeschreibung: Nach Herausnehmen aus dem Ständer und Hinauftragen liegt die Tanne seitlich unter dem Dach. Der Arbeiter hat sie abgelegt und zieht die Tür zu. Ein schmaler Lichtspalt schneidet über den gekrümmten Ast. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: auf dem Boden unter den Sparren; Körperhaltung: seitlich liegend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Trocknende grüne Nadeln, ohne Schmuck; Lebenszustand: lebend; Verletzungen: Abgetrennter trocknender Stamm. Arbeiter mit dem Tannenbaum: Ort: an der niedrigen Dachbodentür; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Graue Wolljacke, braune Hose und feste schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Man stellte ihn nicht für das nächste Fest bereit. Man stellte ihn aus dem Weg.
+Dialoge: keine
+Kontinuität / Änderung: Ständer bleibt unten. Im Dachboden kein stehender, eingetopfter oder bewurzelter Baum.
+
+KACHEL 9: Der erzählte Glanz
+Ort und Zeit: Dachboden an einem Winterabend
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast, Kleine Maus auf dem Dachboden
+Bildbeschreibung: Die kleine Maus sitzt auf dem eindeutig gekrümmten Ast des liegenden Baumes. Nur Staublicht aus einer Dachritze, keine real wiederaufgeflammten Festkerzen und keine dargestellte Rückblende. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: unter denselben Sparren; Körperhaltung: seitlich liegend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Vertrocknende Nadeln ohne Schmuck; Lebenszustand: lebend; Verletzungen: Abgetrennter trockener Stamm. Kleine Maus auf dem Dachboden: Ort: auf dem gekrümmten unteren Ast; Körperhaltung: hockend; Mitgeführte Gegenstände: leere Vorderpfoten; Kleidung: Graubraunes Fell, keine Kleidung.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tannenbaum mit dem gekrümmten unteren Ast
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Alle standen um mich. Alles leuchtete.“
+Dialog 2:
+  Sprecher: Kleine Maus auf dem Dachboden
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Und davor?“
+Kontinuität / Änderung: Maus und Baum sprechen märchenhaft. Erzähltes Fest ist nur Erinnerung.
+
+KACHEL 10: Die leere Zuhörerstelle
+Ort und Zeit: Dachboden einige Wochen später
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast
+Bildbeschreibung: Die Stelle auf dem gekrümmten Ast ist leer. Auch die Maus kommt nicht mehr. Durch die Dachritze fällt ein schmaler heller Streifen auf abgestreifte Nadeln. Kein Mausgeist. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: am unveränderten Lagerplatz; Körperhaltung: seitlich liegend; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braun werdende Nadeln; viele abgefallen; Lebenszustand: lebend; Verletzungen: Trocken und von der Wurzel getrennt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Tannenbaum mit dem gekrümmten unteren Ast
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Im Wald war jeden Morgen jemand da. Selbst der Wind.“
+Kontinuität / Änderung: Maus ist fort, nicht tot. Späte Rückwendung zum früher übersehenen Wald.
+
+KACHEL 11: Frühling ohne Rückkehr
+Ort und Zeit: Hof hinter dem Haus
+Sichtbare Figuren: Tannenbaum mit dem gekrümmten unteren Ast, Arbeiter mit dem Tannenbaum
+Bildbeschreibung: Im Frühling liegt das zerkleinerte trockene Holz der Tanne neben dem Hackklotz. Ein Stück mit hellem Rindenfleck und der abgeschnittene krumme Ast kennzeichnen sie. Blühende Pflanzen am Hofrand bleiben außerhalb seiner Reichweite. Verbindliche Zustände: Tannenbaum mit dem gekrümmten unteren Ast: Ort: neben einem niedrigen Hackklotz; Körperhaltung: in mehrere Stammstücke und Zweige zerlegt; Mitgeführte Gegenstände: keine Gegenstände; Kleidung: Braune Nadeln an wenigen abgeschnittenen Zweigen; Lebenszustand: tot; Verletzungen: Zerkleinertes trockenes Holz; keine Wurzeln. Arbeiter mit dem Tannenbaum: Ort: neben dem Holzkorb; Körperhaltung: stehend; Mitgeführte Gegenstände: gesenkte Axt; Kleidung: Graue Wolljacke, braune Hose und feste schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er erinnerte sich an die Sonne zwischen seinen Zweigen. Jetzt blühte es ohne ihn.
+Dialoge: keine
+Kontinuität / Änderung: Zerkleinerung beendet; keine vollständig stehende oder wieder eingepflanzte Tanne.
+
+KACHEL 12: Was nicht wiederkommt
+Ort und Zeit: Äußerer Blick auf das Haus am Abend
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine entfernte Ofenfensterscheibe im Haus glüht warm. Auf dem Hof liegt nur noch eine kleine Spur trockener Nadeln neben dem leeren Holzkorb. Keine Baumgestalt in den Flammen und keine Leidensdetails.
+Erzählertext: Das Holz verbrannte. Das Leben, auf das er immer gewartet hatte, war schon der Wald gewesen.
+Dialoge: keine
+Kontinuität / Änderung: Baum endgültig verbrannt, kein Nachwachsen und keine Rettung.

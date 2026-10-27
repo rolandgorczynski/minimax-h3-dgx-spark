@@ -1,0 +1,189 @@
+TITEL: Des Kaisers neue Kleider – Was niemand sehen darf
+AUTOR:
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Eigenständige Bildgestaltung; klare Silhouetten, wechselnde Einstellungsgrößen und ruhige Konsequenz statt erklärender Dauerdialoge. Stil bleibt offen.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kaiser der unsichtbaren Kleider
+Aussehen: Erwachsener rundlicher Mann mit hochgezwirbeltem schwarzem Schnurrbart und sorgfältig frisiertem Haar.
+Kleidung: Zuerst violette Hofrobe und kleine Krone. Beim Ankleiden und Umzug keine Robe; intime Bereiche stets durch Ausschnitt oder Vordergrund verdeckt.
+Persönlichkeit und Vorgeschichte: Ist auf sein Ansehen bedacht. Ahnt am Schluss die Wahrheit, hält die Prozession aber aufrecht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Erster falscher Weber
+Aussehen: Erwachsener schlanker Mann mit schwarzem Spitzbart.
+Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Erfindet die angebliche Unsichtbarkeit für Dumme und Untaugliche. Zu keinem Zeitpunkt existiert Zauberstoff.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweiter falscher Weber
+Aussehen: Erwachsener breiter Mann mit kurzem rotem Haar und bartlosem Gesicht.
+Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Verstärkt die Täuschung durch Arbeits- und Ankleidegesten an leerer Luft.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alter Minister des Kaisers
+Aussehen: Älterer dünner Mann mit grauem Haar und vorsichtigem Blick.
+Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.
+Persönlichkeit und Vorgeschichte: Bestätigt aus Angst um sein Amt etwas, das er nicht sieht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweiter Beamter am Webstuhl
+Aussehen: Erwachsener Mann mit braunem Haar und schmalem Gesicht.
+Kleidung: Dunkelgrüne Amtsrobe und goldene Amtskette.
+Persönlichkeit und Vorgeschichte: Wiederholt das Lob, weil ein Eingeständnis sein Ansehen bedrohen würde.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kind am Rand des Kaiserumzugs
+Aussehen: Etwa siebenjähriges Kind mit braunen kurzen Locken und offenem Blick.
+Kleidung: Helles Hemd, blaue Latzhose und braune Schuhe; immer vollständig bekleidet.
+Persönlichkeit und Vorgeschichte: Benennt ohne Rücksicht auf den höfischen Gruppendruck, was sichtbar ist. Entkleidet niemanden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das unwiderstehliche Angebot
+Ort und Zeit: Kaiserliches Ankleidezimmer
+Sichtbare Figuren: Kaiser der unsichtbaren Kleider, Erster falscher Weber, Zweiter falscher Weber
+Bildbeschreibung: Die Weber stehen ohne Stoffprobe vor dem Kaiser. Hinter ihm hängt eine große Auswahl prächtiger vorhandener Gewänder. Seine Aufmerksamkeit gilt den beiden Männern statt seinem Spiegelbild. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: vor einem Wandspiegel; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violette Hofrobe und kleine goldene Krone; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Erster falscher Weber: Ort: vor dem Kaiser; Körperhaltung: stehend; Mitgeführte Gegenstände: leere zeigende Hände; Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter falscher Weber: Ort: neben dem Ersten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster falscher Weber
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Unser Stoff bleibt Dummen und Untauglichen unsichtbar.“
+Dialog 2:
+  Sprecher: Kaiser der unsichtbaren Kleider
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann erkenne ich endlich, wer hier etwas taugt.“
+Kontinuität / Änderung: Behauptung der Betrüger, keine reale magische Eigenschaft.
+
+KACHEL 2: Bezahlte Leere
+Ort und Zeit: Werkstatt im Palast
+Sichtbare Figuren: Erster falscher Weber, Zweiter falscher Weber
+Bildbeschreibung: Die Webrahmen sind vollständig leer, keine Kettfäden und kein durchsichtiger Stoff. Der Zweite verstaut echte bezahlte Seide in einer verschlossenen Truhe statt sie einzufädeln. Verbindliche Zustände: Erster falscher Weber: Ort: am leeren Webstuhl; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände in Webbewegung; Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter falscher Weber: Ort: an einer Materialtruhe; Körperhaltung: stehend; Mitgeführte Gegenstände: echte Seidenrolle; Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Das Material verschwand in ihrer Truhe. Auf den Webstühlen blieb nichts.
+Dialoge: keine
+Kontinuität / Änderung: Echte Seide wird unterschlagen, nicht zu unsichtbarem Gewebe verarbeitet.
+
+KACHEL 3: Der erste Prüfer
+Ort und Zeit: Werkstatt am leeren Webrahmen
+Sichtbare Figuren: Alter Minister des Kaisers, Erster falscher Weber
+Bildbeschreibung: Der Minister sieht durch den unbespannten Rahmen die nackte Wand. Ein enger Blick auf seine angespannten Finger hinter dem Rücken verrät die Angst, während er mühsam lächelt. Verbindliche Zustände: Erster falscher Weber: Ort: seitlich am Rahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand zeigt durch leere Luft; Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Minister des Kaisers: Ort: vor dem leeren Webstuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: Hände hinter dem Rücken; Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster falscher Weber
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Seht Ihr die feinen Muster?“
+Dialog 2:
+  Sprecher: Alter Minister des Kaisers
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Äußerst fein.“
+Kontinuität / Änderung: Minister sieht tatsächlich nichts. Keine Gedankenblase mit einem realen Kleid.
+
+KACHEL 4: Das erste Lob
+Ort und Zeit: Kaiserlicher Empfangsraum
+Sichtbare Figuren: Alter Minister des Kaisers, Kaiser der unsichtbaren Kleider
+Bildbeschreibung: Der Minister berichtet mit steifem Lächeln, der Kaiser lehnt sich zufrieden vor. Der offene Türrahmen hinter dem Minister erinnert als leeres Rechteck an den Webstuhl. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: auf einem gepolsterten Stuhl; Körperhaltung: sitzend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violette Hofrobe und kleine goldene Krone; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Minister des Kaisers: Ort: vor dem Kaiser; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alter Minister des Kaisers
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ein prächtiges Werk. Eurer Majestät würdig.“
+Kontinuität / Änderung: Falscher Bericht nach der Besichtigung; Werkstatt und Empfangsraum nicht gleichzeitig im Bild.
+
+KACHEL 5: Noch ein Zeuge
+Ort und Zeit: Werkstatt
+Sichtbare Figuren: Zweiter Beamter am Webstuhl, Zweiter falscher Weber
+Bildbeschreibung: Ein zweiter Beamter starrt auf die identisch leere Arbeitsfläche. Der falsche Weber hält den vermeintlichen Saum mit demonstrativer Genauigkeit. Der Beamte richtet seine Amtskette gerade. Verbindliche Zustände: Zweiter falscher Weber: Ort: neben dem Rahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: Finger spreizen einen nicht vorhandenen Saum; Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter Beamter am Webstuhl: Ort: vor dem Webstuhl; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Amtsrobe und goldene Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Zweiter falscher Weber
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Euer Kollege war begeistert.“
+Dialog 2:
+  Sprecher: Zweiter Beamter am Webstuhl
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mit Recht. Welch eine Farbe.“
+Kontinuität / Änderung: Zweiter eigenständiger Prüfer. Das frühere Lob erhöht den sozialen Druck.
+
+KACHEL 6: Der Kaiser sieht nach
+Ort und Zeit: Werkstatt vor beiden leeren Webstühlen
+Sichtbare Figuren: Kaiser der unsichtbaren Kleider, Alter Minister des Kaisers, Zweiter Beamter am Webstuhl, Erster falscher Weber, Zweiter falscher Weber
+Bildbeschreibung: Der Kaiser blickt durch den leeren Rahmen, die Beamten beobachten sein Gesicht statt die Arbeit. Seine Hand krallt sich in die vorhandene violette Robe. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: zwischen den Beamten; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Violette Hofrobe und kleine goldene Krone; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Erster falscher Weber: Ort: vor dem ersten Rahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter falscher Weber: Ort: vor dem zweiten Rahmen; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Minister des Kaisers: Ort: links vom Kaiser; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter Beamter am Webstuhl: Ort: rechts vom Kaiser; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Amtsrobe und goldene Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kaiser der unsichtbaren Kleider
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ja. Ausgezeichnet.“
+Kontinuität / Änderung: Auch der Kaiser sieht nichts und lobt trotzdem. Noch vollständig in seiner echten Hofrobe.
+
+KACHEL 7: Der nicht vorhandene Zuschnitt
+Ort und Zeit: Werkstatt am Zuschneidetisch
+Sichtbare Figuren: Erster falscher Weber, Zweiter falscher Weber
+Bildbeschreibung: In einer Nachtschicht schneiden die Männer pantomimisch über dem leeren Tisch. Die reale Schere schließt in leerer Luft. Nebenan bleibt die Materialtruhe geschlossen. Verbindliche Zustände: Erster falscher Weber: Ort: am leeren Tisch; Körperhaltung: stehend; Mitgeführte Gegenstände: eine Schere; Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter falscher Weber: Ort: gegenüber; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände als hielten sie Stoff; Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Je mehr Zuschauer es gab, desto weniger wagte jemand, die Leere zu benennen.
+Dialoge: keine
+Kontinuität / Änderung: Keine neue Stoffbahn; auch im Gegenlicht und nachts bleibt der Tisch leer.
+
+KACHEL 8: Angezogen mit Gesten
+Ort und Zeit: Ankleidezimmer des Kaisers
+Sichtbare Figuren: Kaiser der unsichtbaren Kleider, Erster falscher Weber, Zweiter falscher Weber
+Bildbeschreibung: Die abgelegte violette Robe hängt sichtbar auf einem Ständer. Der Kaiser steht hinter dem hohen blickdichten Paravent; nur Kopf und Schultern ragen darüber. Die Männer kleiden ihn mit leeren Gesten ein. Keine sichtbaren intimen Körperteile. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: hinter einem hohen verzierten Paravent; Körperhaltung: stehend; Mitgeführte Gegenstände: leere erhobene Hände; Kleidung: Keine Robe; kleine Krone. Nur Kopf, Schultern und Beine im Bild; intime Bereiche vollständig durch Vordergrund verdeckt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Erster falscher Weber: Ort: neben dem Paravent; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände am vermeintlichen Kragen; Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter falscher Weber: Ort: auf der anderen Seite; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände am vermeintlichen Ärmel; Kleidung: Braunes Wams, dunkle Hose und schwarze Schuhe.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster falscher Weber
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „So leicht, dass Ihr es kaum spüren werdet.“
+Kontinuität / Änderung: Reale Hofrobe wurde abgelegt; niemals ein transparentes Kleid ergänzen.
+
+KACHEL 9: Die Prozession
+Ort und Zeit: Straße vor dem Palast
+Sichtbare Figuren: Kaiser der unsichtbaren Kleider, Alter Minister des Kaisers, Zweiter Beamter am Webstuhl
+Bildbeschreibung: Der Kaiser schreitet vorwärts. Eine große Blumengirlande im nahen Vordergrund verdeckt lückenlos seinen Rumpf unterhalb der Schultern bis oberhalb der Knie. Kopf, nackte Schultern, Unterschenkel und Schuhe erzählen die Situation. Am Rand verbeugen sich vollständig bekleidete Erwachsene. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: unter einem getragenen Baldachin; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Keine Robe; kleine Krone. Nur Kopf, Schultern und Beine im Bild; intime Bereiche vollständig durch Vordergrund verdeckt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Minister des Kaisers: Ort: neben dem Baldachin; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter Beamter am Webstuhl: Ort: auf der anderen Seite; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Amtsrobe und goldene Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Auf der Straße lobten sie, was im Palast schon alle gelobt hatten.
+Dialoge: keine
+Kontinuität / Änderung: Keine Robe auf Kaiser oder imaginäre Schleppe sichtbar; Verdecken geschieht durch echten Vordergrund.
+
+KACHEL 10: Ein Satz ohne Berechnung
+Ort und Zeit: Rand der Prozessionsstraße
+Sichtbare Figuren: Kind am Rand des Kaiserumzugs
+Bildbeschreibung: Das vollständig bekleidete Kind blickt erstaunt aus der Menge. Der Kaiser bleibt außerhalb des Bildes. Hinter dem Kind stockt das erstarrte Lächeln erwachsener Zuschauer. Verbindliche Zustände: Kind am Rand des Kaiserumzugs: Ort: zwischen bekleideten Zuschauern; Körperhaltung: stehend; Mitgeführte Gegenstände: Hand zeigt zum Umzug; Kleidung: Helles Hemd, blaue Latzhose und braune Schuhe; immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kind am Rand des Kaiserumzugs
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Aber er hat doch gar nichts an!“
+Kontinuität / Änderung: Kind beobachtet und spricht; berührt oder entkleidet niemanden.
+
+KACHEL 11: Jetzt hörbar
+Ort und Zeit: Prozessionsstraße
+Sichtbare Figuren: Kaiser der unsichtbaren Kleider, Alter Minister des Kaisers, Kind am Rand des Kaiserumzugs
+Bildbeschreibung: Aus einem Flüstern wird eine gemeinsame Reaktion der Zuschauer; keine zusätzlichen unzugeordneten Sprechblasen. Der Kaiser hört hin und sein Lächeln bricht ab. Wieder schützt eine breite reale Blumengirlande den kompletten intimen Bereich. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: unter dem Baldachin; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Keine Robe; kleine Krone. Nur Kopf, Schultern und Beine im Bild; intime Bereiche vollständig durch Vordergrund verdeckt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Minister des Kaisers: Ort: links hinter dem Kaiser; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Kind am Rand des Kaiserumzugs: Ort: am Straßenrand; Körperhaltung: stehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Helles Hemd, blaue Latzhose und braune Schuhe; immer vollständig bekleidet.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Erst flüsterten sie es. Dann sagte die ganze Straße, was das Kind gesehen hatte.
+Dialoge: keine
+Kontinuität / Änderung: Öffentliche Einsicht ist da; der Umzug hat noch nicht aufgehört.
+
+KACHEL 12: Weitergehen
+Ort und Zeit: Straße hinter dem Palastplatz
+Sichtbare Figuren: Kaiser der unsichtbaren Kleider, Alter Minister des Kaisers, Zweiter Beamter am Webstuhl
+Bildbeschreibung: Seitliche Nahaufnahme des Kaiserprofils oberhalb der Schultern. Sein Kinn hebt sich starr, während der Baldachin weiterzieht. Ein Bildrand schneidet den gesamten Rumpf ab; im Hintergrund laufen die ratlosen Beamten mit. Keine Robe, keine Entschuldigung und kein Jubel. Verbindliche Zustände: Kaiser der unsichtbaren Kleider: Ort: unter dem weitergetragenen Baldachin; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Keine Robe; kleine Krone. Nur Kopf, Schultern und Beine im Bild; intime Bereiche vollständig durch Vordergrund verdeckt; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Alter Minister des Kaisers: Ort: hinter dem Kaiser; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelblaue Amtsrobe, weiße Halskrause, kleine Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt. Zweiter Beamter am Webstuhl: Ort: neben dem Minister; Körperhaltung: gehend; Mitgeführte Gegenstände: leere Hände; Kleidung: Dunkelgrüne Amtsrobe und goldene Amtskette.; Fortbewegung: zu Fuß; Lebenszustand: lebend; Verletzungen: unverletzt.
+Erzählertext: Er hatte es gehört. Anhalten hätte bedeutet, es zuzugeben.
+Dialoge: keine
+Kontinuität / Änderung: Überlieferter Schluss: Die Prozession geht trotz erkannter Täuschung weiter.

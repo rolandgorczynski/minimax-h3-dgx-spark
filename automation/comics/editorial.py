@@ -18,10 +18,10 @@ def export(store,job):
     root=store.directory(job);bundle=root/'comic-bundle.zip';temporary=bundle.with_suffix('.tmp')
     with zipfile.ZipFile(temporary,'w',zipfile.ZIP_DEFLATED) as archive:
         for path in sorted(root.rglob('*')):
-            if path.is_file() and path.suffix not in ('.zip','.tmp') and 'checkpoints' not in path.parts:archive.write(path,path.relative_to(root))
+            if path.is_file() and path.suffix not in ('.zip','.tmp') and path.name!='editing-draft.json' and 'checkpoints' not in path.parts:archive.write(path,path.relative_to(root))
     temporary.replace(bundle)
     artifacts=[{'name':str(p.relative_to(root)),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),
-                'url':f'/jobs/{job}/artifacts/{p.relative_to(root)}'} for p in sorted(root.rglob('*')) if p.is_file() and p.suffix!='.tmp' and 'checkpoints' not in p.parts]
+                'url':f'/jobs/{job}/artifacts/{p.relative_to(root)}'} for p in sorted(root.rglob('*')) if p.is_file() and p.suffix!='.tmp' and p.name!='editing-draft.json' and 'checkpoints' not in p.parts]
     return artifacts
 
 

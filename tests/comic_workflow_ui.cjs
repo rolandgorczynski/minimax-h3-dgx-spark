@@ -7,6 +7,7 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   const page=await browser.newPage({viewport:{width:1440,height:1100}}),errors=[],calls=[];
   page.on('pageerror',e=>errors.push(String(e)));
   const cid='a'.repeat(32),sid='b'.repeat(32),task='c'.repeat(32),job='d'.repeat(32);
+  let publishTargets={x_url:'https://x.com/alt',substack_url:'https://substack.com/@alt'},telegramTarget={channel:'@alter_kanal',channel_id:-10012345};
   let activePlanning=null;let story={id:sid,version:1,name:'Die Geisterbrücke',mode:'editorial',payload:{article:'Ria findet einen Geist.',planned_article:'Ria findet einen Geist.',planned_count:1,panel_count:1,style:'Klassischer Comic',visual_style_pending:true,seed:1984,characters:[{id:cid,name:'Ria',description:'Erwachsene Frau.',outfit:'Mantel.',references:[]}],scenes:[{heading:'',story:'Ria steht an einer Brücke.',dialog:'',characters:[cid],bubbles:[]}]}};
   const source={id:'probe',title:'Die Geisterbrücke',kind:'Buch',creator:'Test',edition:'Historische Vorlage',url:'',territories:'Deutschland',rights:'Testvorlage.',text:'Ria findet einen Geist.',post_summary:'Ein Geist an der Brücke.',category:'Geister und Spuk',collection:'Test',script_ready:true};
   const meaning={core:'Vertrauen verändert die Begegnung.',causal_chain:['Ria trifft den Geist.','Ria überwindet ihre Angst.'],ending:'Die Begegnung bleibt offen.',recommended_count:6,reason:'Zeit für die Entscheidung.',episodes:[{episode:1,title:'Die Brücke',arc:'Begegnung und Entscheidung.',ending:'Offene Frage.'}],source_sha256:'probe',fixed_count:1,panels_per_episode:6};
@@ -15,6 +16,8 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
    const req=route.request(),url=new URL(req.url()),p=url.pathname,method=req.method();let data=req.postData()?JSON.parse(req.postData()):null;
    calls.push({path:p,method,data});const reply=value=>route.fulfill({contentType:'application/json',body:JSON.stringify(value)});
    if(p==='/'||p.endsWith('.js'))return route.fulfill({contentType:p==='/'?'text/html':'text/javascript',body:fs.readFileSync(path.join(web,p==='/'?'index.html':path.basename(p)))});
+   if(p==='/sharing'){if(method==='PUT')publishTargets=data;return reply(publishTargets)}
+   if(p==='/telegram-publishing'){if(method==='PUT')telegramTarget={channel:data.channel,channel_id:-10067890};return reply({configured:true,ready:true,target:telegramTarget})}
    if(p==='/styles')return reply({styles:catalog.map(s=>s.name),catalog:catalog.map(s=>({...s,preview:'/style-previews/'+s.id+'.webp'}))});
    if(p==='/page-templates')return reply({templates:[{id:'standard',name:'Standard',category:'Raster',count:1,aspect_ratio:1,slots:[[0,0,1,1]]}]});
    if(p==='/narrative-tasks'&&method==='POST')return reply({id:'f'.repeat(32),status:'queued'});
@@ -99,6 +102,19 @@ const root=path.join(__dirname,'..'),web=path.join(root,'automation/comics');
   activePlanning=null;
   await page.click('[data-workflow-step="publish"]');
   assert(await page.locator('#workflow-publish').isVisible());
+  await page.waitForFunction(()=>document.getElementById('publish-x-url').value==='https://x.com/alt');
+  assert.equal(await page.locator('#publish-telegram-channel').inputValue(),'@alter_kanal');
+  await page.fill('#publish-x-url','https://x.com/neu');
+  await page.click('[data-workflow-step="edit"]');await page.click('[data-workflow-step="publish"]');
+  await page.waitForFunction(()=>!publishProfileLoading);assert.equal(await page.locator('#publish-x-url').inputValue(),'https://x.com/neu');
+  await page.click('#publish-x-save');await page.waitForFunction(()=>!publishProfileDirty.x);assert.equal(publishTargets.x_url,'https://x.com/neu');assert.equal(publishTargets.substack_url,'https://substack.com/@alt');
+  await page.fill('#publish-substack-url','https://substack.com/@neu');await page.click('#publish-substack-save');await page.waitForFunction(()=>!publishProfileDirty.substack);
+  assert.equal(publishTargets.substack_url,'https://substack.com/@neu');assert.equal(publishTargets.x_url,'https://x.com/neu');
+  await page.fill('#publish-telegram-channel','@neuer_kanal');await page.click('#publish-telegram-save');await page.waitForFunction(()=>!publishProfileDirty.telegram);assert.equal(telegramTarget.channel,'@neuer_kanal');
+  await page.evaluate(()=>{document.getElementById('publish-x-url').value='';document.getElementById('publish-telegram-channel').value=''});
+  await page.click('[data-workflow-step="edit"]');await page.click('[data-workflow-step="publish"]');await page.waitForFunction(()=>document.getElementById('publish-x-url').value==='https://x.com/neu');assert.equal(await page.locator('#publish-telegram-channel').inputValue(),'@neuer_kanal');
+  assert(!calls.some(c=>c.path.endsWith('/share/telegram')&&c.method==='POST'));
+
   assert.equal(await page.locator('#workflow-publish #telegram-share').count(),1);
   assert.equal(await page.locator('#workflow-publish #book-exporter').count(),1);
   await page.evaluate(()=>{fillDefinition(null);showWorkflowInput('own')});

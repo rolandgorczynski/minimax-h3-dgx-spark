@@ -93,3 +93,31 @@ Alle folgenden Skripte sind bereits als eigene bearbeitbare Geschichten unter **
 | Fundevogel – Wenn du mich nicht verlässt | 12 | [Text](fundevogel-versprechen-12.txt) | [JSON](fundevogel-versprechen-12.json) |
 | Das blaue Licht – Der Ausweg aus dem Brunnen | 10 | [Text](blaues-licht-brunnen-10.txt) | [JSON](blaues-licht-brunnen-10.json) |
 | Die Kristallkugel – Das Ei im Feuervogel | 16 | [Text](kristallkugel-16.txt) | [JSON](kristallkugel-16.json) |
+| Die drei Federn – Der unterschätzte Weg | 12 | [Text](drei-federn-12.txt) | [JSON](drei-federn-12.json) |
+| Die Gänsemagd – Die vertauschte Braut | 14 | [Text](gaensemagd-14.txt) | [JSON](gaensemagd-14.json) |
+| Die Schneekönigin – Wärme im Eispalast | 12 | [Text](schneekoenigin-12.txt) | [JSON](schneekoenigin-12.json) |
+| Des Kaisers neue Kleider – Was niemand sehen darf | 12 | [Text](kaiser-kleider-12.txt) | [JSON](kaiser-kleider-12.json) |
+| Der Tannenbaum – Immer erst morgen | 12 | [Text](tannenbaum-12.txt) | [JSON](tannenbaum-12.json) |
+| Der Schatten – Der Diener wird zum Herrn | 14 | [Text](schatten-14.txt) | [JSON](schatten-14.json) |
+| Das Mädchen mit den Schwefelhölzern – Ein Licht nach dem anderen | 12 | [Text](schwefelhoelzer-12.txt) | [JSON](schwefelhoelzer-12.json) |
+| Die Zeitmaschine – Der erste Blick auf das Jahr 802701 | 12 | [Text](zeitmaschine-ankunft-12.txt) | [JSON](zeitmaschine-ankunft-12.json) |
+| Rikki-Tikki-Tavi – Der Wächter des Gartens | 14 | [Text](rikki-tikki-tavi-14.txt) | [JSON](rikki-tikki-tavi-14.json) |
+| Der kopflose Reiter – Die letzte Brücke | 12 | [Text](sleepy-hollow-12.txt) | [JSON](sleepy-hollow-12.json) |
+| Der geheime Garten – Die Tür hinter dem Efeu | 10 | [Text](geheimer-garten-10.txt) | [JSON](geheimer-garten-10.json) |
+| Der Zauberer von Oz – Hinter dem Vorhang | 12 | [Text](oz-vorhang-12.txt) | [JSON](oz-vorhang-12.json) |
+| Vom deutschen Rheinstrom | 14 | [Text](rheinstrom-bund-14.txt) | [JSON](rheinstrom-bund-14.json) |
+| Des Schweizervolkes Ursprung | 12 | [Text](schweizervolkes-ursprung-12.txt) | [JSON](schweizervolkes-ursprung-12.json) |
+| Sankt Gallus | 16 | [Text](sankt-gallus-appenzell-16.txt) | [JSON](sankt-gallus-appenzell-16.json) |
+| Die St. Galler Mönche erbeten Wein | 8 | [Text](galler-moenche-wein-8.txt) | [JSON](galler-moenche-wein-8.json) |
+| Dagoberts Zeichen | 10 | [Text](dagoberts-zeichen-10.txt) | [JSON](dagoberts-zeichen-10.json) |
+| Die Tellensage | 18 | [Text](tellensage-bund-18.txt) | [JSON](tellensage-bund-18.json) |
+| Luzerner Hörner und Mordnacht | 10 | [Text](luzerner-mordnacht-10.txt) | [JSON](luzerner-mordnacht-10.json) |
+| Die Herren von Hohensax | 14 | [Text](hohensax-liederbuch-14.txt) | [JSON](hohensax-liederbuch-14.json) |
+| Ida von der Toggenburg | 16 | [Text](ida-toggenburg-16.txt) | [JSON](ida-toggenburg-16.json) |
+| Der Pilatus und die Herdmanndli | 12 | [Text](pilatus-herdmanndli-kirschen-12.txt) | [JSON](pilatus-herdmanndli-kirschen-12.json) |
+| Die Bergmanndli schützen Herden und Fische | 14 | [Text](bergmanndli-grenzen-14.txt) | [JSON](bergmanndli-grenzen-14.json) |
+| Die Herdmanndli ziehen weg | 10 | [Text](herdmanndli-ziehen-weg-10.txt) | [JSON](herdmanndli-ziehen-weg-10.json) |
+| Der Dürst | 8 | [Text](duerst-alpsegen-8.txt) | [JSON](duerst-alpsegen-8.json) |
+| Von Drachen und Lindwürmen | 12 | [Text](drachen-lindwuermer-grube-12.txt) | [JSON](drachen-lindwuermer-grube-12.json) |
+| Winkelried und der Lindwurm | 12 | [Text](winkelried-lindwurm-12.txt) | [JSON](winkelried-lindwurm-12.json) |
+| Kastelen-Alpe | 12 | [Text](kastelen-alpe-12.txt) | [JSON](kastelen-alpe-12.json) |
