@@ -1,5 +1,5 @@
 TITEL: Die Bremer Stadtmusikanten · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 10
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -146,4 +146,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Auch aus dem Hof floh der Räuber. Die Tiere blieben zusammen im Haus. Nach Bremen kamen sie nie.
 Dialoge: keine
 Kontinuität / Änderung: Zeitsprung zum Morgen. Der Esel ist vom Hof um das Haus nach vorn gegangen; der Hahn hat den hinteren Balken verlassen und sitzt jetzt am vorderen Fenster. Räuber endgültig fort. Kein plötzliches Verjüngen der Tiere.
-

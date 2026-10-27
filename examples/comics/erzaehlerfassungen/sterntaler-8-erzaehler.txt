@@ -1,5 +1,5 @@
 TITEL: Die Sterntaler – Das letzte Stück Brot · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 8
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -120,4 +120,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Zugleich trug das Mädchen ein neues feines Hemd. Darin sammelte es die Taler, die ihm ein gesichertes Leben ermöglichten.
 Dialoge: keine
 Kontinuität / Änderung: Neues Gewand ausdrücklich Teil des Schlusswunders, nicht das den Kindern weggenommene alte Hemd. Hoffnung der märchenhaften Wertordnung; keine reale Zusage, Selbstaufgabe erzeuge Geldregen. Kindliche Figur bleibt dieselbe und geschützt.
-

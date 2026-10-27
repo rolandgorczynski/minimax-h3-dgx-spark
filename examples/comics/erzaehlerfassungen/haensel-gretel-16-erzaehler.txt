@@ -1,5 +1,5 @@
 TITEL: Hänsel und Gretel – Hinter dem süßen Haus · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 16
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -202,4 +202,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Sie fanden ihren Vater wieder. Aus der Falle waren sie entkommen, weil sie einander nicht aufgegeben hatten.
 Dialoge: keine
 Kontinuität / Änderung: Beide nach einzelner Wasserfahrt abgestiegen und zu Fuß heimgegangen. Ende bei der Wiederbegegnung. Keine Rechtfertigung der Aussetzung und keine zusätzliche Märchenfigur als eigentlicher Retter.
-

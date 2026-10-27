@@ -1,5 +1,5 @@
 TITEL: Frau Holle – Zwei Wege durch den Brunnen · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 12
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -155,4 +155,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Die eine brachte Gold, die andere Pech heim. Sie waren denselben Weg gegangen, hatten aber nicht dasselbe getan.
 Dialoge: keine
 Kontinuität / Änderung: Ende mit unterschiedlicher Folge der beiden Wege. Gold und Pech haften erst seit jeweiligem Tor, beide Zustände bleiben erhalten.
-

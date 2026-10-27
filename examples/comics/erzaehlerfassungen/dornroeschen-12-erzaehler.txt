@@ -1,5 +1,5 @@
 TITEL: Dornröschen – Hundert Jahre hinter den Dornen · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 12
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -159,4 +159,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Mit Dornröschen war das ganze Schloss erwacht. Die angehaltenen Tätigkeiten gingen weiter. Später feierten sie Hochzeit.
 Dialoge: keine
 Kontinuität / Änderung: Spätere Hochzeit nach dem Erwachen, nicht gleichzeitig mit dem Schlaf. Ende erhält das Weitergehen des Lebens und die Bedeutung der erfüllten Frist.
-

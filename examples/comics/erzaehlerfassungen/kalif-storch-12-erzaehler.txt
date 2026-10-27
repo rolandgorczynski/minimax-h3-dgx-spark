@@ -1,5 +1,5 @@
 TITEL: Kalif Storch – Das vergessene Zauberwort · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 12
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -171,4 +171,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Mit dem Wort hatten alle drei ihre menschliche Gestalt zurückgewonnen. Die Eule war eine Königstochter. Gemeinsam kehrten sie heim.
 Dialoge: keine
 Kontinuität / Änderung: Gemeinsame Heimkehr in menschlicher Gestalt. Zusage und Hilfe schließen den Bogen, Zaubererversammlung nicht als zusätzlicher Rachekrieg fortsetzen.
-

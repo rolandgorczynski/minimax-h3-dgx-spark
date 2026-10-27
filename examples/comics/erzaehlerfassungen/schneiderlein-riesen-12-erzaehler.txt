@@ -1,5 +1,5 @@
 TITEL: Das tapfere Schneiderlein – Sieben auf einen Streich · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 12
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -144,4 +144,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Als der Schneider unversehrt auftauchte, flohen die Riesen. Er zog weiter: Größer geworden war sein Ruf, nicht seine Kraft.
 Dialoge: keine
 Kontinuität / Änderung: Ende nach der Riesenhöhle. Keine späteren Königsaufgaben, kein Einhorn und kein Wildschwein. Die listige Täuschung bleibt für den Leser durchschaubar.
-

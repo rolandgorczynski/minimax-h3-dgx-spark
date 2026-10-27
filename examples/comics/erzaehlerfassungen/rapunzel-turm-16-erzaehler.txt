@@ -1,5 +1,5 @@
 TITEL: Rapunzel – Der Turm ohne Tür · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 16
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -181,4 +181,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Ihre Tränen hatten ihm das Augenlicht zurückgegeben. Gemeinsam gingen sie weiter; kein Turm trennte sie mehr.
 Dialoge: keine
 Kontinuität / Änderung: Getrennte finden zusammen. Rapunzels Haar bleibt kurz, Königssohn wieder sehend. Keine abschließende Behauptung, es habe keine Kinder oder weitere überlieferte Zukunft gegeben.
-

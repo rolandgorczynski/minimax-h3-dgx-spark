@@ -1,5 +1,5 @@
 TITEL: Rumpelstilzchen – Drei Tage für einen Namen · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 14
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -194,4 +194,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Der richtige Name löste das erzwungene Versprechen. Das Wesen verschwand im Zorn. Ihr Kind blieb bei ihr.
 Dialoge: keine
 Kontinuität / Änderung: Mutter nimmt das Baby nach dem Abgang aus der Wiege. Kind bleibt bei ihr. Offene moralische Frage bewahrt den ursprünglichen Leistungszwang, statt ihn durch die Hochzeit zu rechtfertigen.
-

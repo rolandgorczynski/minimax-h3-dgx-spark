@@ -1,5 +1,5 @@
 TITEL: Jorinde und Joringel – Die Blume gegen den Bann · Erzählerfassung
-AUTOR: 
+AUTOR:
 KACHELANZAHL: 12
 BILDSTIL: Noch offen – Auswahl bei Comic-Generierung
 STIMMUNG UND FARBWELT: Erzählergeführte Adaption. Abwechselnd Erzählerkästen und Dialoge; niemals beides in derselben Kachel.
@@ -134,4 +134,3 @@ Bildbeschreibung: Erzählerkachel: Der Erzählertext wird nachträglich gesetzt.
 Erzählertext: Er löste auch ihren Zauber. Gemeinsam verließen die Befreiten das Schloss; niemand musste in seinem Käfig zurückbleiben.
 Dialoge: keine
 Kontinuität / Änderung: Alle betroffenen Frauen wieder menschlich, Ausgang offen. Zauberin ohne Macht über die Gefangenen, keine erfundene Tötung oder spätere Hochzeit als Zusatzbogen.
-
