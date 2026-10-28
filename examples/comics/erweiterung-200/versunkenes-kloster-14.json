@@ -1,0 +1,679 @@
+{
+  "mode": "editorial",
+  "name": "Das versunkene Kloster – Der rote Faden · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Das versunkene Kloster. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 59.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nOhnweit des Fleckens Neuenkirchen im Odenwalde liegt ein stilles einsames Wiesental mit einem kleinen Weiher ohne Zufluß und ohne Abfluß. Dort hat vorzeiten ein Nonnenkloster gestanden, und darinnen war eine junge Novize, die hatte das Gelübde noch nicht abgelegt. Sie war zum Kloster gezwungen worden und liebte einen Ritter von einer der nahen Burgen, der oft zur Nachtzeit, wenn alles ruhte, heimlich in den Klostergarten kam und die Geliebte sah und sprach. Eines Abends kam ein müder greiser Pilger an die Klosterpforte und begehrte Einlaß und Obdach über Nacht, allein die Priorin und der ganze Konvent wiesen ihn ab. Nur die Novize bat, des alten Mannes Bitte doch zu gewähren, allein da sie noch nicht Nonne war, stand ihr nicht einmal zu, einen Rat zu geben, und die Pforte des Klösterleins blieb dem Pilger verschlossen. Da murmelte derselbe einen Fluch, schwang seinen Stab, schlug dreimal damit an die Pfortenmauer, und da versank das Kloster mit Kirche und Konventhaus lautlos in die Tiefe, und wo es gestanden, breitete eine stille Wasserfläche geheimnisvoll sich aus. Der Pilger aber schwand hinweg, an seine Stelle trat der liebende junge Ritter – und traute gar nicht seinen Sinnen, als er nichts mehr vom Kloster sah. Laut rief er den Namen der Geliebten durch die öde Stille, die ihn umschauerte, da scholl es aus der Tiefe herauf: Morgen zu dieser Stunde kehre wieder zu dieser Stätte! Einen roten Faden, der auf dem Wasser schwimmen wird, erfasse dann!\n\nDer Ritter tat in der folgenden Nacht, wie ihm geboten war, er faßte den Faden und zog an ihm, und da stand sein liebes Lieb vor ihm und küßte ihn und sprach zu ihm: Unschuldig muß ich mit den andern büßen, doch ist mir vergönnt, dich zu dieser Nachtstunde zu sehen, nur darf ich nicht über ihren letzten Schlag verweilen. Der rote Faden, an dem du mich emporziehst, ist mein Lebensfaden, darum halte mich nicht über die Zeit. – Lange sahen sich so die Liebenden fast in jeder Nacht, bis sie einmal allzu lange Herz am Herzen ruhten – da hatte der Ritter sein Lieb zum letzten Male in seinen Armen gehabt. Als er in folgender Nacht wiederkam und den Faden faßte, da war er nicht mehr rot – er war durchschnitten – wohl aber war rot der ganze See, vom Blute der Geliebten gefärbt. Andere sagen, der Nonnen Mißgunst habe ihn durchschnitten. Der Liebende blickte traurig in den See und versenkte sich selbst hinab in die Tiefe. In Mondnächten rauschen die versunkenen Nonnen bisweilen herauf und tanzen als Nixen mit Skapulier und Stola lustigen Ringelreigen am grünen Ufer, und Irrlichter mischen sich in ihren Reigen.\n\nDer Sagen von Jungfrauen, die aus Weihern emporsteigen und im Arm der Liebe oder der Freude des Tanzes die bestimmte Stunde vergessen, worauf von ihrem Blute die Seen und Weiher gerötet erblickt werden, gibt es in Deutschland wohl an die tausend.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Das versunkene Kloster. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 59.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nOhnweit des Fleckens Neuenkirchen im Odenwalde liegt ein stilles einsames Wiesental mit einem kleinen Weiher ohne Zufluß und ohne Abfluß. Dort hat vorzeiten ein Nonnenkloster gestanden, und darinnen war eine junge Novize, die hatte das Gelübde noch nicht abgelegt. Sie war zum Kloster gezwungen worden und liebte einen Ritter von einer der nahen Burgen, der oft zur Nachtzeit, wenn alles ruhte, heimlich in den Klostergarten kam und die Geliebte sah und sprach. Eines Abends kam ein müder greiser Pilger an die Klosterpforte und begehrte Einlaß und Obdach über Nacht, allein die Priorin und der ganze Konvent wiesen ihn ab. Nur die Novize bat, des alten Mannes Bitte doch zu gewähren, allein da sie noch nicht Nonne war, stand ihr nicht einmal zu, einen Rat zu geben, und die Pforte des Klösterleins blieb dem Pilger verschlossen. Da murmelte derselbe einen Fluch, schwang seinen Stab, schlug dreimal damit an die Pfortenmauer, und da versank das Kloster mit Kirche und Konventhaus lautlos in die Tiefe, und wo es gestanden, breitete eine stille Wasserfläche geheimnisvoll sich aus. Der Pilger aber schwand hinweg, an seine Stelle trat der liebende junge Ritter – und traute gar nicht seinen Sinnen, als er nichts mehr vom Kloster sah. Laut rief er den Namen der Geliebten durch die öde Stille, die ihn umschauerte, da scholl es aus der Tiefe herauf: Morgen zu dieser Stunde kehre wieder zu dieser Stätte! Einen roten Faden, der auf dem Wasser schwimmen wird, erfasse dann!\n\nDer Ritter tat in der folgenden Nacht, wie ihm geboten war, er faßte den Faden und zog an ihm, und da stand sein liebes Lieb vor ihm und küßte ihn und sprach zu ihm: Unschuldig muß ich mit den andern büßen, doch ist mir vergönnt, dich zu dieser Nachtstunde zu sehen, nur darf ich nicht über ihren letzten Schlag verweilen. Der rote Faden, an dem du mich emporziehst, ist mein Lebensfaden, darum halte mich nicht über die Zeit. – Lange sahen sich so die Liebenden fast in jeder Nacht, bis sie einmal allzu lange Herz am Herzen ruhten – da hatte der Ritter sein Lieb zum letzten Male in seinen Armen gehabt. Als er in folgender Nacht wiederkam und den Faden faßte, da war er nicht mehr rot – er war durchschnitten – wohl aber war rot der ganze See, vom Blute der Geliebten gefärbt. Andere sagen, der Nonnen Mißgunst habe ihn durchschnitten. Der Liebende blickte traurig in den See und versenkte sich selbst hinab in die Tiefe. In Mondnächten rauschen die versunkenen Nonnen bisweilen herauf und tanzen als Nixen mit Skapulier und Stola lustigen Ringelreigen am grünen Ufer, und Irrlichter mischen sich in ihren Reigen.\n\nDer Sagen von Jungfrauen, die aus Weihern emporsteigen und im Arm der Liebe oder der Freude des Tanzes die bestimmte Stunde vergessen, worauf von ihrem Blute die Seen und Weiher gerötet erblickt werden, gibt es in Deutschland wohl an die tausend.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Das erzwungene Leben",
+        "setting": "Das erzwungene Leben",
+        "characters": [
+          "a1acb751c64052f79dcf92215ae57f23"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Novizin im grauen Kleid vor hoher Gartenmauer.",
+        "dialog": "Die Novizin war zum Kloster gezwungen worden. Ihr Gelübde hatte sie noch nicht abgelegt.",
+        "bubbles": [],
+        "character_states": {
+          "a1acb751c64052f79dcf92215ae57f23": "steht allein im Klostergarten; Graues langes Novizinnenkleid, helle Haube.; Lebenszustand: lebend"
+        },
+        "continuity": "Erwachsene Novizin im grauen Kleid vor hoher Gartenmauer.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Das erzwungene Leben",
+            "posture": "steht allein im Klostergarten"
+          }
+        }
+      },
+      {
+        "heading": "Die heimlichen Besuche",
+        "setting": "Die heimlichen Besuche",
+        "characters": [
+          "a1acb751c64052f79dcf92215ae57f23",
+          "83274a9940e151f7b46c00ff7bb7f948"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei bekleidete Erwachsene sprechen nachts mit Abstand, ein kleiner Durchgang hinten.",
+        "dialog": "Sie liebte einen Ritter. Nachts trafen sie sich heimlich.",
+        "bubbles": [],
+        "character_states": {
+          "a1acb751c64052f79dcf92215ae57f23": "steht links im Garten; Graues langes Novizinnenkleid, helle Haube.; Lebenszustand: lebend",
+          "83274a9940e151f7b46c00ff7bb7f948": "steht rechts; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei bekleidete Erwachsene sprechen nachts mit Abstand, ein kleiner Durchgang hinten.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht links im Garten"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht rechts"
+          }
+        }
+      },
+      {
+        "heading": "Vor der Pforte",
+        "setting": "Vor der Pforte",
+        "characters": [
+          "987e9c99d7bc59078ea73b8491f9a21a"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Greiser Pilger allein vor schwerer Klostertür, Abendlicht.",
+        "dialog": "Eines Abends bat ein müder Pilger um Unterkunft.",
+        "bubbles": [],
+        "character_states": {
+          "987e9c99d7bc59078ea73b8491f9a21a": "steht mit dem Stab vor geschlossener Tür; Brauner abgetragener Mantel, Holzstab.; Lebenszustand: lebend"
+        },
+        "continuity": "Greiser Pilger allein vor schwerer Klostertür, Abendlicht.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht links im Garten"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht rechts"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Vor der Pforte",
+            "posture": "steht mit dem Stab vor geschlossener Tür"
+          }
+        }
+      },
+      {
+        "heading": "Die ungehörte Fürsprache",
+        "setting": "Die ungehörte Fürsprache",
+        "characters": [
+          "a1acb751c64052f79dcf92215ae57f23"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junge Frau mit offener Hand vor den anderen, Tor geschlossen.",
+        "dialog": "Die Novizin bat für ihn. Als noch nicht aufgenommene Schwester sollte sie nicht einmal raten dürfen.",
+        "bubbles": [],
+        "character_states": {
+          "a1acb751c64052f79dcf92215ae57f23": "steht innen bei namenlosen älteren Nonnen; Graues langes Novizinnenkleid, helle Haube.; Lebenszustand: lebend"
+        },
+        "continuity": "Junge Frau mit offener Hand vor den anderen, Tor geschlossen.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die ungehörte Fürsprache",
+            "posture": "steht innen bei namenlosen älteren Nonnen"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht rechts"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Vor der Pforte",
+            "posture": "steht mit dem Stab vor geschlossener Tür"
+          }
+        }
+      },
+      {
+        "heading": "Der Fluch",
+        "setting": "Der Fluch",
+        "characters": [
+          "987e9c99d7bc59078ea73b8491f9a21a"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann hält einen einzigen Stab gegen die Mauer, keine drei Armkopien für mehrere Schläge.",
+        "dialog": "Der Abgewiesene verfluchte das Haus und schlug dreimal an die Mauer.",
+        "bubbles": [],
+        "character_states": {
+          "987e9c99d7bc59078ea73b8491f9a21a": "steht vor der Pforte mit erhobenem Stab; Brauner abgetragener Mantel, Holzstab.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein alter Mann hält einen einzigen Stab gegen die Mauer, keine drei Armkopien für mehrere Schläge.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die ungehörte Fürsprache",
+            "posture": "steht innen bei namenlosen älteren Nonnen"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht rechts"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Das stille Wasser",
+        "setting": "Das stille Wasser",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige ruhige Wasserfläche an Stelle des Klosters, nur alte Ufersteine. Kein zugleich intaktes Kloster daneben.",
+        "dialog": "Das Kloster versank. An seiner Stelle lag ein Weiher, der Pilger war fort.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Eine einzige ruhige Wasserfläche an Stelle des Klosters, nur alte Ufersteine. Kein zugleich intaktes Kloster daneben.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die ungehörte Fürsprache",
+            "posture": "steht innen bei namenlosen älteren Nonnen"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die heimlichen Besuche",
+            "posture": "steht rechts"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Die Suche",
+        "setting": "Die Suche",
+        "characters": [
+          "83274a9940e151f7b46c00ff7bb7f948"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter allein am Ufer, Hände leer, kein sichtbarer Körper im Wasser.",
+        "dialog": "Der Ritter kam und rief nach der Geliebten.",
+        "bubbles": [],
+        "character_states": {
+          "83274a9940e151f7b46c00ff7bb7f948": "steht am Weiherufer; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ritter allein am Ufer, Hände leer, kein sichtbarer Körper im Wasser.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die ungehörte Fürsprache",
+            "posture": "steht innen bei namenlosen älteren Nonnen"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die Suche",
+            "posture": "steht am Weiherufer"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Die Stimme",
+        "setting": "Die Stimme",
+        "characters": [
+          "83274a9940e151f7b46c00ff7bb7f948"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Erwachsener am dunklen Wasser, keine körperliche Sprecherin unter der Oberfläche.",
+        "dialog": "Eine Stimme bat ihn, morgen wiederzukommen und den roten Faden zu greifen.",
+        "bubbles": [],
+        "character_states": {
+          "83274a9940e151f7b46c00ff7bb7f948": "lauscht am Ufer; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Erwachsener am dunklen Wasser, keine körperliche Sprecherin unter der Oberfläche.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die ungehörte Fürsprache",
+            "posture": "steht innen bei namenlosen älteren Nonnen"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die Stimme",
+            "posture": "lauscht am Ufer"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Das Wiedersehen",
+        "setting": "Das Wiedersehen",
+        "characters": [
+          "83274a9940e151f7b46c00ff7bb7f948",
+          "a1acb751c64052f79dcf92215ae57f23"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein roter Faden führt von seiner linken Hand zum Saum ihres einen Kleides, kein zweiter Körper im Weiher.",
+        "dialog": "In der nächsten Nacht zog er sie empor. Sie musste mit den anderen büßen, obwohl sie für Hilfe eingetreten war.",
+        "bubbles": [],
+        "character_states": {
+          "83274a9940e151f7b46c00ff7bb7f948": "hält den roten Faden links; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "a1acb751c64052f79dcf92215ae57f23": "steht gerade am Ufer vor ihm; Graues langes Novizinnenkleid, helle Haube.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein roter Faden führt von seiner linken Hand zum Saum ihres einen Kleides, kein zweiter Körper im Weiher.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Das Wiedersehen",
+            "posture": "steht gerade am Ufer vor ihm"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Das Wiedersehen",
+            "posture": "hält den roten Faden links"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Die Grenze",
+        "setting": "Die Grenze",
+        "characters": [
+          "a1acb751c64052f79dcf92215ae57f23",
+          "83274a9940e151f7b46c00ff7bb7f948"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Beide erwachsen und vollständig bekleidet, eine stille Umarmung, Faden locker neben ihnen.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "a1acb751c64052f79dcf92215ae57f23",
+            "text": "Halte mich nicht über die bestimmte Stunde hinaus.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "a1acb751c64052f79dcf92215ae57f23": "steht dicht beim Ritter; Graues langes Novizinnenkleid, helle Haube.; Lebenszustand: lebend",
+          "83274a9940e151f7b46c00ff7bb7f948": "steht mit der linken Hand am Faden; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Beide erwachsen und vollständig bekleidet, eine stille Umarmung, Faden locker neben ihnen.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die Grenze",
+            "posture": "steht dicht beim Ritter"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die Grenze",
+            "posture": "steht mit der linken Hand am Faden"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Die wiederkehrenden Nächte",
+        "setting": "Die wiederkehrenden Nächte",
+        "characters": [
+          "83274a9940e151f7b46c00ff7bb7f948"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter wartet an derselben Stelle, Mond hoch, noch keine wiedergekehrte Novizin im Bild.",
+        "dialog": "So trafen sie sich oft. Jede Begegnung blieb an ihre Frist gebunden.",
+        "bubbles": [],
+        "character_states": {
+          "83274a9940e151f7b46c00ff7bb7f948": "steht allein am Ufer mit losem Faden; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ritter wartet an derselben Stelle, Mond hoch, noch keine wiedergekehrte Novizin im Bild.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Die Grenze",
+            "posture": "steht dicht beim Ritter"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Die wiederkehrenden Nächte",
+            "posture": "steht allein am Ufer mit losem Faden"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Zu lange",
+        "setting": "Zu lange",
+        "characters": [
+          "83274a9940e151f7b46c00ff7bb7f948",
+          "a1acb751c64052f79dcf92215ae57f23"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Umarmung zweier Erwachsener am Ufer, Mond hinter Wolke, kein zerrissener Körper.",
+        "dialog": "Einmal vergaßen sie die Stunde. Das war ihre letzte Begegnung.",
+        "bubbles": [],
+        "character_states": {
+          "83274a9940e151f7b46c00ff7bb7f948": "umarmt die Novizin; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "a1acb751c64052f79dcf92215ae57f23": "ruht an seiner Schulter; Graues langes Novizinnenkleid, helle Haube.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine Umarmung zweier Erwachsener am Ufer, Mond hinter Wolke, kein zerrissener Körper.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Zu lange",
+            "posture": "ruht an seiner Schulter"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Zu lange",
+            "posture": "umarmt die Novizin"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Der durchschnittene Faden",
+        "setting": "Der durchschnittene Faden",
+        "characters": [
+          "83274a9940e151f7b46c00ff7bb7f948"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Hand hebt ein kurzes Ende des roten Fadens aus dunklem Wasser. Keine Blutlache oder Leiche.",
+        "dialog": "In der folgenden Nacht war der Faden durchtrennt. Die Sage lässt offen, ob die Frist oder der Neid der anderen den Ausschlag gab.",
+        "bubbles": [],
+        "character_states": {
+          "83274a9940e151f7b46c00ff7bb7f948": "kniet am Ufer; Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine Hand hebt ein kurzes Ende des roten Fadens aus dunklem Wasser. Keine Blutlache oder Leiche.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Zu lange",
+            "posture": "ruht an seiner Schulter"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Der durchschnittene Faden",
+            "posture": "kniet am Ufer"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      },
+      {
+        "heading": "Der doppelte Verlust",
+        "setting": "Der doppelte Verlust",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Weiher im Morgengrauen, am Ufer nur der kurze rote Faden. Keine romantisierte Unterwasserumarmung.",
+        "dialog": "Der Ritter folgte ihr in den Tod. Die verweigerte Hilfe hatte auch die Unschuldige getroffen; Liebe hatte ihr nur einen verletzlichen Zugang gelassen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leerer Weiher im Morgengrauen, am Ufer nur der kurze rote Faden. Keine romantisierte Unterwasserumarmung.",
+        "continuity_state": {
+          "a1acb751c64052f79dcf92215ae57f23": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues langes Novizinnenkleid, helle Haube.",
+            "location": "Zu lange",
+            "posture": "ruht an seiner Schulter"
+          },
+          "83274a9940e151f7b46c00ff7bb7f948": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+            "location": "Der durchschnittene Faden",
+            "posture": "kniet am Ufer"
+          },
+          "987e9c99d7bc59078ea73b8491f9a21a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner abgetragener Mantel, Holzstab.",
+            "location": "Der Fluch",
+            "posture": "steht vor der Pforte mit erhobenem Stab"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Novizin des versunkenen Klosters",
+        "description": "Junge erwachsene Frau, braunes Haar unter heller Haube.",
+        "outfit": "Graues langes Novizinnenkleid, helle Haube.",
+        "backstory": "Noch ohne Gelübde, gegen ihren Willen im Kloster, widerspricht der Abweisung des Pilgers.",
+        "id": "a1acb751c64052f79dcf92215ae57f23",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Ritter am Klosterweiher",
+        "description": "Junger erwachsener Mann mit dunklem kurzem Haar.",
+        "outfit": "Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.",
+        "backstory": "Liebt die Novizin und trifft sie nachts am roten Lebensfaden.",
+        "id": "83274a9940e151f7b46c00ff7bb7f948",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Pilger an der Klosterpforte",
+        "description": "Alter Mann mit langem weißem Bart.",
+        "outfit": "Brauner abgetragener Mantel, Holzstab.",
+        "backstory": "Bittet um Unterkunft und verwünscht nach der Abweisung das Kloster.",
+        "id": "987e9c99d7bc59078ea73b8491f9a21a",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Kann eine erzwungene Gemeinschaft auch Unschuldige an ihren Folgen festhalten?",
+      "core": "Verweigertes Mitgefühl trifft hier nicht nur die Verweigernden. Die unschuldige Novizin bleibt in eine fremde Schuld verstrickt; selbst Liebe schafft ihr nur einen begrenzten, verletzlichen Zugang zur Freiheit.",
+      "ending": "Der Lebensfaden ist durchschnitten; der Ritter folgt der Geliebten ins Wasser.",
+      "reason": "Abgewiesener Pilger, gemeinsamer Untergang, befristeter Zugang und endgültiger Bruch benötigen jeweils eigene Ursache und Folge.",
+      "meaning_type": "Offene Frage",
+      "evidence": [
+        {
+          "event": "Unschuldig muß ich mit den andern büßen",
+          "meaning": "Der Text benennt die Ungerechtigkeit der gemeinsam erlittenen Folge ausdrücklich."
+        }
+      ],
+      "causal_chain": [
+        "Unschuldig muß ich mit den andern büßen",
+        "Der Lebensfaden ist durchschnitten; der Ritter folgt der Geliebten ins Wasser."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "858e1ec968511211c36c0ccfbbae280ab5f4044adc4b088896a9db44e2a1c57c",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:39:20.219445+00:00"
+    },
+    "post_summary": "Eine Novizin bittet vergeblich um Mitgefühl. Nach dem Untergang des Klosters bleibt ihr nur eine begrenzte Stunde mit dem Geliebten.",
+    "source_provenance": {
+      "title": "Das versunkene Kloster",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 59.",
+      "url": "https://textgridrep.org/browse/kj99.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Das versunkene Kloster. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 59.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nOhnweit des Fleckens Neuenkirchen im Odenwalde liegt ein stilles einsames Wiesental mit einem kleinen Weiher ohne Zufluß und ohne Abfluß. Dort hat vorzeiten ein Nonnenkloster gestanden, und darinnen war eine junge Novize, die hatte das Gelübde noch nicht abgelegt. Sie war zum Kloster gezwungen worden und liebte einen Ritter von einer der nahen Burgen, der oft zur Nachtzeit, wenn alles ruhte, heimlich in den Klostergarten kam und die Geliebte sah und sprach. Eines Abends kam ein müder greiser Pilger an die Klosterpforte und begehrte Einlaß und Obdach über Nacht, allein die Priorin und der ganze Konvent wiesen ihn ab. Nur die Novize bat, des alten Mannes Bitte doch zu gewähren, allein da sie noch nicht Nonne war, stand ihr nicht einmal zu, einen Rat zu geben, und die Pforte des Klösterleins blieb dem Pilger verschlossen. Da murmelte derselbe einen Fluch, schwang seinen Stab, schlug dreimal damit an die Pfortenmauer, und da versank das Kloster mit Kirche und Konventhaus lautlos in die Tiefe, und wo es gestanden, breitete eine stille Wasserfläche geheimnisvoll sich aus. Der Pilger aber schwand hinweg, an seine Stelle trat der liebende junge Ritter – und traute gar nicht seinen Sinnen, als er nichts mehr vom Kloster sah. Laut rief er den Namen der Geliebten durch die öde Stille, die ihn umschauerte, da scholl es aus der Tiefe herauf: Morgen zu dieser Stunde kehre wieder zu dieser Stätte! Einen roten Faden, der auf dem Wasser schwimmen wird, erfasse dann!\n\nDer Ritter tat in der folgenden Nacht, wie ihm geboten war, er faßte den Faden und zog an ihm, und da stand sein liebes Lieb vor ihm und küßte ihn und sprach zu ihm: Unschuldig muß ich mit den andern büßen, doch ist mir vergönnt, dich zu dieser Nachtstunde zu sehen, nur darf ich nicht über ihren letzten Schlag verweilen. Der rote Faden, an dem du mich emporziehst, ist mein Lebensfaden, darum halte mich nicht über die Zeit. – Lange sahen sich so die Liebenden fast in jeder Nacht, bis sie einmal allzu lange Herz am Herzen ruhten – da hatte der Ritter sein Lieb zum letzten Male in seinen Armen gehabt. Als er in folgender Nacht wiederkam und den Faden faßte, da war er nicht mehr rot – er war durchschnitten – wohl aber war rot der ganze See, vom Blute der Geliebten gefärbt. Andere sagen, der Nonnen Mißgunst habe ihn durchschnitten. Der Liebende blickte traurig in den See und versenkte sich selbst hinab in die Tiefe. In Mondnächten rauschen die versunkenen Nonnen bisweilen herauf und tanzen als Nixen mit Skapulier und Stola lustigen Ringelreigen am grünen Ufer, und Irrlichter mischen sich in ihren Reigen.\n\nDer Sagen von Jungfrauen, die aus Weihern emporsteigen und im Arm der Liebe oder der Freude des Tanzes die bestimmte Stunde vergessen, worauf von ihrem Blute die Seen und Weiher gerötet erblickt werden, gibt es in Deutschland wohl an die tausend.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Ohnweit des Fleckens Neuenkirchen im Odenwalde liegt ein stilles einsames Wiesental mit einem kleinen Weiher ohne Zufluß und ohne Abfluß. Dort hat vorzeiten ein Nonnenkloster gestanden, und darinnen war eine junge Novize, die hatte das Gelübde noch nicht abgelegt.",
+      "id": "bechstein-sagen-kj99-0",
+      "category": "Schätze und verborgene Orte",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "versunkenes-kloster-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Das versunkene Kloster – Der rote Faden · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Das versunkene Kloster – Der rote Faden\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Novizin des versunkenen Klosters\nAussehen: Junge erwachsene Frau, braunes Haar unter heller Haube.\nKleidung: Graues langes Novizinnenkleid, helle Haube.\nPersönlichkeit und Vorgeschichte: Noch ohne Gelübde, gegen ihren Willen im Kloster, widerspricht der Abweisung des Pilgers.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Ritter am Klosterweiher\nAussehen: Junger erwachsener Mann mit dunklem kurzem Haar.\nKleidung: Blaues Wams, braune Hose und Schuhe; keine sichtbare Waffe.\nPersönlichkeit und Vorgeschichte: Liebt die Novizin und trifft sie nachts am roten Lebensfaden.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Pilger an der Klosterpforte\nAussehen: Alter Mann mit langem weißem Bart.\nKleidung: Brauner abgetragener Mantel, Holzstab.\nPersönlichkeit und Vorgeschichte: Bittet um Unterkunft und verwünscht nach der Abweisung das Kloster.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das erzwungene Leben\nOrt und Zeit: Das erzwungene Leben\nSichtbare Figuren: Novizin des versunkenen Klosters\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Novizin im grauen Kleid vor hoher Gartenmauer.\nErzählertext: Die Novizin war zum Kloster gezwungen worden. Ihr Gelübde hatte sie noch nicht abgelegt.\nDialoge: keine\nKontinuität / Änderung: Erwachsene Novizin im grauen Kleid vor hoher Gartenmauer.\n\nKACHEL 2: Die heimlichen Besuche\nOrt und Zeit: Die heimlichen Besuche\nSichtbare Figuren: Novizin des versunkenen Klosters, Ritter am Klosterweiher\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei bekleidete Erwachsene sprechen nachts mit Abstand, ein kleiner Durchgang hinten.\nErzählertext: Sie liebte einen Ritter. Nachts trafen sie sich heimlich.\nDialoge: keine\nKontinuität / Änderung: Zwei bekleidete Erwachsene sprechen nachts mit Abstand, ein kleiner Durchgang hinten.\n\nKACHEL 3: Vor der Pforte\nOrt und Zeit: Vor der Pforte\nSichtbare Figuren: Pilger an der Klosterpforte\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Greiser Pilger allein vor schwerer Klostertür, Abendlicht.\nErzählertext: Eines Abends bat ein müder Pilger um Unterkunft.\nDialoge: keine\nKontinuität / Änderung: Greiser Pilger allein vor schwerer Klostertür, Abendlicht.\n\nKACHEL 4: Die ungehörte Fürsprache\nOrt und Zeit: Die ungehörte Fürsprache\nSichtbare Figuren: Novizin des versunkenen Klosters\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junge Frau mit offener Hand vor den anderen, Tor geschlossen.\nErzählertext: Die Novizin bat für ihn. Als noch nicht aufgenommene Schwester sollte sie nicht einmal raten dürfen.\nDialoge: keine\nKontinuität / Änderung: Junge Frau mit offener Hand vor den anderen, Tor geschlossen.\n\nKACHEL 5: Der Fluch\nOrt und Zeit: Der Fluch\nSichtbare Figuren: Pilger an der Klosterpforte\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann hält einen einzigen Stab gegen die Mauer, keine drei Armkopien für mehrere Schläge.\nErzählertext: Der Abgewiesene verfluchte das Haus und schlug dreimal an die Mauer.\nDialoge: keine\nKontinuität / Änderung: Ein alter Mann hält einen einzigen Stab gegen die Mauer, keine drei Armkopien für mehrere Schläge.\n\nKACHEL 6: Das stille Wasser\nOrt und Zeit: Das stille Wasser\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige ruhige Wasserfläche an Stelle des Klosters, nur alte Ufersteine. Kein zugleich intaktes Kloster daneben.\nErzählertext: Das Kloster versank. An seiner Stelle lag ein Weiher, der Pilger war fort.\nDialoge: keine\nKontinuität / Änderung: Eine einzige ruhige Wasserfläche an Stelle des Klosters, nur alte Ufersteine. Kein zugleich intaktes Kloster daneben.\n\nKACHEL 7: Die Suche\nOrt und Zeit: Die Suche\nSichtbare Figuren: Ritter am Klosterweiher\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter allein am Ufer, Hände leer, kein sichtbarer Körper im Wasser.\nErzählertext: Der Ritter kam und rief nach der Geliebten.\nDialoge: keine\nKontinuität / Änderung: Ritter allein am Ufer, Hände leer, kein sichtbarer Körper im Wasser.\n\nKACHEL 8: Die Stimme\nOrt und Zeit: Die Stimme\nSichtbare Figuren: Ritter am Klosterweiher\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Erwachsener am dunklen Wasser, keine körperliche Sprecherin unter der Oberfläche.\nErzählertext: Eine Stimme bat ihn, morgen wiederzukommen und den roten Faden zu greifen.\nDialoge: keine\nKontinuität / Änderung: Ein Erwachsener am dunklen Wasser, keine körperliche Sprecherin unter der Oberfläche.\n\nKACHEL 9: Das Wiedersehen\nOrt und Zeit: Das Wiedersehen\nSichtbare Figuren: Ritter am Klosterweiher, Novizin des versunkenen Klosters\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein roter Faden führt von seiner linken Hand zum Saum ihres einen Kleides, kein zweiter Körper im Weiher.\nErzählertext: In der nächsten Nacht zog er sie empor. Sie musste mit den anderen büßen, obwohl sie für Hilfe eingetreten war.\nDialoge: keine\nKontinuität / Änderung: Ein roter Faden führt von seiner linken Hand zum Saum ihres einen Kleides, kein zweiter Körper im Weiher.\n\nKACHEL 10: Die Grenze\nOrt und Zeit: Die Grenze\nSichtbare Figuren: Novizin des versunkenen Klosters, Ritter am Klosterweiher\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Beide erwachsen und vollständig bekleidet, eine stille Umarmung, Faden locker neben ihnen.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Novizin des versunkenen Klosters\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Halte mich nicht über die bestimmte Stunde hinaus.“\nKontinuität / Änderung: Beide erwachsen und vollständig bekleidet, eine stille Umarmung, Faden locker neben ihnen.\n\nKACHEL 11: Die wiederkehrenden Nächte\nOrt und Zeit: Die wiederkehrenden Nächte\nSichtbare Figuren: Ritter am Klosterweiher\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter wartet an derselben Stelle, Mond hoch, noch keine wiedergekehrte Novizin im Bild.\nErzählertext: So trafen sie sich oft. Jede Begegnung blieb an ihre Frist gebunden.\nDialoge: keine\nKontinuität / Änderung: Ritter wartet an derselben Stelle, Mond hoch, noch keine wiedergekehrte Novizin im Bild.\n\nKACHEL 12: Zu lange\nOrt und Zeit: Zu lange\nSichtbare Figuren: Ritter am Klosterweiher, Novizin des versunkenen Klosters\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Umarmung zweier Erwachsener am Ufer, Mond hinter Wolke, kein zerrissener Körper.\nErzählertext: Einmal vergaßen sie die Stunde. Das war ihre letzte Begegnung.\nDialoge: keine\nKontinuität / Änderung: Eine Umarmung zweier Erwachsener am Ufer, Mond hinter Wolke, kein zerrissener Körper.\n\nKACHEL 13: Der durchschnittene Faden\nOrt und Zeit: Der durchschnittene Faden\nSichtbare Figuren: Ritter am Klosterweiher\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Hand hebt ein kurzes Ende des roten Fadens aus dunklem Wasser. Keine Blutlache oder Leiche.\nErzählertext: In der folgenden Nacht war der Faden durchtrennt. Die Sage lässt offen, ob die Frist oder der Neid der anderen den Ausschlag gab.\nDialoge: keine\nKontinuität / Änderung: Eine Hand hebt ein kurzes Ende des roten Fadens aus dunklem Wasser. Keine Blutlache oder Leiche.\n\nKACHEL 14: Der doppelte Verlust\nOrt und Zeit: Der doppelte Verlust\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Weiher im Morgengrauen, am Ufer nur der kurze rote Faden. Keine romantisierte Unterwasserumarmung.\nErzählertext: Der Ritter folgte ihr in den Tod. Die verweigerte Hilfe hatte auch die Unschuldige getroffen; Liebe hatte ihr nur einen verletzlichen Zugang gelassen.\nDialoge: keine\nKontinuität / Änderung: Leerer Weiher im Morgengrauen, am Ufer nur der kurze rote Faden. Keine romantisierte Unterwasserumarmung.\n"
+  },
+  "count_policy": "editorial"
+}

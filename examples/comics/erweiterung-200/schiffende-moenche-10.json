@@ -1,0 +1,469 @@
+{
+  "mode": "editorial",
+  "name": "Die schiffenden Mönche – Der verratene Dienst · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die schiffenden Mönche. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 42.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Speier kam einstmals ein Fischer an den Strand des Rheinstroms, der stellte seine Garne spät am Abend und legte seine Reusen und fuhr in seinem Kahn von einer Uferstelle zur andern. Da kam ein Mann daher in brauner Mönchskutte, und der Fischer grüßte ihn. Fischer, sprach der Mönch, ich bin ein Bote von weitem her und möchte gern überfahren. – Das kann geschehen, sagte der Fischer und fuhr den Mönch über. Als er wieder an seinen Strand kam, standen fünf andere Mönche da und harrten seiner und sprachen: Fahr über! – Warum reiset ihr so in später Nacht? Und soll ich nicht für meine Arbeit einen Lohn von euch verdienen? – Fischer, es treibt die Not, antworteten die Mönche, die Welt ist uns gram, fahr uns nur über um Gottes willen.\n\nDer Strom war ruhig und hell der Nachthimmel, der Fischer nahm die Männer in seinen Kahn und stieß vom Strande. Schnell ward es dunkel, der Himmel schwärzte sich, der Strom warf Wellen, es heulte der Sturm und trieb die schäumenden Wogen über Bord in das Schiff hinein. Wie geschieht uns? fragte der Fischer. War doch eben erst der Himmel rein und klar! Hilf uns, o Gott! – Was heulst und betest du, statt zu rudern? schalt den Schiffer einer der Mönche, entriß ihm das Ruder und schlug ihn, daß er niedersank. Die Mönche ruderten nun selber eilend durch den Strom, legten am andern Ufer an und verschwanden. Als der Fischer wieder zu sich kam, grauete schon der Tag, und kaum vermochte er, wieder überzufahren und seine Hütte zu erreichen.\n\nDes Weges aber, den die Mönche eingeschlagen, kam ein Bote, der wollte gen Speier, der sah dieselbigen Mönche sich entgegenkommen, sie fuhren auf einem Wagen, der war schwarz überhangen und hatte nur drei Räder; die Pferde, die ihn zogen, hatten nur drei Beine, und der Fuhrmann hatte eine Teufelsnase und eine Flammengeißel, rund um den Wagen her weberte es von Flammen. Der Bote kreuzte und segnete sich und zeigte dem Rat zu Speier dies Gesicht an, aus welchem man auf große Zwietracht unter den deutschen Fürsten schloß, an der in alten und neuen Zeiten niemalen ein Mangel.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die schiffenden Mönche. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 42.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Speier kam einstmals ein Fischer an den Strand des Rheinstroms, der stellte seine Garne spät am Abend und legte seine Reusen und fuhr in seinem Kahn von einer Uferstelle zur andern. Da kam ein Mann daher in brauner Mönchskutte, und der Fischer grüßte ihn. Fischer, sprach der Mönch, ich bin ein Bote von weitem her und möchte gern überfahren. – Das kann geschehen, sagte der Fischer und fuhr den Mönch über. Als er wieder an seinen Strand kam, standen fünf andere Mönche da und harrten seiner und sprachen: Fahr über! – Warum reiset ihr so in später Nacht? Und soll ich nicht für meine Arbeit einen Lohn von euch verdienen? – Fischer, es treibt die Not, antworteten die Mönche, die Welt ist uns gram, fahr uns nur über um Gottes willen.\n\nDer Strom war ruhig und hell der Nachthimmel, der Fischer nahm die Männer in seinen Kahn und stieß vom Strande. Schnell ward es dunkel, der Himmel schwärzte sich, der Strom warf Wellen, es heulte der Sturm und trieb die schäumenden Wogen über Bord in das Schiff hinein. Wie geschieht uns? fragte der Fischer. War doch eben erst der Himmel rein und klar! Hilf uns, o Gott! – Was heulst und betest du, statt zu rudern? schalt den Schiffer einer der Mönche, entriß ihm das Ruder und schlug ihn, daß er niedersank. Die Mönche ruderten nun selber eilend durch den Strom, legten am andern Ufer an und verschwanden. Als der Fischer wieder zu sich kam, grauete schon der Tag, und kaum vermochte er, wieder überzufahren und seine Hütte zu erreichen.\n\nDes Weges aber, den die Mönche eingeschlagen, kam ein Bote, der wollte gen Speier, der sah dieselbigen Mönche sich entgegenkommen, sie fuhren auf einem Wagen, der war schwarz überhangen und hatte nur drei Räder; die Pferde, die ihn zogen, hatten nur drei Beine, und der Fuhrmann hatte eine Teufelsnase und eine Flammengeißel, rund um den Wagen her weberte es von Flammen. Der Bote kreuzte und segnete sich und zeigte dem Rat zu Speier dies Gesicht an, aus welchem man auf große Zwietracht unter den deutschen Fürsten schloß, an der in alten und neuen Zeiten niemalen ein Mangel.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Die erste Bitte",
+        "setting": "Die erste Bitte",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735",
+          "1648c5ad852f5d2ea4bfbbd23fdffb91"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Fischer in einem Kahn, ein einzelner braun gekleideter Mönch daneben.",
+        "dialog": "Spät am Rhein bat ein Mönch den Fischer um Überfahrt.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "sitzt im Boot am Ufer; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend",
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": "steht allein am Ufer; Braune Mönchskutte und dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Fischer in einem Kahn, ein einzelner braun gekleideter Mönch daneben.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Die erste Bitte",
+            "posture": "sitzt im Boot am Ufer"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Die erste Bitte",
+            "posture": "steht allein am Ufer"
+          }
+        }
+      },
+      {
+        "heading": "Der erste Dienst",
+        "setting": "Der erste Dienst",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735",
+          "1648c5ad852f5d2ea4bfbbd23fdffb91"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot mit genau zwei Erwachsenen auf ruhigem Wasser.",
+        "dialog": "Der Fischer setzte ihn über und kehrte zu seiner Anlegestelle zurück.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "rudert im Kahn; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend",
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": "sitzt als einziger Fahrgast; Braune Mönchskutte und dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Boot mit genau zwei Erwachsenen auf ruhigem Wasser.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Der erste Dienst",
+            "posture": "rudert im Kahn"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Fünf weitere",
+        "setting": "Fünf weitere",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fünf namenlose erwachsene Mönche am Ufer vor dem wiedergekehrten Fischer. Kein sechster Reisender dazwischen.",
+        "dialog": "Nun warteten fünf andere. Sie baten, trotz der späten Stunde ebenfalls übergesetzt zu werden.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "sitzt im Kahn; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Fünf namenlose erwachsene Mönche am Ufer vor dem wiedergekehrten Fischer. Kein sechster Reisender dazwischen.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Fünf weitere",
+            "posture": "sitzt im Kahn"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Wegen der Not",
+        "setting": "Wegen der Not",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fischer vorn und genau fünf Kapuzenträger hinten im geräumigen Kahn, ruhiger Himmel.",
+        "dialog": "Sie beriefen sich auf ihre Not. Er ließ sie einsteigen.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "hält das Ruder im Boot; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Fischer vorn und genau fünf Kapuzenträger hinten im geräumigen Kahn, ruhiger Himmel.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Wegen der Not",
+            "posture": "hält das Ruder im Boot"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Der Wetterwechsel",
+        "setting": "Der Wetterwechsel",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot mit Fischer und fünf anonymen Mönchen unter dunklen Wolken, kleine Wellen dringen ein.",
+        "dialog": "Kaum waren sie draußen, wurde es dunkel und stürmisch.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "rudert angespannt; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Boot mit Fischer und fünf anonymen Mönchen unter dunklen Wolken, kleine Wellen dringen ein.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Der Wetterwechsel",
+            "posture": "rudert angespannt"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Der Übergriff",
+        "setting": "Der Übergriff",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fischer zusammengesunken vorn, ein namenloser Mönch hält das einzige Ruder. Keine Schlagberührung oder Wunde.",
+        "dialog": "Einer entriss ihm das Ruder und schlug ihn nieder. Hilfe wurde mit Gewalt beantwortet.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "liegt im Boot; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Fischer zusammengesunken vorn, ein namenloser Mönch hält das einzige Ruder. Keine Schlagberührung oder Wunde.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Der Übergriff",
+            "posture": "liegt im Boot"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Am anderen Ufer",
+        "setting": "Am anderen Ufer",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein leeres Ufer am grauen Morgen, Fischer allein im Boot, ein Ruder quer auf der Bank.",
+        "dialog": "Die Gruppe verschwand. Erst im Morgengrauen kam der Fischer zu sich.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "liegt allein im festliegenden Kahn; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein leeres Ufer am grauen Morgen, Fischer allein im Boot, ein Ruder quer auf der Bank.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Am anderen Ufer",
+            "posture": "liegt allein im festliegenden Kahn"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Die Heimfahrt",
+        "setting": "Die Heimfahrt",
+        "characters": [
+          "94207e5df85e5b9cb6b8c60b87cd5735"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner verletzter, aber wacher Mann rudert langsam im Kahn zum bekannten Ufer.",
+        "dialog": "Mit Mühe erreichte er seine Hütte.",
+        "bubbles": [],
+        "character_states": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": "sitzt erschöpft am Ruder; Braune Weste, helles Hemd, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein einzelner verletzter, aber wacher Mann rudert langsam im Kahn zum bekannten Ufer.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Die Heimfahrt",
+            "posture": "sitzt erschöpft am Ruder"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          }
+        }
+      },
+      {
+        "heading": "Die zweite Beobachtung",
+        "setting": "Die zweite Beobachtung",
+        "characters": [
+          "3ea77fccd72b5ca0a0baac4811f933d1"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote links vor einer entfernten schwarzen Kutsche: drei Räder am einen Wagen, zwei Pferde mit je drei Beinen, unheimlicher Fahrer und braune Kapuzengestalten. Als Sagenerscheinung, keine anatomisch realistische Alltagsszene.",
+        "dialog": "Ein Bote sah später die Mönche auf einer unheimlichen Kutsche mit dreirädrigem Wagen und dreibeinigen Pferden.",
+        "bubbles": [],
+        "character_states": {
+          "3ea77fccd72b5ca0a0baac4811f933d1": "steht am Wegesrand; Dunkelgrüner Mantel, braune Hose, Umhängetasche.; Lebenszustand: lebend"
+        },
+        "continuity": "Bote links vor einer entfernten schwarzen Kutsche: drei Räder am einen Wagen, zwei Pferde mit je drei Beinen, unheimlicher Fahrer und braune Kapuzengestalten. Als Sagenerscheinung, keine anatomisch realistische Alltagsszene.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Die Heimfahrt",
+            "posture": "sitzt erschöpft am Ruder"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          },
+          "3ea77fccd72b5ca0a0baac4811f933d1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Mantel, braune Hose, Umhängetasche.",
+            "location": "Die zweite Beobachtung",
+            "posture": "steht am Wegesrand"
+          }
+        }
+      },
+      {
+        "heading": "Die gemeldete Erscheinung",
+        "setting": "Die gemeldete Erscheinung",
+        "characters": [
+          "3ea77fccd72b5ca0a0baac4811f933d1"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote mit leerer Hand vor sitzenden Erwachsenen, keine Kutsche im Saal.",
+        "dialog": "Er berichtete dem Rat. Man deutete das Bild als kommendes Unheil. Sicher war innerhalb der Geschichte vor allem der verratene Dienst am Fischer.",
+        "bubbles": [],
+        "character_states": {
+          "3ea77fccd72b5ca0a0baac4811f933d1": "steht vor namenlosen Ratsherren; Dunkelgrüner Mantel, braune Hose, Umhängetasche.; Lebenszustand: lebend"
+        },
+        "continuity": "Bote mit leerer Hand vor sitzenden Erwachsenen, keine Kutsche im Saal.",
+        "continuity_state": {
+          "94207e5df85e5b9cb6b8c60b87cd5735": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Weste, helles Hemd, graue Hose.",
+            "location": "Die Heimfahrt",
+            "posture": "sitzt erschöpft am Ruder"
+          },
+          "1648c5ad852f5d2ea4bfbbd23fdffb91": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Mönchskutte und dunkle Schuhe.",
+            "location": "Der erste Dienst",
+            "posture": "sitzt als einziger Fahrgast"
+          },
+          "3ea77fccd72b5ca0a0baac4811f933d1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Mantel, braune Hose, Umhängetasche.",
+            "location": "Die gemeldete Erscheinung",
+            "posture": "steht vor namenlosen Ratsherren"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Fischer bei Speyer",
+        "description": "Erwachsener Mann, kurzer grauer Bart, kräftige Arme.",
+        "outfit": "Braune Weste, helles Hemd, graue Hose.",
+        "backstory": "Hilft Reisenden und überlebt deren Übergriff.",
+        "id": "94207e5df85e5b9cb6b8c60b87cd5735",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Sprecher der nächtlichen Mönche",
+        "description": "Erwachsener schmaler Mann, Gesicht tief unter der Kapuze.",
+        "outfit": "Braune Mönchskutte und dunkle Schuhe.",
+        "backstory": "Anführer einer unheimlichen Gruppe, kein Urteil über wirkliche Mönche.",
+        "id": "1648c5ad852f5d2ea4bfbbd23fdffb91",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Bote auf dem Weg nach Speyer",
+        "description": "Junger erwachsener Mann mit schwarzem kurzen Haar.",
+        "outfit": "Dunkelgrüner Mantel, braune Hose, Umhängetasche.",
+        "backstory": "Sieht später die unheimliche Kutsche und meldet seine Beobachtung.",
+        "id": "3ea77fccd72b5ca0a0baac4811f933d1",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie verlässlich ist ein frommes Äußeres als Zeichen tatsächlicher Haltung?",
+      "core": "Äußerer Stand und religiöse Zeichen garantieren keine Rücksicht. Die erhaltene Hilfe wird hier durch Gewalttätigkeit verraten und in ein bedrohliches Warnbild umgedeutet.",
+      "ending": "Der Fischer überlebt; die spätere unheimliche Kutsche wird als Unheilszeichen gedeutet.",
+      "reason": "Überfahrt, Wandel der Umstände, Verrat und spätere Sichtung müssen als zwei Berichte erkennbar bleiben.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "entriß ihm das Ruder und schlug ihn, daß er niedersank",
+          "meaning": "Das beobachtbare Verhalten widerlegt die zunächst erwartete Schutzwürdigkeit der scheinbaren Mönche."
+        }
+      ],
+      "causal_chain": [
+        "entriß ihm das Ruder und schlug ihn, daß er niedersank",
+        "Der Fischer überlebt; die spätere unheimliche Kutsche wird als Unheilszeichen gedeutet."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "6c3dc695a851162dfa7c3056e5aba450f704f127ab31eeed8891c92e895e14a6",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.853706+00:00"
+    },
+    "post_summary": "Ein Fischer hilft nächtlichen Reisenden. Ihre Gewalttätigkeit und eine spätere Erscheinung machen aus der Überfahrt ein Warnbild.",
+    "source_provenance": {
+      "title": "Die schiffenden Mönche",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 42.",
+      "url": "https://textgridrep.org/browse/khbc.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die schiffenden Mönche. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 42.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Speier kam einstmals ein Fischer an den Strand des Rheinstroms, der stellte seine Garne spät am Abend und legte seine Reusen und fuhr in seinem Kahn von einer Uferstelle zur andern. Da kam ein Mann daher in brauner Mönchskutte, und der Fischer grüßte ihn. Fischer, sprach der Mönch, ich bin ein Bote von weitem her und möchte gern überfahren. – Das kann geschehen, sagte der Fischer und fuhr den Mönch über. Als er wieder an seinen Strand kam, standen fünf andere Mönche da und harrten seiner und sprachen: Fahr über! – Warum reiset ihr so in später Nacht? Und soll ich nicht für meine Arbeit einen Lohn von euch verdienen? – Fischer, es treibt die Not, antworteten die Mönche, die Welt ist uns gram, fahr uns nur über um Gottes willen.\n\nDer Strom war ruhig und hell der Nachthimmel, der Fischer nahm die Männer in seinen Kahn und stieß vom Strande. Schnell ward es dunkel, der Himmel schwärzte sich, der Strom warf Wellen, es heulte der Sturm und trieb die schäumenden Wogen über Bord in das Schiff hinein. Wie geschieht uns? fragte der Fischer. War doch eben erst der Himmel rein und klar! Hilf uns, o Gott! – Was heulst und betest du, statt zu rudern? schalt den Schiffer einer der Mönche, entriß ihm das Ruder und schlug ihn, daß er niedersank. Die Mönche ruderten nun selber eilend durch den Strom, legten am andern Ufer an und verschwanden. Als der Fischer wieder zu sich kam, grauete schon der Tag, und kaum vermochte er, wieder überzufahren und seine Hütte zu erreichen.\n\nDes Weges aber, den die Mönche eingeschlagen, kam ein Bote, der wollte gen Speier, der sah dieselbigen Mönche sich entgegenkommen, sie fuhren auf einem Wagen, der war schwarz überhangen und hatte nur drei Räder; die Pferde, die ihn zogen, hatten nur drei Beine, und der Fuhrmann hatte eine Teufelsnase und eine Flammengeißel, rund um den Wagen her weberte es von Flammen. Der Bote kreuzte und segnete sich und zeigte dem Rat zu Speier dies Gesicht an, aus welchem man auf große Zwietracht unter den deutschen Fürsten schloß, an der in alten und neuen Zeiten niemalen ein Mangel.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Zu Speier kam einstmals ein Fischer an den Strand des Rheinstroms, der stellte seine Garne spät am Abend und legte seine Reusen und fuhr in seinem Kahn von einer Uferstelle zur andern.",
+      "id": "bechstein-sagen-khbc-0",
+      "category": "Heilige und Legenden",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "schiffende-moenche-10-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die schiffenden Mönche – Der verratene Dienst · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die schiffenden Mönche – Der verratene Dienst\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Fischer bei Speyer\nAussehen: Erwachsener Mann, kurzer grauer Bart, kräftige Arme.\nKleidung: Braune Weste, helles Hemd, graue Hose.\nPersönlichkeit und Vorgeschichte: Hilft Reisenden und überlebt deren Übergriff.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Sprecher der nächtlichen Mönche\nAussehen: Erwachsener schmaler Mann, Gesicht tief unter der Kapuze.\nKleidung: Braune Mönchskutte und dunkle Schuhe.\nPersönlichkeit und Vorgeschichte: Anführer einer unheimlichen Gruppe, kein Urteil über wirkliche Mönche.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Bote auf dem Weg nach Speyer\nAussehen: Junger erwachsener Mann mit schwarzem kurzen Haar.\nKleidung: Dunkelgrüner Mantel, braune Hose, Umhängetasche.\nPersönlichkeit und Vorgeschichte: Sieht später die unheimliche Kutsche und meldet seine Beobachtung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die erste Bitte\nOrt und Zeit: Die erste Bitte\nSichtbare Figuren: Fischer bei Speyer, Sprecher der nächtlichen Mönche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Fischer in einem Kahn, ein einzelner braun gekleideter Mönch daneben.\nErzählertext: Spät am Rhein bat ein Mönch den Fischer um Überfahrt.\nDialoge: keine\nKontinuität / Änderung: Ein Fischer in einem Kahn, ein einzelner braun gekleideter Mönch daneben.\n\nKACHEL 2: Der erste Dienst\nOrt und Zeit: Der erste Dienst\nSichtbare Figuren: Fischer bei Speyer, Sprecher der nächtlichen Mönche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot mit genau zwei Erwachsenen auf ruhigem Wasser.\nErzählertext: Der Fischer setzte ihn über und kehrte zu seiner Anlegestelle zurück.\nDialoge: keine\nKontinuität / Änderung: Ein Boot mit genau zwei Erwachsenen auf ruhigem Wasser.\n\nKACHEL 3: Fünf weitere\nOrt und Zeit: Fünf weitere\nSichtbare Figuren: Fischer bei Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fünf namenlose erwachsene Mönche am Ufer vor dem wiedergekehrten Fischer. Kein sechster Reisender dazwischen.\nErzählertext: Nun warteten fünf andere. Sie baten, trotz der späten Stunde ebenfalls übergesetzt zu werden.\nDialoge: keine\nKontinuität / Änderung: Fünf namenlose erwachsene Mönche am Ufer vor dem wiedergekehrten Fischer. Kein sechster Reisender dazwischen.\n\nKACHEL 4: Wegen der Not\nOrt und Zeit: Wegen der Not\nSichtbare Figuren: Fischer bei Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fischer vorn und genau fünf Kapuzenträger hinten im geräumigen Kahn, ruhiger Himmel.\nErzählertext: Sie beriefen sich auf ihre Not. Er ließ sie einsteigen.\nDialoge: keine\nKontinuität / Änderung: Fischer vorn und genau fünf Kapuzenträger hinten im geräumigen Kahn, ruhiger Himmel.\n\nKACHEL 5: Der Wetterwechsel\nOrt und Zeit: Der Wetterwechsel\nSichtbare Figuren: Fischer bei Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot mit Fischer und fünf anonymen Mönchen unter dunklen Wolken, kleine Wellen dringen ein.\nErzählertext: Kaum waren sie draußen, wurde es dunkel und stürmisch.\nDialoge: keine\nKontinuität / Änderung: Ein Boot mit Fischer und fünf anonymen Mönchen unter dunklen Wolken, kleine Wellen dringen ein.\n\nKACHEL 6: Der Übergriff\nOrt und Zeit: Der Übergriff\nSichtbare Figuren: Fischer bei Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fischer zusammengesunken vorn, ein namenloser Mönch hält das einzige Ruder. Keine Schlagberührung oder Wunde.\nErzählertext: Einer entriss ihm das Ruder und schlug ihn nieder. Hilfe wurde mit Gewalt beantwortet.\nDialoge: keine\nKontinuität / Änderung: Fischer zusammengesunken vorn, ein namenloser Mönch hält das einzige Ruder. Keine Schlagberührung oder Wunde.\n\nKACHEL 7: Am anderen Ufer\nOrt und Zeit: Am anderen Ufer\nSichtbare Figuren: Fischer bei Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein leeres Ufer am grauen Morgen, Fischer allein im Boot, ein Ruder quer auf der Bank.\nErzählertext: Die Gruppe verschwand. Erst im Morgengrauen kam der Fischer zu sich.\nDialoge: keine\nKontinuität / Änderung: Ein leeres Ufer am grauen Morgen, Fischer allein im Boot, ein Ruder quer auf der Bank.\n\nKACHEL 8: Die Heimfahrt\nOrt und Zeit: Die Heimfahrt\nSichtbare Figuren: Fischer bei Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner verletzter, aber wacher Mann rudert langsam im Kahn zum bekannten Ufer.\nErzählertext: Mit Mühe erreichte er seine Hütte.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner verletzter, aber wacher Mann rudert langsam im Kahn zum bekannten Ufer.\n\nKACHEL 9: Die zweite Beobachtung\nOrt und Zeit: Die zweite Beobachtung\nSichtbare Figuren: Bote auf dem Weg nach Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote links vor einer entfernten schwarzen Kutsche: drei Räder am einen Wagen, zwei Pferde mit je drei Beinen, unheimlicher Fahrer und braune Kapuzengestalten. Als Sagenerscheinung, keine anatomisch realistische Alltagsszene.\nErzählertext: Ein Bote sah später die Mönche auf einer unheimlichen Kutsche mit dreirädrigem Wagen und dreibeinigen Pferden.\nDialoge: keine\nKontinuität / Änderung: Bote links vor einer entfernten schwarzen Kutsche: drei Räder am einen Wagen, zwei Pferde mit je drei Beinen, unheimlicher Fahrer und braune Kapuzengestalten. Als Sagenerscheinung, keine anatomisch realistische Alltagsszene.\n\nKACHEL 10: Die gemeldete Erscheinung\nOrt und Zeit: Die gemeldete Erscheinung\nSichtbare Figuren: Bote auf dem Weg nach Speyer\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote mit leerer Hand vor sitzenden Erwachsenen, keine Kutsche im Saal.\nErzählertext: Er berichtete dem Rat. Man deutete das Bild als kommendes Unheil. Sicher war innerhalb der Geschichte vor allem der verratene Dienst am Fischer.\nDialoge: keine\nKontinuität / Änderung: Bote mit leerer Hand vor sitzenden Erwachsenen, keine Kutsche im Saal.\n"
+  },
+  "count_policy": "editorial"
+}

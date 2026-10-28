@@ -1,0 +1,424 @@
+{
+  "mode": "editorial",
+  "name": "Der Franken Furt – Der Ausweg · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Der Franken Furt. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 67.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDie Sage geht, daß die freie deutsche Stadt Frankfurt ihren Ursprung in solcher Weise erhalten habe. Unter Kaiser Karl dem Großen kriegten die Sachsen gegen die Franken und ihren mächtigen König, und waren erstere siegreich und trieben die Feinde bis hinab zum Ende des Mainstroms. Wie nun die Franken flüchtig an diesen Strom und an die Stelle kamen, wo jetzt Frankfurt liegt, und des Stromes Breite und Tiefe sie erschreckte, da sie weder Brücke noch Schiffe hatten, über den Main zu gelangen, siehe, da zeigte ihnen eine Hirschkuh gleichsam nach dem Ratschluß göttlicher Barmherzigkeit den Weg, indem sie ohne Gefahr durch den Strom schritt und also eine Furt anzeigte, wo die flüchtigen Franken nun ohne Gefahr über den Strom setzen konnten und setzten. Da nun später die nachfolgenden Feinde kamen und jene Furt nicht kannten und fanden, so mußten sie die Franken ferner unverfolgt lassen, und Karl der Große soll gesprochen haben: Besser, daß die Völker sagen, ich sei mit meinen Franken vor den Sachsen dieses Mal geflohen, als daß sie sagen, ich sei hier gefallen, denn weil ich lebe, kann und will ich meine Ehre retten. Dort nun siedelten Franken sich an, denn es war ein lieblich und fruchtreich gelegener Gau, und nannten den Ort die Furt der Franken, Frankfurt. Manche sagen, gleich damals haben die Sachsen den Ort Sachsenhausen, Frankfurt gegenüber dicht am Mainstrom, begründet, andere aber behaupten, dessen Gründung sei erst dann geschehen, als Karl der Große überwundene Sachsen aus ihrem Heimatlande hinweg und zur Ansiedelung im Frankenlande genötigt habe, von welcher bis auf den heutigen Tag noch viele Ortsnamen zeugen. Später erbaute Kaiser Karl selbst eine kleine Pfalz zur Frankenfurt und hielt sich Jagens halber gern dort auf, feierte Ostern da und hielt Reichskonvente. Auch Karls des Großen Sohn, König Ludwig, wohnte da, recht in seines weiten Reiches Mitte, und sein Sohn Karl, hernachmals Karl der Kahle genannt, ward allda geboren. Noch immer wird die seichte Stelle im Main gezeigt, wo der Franken Furt war und Frankfurts erster Anbau und Name sich begründete, und Kaiser Karls Pfalz stand da, wo jetzt die St. Leonhardskirche steht, und die neue Pfalz, welche Ludwig der Fromme erbaute und der Saal hieß, lag neben dem Fahrtor, davon hat noch bis heute die Saalgasse ihren Namen. Im Saalhof starben Ludwig der Deutsche, des frommen Ludwig jüngster Sohn, wie auch Hemma, dessen Gemahlin. Dieser König war es, der Frankfurt zu des ostfränkischen Reiches weltlicher Hauptstadt erhob, während Mainz die geistliche war.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Der Franken Furt. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 67.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDie Sage geht, daß die freie deutsche Stadt Frankfurt ihren Ursprung in solcher Weise erhalten habe. Unter Kaiser Karl dem Großen kriegten die Sachsen gegen die Franken und ihren mächtigen König, und waren erstere siegreich und trieben die Feinde bis hinab zum Ende des Mainstroms. Wie nun die Franken flüchtig an diesen Strom und an die Stelle kamen, wo jetzt Frankfurt liegt, und des Stromes Breite und Tiefe sie erschreckte, da sie weder Brücke noch Schiffe hatten, über den Main zu gelangen, siehe, da zeigte ihnen eine Hirschkuh gleichsam nach dem Ratschluß göttlicher Barmherzigkeit den Weg, indem sie ohne Gefahr durch den Strom schritt und also eine Furt anzeigte, wo die flüchtigen Franken nun ohne Gefahr über den Strom setzen konnten und setzten. Da nun später die nachfolgenden Feinde kamen und jene Furt nicht kannten und fanden, so mußten sie die Franken ferner unverfolgt lassen, und Karl der Große soll gesprochen haben: Besser, daß die Völker sagen, ich sei mit meinen Franken vor den Sachsen dieses Mal geflohen, als daß sie sagen, ich sei hier gefallen, denn weil ich lebe, kann und will ich meine Ehre retten. Dort nun siedelten Franken sich an, denn es war ein lieblich und fruchtreich gelegener Gau, und nannten den Ort die Furt der Franken, Frankfurt. Manche sagen, gleich damals haben die Sachsen den Ort Sachsenhausen, Frankfurt gegenüber dicht am Mainstrom, begründet, andere aber behaupten, dessen Gründung sei erst dann geschehen, als Karl der Große überwundene Sachsen aus ihrem Heimatlande hinweg und zur Ansiedelung im Frankenlande genötigt habe, von welcher bis auf den heutigen Tag noch viele Ortsnamen zeugen. Später erbaute Kaiser Karl selbst eine kleine Pfalz zur Frankenfurt und hielt sich Jagens halber gern dort auf, feierte Ostern da und hielt Reichskonvente. Auch Karls des Großen Sohn, König Ludwig, wohnte da, recht in seines weiten Reiches Mitte, und sein Sohn Karl, hernachmals Karl der Kahle genannt, ward allda geboren. Noch immer wird die seichte Stelle im Main gezeigt, wo der Franken Furt war und Frankfurts erster Anbau und Name sich begründete, und Kaiser Karls Pfalz stand da, wo jetzt die St. Leonhardskirche steht, und die neue Pfalz, welche Ludwig der Fromme erbaute und der Saal hieß, lag neben dem Fahrtor, davon hat noch bis heute die Saalgasse ihren Namen. Im Saalhof starben Ludwig der Deutsche, des frommen Ludwig jüngster Sohn, wie auch Hemma, dessen Gemahlin. Dieser König war es, der Frankfurt zu des ostfränkischen Reiches weltlicher Hauptstadt erhob, während Mainz die geistliche war.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Die Flüchtenden",
+        "setting": "Die Flüchtenden",
+        "characters": [
+          "45dd3862b062529081b26330cda2e46e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erschöpfter erwachsener Mann mit wenigen namenlosen Begleitern am breiten Main.",
+        "dialog": "In der Ursprungssage mussten Karls Franken vor den Sachsen fliehen.",
+        "bubbles": [],
+        "character_states": {
+          "45dd3862b062529081b26330cda2e46e": "geht am Ufer vor einer fernen Gruppe; Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Erschöpfter erwachsener Mann mit wenigen namenlosen Begleitern am breiten Main.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Die Flüchtenden",
+            "posture": "geht am Ufer vor einer fernen Gruppe"
+          }
+        }
+      },
+      {
+        "heading": "Der Fluss",
+        "setting": "Der Fluss",
+        "characters": [
+          "45dd3862b062529081b26330cda2e46e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann am Ufer, breite Wasserfläche bis zum gegenüberliegenden Land. Keine Brücke oder Boote.",
+        "dialog": "Vor ihnen lag der Main. Schiffe und Brücke fehlten.",
+        "bubbles": [],
+        "character_states": {
+          "45dd3862b062529081b26330cda2e46e": "steht vor dem Wasser; Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann am Ufer, breite Wasserfläche bis zum gegenüberliegenden Land. Keine Brücke oder Boote.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Fluss",
+            "posture": "steht vor dem Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Die fremde Bewegung",
+        "setting": "Die fremde Bewegung",
+        "characters": [
+          "7cd8492b555c55d08fab9a23425bc0db"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige Hirschkuh am flachen Ufer, keine bewaffneten Menschen direkt daneben.",
+        "dialog": "Da kam eine Hirschkuh zum Fluss.",
+        "bubbles": [],
+        "character_states": {
+          "7cd8492b555c55d08fab9a23425bc0db": "tritt aus dem Wald ans Wasser; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine einzige Hirschkuh am flachen Ufer, keine bewaffneten Menschen direkt daneben.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Fluss",
+            "posture": "steht vor dem Wasser"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die fremde Bewegung",
+            "posture": "tritt aus dem Wald ans Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Die Furt",
+        "setting": "Die Furt",
+        "characters": [
+          "7cd8492b555c55d08fab9a23425bc0db"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier Beine der Hirschkuh im flachen Wasser, Strömung reicht nur bis unter den Bauch.",
+        "dialog": "Sie schritt ungefährdet hindurch und zeigte eine seichte Stelle.",
+        "bubbles": [],
+        "character_states": {
+          "7cd8492b555c55d08fab9a23425bc0db": "geht durch seichtes Wasser; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Vier Beine der Hirschkuh im flachen Wasser, Strömung reicht nur bis unter den Bauch.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Fluss",
+            "posture": "steht vor dem Wasser"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Genau hinsehen",
+        "setting": "Genau hinsehen",
+        "characters": [
+          "45dd3862b062529081b26330cda2e46e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König vorn mit offener Hand, kleine Hirschkuh fern am anderen Ufer.",
+        "dialog": "Karl beobachtete den Weg des Tieres.",
+        "bubbles": [],
+        "character_states": {
+          "45dd3862b062529081b26330cda2e46e": "beobachtet vom Ufer; Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "König vorn mit offener Hand, kleine Hirschkuh fern am anderen Ufer.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Genau hinsehen",
+            "posture": "beobachtet vom Ufer"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Die Überquerung",
+        "setting": "Die Überquerung",
+        "characters": [
+          "45dd3862b062529081b26330cda2e46e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann vorn mit beiden Füßen im seichten Wasser, Gruppe folgt einzeln, keine schwimmenden Rüstungsleichen.",
+        "dialog": "Die Franken nutzten dieselbe Furt und kamen hinüber.",
+        "bubbles": [],
+        "character_states": {
+          "45dd3862b062529081b26330cda2e46e": "geht zu Fuß durchs flache Wasser; Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann vorn mit beiden Füßen im seichten Wasser, Gruppe folgt einzeln, keine schwimmenden Rüstungsleichen.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Die Überquerung",
+            "posture": "geht zu Fuß durchs flache Wasser"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Die Verfolger",
+        "setting": "Die Verfolger",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbenannte Erwachsene am ursprünglichen Ufer vor breitem Wasser, keine ihnen bekannte markierte Furt.",
+        "dialog": "Die Verfolger fanden den Übergang nicht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Unbenannte Erwachsene am ursprünglichen Ufer vor breitem Wasser, keine ihnen bekannte markierte Furt.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Die Überquerung",
+            "posture": "geht zu Fuß durchs flache Wasser"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Eine angenommene Grenze",
+        "setting": "Eine angenommene Grenze",
+        "characters": [
+          "45dd3862b062529081b26330cda2e46e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König mit nassem Mantelsaum, Gefährten ruhen dahinter.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "45dd3862b062529081b26330cda2e46e",
+            "text": "Besser geflohen und am Leben als hier gefallen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "45dd3862b062529081b26330cda2e46e": "steht am sicheren Ufer; Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "König mit nassem Mantelsaum, Gefährten ruhen dahinter.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Eine angenommene Grenze",
+            "posture": "steht am sicheren Ufer"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Eine neue Ansiedlung",
+        "setting": "Eine neue Ansiedlung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einige einfache Hütten am Fluss, keine fertige moderne Großstadt.",
+        "dialog": "Später siedelten sich Franken hier an. Die Sage erklärt daraus den Namen Frankfurt.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Einige einfache Hütten am Fluss, keine fertige moderne Großstadt.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Eine angenommene Grenze",
+            "posture": "steht am sicheren Ufer"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Was der Ort bewahrt",
+        "setting": "Was der Ort bewahrt",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Flusslandschaft mit einfachen Häusern und seichtem Übergang, keine Rückkehrschlacht.",
+        "dialog": "Nicht die Behauptung unbesiegbaren Ansehens hatte sie bewahrt, sondern ein rechtzeitig erkannter Ausweg.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ruhige Flusslandschaft mit einfachen Häusern und seichtem Übergang, keine Rückkehrschlacht.",
+        "continuity_state": {
+          "45dd3862b062529081b26330cda2e46e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+            "location": "Eine angenommene Grenze",
+            "posture": "steht am sicheren Ufer"
+          },
+          "7cd8492b555c55d08fab9a23425bc0db": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die Furt",
+            "posture": "geht durch seichtes Wasser"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Karl an der Frankenfurt",
+        "description": "Erwachsener kräftiger Mann mit braunem Vollbart.",
+        "outfit": "Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.",
+        "backstory": "Muss in der Ursprungssage eine Niederlage anerkennen, um weiter handeln zu können.",
+        "id": "45dd3862b062529081b26330cda2e46e",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Hirschkuh der Frankenfurt",
+        "description": "Eine braune Hirschkuh mit vier Beinen und ohne Geweih.",
+        "outfit": "Natürliches Fell.",
+        "backstory": "Zeigt durch ihr Durchqueren des Flusses die Furt.",
+        "id": "7cd8492b555c55d08fab9a23425bc0db",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Ist ein überlebter Rückzug weniger wert als ein aussichtsloser Tod aus Ehrgeiz?",
+      "core": "Die eigene Begrenzung anzuerkennen kann zukünftiges Handeln erst ermöglichen. Beobachtung und rechtzeitiger Ausweg bewahren mehr als das bloße Festhalten an einem unbesiegbaren Ansehen.",
+      "ending": "Die Franken finden die Furt und entkommen; der Ort wird zur Heimat- und Namenssage.",
+      "reason": "Verfolgung, unpassierbarer Fluss, beobachteter Übergang und begründeter Rückzug genügen; spätere Genealogien bleiben Rahmen.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "denn weil ich lebe, kann und will ich meine Ehre retten",
+          "meaning": "Die Sage lässt den König ausdrücklich Überleben gegen das Bild eines heldischen Todes abwägen."
+        }
+      ],
+      "causal_chain": [
+        "denn weil ich lebe, kann und will ich meine Ehre retten",
+        "Die Franken finden die Furt und entkommen; der Ort wird zur Heimat- und Namenssage."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "dbd6203d583fd5111686cabd7690476a04d2f673ae5dce12cd5686b891f7a53d",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:39:20.219748+00:00"
+    },
+    "post_summary": "Ein bedrängter König steht vor einem unüberwindlich scheinenden Fluss. Eine Hirschkuh zeigt, was sein Stolz allein nicht finden konnte.",
+    "source_provenance": {
+      "title": "Der Franken Furt",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 67.",
+      "url": "https://textgridrep.org/browse/khm5.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Der Franken Furt. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 67.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDie Sage geht, daß die freie deutsche Stadt Frankfurt ihren Ursprung in solcher Weise erhalten habe. Unter Kaiser Karl dem Großen kriegten die Sachsen gegen die Franken und ihren mächtigen König, und waren erstere siegreich und trieben die Feinde bis hinab zum Ende des Mainstroms. Wie nun die Franken flüchtig an diesen Strom und an die Stelle kamen, wo jetzt Frankfurt liegt, und des Stromes Breite und Tiefe sie erschreckte, da sie weder Brücke noch Schiffe hatten, über den Main zu gelangen, siehe, da zeigte ihnen eine Hirschkuh gleichsam nach dem Ratschluß göttlicher Barmherzigkeit den Weg, indem sie ohne Gefahr durch den Strom schritt und also eine Furt anzeigte, wo die flüchtigen Franken nun ohne Gefahr über den Strom setzen konnten und setzten. Da nun später die nachfolgenden Feinde kamen und jene Furt nicht kannten und fanden, so mußten sie die Franken ferner unverfolgt lassen, und Karl der Große soll gesprochen haben: Besser, daß die Völker sagen, ich sei mit meinen Franken vor den Sachsen dieses Mal geflohen, als daß sie sagen, ich sei hier gefallen, denn weil ich lebe, kann und will ich meine Ehre retten. Dort nun siedelten Franken sich an, denn es war ein lieblich und fruchtreich gelegener Gau, und nannten den Ort die Furt der Franken, Frankfurt. Manche sagen, gleich damals haben die Sachsen den Ort Sachsenhausen, Frankfurt gegenüber dicht am Mainstrom, begründet, andere aber behaupten, dessen Gründung sei erst dann geschehen, als Karl der Große überwundene Sachsen aus ihrem Heimatlande hinweg und zur Ansiedelung im Frankenlande genötigt habe, von welcher bis auf den heutigen Tag noch viele Ortsnamen zeugen. Später erbaute Kaiser Karl selbst eine kleine Pfalz zur Frankenfurt und hielt sich Jagens halber gern dort auf, feierte Ostern da und hielt Reichskonvente. Auch Karls des Großen Sohn, König Ludwig, wohnte da, recht in seines weiten Reiches Mitte, und sein Sohn Karl, hernachmals Karl der Kahle genannt, ward allda geboren. Noch immer wird die seichte Stelle im Main gezeigt, wo der Franken Furt war und Frankfurts erster Anbau und Name sich begründete, und Kaiser Karls Pfalz stand da, wo jetzt die St. Leonhardskirche steht, und die neue Pfalz, welche Ludwig der Fromme erbaute und der Saal hieß, lag neben dem Fahrtor, davon hat noch bis heute die Saalgasse ihren Namen. Im Saalhof starben Ludwig der Deutsche, des frommen Ludwig jüngster Sohn, wie auch Hemma, dessen Gemahlin. Dieser König war es, der Frankfurt zu des ostfränkischen Reiches weltlicher Hauptstadt erhob, während Mainz die geistliche war.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Die Sage geht, daß die freie deutsche Stadt Frankfurt ihren Ursprung in solcher Weise erhalten habe. Unter Kaiser Karl dem Großen kriegten die Sachsen gegen die Franken und ihren mächtigen König, und waren erstere siegreich und trieben die Feinde bis hinab zum Ende des Mainstroms.",
+      "id": "bechstein-sagen-khm5-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "franken-furt-10-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Der Franken Furt – Der Ausweg · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Der Franken Furt – Der Ausweg\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Karl an der Frankenfurt\nAussehen: Erwachsener kräftiger Mann mit braunem Vollbart.\nKleidung: Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.\nPersönlichkeit und Vorgeschichte: Muss in der Ursprungssage eine Niederlage anerkennen, um weiter handeln zu können.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hirschkuh der Frankenfurt\nAussehen: Eine braune Hirschkuh mit vier Beinen und ohne Geweih.\nKleidung: Natürliches Fell.\nPersönlichkeit und Vorgeschichte: Zeigt durch ihr Durchqueren des Flusses die Furt.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Flüchtenden\nOrt und Zeit: Die Flüchtenden\nSichtbare Figuren: Karl an der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erschöpfter erwachsener Mann mit wenigen namenlosen Begleitern am breiten Main.\nErzählertext: In der Ursprungssage mussten Karls Franken vor den Sachsen fliehen.\nDialoge: keine\nKontinuität / Änderung: Erschöpfter erwachsener Mann mit wenigen namenlosen Begleitern am breiten Main.\n\nKACHEL 2: Der Fluss\nOrt und Zeit: Der Fluss\nSichtbare Figuren: Karl an der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann am Ufer, breite Wasserfläche bis zum gegenüberliegenden Land. Keine Brücke oder Boote.\nErzählertext: Vor ihnen lag der Main. Schiffe und Brücke fehlten.\nDialoge: keine\nKontinuität / Änderung: Ein Mann am Ufer, breite Wasserfläche bis zum gegenüberliegenden Land. Keine Brücke oder Boote.\n\nKACHEL 3: Die fremde Bewegung\nOrt und Zeit: Die fremde Bewegung\nSichtbare Figuren: Hirschkuh der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige Hirschkuh am flachen Ufer, keine bewaffneten Menschen direkt daneben.\nErzählertext: Da kam eine Hirschkuh zum Fluss.\nDialoge: keine\nKontinuität / Änderung: Eine einzige Hirschkuh am flachen Ufer, keine bewaffneten Menschen direkt daneben.\n\nKACHEL 4: Die Furt\nOrt und Zeit: Die Furt\nSichtbare Figuren: Hirschkuh der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier Beine der Hirschkuh im flachen Wasser, Strömung reicht nur bis unter den Bauch.\nErzählertext: Sie schritt ungefährdet hindurch und zeigte eine seichte Stelle.\nDialoge: keine\nKontinuität / Änderung: Vier Beine der Hirschkuh im flachen Wasser, Strömung reicht nur bis unter den Bauch.\n\nKACHEL 5: Genau hinsehen\nOrt und Zeit: Genau hinsehen\nSichtbare Figuren: Karl an der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König vorn mit offener Hand, kleine Hirschkuh fern am anderen Ufer.\nErzählertext: Karl beobachtete den Weg des Tieres.\nDialoge: keine\nKontinuität / Änderung: König vorn mit offener Hand, kleine Hirschkuh fern am anderen Ufer.\n\nKACHEL 6: Die Überquerung\nOrt und Zeit: Die Überquerung\nSichtbare Figuren: Karl an der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann vorn mit beiden Füßen im seichten Wasser, Gruppe folgt einzeln, keine schwimmenden Rüstungsleichen.\nErzählertext: Die Franken nutzten dieselbe Furt und kamen hinüber.\nDialoge: keine\nKontinuität / Änderung: Ein Mann vorn mit beiden Füßen im seichten Wasser, Gruppe folgt einzeln, keine schwimmenden Rüstungsleichen.\n\nKACHEL 7: Die Verfolger\nOrt und Zeit: Die Verfolger\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbenannte Erwachsene am ursprünglichen Ufer vor breitem Wasser, keine ihnen bekannte markierte Furt.\nErzählertext: Die Verfolger fanden den Übergang nicht.\nDialoge: keine\nKontinuität / Änderung: Unbenannte Erwachsene am ursprünglichen Ufer vor breitem Wasser, keine ihnen bekannte markierte Furt.\n\nKACHEL 8: Eine angenommene Grenze\nOrt und Zeit: Eine angenommene Grenze\nSichtbare Figuren: Karl an der Frankenfurt\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König mit nassem Mantelsaum, Gefährten ruhen dahinter.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Karl an der Frankenfurt\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Besser geflohen und am Leben als hier gefallen.“\nKontinuität / Änderung: König mit nassem Mantelsaum, Gefährten ruhen dahinter.\n\nKACHEL 9: Eine neue Ansiedlung\nOrt und Zeit: Eine neue Ansiedlung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einige einfache Hütten am Fluss, keine fertige moderne Großstadt.\nErzählertext: Später siedelten sich Franken hier an. Die Sage erklärt daraus den Namen Frankfurt.\nDialoge: keine\nKontinuität / Änderung: Einige einfache Hütten am Fluss, keine fertige moderne Großstadt.\n\nKACHEL 10: Was der Ort bewahrt\nOrt und Zeit: Was der Ort bewahrt\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Flusslandschaft mit einfachen Häusern und seichtem Übergang, keine Rückkehrschlacht.\nErzählertext: Nicht die Behauptung unbesiegbaren Ansehens hatte sie bewahrt, sondern ein rechtzeitig erkannter Ausweg.\nDialoge: keine\nKontinuität / Änderung: Ruhige Flusslandschaft mit einfachen Häusern und seichtem Übergang, keine Rückkehrschlacht.\n"
+  },
+  "count_policy": "editorial"
+}

@@ -1,0 +1,118 @@
+TITEL: Der Lindwurm auf Frankenstein – Der Sieg am Brunnen
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ritter von Frankenstein am Brunnen
+Aussehen: Erwachsener Mann mit dunkelbraunem Bart.
+Kleidung: Grauer Harnisch, braune Stiefel; genau ein Schwert in linker Scheide.
+Persönlichkeit und Vorgeschichte: Befreit den Brunnen und stirbt an der Nachwirkung des Gifts.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Lindwurm am Eberstädter Brunnen
+Aussehen: Ein langes grünes Reptil mit zwei Vorderbeinen, beinlosem Hinterleib und einem einzigen langen spitzen Schwanz; ohne Flügel.
+Kleidung: Grüne natürliche Schuppen.
+Persönlichkeit und Vorgeschichte: Versperrt den Brunnen, sein Schwanz bleibt nach dem entscheidenden Schlag gefährlich.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der versperrte Brunnen
+Ort und Zeit: Der versperrte Brunnen
+Sichtbare Figuren: Lindwurm am Eberstädter Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Lindwurm rechts vom steinernen Brunnen, leere Eimer weit links, kein Tierfraß.
+Erzählertext: Beim Dorf Eberstadt blockierte ein Lindwurm den Zugang zum Wasser.
+Dialoge: keine
+Kontinuität / Änderung: Ein Lindwurm rechts vom steinernen Brunnen, leere Eimer weit links, kein Tierfraß.
+
+KACHEL 2: Der erzwungene Preis
+Ort und Zeit: Der erzwungene Preis
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene warten mit leeren Eimern hinter einer Mauer, Brunnen fern. Keine Opferung sichtbar.
+Erzählertext: Nur während das Tier fraß, wagten Menschen zum Brunnen zu gehen. Dafür mussten sie Tiere opfern.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene warten mit leeren Eimern hinter einer Mauer, Brunnen fern. Keine Opferung sichtbar.
+
+KACHEL 3: Der Entschluss
+Ort und Zeit: Der Entschluss
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein gerüsteter Mann, eine linke Schwertscheide mit einem Griff, beide Hände noch leer.
+Erzählertext: Der Ritter auf Frankenstein wollte das Dorf befreien.
+Dialoge: keine
+Kontinuität / Änderung: Ein gerüsteter Mann, eine linke Schwertscheide mit einem Griff, beide Hände noch leer.
+
+KACHEL 4: Vor dem Brunnen
+Ort und Zeit: Vor dem Brunnen
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen, Lindwurm am Eberstädter Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Breite Seitenansicht auf gleicher Bodenebene, Mensch links und großer zweibeiniger Lindwurm rechts.
+Erzählertext: Er stellte sich dem Ungetüm.
+Dialoge: keine
+Kontinuität / Änderung: Breite Seitenansicht auf gleicher Bodenebene, Mensch links und großer zweibeiniger Lindwurm rechts.
+
+KACHEL 5: Die gezogene Klinge
+Ort und Zeit: Die gezogene Klinge
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen, Lindwurm am Eberstädter Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine rechte Klinge, linke Scheide offen und leer ohne zweiten Griff. Zwei Vorderbeine des Lindwurms klar getrennt.
+Erzählertext: Der Ritter zog sein Schwert. Der Lindwurm wehrte sich.
+Dialoge: keine
+Kontinuität / Änderung: Eine rechte Klinge, linke Scheide offen und leer ohne zweiten Griff. Zwei Vorderbeine des Lindwurms klar getrennt.
+
+KACHEL 6: Der Feuerstoß
+Ort und Zeit: Der Feuerstoß
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen, Lindwurm am Eberstädter Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Seitlicher Feuerstrahl trifft leeren Stein links, Ritter sicher außerhalb, Schwanz des Tiers nach rechts.
+Erzählertext: Feuer und Klinge entschieden den Kampf noch nicht.
+Dialoge: keine
+Kontinuität / Änderung: Seitlicher Feuerstrahl trifft leeren Stein links, Ritter sicher außerhalb, Schwanz des Tiers nach rechts.
+
+KACHEL 7: Der entscheidende Schlag
+Ort und Zeit: Der entscheidende Schlag
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen, Lindwurm am Eberstädter Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter links setzt zum Schlag an, Kontaktstelle hinter dem Brunnenrand verdeckt. Keine offene Verletzung.
+Erzählertext: Schließlich traf der Ritter den Hals des Tieres tödlich.
+Dialoge: keine
+Kontinuität / Änderung: Ritter links setzt zum Schlag an, Kontaktstelle hinter dem Brunnenrand verdeckt. Keine offene Verletzung.
+
+KACHEL 8: Nicht jede Gefahr ist vorbei
+Ort und Zeit: Nicht jede Gefahr ist vorbei
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen, Lindwurm am Eberstädter Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nur der eine Schwanzring um die Beine des Ritters sichtbar, keine kopierte Schwanzspitze. Kopf außerhalb des Ausschnitts.
+Erzählertext: Doch der Pfeilschweif kringelte sich um ihn und traf die ungeschützte Kniekehle.
+Dialoge: keine
+Kontinuität / Änderung: Nur der eine Schwanzring um die Beine des Ritters sichtbar, keine kopierte Schwanzspitze. Kopf außerhalb des Ausschnitts.
+
+KACHEL 9: Die Nachwirkung
+Ort und Zeit: Die Nachwirkung
+Sichtbare Figuren: Ritter von Frankenstein am Brunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter allein, einzige Klinge abgelegt rechts am Boden, linke Scheide leer. Keine offene Wunde.
+Erzählertext: Das Gift wirkte weiter. Der Besiegte hatte seinen Bezwinger tödlich verletzt.
+Dialoge: keine
+Kontinuität / Änderung: Ritter allein, einzige Klinge abgelegt rechts am Boden, linke Scheide leer. Keine offene Wunde.
+
+KACHEL 10: Das freie Wasser
+Ort und Zeit: Das freie Wasser
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose Erwachsene schöpfen am Brunnen, Eimer in den Händen, kein lebender Lindwurm.
+Erzählertext: Der Brunnen war wieder zugänglich.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose Erwachsene schöpfen am Brunnen, Eimer in den Händen, kein lebender Lindwurm.
+
+KACHEL 11: Der Verlust
+Ort und Zeit: Der Verlust
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Sarg vor einer Dorfkirche, gerüstete Träger ohne zweite Heldengestalt.
+Erzählertext: Der Ritter starb und wurde in der Kirche beigesetzt.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener Sarg vor einer Dorfkirche, gerüstete Träger ohne zweite Heldengestalt.
+
+KACHEL 12: Das Grabmal
+Ort und Zeit: Das Grabmal
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges steinernes Rittergrabmal mit Schwert und Hammer als bildhauerischen Attributen, unter dem Fuß ein gemeißelter Lindwurm.
+Erzählertext: Ein Grabmal bewahrte die Erinnerung. Die Befreiung war wirklich im Sinn der Sage – die Heimkehr des Retters blieb aus.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges steinernes Rittergrabmal mit Schwert und Hammer als bildhauerischen Attributen, unter dem Fuß ein gemeißelter Lindwurm.

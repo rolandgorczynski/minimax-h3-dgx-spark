@@ -1,0 +1,129 @@
+TITEL: Der wilde Jäger – Die letzte Grenze
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Wildgraf der Jägersage
+Aussehen: Erwachsener breiter Mann, dunkler Vollbart.
+Kleidung: Brauner Jagdrock, graue Hose, Stiefel; ein Jagdhorn am Gürtel.
+Persönlichkeit und Vorgeschichte: Missachtet Acker, Herde und Zuflucht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Weißer Hirsch der Jägersage
+Aussehen: Ein großer weißer Hirsch mit vier Beinen und einem zusammengehörigen Geweihpaar.
+Kleidung: Weißes natürliches Fell.
+Persönlichkeit und Vorgeschichte: Flieht vom Feld zur Herde und schließlich in die Einsiedlerklause.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Einsiedler der Jägersage
+Aussehen: Alter Mann mit langem weißem Bart.
+Kleidung: Graue Kutte, Sandalen.
+Persönlichkeit und Vorgeschichte: Verteidigt die Zuflucht des verfolgten Tieres.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die wiederkehrende Jagd
+Ort und Zeit: Die wiederkehrende Jagd
+Sichtbare Figuren: Wildgraf der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Jagdreiter vor einer Burg, wenige namenlose Reiter und Hunde dahinter.
+Erzählertext: Dem Wildgrafen war Jagd wichtiger als jeder andere Tag und jede fremde Grenze.
+Dialoge: keine
+Kontinuität / Änderung: Ein Jagdreiter vor einer Burg, wenige namenlose Reiter und Hunde dahinter.
+
+KACHEL 2: Durch die Saat
+Ort und Zeit: Durch die Saat
+Sichtbare Figuren: Wildgraf der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferd mit Reiter durch junge Saat, niedergetretene Halme hinter ihm, keine verletzten Bauern.
+Erzählertext: Sein Zug ritt über fremde Felder hinweg.
+Dialoge: keine
+Kontinuität / Änderung: Ein Pferd mit Reiter durch junge Saat, niedergetretene Halme hinter ihm, keine verletzten Bauern.
+
+KACHEL 3: Der weiße Hirsch
+Ort und Zeit: Der weiße Hirsch
+Sichtbare Figuren: Weißer Hirsch der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner weißer Hirsch mit vier Beinen, Hunde nur fern dahinter.
+Erzählertext: Die Hunde trieben einen weißen Hirsch auf.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner weißer Hirsch mit vier Beinen, Hunde nur fern dahinter.
+
+KACHEL 4: Die erste Bitte
+Ort und Zeit: Die erste Bitte
+Sichtbare Figuren: Wildgraf der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein namenloser Bauer kniet in Abstand vor dem Reiter, sein einziges kleines Feld dahinter.
+Erzählertext: Ein Bauer bat um Schonung seiner Ernte. Der Graf missachtete ihn.
+Dialoge: keine
+Kontinuität / Änderung: Ein namenloser Bauer kniet in Abstand vor dem Reiter, sein einziges kleines Feld dahinter.
+
+KACHEL 5: Bei der Herde
+Ort und Zeit: Bei der Herde
+Sichtbare Figuren: Weißer Hirsch der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Hirsch unter drei braunen Kühen, namenloser erwachsener Hirte am Rand.
+Erzählertext: Der Hirsch suchte bei einer Herde Schutz.
+Dialoge: keine
+Kontinuität / Änderung: Ein weißer Hirsch unter drei braunen Kühen, namenloser erwachsener Hirte am Rand.
+
+KACHEL 6: Auch hier keine Schonung
+Ort und Zeit: Auch hier keine Schonung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres zertretenes Weidestück mit zurückgelassenem Hirtenstab, keine Tier- oder Menschenverletzungen.
+Erzählertext: Der Graf hetzte weiter. In der Sage traf seine Gewalt nun Hirten und Herde.
+Dialoge: keine
+Kontinuität / Änderung: Leeres zertretenes Weidestück mit zurückgelassenem Hirtenstab, keine Tier- oder Menschenverletzungen.
+
+KACHEL 7: Die Klause
+Ort und Zeit: Die Klause
+Sichtbare Figuren: Weißer Hirsch der Jägersage, Einsiedler der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weißer Hirsch innen, alter Einsiedler draußen vor dem Eingang, keine doppelte Hirschfigur.
+Erzählertext: Im Wald fand das Tier eine letzte Zuflucht.
+Dialoge: keine
+Kontinuität / Änderung: Weißer Hirsch innen, alter Einsiedler draußen vor dem Eingang, keine doppelte Hirschfigur.
+
+KACHEL 8: Das Asyl
+Ort und Zeit: Das Asyl
+Sichtbare Figuren: Wildgraf der Jägersage, Einsiedler der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Höhenunterschied klar, alter Mann zu Fuß mit erhobener leerer Hand.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Einsiedler der Jägersage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier ist die Zuflucht des Tieres. Nicht weiter.“
+Kontinuität / Änderung: Höhenunterschied klar, alter Mann zu Fuß mit erhobener leerer Hand.
+
+KACHEL 9: Die letzte Missachtung
+Ort und Zeit: Die letzte Missachtung
+Sichtbare Figuren: Wildgraf der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reiter hebt einen Arm drohend, Hand und Tier bleiben ohne Trefferkontakt.
+Erzählertext: Auch diese Grenze wollte der Graf nicht gelten lassen.
+Dialoge: keine
+Kontinuität / Änderung: Reiter hebt einen Arm drohend, Hand und Tier bleiben ohne Trefferkontakt.
+
+KACHEL 10: Der Umschlag
+Ort und Zeit: Der Umschlag
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Plötzlich dunkler leerer Waldweg, Hütte und Jagdgruppe verschwunden. Kein gebrochener Hals oder sterbendes Pferd.
+Erzählertext: Da verschwand alles. Die Sage lässt den Jäger sterben und zum ruhelosen Gejagten werden.
+Dialoge: keine
+Kontinuität / Änderung: Plötzlich dunkler leerer Waldweg, Hütte und Jagdgruppe verschwunden. Kein gebrochener Hals oder sterbendes Pferd.
+
+KACHEL 11: Der Verfolger als Beute
+Ort und Zeit: Der Verfolger als Beute
+Sichtbare Figuren: Wildgraf der Jägersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner durchscheinender Reiter flieht vor einem fernen schemenhaften Zug.
+Erzählertext: Fortan soll er selbst vom wilden Heer gehetzt werden.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner durchscheinender Reiter flieht vor einem fernen schemenhaften Zug.
+
+KACHEL 12: Die umgekehrte Jagd
+Ort und Zeit: Die umgekehrte Jagd
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fahle Bewegungsspur über leerem Wald, keine glückliche Rückkehr in den Burghof.
+Erzählertext: Wer keine Schutzgrenze für andere gelten ließ, fand in der Sage selbst keine Ruhe mehr.
+Dialoge: keine
+Kontinuität / Änderung: Fahle Bewegungsspur über leerem Wald, keine glückliche Rückkehr in den Burghof.

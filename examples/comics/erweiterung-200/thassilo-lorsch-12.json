@@ -1,0 +1,655 @@
+{
+  "mode": "editorial",
+  "name": "Thassilo in Lorsch – Die späte Erkenntnis · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Thassilo in Lorsch. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 56.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs geschah, daß Kaiser Karl der Große zu streiten kam mit Thassilo, dem mannlichen Bayerherzog, der sein ganz naher Verwandter war, und da er großes Unrecht durch Anreizung der Widersacher Karls verübt, so übte Karl eine erschreckliche Rache und ließ ihm eine entsetzliche Strafe zuteil werden. Karl ließ den Agilolfinger Thassilo blenden, welches dadurch geschah, daß jener gezwungen ward, auf einen seinen Augen nahegebrachten, im Feuer glühend gemachten Schild zu sehen, bis ihm das Licht der Augen dunkel ward und gar verging. Sein langes Haar ward vor dem Thron ihm abgeschnitten und er zum Mönch geschoren, dann sollte er nach des Kaisers Gebot eingetan werden als Mönch in ein Kloster, damit er büße und bete all sein Leben lang. Darauf nach langen Jahren begab es sich, daß einstmals Kaiser Karl gen Lauresheim, das ist Lorsch, das Kloster, kam, und hatte den Herzog Thassilo längst vergessen, und sich gedrungen fühlte, zur Nachtzeit im Münster dort zu weilen und zu beten, da nahm er mit Staunen wahr, wie ein Mönch durch den Kreuzgang unsichern Trittes wandelte, welcher blind war, ihm zur Seite aber ein lichtumflossener Bote Gottes ging, der ihn leitete. Des Greises Züge kamen dem Kaiser bekannt vor, doch konnte er sich dessen Namens nicht entsinnen. Und der Mönch ward von Altar zu Altar geleitet und betete an jedem und schritt dann mit seinem überirdischen Führer still zurück. Darauf hat der Kaiser am andern Morgen den Abt des Klosters Lorsch zu sich entboten und hat ihn gefragt, welchen Mönch er im Kloster habe, dem ein Engel diene. Der Abt erstaunte und wußte nichts zu sagen, folgte aber des Kaiser Gebot, in nächster Nacht mit ihm des Mönchs wieder zu harren. Da geschah es ganz so wie in der vorigen Nacht, daß der blinde Mönch wieder kam und der Engel ihn geleitete. Und der Kaiser, gefolgt von dem Abt, ging, als der Mönch gebetet hatte, dem Mönch und dessen Führer nach, und trafen den Mönch allein in seiner Zelle. Der Abt kannte den Mönch aber nur unter seinem Klosternamen und wußte nichts weiter von ihm. Nun sprach der Abt ihn an, zu sagen, was er vordem in dem weltlichen Leben gewesen, und nichts zu verhehlen und zu verschweigen, denn sein Herr und Kaiser sei es, der vor ihm stehe. Da sank der blinde Mönch zu des Kaisers Füßen nieder und sprach: O Herr! Viel habe ich gegen dich gesündigt, und meine Buße währet für und für. Thassilo war ich vordem geheißen. – Da hub ihn der Kaiser gnädiglich auf und sprach: Schwer hast du gebüßt, und härter, als mir lieb, all deine Schuld sei dir vergeben. Da küßte der blinde Greis des Kaisers Hand und sank zur Erde und verschied. Im Kloster Lorsch ruht sein Staub.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Thassilo in Lorsch. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 56.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs geschah, daß Kaiser Karl der Große zu streiten kam mit Thassilo, dem mannlichen Bayerherzog, der sein ganz naher Verwandter war, und da er großes Unrecht durch Anreizung der Widersacher Karls verübt, so übte Karl eine erschreckliche Rache und ließ ihm eine entsetzliche Strafe zuteil werden. Karl ließ den Agilolfinger Thassilo blenden, welches dadurch geschah, daß jener gezwungen ward, auf einen seinen Augen nahegebrachten, im Feuer glühend gemachten Schild zu sehen, bis ihm das Licht der Augen dunkel ward und gar verging. Sein langes Haar ward vor dem Thron ihm abgeschnitten und er zum Mönch geschoren, dann sollte er nach des Kaisers Gebot eingetan werden als Mönch in ein Kloster, damit er büße und bete all sein Leben lang. Darauf nach langen Jahren begab es sich, daß einstmals Kaiser Karl gen Lauresheim, das ist Lorsch, das Kloster, kam, und hatte den Herzog Thassilo längst vergessen, und sich gedrungen fühlte, zur Nachtzeit im Münster dort zu weilen und zu beten, da nahm er mit Staunen wahr, wie ein Mönch durch den Kreuzgang unsichern Trittes wandelte, welcher blind war, ihm zur Seite aber ein lichtumflossener Bote Gottes ging, der ihn leitete. Des Greises Züge kamen dem Kaiser bekannt vor, doch konnte er sich dessen Namens nicht entsinnen. Und der Mönch ward von Altar zu Altar geleitet und betete an jedem und schritt dann mit seinem überirdischen Führer still zurück. Darauf hat der Kaiser am andern Morgen den Abt des Klosters Lorsch zu sich entboten und hat ihn gefragt, welchen Mönch er im Kloster habe, dem ein Engel diene. Der Abt erstaunte und wußte nichts zu sagen, folgte aber des Kaiser Gebot, in nächster Nacht mit ihm des Mönchs wieder zu harren. Da geschah es ganz so wie in der vorigen Nacht, daß der blinde Mönch wieder kam und der Engel ihn geleitete. Und der Kaiser, gefolgt von dem Abt, ging, als der Mönch gebetet hatte, dem Mönch und dessen Führer nach, und trafen den Mönch allein in seiner Zelle. Der Abt kannte den Mönch aber nur unter seinem Klosternamen und wußte nichts weiter von ihm. Nun sprach der Abt ihn an, zu sagen, was er vordem in dem weltlichen Leben gewesen, und nichts zu verhehlen und zu verschweigen, denn sein Herr und Kaiser sei es, der vor ihm stehe. Da sank der blinde Mönch zu des Kaisers Füßen nieder und sprach: O Herr! Viel habe ich gegen dich gesündigt, und meine Buße währet für und für. Thassilo war ich vordem geheißen. – Da hub ihn der Kaiser gnädiglich auf und sprach: Schwer hast du gebüßt, und härter, als mir lieb, all deine Schuld sei dir vergeben. Da küßte der blinde Greis des Kaisers Hand und sank zur Erde und verschied. Im Kloster Lorsch ruht sein Staub.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Die alte Vergeltung",
+        "setting": "Die alte Vergeltung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene schwere Saaltür, davor ein abgelegter Herrschermantel. Keine Folter oder glühenden Instrumente.",
+        "dialog": "Nach einem Streit ließ Karl Thassilo der Sage nach blenden und zum Mönch scheren.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Geschlossene schwere Saaltür, davor ein abgelegter Herrschermantel. Keine Folter oder glühenden Instrumente.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Der lange Abstand",
+        "setting": "Der lange Abstand",
+        "characters": [
+          "20754a8893335d07a4c5011233ee75d3"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blinder älterer Mann mit geschlossenen unverletzten Augen, braune Kutte, Hände auf Knien.",
+        "dialog": "Thassilo blieb im Kloster. Karl dachte lange nicht mehr an ihn.",
+        "bubbles": [],
+        "character_states": {
+          "20754a8893335d07a4c5011233ee75d3": "sitzt allein in einer Klosterzelle; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Blinder älterer Mann mit geschlossenen unverletzten Augen, braune Kutte, Hände auf Knien.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Der lange Abstand",
+            "posture": "sitzt allein in einer Klosterzelle"
+          }
+        }
+      },
+      {
+        "heading": "Der späte Besuch",
+        "setting": "Der späte Besuch",
+        "characters": [
+          "2529d86dcbd25fc995cf24a22031555d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Älterer Herrscher allein in gedämpfter Kirche, Hände leer.",
+        "dialog": "Viele Jahre später betete Karl nachts in Lorsch.",
+        "bubbles": [],
+        "character_states": {
+          "2529d86dcbd25fc995cf24a22031555d": "steht nachts im Münster; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Älterer Herrscher allein in gedämpfter Kirche, Hände leer.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Der lange Abstand",
+            "posture": "sitzt allein in einer Klosterzelle"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der späte Besuch",
+            "posture": "steht nachts im Münster"
+          }
+        }
+      },
+      {
+        "heading": "Der unsichere Schritt",
+        "setting": "Der unsichere Schritt",
+        "characters": [
+          "20754a8893335d07a4c5011233ee75d3",
+          "dc2609d11d2352f2a940b54bce56f252"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein blinder Mönch tastet mit einer Hand vor, eine einzelne durchscheinende Gestalt führt seine andere Hand.",
+        "dialog": "Er sah einen blinden Greis, den ein Engel geleitete.",
+        "bubbles": [],
+        "character_states": {
+          "20754a8893335d07a4c5011233ee75d3": "geht im Kreuzgang; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend",
+          "dc2609d11d2352f2a940b54bce56f252": "geht als Lichtgestalt neben ihm; Schlichtes helles Gewand als Lichterscheinung.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein blinder Mönch tastet mit einer Hand vor, eine einzelne durchscheinende Gestalt führt seine andere Hand.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Der unsichere Schritt",
+            "posture": "geht im Kreuzgang"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der späte Besuch",
+            "posture": "steht nachts im Münster"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Der unsichere Schritt",
+            "posture": "geht als Lichtgestalt neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Von Altar zu Altar",
+        "setting": "Von Altar zu Altar",
+        "characters": [
+          "20754a8893335d07a4c5011233ee75d3",
+          "dc2609d11d2352f2a940b54bce56f252"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mönch betet mit geschlossenen Händen am einen Altar, Lichtgestalt schweigt.",
+        "dialog": "Der Mönch betete und kehrte still zurück. Die Züge kamen Karl bekannt vor.",
+        "bubbles": [],
+        "character_states": {
+          "20754a8893335d07a4c5011233ee75d3": "steht am Altar; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend",
+          "dc2609d11d2352f2a940b54bce56f252": "steht seitlich; Schlichtes helles Gewand als Lichterscheinung.; Lebenszustand: lebend"
+        },
+        "continuity": "Mönch betet mit geschlossenen Händen am einen Altar, Lichtgestalt schweigt.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Von Altar zu Altar",
+            "posture": "steht am Altar"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der späte Besuch",
+            "posture": "steht nachts im Münster"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Von Altar zu Altar",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Die Frage am Morgen",
+        "setting": "Die Frage am Morgen",
+        "characters": [
+          "2529d86dcbd25fc995cf24a22031555d",
+          "65bdecba945b5501820c7b5086d4d0bc"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Männer im Klosterhof, kein Engel im Tageslicht.",
+        "dialog": "Karl fragte den Abt nach dem Mönch mit dem überirdischen Begleiter.",
+        "bubbles": [],
+        "character_states": {
+          "2529d86dcbd25fc995cf24a22031555d": "steht vor dem Abt; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "65bdecba945b5501820c7b5086d4d0bc": "hört überrascht zu; Dunkelbraune Kutte, schlichter Holzstab.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei ältere Männer im Klosterhof, kein Engel im Tageslicht.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Von Altar zu Altar",
+            "posture": "steht am Altar"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die Frage am Morgen",
+            "posture": "steht vor dem Abt"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Von Altar zu Altar",
+            "posture": "steht seitlich"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "Die Frage am Morgen",
+            "posture": "hört überrascht zu"
+          }
+        }
+      },
+      {
+        "heading": "Die zweite Nacht",
+        "setting": "Die zweite Nacht",
+        "characters": [
+          "2529d86dcbd25fc995cf24a22031555d",
+          "65bdecba945b5501820c7b5086d4d0bc",
+          "20754a8893335d07a4c5011233ee75d3",
+          "dc2609d11d2352f2a940b54bce56f252"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier getrennte Gestalten in einem Kreuzgang: zwei Beobachter links, Mönch und Lichtgestalt rechts.",
+        "dialog": "Gemeinsam sahen sie in der nächsten Nacht dasselbe.",
+        "bubbles": [],
+        "character_states": {
+          "2529d86dcbd25fc995cf24a22031555d": "steht links im Schatten; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "65bdecba945b5501820c7b5086d4d0bc": "steht neben ihm; Dunkelbraune Kutte, schlichter Holzstab.; Lebenszustand: lebend",
+          "20754a8893335d07a4c5011233ee75d3": "geht rechts; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend",
+          "dc2609d11d2352f2a940b54bce56f252": "führt den Mönch; Schlichtes helles Gewand als Lichterscheinung.; Lebenszustand: lebend"
+        },
+        "continuity": "Vier getrennte Gestalten in einem Kreuzgang: zwei Beobachter links, Mönch und Lichtgestalt rechts.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Die zweite Nacht",
+            "posture": "geht rechts"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die zweite Nacht",
+            "posture": "steht links im Schatten"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Die zweite Nacht",
+            "posture": "führt den Mönch"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "Die zweite Nacht",
+            "posture": "steht neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "In der Zelle",
+        "setting": "In der Zelle",
+        "characters": [
+          "20754a8893335d07a4c5011233ee75d3",
+          "2529d86dcbd25fc995cf24a22031555d",
+          "65bdecba945b5501820c7b5086d4d0bc"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer in kleiner Zelle, Engel verschwunden.",
+        "dialog": "Sie folgten dem Mönch. Der Abt kannte nur seinen Klosternamen.",
+        "bubbles": [],
+        "character_states": {
+          "20754a8893335d07a4c5011233ee75d3": "sitzt allein vor Karl; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend",
+          "2529d86dcbd25fc995cf24a22031555d": "steht in der Tür; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "65bdecba945b5501820c7b5086d4d0bc": "steht seitlich; Dunkelbraune Kutte, schlichter Holzstab.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Männer in kleiner Zelle, Engel verschwunden.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "In der Zelle",
+            "posture": "sitzt allein vor Karl"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "In der Zelle",
+            "posture": "steht in der Tür"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Die zweite Nacht",
+            "posture": "führt den Mönch"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "In der Zelle",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Der Name",
+        "setting": "Der Name",
+        "characters": [
+          "20754a8893335d07a4c5011233ee75d3",
+          "2529d86dcbd25fc995cf24a22031555d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blinder Mönch auf beiden Knien, Hände geöffnet. Kein sehender zweiter Thassilo.",
+        "dialog": "Der Greis nannte seinen früheren Namen: Thassilo.",
+        "bubbles": [],
+        "character_states": {
+          "20754a8893335d07a4c5011233ee75d3": "kniet vor Karl; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend",
+          "2529d86dcbd25fc995cf24a22031555d": "steht erschrocken; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Blinder Mönch auf beiden Knien, Hände geöffnet. Kein sehender zweiter Thassilo.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Der Name",
+            "posture": "kniet vor Karl"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der Name",
+            "posture": "steht erschrocken"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Die zweite Nacht",
+            "posture": "führt den Mönch"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "In der Zelle",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Das Wiedererkennen",
+        "setting": "Das Wiedererkennen",
+        "characters": [
+          "2529d86dcbd25fc995cf24a22031555d",
+          "20754a8893335d07a4c5011233ee75d3"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl hebt denselben einen Mönch behutsam auf, beide Hände klar zugeordnet.",
+        "dialog": "Karl erkannte, wie schwer seine Vergeltung gewesen war.",
+        "bubbles": [],
+        "character_states": {
+          "2529d86dcbd25fc995cf24a22031555d": "beugt sich zu Thassilo; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "20754a8893335d07a4c5011233ee75d3": "wird an beiden Armen aufgerichtet; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Karl hebt denselben einen Mönch behutsam auf, beide Hände klar zugeordnet.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Das Wiedererkennen",
+            "posture": "wird an beiden Armen aufgerichtet"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Das Wiedererkennen",
+            "posture": "beugt sich zu Thassilo"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Die zweite Nacht",
+            "posture": "führt den Mönch"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "In der Zelle",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Die Vergebung",
+        "setting": "Die Vergebung",
+        "characters": [
+          "2529d86dcbd25fc995cf24a22031555d",
+          "20754a8893335d07a4c5011233ee75d3"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Männer auf derselben Bodenhöhe, Thassilo bleibt blind.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "2529d86dcbd25fc995cf24a22031555d",
+            "text": "Du hast schwer gebüßt. Ich vergebe dir.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "2529d86dcbd25fc995cf24a22031555d": "steht nahe beim Mönch; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "20754a8893335d07a4c5011233ee75d3": "steht gestützt; Schlichte braune Mönchskutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei alte Männer auf derselben Bodenhöhe, Thassilo bleibt blind.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Die Vergebung",
+            "posture": "steht gestützt"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die Vergebung",
+            "posture": "steht nahe beim Mönch"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Die zweite Nacht",
+            "posture": "führt den Mönch"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "In der Zelle",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Zu spät für ein neues Leben",
+        "setting": "Zu spät für ein neues Leben",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Klosterzelle mit einer stillen Liegestatt unter einer Decke, kein Wunder neu sehender Augen.",
+        "dialog": "Thassilo starb unmittelbar danach. Die Beziehung konnte sich ändern, die zerstörten Jahre kamen nicht zurück.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Geschlossene Klosterzelle mit einer stillen Liegestatt unter einer Decke, kein Wunder neu sehender Augen.",
+        "continuity_state": {
+          "20754a8893335d07a4c5011233ee75d3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Mönchskutte, Sandalen.",
+            "location": "Die Vergebung",
+            "posture": "steht gestützt"
+          },
+          "2529d86dcbd25fc995cf24a22031555d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die Vergebung",
+            "posture": "steht nahe beim Mönch"
+          },
+          "dc2609d11d2352f2a940b54bce56f252": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes helles Gewand als Lichterscheinung.",
+            "location": "Die zweite Nacht",
+            "posture": "führt den Mönch"
+          },
+          "65bdecba945b5501820c7b5086d4d0bc": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraune Kutte, schlichter Holzstab.",
+            "location": "In der Zelle",
+            "posture": "steht seitlich"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Karl der Lorschsage",
+        "description": "Älterer Mann mit langem grauem Bart.",
+        "outfit": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+        "backstory": "Erkennt sein lange verdrängtes Opfer erst spät wieder.",
+        "id": "2529d86dcbd25fc995cf24a22031555d",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Thassilo der Lorschsage",
+        "description": "Älterer Mann mit kurzen grauen Haaren und weißem Bart, blind.",
+        "outfit": "Schlichte braune Mönchskutte, Sandalen.",
+        "backstory": "Lebt nach schwerer Bestrafung im Kloster; die Sage ist kein gesichertes Prozessprotokoll.",
+        "id": "20754a8893335d07a4c5011233ee75d3",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Abt von Lorsch",
+        "description": "Älterer Mann mit dunklem graumeliertem Bart.",
+        "outfit": "Dunkelbraune Kutte, schlichter Holzstab.",
+        "backstory": "Kennt den Mönch zunächst nur unter seinem Klosternamen.",
+        "id": "65bdecba945b5501820c7b5086d4d0bc",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Lichtgestalt der Lorschsage",
+        "description": "Eine menschenähnliche helle durchscheinende Gestalt ohne erkennbare Flügelzahl.",
+        "outfit": "Schlichtes helles Gewand als Lichterscheinung.",
+        "backstory": "Der Engel führt den blinden Mönch durch die Kirche.",
+        "id": "dc2609d11d2352f2a940b54bce56f252",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was kann späte Milde an einer unverhältnismäßig schweren Strafe noch ändern?",
+      "core": "Ein Machthaber kann erst spät erkennen, wie viel Leid seine Vergeltung geschaffen hat. Vergebung ändert die Beziehung, gibt das zerstörte Leben aber nicht zurück.",
+      "ending": "Karl hebt Thassilo auf und vergibt; der blinde Greis stirbt unmittelbar danach.",
+      "reason": "Bestrafung nur andeuten, dann Jahre, unerwartete Achtung, Wiedererkennen und zu späte Milde unterscheiden.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Schwer hast du gebüßt, und härter, als mir lieb",
+          "meaning": "Karl erkennt das Übermaß an, als der Bestrafte schon am Ende seines Lebens steht."
+        }
+      ],
+      "causal_chain": [
+        "Schwer hast du gebüßt, und härter, als mir lieb",
+        "Karl hebt Thassilo auf und vergibt; der blinde Greis stirbt unmittelbar danach."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "109d3ee4998db98d5f6cab82cc2e404026b8a1c4394b048b00e4653916698cf7",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:39:20.219323+00:00"
+    },
+    "post_summary": "Karl begegnet einem blinden alten Mönch. Erst dessen Name macht ihm klar, wie viel Leid seine eigene Vergeltung geschaffen hat.",
+    "source_provenance": {
+      "title": "Thassilo in Lorsch",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 56.",
+      "url": "https://textgridrep.org/browse/kfq9.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Thassilo in Lorsch. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 56.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs geschah, daß Kaiser Karl der Große zu streiten kam mit Thassilo, dem mannlichen Bayerherzog, der sein ganz naher Verwandter war, und da er großes Unrecht durch Anreizung der Widersacher Karls verübt, so übte Karl eine erschreckliche Rache und ließ ihm eine entsetzliche Strafe zuteil werden. Karl ließ den Agilolfinger Thassilo blenden, welches dadurch geschah, daß jener gezwungen ward, auf einen seinen Augen nahegebrachten, im Feuer glühend gemachten Schild zu sehen, bis ihm das Licht der Augen dunkel ward und gar verging. Sein langes Haar ward vor dem Thron ihm abgeschnitten und er zum Mönch geschoren, dann sollte er nach des Kaisers Gebot eingetan werden als Mönch in ein Kloster, damit er büße und bete all sein Leben lang. Darauf nach langen Jahren begab es sich, daß einstmals Kaiser Karl gen Lauresheim, das ist Lorsch, das Kloster, kam, und hatte den Herzog Thassilo längst vergessen, und sich gedrungen fühlte, zur Nachtzeit im Münster dort zu weilen und zu beten, da nahm er mit Staunen wahr, wie ein Mönch durch den Kreuzgang unsichern Trittes wandelte, welcher blind war, ihm zur Seite aber ein lichtumflossener Bote Gottes ging, der ihn leitete. Des Greises Züge kamen dem Kaiser bekannt vor, doch konnte er sich dessen Namens nicht entsinnen. Und der Mönch ward von Altar zu Altar geleitet und betete an jedem und schritt dann mit seinem überirdischen Führer still zurück. Darauf hat der Kaiser am andern Morgen den Abt des Klosters Lorsch zu sich entboten und hat ihn gefragt, welchen Mönch er im Kloster habe, dem ein Engel diene. Der Abt erstaunte und wußte nichts zu sagen, folgte aber des Kaiser Gebot, in nächster Nacht mit ihm des Mönchs wieder zu harren. Da geschah es ganz so wie in der vorigen Nacht, daß der blinde Mönch wieder kam und der Engel ihn geleitete. Und der Kaiser, gefolgt von dem Abt, ging, als der Mönch gebetet hatte, dem Mönch und dessen Führer nach, und trafen den Mönch allein in seiner Zelle. Der Abt kannte den Mönch aber nur unter seinem Klosternamen und wußte nichts weiter von ihm. Nun sprach der Abt ihn an, zu sagen, was er vordem in dem weltlichen Leben gewesen, und nichts zu verhehlen und zu verschweigen, denn sein Herr und Kaiser sei es, der vor ihm stehe. Da sank der blinde Mönch zu des Kaisers Füßen nieder und sprach: O Herr! Viel habe ich gegen dich gesündigt, und meine Buße währet für und für. Thassilo war ich vordem geheißen. – Da hub ihn der Kaiser gnädiglich auf und sprach: Schwer hast du gebüßt, und härter, als mir lieb, all deine Schuld sei dir vergeben. Da küßte der blinde Greis des Kaisers Hand und sank zur Erde und verschied. Im Kloster Lorsch ruht sein Staub.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Es geschah, daß Kaiser Karl der Große zu streiten kam mit Thassilo, dem mannlichen Bayerherzog, der sein ganz naher Verwandter war, und da er großes Unrecht durch Anreizung der Widersacher Karls verübt, so übte Karl eine erschreckliche Rache und ließ ihm eine entsetzliche Strafe zuteil werden.",
+      "id": "bechstein-sagen-kfq9-0",
+      "category": "Heilige und Legenden",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "thassilo-lorsch-12-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Thassilo in Lorsch – Die späte Erkenntnis · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Thassilo in Lorsch – Die späte Erkenntnis\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Karl der Lorschsage\nAussehen: Älterer Mann mit langem grauem Bart.\nKleidung: Dunkelroter Herrscherrock, schmaler goldener Reif.\nPersönlichkeit und Vorgeschichte: Erkennt sein lange verdrängtes Opfer erst spät wieder.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Thassilo der Lorschsage\nAussehen: Älterer Mann mit kurzen grauen Haaren und weißem Bart, blind.\nKleidung: Schlichte braune Mönchskutte, Sandalen.\nPersönlichkeit und Vorgeschichte: Lebt nach schwerer Bestrafung im Kloster; die Sage ist kein gesichertes Prozessprotokoll.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Abt von Lorsch\nAussehen: Älterer Mann mit dunklem graumeliertem Bart.\nKleidung: Dunkelbraune Kutte, schlichter Holzstab.\nPersönlichkeit und Vorgeschichte: Kennt den Mönch zunächst nur unter seinem Klosternamen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Lichtgestalt der Lorschsage\nAussehen: Eine menschenähnliche helle durchscheinende Gestalt ohne erkennbare Flügelzahl.\nKleidung: Schlichtes helles Gewand als Lichterscheinung.\nPersönlichkeit und Vorgeschichte: Der Engel führt den blinden Mönch durch die Kirche.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die alte Vergeltung\nOrt und Zeit: Die alte Vergeltung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene schwere Saaltür, davor ein abgelegter Herrschermantel. Keine Folter oder glühenden Instrumente.\nErzählertext: Nach einem Streit ließ Karl Thassilo der Sage nach blenden und zum Mönch scheren.\nDialoge: keine\nKontinuität / Änderung: Geschlossene schwere Saaltür, davor ein abgelegter Herrschermantel. Keine Folter oder glühenden Instrumente.\n\nKACHEL 2: Der lange Abstand\nOrt und Zeit: Der lange Abstand\nSichtbare Figuren: Thassilo der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blinder älterer Mann mit geschlossenen unverletzten Augen, braune Kutte, Hände auf Knien.\nErzählertext: Thassilo blieb im Kloster. Karl dachte lange nicht mehr an ihn.\nDialoge: keine\nKontinuität / Änderung: Blinder älterer Mann mit geschlossenen unverletzten Augen, braune Kutte, Hände auf Knien.\n\nKACHEL 3: Der späte Besuch\nOrt und Zeit: Der späte Besuch\nSichtbare Figuren: Karl der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Älterer Herrscher allein in gedämpfter Kirche, Hände leer.\nErzählertext: Viele Jahre später betete Karl nachts in Lorsch.\nDialoge: keine\nKontinuität / Änderung: Älterer Herrscher allein in gedämpfter Kirche, Hände leer.\n\nKACHEL 4: Der unsichere Schritt\nOrt und Zeit: Der unsichere Schritt\nSichtbare Figuren: Thassilo der Lorschsage, Lichtgestalt der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein blinder Mönch tastet mit einer Hand vor, eine einzelne durchscheinende Gestalt führt seine andere Hand.\nErzählertext: Er sah einen blinden Greis, den ein Engel geleitete.\nDialoge: keine\nKontinuität / Änderung: Ein blinder Mönch tastet mit einer Hand vor, eine einzelne durchscheinende Gestalt führt seine andere Hand.\n\nKACHEL 5: Von Altar zu Altar\nOrt und Zeit: Von Altar zu Altar\nSichtbare Figuren: Thassilo der Lorschsage, Lichtgestalt der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mönch betet mit geschlossenen Händen am einen Altar, Lichtgestalt schweigt.\nErzählertext: Der Mönch betete und kehrte still zurück. Die Züge kamen Karl bekannt vor.\nDialoge: keine\nKontinuität / Änderung: Mönch betet mit geschlossenen Händen am einen Altar, Lichtgestalt schweigt.\n\nKACHEL 6: Die Frage am Morgen\nOrt und Zeit: Die Frage am Morgen\nSichtbare Figuren: Karl der Lorschsage, Abt von Lorsch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Männer im Klosterhof, kein Engel im Tageslicht.\nErzählertext: Karl fragte den Abt nach dem Mönch mit dem überirdischen Begleiter.\nDialoge: keine\nKontinuität / Änderung: Zwei ältere Männer im Klosterhof, kein Engel im Tageslicht.\n\nKACHEL 7: Die zweite Nacht\nOrt und Zeit: Die zweite Nacht\nSichtbare Figuren: Karl der Lorschsage, Abt von Lorsch, Thassilo der Lorschsage, Lichtgestalt der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier getrennte Gestalten in einem Kreuzgang: zwei Beobachter links, Mönch und Lichtgestalt rechts.\nErzählertext: Gemeinsam sahen sie in der nächsten Nacht dasselbe.\nDialoge: keine\nKontinuität / Änderung: Vier getrennte Gestalten in einem Kreuzgang: zwei Beobachter links, Mönch und Lichtgestalt rechts.\n\nKACHEL 8: In der Zelle\nOrt und Zeit: In der Zelle\nSichtbare Figuren: Thassilo der Lorschsage, Karl der Lorschsage, Abt von Lorsch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer in kleiner Zelle, Engel verschwunden.\nErzählertext: Sie folgten dem Mönch. Der Abt kannte nur seinen Klosternamen.\nDialoge: keine\nKontinuität / Änderung: Drei Männer in kleiner Zelle, Engel verschwunden.\n\nKACHEL 9: Der Name\nOrt und Zeit: Der Name\nSichtbare Figuren: Thassilo der Lorschsage, Karl der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blinder Mönch auf beiden Knien, Hände geöffnet. Kein sehender zweiter Thassilo.\nErzählertext: Der Greis nannte seinen früheren Namen: Thassilo.\nDialoge: keine\nKontinuität / Änderung: Blinder Mönch auf beiden Knien, Hände geöffnet. Kein sehender zweiter Thassilo.\n\nKACHEL 10: Das Wiedererkennen\nOrt und Zeit: Das Wiedererkennen\nSichtbare Figuren: Karl der Lorschsage, Thassilo der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl hebt denselben einen Mönch behutsam auf, beide Hände klar zugeordnet.\nErzählertext: Karl erkannte, wie schwer seine Vergeltung gewesen war.\nDialoge: keine\nKontinuität / Änderung: Karl hebt denselben einen Mönch behutsam auf, beide Hände klar zugeordnet.\n\nKACHEL 11: Die Vergebung\nOrt und Zeit: Die Vergebung\nSichtbare Figuren: Karl der Lorschsage, Thassilo der Lorschsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Männer auf derselben Bodenhöhe, Thassilo bleibt blind.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Karl der Lorschsage\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Du hast schwer gebüßt. Ich vergebe dir.“\nKontinuität / Änderung: Zwei alte Männer auf derselben Bodenhöhe, Thassilo bleibt blind.\n\nKACHEL 12: Zu spät für ein neues Leben\nOrt und Zeit: Zu spät für ein neues Leben\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Klosterzelle mit einer stillen Liegestatt unter einer Decke, kein Wunder neu sehender Augen.\nErzählertext: Thassilo starb unmittelbar danach. Die Beziehung konnte sich ändern, die zerstörten Jahre kamen nicht zurück.\nDialoge: keine\nKontinuität / Änderung: Geschlossene Klosterzelle mit einer stillen Liegestatt unter einer Decke, kein Wunder neu sehender Augen.\n"
+  },
+  "count_policy": "editorial"
+}

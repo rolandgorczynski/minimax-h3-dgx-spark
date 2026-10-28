@@ -1,0 +1,406 @@
+{
+  "geschichten": [
+    {
+      "basis": "zaehringer-ursprung-10",
+      "source_id": "bechstein-sagen-kfth-0",
+      "title": "Der Zähringer Ursprung – Silber aus dem Meiler",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "d8150f3c42449a28c8a16bcbde5f519c1aaee18bf7d8c2d92891120c3cce45ab"
+    },
+    {
+      "basis": "riesenspielzeug-8",
+      "source_id": "bechstein-sagen-kf1t-0",
+      "title": "Das Riesenspielzeug – Kein Ding zum Spielen",
+      "panels": 8,
+      "warnings": [],
+      "source_sha256": "685a963896464da28606e5aa867165a2b6843162aca5d0b08028b2f2619ac362"
+    },
+    {
+      "basis": "kroetenstuhl-10",
+      "source_id": "bechstein-sagen-kdn4-0",
+      "title": "Der Krötenstuhl – Der abgebrochene Versuch",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "8fa8ccc580f229a0d3a22674cf3ec0548a4e1d6f858a0ffa1472ff91fefe7779"
+    },
+    {
+      "basis": "muehlenbaer-10",
+      "source_id": "bechstein-sagen-kf46-0",
+      "title": "Der Mühlenbär – Die Spur am Morgen",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "29fa337b46f3159011c5b474c710fc7fb1465954fc331f4bd2f0b8af343dbb40"
+    },
+    {
+      "basis": "chorkoenig-10",
+      "source_id": "bechstein-sagen-kg76-0",
+      "title": "Chorkönig – Der erste Befehl",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "b0562cf8c91ac81bd442ba120c70700fafd1877c37ec88c7468a39d510ecfdf7"
+    },
+    {
+      "basis": "ottilia-eigener-weg-18",
+      "source_id": "bechstein-sagen-kdg0-0",
+      "title": "Sankt Ottilia – Ihr eigener Weg",
+      "panels": 18,
+      "warnings": [],
+      "source_sha256": "f237927a838fb49d3d76b5e370b70b0eabca17b5722e6ec64c650ff3de0ed108"
+    },
+    {
+      "basis": "vater-sohn-bruno-14",
+      "source_id": "bechstein-sagen-kgrc-0",
+      "title": "Vater und Sohn – Das bewahrte Leben",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "daaaadaa5cded7b2e99de53acdf6d356d9d8285f57fb1eec5281a9fece1ec061"
+    },
+    {
+      "basis": "muensteruhr-meister-12",
+      "source_id": "bechstein-sagen-kgtw-0",
+      "title": "Die Münsteruhr – Besitz ohne Können",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "1af81c9fd67626e759cb1a855a1a0802f6b964662873a31381016a26df25c785"
+    },
+    {
+      "basis": "zuercher-brei-12",
+      "source_id": "bechstein-sagen-kjbr-0",
+      "title": "Zürcher Brei – Ein Tag auf dem Wasser",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "f5e519b190dba4e497050dab880e5f2ed8fde4477323ffddabdfe2492371f12a"
+    },
+    {
+      "basis": "huendchen-bretten-10",
+      "source_id": "bechstein-sagen-kdx5-0",
+      "title": "Das Hündchen von Bretten – Treue ohne Dank",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "7a0685b5130273c1a0e9c773848d276c84b8db9657b962951ebcfb11b5c157f3"
+    },
+    {
+      "basis": "trifels-blondel-12",
+      "source_id": "bechstein-sagen-kfpk-0",
+      "title": "Trifels – Die Antwort hinter der Mauer",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "d011282bb1c8f1f5fb89b1ae502c6308c2abd55c0676380859edcff2ca0f52ad"
+    },
+    {
+      "basis": "rotbart-kaiserslautern-10",
+      "source_id": "bechstein-sagen-kgct-0",
+      "title": "Der Rotbart zu Kaiserslautern – Warten im Berg",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "93c3c4729712cd2983c15b68a8a28fa34f2dca777b01ca20fa0249d397f3969e"
+    },
+    {
+      "basis": "schiffende-moenche-10",
+      "source_id": "bechstein-sagen-khbc-0",
+      "title": "Die schiffenden Mönche – Der verratene Dienst",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "6c3dc695a851162dfa7c3056e5aba450f704f127ab31eeed8891c92e895e14a6"
+    },
+    {
+      "basis": "schwabenschuessel-rechte-10",
+      "source_id": "bechstein-sagen-kf60-0",
+      "title": "Die Schwabenschüssel – Vor dem Fest das Versprechen",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "f4a752a289f3914849fe46640b6043f85bc9b74c78e0c1946bb2f3bdd66f7f11"
+    },
+    {
+      "basis": "totenglocken-speyer-14",
+      "source_id": "bechstein-sagen-kj58-0",
+      "title": "Die Totenglocken zu Speyer – Wer bei den Verstoßenen bleibt",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "9a06d06b150c295234bd3ae18de8af5e972b26a63e5ffd617fe224116f1699bd"
+    },
+    {
+      "basis": "wormser-wahrzeichen-6",
+      "source_id": "bechstein-sagen-kdkx-0",
+      "title": "Wormser Wahrzeichen – Stein und Deutung",
+      "panels": 6,
+      "warnings": [],
+      "source_sha256": "1d47b97af377e7a927d13db5bf264be57ade7ba2bed788fc135028af25ea2604"
+    },
+    {
+      "basis": "koenigstochter-rhein-14",
+      "source_id": "bechstein-sagen-kg9w-0",
+      "title": "Die Königstochter vom Rhein – Zwei Spuren",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "46fdb790abf46cb44859e39865bdde7fdcc81a3712697485241e2b32dc543c4a"
+    },
+    {
+      "basis": "schwedensaeule-schwert-10",
+      "source_id": "bechstein-sagen-kgpq-0",
+      "title": "Die Schwedensäule – Das verweigerte Geschenk",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "3938ef080c27ce0d47b745d8140499ca99431e45cbb9ea9dff9708bbfdacd268"
+    },
+    {
+      "basis": "siegenheim-brot-10",
+      "source_id": "bechstein-sagen-kfpx-0",
+      "title": "Siegenheim – Was auf dem Tisch fehlt",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "caffa8f18d6b0d2af4100437a4b240c6bf918feeaf32731c259ebb2422478bdd"
+    },
+    {
+      "basis": "jettenbuehel-10",
+      "source_id": "bechstein-sagen-kgn9-0",
+      "title": "Jettenbühel – Die Grenze des Zukunftsblicks",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "932a6938a768446ca46387f8ff017551e45baed4243941e2f0e54cdd31f2c760"
+    },
+    {
+      "basis": "katharinen-handschuh-16",
+      "source_id": "bechstein-sagen-khc2-0",
+      "title": "St. Katharinens Handschuh – Die versäumte Erklärung",
+      "panels": 16,
+      "warnings": [],
+      "source_sha256": "f38ef843a71a390ae2ae0bf2f6535c2d530d9cea1d2e1457243008dffaa3ff64"
+    },
+    {
+      "basis": "rodensteiner-auszug-12",
+      "source_id": "bechstein-sagen-kgs6-0",
+      "title": "Des Rodensteiners Auszug – Krieg vor Liebe",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "d4323bd79f737699d3552e84c2c4c47a59c5b24a685745445141124cfc03d011"
+    },
+    {
+      "basis": "eginhart-emma-schnee-14",
+      "source_id": "bechstein-sagen-kjd6-0",
+      "title": "Eginhart und Emma – Eine Spur im Schnee",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "fa64ccd5d32c4d010ab97beb404a51d631709f0058a0838f2d823465264f8a45"
+    },
+    {
+      "basis": "windecker-meise-10",
+      "source_id": "bechstein-sagen-kdgz-0",
+      "title": "Die Windecker – Der Preis einer Nuss",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "63dcd61643f29c710e761e249202d35a1f69fa8901a005f1a6ef5a7595135164"
+    },
+    {
+      "basis": "thassilo-lorsch-12",
+      "source_id": "bechstein-sagen-kfq9-0",
+      "title": "Thassilo in Lorsch – Die späte Erkenntnis",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "109d3ee4998db98d5f6cab82cc2e404026b8a1c4394b048b00e4653916698cf7"
+    },
+    {
+      "basis": "heerwisch-10",
+      "source_id": "bechstein-sagen-kh08-0",
+      "title": "Der Heerwisch – Der gerufene Schrecken",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "41ba0cbef4dd6940a1e2477cbd1dd0cd1d015bef40115c4edf73d0c0654e4fed"
+    },
+    {
+      "basis": "wiesenjungfrau-niesen-16",
+      "source_id": "bechstein-sagen-kg42-0",
+      "title": "Die Wiesenjungfrau – Kleine Gesten, große Hoffnung",
+      "panels": 16,
+      "warnings": [],
+      "source_sha256": "a70509b57b324f8e3f6583ffece90a039483d64a40ceeaab2b9f77b826b26dc0"
+    },
+    {
+      "basis": "versunkenes-kloster-14",
+      "source_id": "bechstein-sagen-kj99-0",
+      "title": "Das versunkene Kloster – Der rote Faden",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "858e1ec968511211c36c0ccfbbae280ab5f4044adc4b088896a9db44e2a1c57c"
+    },
+    {
+      "basis": "frankenstein-lindwurm-12",
+      "source_id": "bechstein-sagen-kgb7-0",
+      "title": "Der Lindwurm auf Frankenstein – Der Sieg am Brunnen",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "1848ed03bcfb8da60daf98877ec57788a754c85a250e48fa6d2ec5524af47dd1"
+    },
+    {
+      "basis": "eselslehen-10",
+      "source_id": "bechstein-sagen-kf54-0",
+      "title": "Das Frankensteiner Eselslehen – Der Preis der Demütigung",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "51ebaeef37fc6b78fa1483e3a9b0f1e5c0eb224f274896928728e05041337994"
+    },
+    {
+      "basis": "goldne-mainz-6",
+      "source_id": "bechstein-sagen-kdk6-0",
+      "title": "Das goldne Mainz – Was wirklich glänzt",
+      "panels": 6,
+      "warnings": [],
+      "source_sha256": "cd904b39d84e9dc50e434cd0987251553d5cd097718fe5e26892e26bff165c36"
+    },
+    {
+      "basis": "hatto-heriger-willigis-18",
+      "source_id": "bechstein-sagen-kgzd-0",
+      "title": "Hatto, Heriger und Willigis – Drei Gesichter der Macht",
+      "panels": 18,
+      "warnings": [],
+      "source_sha256": "906911e69d35735928da6a048ca798f22b93ea20bf016a19f0e612c99ca3e51d"
+    },
+    {
+      "basis": "mainzer-kreuze-12",
+      "source_id": "bechstein-sagen-kdc1-0",
+      "title": "Die Mainzer Kreuze – Was das Feuer nicht beendet",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "c7cd4c611bb97d45511ce0b75b84b9816ec81ecb3159bfa55dbb7bd6e59d4779"
+    },
+    {
+      "basis": "frauenlob-wein-12",
+      "source_id": "bechstein-sagen-kfhg-0",
+      "title": "Heinrich Frauenlobs Begängnis – Der Wein danach",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "22802cbe643b2784fc52f20c2e5892d811180cc86aef289374bf815e0ac3ffb9"
+    },
+    {
+      "basis": "bilhilde-taufe-16",
+      "source_id": "bechstein-sagen-kf5m-0",
+      "title": "Die heilige Bilhilde – Das gelebte Leben",
+      "panels": 16,
+      "warnings": [],
+      "source_sha256": "4f0222d75a7bdbc589dfc7ff077ba40e5cff72bf23a3be9141a8fd6975100631"
+    },
+    {
+      "basis": "franken-furt-10",
+      "source_id": "bechstein-sagen-khm5-0",
+      "title": "Der Franken Furt – Der Ausweg",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "dbd6203d583fd5111686cabd7690476a04d2f673ae5dce12cd5686b891f7a53d"
+    },
+    {
+      "basis": "koenigs-weihnacht-14",
+      "source_id": "bechstein-sagen-kfbg-0",
+      "title": "Des Königs Weihnacht – Die fromme Maske",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "51526d3585dc9f79dceff1de7c4cee3430d368c53390a706681dd229d1ed607a"
+    },
+    {
+      "basis": "eschenheimer-turm-12",
+      "source_id": "bechstein-sagen-kdsb-0",
+      "title": "Vom Eschenheimer Turm – Neun Schüsse und ein Nein",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "8b1638de285f038043faabd44294185ef7dffe9ab42e6cc5ecfbf2e3116b7eda"
+    },
+    {
+      "basis": "teufelsweg-falkenstein-14",
+      "source_id": "bechstein-sagen-kdgm-0",
+      "title": "Der Teufelsweg auf Falkenstein – Ein anderes Versprechen",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "4a985aa2eb28e729a1c86f71ffb966c2f3e4546a9f149bcbc38cbafbb71b70a1"
+    },
+    {
+      "basis": "eppsteiner-mannstein-14",
+      "source_id": "bechstein-sagen-kf9k-0",
+      "title": "Die Eppsteiner – Der Helfer bleibt zurück",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "d0e622e40084ba7d24d2c3f1af778521b9d28260db4816924a3c6aa47ce6f03c"
+    },
+    {
+      "basis": "blutlinde-graroder-16",
+      "source_id": "bechstein-sagen-kdtp-0",
+      "title": "Blutlinde – Was Herkunft zerstört",
+      "panels": 16,
+      "warnings": [],
+      "source_sha256": "53deca46d17070308fd6fc82f2456becc74d9fe15c4ac00bbbfcea1bfc38115f"
+    },
+    {
+      "basis": "raederberg-drei-tage-10",
+      "source_id": "bechstein-sagen-khpg-0",
+      "title": "Räderberg – Noch einen Tag",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "fb0dad178b8dc3fb81e66a95980c5b90904eaa59c89ddd9f9151988f11062d06"
+    },
+    {
+      "basis": "wisperstimme-12",
+      "source_id": "bechstein-sagen-kj60-0",
+      "title": "Die Wisperstimme – Der Schatz im Turm",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "40e0199f4139ef2a46db318e6e57b0f2e1a89a3ed1f46910dad07055ffa660a7"
+    },
+    {
+      "basis": "gluehende-kohlen-10",
+      "source_id": "bechstein-sagen-kd7f-0",
+      "title": "Die glühenden Kohlen – Wer den Wert geschaffen hat",
+      "panels": 10,
+      "warnings": [],
+      "source_sha256": "92a7f0097d5a896554f067828b8d262559c1eb1b7b74f5db1848b14f7e0e3542"
+    },
+    {
+      "basis": "taube-pflug-12",
+      "source_id": "bechstein-sagen-kh29-0",
+      "title": "Die Taube auf dem Pflug – Die überhörte Bitte",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "7fdb0ba787894246c95b95eafd67c660ed8af45005715b95fccb2fad56fd01de"
+    },
+    {
+      "basis": "affe-dhaun-8",
+      "source_id": "bechstein-sagen-kh98-0",
+      "title": "Der Affe zu Dhaun – Im Dickicht",
+      "panels": 8,
+      "warnings": [],
+      "source_sha256": "ee5fd234e5a9dec377f0cfd8df01a7d4faabb46b9f5d5eb10a4faed85bf7d8b8"
+    },
+    {
+      "basis": "pfaffenkaeppchen-14",
+      "source_id": "bechstein-sagen-khhn-0",
+      "title": "Das Pfaffenkäppchen – Die fremde Rechnung",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "5b75d4c3e315565c76e16d02e7613bf49c94938c6654ed95ead238846caacffe"
+    },
+    {
+      "basis": "stiefel-wein-8",
+      "source_id": "bechstein-sagen-kj7b-0",
+      "title": "Der Stiefel voll Wein – Ein teurer Einsatz",
+      "panels": 8,
+      "warnings": [],
+      "source_sha256": "bf561f2bd830b9dbd3d66a921af99187e5aae837821a9886a1304892504c77f9"
+    },
+    {
+      "basis": "wilder-jaeger-asyl-12",
+      "source_id": "bechstein-sagen-kj3h-0",
+      "title": "Der wilde Jäger – Die letzte Grenze",
+      "panels": 12,
+      "warnings": [],
+      "source_sha256": "a25c3eebe86132357c46ff96232badbd46ac38eb528a255aacb1bdb9d712d978"
+    },
+    {
+      "basis": "spanheim-kaestchen-14",
+      "source_id": "bechstein-sagen-kgwp-0",
+      "title": "Spanheims Gründung – Das verlorene Zeichen",
+      "panels": 14,
+      "warnings": [],
+      "source_sha256": "2a0fe77412180c2dc154cac00c8f1bfb71b3d52bd5588d9f2454cf02fdc65d9f"
+    }
+  ],
+  "kacheln": 590,
+  "bilder_generiert": false
+}

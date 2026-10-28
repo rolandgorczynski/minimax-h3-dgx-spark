@@ -1,0 +1,806 @@
+{
+  "mode": "editorial",
+  "name": "Die Königstochter vom Rhein – Zwei Spuren · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die Königstochter vom Rhein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 48.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nVor grauen Zeiten soll das alte Worms auch die Hauptstadt des burgundischen Reiches gewesen sein. Ein Zigeunerweib stahl aus der Insel des Rosengarten eine Königstochter in einem kleinen Badewännlein und trug sie über den Rhein. Niemand wußte, wo das Kind hingekommen. Sein Vater grämte sich zu Tode, und seine Mutter starb fast vor Herzeleid. Achtzehn Jahre gingen darüber hin, da ritt der Königssohn durch einen Wald, fand dort ein Wirtshaus und kehrte ein; den Wein, den er begehrte, brachte ihm eine schöne Jungfrau, die ihm über alle Maßen wohlgefiel. Da er nun eines Fußbades begehrte, so rüstete ihm das die Maid mit frischen grünen Kräutern und brachte es in einem Badewännlein dargetragen. Die Wirtin aber war ein häßliches, altes, braunes Weib, die gab der Maid böse Rede und sagte dem jungen Rittersmann, den sie nicht kannte, daß jene nur ein Findelkind sei, vor langen Jahren von ihr angenommen und auferzogen zu einer Dienstmagd. Wie aber der Königssohn sich das Badewännlein ansah, gewahrte er mit Staunen daran das burgundische Wappenschild und dachte bei sich selbst: Wie kommt dieses Wännelein mit dem Wappen meines Stammes in dieses schlechte Wirtshaus? Und da fiel ihm bei, gehört zu haben, daß vor langen Jahren sein Schwesterlein zusamt dem Wännchen, in dem es gebadet worden, aus dem Rosengarten verschwunden sei, und daß seine Mutter ihm oft erzählt, das Schwesterlein habe ein Malzeichen am Halse gehabt, und dasselbe Zeichen entdeckte nun alsobald der Königssohn am Halse der Dienerin. Da grüßte und umfing er sie als seine liebe Schwester, und als die Wirtin hereintrat, fragte er diese, von wem und von wannen sie diese edle Jungfrau habe. Die Wirtin erschrak gar sehr, zitterte und erbleichte und fiel auf die Kniee. Sie hatte, da die Wärterin nur auf eine kurze Zeit sich entfernt, Kind und Wännlein davongetragen und war eilend in einem Kahn über den Rhein hinübergefahren.\n\nDa zog der Königssohn sein Schwert, das war sehr spitz und scharf, und stach die böse Wirtin damit in das Ohr, daß die Spitze zum andern Ohr wieder heraustrat, hob die Maid samt dem Wännelein auf sein Roß und ritt gen Worms zu seiner Frau Mutter. Die Königin wunderte sich baß, als sie das Paar so seltsam daherreiten sah, und fragte ihren Sohn: Welch eine Dirne bringst du uns daher? Sie führt ja ein Wännelein mit sich, als wenn sie mit einem Kinde ginge. – Frau Mutter, ich bringe keine Dirne, sondern Euer verlorenes Kind, mein lieb Schwesterlein, samt dem Wännelein, darin es Euch geraubt ward vor achtzehn Jahren! – Bei dieser Rede fiel die Königin vor Freude in Ohnmacht, und als sie wieder in den Armen ihrer Kinder erwacht war, priesen alle drei den Herrn.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die Königstochter vom Rhein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 48.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nVor grauen Zeiten soll das alte Worms auch die Hauptstadt des burgundischen Reiches gewesen sein. Ein Zigeunerweib stahl aus der Insel des Rosengarten eine Königstochter in einem kleinen Badewännlein und trug sie über den Rhein. Niemand wußte, wo das Kind hingekommen. Sein Vater grämte sich zu Tode, und seine Mutter starb fast vor Herzeleid. Achtzehn Jahre gingen darüber hin, da ritt der Königssohn durch einen Wald, fand dort ein Wirtshaus und kehrte ein; den Wein, den er begehrte, brachte ihm eine schöne Jungfrau, die ihm über alle Maßen wohlgefiel. Da er nun eines Fußbades begehrte, so rüstete ihm das die Maid mit frischen grünen Kräutern und brachte es in einem Badewännlein dargetragen. Die Wirtin aber war ein häßliches, altes, braunes Weib, die gab der Maid böse Rede und sagte dem jungen Rittersmann, den sie nicht kannte, daß jene nur ein Findelkind sei, vor langen Jahren von ihr angenommen und auferzogen zu einer Dienstmagd. Wie aber der Königssohn sich das Badewännlein ansah, gewahrte er mit Staunen daran das burgundische Wappenschild und dachte bei sich selbst: Wie kommt dieses Wännelein mit dem Wappen meines Stammes in dieses schlechte Wirtshaus? Und da fiel ihm bei, gehört zu haben, daß vor langen Jahren sein Schwesterlein zusamt dem Wännchen, in dem es gebadet worden, aus dem Rosengarten verschwunden sei, und daß seine Mutter ihm oft erzählt, das Schwesterlein habe ein Malzeichen am Halse gehabt, und dasselbe Zeichen entdeckte nun alsobald der Königssohn am Halse der Dienerin. Da grüßte und umfing er sie als seine liebe Schwester, und als die Wirtin hereintrat, fragte er diese, von wem und von wannen sie diese edle Jungfrau habe. Die Wirtin erschrak gar sehr, zitterte und erbleichte und fiel auf die Kniee. Sie hatte, da die Wärterin nur auf eine kurze Zeit sich entfernt, Kind und Wännlein davongetragen und war eilend in einem Kahn über den Rhein hinübergefahren.\n\nDa zog der Königssohn sein Schwert, das war sehr spitz und scharf, und stach die böse Wirtin damit in das Ohr, daß die Spitze zum andern Ohr wieder heraustrat, hob die Maid samt dem Wännelein auf sein Roß und ritt gen Worms zu seiner Frau Mutter. Die Königin wunderte sich baß, als sie das Paar so seltsam daherreiten sah, und fragte ihren Sohn: Welch eine Dirne bringst du uns daher? Sie führt ja ein Wännelein mit sich, als wenn sie mit einem Kinde ginge. – Frau Mutter, ich bringe keine Dirne, sondern Euer verlorenes Kind, mein lieb Schwesterlein, samt dem Wännelein, darin es Euch geraubt ward vor achtzehn Jahren! – Bei dieser Rede fiel die Königin vor Freude in Ohnmacht, und als sie wieder in den Armen ihrer Kinder erwacht war, priesen alle drei den Herrn.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Im Rosengarten",
+        "setting": "Im Rosengarten",
+        "characters": [
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein vollständig mit Tuch bedecktes Baby in kleiner Holzwanne mit Wappenschild, keine Nacktheit.",
+        "dialog": "Auf einer Rheininsel wurde eine Königstochter mit ihrer Badewanne entführt.",
+        "bubbles": [],
+        "character_states": {
+          "60a3287797fc5f808e2903c2b04d4a16": "liegt als Säugling in der kleinen Badewanne; Helle Säuglingsdecke in kleiner Badewanne.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein vollständig mit Tuch bedecktes Baby in kleiner Holzwanne mit Wappenschild, keine Nacktheit.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helle Säuglingsdecke in kleiner Badewanne.",
+            "location": "Im Rosengarten",
+            "posture": "liegt als Säugling in der kleinen Badewanne"
+          }
+        }
+      },
+      {
+        "heading": "Über den Fluss",
+        "setting": "Über den Fluss",
+        "characters": [
+          "c19516065c0e574b9c597d08a0a4052c",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau mit der einen gesicherten Holzwanne in einem Kahn, niemand am anderen Ufer weiß davon.",
+        "dialog": "Die Entführerin brachte das Kind über den Rhein. Niemand fand seine Spur.",
+        "bubbles": [],
+        "character_states": {
+          "c19516065c0e574b9c597d08a0a4052c": "sitzt mit der Wanne im Boot; Braunes Kleid, graue Schürze.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "liegt als Säugling in der Wanne; Helle Säuglingsdecke in kleiner Badewanne.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine erwachsene Frau mit der einen gesicherten Holzwanne in einem Kahn, niemand am anderen Ufer weiß davon.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helle Säuglingsdecke in kleiner Badewanne.",
+            "location": "Über den Fluss",
+            "posture": "liegt als Säugling in der Wanne"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Über den Fluss",
+            "posture": "sitzt mit der Wanne im Boot"
+          }
+        }
+      },
+      {
+        "heading": "Die verlorenen Jahre",
+        "setting": "Die verlorenen Jahre",
+        "characters": [
+          "a7202f0d191858ceae636b8b39615127"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königin im stillen Zimmer, kein Leichnam und kein zurückgekehrtes Kind.",
+        "dialog": "Der Vater starb vor Kummer. Die Mutter blieb mit dem Verlust zurück.",
+        "bubbles": [],
+        "character_states": {
+          "a7202f0d191858ceae636b8b39615127": "sitzt neben einem leeren kleinen Bett; Dunkelrotes Kleid, heller Schleier.; Lebenszustand: lebend"
+        },
+        "continuity": "Königin im stillen Zimmer, kein Leichnam und kein zurückgekehrtes Kind.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helle Säuglingsdecke in kleiner Badewanne.",
+            "location": "Über den Fluss",
+            "posture": "liegt als Säugling in der Wanne"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Über den Fluss",
+            "posture": "sitzt mit der Wanne im Boot"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          }
+        }
+      },
+      {
+        "heading": "Achtzehn Jahre später",
+        "setting": "Achtzehn Jahre später",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Reiter vor dem Waldwirtshaus, ein Schwertgriff an linker Hüfte, keine gezogene Klinge.",
+        "dialog": "Achtzehn Jahre später kehrte der Königssohn auf einer Reise im Wirtshaus ein.",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "sitzt auf einem braunen Pferd vor dem Wirtshaus; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein erwachsener Reiter vor dem Waldwirtshaus, ein Schwertgriff an linker Hüfte, keine gezogene Klinge.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helle Säuglingsdecke in kleiner Badewanne.",
+            "location": "Über den Fluss",
+            "posture": "liegt als Säugling in der Wanne"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Über den Fluss",
+            "posture": "sitzt mit der Wanne im Boot"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Achtzehn Jahre später",
+            "posture": "sitzt auf einem braunen Pferd vor dem Wirtshaus"
+          }
+        }
+      },
+      {
+        "heading": "Die Dienerin",
+        "setting": "Die Dienerin",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Prinz ausdrücklich abgestiegen in der Gaststube, erwachsene Dienerin links, beide erwachsen.",
+        "dialog": "Die junge Frau bereitete ihm ein Fußbad in einer alten kleinen Wanne.",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "sitzt zu Fuß am Tisch; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "steht mit einer Schale daneben; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Prinz ausdrücklich abgestiegen in der Gaststube, erwachsene Dienerin links, beide erwachsen.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die Dienerin",
+            "posture": "steht mit einer Schale daneben"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Über den Fluss",
+            "posture": "sitzt mit der Wanne im Boot"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Die Dienerin",
+            "posture": "sitzt zu Fuß am Tisch"
+          }
+        }
+      },
+      {
+        "heading": "Das Wappen",
+        "setting": "Das Wappen",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wappenschild an derselben Holzwanne deutlich als einfacher Schild gezeichnet; Prinzenhände leer.",
+        "dialog": "Der Reisende erkannte das Wappen seiner Familie. Wie kam diese Wanne hierher?",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "blickt zur Wanne; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "steht daneben; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Wappenschild an derselben Holzwanne deutlich als einfacher Schild gezeichnet; Prinzenhände leer.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Das Wappen",
+            "posture": "steht daneben"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Über den Fluss",
+            "posture": "sitzt mit der Wanne im Boot"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Das Wappen",
+            "posture": "blickt zur Wanne"
+          }
+        }
+      },
+      {
+        "heading": "Die erste Erklärung",
+        "setting": "Die erste Erklärung",
+        "characters": [
+          "c19516065c0e574b9c597d08a0a4052c",
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wirtin rechts spricht, junge Frau links hört zu.",
+        "dialog": "Die Wirtin behauptete, sie habe vor Jahren ein Findelkind aufgenommen.",
+        "bubbles": [],
+        "character_states": {
+          "c19516065c0e574b9c597d08a0a4052c": "steht am Tisch; Braunes Kleid, graue Schürze.; Lebenszustand: lebend",
+          "dba18900996a5c4a93f6b4c10b066583": "sitzt davor; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "steht seitlich; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Wirtin rechts spricht, junge Frau links hört zu.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die erste Erklärung",
+            "posture": "steht seitlich"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Die erste Erklärung",
+            "posture": "steht am Tisch"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Die erste Erklärung",
+            "posture": "sitzt davor"
+          }
+        }
+      },
+      {
+        "heading": "Die zweite Spur",
+        "setting": "Die zweite Spur",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleines Muttermal links am Hals oberhalb des geschlossenen Kleids. Kein entkleideter Körper.",
+        "dialog": "Seine Mutter hatte von einem Mal am Hals der verlorenen Schwester erzählt. Auch dieses Zeichen stimmte.",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "steht mit Abstand vor der Dienerin; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "steht ihm zugewandt; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Kleines Muttermal links am Hals oberhalb des geschlossenen Kleids. Kein entkleideter Körper.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die zweite Spur",
+            "posture": "steht ihm zugewandt"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Die erste Erklärung",
+            "posture": "steht am Tisch"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Die zweite Spur",
+            "posture": "steht mit Abstand vor der Dienerin"
+          }
+        }
+      },
+      {
+        "heading": "Die erkannte Schwester",
+        "setting": "Die erkannte Schwester",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf Augenhöhe, ein vorsichtiges Berühren der Hände. Kein Liebeskuss.",
+        "dialog": "Wanne und Mal zusammen ließen ihn seine Schwester erkennen.",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "steht nahe bei der Dienerin; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "blickt überrascht auf; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene auf Augenhöhe, ein vorsichtiges Berühren der Hände. Kein Liebeskuss.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die erkannte Schwester",
+            "posture": "blickt überrascht auf"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Die erste Erklärung",
+            "posture": "steht am Tisch"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Die erkannte Schwester",
+            "posture": "steht nahe bei der Dienerin"
+          }
+        }
+      },
+      {
+        "heading": "Das Geständnis",
+        "setting": "Das Geständnis",
+        "characters": [
+          "c19516065c0e574b9c597d08a0a4052c",
+          "dba18900996a5c4a93f6b4c10b066583"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kniende Wirtin vor dem stehenden Mann, dessen einziges Schwert noch in linker Scheide steckt.",
+        "dialog": "Die Wirtin gestand den Raub. Der Bruder tötete sie anschließend – eine grausame Tat dieser Sage, kein Vorbild.",
+        "bubbles": [],
+        "character_states": {
+          "c19516065c0e574b9c597d08a0a4052c": "kniet vor dem Prinzen; Braunes Kleid, graue Schürze.; Lebenszustand: lebend",
+          "dba18900996a5c4a93f6b4c10b066583": "steht mit leeren Händen; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Kniende Wirtin vor dem stehenden Mann, dessen einziges Schwert noch in linker Scheide steckt.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die erkannte Schwester",
+            "posture": "blickt überrascht auf"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Das Geständnis",
+            "posture": "kniet vor dem Prinzen"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Das Geständnis",
+            "posture": "steht mit leeren Händen"
+          }
+        }
+      },
+      {
+        "heading": "Nach der Gewalttat",
+        "setting": "Nach der Gewalttat",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor dem Wirtshaus; seine Klinge ausdrücklich wieder in linker Scheide, kein Körper der Wirtin sichtbar.",
+        "dialog": "Er nahm seine Schwester und die Wanne mit. Die Erkennung war nicht ohne neues Unrecht geblieben.",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "steht bei der Schwester; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "hält die kleine leere Wanne; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene vor dem Wirtshaus; seine Klinge ausdrücklich wieder in linker Scheide, kein Körper der Wirtin sichtbar.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Nach der Gewalttat",
+            "posture": "hält die kleine leere Wanne"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Das Geständnis",
+            "posture": "kniet vor dem Prinzen"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Nach der Gewalttat",
+            "posture": "steht bei der Schwester"
+          }
+        }
+      },
+      {
+        "heading": "Die Heimkehr",
+        "setting": "Die Heimkehr",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Seitlicher enger Ausschnitt auf ein kräftiges Pferd mit zwei erwachsenen Reitenden, Schwester hält die kleine leere Wanne quer vor sich. Keine dritte Person.",
+        "dialog": "Gemeinsam ritten sie zur Mutter nach Worms.",
+        "bubbles": [],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "sitzt vorn auf seinem Pferd; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "sitzt hinter ihm und hält die Wanne; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Seitlicher enger Ausschnitt auf ein kräftiges Pferd mit zwei erwachsenen Reitenden, Schwester hält die kleine leere Wanne quer vor sich. Keine dritte Person.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die Heimkehr",
+            "posture": "sitzt hinter ihm und hält die Wanne"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Das Geständnis",
+            "posture": "kniet vor dem Prinzen"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die verlorenen Jahre",
+            "posture": "sitzt neben einem leeren kleinen Bett"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Die Heimkehr",
+            "posture": "sitzt vorn auf seinem Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Vor der Mutter",
+        "setting": "Vor der Mutter",
+        "characters": [
+          "dba18900996a5c4a93f6b4c10b066583",
+          "60a3287797fc5f808e2903c2b04d4a16",
+          "a7202f0d191858ceae636b8b39615127"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle drei ausdrücklich abgestiegen im Burghof, Pferd außerhalb. Mutter schaut erstaunt auf Wanne und Tochter.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "dba18900996a5c4a93f6b4c10b066583",
+            "text": "Es ist deine verlorene Tochter.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "dba18900996a5c4a93f6b4c10b066583": "steht links zu Fuß; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "steht mittig mit der Wanne; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend",
+          "a7202f0d191858ceae636b8b39615127": "steht rechts; Dunkelrotes Kleid, heller Schleier.; Lebenszustand: lebend"
+        },
+        "continuity": "Alle drei ausdrücklich abgestiegen im Burghof, Pferd außerhalb. Mutter schaut erstaunt auf Wanne und Tochter.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Vor der Mutter",
+            "posture": "steht mittig mit der Wanne"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Das Geständnis",
+            "posture": "kniet vor dem Prinzen"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Vor der Mutter",
+            "posture": "steht rechts"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Vor der Mutter",
+            "posture": "steht links zu Fuß"
+          }
+        }
+      },
+      {
+        "heading": "Die Wiedergefundene",
+        "setting": "Die Wiedergefundene",
+        "characters": [
+          "a7202f0d191858ceae636b8b39615127",
+          "60a3287797fc5f808e2903c2b04d4a16",
+          "dba18900996a5c4a93f6b4c10b066583"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter nach ihrer Ohnmacht wieder wach auf einer Bank, Tochter hält ihre Hand, Wanne separat am Boden.",
+        "dialog": "Als die Mutter wieder zu sich kam, waren beide Kinder bei ihr. Die Geschichte endet mit dem Wiederfinden, nicht mit dem ersten falschen Eindruck.",
+        "bubbles": [],
+        "character_states": {
+          "a7202f0d191858ceae636b8b39615127": "sitzt bei beiden Kindern; Dunkelrotes Kleid, heller Schleier.; Lebenszustand: lebend",
+          "60a3287797fc5f808e2903c2b04d4a16": "sitzt links; Schlichtes grünes Arbeitskleid und braune Schuhe.; Lebenszustand: lebend",
+          "dba18900996a5c4a93f6b4c10b066583": "steht rechts; Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Mutter nach ihrer Ohnmacht wieder wach auf einer Bank, Tochter hält ihre Hand, Wanne separat am Boden.",
+        "continuity_state": {
+          "60a3287797fc5f808e2903c2b04d4a16": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichtes grünes Arbeitskleid und braune Schuhe.",
+            "location": "Die Wiedergefundene",
+            "posture": "sitzt links"
+          },
+          "c19516065c0e574b9c597d08a0a4052c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Kleid, graue Schürze.",
+            "location": "Das Geständnis",
+            "posture": "kniet vor dem Prinzen"
+          },
+          "a7202f0d191858ceae636b8b39615127": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelrotes Kleid, heller Schleier.",
+            "location": "Die Wiedergefundene",
+            "posture": "sitzt bei beiden Kindern"
+          },
+          "dba18900996a5c4a93f6b4c10b066583": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+            "location": "Die Wiedergefundene",
+            "posture": "steht rechts"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Königssohn am Rhein",
+        "description": "Junger erwachsener Mann mit braunem kurzen Haar.",
+        "outfit": "Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.",
+        "backstory": "Erkennt seine entführte Schwester; seine Gewalttat wird ohne Verherrlichung erzählt.",
+        "id": "dba18900996a5c4a93f6b4c10b066583",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Verlorene Königstochter vom Rhein",
+        "description": "Weibliche Identität, braune Augen und kleines Muttermal links am Hals; zuerst Säugling, später erwachsene Frau.",
+        "outfit": "Als Erwachsene schlichtes grünes Arbeitskleid, braune Schuhe.",
+        "backstory": "Wurde mit ihrer Badewanne entführt und als Dienstmagd aufgezogen.",
+        "id": "60a3287797fc5f808e2903c2b04d4a16",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Wirtin der Rheinsage",
+        "description": "Ältere erwachsene Frau mit grauem Haar und breitem Gesicht.",
+        "outfit": "Braunes Kleid, graue Schürze.",
+        "backstory": "Einzelne Entführerin der Erzählung; ohne ethnische Zuschreibung.",
+        "id": "c19516065c0e574b9c597d08a0a4052c",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Königin der verlorenen Tochter",
+        "description": "Ältere Frau mit graubraunem Haar.",
+        "outfit": "Dunkelrotes Kleid, heller Schleier.",
+        "backstory": "Hat ihre Tochter jahrelang vermisst.",
+        "id": "a7202f0d191858ceae636b8b39615127",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie kann eine verlorene Herkunft gegen eine aufgezwungene Identität wieder sichtbar werden?",
+      "core": "Zusammenpassende Spuren können eine lange verdeckte Beziehung erkennbar machen. Ein wirklicher Zusammenhang muss mehr tragen als der erste gesellschaftliche Eindruck.",
+      "ending": "Die entführte Tochter kehrt mit dem Bruder zur Mutter zurück.",
+      "reason": "Verlust, spätere Begegnung, zwei übereinstimmende Spuren und Heimkehr tragen den Bogen; grausame Vergeltung nicht zur eigentlichen Lehre machen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "dasselbe Zeichen entdeckte nun alsobald der Königssohn am Halse der Dienerin",
+          "meaning": "Wappen und Körperzeichen stützen die Wiedererkennung gemeinsam."
+        }
+      ],
+      "causal_chain": [
+        "dasselbe Zeichen entdeckte nun alsobald der Königssohn am Halse der Dienerin",
+        "Die entführte Tochter kehrt mit dem Bruder zur Mutter zurück."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "46fdb790abf46cb44859e39865bdde7fdcc81a3712697485241e2b32dc543c4a",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.853839+00:00"
+    },
+    "post_summary": "Eine Wanne mit Wappen und ein Mal am Hals führen einen Reisenden zu einer lange verlorenen Beziehung.",
+    "source_provenance": {
+      "title": "Die Königstochter vom Rhein",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 48.",
+      "url": "https://textgridrep.org/browse/kg9w.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die Königstochter vom Rhein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 48.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nVor grauen Zeiten soll das alte Worms auch die Hauptstadt des burgundischen Reiches gewesen sein. Ein Zigeunerweib stahl aus der Insel des Rosengarten eine Königstochter in einem kleinen Badewännlein und trug sie über den Rhein. Niemand wußte, wo das Kind hingekommen. Sein Vater grämte sich zu Tode, und seine Mutter starb fast vor Herzeleid. Achtzehn Jahre gingen darüber hin, da ritt der Königssohn durch einen Wald, fand dort ein Wirtshaus und kehrte ein; den Wein, den er begehrte, brachte ihm eine schöne Jungfrau, die ihm über alle Maßen wohlgefiel. Da er nun eines Fußbades begehrte, so rüstete ihm das die Maid mit frischen grünen Kräutern und brachte es in einem Badewännlein dargetragen. Die Wirtin aber war ein häßliches, altes, braunes Weib, die gab der Maid böse Rede und sagte dem jungen Rittersmann, den sie nicht kannte, daß jene nur ein Findelkind sei, vor langen Jahren von ihr angenommen und auferzogen zu einer Dienstmagd. Wie aber der Königssohn sich das Badewännlein ansah, gewahrte er mit Staunen daran das burgundische Wappenschild und dachte bei sich selbst: Wie kommt dieses Wännelein mit dem Wappen meines Stammes in dieses schlechte Wirtshaus? Und da fiel ihm bei, gehört zu haben, daß vor langen Jahren sein Schwesterlein zusamt dem Wännchen, in dem es gebadet worden, aus dem Rosengarten verschwunden sei, und daß seine Mutter ihm oft erzählt, das Schwesterlein habe ein Malzeichen am Halse gehabt, und dasselbe Zeichen entdeckte nun alsobald der Königssohn am Halse der Dienerin. Da grüßte und umfing er sie als seine liebe Schwester, und als die Wirtin hereintrat, fragte er diese, von wem und von wannen sie diese edle Jungfrau habe. Die Wirtin erschrak gar sehr, zitterte und erbleichte und fiel auf die Kniee. Sie hatte, da die Wärterin nur auf eine kurze Zeit sich entfernt, Kind und Wännlein davongetragen und war eilend in einem Kahn über den Rhein hinübergefahren.\n\nDa zog der Königssohn sein Schwert, das war sehr spitz und scharf, und stach die böse Wirtin damit in das Ohr, daß die Spitze zum andern Ohr wieder heraustrat, hob die Maid samt dem Wännelein auf sein Roß und ritt gen Worms zu seiner Frau Mutter. Die Königin wunderte sich baß, als sie das Paar so seltsam daherreiten sah, und fragte ihren Sohn: Welch eine Dirne bringst du uns daher? Sie führt ja ein Wännelein mit sich, als wenn sie mit einem Kinde ginge. – Frau Mutter, ich bringe keine Dirne, sondern Euer verlorenes Kind, mein lieb Schwesterlein, samt dem Wännelein, darin es Euch geraubt ward vor achtzehn Jahren! – Bei dieser Rede fiel die Königin vor Freude in Ohnmacht, und als sie wieder in den Armen ihrer Kinder erwacht war, priesen alle drei den Herrn.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Vor grauen Zeiten soll das alte Worms auch die Hauptstadt des burgundischen Reiches gewesen sein. Ein Zigeunerweib stahl aus der Insel des Rosengarten eine Königstochter in einem kleinen Badewännlein und trug sie über den Rhein.",
+      "id": "bechstein-sagen-kg9w-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "koenigstochter-rhein-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die Königstochter vom Rhein – Zwei Spuren · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die Königstochter vom Rhein – Zwei Spuren\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Königssohn am Rhein\nAussehen: Junger erwachsener Mann mit braunem kurzen Haar.\nKleidung: Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.\nPersönlichkeit und Vorgeschichte: Erkennt seine entführte Schwester; seine Gewalttat wird ohne Verherrlichung erzählt.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Verlorene Königstochter vom Rhein\nAussehen: Weibliche Identität, braune Augen und kleines Muttermal links am Hals; zuerst Säugling, später erwachsene Frau.\nKleidung: Als Erwachsene schlichtes grünes Arbeitskleid, braune Schuhe.\nPersönlichkeit und Vorgeschichte: Wurde mit ihrer Badewanne entführt und als Dienstmagd aufgezogen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Wirtin der Rheinsage\nAussehen: Ältere erwachsene Frau mit grauem Haar und breitem Gesicht.\nKleidung: Braunes Kleid, graue Schürze.\nPersönlichkeit und Vorgeschichte: Einzelne Entführerin der Erzählung; ohne ethnische Zuschreibung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Königin der verlorenen Tochter\nAussehen: Ältere Frau mit graubraunem Haar.\nKleidung: Dunkelrotes Kleid, heller Schleier.\nPersönlichkeit und Vorgeschichte: Hat ihre Tochter jahrelang vermisst.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Im Rosengarten\nOrt und Zeit: Im Rosengarten\nSichtbare Figuren: Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein vollständig mit Tuch bedecktes Baby in kleiner Holzwanne mit Wappenschild, keine Nacktheit.\nErzählertext: Auf einer Rheininsel wurde eine Königstochter mit ihrer Badewanne entführt.\nDialoge: keine\nKontinuität / Änderung: Ein vollständig mit Tuch bedecktes Baby in kleiner Holzwanne mit Wappenschild, keine Nacktheit.\n\nKACHEL 2: Über den Fluss\nOrt und Zeit: Über den Fluss\nSichtbare Figuren: Wirtin der Rheinsage, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau mit der einen gesicherten Holzwanne in einem Kahn, niemand am anderen Ufer weiß davon.\nErzählertext: Die Entführerin brachte das Kind über den Rhein. Niemand fand seine Spur.\nDialoge: keine\nKontinuität / Änderung: Eine erwachsene Frau mit der einen gesicherten Holzwanne in einem Kahn, niemand am anderen Ufer weiß davon.\n\nKACHEL 3: Die verlorenen Jahre\nOrt und Zeit: Die verlorenen Jahre\nSichtbare Figuren: Königin der verlorenen Tochter\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königin im stillen Zimmer, kein Leichnam und kein zurückgekehrtes Kind.\nErzählertext: Der Vater starb vor Kummer. Die Mutter blieb mit dem Verlust zurück.\nDialoge: keine\nKontinuität / Änderung: Königin im stillen Zimmer, kein Leichnam und kein zurückgekehrtes Kind.\n\nKACHEL 4: Achtzehn Jahre später\nOrt und Zeit: Achtzehn Jahre später\nSichtbare Figuren: Königssohn am Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Reiter vor dem Waldwirtshaus, ein Schwertgriff an linker Hüfte, keine gezogene Klinge.\nErzählertext: Achtzehn Jahre später kehrte der Königssohn auf einer Reise im Wirtshaus ein.\nDialoge: keine\nKontinuität / Änderung: Ein erwachsener Reiter vor dem Waldwirtshaus, ein Schwertgriff an linker Hüfte, keine gezogene Klinge.\n\nKACHEL 5: Die Dienerin\nOrt und Zeit: Die Dienerin\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Prinz ausdrücklich abgestiegen in der Gaststube, erwachsene Dienerin links, beide erwachsen.\nErzählertext: Die junge Frau bereitete ihm ein Fußbad in einer alten kleinen Wanne.\nDialoge: keine\nKontinuität / Änderung: Prinz ausdrücklich abgestiegen in der Gaststube, erwachsene Dienerin links, beide erwachsen.\n\nKACHEL 6: Das Wappen\nOrt und Zeit: Das Wappen\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wappenschild an derselben Holzwanne deutlich als einfacher Schild gezeichnet; Prinzenhände leer.\nErzählertext: Der Reisende erkannte das Wappen seiner Familie. Wie kam diese Wanne hierher?\nDialoge: keine\nKontinuität / Änderung: Wappenschild an derselben Holzwanne deutlich als einfacher Schild gezeichnet; Prinzenhände leer.\n\nKACHEL 7: Die erste Erklärung\nOrt und Zeit: Die erste Erklärung\nSichtbare Figuren: Wirtin der Rheinsage, Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wirtin rechts spricht, junge Frau links hört zu.\nErzählertext: Die Wirtin behauptete, sie habe vor Jahren ein Findelkind aufgenommen.\nDialoge: keine\nKontinuität / Änderung: Wirtin rechts spricht, junge Frau links hört zu.\n\nKACHEL 8: Die zweite Spur\nOrt und Zeit: Die zweite Spur\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleines Muttermal links am Hals oberhalb des geschlossenen Kleids. Kein entkleideter Körper.\nErzählertext: Seine Mutter hatte von einem Mal am Hals der verlorenen Schwester erzählt. Auch dieses Zeichen stimmte.\nDialoge: keine\nKontinuität / Änderung: Kleines Muttermal links am Hals oberhalb des geschlossenen Kleids. Kein entkleideter Körper.\n\nKACHEL 9: Die erkannte Schwester\nOrt und Zeit: Die erkannte Schwester\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf Augenhöhe, ein vorsichtiges Berühren der Hände. Kein Liebeskuss.\nErzählertext: Wanne und Mal zusammen ließen ihn seine Schwester erkennen.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene auf Augenhöhe, ein vorsichtiges Berühren der Hände. Kein Liebeskuss.\n\nKACHEL 10: Das Geständnis\nOrt und Zeit: Das Geständnis\nSichtbare Figuren: Wirtin der Rheinsage, Königssohn am Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kniende Wirtin vor dem stehenden Mann, dessen einziges Schwert noch in linker Scheide steckt.\nErzählertext: Die Wirtin gestand den Raub. Der Bruder tötete sie anschließend – eine grausame Tat dieser Sage, kein Vorbild.\nDialoge: keine\nKontinuität / Änderung: Kniende Wirtin vor dem stehenden Mann, dessen einziges Schwert noch in linker Scheide steckt.\n\nKACHEL 11: Nach der Gewalttat\nOrt und Zeit: Nach der Gewalttat\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor dem Wirtshaus; seine Klinge ausdrücklich wieder in linker Scheide, kein Körper der Wirtin sichtbar.\nErzählertext: Er nahm seine Schwester und die Wanne mit. Die Erkennung war nicht ohne neues Unrecht geblieben.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene vor dem Wirtshaus; seine Klinge ausdrücklich wieder in linker Scheide, kein Körper der Wirtin sichtbar.\n\nKACHEL 12: Die Heimkehr\nOrt und Zeit: Die Heimkehr\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Seitlicher enger Ausschnitt auf ein kräftiges Pferd mit zwei erwachsenen Reitenden, Schwester hält die kleine leere Wanne quer vor sich. Keine dritte Person.\nErzählertext: Gemeinsam ritten sie zur Mutter nach Worms.\nDialoge: keine\nKontinuität / Änderung: Seitlicher enger Ausschnitt auf ein kräftiges Pferd mit zwei erwachsenen Reitenden, Schwester hält die kleine leere Wanne quer vor sich. Keine dritte Person.\n\nKACHEL 13: Vor der Mutter\nOrt und Zeit: Vor der Mutter\nSichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein, Königin der verlorenen Tochter\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle drei ausdrücklich abgestiegen im Burghof, Pferd außerhalb. Mutter schaut erstaunt auf Wanne und Tochter.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Königssohn am Rhein\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Es ist deine verlorene Tochter.“\nKontinuität / Änderung: Alle drei ausdrücklich abgestiegen im Burghof, Pferd außerhalb. Mutter schaut erstaunt auf Wanne und Tochter.\n\nKACHEL 14: Die Wiedergefundene\nOrt und Zeit: Die Wiedergefundene\nSichtbare Figuren: Königin der verlorenen Tochter, Verlorene Königstochter vom Rhein, Königssohn am Rhein\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter nach ihrer Ohnmacht wieder wach auf einer Bank, Tochter hält ihre Hand, Wanne separat am Boden.\nErzählertext: Als die Mutter wieder zu sich kam, waren beide Kinder bei ihr. Die Geschichte endet mit dem Wiederfinden, nicht mit dem ersten falschen Eindruck.\nDialoge: keine\nKontinuität / Änderung: Mutter nach ihrer Ohnmacht wieder wach auf einer Bank, Tochter hält ihre Hand, Wanne separat am Boden.\n"
+  },
+  "count_policy": "editorial"
+}

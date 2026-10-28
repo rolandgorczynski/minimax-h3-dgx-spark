@@ -1,0 +1,113 @@
+TITEL: Die Windecker – Der Preis einer Nuss
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Erster geiziger Windecker
+Aussehen: Älterer schlanker Mann, langer grauer Bart.
+Kleidung: Braunes abgetragenes Wams, graue Hose.
+Persönlichkeit und Vorgeschichte: Rechnet den Unterhalt einer Meise gegen seinen Reichtum auf.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweiter geiziger Windecker
+Aussehen: Älterer breiter Mann, kurzer weißer Bart.
+Kleidung: Dunkelgrünes abgetragenes Wams, dunkle Hose.
+Persönlichkeit und Vorgeschichte: Verstärkt die Verlustrechnung seines Bruders.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Meise der Windecker
+Aussehen: Eine kleine Blaumeise mit blauem Kopf, gelblicher Brust, zwei Flügeln und zwei Beinen.
+Kleidung: Natürliches Gefieder.
+Persönlichkeit und Vorgeschichte: Letztes gehaltenes Tier; wird freigelassen und überlebt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Reich in der Ruine
+Ort und Zeit: Reich in der Ruine
+Sichtbare Figuren: Erster geiziger Windecker, Zweiter geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Männer neben geschlossener Geldtruhe, Dachstelle sichtbar schadhaft.
+Erzählertext: Die letzten Windecker hatten Geld, wollten aber nichts für ihre verfallende Burg ausgeben.
+Dialoge: keine
+Kontinuität / Änderung: Zwei ältere Männer neben geschlossener Geldtruhe, Dachstelle sichtbar schadhaft.
+
+KACHEL 2: Ohne Gesellschaft
+Ort und Zeit: Ohne Gesellschaft
+Sichtbare Figuren: Erster geiziger Windecker, Zweiter geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Raum ohne Diener, Katzen oder Hunde; zwei Brüder allein.
+Erzählertext: Diener und Haustiere waren ihnen zu teuer geworden.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Raum ohne Diener, Katzen oder Hunde; zwei Brüder allein.
+
+KACHEL 3: Die letzte Gefährtin
+Ort und Zeit: Die letzte Gefährtin
+Sichtbare Figuren: Meise der Windecker, Erster geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Vogel in einem einzelnen hölzernen Käfig, Mensch mit normal großer Hand davor.
+Erzählertext: Nur eine Meise blieb. Sie bekam täglich eine Nuss.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Vogel in einem einzelnen hölzernen Käfig, Mensch mit normal großer Hand davor.
+
+KACHEL 4: Die schlaflose Rechnung
+Ort und Zeit: Die schlaflose Rechnung
+Sichtbare Figuren: Erster geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bruder mit kleinen Nüssen als Zählhilfe neben geschlossenem Geldbeutel, keine ausgeschriebene Zahlentabelle.
+Erzählertext: In einer schlaflosen Nacht rechnete der erste Bruder den Jahresverbrauch zusammen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Bruder mit kleinen Nüssen als Zählhilfe neben geschlossenem Geldbeutel, keine ausgeschriebene Zahlentabelle.
+
+KACHEL 5: Die vermeintliche Verschwendung
+Ort und Zeit: Die vermeintliche Verschwendung
+Sichtbare Figuren: Erster geiziger Windecker, Zweiter geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine kleine Nussschale zwischen zwei alten Männern, Käfig hinten.
+Erzählertext: Die geringe Ausgabe erschien ihm plötzlich ungeheuerlich.
+Dialoge: keine
+Kontinuität / Änderung: Eine kleine Nussschale zwischen zwei alten Männern, Käfig hinten.
+
+KACHEL 6: Noch mehr Kosten
+Ort und Zeit: Noch mehr Kosten
+Sichtbare Figuren: Zweiter geiziger Windecker, Erster geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei verschiedene Brüder, keine magisch anwachsenden Geldberge.
+Erzählertext: Der zweite rechnete sogar taube Nüsse und die Arbeit des Fütterns dazu.
+Dialoge: keine
+Kontinuität / Änderung: Zwei verschiedene Brüder, keine magisch anwachsenden Geldberge.
+
+KACHEL 7: Das Urteil
+Ort und Zeit: Das Urteil
+Sichtbare Figuren: Erster geiziger Windecker, Zweiter geiziger Windecker, Meise der Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hand des ersten Bruders an der noch geschlossenen Käfigtür.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster geiziger Windecker
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir können uns dieses Tier nicht weiter leisten.“
+Kontinuität / Änderung: Hand des ersten Bruders an der noch geschlossenen Käfigtür.
+
+KACHEL 8: Die offene Tür
+Ort und Zeit: Die offene Tür
+Sichtbare Figuren: Meise der Windecker, Erster geiziger Windecker, Zweiter geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Vogel mit zwei Flügeln im Flug, Käfig leer. Keine Vogelkopie noch auf der Stange.
+Erzählertext: Sie ließen die Meise frei.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Vogel mit zwei Flügeln im Flug, Käfig leer. Keine Vogelkopie noch auf der Stange.
+
+KACHEL 9: Das unüberwindliche Minus
+Ort und Zeit: Das unüberwindliche Minus
+Sichtbare Figuren: Erster geiziger Windecker, Zweiter geiziger Windecker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Brüder neben voller geschlossener Truhe und leerem Käfig.
+Erzählertext: Nicht Armut quälte sie, sondern der Gedanke an früher ausgegebene Nüsse.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Brüder neben voller geschlossener Truhe und leerem Käfig.
+
+KACHEL 10: Der letzte Verlust
+Ort und Zeit: Der letzte Verlust
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei leere Stühle, geschlossene Geldtruhe und offener leerer Käfig im stillen Raum.
+Erzählertext: In der Sage starben beide am Gram über ihre vermeintliche Verschwendung. Ihr Geld blieb; die lebendige Bindung hatten sie selbst fortgeschickt.
+Dialoge: keine
+Kontinuität / Änderung: Zwei leere Stühle, geschlossene Geldtruhe und offener leerer Käfig im stillen Raum.

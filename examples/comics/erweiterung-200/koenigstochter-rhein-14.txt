@@ -1,0 +1,152 @@
+TITEL: Die Königstochter vom Rhein – Zwei Spuren
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Königssohn am Rhein
+Aussehen: Junger erwachsener Mann mit braunem kurzen Haar.
+Kleidung: Blauer Reisemantel, graue Hose, Stiefel; genau ein Schwert in linker Scheide.
+Persönlichkeit und Vorgeschichte: Erkennt seine entführte Schwester; seine Gewalttat wird ohne Verherrlichung erzählt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Verlorene Königstochter vom Rhein
+Aussehen: Weibliche Identität, braune Augen und kleines Muttermal links am Hals; zuerst Säugling, später erwachsene Frau.
+Kleidung: Als Erwachsene schlichtes grünes Arbeitskleid, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Wurde mit ihrer Badewanne entführt und als Dienstmagd aufgezogen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wirtin der Rheinsage
+Aussehen: Ältere erwachsene Frau mit grauem Haar und breitem Gesicht.
+Kleidung: Braunes Kleid, graue Schürze.
+Persönlichkeit und Vorgeschichte: Einzelne Entführerin der Erzählung; ohne ethnische Zuschreibung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königin der verlorenen Tochter
+Aussehen: Ältere Frau mit graubraunem Haar.
+Kleidung: Dunkelrotes Kleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Hat ihre Tochter jahrelang vermisst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Im Rosengarten
+Ort und Zeit: Im Rosengarten
+Sichtbare Figuren: Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein vollständig mit Tuch bedecktes Baby in kleiner Holzwanne mit Wappenschild, keine Nacktheit.
+Erzählertext: Auf einer Rheininsel wurde eine Königstochter mit ihrer Badewanne entführt.
+Dialoge: keine
+Kontinuität / Änderung: Ein vollständig mit Tuch bedecktes Baby in kleiner Holzwanne mit Wappenschild, keine Nacktheit.
+
+KACHEL 2: Über den Fluss
+Ort und Zeit: Über den Fluss
+Sichtbare Figuren: Wirtin der Rheinsage, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau mit der einen gesicherten Holzwanne in einem Kahn, niemand am anderen Ufer weiß davon.
+Erzählertext: Die Entführerin brachte das Kind über den Rhein. Niemand fand seine Spur.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau mit der einen gesicherten Holzwanne in einem Kahn, niemand am anderen Ufer weiß davon.
+
+KACHEL 3: Die verlorenen Jahre
+Ort und Zeit: Die verlorenen Jahre
+Sichtbare Figuren: Königin der verlorenen Tochter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königin im stillen Zimmer, kein Leichnam und kein zurückgekehrtes Kind.
+Erzählertext: Der Vater starb vor Kummer. Die Mutter blieb mit dem Verlust zurück.
+Dialoge: keine
+Kontinuität / Änderung: Königin im stillen Zimmer, kein Leichnam und kein zurückgekehrtes Kind.
+
+KACHEL 4: Achtzehn Jahre später
+Ort und Zeit: Achtzehn Jahre später
+Sichtbare Figuren: Königssohn am Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Reiter vor dem Waldwirtshaus, ein Schwertgriff an linker Hüfte, keine gezogene Klinge.
+Erzählertext: Achtzehn Jahre später kehrte der Königssohn auf einer Reise im Wirtshaus ein.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Reiter vor dem Waldwirtshaus, ein Schwertgriff an linker Hüfte, keine gezogene Klinge.
+
+KACHEL 5: Die Dienerin
+Ort und Zeit: Die Dienerin
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Prinz ausdrücklich abgestiegen in der Gaststube, erwachsene Dienerin links, beide erwachsen.
+Erzählertext: Die junge Frau bereitete ihm ein Fußbad in einer alten kleinen Wanne.
+Dialoge: keine
+Kontinuität / Änderung: Prinz ausdrücklich abgestiegen in der Gaststube, erwachsene Dienerin links, beide erwachsen.
+
+KACHEL 6: Das Wappen
+Ort und Zeit: Das Wappen
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wappenschild an derselben Holzwanne deutlich als einfacher Schild gezeichnet; Prinzenhände leer.
+Erzählertext: Der Reisende erkannte das Wappen seiner Familie. Wie kam diese Wanne hierher?
+Dialoge: keine
+Kontinuität / Änderung: Wappenschild an derselben Holzwanne deutlich als einfacher Schild gezeichnet; Prinzenhände leer.
+
+KACHEL 7: Die erste Erklärung
+Ort und Zeit: Die erste Erklärung
+Sichtbare Figuren: Wirtin der Rheinsage, Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wirtin rechts spricht, junge Frau links hört zu.
+Erzählertext: Die Wirtin behauptete, sie habe vor Jahren ein Findelkind aufgenommen.
+Dialoge: keine
+Kontinuität / Änderung: Wirtin rechts spricht, junge Frau links hört zu.
+
+KACHEL 8: Die zweite Spur
+Ort und Zeit: Die zweite Spur
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleines Muttermal links am Hals oberhalb des geschlossenen Kleids. Kein entkleideter Körper.
+Erzählertext: Seine Mutter hatte von einem Mal am Hals der verlorenen Schwester erzählt. Auch dieses Zeichen stimmte.
+Dialoge: keine
+Kontinuität / Änderung: Kleines Muttermal links am Hals oberhalb des geschlossenen Kleids. Kein entkleideter Körper.
+
+KACHEL 9: Die erkannte Schwester
+Ort und Zeit: Die erkannte Schwester
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf Augenhöhe, ein vorsichtiges Berühren der Hände. Kein Liebeskuss.
+Erzählertext: Wanne und Mal zusammen ließen ihn seine Schwester erkennen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene auf Augenhöhe, ein vorsichtiges Berühren der Hände. Kein Liebeskuss.
+
+KACHEL 10: Das Geständnis
+Ort und Zeit: Das Geständnis
+Sichtbare Figuren: Wirtin der Rheinsage, Königssohn am Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kniende Wirtin vor dem stehenden Mann, dessen einziges Schwert noch in linker Scheide steckt.
+Erzählertext: Die Wirtin gestand den Raub. Der Bruder tötete sie anschließend – eine grausame Tat dieser Sage, kein Vorbild.
+Dialoge: keine
+Kontinuität / Änderung: Kniende Wirtin vor dem stehenden Mann, dessen einziges Schwert noch in linker Scheide steckt.
+
+KACHEL 11: Nach der Gewalttat
+Ort und Zeit: Nach der Gewalttat
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor dem Wirtshaus; seine Klinge ausdrücklich wieder in linker Scheide, kein Körper der Wirtin sichtbar.
+Erzählertext: Er nahm seine Schwester und die Wanne mit. Die Erkennung war nicht ohne neues Unrecht geblieben.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene vor dem Wirtshaus; seine Klinge ausdrücklich wieder in linker Scheide, kein Körper der Wirtin sichtbar.
+
+KACHEL 12: Die Heimkehr
+Ort und Zeit: Die Heimkehr
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Seitlicher enger Ausschnitt auf ein kräftiges Pferd mit zwei erwachsenen Reitenden, Schwester hält die kleine leere Wanne quer vor sich. Keine dritte Person.
+Erzählertext: Gemeinsam ritten sie zur Mutter nach Worms.
+Dialoge: keine
+Kontinuität / Änderung: Seitlicher enger Ausschnitt auf ein kräftiges Pferd mit zwei erwachsenen Reitenden, Schwester hält die kleine leere Wanne quer vor sich. Keine dritte Person.
+
+KACHEL 13: Vor der Mutter
+Ort und Zeit: Vor der Mutter
+Sichtbare Figuren: Königssohn am Rhein, Verlorene Königstochter vom Rhein, Königin der verlorenen Tochter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle drei ausdrücklich abgestiegen im Burghof, Pferd außerhalb. Mutter schaut erstaunt auf Wanne und Tochter.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Königssohn am Rhein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Es ist deine verlorene Tochter.“
+Kontinuität / Änderung: Alle drei ausdrücklich abgestiegen im Burghof, Pferd außerhalb. Mutter schaut erstaunt auf Wanne und Tochter.
+
+KACHEL 14: Die Wiedergefundene
+Ort und Zeit: Die Wiedergefundene
+Sichtbare Figuren: Königin der verlorenen Tochter, Verlorene Königstochter vom Rhein, Königssohn am Rhein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter nach ihrer Ohnmacht wieder wach auf einer Bank, Tochter hält ihre Hand, Wanne separat am Boden.
+Erzählertext: Als die Mutter wieder zu sich kam, waren beide Kinder bei ihr. Die Geschichte endet mit dem Wiederfinden, nicht mit dem ersten falschen Eindruck.
+Dialoge: keine
+Kontinuität / Änderung: Mutter nach ihrer Ohnmacht wieder wach auf einer Bank, Tochter hält ihre Hand, Wanne separat am Boden.

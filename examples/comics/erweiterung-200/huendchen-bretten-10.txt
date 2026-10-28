@@ -1,0 +1,109 @@
+TITEL: Das Hündchen von Bretten – Treue ohne Dank
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hündchen von Bretten
+Aussehen: Ein kleiner brauner Hund mit heller Schnauze, vier Pfoten und zunächst geringeltem Schwanz.
+Kleidung: Braunes Fell, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Bringt Einkäufe im Korb unberührt heim; stirbt nach einem grausamen Übergriff.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Besitzer des Brettener Hündchens
+Aussehen: Älterer Mann mit grauem Bart.
+Kleidung: Grüner Hausrock, graue Hose, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Vertraut dem Tier die Einkäufe an.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Metzgergeselle der Brettener Sage
+Aussehen: Erwachsener kräftiger Mann, dunkles kurzes Haar.
+Kleidung: Graues Hemd, dunkle Arbeitsschürze.
+Persönlichkeit und Vorgeschichte: Ein einzelner Täter aus konfessionellem Hass; keine Verallgemeinerung über eine Glaubensgemeinschaft.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der vertraute Dienst
+Ort und Zeit: Der vertraute Dienst
+Sichtbare Figuren: Hündchen von Bretten, Besitzer des Brettener Hündchens
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund mit einem Korbhenkel im Maul, Mann legt eingewickeltes Geld und Zettel in den Korb.
+Erzählertext: Das Hündchen holte Fleisch und Wurst. Geld und Bestellung trug es im Korb.
+Dialoge: keine
+Kontinuität / Änderung: Ein Hund mit einem Korbhenkel im Maul, Mann legt eingewickeltes Geld und Zettel in den Korb.
+
+KACHEL 2: Der Weg zum Laden
+Ort und Zeit: Der Weg zum Laden
+Sichtbare Figuren: Hündchen von Bretten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Hund allein auf einer ruhigen Gasse, geringelter Schwanz unverletzt.
+Erzählertext: Es kannte den Weg und brachte die Bestellung zuverlässig.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Hund allein auf einer ruhigen Gasse, geringelter Schwanz unverletzt.
+
+KACHEL 3: Unberührt nach Hause
+Ort und Zeit: Unberührt nach Hause
+Sichtbare Figuren: Hündchen von Bretten, Besitzer des Brettener Hündchens
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Korb mit eingewickeltem Einkauf am Boden, Hund daneben ohne Nahrung im Maul.
+Erzählertext: Keinen Bissen nahm es selbst. Sein Besitzer konnte ihm vertrauen.
+Dialoge: keine
+Kontinuität / Änderung: Korb mit eingewickeltem Einkauf am Boden, Hund daneben ohne Nahrung im Maul.
+
+KACHEL 4: Ein neuer Geselle
+Ort und Zeit: Ein neuer Geselle
+Sichtbare Figuren: Metzgergeselle der Brettener Sage, Hündchen von Bretten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geselle rechts, Hund links mit Korbhenkel, keine erhobene Klinge.
+Erzählertext: Dann kam ein neuer Geselle. Sein konfessioneller Hass richtete sich gegen den Besitzer.
+Dialoge: keine
+Kontinuität / Änderung: Geselle rechts, Hund links mit Korbhenkel, keine erhobene Klinge.
+
+KACHEL 5: Der Freitag
+Ort und Zeit: Der Freitag
+Sichtbare Figuren: Hündchen von Bretten, Metzgergeselle der Brettener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Laden, ein Hund und ein Geselle getrennt durch die Theke.
+Erzählertext: Dass der Mann am Freitag Fleisch bestellte, nahm er zum Anlass für Grausamkeit.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Laden, ein Hund und ein Geselle getrennt durch die Theke.
+
+KACHEL 6: Die Tat bleibt verborgen
+Ort und Zeit: Die Tat bleibt verborgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Ladentür von außen, Korbschatten auf dem Boden, keine Verletzung oder Körperteile sichtbar.
+Erzählertext: Der Geselle verletzte den Hund schwer und legte dessen abgeschnittenen Schwanz in den Korb. Die Gewalt trifft hier ein völlig unschuldiges Tier.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossene Ladentür von außen, Korbschatten auf dem Boden, keine Verletzung oder Körperteile sichtbar.
+
+KACHEL 7: Der letzte Heimweg
+Ort und Zeit: Der letzte Heimweg
+Sichtbare Figuren: Hündchen von Bretten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hund von vorn schräg auf dem Heimweg, Hinterkörper durch Korb und Perspektive verdeckt, kein Blut.
+Erzählertext: Trotzdem brachte es den Korb nach Hause.
+Dialoge: keine
+Kontinuität / Änderung: Hund von vorn schräg auf dem Heimweg, Hinterkörper durch Korb und Perspektive verdeckt, kein Blut.
+
+KACHEL 8: Beim Besitzer
+Ort und Zeit: Beim Besitzer
+Sichtbare Figuren: Hündchen von Bretten, Besitzer des Brettener Hündchens
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund seitlich reglos, Korb mit geschlossenem Tuch daneben, Besitzer legt die leere Hand behutsam an seinen Rücken.
+Erzählertext: Vor seinem Besitzer brach es zusammen und starb.
+Dialoge: keine
+Kontinuität / Änderung: Ein Hund seitlich reglos, Korb mit geschlossenem Tuch daneben, Besitzer legt die leere Hand behutsam an seinen Rücken.
+
+KACHEL 9: Die Ausweisung
+Ort und Zeit: Die Ausweisung
+Sichtbare Figuren: Metzgergeselle der Brettener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geselle allein mit kleinem Bündel außerhalb, namenlose Erwachsene bleiben innen, kein Lynchmob.
+Erzählertext: Die Stadt war empört und wies den Täter aus.
+Dialoge: keine
+Kontinuität / Änderung: Geselle allein mit kleinem Bündel außerhalb, namenlose Erwachsene bleiben innen, kein Lynchmob.
+
+KACHEL 10: Die Erinnerung am Tor
+Ort und Zeit: Die Erinnerung am Tor
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein steinernes Hundebild ohne Schwanz über dem Tor, darüber ein Kranz. Kein lebendes zweites Hündchen.
+Erzählertext: Das Bild am Tor ehrte seine Treue. Es konnte das verlorene Leben nicht zurückbringen.
+Dialoge: keine
+Kontinuität / Änderung: Ein steinernes Hundebild ohne Schwanz über dem Tor, darüber ein Kranz. Kein lebendes zweites Hündchen.

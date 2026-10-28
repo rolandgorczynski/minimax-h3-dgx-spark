@@ -16,7 +16,9 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--data-dir',type=Path,default=Path('/home/jee/docker-data/comic-automation'))
     parser.add_argument('--source-file',type=Path,default=Path('/home/jee/docker-data/comic-sinnanalyse-redaktion/quellen.json'))
-    args=parser.parse_args();folder=ROOT/'examples/comics/erweiterung-100';authored=json.loads((folder/'Redaktion.json').read_text())
+    parser.add_argument('--folder',type=Path,default=ROOT/'examples/comics/erweiterung-100')
+    parser.add_argument('--namespace',default='comic-auswahl-100')
+    args=parser.parse_args();folder=args.folder;authored=json.loads((folder/'Redaktion.json').read_text())
     sources={x['id']:x for x in json.loads(args.source_file.read_text())};store=Store(args.data_dir);rows=[]
     for book in authored['geschichten']:
         source=sources[book['source']];plan=cached_plan(store,source['text']);basis=book['basis']
@@ -24,7 +26,7 @@ def main():
         if len(book['panels'])!=plan['recommended_count']:raise ValueError('Umfang weicht von Empfehlung ab: '+basis)
         cast={}
         for key,c in book['cast'].items():
-            cast[key]={**c,'id':uuid.uuid5(uuid.NAMESPACE_URL,'comic-auswahl-100/'+basis+'/'+key).hex,'aliases':[],'references':[],'variants':{},'alignment':''}
+            cast[key]={**c,'id':uuid.uuid5(uuid.NAMESPACE_URL,args.namespace+'/'+basis+'/'+key).hex,'aliases':[],'references':[],'variants':{},'alignment':''}
         scenes=[];register={}
         for number,panel in enumerate(book['panels'],1):
             if number%3==0 and not panel['narrator']:raise ValueError('Erzähler in jeder dritten Kachel fehlt: '+basis)
@@ -45,7 +47,7 @@ def main():
         payload={'article':source['text'],'planned_article':source['text'],'planned_count':len(scenes),'panel_count':len(scenes),
                  'scenes':scenes,'characters':list(cast.values()),'library_ids':[],'style':'Klassischer Comic','visual_style_pending':True,
                  'seed':1984,'count_policy':'editorial','narrative_plan':plan,'post_summary':book['summary'],'source_provenance':source,
-                 'book_author':'Sysop','editorial_script_id':basis+'-auswahl100-v1','script_needs_replan':False,
+                 'book_author':'Sysop','editorial_script_id':basis+('-auswahl100-v1' if args.namespace=='comic-auswahl-100' else '-'+args.namespace+'-v1'),'script_needs_replan':False,
                  'narration_policy':{'version':1,'narrator_every':3,'dialogue_and_narrator':'exclusive_per_panel','silent_panel':'narrator_only','authored_by':'Codex'},
                  'script_review':{'reviewed_by':'Codex','method':'Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf',
                                   'source_fidelity':True,'meaning_preserved':True,'count_matches_recommendation':True,'continuity_reviewed':True,

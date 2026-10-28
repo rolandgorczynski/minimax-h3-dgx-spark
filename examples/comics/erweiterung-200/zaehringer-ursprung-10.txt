@@ -1,0 +1,113 @@
+TITEL: Der Zähringer Ursprung – Silber aus dem Meiler
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Köhler aus der Zähringersage
+Aussehen: Erwachsener kräftiger Mann, lockiges dunkles Haar, rußiges Gesicht.
+Kleidung: Braunes Leinenhemd, graue Hose, feste Schuhe.
+Persönlichkeit und Vorgeschichte: Findet Silber am Meiler und unterstützt den vertriebenen König.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Vertriebener König der Zähringersage
+Aussehen: Älterer Mann, schmaler grauer Bart.
+Kleidung: Abgetragener dunkelblauer Mantel, schlichte Tunika, Stiefel.
+Persönlichkeit und Vorgeschichte: Verspricht dem Helfer seiner Rückkehr Rang und Verbindung zur Familie.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Königstochter der Zähringersage
+Aussehen: Erwachsene Frau, brauner geflochtener Zopf.
+Kleidung: Grünes Wollkleid, helle Haube.
+Persönlichkeit und Vorgeschichte: Die überlieferte Heirat verbindet die Familien; keine erfundene Liebeserklärung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zuflucht am Berg
+Ort und Zeit: Zuflucht am Berg
+Sichtbare Figuren: Vertriebener König der Zähringersage, Königstochter der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einfaches Berglager, kleines Bündel und leere Schale; keine prächtige Hofhaltung.
+Erzählertext: Ein vertriebener König lebte mit Familie und Gesinde in Armut am Berg.
+Dialoge: keine
+Kontinuität / Änderung: Einfaches Berglager, kleines Bündel und leere Schale; keine prächtige Hofhaltung.
+
+KACHEL 2: Die Bekanntmachung
+Ort und Zeit: Die Bekanntmachung
+Sichtbare Figuren: Vertriebener König der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König spricht zu namenlosen Erwachsenen, offene leere Hände.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Vertriebener König der Zähringersage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wer mir zur Rückkehr hilft, soll Herzog werden.“
+Kontinuität / Änderung: König spricht zu namenlosen Erwachsenen, offene leere Hände.
+
+KACHEL 3: Im Meiler
+Ort und Zeit: Im Meiler
+Sichtbare Figuren: Köhler aus der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rußiger Köhler hält einen schweren hellen Metallklumpen über erkalteter Asche. Kein Feuer an bloßen Händen.
+Erzählertext: Hinter dem Zähringer Berg fand ein Köhler Silber in der Meilerstätte.
+Dialoge: keine
+Kontinuität / Änderung: Rußiger Köhler hält einen schweren hellen Metallklumpen über erkalteter Asche. Kein Feuer an bloßen Händen.
+
+KACHEL 4: Wieder Silber
+Ort und Zeit: Wieder Silber
+Sichtbare Figuren: Köhler aus der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere Silberklumpen in einem flachen Korb, derselbe Meiler daneben.
+Erzählertext: Auch bei späteren Meilern fand er Silber. Sein Vorrat wuchs.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere Silberklumpen in einem flachen Korb, derselbe Meiler daneben.
+
+KACHEL 5: Die Last
+Ort und Zeit: Die Last
+Sichtbare Figuren: Köhler aus der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Köhler zu Fuß am Bergpfad, ein Sack auf rechter Schulter, Königslager fern.
+Erzählertext: Als er die Bekanntmachung hörte, trug er einen Teil seines Schatzes zum König.
+Dialoge: keine
+Kontinuität / Änderung: Köhler zu Fuß am Bergpfad, ein Sack auf rechter Schulter, Königslager fern.
+
+KACHEL 6: Ein Angebot
+Ort und Zeit: Ein Angebot
+Sichtbare Figuren: Köhler aus der Zähringersage, Vertriebener König der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geöffneter Sack mit Silber zwischen den beiden, alle vier Hände leer.
+Erzählertext: Der Arbeiter bot dem Herrscher die Mittel an, die diesem fehlten.
+Dialoge: keine
+Kontinuität / Änderung: Geöffneter Sack mit Silber zwischen den beiden, alle vier Hände leer.
+
+KACHEL 7: Die Verbindung
+Ort und Zeit: Die Verbindung
+Sichtbare Figuren: Köhler aus der Zähringersage, Vertriebener König der Zähringersage, Königstochter der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene auf gleicher Bodenhöhe, kein kniender kleiner Köhler und keine Hochzeit als zweite Szene.
+Erzählertext: Der König nahm das Angebot an. Die Sage verbindet den Aufstieg mit Ritterschlag und Heirat.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene auf gleicher Bodenhöhe, kein kniender kleiner Köhler und keine Hochzeit als zweite Szene.
+
+KACHEL 8: Zähringen wächst
+Ort und Zeit: Zähringen wächst
+Sichtbare Figuren: Köhler aus der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Köhler nun im schlichten dunkelroten Rock, Bauleute hinter ihm an neuen Mauern.
+Erzählertext: Mit seinem Silber ließ er Burg und Ort Zähringen bauen.
+Dialoge: keine
+Kontinuität / Änderung: Köhler nun im schlichten dunkelroten Rock, Bauleute hinter ihm an neuen Mauern.
+
+KACHEL 9: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Vertriebener König der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe grau bärtige König im blauen Mantel vor einem Herrschaftsstuhl, keine Schlachtmontage.
+Erzählertext: Die Mittel seines neuen Verwandten halfen dem König, sein Reich zurückzugewinnen.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe grau bärtige König im blauen Mantel vor einem Herrschaftsstuhl, keine Schlachtmontage.
+
+KACHEL 10: Ein neuer Rang
+Ort und Zeit: Ein neuer Rang
+Sichtbare Figuren: Köhler aus der Zähringersage, Vertriebener König der Zähringersage, Königstochter der Zähringersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene vor Zähringen, keine zweite Krone über dem Köhler.
+Erzählertext: Der Köhler wurde Herzog. In dieser Ursprungssage hing die Macht des Königs von einem Mann am Meiler ab.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene vor Zähringen, keine zweite Krone über dem Köhler.

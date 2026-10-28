@@ -1,0 +1,148 @@
+TITEL: Die Totenglocken zu Speyer – Wer bei den Verstoßenen bleibt
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Heinrich IV. in der Speyerer Sage
+Aussehen: Älterer Mann mit langem grauem Bart und eingefallenen Wangen.
+Kleidung: Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.
+Persönlichkeit und Vorgeschichte: Verstoßener Herrscher, dessen Bestattung lange verhindert wird.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Heinrich V. in der Speyerer Sage
+Aussehen: Erwachsener Mann mit kurzem dunklem Bart.
+Kleidung: Dunkelroter Herrscherrock, goldener schmaler Kronreif.
+Persönlichkeit und Vorgeschichte: Sohn, dessen Verhältnis zum Vater in der Sage durch die Bestattungsfrage sichtbar wird.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Speyerer Bischof der Heinrichsage
+Aussehen: Älterer Mann mit grauem kurzem Bart.
+Kleidung: Helles geistliches Gewand.
+Persönlichkeit und Vorgeschichte: Verweigert die Aufnahme und später die Bestattung vor Lösung des Banns.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Unbekannter Mönch an der Maas
+Aussehen: Erwachsener Mann mit schmalem Gesicht und dunklem kurzem Bart.
+Kleidung: Schlichte braune Kutte, Sandalen.
+Persönlichkeit und Vorgeschichte: Leistet ohne Auftrag Beistand am verlassenen Sarg.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Bitte um Aufnahme
+Ort und Zeit: Die Bitte um Aufnahme
+Sichtbare Figuren: Heinrich IV. in der Speyerer Sage, Speyerer Bischof der Heinrichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Armer grau bärtiger Reisender links, Bischof rechts an geschlossener Tür.
+Erzählertext: Der entmachtete Heinrich IV. bat in Speyer um einen Platz bei den Chorherren.
+Dialoge: keine
+Kontinuität / Änderung: Armer grau bärtiger Reisender links, Bischof rechts an geschlossener Tür.
+
+KACHEL 2: Die Absage
+Ort und Zeit: Die Absage
+Sichtbare Figuren: Speyerer Bischof der Heinrichsage, Heinrich IV. in der Speyerer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer ohne Waffen, Tür weiter geschlossen.
+Erzählertext: Der Bischof verweigerte die Aufnahme. Der frühere Herrscher konnte nichts mehr stiften.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer ohne Waffen, Tür weiter geschlossen.
+
+KACHEL 3: Von dannen
+Ort und Zeit: Von dannen
+Sichtbare Figuren: Heinrich IV. in der Speyerer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mann von hinten, schlichter Mantel statt Krone, Speyer fern.
+Erzählertext: Heinrich zog fort. Was er früher für den Dom getan hatte, half ihm jetzt nicht.
+Dialoge: keine
+Kontinuität / Änderung: Ein älterer Mann von hinten, schlichter Mantel statt Krone, Speyer fern.
+
+KACHEL 4: Der Tod in Lüttich
+Ort und Zeit: Der Tod in Lüttich
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener schlichter Sarg in einem stillen Raum, keine sichtbare Leiche.
+Erzählertext: In Lüttich starb er arm und elend.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossener schlichter Sarg in einem stillen Raum, keine sichtbare Leiche.
+
+KACHEL 5: Die Glocken antworten
+Ort und Zeit: Die Glocken antworten
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere Domglocken in einem Turm, Stricke ohne menschliche Hand, Menschen klein unten am Platz.
+Erzählertext: Die Speyerer Sage lässt die Kaiserglocke von selbst beginnen. Die anderen stimmen ein.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere Domglocken in einem Turm, Stricke ohne menschliche Hand, Menschen klein unten am Platz.
+
+KACHEL 6: Die unbekannte Nachricht
+Ort und Zeit: Die unbekannte Nachricht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene auf dem Domplatz blicken fragend zum Turm, niemand mit einer bestätigten Todesnachricht.
+Erzählertext: Die Menschen deuteten das Läuten als Tod des Kaisers. Wo er gestorben war, wussten sie noch nicht.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene auf dem Domplatz blicken fragend zum Turm, niemand mit einer bestätigten Todesnachricht.
+
+KACHEL 7: Die erste Bestattung
+Ort und Zeit: Die erste Bestattung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg wird von namenlosen erwachsenen Trägern zu einem Lütticher Grabplatz gebracht.
+Erzählertext: Der Bischof in Lüttich ließ ihn mit Ehren bestatten.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossener Sarg wird von namenlosen erwachsenen Trägern zu einem Lütticher Grabplatz gebracht.
+
+KACHEL 8: Die Rücknahme
+Ort und Zeit: Die Rücknahme
+Sichtbare Figuren: Heinrich V. in der Speyerer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gekrönter Sohn rechts, Bote links mit geschlossenem Schreiben, keine ausgegrabene Leiche.
+Erzählertext: Heinrich V. ließ das rückgängig machen: Ein Gebannter sollte nicht in geweihter Erde liegen.
+Dialoge: keine
+Kontinuität / Änderung: Gekrönter Sohn rechts, Bote links mit geschlossenem Schreiben, keine ausgegrabene Leiche.
+
+KACHEL 9: Auf der Insel
+Ort und Zeit: Auf der Insel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg allein unter einfachem Wetterschutz auf einer Flussinsel.
+Erzählertext: Der Sarg wurde auf eine Maasinsel gestellt. Niemand sollte sich um ihn kümmern.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossener Sarg allein unter einfachem Wetterschutz auf einer Flussinsel.
+
+KACHEL 10: Der unbekannte Helfer
+Ort und Zeit: Der unbekannte Helfer
+Sichtbare Figuren: Unbekannter Mönch an der Maas
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mönch allein auf der Insel mit kleinem geöffnetem Buch, beide Hände am Buch.
+Erzählertext: Ein unbekannter Mönch fuhr hinüber, betete und hielt Totenmessen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mönch allein auf der Insel mit kleinem geöffnetem Buch, beide Hände am Buch.
+
+KACHEL 11: Die Überführung
+Ort und Zeit: Die Überführung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg auf einem bewachten Transportwagen, keine doppelte Inselbestattung im Hintergrund.
+Erzählertext: Als der Sohn davon hörte, ließ er die Gebeine nach Speyer bringen.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossener Sarg auf einem bewachten Transportwagen, keine doppelte Inselbestattung im Hintergrund.
+
+KACHEL 12: Fünf Jahre
+Ort und Zeit: Fünf Jahre
+Sichtbare Figuren: Speyerer Bischof der Heinrichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof vor St. Afras Kapelle, darin ein einziger geschlossener Sarg. Keine Beisetzung schon im Chor.
+Erzählertext: Doch der Bann blieb. Fünf Jahre stand der Sarg in der Kapelle, ehe die Bestattung im Dom möglich wurde.
+Dialoge: keine
+Kontinuität / Änderung: Bischof vor St. Afras Kapelle, darin ein einziger geschlossener Sarg. Keine Beisetzung schon im Chor.
+
+KACHEL 13: Später auch der Sohn
+Ort und Zeit: Später auch der Sohn
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines einzelnes Glöcklein im Turm, große Glocken daneben still.
+Erzählertext: Auch der Sohn starb später. Ihm widmet die Sage nur das schrille Läuten eines kleinen Glöckleins.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleines einzelnes Glöcklein im Turm, große Glocken daneben still.
+
+KACHEL 14: Die andere Treue
+Ort und Zeit: Die andere Treue
+Sichtbare Figuren: Unbekannter Mönch an der Maas
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges einzelnes Erinnerungsbild des Mönchs am Fluss, kein gleichzeitiger Hof oder neuer Todesfall.
+Erzählertext: Ämter und Macht wechselten. Der unaufgeforderte Beistand am Sarg blieb das menschlichere Maß.
+Dialoge: keine
+Kontinuität / Änderung: Ruhiges einzelnes Erinnerungsbild des Mönchs am Fluss, kein gleichzeitiger Hof oder neuer Todesfall.

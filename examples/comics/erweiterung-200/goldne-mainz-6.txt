@@ -1,0 +1,63 @@
+TITEL: Das goldne Mainz – Was wirklich glänzt
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bonifatius im Mainzer Spruch
+Aussehen: Älterer erwachsener Mann mit kurzem grauem Bart.
+Kleidung: Schlichtes helles geistliches Gewand.
+Persönlichkeit und Vorgeschichte: Träger eines überlieferten kritischen Spruchs, keine wörtlich belegte Gesprächsszene.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die goldene Stadt
+Ort und Zeit: Die goldene Stadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Historische Stadtansicht am Zusammenfluss zweier Ströme, Dächer im warmen Licht. Keine ausgeschriebene Stadtlegende.
+Erzählertext: Mainz wurde golden genannt. Die Überlieferung verbindet den Namen mit der reichen und mächtigen Stadt.
+Dialoge: keine
+Kontinuität / Änderung: Historische Stadtansicht am Zusammenfluss zweier Ströme, Dächer im warmen Licht. Keine ausgeschriebene Stadtlegende.
+
+KACHEL 2: Die alten Spuren
+Ort und Zeit: Die alten Spuren
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Römische Mauerreste am Rand einer später bebauten Stadt, keine gleichzeitig lebenden Römer.
+Erzählertext: Ältere Bauten blieben sichtbar, während neue Macht entstand.
+Dialoge: keine
+Kontinuität / Änderung: Römische Mauerreste am Rand einer später bebauten Stadt, keine gleichzeitig lebenden Römer.
+
+KACHEL 3: Das bedeutende Amt
+Ort und Zeit: Das bedeutende Amt
+Sichtbare Figuren: Bonifatius im Mainzer Spruch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Geistlicher ohne goldenen Prunksessel, Hände leer vor einfachem Altar.
+Erzählertext: Die Erzählung verbindet Bonifatius mit dem Aufstieg des Mainzer Bischofsamts.
+Dialoge: keine
+Kontinuität / Änderung: Ein Geistlicher ohne goldenen Prunksessel, Hände leer vor einfachem Altar.
+
+KACHEL 4: Der äußere Glanz
+Ort und Zeit: Der äußere Glanz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner goldener Kelch auf reich verziertem Altar, keine Wundertätigkeit sichtbar.
+Erzählertext: Doch wachsende Pracht bedeutete nicht notwendig wachsende innere Qualität.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner goldener Kelch auf reich verziertem Altar, keine Wundertätigkeit sichtbar.
+
+KACHEL 5: Der überlieferte Gegensatz
+Ort und Zeit: Der überlieferte Gegensatz
+Sichtbare Figuren: Bonifatius im Mainzer Spruch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geistlicher betrachtet Holzkelch auf schlichter Tischplatte, keine buchstäblich hölzernen Menschen.
+Erzählertext: Ein Spruch stellt gute Priester mit hölzernen Kelchen gegen schlechte Priester mit goldenen Kelchen.
+Dialoge: keine
+Kontinuität / Änderung: Geistlicher betrachtet Holzkelch auf schlichter Tischplatte, keine buchstäblich hölzernen Menschen.
+
+KACHEL 6: Das bleibende Maß
+Ort und Zeit: Das bleibende Maß
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schlichter leerer Holzkelch im Tageslicht, kein magisch glühendes Gold.
+Erzählertext: Kostbares Gerät ersetzt keine gute Haltung. Diese Frage blieb nicht auf Mainz beschränkt.
+Dialoge: keine
+Kontinuität / Änderung: Ein schlichter leerer Holzkelch im Tageslicht, kein magisch glühendes Gold.

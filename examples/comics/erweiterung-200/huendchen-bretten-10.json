@@ -1,0 +1,507 @@
+{
+  "mode": "editorial",
+  "name": "Das Hündchen von Bretten – Treue ohne Dank · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Das Hündchen von Bretten. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 39.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDir geschieht wie dem Hündchen von Bretten! sagen die Leute in der Rheinpfalz. Damit deuten sie auf ein Wahrzeichen des Städtleins Bretten hin und bezeichnen mit dem Spruch den Empfang des bekannten Teufelsdankes für gehaltene Treue. Zu Bretten war ein Mann, der hatte ein treues frommes Hündchen, das hatte er mit Fleiß abgerichtet zu allerlei Dienst und Kunststück, insonderheit brauchte er es zum Fleischholen. In einem Körbchen, darin eingewickelt das Geld lag und auf einem Zettel stand, was es bringen sollte, holte es beim Metzger Wurst und Fleisch, rührte davon nie einen Bissen an, so brachte es dem Metzger viele viele Kreuzer ins Haus. Da fügte sich's, daß der Metzger einen Gesellen bekam, der war katholisch, der Mann aber, dem das Hündlein zugehörte, war evangelisch und sandte es auch am Freitag zum Metzger, daß es, wie gewohnt, sein Fleisch oder seine Wurst hole. Solches verdroß den Metzgergesellen, und er sagte: Warte, Ketzer, ich will dir den dir gehörigen Schlünker schicken, nahm das Hündlein, hackte ihm auf dem Bloch das geringelte Schwänzchen grausam ab und legt's in den Korb. Das arme Tier faßte den Korb, lief blutend nach Hause, stellte den Korb vor seinen Herrn, legte sich hin, winselte, streckte alle Viere von sich und starb.\n\nDie ganze Stadt Bretten war entrüstet über solch ungetreue Tat, der Gesell wurde alsobald ausgewiesen und des Hündleins Bild ohne Schwanz in Stein gehauen und übers Stadttor gesetzt, darüber ein Kranz, den Lohn der Treue anzudeuten. Dieses ist das Wahrzeichen von Bretten, in welcher kleinen Stadt der große Philippus Melanchthon geboren wurde.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Das Hündchen von Bretten. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 39.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDir geschieht wie dem Hündchen von Bretten! sagen die Leute in der Rheinpfalz. Damit deuten sie auf ein Wahrzeichen des Städtleins Bretten hin und bezeichnen mit dem Spruch den Empfang des bekannten Teufelsdankes für gehaltene Treue. Zu Bretten war ein Mann, der hatte ein treues frommes Hündchen, das hatte er mit Fleiß abgerichtet zu allerlei Dienst und Kunststück, insonderheit brauchte er es zum Fleischholen. In einem Körbchen, darin eingewickelt das Geld lag und auf einem Zettel stand, was es bringen sollte, holte es beim Metzger Wurst und Fleisch, rührte davon nie einen Bissen an, so brachte es dem Metzger viele viele Kreuzer ins Haus. Da fügte sich's, daß der Metzger einen Gesellen bekam, der war katholisch, der Mann aber, dem das Hündlein zugehörte, war evangelisch und sandte es auch am Freitag zum Metzger, daß es, wie gewohnt, sein Fleisch oder seine Wurst hole. Solches verdroß den Metzgergesellen, und er sagte: Warte, Ketzer, ich will dir den dir gehörigen Schlünker schicken, nahm das Hündlein, hackte ihm auf dem Bloch das geringelte Schwänzchen grausam ab und legt's in den Korb. Das arme Tier faßte den Korb, lief blutend nach Hause, stellte den Korb vor seinen Herrn, legte sich hin, winselte, streckte alle Viere von sich und starb.\n\nDie ganze Stadt Bretten war entrüstet über solch ungetreue Tat, der Gesell wurde alsobald ausgewiesen und des Hündleins Bild ohne Schwanz in Stein gehauen und übers Stadttor gesetzt, darüber ein Kranz, den Lohn der Treue anzudeuten. Dieses ist das Wahrzeichen von Bretten, in welcher kleinen Stadt der große Philippus Melanchthon geboren wurde.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Der vertraute Dienst",
+        "setting": "Der vertraute Dienst",
+        "characters": [
+          "14bb993086f452509995dd42f33e0890",
+          "c1f2de5ad2ee528e84f2aae6f2a43b76"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund mit einem Korbhenkel im Maul, Mann legt eingewickeltes Geld und Zettel in den Korb.",
+        "dialog": "Das Hündchen holte Fleisch und Wurst. Geld und Bestellung trug es im Korb.",
+        "bubbles": [],
+        "character_states": {
+          "14bb993086f452509995dd42f33e0890": "steht mit einem Körbchen vor dem Besitzer; Braunes Fell, keine Kleidung.; Lebenszustand: lebend",
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": "steht an der Haustür; Grüner Hausrock, graue Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Hund mit einem Korbhenkel im Maul, Mann legt eingewickeltes Geld und Zettel in den Korb.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Der vertraute Dienst",
+            "posture": "steht mit einem Körbchen vor dem Besitzer"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Der vertraute Dienst",
+            "posture": "steht an der Haustür"
+          }
+        }
+      },
+      {
+        "heading": "Der Weg zum Laden",
+        "setting": "Der Weg zum Laden",
+        "characters": [
+          "14bb993086f452509995dd42f33e0890"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Hund allein auf einer ruhigen Gasse, geringelter Schwanz unverletzt.",
+        "dialog": "Es kannte den Weg und brachte die Bestellung zuverlässig.",
+        "bubbles": [],
+        "character_states": {
+          "14bb993086f452509995dd42f33e0890": "geht mit demselben Korb; Braunes Fell, keine Kleidung.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein kleiner Hund allein auf einer ruhigen Gasse, geringelter Schwanz unverletzt.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Der Weg zum Laden",
+            "posture": "geht mit demselben Korb"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Der vertraute Dienst",
+            "posture": "steht an der Haustür"
+          }
+        }
+      },
+      {
+        "heading": "Unberührt nach Hause",
+        "setting": "Unberührt nach Hause",
+        "characters": [
+          "14bb993086f452509995dd42f33e0890",
+          "c1f2de5ad2ee528e84f2aae6f2a43b76"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Korb mit eingewickeltem Einkauf am Boden, Hund daneben ohne Nahrung im Maul.",
+        "dialog": "Keinen Bissen nahm es selbst. Sein Besitzer konnte ihm vertrauen.",
+        "bubbles": [],
+        "character_states": {
+          "14bb993086f452509995dd42f33e0890": "stellt den gefüllten Korb ab; Braunes Fell, keine Kleidung.; Lebenszustand: lebend",
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": "steht daneben; Grüner Hausrock, graue Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Korb mit eingewickeltem Einkauf am Boden, Hund daneben ohne Nahrung im Maul.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Unberührt nach Hause",
+            "posture": "stellt den gefüllten Korb ab"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Unberührt nach Hause",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "Ein neuer Geselle",
+        "setting": "Ein neuer Geselle",
+        "characters": [
+          "06263a5cab9f54bb930452a3cb4cda69",
+          "14bb993086f452509995dd42f33e0890"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geselle rechts, Hund links mit Korbhenkel, keine erhobene Klinge.",
+        "dialog": "Dann kam ein neuer Geselle. Sein konfessioneller Hass richtete sich gegen den Besitzer.",
+        "bubbles": [],
+        "character_states": {
+          "06263a5cab9f54bb930452a3cb4cda69": "steht hinter der Ladentheke; Graues Hemd, dunkle Arbeitsschürze.; Lebenszustand: lebend",
+          "14bb993086f452509995dd42f33e0890": "steht vor der Theke; Braunes Fell, keine Kleidung.; Lebenszustand: lebend"
+        },
+        "continuity": "Geselle rechts, Hund links mit Korbhenkel, keine erhobene Klinge.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Ein neuer Geselle",
+            "posture": "steht vor der Theke"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Unberührt nach Hause",
+            "posture": "steht daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Ein neuer Geselle",
+            "posture": "steht hinter der Ladentheke"
+          }
+        }
+      },
+      {
+        "heading": "Der Freitag",
+        "setting": "Der Freitag",
+        "characters": [
+          "14bb993086f452509995dd42f33e0890",
+          "06263a5cab9f54bb930452a3cb4cda69"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Laden, ein Hund und ein Geselle getrennt durch die Theke.",
+        "dialog": "Dass der Mann am Freitag Fleisch bestellte, nahm er zum Anlass für Grausamkeit.",
+        "bubbles": [],
+        "character_states": {
+          "14bb993086f452509995dd42f33e0890": "steht wieder mit dem Korb; Braunes Fell, keine Kleidung.; Lebenszustand: lebend",
+          "06263a5cab9f54bb930452a3cb4cda69": "blickt finster auf das Tier; Graues Hemd, dunkle Arbeitsschürze.; Lebenszustand: lebend"
+        },
+        "continuity": "Derselbe Laden, ein Hund und ein Geselle getrennt durch die Theke.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Der Freitag",
+            "posture": "steht wieder mit dem Korb"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Unberührt nach Hause",
+            "posture": "steht daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Der Freitag",
+            "posture": "blickt finster auf das Tier"
+          }
+        }
+      },
+      {
+        "heading": "Die Tat bleibt verborgen",
+        "setting": "Die Tat bleibt verborgen",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Ladentür von außen, Korbschatten auf dem Boden, keine Verletzung oder Körperteile sichtbar.",
+        "dialog": "Der Geselle verletzte den Hund schwer und legte dessen abgeschnittenen Schwanz in den Korb. Die Gewalt trifft hier ein völlig unschuldiges Tier.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Geschlossene Ladentür von außen, Korbschatten auf dem Boden, keine Verletzung oder Körperteile sichtbar.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Der Freitag",
+            "posture": "steht wieder mit dem Korb"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Unberührt nach Hause",
+            "posture": "steht daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Der Freitag",
+            "posture": "blickt finster auf das Tier"
+          }
+        }
+      },
+      {
+        "heading": "Der letzte Heimweg",
+        "setting": "Der letzte Heimweg",
+        "characters": [
+          "14bb993086f452509995dd42f33e0890"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hund von vorn schräg auf dem Heimweg, Hinterkörper durch Korb und Perspektive verdeckt, kein Blut.",
+        "dialog": "Trotzdem brachte es den Korb nach Hause.",
+        "bubbles": [],
+        "character_states": {
+          "14bb993086f452509995dd42f33e0890": "geht mühsam mit dem Korb; Braunes Fell, keine Kleidung.; Lebenszustand: lebend"
+        },
+        "continuity": "Hund von vorn schräg auf dem Heimweg, Hinterkörper durch Korb und Perspektive verdeckt, kein Blut.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "Schwanz fehlt nach schwerem Übergriff; keine offene Wunde",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Der letzte Heimweg",
+            "posture": "geht mühsam mit dem Korb"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Unberührt nach Hause",
+            "posture": "steht daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Der Freitag",
+            "posture": "blickt finster auf das Tier"
+          }
+        }
+      },
+      {
+        "heading": "Beim Besitzer",
+        "setting": "Beim Besitzer",
+        "characters": [
+          "14bb993086f452509995dd42f33e0890",
+          "c1f2de5ad2ee528e84f2aae6f2a43b76"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund seitlich reglos, Korb mit geschlossenem Tuch daneben, Besitzer legt die leere Hand behutsam an seinen Rücken.",
+        "dialog": "Vor seinem Besitzer brach es zusammen und starb.",
+        "bubbles": [],
+        "character_states": {
+          "14bb993086f452509995dd42f33e0890": "liegt reglos beim abgelegten Korb; Braunes Fell, keine Kleidung.; Lebenszustand: tot",
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": "kniet daneben; Grüner Hausrock, graue Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Hund seitlich reglos, Korb mit geschlossenem Tuch daneben, Besitzer legt die leere Hand behutsam an seinen Rücken.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot",
+            "injury": "Schwanz fehlt nach schwerem Übergriff; keine offene Wunde",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Beim Besitzer",
+            "posture": "reglos am Boden"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Beim Besitzer",
+            "posture": "kniet daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Der Freitag",
+            "posture": "blickt finster auf das Tier"
+          }
+        }
+      },
+      {
+        "heading": "Die Ausweisung",
+        "setting": "Die Ausweisung",
+        "characters": [
+          "06263a5cab9f54bb930452a3cb4cda69"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geselle allein mit kleinem Bündel außerhalb, namenlose Erwachsene bleiben innen, kein Lynchmob.",
+        "dialog": "Die Stadt war empört und wies den Täter aus.",
+        "bubbles": [],
+        "character_states": {
+          "06263a5cab9f54bb930452a3cb4cda69": "geht allein durch das Stadttor; Graues Hemd, dunkle Arbeitsschürze.; Lebenszustand: lebend"
+        },
+        "continuity": "Geselle allein mit kleinem Bündel außerhalb, namenlose Erwachsene bleiben innen, kein Lynchmob.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot",
+            "injury": "Schwanz fehlt nach schwerem Übergriff; keine offene Wunde",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Beim Besitzer",
+            "posture": "reglos am Boden"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Beim Besitzer",
+            "posture": "kniet daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Die Ausweisung",
+            "posture": "geht allein durch das Stadttor"
+          }
+        }
+      },
+      {
+        "heading": "Die Erinnerung am Tor",
+        "setting": "Die Erinnerung am Tor",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein steinernes Hundebild ohne Schwanz über dem Tor, darüber ein Kranz. Kein lebendes zweites Hündchen.",
+        "dialog": "Das Bild am Tor ehrte seine Treue. Es konnte das verlorene Leben nicht zurückbringen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein steinernes Hundebild ohne Schwanz über dem Tor, darüber ein Kranz. Kein lebendes zweites Hündchen.",
+        "continuity_state": {
+          "14bb993086f452509995dd42f33e0890": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot",
+            "injury": "Schwanz fehlt nach schwerem Übergriff; keine offene Wunde",
+            "clothing": "Braunes Fell, keine Kleidung.",
+            "location": "Beim Besitzer",
+            "posture": "reglos am Boden"
+          },
+          "c1f2de5ad2ee528e84f2aae6f2a43b76": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grüner Hausrock, graue Hose, braune Schuhe.",
+            "location": "Beim Besitzer",
+            "posture": "kniet daneben"
+          },
+          "06263a5cab9f54bb930452a3cb4cda69": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, dunkle Arbeitsschürze.",
+            "location": "Die Ausweisung",
+            "posture": "geht allein durch das Stadttor"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Hündchen von Bretten",
+        "description": "Ein kleiner brauner Hund mit heller Schnauze, vier Pfoten und zunächst geringeltem Schwanz.",
+        "outfit": "Braunes Fell, keine Kleidung.",
+        "backstory": "Bringt Einkäufe im Korb unberührt heim; stirbt nach einem grausamen Übergriff.",
+        "id": "14bb993086f452509995dd42f33e0890",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Besitzer des Brettener Hündchens",
+        "description": "Älterer Mann mit grauem Bart.",
+        "outfit": "Grüner Hausrock, graue Hose, braune Schuhe.",
+        "backstory": "Vertraut dem Tier die Einkäufe an.",
+        "id": "c1f2de5ad2ee528e84f2aae6f2a43b76",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Metzgergeselle der Brettener Sage",
+        "description": "Erwachsener kräftiger Mann, dunkles kurzes Haar.",
+        "outfit": "Graues Hemd, dunkle Arbeitsschürze.",
+        "backstory": "Ein einzelner Täter aus konfessionellem Hass; keine Verallgemeinerung über eine Glaubensgemeinschaft.",
+        "id": "06263a5cab9f54bb930452a3cb4cda69",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wen trifft Feindseligkeit, wenn sie stellvertretend an Wehrlosen ausgelassen wird?",
+      "core": "Konfessioneller Hass kann sich gegen ein völlig unschuldiges und treues Wesen richten. Die öffentliche Ehrung bewahrt dessen Würde, kann den erlittenen Verlust aber nicht rückgängig machen.",
+      "ending": "Der Hund stirbt; der Täter wird ausgewiesen, und ein Bild erinnert an die Treue.",
+      "reason": "Verlässlicher Dienst, fehlgeleitete Feindseligkeit und öffentlicher Widerspruch genügen; die Verletzung nicht ausstellen.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Die ganze Stadt Bretten war entrüstet über solch ungetreue Tat",
+          "meaning": "Die Gemeinschaft weist die einzelne grausame Handlung zurück; daraus folgt kein Urteil über eine ganze Konfession."
+        }
+      ],
+      "causal_chain": [
+        "Die ganze Stadt Bretten war entrüstet über solch ungetreue Tat",
+        "Der Hund stirbt; der Täter wird ausgewiesen, und ein Bild erinnert an die Treue."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "7a0685b5130273c1a0e9c773848d276c84b8db9657b962951ebcfb11b5c157f3",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.853607+00:00"
+    },
+    "post_summary": "Ein Hund erfüllt zuverlässig seine Aufgabe. Der Hass eines Menschen trifft das unschuldige Tier; die Stadt bewahrt seine Erinnerung.",
+    "source_provenance": {
+      "title": "Das Hündchen von Bretten",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 39.",
+      "url": "https://textgridrep.org/browse/kdx5.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Das Hündchen von Bretten. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 39.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDir geschieht wie dem Hündchen von Bretten! sagen die Leute in der Rheinpfalz. Damit deuten sie auf ein Wahrzeichen des Städtleins Bretten hin und bezeichnen mit dem Spruch den Empfang des bekannten Teufelsdankes für gehaltene Treue. Zu Bretten war ein Mann, der hatte ein treues frommes Hündchen, das hatte er mit Fleiß abgerichtet zu allerlei Dienst und Kunststück, insonderheit brauchte er es zum Fleischholen. In einem Körbchen, darin eingewickelt das Geld lag und auf einem Zettel stand, was es bringen sollte, holte es beim Metzger Wurst und Fleisch, rührte davon nie einen Bissen an, so brachte es dem Metzger viele viele Kreuzer ins Haus. Da fügte sich's, daß der Metzger einen Gesellen bekam, der war katholisch, der Mann aber, dem das Hündlein zugehörte, war evangelisch und sandte es auch am Freitag zum Metzger, daß es, wie gewohnt, sein Fleisch oder seine Wurst hole. Solches verdroß den Metzgergesellen, und er sagte: Warte, Ketzer, ich will dir den dir gehörigen Schlünker schicken, nahm das Hündlein, hackte ihm auf dem Bloch das geringelte Schwänzchen grausam ab und legt's in den Korb. Das arme Tier faßte den Korb, lief blutend nach Hause, stellte den Korb vor seinen Herrn, legte sich hin, winselte, streckte alle Viere von sich und starb.\n\nDie ganze Stadt Bretten war entrüstet über solch ungetreue Tat, der Gesell wurde alsobald ausgewiesen und des Hündleins Bild ohne Schwanz in Stein gehauen und übers Stadttor gesetzt, darüber ein Kranz, den Lohn der Treue anzudeuten. Dieses ist das Wahrzeichen von Bretten, in welcher kleinen Stadt der große Philippus Melanchthon geboren wurde.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Dir geschieht wie dem Hündchen von Bretten! sagen die Leute in der Rheinpfalz. Damit deuten sie auf ein Wahrzeichen des Städtleins Bretten hin und bezeichnen mit dem Spruch den Empfang des bekannten Teufelsdankes für gehaltene Treue.",
+      "id": "bechstein-sagen-kdx5-0",
+      "category": "Liebe und Treue",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "huendchen-bretten-10-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Das Hündchen von Bretten – Treue ohne Dank · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Das Hündchen von Bretten – Treue ohne Dank\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Hündchen von Bretten\nAussehen: Ein kleiner brauner Hund mit heller Schnauze, vier Pfoten und zunächst geringeltem Schwanz.\nKleidung: Braunes Fell, keine Kleidung.\nPersönlichkeit und Vorgeschichte: Bringt Einkäufe im Korb unberührt heim; stirbt nach einem grausamen Übergriff.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Besitzer des Brettener Hündchens\nAussehen: Älterer Mann mit grauem Bart.\nKleidung: Grüner Hausrock, graue Hose, braune Schuhe.\nPersönlichkeit und Vorgeschichte: Vertraut dem Tier die Einkäufe an.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Metzgergeselle der Brettener Sage\nAussehen: Erwachsener kräftiger Mann, dunkles kurzes Haar.\nKleidung: Graues Hemd, dunkle Arbeitsschürze.\nPersönlichkeit und Vorgeschichte: Ein einzelner Täter aus konfessionellem Hass; keine Verallgemeinerung über eine Glaubensgemeinschaft.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der vertraute Dienst\nOrt und Zeit: Der vertraute Dienst\nSichtbare Figuren: Hündchen von Bretten, Besitzer des Brettener Hündchens\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund mit einem Korbhenkel im Maul, Mann legt eingewickeltes Geld und Zettel in den Korb.\nErzählertext: Das Hündchen holte Fleisch und Wurst. Geld und Bestellung trug es im Korb.\nDialoge: keine\nKontinuität / Änderung: Ein Hund mit einem Korbhenkel im Maul, Mann legt eingewickeltes Geld und Zettel in den Korb.\n\nKACHEL 2: Der Weg zum Laden\nOrt und Zeit: Der Weg zum Laden\nSichtbare Figuren: Hündchen von Bretten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Hund allein auf einer ruhigen Gasse, geringelter Schwanz unverletzt.\nErzählertext: Es kannte den Weg und brachte die Bestellung zuverlässig.\nDialoge: keine\nKontinuität / Änderung: Ein kleiner Hund allein auf einer ruhigen Gasse, geringelter Schwanz unverletzt.\n\nKACHEL 3: Unberührt nach Hause\nOrt und Zeit: Unberührt nach Hause\nSichtbare Figuren: Hündchen von Bretten, Besitzer des Brettener Hündchens\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Korb mit eingewickeltem Einkauf am Boden, Hund daneben ohne Nahrung im Maul.\nErzählertext: Keinen Bissen nahm es selbst. Sein Besitzer konnte ihm vertrauen.\nDialoge: keine\nKontinuität / Änderung: Korb mit eingewickeltem Einkauf am Boden, Hund daneben ohne Nahrung im Maul.\n\nKACHEL 4: Ein neuer Geselle\nOrt und Zeit: Ein neuer Geselle\nSichtbare Figuren: Metzgergeselle der Brettener Sage, Hündchen von Bretten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geselle rechts, Hund links mit Korbhenkel, keine erhobene Klinge.\nErzählertext: Dann kam ein neuer Geselle. Sein konfessioneller Hass richtete sich gegen den Besitzer.\nDialoge: keine\nKontinuität / Änderung: Geselle rechts, Hund links mit Korbhenkel, keine erhobene Klinge.\n\nKACHEL 5: Der Freitag\nOrt und Zeit: Der Freitag\nSichtbare Figuren: Hündchen von Bretten, Metzgergeselle der Brettener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Laden, ein Hund und ein Geselle getrennt durch die Theke.\nErzählertext: Dass der Mann am Freitag Fleisch bestellte, nahm er zum Anlass für Grausamkeit.\nDialoge: keine\nKontinuität / Änderung: Derselbe Laden, ein Hund und ein Geselle getrennt durch die Theke.\n\nKACHEL 6: Die Tat bleibt verborgen\nOrt und Zeit: Die Tat bleibt verborgen\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Ladentür von außen, Korbschatten auf dem Boden, keine Verletzung oder Körperteile sichtbar.\nErzählertext: Der Geselle verletzte den Hund schwer und legte dessen abgeschnittenen Schwanz in den Korb. Die Gewalt trifft hier ein völlig unschuldiges Tier.\nDialoge: keine\nKontinuität / Änderung: Geschlossene Ladentür von außen, Korbschatten auf dem Boden, keine Verletzung oder Körperteile sichtbar.\n\nKACHEL 7: Der letzte Heimweg\nOrt und Zeit: Der letzte Heimweg\nSichtbare Figuren: Hündchen von Bretten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hund von vorn schräg auf dem Heimweg, Hinterkörper durch Korb und Perspektive verdeckt, kein Blut.\nErzählertext: Trotzdem brachte es den Korb nach Hause.\nDialoge: keine\nKontinuität / Änderung: Hund von vorn schräg auf dem Heimweg, Hinterkörper durch Korb und Perspektive verdeckt, kein Blut.\n\nKACHEL 8: Beim Besitzer\nOrt und Zeit: Beim Besitzer\nSichtbare Figuren: Hündchen von Bretten, Besitzer des Brettener Hündchens\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund seitlich reglos, Korb mit geschlossenem Tuch daneben, Besitzer legt die leere Hand behutsam an seinen Rücken.\nErzählertext: Vor seinem Besitzer brach es zusammen und starb.\nDialoge: keine\nKontinuität / Änderung: Ein Hund seitlich reglos, Korb mit geschlossenem Tuch daneben, Besitzer legt die leere Hand behutsam an seinen Rücken.\n\nKACHEL 9: Die Ausweisung\nOrt und Zeit: Die Ausweisung\nSichtbare Figuren: Metzgergeselle der Brettener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geselle allein mit kleinem Bündel außerhalb, namenlose Erwachsene bleiben innen, kein Lynchmob.\nErzählertext: Die Stadt war empört und wies den Täter aus.\nDialoge: keine\nKontinuität / Änderung: Geselle allein mit kleinem Bündel außerhalb, namenlose Erwachsene bleiben innen, kein Lynchmob.\n\nKACHEL 10: Die Erinnerung am Tor\nOrt und Zeit: Die Erinnerung am Tor\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein steinernes Hundebild ohne Schwanz über dem Tor, darüber ein Kranz. Kein lebendes zweites Hündchen.\nErzählertext: Das Bild am Tor ehrte seine Treue. Es konnte das verlorene Leben nicht zurückbringen.\nDialoge: keine\nKontinuität / Änderung: Ein steinernes Hundebild ohne Schwanz über dem Tor, darüber ein Kranz. Kein lebendes zweites Hündchen.\n"
+  },
+  "count_policy": "editorial"
+}

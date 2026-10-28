@@ -1,0 +1,102 @@
+TITEL: Die glühenden Kohlen – Wer den Wert geschaffen hat
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Magd in der Lorcher Mühle
+Aussehen: Junge erwachsene Frau mit braunem Zopf.
+Kleidung: Graues Arbeitskleid, braune Schürze, feste Schuhe.
+Persönlichkeit und Vorgeschichte: Holt dreimal vermeintliche Glut und erhält später ihren Anteil.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Müller der Lorcher Kohlensage
+Aussehen: Erwachsener Mann mit kurzem grauem Bart.
+Kleidung: Braunes Wams, graue Hose, helle Schürze.
+Persönlichkeit und Vorgeschichte: Findet das Gold und beteiligt die Magd an dem Gewinn.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zu früh erwacht
+Ort und Zeit: Zu früh erwacht
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau im vollständig geschlossenen Arbeitskleid, helles Licht am Fenster.
+Erzählertext: Die Magd erwachte und hielt das nächtliche Licht für den Morgen.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau im vollständig geschlossenen Arbeitskleid, helles Licht am Fenster.
+
+KACHEL 2: Das Licht im Hof
+Ort und Zeit: Das Licht im Hof
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau innen, draußen ein Kohlenhaufen mit fremden erwachsenen Männern in Abstand.
+Erzählertext: Im Hof glühten Kohlen. Sie wollte damit rasch das Herdfeuer schüren.
+Dialoge: keine
+Kontinuität / Änderung: Frau innen, draußen ein Kohlenhaufen mit fremden erwachsenen Männern in Abstand.
+
+KACHEL 3: Die erste Schaufel
+Ort und Zeit: Die erste Schaufel
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau mit genau einer Metallschaufel in beiden Händen, Glut sicher vor dem Körper.
+Erzählertext: Sie nahm eine Schaufel voll und brachte sie in die Küche.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau mit genau einer Metallschaufel in beiden Händen, Glut sicher vor dem Körper.
+
+KACHEL 4: Am Herd
+Ort und Zeit: Am Herd
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dunkle tote Kohlen auf leerem Herd, eine leere Schaufel in ihrer Hand.
+Erzählertext: Doch die Kohlen glühten dort nicht mehr.
+Dialoge: keine
+Kontinuität / Änderung: Dunkle tote Kohlen auf leerem Herd, eine leere Schaufel in ihrer Hand.
+
+KACHEL 5: Der zweite Versuch
+Ort und Zeit: Der zweite Versuch
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Schaufel mit Glut, Küchenfenster hinten. Keine zweite Frau im Haus.
+Erzählertext: Auch die zweite Ladung schien im Haus zu erlöschen.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Schaufel mit Glut, Küchenfenster hinten. Keine zweite Frau im Haus.
+
+KACHEL 6: Das dritte Mal
+Ort und Zeit: Das dritte Mal
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein fremder namenloser Mann hebt eine offene Hand, Frau mit einer letzten gefüllten Schaufel.
+Erzählertext: Beim dritten Mal warnte einer der Männer: Dies sei das letzte Mal.
+Dialoge: keine
+Kontinuität / Änderung: Ein fremder namenloser Mann hebt eine offene Hand, Frau mit einer letzten gefüllten Schaufel.
+
+KACHEL 7: Zwölf Schläge
+Ort und Zeit: Zwölf Schläge
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau mit abgestellter leerer Schaufel, Fenster jetzt dunkel; fremde Männer verschwunden.
+Erzählertext: Dann schlug die Turmuhr zwölf. Jetzt erkannte sie die Nacht und bekam Angst.
+Dialoge: keine
+Kontinuität / Änderung: Frau mit abgestellter leerer Schaufel, Fenster jetzt dunkel; fremde Männer verschwunden.
+
+KACHEL 8: Die Bettdecke
+Ort und Zeit: Die Bettdecke
+Sichtbare Figuren: Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein ruhiges Bett, nur Gesicht über der Decke, kein zweiter nächtlicher Geist am Bett.
+Erzählertext: Sie ging zurück und verschlief am Morgen tatsächlich.
+Dialoge: keine
+Kontinuität / Änderung: Ein ruhiges Bett, nur Gesicht über der Decke, kein zweiter nächtlicher Geist am Bett.
+
+KACHEL 9: Die Entdeckung
+Ort und Zeit: Die Entdeckung
+Sichtbare Figuren: Müller der Lorcher Kohlensage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Müller vor einem Haufen kleiner goldener Stücke anstelle der Kohlen, keine Glut daneben.
+Erzählertext: Der Müller kam zuerst in die Küche. Die vermeintlichen Kohlen waren Gold geworden.
+Dialoge: keine
+Kontinuität / Änderung: Müller vor einem Haufen kleiner goldener Stücke anstelle der Kohlen, keine Glut daneben.
+
+KACHEL 10: Der geteilte Gewinn
+Ort und Zeit: Der geteilte Gewinn
+Sichtbare Figuren: Müller der Lorcher Kohlensage, Magd in der Lorcher Mühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor einem neuen Haus, ein einzelner Geldbeutel zwischen ihren Händen.
+Erzählertext: Er baute sich ein Haus und gab der Magd ihren Anteil. Ihr unerkannter Beitrag wurde nachträglich anerkannt.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene vor einem neuen Haus, ein einzelner Geldbeutel zwischen ihren Händen.

@@ -1,0 +1,142 @@
+TITEL: Spanheims Gründung – Das verlorene Zeichen
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Graf von Vianden der Spanheimsage
+Aussehen: Erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Grauer Reisemantel, braune Hose, Stiefel.
+Persönlichkeit und Vorgeschichte: Hat einen Verwandten der Gräfin getötet und unternimmt eine Sühnefahrt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gräfin der Spanheimsage
+Aussehen: Erwachsene Frau mit dunklem Zopf, ernsten Augen.
+Kleidung: Blaues langes Kleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Erwidert die Liebe, verlangt aber Abstand und ein Zeichen ernsthafter Sühne.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die belastete Liebe
+Ort und Zeit: Die belastete Liebe
+Sichtbare Figuren: Graf von Vianden der Spanheimsage, Gräfin der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Saal mit Abstand, keine nachgestellte Fehde.
+Erzählertext: Beide mochten einander. Doch der Graf hatte in einer Fehde einen ihrer Verwandten getötet.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im Saal mit Abstand, keine nachgestellte Fehde.
+
+KACHEL 2: Die Bedingung
+Ort und Zeit: Die Bedingung
+Sichtbare Figuren: Gräfin der Spanheimsage, Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau steht dem Grafen gegenüber, kein fertiges Heiratsritual.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Gräfin der Spanheimsage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Gehe auf Sühnefahrt und bring ein beglaubigtes Zeichen mit.“
+Kontinuität / Änderung: Eine erwachsene Frau steht dem Grafen gegenüber, kein fertiges Heiratsritual.
+
+KACHEL 3: Die lange Reise
+Ort und Zeit: Die lange Reise
+Sichtbare Figuren: Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Wanderer mit schlichtem Gepäck, keine glorifizierte Schlacht.
+Erzählertext: Er zog ins Heilige Land und blieb länger als ein Jahr unterwegs.
+Dialoge: keine
+Kontinuität / Änderung: Ein Wanderer mit schlichtem Gepäck, keine glorifizierte Schlacht.
+
+KACHEL 4: Der erworbene Span
+Ort und Zeit: Der erworbene Span
+Sichtbare Figuren: Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine winzige geschlossene Kapsel auf seinen Händen, ein Pergament mit Siegel daneben.
+Erzählertext: Er erhielt einen als Kreuzreliquie verehrten Span mit Beglaubigung. Seine Echtheit ist Teil der Glaubenserzählung.
+Dialoge: keine
+Kontinuität / Änderung: Eine winzige geschlossene Kapsel auf seinen Händen, ein Pergament mit Siegel daneben.
+
+KACHEL 5: Die goldene Truhe
+Ort und Zeit: Die goldene Truhe
+Sichtbare Figuren: Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges kleines goldenes Kästchen auf dem Tisch, Kapsel darin, Deckel offen.
+Erzählertext: Dafür ließ er ein kostbares Kästchen mit dem Namen der Gräfin anfertigen.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges kleines goldenes Kästchen auf dem Tisch, Kapsel darin, Deckel offen.
+
+KACHEL 6: Die Heimfahrt
+Ort und Zeit: Die Heimfahrt
+Sichtbare Figuren: Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann auf historischem Segelschiff, Kästchen sicher in einem verschlossenen Gepäckbeutel.
+Erzählertext: Mit Hoffnung trat er die Rückreise über das Meer an.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann auf historischem Segelschiff, Kästchen sicher in einem verschlossenen Gepäckbeutel.
+
+KACHEL 7: Der Sturm
+Ort und Zeit: Der Sturm
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Schiff fern in schweren Wellen, kleine Rettungsgruppe am Ufer, keine ertrinkenden Gesichter.
+Erzählertext: Ein Sturm zerstörte das Schiff. Menschen retteten sich, die Habe ging verloren.
+Dialoge: keine
+Kontinuität / Änderung: Ein Schiff fern in schweren Wellen, kleine Rettungsgruppe am Ufer, keine ertrinkenden Gesichter.
+
+KACHEL 8: Mit leeren Händen
+Ort und Zeit: Mit leeren Händen
+Sichtbare Figuren: Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Mann in durchnässtem Mantel, beide Hände leer, kein Kästchen am Strand.
+Erzählertext: Auch das Kästchen war fort.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Mann in durchnässtem Mantel, beide Hände leer, kein Kästchen am Strand.
+
+KACHEL 9: Die weitere Heimreise
+Ort und Zeit: Die weitere Heimreise
+Sichtbare Figuren: Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pilger auf Landstraße mit abgetragenem Mantel und kleinem leeren Beutel.
+Erzählertext: Als armer Pilger kehrte er heim. Geld auf seinen Burgen konnte den Verlust nicht ersetzen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Pilger auf Landstraße mit abgetragenem Mantel und kleinem leeren Beutel.
+
+KACHEL 10: Das offene Geständnis
+Ort und Zeit: Das offene Geständnis
+Sichtbare Figuren: Graf von Vianden der Spanheimsage, Gräfin der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Saal, seine Hände offen und leer.
+Erzählertext: Er berichtete ehrlich, was geschehen war.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im Saal, seine Hände offen und leer.
+
+KACHEL 11: Die unerwartete Frage
+Ort und Zeit: Die unerwartete Frage
+Sichtbare Figuren: Gräfin der Spanheimsage, Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gräfin eine Hand am Schrankgriff, noch kein zweites Kästchen sichtbar.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Gräfin der Spanheimsage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Stand auf diesem Kästchen mein Name?“
+Kontinuität / Änderung: Gräfin eine Hand am Schrankgriff, noch kein zweites Kästchen sichtbar.
+
+KACHEL 12: Das wiedergefundene Zeichen
+Ort und Zeit: Das wiedergefundene Zeichen
+Sichtbare Figuren: Gräfin der Spanheimsage, Graf von Vianden der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges geöffnetes Kästchen in ihren Händen mit kleiner Kapsel darin.
+Erzählertext: Am Morgen hatte ein geheimnisvoller Bote es gebracht. Das verlorene Zeichen war schon angekommen.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges geöffnetes Kästchen in ihren Händen mit kleiner Kapsel darin.
+
+KACHEL 13: Die Verbindung
+Ort und Zeit: Die Verbindung
+Sichtbare Figuren: Graf von Vianden der Spanheimsage, Gräfin der Spanheimsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene nebeneinander, das Kästchen separat auf dem Tisch.
+Erzählertext: Sie verbanden sich. Die unverschuldete Gefahr hatte seinen Sühnewillen nicht wertlos gemacht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene nebeneinander, das Kästchen separat auf dem Tisch.
+
+KACHEL 14: Spanheim
+Ort und Zeit: Spanheim
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Neue einfache Burg und Kloster mit kleiner Ansiedlung, keine vielen Gebäudekopien.
+Erzählertext: Sie stifteten Burg, Kloster und Ort Spanheim. Das Wunder ist ein Hoffnungsbild dieser Sage, keine Zusage, dass jeder Verlust zurückkehrt.
+Dialoge: keine
+Kontinuität / Änderung: Neue einfache Burg und Kloster mit kleiner Ansiedlung, keine vielen Gebäudekopien.

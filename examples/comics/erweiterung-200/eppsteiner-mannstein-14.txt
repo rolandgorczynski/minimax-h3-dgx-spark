@@ -1,0 +1,148 @@
+TITEL: Die Eppsteiner – Der Helfer bleibt zurück
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ritter Eppo
+Aussehen: Erwachsener Mann mit braunem kurzem Bart und braunen Augen.
+Kleidung: Zunächst grauer Harnisch und blauer Überwurf; Austausch wird je Kachel angegeben.
+Persönlichkeit und Vorgeschichte: Plant die Rettung mit eisernem Netz und Kleidertausch.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Eppos Knappe
+Aussehen: Junger erwachsener Mann, schwarzes kurzes Haar, bartlos.
+Kleidung: Zunächst braunes Knappenwams und graue Hose.
+Persönlichkeit und Vorgeschichte: Übernimmt Eppos Rüstung und wird irrtümlich versteinert.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gefangene von Falkenstein
+Aussehen: Junge erwachsene Frau mit schwarzem Zopf.
+Kleidung: Grünes langes Kleid und heller Schleier.
+Persönlichkeit und Vorgeschichte: Wird vom Riesen entführt und durch einen Schutzgeist bewahrt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Riese der Eppsteinsage
+Aussehen: Ein sehr großer kräftiger Mann mit langem dunklem Bart, zwei Armen und zwei Beinen.
+Kleidung: Braune Fellweste, dunkle Hose.
+Persönlichkeit und Vorgeschichte: Entführer und Zauberer; die Erzählung zeigt keine sexualisierte Gewalt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Entführung
+Ort und Zeit: Die Entführung
+Sichtbare Figuren: Riese der Eppsteinsage, Gefangene von Falkenstein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riese außen, vollständig bekleidete erwachsene Frau innen mit Abstand. Keine körperliche Übergriffigkeit im Bild.
+Erzählertext: Ein Riese hielt die Falkensteinerin gegen ihren Willen fest.
+Dialoge: keine
+Kontinuität / Änderung: Riese außen, vollständig bekleidete erwachsene Frau innen mit Abstand. Keine körperliche Übergriffigkeit im Bild.
+
+KACHEL 2: Der Nachfolgende
+Ort und Zeit: Der Nachfolgende
+Sichtbare Figuren: Ritter Eppo, Eppos Knappe
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer zu Fuß, Ritter im grauen Harnisch, Knappe im braunen Wams.
+Erzählertext: Eppo folgte mit seinem Knappen. Stärke allein sollte den Riesen nicht besiegen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Männer zu Fuß, Ritter im grauen Harnisch, Knappe im braunen Wams.
+
+KACHEL 3: Das eiserne Netz
+Ort und Zeit: Das eiserne Netz
+Sichtbare Figuren: Ritter Eppo, Eppos Knappe
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein großes eisernes Netz quer über einem schmalen Pfad gespannt, beide Männer außerhalb der Falle.
+Erzählertext: Sie bereiteten ein eisernes Netz vor.
+Dialoge: keine
+Kontinuität / Änderung: Ein großes eisernes Netz quer über einem schmalen Pfad gespannt, beide Männer außerhalb der Falle.
+
+KACHEL 4: Der Kleidertausch
+Ort und Zeit: Der Kleidertausch
+Sichtbare Figuren: Ritter Eppo, Eppos Knappe
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei verschiedene Gesichter unter vertauschter Kleidung, keine dritten Körper oder halb wechselnden Rüstungen.
+Erzählertext: Dann tauschten sie ihre Kleidung: Der Knappe sollte wie der Ritter aussehen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei verschiedene Gesichter unter vertauschter Kleidung, keine dritten Körper oder halb wechselnden Rüstungen.
+
+KACHEL 5: Der fremde Schutz
+Ort und Zeit: Der fremde Schutz
+Sichtbare Figuren: Gefangene von Falkenstein, Riese der Eppsteinsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau innerhalb eines zarten hellen Lichtsaums, Riese hält außerhalb Abstand, kein körperlicher Engel als zweite Gefangene.
+Erzählertext: Ein Schutzgeist bewahrte die Gefangene. Weder Stärke noch Zauber des Riesen halfen ihm gegen sie.
+Dialoge: keine
+Kontinuität / Änderung: Frau innerhalb eines zarten hellen Lichtsaums, Riese hält außerhalb Abstand, kein körperlicher Engel als zweite Gefangene.
+
+KACHEL 6: Der falsche Gegner
+Ort und Zeit: Der falsche Gegner
+Sichtbare Figuren: Riese der Eppsteinsage, Eppos Knappe
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Großer Riese rechts, kleiner erwachsener Knappe links im Ritterharnisch, Eppo außerhalb.
+Erzählertext: Der Riese hielt den gerüsteten Knappen für Eppo.
+Dialoge: keine
+Kontinuität / Änderung: Großer Riese rechts, kleiner erwachsener Knappe links im Ritterharnisch, Eppo außerhalb.
+
+KACHEL 7: Der Mannstein
+Ort und Zeit: Der Mannstein
+Sichtbare Figuren: Eppos Knappe, Riese der Eppsteinsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziger grauer Fels mit Kontur des gerüsteten Mannes, keine lebende Knappefigur daneben.
+Erzählertext: Er verwandelte ihn in Stein.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziger grauer Fels mit Kontur des gerüsteten Mannes, keine lebende Knappefigur daneben.
+
+KACHEL 8: Im Netz
+Ort und Zeit: Im Netz
+Sichtbare Figuren: Riese der Eppsteinsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Riese mit zwei Armen und zwei Beinen in einer einzigen eisernen Netzmulde, keine abgetrennten Gliedmaßen.
+Erzählertext: Als er weiterstürmte, geriet er in die Falle.
+Dialoge: keine
+Kontinuität / Änderung: Ein Riese mit zwei Armen und zwei Beinen in einer einzigen eisernen Netzmulde, keine abgetrennten Gliedmaßen.
+
+KACHEL 9: Der wirkliche Eppo
+Ort und Zeit: Der wirkliche Eppo
+Sichtbare Figuren: Ritter Eppo, Riese der Eppsteinsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein normal großer erwachsener Mann vor dem viel größeren gefangenen Körper.
+Erzählertext: Eppo kam aus seinem Versteck.
+Dialoge: keine
+Kontinuität / Änderung: Ein normal großer erwachsener Mann vor dem viel größeren gefangenen Körper.
+
+KACHEL 10: Das Ende des Riesen
+Ort und Zeit: Das Ende des Riesen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein hoher leerer Felsrand, unten nur ferner Schatten, keine Sturzverletzung oder Körperdetails.
+Erzählertext: Er stürzte den gefangenen Riesen vom Felsen. Die Gefangene war frei.
+Dialoge: keine
+Kontinuität / Änderung: Ein hoher leerer Felsrand, unten nur ferner Schatten, keine Sturzverletzung oder Körperdetails.
+
+KACHEL 11: Die Befreite
+Ort und Zeit: Die Befreite
+Sichtbare Figuren: Ritter Eppo, Gefangene von Falkenstein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf gemeinsamem Boden, keine neue Rüstung an Eppo.
+Erzählertext: Die Frau verließ den Bann des Riesen und wurde Eppos Gemahlin.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene auf gemeinsamem Boden, keine neue Rüstung an Eppo.
+
+KACHEL 12: Der ungelöste Preis
+Ort und Zeit: Der ungelöste Preis
+Sichtbare Figuren: Ritter Eppo, Eppos Knappe
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann im braunen Wams vor einem einzelnen menschenförmigen Stein. Keine gelungene Rückverwandlung.
+Erzählertext: Den Knappen konnte Eppo nicht erlösen. Er blieb der Mannstein.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann im braunen Wams vor einem einzelnen menschenförmigen Stein. Keine gelungene Rückverwandlung.
+
+KACHEL 13: Die neue Burg
+Ort und Zeit: Die neue Burg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine neue Burg auf dem Fels, Torbögen als Architektur, keine makabren Körperreste.
+Erzählertext: Eppo baute eine Burg. Die Sage erklärt daraus den Namen Eppstein.
+Dialoge: keine
+Kontinuität / Änderung: Eine neue Burg auf dem Fels, Torbögen als Architektur, keine makabren Körperreste.
+
+KACHEL 14: Der bleibende Helfer
+Ort und Zeit: Der bleibende Helfer
+Sichtbare Figuren: Eppos Knappe
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelner menschlich geformter Fels im Vordergrund, Burg entfernt dahinter, keine lebende Knappekopie.
+Erzählertext: Die Familie gewann später Macht und Ruhm. Am versteinerten Helfer änderte das nichts.
+Dialoge: keine
+Kontinuität / Änderung: Einzelner menschlich geformter Fels im Vordergrund, Burg entfernt dahinter, keine lebende Knappekopie.

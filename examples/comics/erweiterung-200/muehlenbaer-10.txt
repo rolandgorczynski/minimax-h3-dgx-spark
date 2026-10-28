@@ -1,0 +1,113 @@
+TITEL: Der Mühlenbär – Die Spur am Morgen
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Neuer Mahlgeselle
+Aussehen: Junger erwachsener kräftiger Mann mit kurzem braunem Haar.
+Kleidung: Hellgraues Hemd, dunkle Hose, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Beobachtet den Mühlspuk und findet die entscheidende Spur.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Müller der Spukmühle
+Aussehen: Älterer Mann mit dichtem grauem Bart.
+Kleidung: Braunes Wams, mehlige Schürze, dunkle Hose.
+Persönlichkeit und Vorgeschichte: Fürchtet den Verfall seiner verlassenen Mühle.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Müllerin und Mühlenbär
+Aussehen: Eine Identität: erwachsene Frau mit schwarzem Zopf beziehungsweise schwarzer zottiger Bär; Gestalt je Kachel.
+Kleidung: Als Frau blaues Kleid und weiße Haube; als Bär nur schwarzes Fell.
+Persönlichkeit und Vorgeschichte: Die Sage verbindet ihren verletzten rechten Unterarm mit der rechten Vordertatze des Bären.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die verlassene Arbeit
+Ort und Zeit: Die verlassene Arbeit
+Sichtbare Figuren: Müller der Spukmühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Müller allein bei stillstehenden Holzbalken und leeren Mehlsäcken.
+Erzählertext: Kein Geselle blieb länger als eine Nacht. Der Mühlspuk drohte dem Müller die Arbeit zu nehmen.
+Dialoge: keine
+Kontinuität / Änderung: Müller allein bei stillstehenden Holzbalken und leeren Mehlsäcken.
+
+KACHEL 2: Ein Bewerber
+Ort und Zeit: Ein Bewerber
+Sichtbare Figuren: Neuer Mahlgeselle, Müller der Spukmühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junger Geselle mit leer erhobener Hand vor dem älteren Müller.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Neuer Mahlgeselle
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich bleibe und arbeite diese Nacht.“
+Kontinuität / Änderung: Junger Geselle mit leer erhobener Hand vor dem älteren Müller.
+
+KACHEL 3: Die Vorbereitung
+Ort und Zeit: Die Vorbereitung
+Sichtbare Figuren: Neuer Mahlgeselle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Laterne am sicheren Haken, eine Mühlbarte auf Mehlsäcken, Getreide wird eingeschüttet.
+Erzählertext: Um Mitternacht begann er zu mahlen. Seine Laterne erhellte den Raum.
+Dialoge: keine
+Kontinuität / Änderung: Laterne am sicheren Haken, eine Mühlbarte auf Mehlsäcken, Getreide wird eingeschüttet.
+
+KACHEL 4: Auf den Säcken
+Ort und Zeit: Auf den Säcken
+Sichtbare Figuren: Neuer Mahlgeselle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Der eine Geselle mit offener Beobachtungshaltung, seine rechte Hand nahe dem einen abgelegten Beil.
+Erzählertext: Er legte sich hin, blieb aber aufmerksam. Das Beil lag griffbereit.
+Dialoge: keine
+Kontinuität / Änderung: Der eine Geselle mit offener Beobachtungshaltung, seine rechte Hand nahe dem einen abgelegten Beil.
+
+KACHEL 5: Aus der Meisterstube
+Ort und Zeit: Aus der Meisterstube
+Sichtbare Figuren: Neuer Mahlgeselle, Müllerin und Mühlenbär
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schwarzer vierbeiniger Bär in offener Tür, Mensch links auf den Säcken. Keine Müllerin gleichzeitig.
+Erzählertext: Aus der Meisterstube kam der Bär.
+Dialoge: keine
+Kontinuität / Änderung: Ein schwarzer vierbeiniger Bär in offener Tür, Mensch links auf den Säcken. Keine Müllerin gleichzeitig.
+
+KACHEL 6: Die Annäherung
+Ort und Zeit: Die Annäherung
+Sichtbare Figuren: Neuer Mahlgeselle, Müllerin und Mühlenbär
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bär rechts hebt nur die rechte Vordertatze, übrige drei Pfoten am Boden. Geselle greift nach dem einen Beil.
+Erzählertext: Der Bär bemerkte den Neuen und streckte die Tatze nach ihm aus.
+Dialoge: keine
+Kontinuität / Änderung: Bär rechts hebt nur die rechte Vordertatze, übrige drei Pfoten am Boden. Geselle greift nach dem einen Beil.
+
+KACHEL 7: Der Rückzug
+Ort und Zeit: Der Rückzug
+Sichtbare Figuren: Neuer Mahlgeselle, Müllerin und Mühlenbär
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bär im Türrahmen, rechte Vordergliedmaße vom Rahmen verdeckt. Keine abgetrennte Tatze und keine offene Wunde.
+Erzählertext: Der Geselle schlug zu. Verletzt stürzte die Erscheinung zurück in die Stube.
+Dialoge: keine
+Kontinuität / Änderung: Bär im Türrahmen, rechte Vordergliedmaße vom Rahmen verdeckt. Keine abgetrennte Tatze und keine offene Wunde.
+
+KACHEL 8: Der fehlende Platz
+Ort und Zeit: Der fehlende Platz
+Sichtbare Figuren: Neuer Mahlgeselle, Müller der Spukmühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer am Tisch, ein dritter Platz leer. Ein Beweisbündel geschlossen neben dem Gesellen.
+Erzählertext: Am Morgen fehlte die Müllerin beim Frühstück.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer am Tisch, ein dritter Platz leer. Ein Beweisbündel geschlossen neben dem Gesellen.
+
+KACHEL 9: Die Verbindung
+Ort und Zeit: Die Verbindung
+Sichtbare Figuren: Müllerin und Mühlenbär, Neuer Mahlgeselle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau im blauen Kleid unter einer Decke, rechter Unterarm vollständig verbunden und ohne rechte Hand; nur linke Hand sichtbar.
+Erzählertext: Die Müllerin lag verletzt im Bett. Ihr fehlender rechter Unterarm entsprach der Tatze des Spukbären.
+Dialoge: keine
+Kontinuität / Änderung: Frau im blauen Kleid unter einer Decke, rechter Unterarm vollständig verbunden und ohne rechte Hand; nur linke Hand sichtbar.
+
+KACHEL 10: Die Sagendeutung
+Ort und Zeit: Die Sagendeutung
+Sichtbare Figuren: Müller der Spukmühle, Neuer Mahlgeselle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor der geschlossenen Stubentür, keine brennende Hexenverfolgung.
+Erzählertext: Die Sage nennt sie eine Hexe. Das erklärt ihren Spuk innerhalb der Erzählung – nicht wirkliche Hexerei.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer vor der geschlossenen Stubentür, keine brennende Hexenverfolgung.

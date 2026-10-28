@@ -1,0 +1,660 @@
+{
+  "mode": "editorial",
+  "name": "Die Totenglocken zu Speyer – Wer bei den Verstoßenen bleibt · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die Totenglocken zu Speier. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 44.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKaiser Heinrich IV. nahm gar ein trauriges Ende; auch seine Gebeine ruhen im Dome zu Speier, aber sie kamen nicht alsbald nach seinem Tode dahin. Verstoßen von Thron und Reich, gedachte er, wie sein heiliger Vorgänger Heinrich II. die Absicht gehabt, dort im Münster zu Straßburg seine Tage zu beschließen, am Dome zu Speier einer Chorherrenpfründe teilhaft zu werden, allein da er, der den Dom gebaut und reich geschmückt, nicht, wie jener, jetzt eine Pfründe gründen und stiften konnte, so ward ihm auch solche nicht zuteil, und der Bischof Gebhard, den er, der Kaiser, als solcher selbst auf seinen Stuhl gesetzt und ihn bestätigt, weigerte ihm die Aufnahme. Da erseufzte der Kaiser und sprach: Gottes Hand! Gottes Hand liegt schwer auf mir!, und zog trauernd von dannen. Und es geht in Speier die Sage, daß, als der alte Kaiser endlich arm und elend zu Lüttich an der Maas verstorben, habe die Kaiserglocke im Dome von selbst zu läuten begonnen, und alle andern Glocken haben volltönig eingestimmt in das Geläute, und das Volk sei zusammengelaufen und habe gerufen: Der Kaiser ist tot, der Kaiser ist tot, aber wo? wo ist er gestorben? Das wußte keiner. Der Bischof zu Lüttich fühlte minder hart wie der undankbare Bischof zu Speier, er ließ den Verstorbenen mit gebührenden Ehren bestatten. Aber als das der unnatürliche Sohn Heinrichs, Kaiser Heinrich V., vernahm, ward der Bischof von Lüttich verurteilt, den Sarg des Bestatteten mit seinen eigenen Händen wieder auszugraben, da der Verstorbene im Banne dahingegangen und einen Gebannten die geweihte Erde nicht decken dürfe. Da ward der tote Kaiser in seinem Sarge auf eine Insel in der Maas gestellt, und niemand wartete sein, und niemand kümmerte sich um ihn. Aber siehe, da kam ein Mönch, den niemand kannte, der fuhr hinüber auf die Insel, und betete über dem Sarge, und las Messen über den Toten, und sang ihm das Requiem, und das trieb er fort und fort, bis Heinrich V. es vernahm und den Sarg mit den Resten seines Vaters gen Speier führen ließ. Und als nun der Sarg im Königschor des Domes beigesetzt werden sollte, litt es der Bischof nicht, ehe denn der Papst zu Rom des deutschen Kaisers Überreste aus dem Banne lösete. Das währte fünf Jahre; so lange blieb Kaiser Heinrichs IV. Sarg in Sankt Afras Kapelle unbeerdigt stehen. Aber den Kaiser Heinrich V. wußte Gottes Hand auch zu finden, denn er blieb erbenlos, fiel in des Papstes Bann wie sein Vater, und als er verstarb, da läutete vom Münsterturme zu Speier ein Glöcklein von selbst gar hell und schrillend – und keine andere Glocke fiel ein, und niemand wußte, warum es läute, und das Volk lief zu sammen und fragte sich untereinander: Wo wird denn einer ausgeführt, daß das Armesünderglöcklein läutet?\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die Totenglocken zu Speier. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 44.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKaiser Heinrich IV. nahm gar ein trauriges Ende; auch seine Gebeine ruhen im Dome zu Speier, aber sie kamen nicht alsbald nach seinem Tode dahin. Verstoßen von Thron und Reich, gedachte er, wie sein heiliger Vorgänger Heinrich II. die Absicht gehabt, dort im Münster zu Straßburg seine Tage zu beschließen, am Dome zu Speier einer Chorherrenpfründe teilhaft zu werden, allein da er, der den Dom gebaut und reich geschmückt, nicht, wie jener, jetzt eine Pfründe gründen und stiften konnte, so ward ihm auch solche nicht zuteil, und der Bischof Gebhard, den er, der Kaiser, als solcher selbst auf seinen Stuhl gesetzt und ihn bestätigt, weigerte ihm die Aufnahme. Da erseufzte der Kaiser und sprach: Gottes Hand! Gottes Hand liegt schwer auf mir!, und zog trauernd von dannen. Und es geht in Speier die Sage, daß, als der alte Kaiser endlich arm und elend zu Lüttich an der Maas verstorben, habe die Kaiserglocke im Dome von selbst zu läuten begonnen, und alle andern Glocken haben volltönig eingestimmt in das Geläute, und das Volk sei zusammengelaufen und habe gerufen: Der Kaiser ist tot, der Kaiser ist tot, aber wo? wo ist er gestorben? Das wußte keiner. Der Bischof zu Lüttich fühlte minder hart wie der undankbare Bischof zu Speier, er ließ den Verstorbenen mit gebührenden Ehren bestatten. Aber als das der unnatürliche Sohn Heinrichs, Kaiser Heinrich V., vernahm, ward der Bischof von Lüttich verurteilt, den Sarg des Bestatteten mit seinen eigenen Händen wieder auszugraben, da der Verstorbene im Banne dahingegangen und einen Gebannten die geweihte Erde nicht decken dürfe. Da ward der tote Kaiser in seinem Sarge auf eine Insel in der Maas gestellt, und niemand wartete sein, und niemand kümmerte sich um ihn. Aber siehe, da kam ein Mönch, den niemand kannte, der fuhr hinüber auf die Insel, und betete über dem Sarge, und las Messen über den Toten, und sang ihm das Requiem, und das trieb er fort und fort, bis Heinrich V. es vernahm und den Sarg mit den Resten seines Vaters gen Speier führen ließ. Und als nun der Sarg im Königschor des Domes beigesetzt werden sollte, litt es der Bischof nicht, ehe denn der Papst zu Rom des deutschen Kaisers Überreste aus dem Banne lösete. Das währte fünf Jahre; so lange blieb Kaiser Heinrichs IV. Sarg in Sankt Afras Kapelle unbeerdigt stehen. Aber den Kaiser Heinrich V. wußte Gottes Hand auch zu finden, denn er blieb erbenlos, fiel in des Papstes Bann wie sein Vater, und als er verstarb, da läutete vom Münsterturme zu Speier ein Glöcklein von selbst gar hell und schrillend – und keine andere Glocke fiel ein, und niemand wußte, warum es läute, und das Volk lief zu sammen und fragte sich untereinander: Wo wird denn einer ausgeführt, daß das Armesünderglöcklein läutet?\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Die Bitte um Aufnahme",
+        "setting": "Die Bitte um Aufnahme",
+        "characters": [
+          "fa003ae9f76d5746b767b02ce12f1ae7",
+          "c176e423e67e58419ad508d08b02d677"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Armer grau bärtiger Reisender links, Bischof rechts an geschlossener Tür.",
+        "dialog": "Der entmachtete Heinrich IV. bat in Speyer um einen Platz bei den Chorherren.",
+        "bubbles": [],
+        "character_states": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": "steht vor dem Bischof; Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.; Lebenszustand: lebend",
+          "c176e423e67e58419ad508d08b02d677": "steht an einer Kirchentür; Helles geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Armer grau bärtiger Reisender links, Bischof rechts an geschlossener Tür.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Die Bitte um Aufnahme",
+            "posture": "steht vor dem Bischof"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Bitte um Aufnahme",
+            "posture": "steht an einer Kirchentür"
+          }
+        }
+      },
+      {
+        "heading": "Die Absage",
+        "setting": "Die Absage",
+        "characters": [
+          "c176e423e67e58419ad508d08b02d677",
+          "fa003ae9f76d5746b767b02ce12f1ae7"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer ohne Waffen, Tür weiter geschlossen.",
+        "dialog": "Der Bischof verweigerte die Aufnahme. Der frühere Herrscher konnte nichts mehr stiften.",
+        "bubbles": [],
+        "character_states": {
+          "c176e423e67e58419ad508d08b02d677": "hebt abweisend eine Hand; Helles geistliches Gewand.; Lebenszustand: lebend",
+          "fa003ae9f76d5746b767b02ce12f1ae7": "steht mit gesenktem Kopf; Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer ohne Waffen, Tür weiter geschlossen.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Die Absage",
+            "posture": "steht mit gesenktem Kopf"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          }
+        }
+      },
+      {
+        "heading": "Von dannen",
+        "setting": "Von dannen",
+        "characters": [
+          "fa003ae9f76d5746b767b02ce12f1ae7"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mann von hinten, schlichter Mantel statt Krone, Speyer fern.",
+        "dialog": "Heinrich zog fort. Was er früher für den Dom getan hatte, half ihm jetzt nicht.",
+        "bubbles": [],
+        "character_states": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": "geht allein einen leeren Weg; Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein älterer Mann von hinten, schlichter Mantel statt Krone, Speyer fern.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          }
+        }
+      },
+      {
+        "heading": "Der Tod in Lüttich",
+        "setting": "Der Tod in Lüttich",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener schlichter Sarg in einem stillen Raum, keine sichtbare Leiche.",
+        "dialog": "In Lüttich starb er arm und elend.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein geschlossener schlichter Sarg in einem stillen Raum, keine sichtbare Leiche.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          }
+        }
+      },
+      {
+        "heading": "Die Glocken antworten",
+        "setting": "Die Glocken antworten",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere Domglocken in einem Turm, Stricke ohne menschliche Hand, Menschen klein unten am Platz.",
+        "dialog": "Die Speyerer Sage lässt die Kaiserglocke von selbst beginnen. Die anderen stimmen ein.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Mehrere Domglocken in einem Turm, Stricke ohne menschliche Hand, Menschen klein unten am Platz.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          }
+        }
+      },
+      {
+        "heading": "Die unbekannte Nachricht",
+        "setting": "Die unbekannte Nachricht",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene auf dem Domplatz blicken fragend zum Turm, niemand mit einer bestätigten Todesnachricht.",
+        "dialog": "Die Menschen deuteten das Läuten als Tod des Kaisers. Wo er gestorben war, wussten sie noch nicht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Erwachsene auf dem Domplatz blicken fragend zum Turm, niemand mit einer bestätigten Todesnachricht.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          }
+        }
+      },
+      {
+        "heading": "Die erste Bestattung",
+        "setting": "Die erste Bestattung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg wird von namenlosen erwachsenen Trägern zu einem Lütticher Grabplatz gebracht.",
+        "dialog": "Der Bischof in Lüttich ließ ihn mit Ehren bestatten.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein geschlossener Sarg wird von namenlosen erwachsenen Trägern zu einem Lütticher Grabplatz gebracht.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          }
+        }
+      },
+      {
+        "heading": "Die Rücknahme",
+        "setting": "Die Rücknahme",
+        "characters": [
+          "1ae42204a73e5fe5be30d40225ce76cf"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gekrönter Sohn rechts, Bote links mit geschlossenem Schreiben, keine ausgegrabene Leiche.",
+        "dialog": "Heinrich V. ließ das rückgängig machen: Ein Gebannter sollte nicht in geweihter Erde liegen.",
+        "bubbles": [],
+        "character_states": {
+          "1ae42204a73e5fe5be30d40225ce76cf": "steht vor einem Boten; Dunkelroter Herrscherrock, goldener schmaler Kronreif.; Lebenszustand: lebend"
+        },
+        "continuity": "Gekrönter Sohn rechts, Bote links mit geschlossenem Schreiben, keine ausgegrabene Leiche.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          }
+        }
+      },
+      {
+        "heading": "Auf der Insel",
+        "setting": "Auf der Insel",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg allein unter einfachem Wetterschutz auf einer Flussinsel.",
+        "dialog": "Der Sarg wurde auf eine Maasinsel gestellt. Niemand sollte sich um ihn kümmern.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein geschlossener Sarg allein unter einfachem Wetterschutz auf einer Flussinsel.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          }
+        }
+      },
+      {
+        "heading": "Der unbekannte Helfer",
+        "setting": "Der unbekannte Helfer",
+        "characters": [
+          "1260987678655928b5a706659c042401"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mönch allein auf der Insel mit kleinem geöffnetem Buch, beide Hände am Buch.",
+        "dialog": "Ein unbekannter Mönch fuhr hinüber, betete und hielt Totenmessen.",
+        "bubbles": [],
+        "character_states": {
+          "1260987678655928b5a706659c042401": "kniet neben dem geschlossenen Sarg; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mönch allein auf der Insel mit kleinem geöffnetem Buch, beide Hände am Buch.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          },
+          "1260987678655928b5a706659c042401": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der unbekannte Helfer",
+            "posture": "kniet neben dem geschlossenen Sarg"
+          }
+        }
+      },
+      {
+        "heading": "Die Überführung",
+        "setting": "Die Überführung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg auf einem bewachten Transportwagen, keine doppelte Inselbestattung im Hintergrund.",
+        "dialog": "Als der Sohn davon hörte, ließ er die Gebeine nach Speyer bringen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein geschlossener Sarg auf einem bewachten Transportwagen, keine doppelte Inselbestattung im Hintergrund.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Die Absage",
+            "posture": "hebt abweisend eine Hand"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          },
+          "1260987678655928b5a706659c042401": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der unbekannte Helfer",
+            "posture": "kniet neben dem geschlossenen Sarg"
+          }
+        }
+      },
+      {
+        "heading": "Fünf Jahre",
+        "setting": "Fünf Jahre",
+        "characters": [
+          "c176e423e67e58419ad508d08b02d677"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof vor St. Afras Kapelle, darin ein einziger geschlossener Sarg. Keine Beisetzung schon im Chor.",
+        "dialog": "Doch der Bann blieb. Fünf Jahre stand der Sarg in der Kapelle, ehe die Bestattung im Dom möglich wurde.",
+        "bubbles": [],
+        "character_states": {
+          "c176e423e67e58419ad508d08b02d677": "steht vor einer Kapellentür; Helles geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Bischof vor St. Afras Kapelle, darin ein einziger geschlossener Sarg. Keine Beisetzung schon im Chor.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Fünf Jahre",
+            "posture": "steht vor einer Kapellentür"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          },
+          "1260987678655928b5a706659c042401": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der unbekannte Helfer",
+            "posture": "kniet neben dem geschlossenen Sarg"
+          }
+        }
+      },
+      {
+        "heading": "Später auch der Sohn",
+        "setting": "Später auch der Sohn",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines einzelnes Glöcklein im Turm, große Glocken daneben still.",
+        "dialog": "Auch der Sohn starb später. Ihm widmet die Sage nur das schrille Läuten eines kleinen Glöckleins.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein kleines einzelnes Glöcklein im Turm, große Glocken daneben still.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Fünf Jahre",
+            "posture": "steht vor einer Kapellentür"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          },
+          "1260987678655928b5a706659c042401": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der unbekannte Helfer",
+            "posture": "kniet neben dem geschlossenen Sarg"
+          }
+        }
+      },
+      {
+        "heading": "Die andere Treue",
+        "setting": "Die andere Treue",
+        "characters": [
+          "1260987678655928b5a706659c042401"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges einzelnes Erinnerungsbild des Mönchs am Fluss, kein gleichzeitiger Hof oder neuer Todesfall.",
+        "dialog": "Ämter und Macht wechselten. Der unaufgeforderte Beistand am Sarg blieb das menschlichere Maß.",
+        "bubbles": [],
+        "character_states": {
+          "1260987678655928b5a706659c042401": "erscheint als erinnerte, nicht körperlich verdoppelte Gestalt am Inselufer; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ruhiges einzelnes Erinnerungsbild des Mönchs am Fluss, kein gleichzeitiger Hof oder neuer Todesfall.",
+        "continuity_state": {
+          "fa003ae9f76d5746b767b02ce12f1ae7": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+            "location": "Von dannen",
+            "posture": "geht allein einen leeren Weg"
+          },
+          "c176e423e67e58419ad508d08b02d677": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles geistliches Gewand.",
+            "location": "Fünf Jahre",
+            "posture": "steht vor einer Kapellentür"
+          },
+          "1ae42204a73e5fe5be30d40225ce76cf": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+            "location": "Die Rücknahme",
+            "posture": "steht vor einem Boten"
+          },
+          "1260987678655928b5a706659c042401": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Die andere Treue",
+            "posture": "erscheint als erinnerte, nicht körperlich verdoppelte Gestalt am Inselufer"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Heinrich IV. in der Speyerer Sage",
+        "description": "Älterer Mann mit langem grauem Bart und eingefallenen Wangen.",
+        "outfit": "Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.",
+        "backstory": "Verstoßener Herrscher, dessen Bestattung lange verhindert wird.",
+        "id": "fa003ae9f76d5746b767b02ce12f1ae7",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Heinrich V. in der Speyerer Sage",
+        "description": "Erwachsener Mann mit kurzem dunklem Bart.",
+        "outfit": "Dunkelroter Herrscherrock, goldener schmaler Kronreif.",
+        "backstory": "Sohn, dessen Verhältnis zum Vater in der Sage durch die Bestattungsfrage sichtbar wird.",
+        "id": "1ae42204a73e5fe5be30d40225ce76cf",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Speyerer Bischof der Heinrichsage",
+        "description": "Älterer Mann mit grauem kurzem Bart.",
+        "outfit": "Helles geistliches Gewand.",
+        "backstory": "Verweigert die Aufnahme und später die Bestattung vor Lösung des Banns.",
+        "id": "c176e423e67e58419ad508d08b02d677",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Unbekannter Mönch an der Maas",
+        "description": "Erwachsener Mann mit schmalem Gesicht und dunklem kurzem Bart.",
+        "outfit": "Schlichte braune Kutte, Sandalen.",
+        "backstory": "Leistet ohne Auftrag Beistand am verlassenen Sarg.",
+        "id": "1260987678655928b5a706659c042401",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was trägt menschliche Würde, wenn Rang und institutionelle Anerkennung entzogen sind?",
+      "core": "Verlorene Macht kann frühere Beziehungen als bloßes Kalkül entlarven. Unaufgeforderter Beistand wahrt die Würde, die selbst Amtsträger und Angehörige versagen.",
+      "ending": "Heinrichs Bestattung bleibt lange umstritten; unterschiedliche Totenglocken spiegeln die spätere Bewertung von Vater und Sohn.",
+      "reason": "Verstoßung, verweigerte Fürsorge, namenloser Beistand und kontrastierende Erinnerung brauchen klare Zeitsprünge.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "da kam ein Mönch, den niemand kannte",
+          "meaning": "Die Fürsorge kommt von einem Unbekannten und setzt keinen erhaltenen weltlichen Rang voraus."
+        }
+      ],
+      "causal_chain": [
+        "da kam ein Mönch, den niemand kannte",
+        "Heinrichs Bestattung bleibt lange umstritten; unterschiedliche Totenglocken spiegeln die spätere Bewertung von Vater und Sohn."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "9a06d06b150c295234bd3ae18de8af5e972b26a63e5ffd617fe224116f1699bd",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.853774+00:00"
+    },
+    "post_summary": "Ein entmachteter Kaiser findet keine Aufnahme. Erst ein unbekannter Mönch bewahrt seine Würde, als selbst Angehörige und Amtsträger sie versagen.",
+    "source_provenance": {
+      "title": "Die Totenglocken zu Speier",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 44.",
+      "url": "https://textgridrep.org/browse/kj58.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die Totenglocken zu Speier. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 44.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKaiser Heinrich IV. nahm gar ein trauriges Ende; auch seine Gebeine ruhen im Dome zu Speier, aber sie kamen nicht alsbald nach seinem Tode dahin. Verstoßen von Thron und Reich, gedachte er, wie sein heiliger Vorgänger Heinrich II. die Absicht gehabt, dort im Münster zu Straßburg seine Tage zu beschließen, am Dome zu Speier einer Chorherrenpfründe teilhaft zu werden, allein da er, der den Dom gebaut und reich geschmückt, nicht, wie jener, jetzt eine Pfründe gründen und stiften konnte, so ward ihm auch solche nicht zuteil, und der Bischof Gebhard, den er, der Kaiser, als solcher selbst auf seinen Stuhl gesetzt und ihn bestätigt, weigerte ihm die Aufnahme. Da erseufzte der Kaiser und sprach: Gottes Hand! Gottes Hand liegt schwer auf mir!, und zog trauernd von dannen. Und es geht in Speier die Sage, daß, als der alte Kaiser endlich arm und elend zu Lüttich an der Maas verstorben, habe die Kaiserglocke im Dome von selbst zu läuten begonnen, und alle andern Glocken haben volltönig eingestimmt in das Geläute, und das Volk sei zusammengelaufen und habe gerufen: Der Kaiser ist tot, der Kaiser ist tot, aber wo? wo ist er gestorben? Das wußte keiner. Der Bischof zu Lüttich fühlte minder hart wie der undankbare Bischof zu Speier, er ließ den Verstorbenen mit gebührenden Ehren bestatten. Aber als das der unnatürliche Sohn Heinrichs, Kaiser Heinrich V., vernahm, ward der Bischof von Lüttich verurteilt, den Sarg des Bestatteten mit seinen eigenen Händen wieder auszugraben, da der Verstorbene im Banne dahingegangen und einen Gebannten die geweihte Erde nicht decken dürfe. Da ward der tote Kaiser in seinem Sarge auf eine Insel in der Maas gestellt, und niemand wartete sein, und niemand kümmerte sich um ihn. Aber siehe, da kam ein Mönch, den niemand kannte, der fuhr hinüber auf die Insel, und betete über dem Sarge, und las Messen über den Toten, und sang ihm das Requiem, und das trieb er fort und fort, bis Heinrich V. es vernahm und den Sarg mit den Resten seines Vaters gen Speier führen ließ. Und als nun der Sarg im Königschor des Domes beigesetzt werden sollte, litt es der Bischof nicht, ehe denn der Papst zu Rom des deutschen Kaisers Überreste aus dem Banne lösete. Das währte fünf Jahre; so lange blieb Kaiser Heinrichs IV. Sarg in Sankt Afras Kapelle unbeerdigt stehen. Aber den Kaiser Heinrich V. wußte Gottes Hand auch zu finden, denn er blieb erbenlos, fiel in des Papstes Bann wie sein Vater, und als er verstarb, da läutete vom Münsterturme zu Speier ein Glöcklein von selbst gar hell und schrillend – und keine andere Glocke fiel ein, und niemand wußte, warum es läute, und das Volk lief zu sammen und fragte sich untereinander: Wo wird denn einer ausgeführt, daß das Armesünderglöcklein läutet?\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Kaiser Heinrich IV. nahm gar ein trauriges Ende; auch seine Gebeine ruhen im Dome zu Speier, aber sie kamen nicht alsbald nach seinem Tode dahin. Verstoßen von Thron und Reich, gedachte er, wie sein heiliger Vorgänger Heinrich II.",
+      "id": "bechstein-sagen-kj58-0",
+      "category": "Geister und Spuk",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "totenglocken-speyer-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die Totenglocken zu Speyer – Wer bei den Verstoßenen bleibt · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die Totenglocken zu Speyer – Wer bei den Verstoßenen bleibt\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Heinrich IV. in der Speyerer Sage\nAussehen: Älterer Mann mit langem grauem Bart und eingefallenen Wangen.\nKleidung: Abgetragener brauner Reisemantel, graue Tunika und Schuhe; keine Krone.\nPersönlichkeit und Vorgeschichte: Verstoßener Herrscher, dessen Bestattung lange verhindert wird.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Heinrich V. in der Speyerer Sage\nAussehen: Erwachsener Mann mit kurzem dunklem Bart.\nKleidung: Dunkelroter Herrscherrock, goldener schmaler Kronreif.\nPersönlichkeit und Vorgeschichte: Sohn, dessen Verhältnis zum Vater in der Sage durch die Bestattungsfrage sichtbar wird.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Speyerer Bischof der Heinrichsage\nAussehen: Älterer Mann mit grauem kurzem Bart.\nKleidung: Helles geistliches Gewand.\nPersönlichkeit und Vorgeschichte: Verweigert die Aufnahme und später die Bestattung vor Lösung des Banns.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Unbekannter Mönch an der Maas\nAussehen: Erwachsener Mann mit schmalem Gesicht und dunklem kurzem Bart.\nKleidung: Schlichte braune Kutte, Sandalen.\nPersönlichkeit und Vorgeschichte: Leistet ohne Auftrag Beistand am verlassenen Sarg.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Bitte um Aufnahme\nOrt und Zeit: Die Bitte um Aufnahme\nSichtbare Figuren: Heinrich IV. in der Speyerer Sage, Speyerer Bischof der Heinrichsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Armer grau bärtiger Reisender links, Bischof rechts an geschlossener Tür.\nErzählertext: Der entmachtete Heinrich IV. bat in Speyer um einen Platz bei den Chorherren.\nDialoge: keine\nKontinuität / Änderung: Armer grau bärtiger Reisender links, Bischof rechts an geschlossener Tür.\n\nKACHEL 2: Die Absage\nOrt und Zeit: Die Absage\nSichtbare Figuren: Speyerer Bischof der Heinrichsage, Heinrich IV. in der Speyerer Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer ohne Waffen, Tür weiter geschlossen.\nErzählertext: Der Bischof verweigerte die Aufnahme. Der frühere Herrscher konnte nichts mehr stiften.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer ohne Waffen, Tür weiter geschlossen.\n\nKACHEL 3: Von dannen\nOrt und Zeit: Von dannen\nSichtbare Figuren: Heinrich IV. in der Speyerer Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mann von hinten, schlichter Mantel statt Krone, Speyer fern.\nErzählertext: Heinrich zog fort. Was er früher für den Dom getan hatte, half ihm jetzt nicht.\nDialoge: keine\nKontinuität / Änderung: Ein älterer Mann von hinten, schlichter Mantel statt Krone, Speyer fern.\n\nKACHEL 4: Der Tod in Lüttich\nOrt und Zeit: Der Tod in Lüttich\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener schlichter Sarg in einem stillen Raum, keine sichtbare Leiche.\nErzählertext: In Lüttich starb er arm und elend.\nDialoge: keine\nKontinuität / Änderung: Ein geschlossener schlichter Sarg in einem stillen Raum, keine sichtbare Leiche.\n\nKACHEL 5: Die Glocken antworten\nOrt und Zeit: Die Glocken antworten\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere Domglocken in einem Turm, Stricke ohne menschliche Hand, Menschen klein unten am Platz.\nErzählertext: Die Speyerer Sage lässt die Kaiserglocke von selbst beginnen. Die anderen stimmen ein.\nDialoge: keine\nKontinuität / Änderung: Mehrere Domglocken in einem Turm, Stricke ohne menschliche Hand, Menschen klein unten am Platz.\n\nKACHEL 6: Die unbekannte Nachricht\nOrt und Zeit: Die unbekannte Nachricht\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene auf dem Domplatz blicken fragend zum Turm, niemand mit einer bestätigten Todesnachricht.\nErzählertext: Die Menschen deuteten das Läuten als Tod des Kaisers. Wo er gestorben war, wussten sie noch nicht.\nDialoge: keine\nKontinuität / Änderung: Erwachsene auf dem Domplatz blicken fragend zum Turm, niemand mit einer bestätigten Todesnachricht.\n\nKACHEL 7: Die erste Bestattung\nOrt und Zeit: Die erste Bestattung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg wird von namenlosen erwachsenen Trägern zu einem Lütticher Grabplatz gebracht.\nErzählertext: Der Bischof in Lüttich ließ ihn mit Ehren bestatten.\nDialoge: keine\nKontinuität / Änderung: Ein geschlossener Sarg wird von namenlosen erwachsenen Trägern zu einem Lütticher Grabplatz gebracht.\n\nKACHEL 8: Die Rücknahme\nOrt und Zeit: Die Rücknahme\nSichtbare Figuren: Heinrich V. in der Speyerer Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gekrönter Sohn rechts, Bote links mit geschlossenem Schreiben, keine ausgegrabene Leiche.\nErzählertext: Heinrich V. ließ das rückgängig machen: Ein Gebannter sollte nicht in geweihter Erde liegen.\nDialoge: keine\nKontinuität / Änderung: Gekrönter Sohn rechts, Bote links mit geschlossenem Schreiben, keine ausgegrabene Leiche.\n\nKACHEL 9: Auf der Insel\nOrt und Zeit: Auf der Insel\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg allein unter einfachem Wetterschutz auf einer Flussinsel.\nErzählertext: Der Sarg wurde auf eine Maasinsel gestellt. Niemand sollte sich um ihn kümmern.\nDialoge: keine\nKontinuität / Änderung: Ein geschlossener Sarg allein unter einfachem Wetterschutz auf einer Flussinsel.\n\nKACHEL 10: Der unbekannte Helfer\nOrt und Zeit: Der unbekannte Helfer\nSichtbare Figuren: Unbekannter Mönch an der Maas\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mönch allein auf der Insel mit kleinem geöffnetem Buch, beide Hände am Buch.\nErzählertext: Ein unbekannter Mönch fuhr hinüber, betete und hielt Totenmessen.\nDialoge: keine\nKontinuität / Änderung: Ein Mönch allein auf der Insel mit kleinem geöffnetem Buch, beide Hände am Buch.\n\nKACHEL 11: Die Überführung\nOrt und Zeit: Die Überführung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg auf einem bewachten Transportwagen, keine doppelte Inselbestattung im Hintergrund.\nErzählertext: Als der Sohn davon hörte, ließ er die Gebeine nach Speyer bringen.\nDialoge: keine\nKontinuität / Änderung: Ein geschlossener Sarg auf einem bewachten Transportwagen, keine doppelte Inselbestattung im Hintergrund.\n\nKACHEL 12: Fünf Jahre\nOrt und Zeit: Fünf Jahre\nSichtbare Figuren: Speyerer Bischof der Heinrichsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof vor St. Afras Kapelle, darin ein einziger geschlossener Sarg. Keine Beisetzung schon im Chor.\nErzählertext: Doch der Bann blieb. Fünf Jahre stand der Sarg in der Kapelle, ehe die Bestattung im Dom möglich wurde.\nDialoge: keine\nKontinuität / Änderung: Bischof vor St. Afras Kapelle, darin ein einziger geschlossener Sarg. Keine Beisetzung schon im Chor.\n\nKACHEL 13: Später auch der Sohn\nOrt und Zeit: Später auch der Sohn\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines einzelnes Glöcklein im Turm, große Glocken daneben still.\nErzählertext: Auch der Sohn starb später. Ihm widmet die Sage nur das schrille Läuten eines kleinen Glöckleins.\nDialoge: keine\nKontinuität / Änderung: Ein kleines einzelnes Glöcklein im Turm, große Glocken daneben still.\n\nKACHEL 14: Die andere Treue\nOrt und Zeit: Die andere Treue\nSichtbare Figuren: Unbekannter Mönch an der Maas\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges einzelnes Erinnerungsbild des Mönchs am Fluss, kein gleichzeitiger Hof oder neuer Todesfall.\nErzählertext: Ämter und Macht wechselten. Der unaufgeforderte Beistand am Sarg blieb das menschlichere Maß.\nDialoge: keine\nKontinuität / Änderung: Ruhiges einzelnes Erinnerungsbild des Mönchs am Fluss, kein gleichzeitiger Hof oder neuer Todesfall.\n"
+  },
+  "count_policy": "editorial"
+}

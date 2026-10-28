@@ -1,0 +1,110 @@
+TITEL: Siegenheim – Was auf dem Tisch fehlt
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Friedrich der Siegenheimer Sage
+Aussehen: Junger erwachsener Mann mit kurzem dunklem Haar und Bart.
+Kleidung: Dunkelblauer Herrscherrock, brauner Gürtel.
+Persönlichkeit und Vorgeschichte: Sieger, der mit einem Mahl die zerstörten Lebensgrundlagen seiner Untertanen vorführt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gefangener Fürst von Siegenheim
+Aussehen: Älterer Mann mit rotgrauem Bart.
+Kleidung: Weinrotes Wams, graue Hose, weiche Schuhe; keine Waffe.
+Persönlichkeit und Vorgeschichte: Verdichteter Sprecher der gefangenen Fürsten, fragt nach Brot.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Nach dem Kampf
+Ort und Zeit: Nach dem Kampf
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Walstatt mit zurückgelassenen Fahnen, entfernte aufrechte Gefangene, keine Leichen im Vordergrund.
+Erzählertext: Bei Siegenheim gewann Friedrich einen großen Sieg. Viele gegnerische Herren gerieten in Gefangenschaft.
+Dialoge: keine
+Kontinuität / Änderung: Leere Walstatt mit zurückgelassenen Fahnen, entfernte aufrechte Gefangene, keine Leichen im Vordergrund.
+
+KACHEL 2: Nach Heidelberg
+Ort und Zeit: Nach Heidelberg
+Sichtbare Figuren: Gefangener Fürst von Siegenheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbewaffneter erwachsener Fürst zu Fuß, kleine Gruppe Gefangener am Weg.
+Erzählertext: Die Gefangenen wurden nach Heidelberg gebracht.
+Dialoge: keine
+Kontinuität / Änderung: Unbewaffneter erwachsener Fürst zu Fuß, kleine Gruppe Gefangener am Weg.
+
+KACHEL 3: Die Beute
+Ort und Zeit: Die Beute
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erbeutete Fahnen hängen in einer Kirche, keine gefangenen Menschen als Dekoration.
+Erzählertext: Die gewonnenen Banner schmückten die Heiliggeistkirche.
+Dialoge: keine
+Kontinuität / Änderung: Erbeutete Fahnen hängen in einer Kirche, keine gefangenen Menschen als Dekoration.
+
+KACHEL 4: Die Behandlung
+Ort und Zeit: Die Behandlung
+Sichtbare Figuren: Gefangener Fürst von Siegenheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gefangener ohne Fesseln vor festlichem Tisch, leere Hände.
+Erzählertext: Die Fürsten wurden ihrem Stand gemäß behandelt.
+Dialoge: keine
+Kontinuität / Änderung: Gefangener ohne Fesseln vor festlichem Tisch, leere Hände.
+
+KACHEL 5: Das Abendmahl
+Ort und Zeit: Das Abendmahl
+Sichtbare Figuren: Gefangener Fürst von Siegenheim, Friedrich der Siegenheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wild, Fisch und Wein auf einem einzigen Tisch, deutlich keine Brotlaibe oder Brotkörbe.
+Erzählertext: Am Abend bekamen sie eine stattliche Mahlzeit.
+Dialoge: keine
+Kontinuität / Änderung: Wild, Fisch und Wein auf einem einzigen Tisch, deutlich keine Brotlaibe oder Brotkörbe.
+
+KACHEL 6: Noch kein Bissen
+Ort und Zeit: Noch kein Bissen
+Sichtbare Figuren: Gefangener Fürst von Siegenheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reich gedeckter Tisch mit Lücke vor dem Teller, kein verborgenes Brot am Rand.
+Erzählertext: Doch trotz des Überflusses begannen sie nicht zu essen.
+Dialoge: keine
+Kontinuität / Änderung: Reich gedeckter Tisch mit Lücke vor dem Teller, kein verborgenes Brot am Rand.
+
+KACHEL 7: Die Frage
+Ort und Zeit: Die Frage
+Sichtbare Figuren: Gefangener Fürst von Siegenheim, Friedrich der Siegenheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fürst links deutet mit leerer Hand auf den Tisch.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Gefangener Fürst von Siegenheim
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Es fehlt uns an Brot.“
+Kontinuität / Änderung: Fürst links deutet mit leerer Hand auf den Tisch.
+
+KACHEL 8: Der Zusammenhang
+Ort und Zeit: Der Zusammenhang
+Sichtbare Figuren: Friedrich der Siegenheimer Sage, Gefangener Fürst von Siegenheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer am selben Tisch, kein gleichzeitig brennendes Feld als Bildmontage.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Friedrich der Siegenheimer Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Euer Heer hat meinen Leuten das Getreide genommen.“
+Kontinuität / Änderung: Zwei Männer am selben Tisch, kein gleichzeitig brennendes Feld als Bildmontage.
+
+KACHEL 9: Die fehlende Grundlage
+Ort und Zeit: Die fehlende Grundlage
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein abgeerntetes und verwüstetes Feld mit verbrannten Halmen, keine neue Plünderungsszene.
+Erzählertext: Auch die Früchte auf den Feldern waren zerstört worden. Aus Rang und Luxus ließ sich kein Brot machen.
+Dialoge: keine
+Kontinuität / Änderung: Ein abgeerntetes und verwüstetes Feld mit verbrannten Halmen, keine neue Plünderungsszene.
+
+KACHEL 10: Das erinnerte Mahl
+Ort und Zeit: Das erinnerte Mahl
+Sichtbare Figuren: Gefangener Fürst von Siegenheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fürst vor demselben Essen ohne Brot, stiller Blick auf die leere Stelle.
+Erzählertext: Die Gefangenen mussten sich auslösen. Das Mahl blieb als Erinnerung an die Folgen ihrer eigenen Gewalt.
+Dialoge: keine
+Kontinuität / Änderung: Fürst vor demselben Essen ohne Brot, stiller Blick auf die leere Stelle.

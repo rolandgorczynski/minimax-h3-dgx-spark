@@ -1,0 +1,102 @@
+TITEL: Die Schwabenschüssel – Vor dem Fest das Versprechen
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Neuer Bischof der Speyerer Brauchsage
+Aussehen: Älterer Mann mit kurzem weißem Bart.
+Kleidung: Dunkler Reisemantel; spätere Festkleidung wird je Szene angegeben.
+Persönlichkeit und Vorgeschichte: Muss vor dem Einzug die Stadtrechte verbindlich anerkennen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ratsherr am Speyerer Tor
+Aussehen: Erwachsener breiter Mann, brauner Bart.
+Kleidung: Dunkelgrüner Ratsrock und schwarze Kappe.
+Persönlichkeit und Vorgeschichte: Vertreter der bürgerlichen Rechte, kein Gegner einer erfundenen Schlacht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die steinerne Schüssel
+Ort und Zeit: Die steinerne Schüssel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges großes rundes Steinbecken auf dreistufigem Sockel am Domplatz, keine moderne Schankanlage.
+Erzählertext: Auf Speyers Domplatz steht die Schwabenschüssel. Die Überlieferung verknüpft sie mit dem Einzug neuer Bischöfe.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges großes rundes Steinbecken auf dreistufigem Sockel am Domplatz, keine moderne Schankanlage.
+
+KACHEL 2: Vor dem geschlossenen Tor
+Ort und Zeit: Vor dem geschlossenen Tor
+Sichtbare Figuren: Neuer Bischof der Speyerer Brauchsage, Ratsherr am Speyerer Tor
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Tor fast geschlossen, Bischof mit kleinem Gefolge draußen, Ratsherr innen.
+Erzählertext: Der neue Bischof musste zunächst vor der Stadt warten.
+Dialoge: keine
+Kontinuität / Änderung: Tor fast geschlossen, Bischof mit kleinem Gefolge draußen, Ratsherr innen.
+
+KACHEL 3: Die Bedingung
+Ort und Zeit: Die Bedingung
+Sichtbare Figuren: Neuer Bischof der Speyerer Brauchsage, Ratsherr am Speyerer Tor
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Höhenunterschied deutlich: Reiter oben, Ratsherr zu Fuß mit einer Urkunde.
+Erzählertext: Er sollte die Rechte und Freiheiten der Stadt anerkennen.
+Dialoge: keine
+Kontinuität / Änderung: Höhenunterschied deutlich: Reiter oben, Ratsherr zu Fuß mit einer Urkunde.
+
+KACHEL 4: Brief und Siegel
+Ort und Zeit: Brief und Siegel
+Sichtbare Figuren: Neuer Bischof der Speyerer Brauchsage, Ratsherr am Speyerer Tor
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Braunes Pferd mit leerem Sattel hinten; zwei Männer am einen besiegelten Schriftstück.
+Erzählertext: Das Versprechen wurde mit Brief und Siegel gebunden.
+Dialoge: keine
+Kontinuität / Änderung: Braunes Pferd mit leerem Sattel hinten; zwei Männer am einen besiegelten Schriftstück.
+
+KACHEL 5: Begrenzter Einzug
+Ort und Zeit: Begrenzter Einzug
+Sichtbare Figuren: Neuer Bischof der Speyerer Brauchsage, Ratsherr am Speyerer Tor
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof im kleinen Reiterzug durch geöffnetes Tor, größere Restgruppe bleibt außen.
+Erzählertext: Nur eine begrenzte Zahl Bewaffneter durfte ihn begleiten. Dann schloss sich das Tor wieder.
+Dialoge: keine
+Kontinuität / Änderung: Bischof im kleinen Reiterzug durch geöffnetes Tor, größere Restgruppe bleibt außen.
+
+KACHEL 6: Neue Kleidung
+Ort und Zeit: Neue Kleidung
+Sichtbare Figuren: Neuer Bischof der Speyerer Brauchsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof ohne Reisemantel in hellem Festgewand, gefalteter Mantel auf einer Bank.
+Erzählertext: Erst innen legte er seinen Ornat an.
+Dialoge: keine
+Kontinuität / Änderung: Bischof ohne Reisemantel in hellem Festgewand, gefalteter Mantel auf einer Bank.
+
+KACHEL 7: Zum Domplatz
+Ort und Zeit: Zum Domplatz
+Sichtbare Figuren: Neuer Bischof der Speyerer Brauchsage, Ratsherr am Speyerer Tor
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer in einer geordneten Fußprozession zum bekannten Steinbecken, keine Reitkopie.
+Erzählertext: Rat und Bürgerschaft begleiteten ihn zur Schüssel und weiter zum Dom.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer in einer geordneten Fußprozession zum bekannten Steinbecken, keine Reitkopie.
+
+KACHEL 8: Der Wein
+Ort und Zeit: Der Wein
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Fass wird von erwachsenen Helfern in das eine Steinbecken entleert, Menschen mit kleinen Bechern daneben.
+Erzählertext: Nun ließ der Bischof Wein für die Öffentlichkeit ausschenken.
+Dialoge: keine
+Kontinuität / Änderung: Ein Fass wird von erwachsenen Helfern in das eine Steinbecken entleert, Menschen mit kleinen Bechern daneben.
+
+KACHEL 9: Das Übermaß
+Ort und Zeit: Das Übermaß
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Festgäste am Becken, einer sitzt erschöpft am Rand, kein betrunkener Minderjähriger.
+Erzählertext: Manche tranken zu viel. Auch diese Folgen gehören zur Überlieferung des Festes.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Festgäste am Becken, einer sitzt erschöpft am Rand, kein betrunkener Minderjähriger.
+
+KACHEL 10: Was vorher gelten musste
+Ort und Zeit: Was vorher gelten musste
+Sichtbare Figuren: Ratsherr am Speyerer Tor
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ratsherr vorn mit geschlossener Schriftrolle, Fest weiter hinten.
+Erzählertext: Die Freigebigkeit war sichtbar. Doch die Rechte waren schon vor dem ersten Becher gesichert worden.
+Dialoge: keine
+Kontinuität / Änderung: Ratsherr vorn mit geschlossener Schriftrolle, Fest weiter hinten.

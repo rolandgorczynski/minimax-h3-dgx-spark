@@ -1,0 +1,122 @@
+TITEL: Zürcher Brei – Ein Tag auf dem Wasser
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hans im Weerd
+Aussehen: Erwachsener breitschultriger Mann, kurzer brauner Bart.
+Kleidung: Blaues Wollwams, graue Hose und Schuhe.
+Persönlichkeit und Vorgeschichte: Plant die schnelle Wasserfahrt und hält am Steuer den Überblick.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kasper Thomann
+Aussehen: Erwachsener schlanker Mann mit grauem Schnurrbart.
+Kleidung: Dunkelgrauer Rock, blauweiße Schärpe.
+Persönlichkeit und Vorgeschichte: Sprecher der Zürcher Gruppe; sitzt mittig im selben Boot.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Einladung
+Ort und Zeit: Die Einladung
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer mit einer geschlossenen Einladung auf dem Tisch, kleine Gruppe Schützen dahinter.
+Erzählertext: Straßburg lud zum Freischießen. Von Zürich schien es eine Reise von mehreren Tagen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer mit einer geschlossenen Einladung auf dem Tisch, kleine Gruppe Schützen dahinter.
+
+KACHEL 2: Der Plan
+Ort und Zeit: Der Plan
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ufer, ein leeres Ruderboot bereit.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hans im Weerd
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir kommen in einem Tag – und bringen warmen Brei mit.“
+Kontinuität / Änderung: Zwei Erwachsene am Ufer, ein leeres Ruderboot bereit.
+
+KACHEL 3: Die Vorbereitung
+Ort und Zeit: Die Vorbereitung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziger großer eherner Topf mit Brei, darunter ein zweiter breiter Behälter mit heißem Sand; erwachsene Hände sichern ihn.
+Erzählertext: In der Nacht kochten sie. Der Topf kam in heißen Sand, damit der Brei warm blieb.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziger großer eherner Topf mit Brei, darunter ein zweiter breiter Behälter mit heißem Sand; erwachsene Hände sichern ihn.
+
+KACHEL 4: Vor Tagesanbruch
+Ort und Zeit: Vor Tagesanbruch
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geräumiges Boot mit genau einem gesicherten Topfbehälter mittig, Ruderer an den Seiten, blauweißer Wimpel.
+Erzählertext: Noch unter Sternen stießen sie ab.
+Dialoge: keine
+Kontinuität / Änderung: Ein geräumiges Boot mit genau einem gesicherten Topfbehälter mittig, Ruderer an den Seiten, blauweißer Wimpel.
+
+KACHEL 5: Auf der Limmat
+Ort und Zeit: Auf der Limmat
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Boot stromabwärts, Ruderer als einzelne Erwachsene auf festen Bänken. Keine Schiffskopie in der Strömung.
+Erzählertext: Von der Limmat ging es in die Aare. Die Ruderer lösten einander ab.
+Dialoge: keine
+Kontinuität / Änderung: Boot stromabwärts, Ruderer als einzelne Erwachsene auf festen Bänken. Keine Schiffskopie in der Strömung.
+
+KACHEL 6: Der Rhein
+Ort und Zeit: Der Rhein
+Sichtbare Figuren: Hans im Weerd
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Boot seitlich in starker Strömung, Felsen außerhalb seiner Bahn; Topf fest im Behälter.
+Erzählertext: Dann trug sie der Rhein an gefährlichen Stellen vorbei. Tempo brauchte Aufmerksamkeit, nicht nur Kraft.
+Dialoge: keine
+Kontinuität / Änderung: Boot seitlich in starker Strömung, Felsen außerhalb seiner Bahn; Topf fest im Behälter.
+
+KACHEL 7: Rheinfelden
+Ort und Zeit: Rheinfelden
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Korb wird von der Mauer zum vorbeiziehenden Boot herabgelassen, kein Festhalten am Boot mit dritten Händen.
+Erzählertext: Rheinfelden reichte Wein hinunter. Die Fahrt ging ohne langen Halt weiter.
+Dialoge: keine
+Kontinuität / Änderung: Ein Korb wird von der Mauer zum vorbeiziehenden Boot herabgelassen, kein Festhalten am Boot mit dritten Händen.
+
+KACHEL 8: Basels Gruß
+Ort und Zeit: Basels Gruß
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Boot unter Basler Brücke, kleine winkende Gruppen am Ufer, kein Kanonentreffer im Wasser.
+Erzählertext: Basel begrüßte die Fahrer. Für sie blieb der Fluss die Straße nach Straßburg.
+Dialoge: keine
+Kontinuität / Änderung: Boot unter Basler Brücke, kleine winkende Gruppen am Ufer, kein Kanonentreffer im Wasser.
+
+KACHEL 9: Der ferne Turm
+Ort und Zeit: Der ferne Turm
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein heller Münsterturm weit im Abendlicht, Boot im Vordergrund, Ruder weiter im Wasser.
+Erzählertext: Am Abend erschien das Ziel. Doch noch lagen Stunden zwischen Turm und Boot.
+Dialoge: keine
+Kontinuität / Änderung: Ein heller Münsterturm weit im Abendlicht, Boot im Vordergrund, Ruder weiter im Wasser.
+
+KACHEL 10: Ankunft bei Nacht
+Ort und Zeit: Ankunft bei Nacht
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot am Straßburger Kai, zwei benannte Männer ausdrücklich ausgestiegen, Topfbehälter noch an Bord.
+Erzählertext: Im Mondlicht legten sie an. Die Tagesfahrt war geschafft.
+Dialoge: keine
+Kontinuität / Änderung: Ein Boot am Straßburger Kai, zwei benannte Männer ausdrücklich ausgestiegen, Topfbehälter noch an Bord.
+
+KACHEL 11: Der warme Brei
+Ort und Zeit: Der warme Brei
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Der eine Topf auf dem Begrüßungstisch, etwas Dampf über geöffnetem Deckel, Gastgeber mit kleinen Schalen.
+Erzählertext: Der Brei war noch warm. Das war der greifbare Beweis ihrer gemeinsamen Anstrengung.
+Dialoge: keine
+Kontinuität / Änderung: Der eine Topf auf dem Begrüßungstisch, etwas Dampf über geöffnetem Deckel, Gastgeber mit kleinen Schalen.
+
+KACHEL 12: Nicht allein geschafft
+Ort und Zeit: Nicht allein geschafft
+Sichtbare Figuren: Hans im Weerd, Kasper Thomann
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zürcher Gäste und Straßburger Gastgeber als erwachsene Gruppe, leerer Topf seitlich auf dem Tisch.
+Erzählertext: Am nächsten Tag wurden sie geehrt. Der aufbewahrte Topf erinnerte an Vorbereitung, Wechsel am Ruder und gelebte Verbundenheit.
+Dialoge: keine
+Kontinuität / Änderung: Zürcher Gäste und Straßburger Gastgeber als erwachsene Gruppe, leerer Topf seitlich auf dem Tisch.

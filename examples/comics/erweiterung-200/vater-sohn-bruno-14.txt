@@ -1,0 +1,149 @@
+TITEL: Vater und Sohn – Das bewahrte Leben
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hugo von Egisheim
+Aussehen: Erwachsener Mann mit braunem Vollbart; im späteren Pilgerbogen deutlich ergraut.
+Kleidung: Dunkelroter Herrscherrock, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Gibt aus unbegründetem Verdacht einen grausamen Auftrag und bereut ihn später.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Knecht aus Egisheim
+Aussehen: Erwachsener schlanker Mann, dunkles kurzes Haar.
+Kleidung: Graues Leinenhemd, braune Hose und Schuhe.
+Persönlichkeit und Vorgeschichte: Schützt das Kind statt dem Tötungsbefehl zu folgen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bruno der Egisheimer Sage
+Aussehen: Eine männliche Identität mit braunen Augen; zuerst Säugling, später erwachsener Geistlicher.
+Kleidung: Als Erwachsener helles päpstliches Gewand.
+Persönlichkeit und Vorgeschichte: Überlebt durch Mitgefühl und begegnet seinem Vater später als Papst Leo IX.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Verdacht
+Ort und Zeit: Der Verdacht
+Sichtbare Figuren: Hugo von Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein eingewickeltes Baby in einer Wiege, Vater abgewandt daneben. Keine behauptete Untreue der Mutter.
+Erzählertext: Hugo glaubte ohne Grund, das Kind sei nicht sein Sohn. Aus Argwohn wurde ein tödlicher Befehl.
+Dialoge: keine
+Kontinuität / Änderung: Ein eingewickeltes Baby in einer Wiege, Vater abgewandt daneben. Keine behauptete Untreue der Mutter.
+
+KACHEL 2: Der Auftrag
+Ort und Zeit: Der Auftrag
+Sichtbare Figuren: Hugo von Egisheim, Knecht aus Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Knecht mit einem vollständig bedeckten Säugling, Vater weist zum Ausgang. Keine Gewalt.
+Erzählertext: Der Knecht sollte das Kind im Wald töten und einen Beweis bringen.
+Dialoge: keine
+Kontinuität / Änderung: Knecht mit einem vollständig bedeckten Säugling, Vater weist zum Ausgang. Keine Gewalt.
+
+KACHEL 3: Im Wald
+Ort und Zeit: Im Wald
+Sichtbare Figuren: Knecht aus Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann hält schützend das Baby, keine gezogene Waffe.
+Erzählertext: Doch er konnte den Mord nicht über sich bringen.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann hält schützend das Baby, keine gezogene Waffe.
+
+KACHEL 4: Sichere Obhut
+Ort und Zeit: Sichere Obhut
+Sichtbare Figuren: Knecht aus Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Kind bei einer vorsichtigen Übergabe an einer offenen Haustür, vier erwachsene Hände klar zugeordnet.
+Erzählertext: Er brachte Bruno an einen sicheren Ort.
+Dialoge: keine
+Kontinuität / Änderung: Ein Kind bei einer vorsichtigen Übergabe an einer offenen Haustür, vier erwachsene Hände klar zugeordnet.
+
+KACHEL 5: Der falsche Beweis
+Ort und Zeit: Der falsche Beweis
+Sichtbare Figuren: Knecht aus Egisheim, Hugo von Egisheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Knecht mit einem geschlossenen dunklen Tuchbündel, kein Tierorgan sichtbar.
+Erzählertext: Statt des Kindesherzens brachte er das eines Rehkälbchens. Der Vater erfuhr zunächst nicht, dass Bruno lebte.
+Dialoge: keine
+Kontinuität / Änderung: Knecht mit einem geschlossenen dunklen Tuchbündel, kein Tierorgan sichtbar.
+
+KACHEL 6: Die bewahrten Jahre
+Ort und Zeit: Die bewahrten Jahre
+Sichtbare Figuren: Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann an einem schlichten Lesetisch, keine Kindkopie hinter ihm.
+Erzählertext: Bruno wuchs fern von seinem Vater auf.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann an einem schlichten Lesetisch, keine Kindkopie hinter ihm.
+
+KACHEL 7: Die späte Einsicht
+Ort und Zeit: Die späte Einsicht
+Sichtbare Figuren: Hugo von Egisheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hugo mit grauem Bart, Kopf gesenkt, Hände leer.
+Erzählertext: Mit den Jahren erkannte Hugo seinen Irrwahn. Er glaubte noch immer, das Kind sei tot.
+Dialoge: keine
+Kontinuität / Änderung: Hugo mit grauem Bart, Kopf gesenkt, Hände leer.
+
+KACHEL 8: Der Pilger
+Ort und Zeit: Der Pilger
+Sichtbare Figuren: Hugo von Egisheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Älterer Hugo zu Fuß mit einem Holzstab, einfacher Mantel statt Herrscherrock.
+Erzählertext: Er verließ Schlösser und Land und zog nach Rom.
+Dialoge: keine
+Kontinuität / Änderung: Älterer Hugo zu Fuß mit einem Holzstab, einfacher Mantel statt Herrscherrock.
+
+KACHEL 9: Vor dem Papst
+Ort und Zeit: Vor dem Papst
+Sichtbare Figuren: Hugo von Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer in einem Saal, Bruno im hellen Gewand mit unverändert braunen Augen.
+Erzählertext: Beim Papst wollte Hugo seine Schuld bekennen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Männer in einem Saal, Bruno im hellen Gewand mit unverändert braunen Augen.
+
+KACHEL 10: Das Geständnis
+Ort und Zeit: Das Geständnis
+Sichtbare Figuren: Hugo von Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pilger links auf beiden Knien, Stab seitlich abgelegt; Papst rechts.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hugo von Egisheim
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich wollte meinen eigenen Sohn töten lassen.“
+Kontinuität / Änderung: Pilger links auf beiden Knien, Stab seitlich abgelegt; Papst rechts.
+
+KACHEL 11: Der unbekannte Sohn
+Ort und Zeit: Der unbekannte Sohn
+Sichtbare Figuren: Bruno der Egisheimer Sage, Hugo von Egisheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Der eine Papst erhebt sich, Hugo bleibt noch unten, keine zusätzliche Brunofigur.
+Erzählertext: Der Papst kannte die Geschichte. Der Knecht hatte eine Zukunft bewahrt, die Hugo nicht ahnte.
+Dialoge: keine
+Kontinuität / Änderung: Der eine Papst erhebt sich, Hugo bleibt noch unten, keine zusätzliche Brunofigur.
+
+KACHEL 12: Die Offenbarung
+Ort und Zeit: Die Offenbarung
+Sichtbare Figuren: Bruno der Egisheimer Sage, Hugo von Egisheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Papst und Pilger einander zugewandt, Stab weiter am Boden.
+Erzählertext: Der Mann vor ihm war Bruno, sein Sohn – in der Sage Papst Leo IX.
+Dialoge: keine
+Kontinuität / Änderung: Papst und Pilger einander zugewandt, Stab weiter am Boden.
+
+KACHEL 13: Die Vergebung
+Ort und Zeit: Die Vergebung
+Sichtbare Figuren: Bruno der Egisheimer Sage, Hugo von Egisheim
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer auf gleicher Bodenhöhe, Hände aneinandergelegt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bruno der Egisheimer Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Vater, ich lebe. Ich vergebe dir.“
+Kontinuität / Änderung: Zwei erwachsene Männer auf gleicher Bodenhöhe, Hände aneinandergelegt.
+
+KACHEL 14: Was der Knecht bewahrte
+Ort und Zeit: Was der Knecht bewahrte
+Sichtbare Figuren: Hugo von Egisheim, Bruno der Egisheimer Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine stille Umarmung zweier Männer, keine Rückblende mit Säugling im selben Bild.
+Erzählertext: Reue traf auf ein gerettetes Leben. Ohne den Ungehorsam des Knechts hätte es diese Begegnung nicht gegeben.
+Dialoge: keine
+Kontinuität / Änderung: Eine stille Umarmung zweier Männer, keine Rückblende mit Säugling im selben Bild.

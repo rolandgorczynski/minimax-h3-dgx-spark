@@ -1,0 +1,806 @@
+{
+  "geschichten": [
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfth-0",
+      "title": "Der Zähringer Ursprung",
+      "source_sha256": "d8150f3c42449a28c8a16bcbde5f519c1aaee18bf7d8c2d92891120c3cce45ab",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf1t-0",
+      "title": "Das Riesenspielzeug",
+      "source_sha256": "685a963896464da28606e5aa867165a2b6843162aca5d0b08028b2f2619ac362",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdn4-0",
+      "title": "Der Krötenstuhl",
+      "source_sha256": "8fa8ccc580f229a0d3a22674cf3ec0548a4e1d6f858a0ffa1472ff91fefe7779",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf46-0",
+      "title": "Der Mühlenbär",
+      "source_sha256": "29fa337b46f3159011c5b474c710fc7fb1465954fc331f4bd2f0b8af343dbb40",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg76-0",
+      "title": "Chorkönig",
+      "source_sha256": "b0562cf8c91ac81bd442ba120c70700fafd1877c37ec88c7468a39d510ecfdf7",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdg0-0",
+      "title": "Sankt Ottilia",
+      "source_sha256": "f237927a838fb49d3d76b5e370b70b0eabca17b5722e6ec64c650ff3de0ed108",
+      "count": 18,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgrc-0",
+      "title": "Vater und Sohn",
+      "source_sha256": "daaaadaa5cded7b2e99de53acdf6d356d9d8285f57fb1eec5281a9fece1ec061",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgtw-0",
+      "title": "Die Münsteruhr",
+      "source_sha256": "1af81c9fd67626e759cb1a855a1a0802f6b964662873a31381016a26df25c785",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjbr-0",
+      "title": "Straßburger Schießen und Zürcher Brei",
+      "source_sha256": "f5e519b190dba4e497050dab880e5f2ed8fde4477323ffddabdfe2492371f12a",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdx5-0",
+      "title": "Das Hündchen von Bretten",
+      "source_sha256": "7a0685b5130273c1a0e9c773848d276c84b8db9657b962951ebcfb11b5c157f3",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfpk-0",
+      "title": "Trifels",
+      "source_sha256": "d011282bb1c8f1f5fb89b1ae502c6308c2abd55c0676380859edcff2ca0f52ad",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgct-0",
+      "title": "Der Rotbart zu Kaiserslautern",
+      "source_sha256": "93c3c4729712cd2983c15b68a8a28fa34f2dca777b01ca20fa0249d397f3969e",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khbc-0",
+      "title": "Die schiffenden Mönche",
+      "source_sha256": "6c3dc695a851162dfa7c3056e5aba450f704f127ab31eeed8891c92e895e14a6",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf60-0",
+      "title": "Die Schwabenschüssel",
+      "source_sha256": "f4a752a289f3914849fe46640b6043f85bc9b74c78e0c1946bb2f3bdd66f7f11",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj58-0",
+      "title": "Die Totenglocken zu Speier",
+      "source_sha256": "9a06d06b150c295234bd3ae18de8af5e972b26a63e5ffd617fe224116f1699bd",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdkx-0",
+      "title": "Wormser Wahrzeichen",
+      "source_sha256": "1d47b97af377e7a927d13db5bf264be57ade7ba2bed788fc135028af25ea2604",
+      "count": 6,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg9w-0",
+      "title": "Die Königstochter vom Rhein",
+      "source_sha256": "46fdb790abf46cb44859e39865bdde7fdcc81a3712697485241e2b32dc543c4a",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgpq-0",
+      "title": "Schwedensäule bei Oppenheim",
+      "source_sha256": "3938ef080c27ce0d47b745d8140499ca99431e45cbb9ea9dff9708bbfdacd268",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfpx-0",
+      "title": "Siegenheim",
+      "source_sha256": "caffa8f18d6b0d2af4100437a4b240c6bf918feeaf32731c259ebb2422478bdd",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgn9-0",
+      "title": "Jettenbühel und Königsstuhl",
+      "source_sha256": "932a6938a768446ca46387f8ff017551e45baed4243941e2f0e54cdd31f2c760",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khc2-0",
+      "title": "St. Katharinens Handschuh",
+      "source_sha256": "f38ef843a71a390ae2ae0bf2f6535c2d530d9cea1d2e1457243008dffaa3ff64",
+      "count": 16,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgs6-0",
+      "title": "Des Rodensteiners Auszug",
+      "source_sha256": "d4323bd79f737699d3552e84c2c4c47a59c5b24a685745445141124cfc03d011",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjd6-0",
+      "title": "Eginhart und Emma",
+      "source_sha256": "fa64ccd5d32c4d010ab97beb404a51d631709f0058a0838f2d823465264f8a45",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdgz-0",
+      "title": "Die Windecker",
+      "source_sha256": "63dcd61643f29c710e761e249202d35a1f69fa8901a005f1a6ef5a7595135164",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfq9-0",
+      "title": "Thassilo in Lorsch",
+      "source_sha256": "109d3ee4998db98d5f6cab82cc2e404026b8a1c4394b048b00e4653916698cf7",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh08-0",
+      "title": "Der Heerwisch",
+      "source_sha256": "41ba0cbef4dd6940a1e2477cbd1dd0cd1d015bef40115c4edf73d0c0654e4fed",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg42-0",
+      "title": "Die Wiesenjungfrau und das Niesen",
+      "source_sha256": "a70509b57b324f8e3f6583ffece90a039483d64a40ceeaab2b9f77b826b26dc0",
+      "count": 16,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj99-0",
+      "title": "Das versunkene Kloster",
+      "source_sha256": "858e1ec968511211c36c0ccfbbae280ab5f4044adc4b088896a9db44e2a1c57c",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgb7-0",
+      "title": "Der Lindwurm auf Frankenstein",
+      "source_sha256": "1848ed03bcfb8da60daf98877ec57788a754c85a250e48fa6d2ec5524af47dd1",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf54-0",
+      "title": "Das Frankensteiner Eselslehen",
+      "source_sha256": "51ebaeef37fc6b78fa1483e3a9b0f1e5c0eb224f274896928728e05041337994",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdk6-0",
+      "title": "Das goldne Mainz",
+      "source_sha256": "cd904b39d84e9dc50e434cd0987251553d5cd097718fe5e26892e26bff165c36",
+      "count": 6,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgzd-0",
+      "title": "Hatto, Heriger und Willigis",
+      "source_sha256": "906911e69d35735928da6a048ca798f22b93ea20bf016a19f0e612c99ca3e51d",
+      "count": 18,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdc1-0",
+      "title": "Die heiligen Kreuze zu Mainz",
+      "source_sha256": "c7cd4c611bb97d45511ce0b75b84b9816ec81ecb3159bfa55dbb7bd6e59d4779",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfhg-0",
+      "title": "Heinrich Frauenlobs Begängnis",
+      "source_sha256": "22802cbe643b2784fc52f20c2e5892d811180cc86aef289374bf815e0ac3ffb9",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf5m-0",
+      "title": "Die heilige Bilhilde",
+      "source_sha256": "4f0222d75a7bdbc589dfc7ff077ba40e5cff72bf23a3be9141a8fd6975100631",
+      "count": 16,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khm5-0",
+      "title": "Der Franken Furt",
+      "source_sha256": "dbd6203d583fd5111686cabd7690476a04d2f673ae5dce12cd5686b891f7a53d",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfbg-0",
+      "title": "Des Königs Weihnacht",
+      "source_sha256": "51526d3585dc9f79dceff1de7c4cee3430d368c53390a706681dd229d1ed607a",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdsb-0",
+      "title": "Vom Eschenheimer Turm",
+      "source_sha256": "8b1638de285f038043faabd44294185ef7dffe9ab42e6cc5ecfbf2e3116b7eda",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdgm-0",
+      "title": "Der Teufelsweg auf Falkenstein",
+      "source_sha256": "4a985aa2eb28e729a1c86f71ffb966c2f3e4546a9f149bcbc38cbafbb71b70a1",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf9k-0",
+      "title": "Die Eppsteiner",
+      "source_sha256": "d0e622e40084ba7d24d2c3f1af778521b9d28260db4816924a3c6aa47ce6f03c",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdtp-0",
+      "title": "Blutlinde",
+      "source_sha256": "53deca46d17070308fd6fc82f2456becc74d9fe15c4ac00bbbfcea1bfc38115f",
+      "count": 16,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khpg-0",
+      "title": "Räderberg",
+      "source_sha256": "fb0dad178b8dc3fb81e66a95980c5b90904eaa59c89ddd9f9151988f11062d06",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj60-0",
+      "title": "Die Wisperstimme",
+      "source_sha256": "40e0199f4139ef2a46db318e6e57b0f2e1a89a3ed1f46910dad07055ffa660a7",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kd7f-0",
+      "title": "Die glühenden Kohlen",
+      "source_sha256": "92a7f0097d5a896554f067828b8d262559c1eb1b7b74f5db1848b14f7e0e3542",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh29-0",
+      "title": "Taube zeigt den Tod an",
+      "source_sha256": "7fdb0ba787894246c95b95eafd67c660ed8af45005715b95fccb2fad56fd01de",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh98-0",
+      "title": "Der Affe zu Dhaun",
+      "source_sha256": "ee5fd234e5a9dec377f0cfd8df01a7d4faabb46b9f5d5eb10a4faed85bf7d8b8",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khhn-0",
+      "title": "Das Pfaffenkäppchen",
+      "source_sha256": "5b75d4c3e315565c76e16d02e7613bf49c94938c6654ed95ead238846caacffe",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj7b-0",
+      "title": "Der Stiefel voll Wein",
+      "source_sha256": "bf561f2bd830b9dbd3d66a921af99187e5aae837821a9886a1304892504c77f9",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj3h-0",
+      "title": "Der wilde Jäger",
+      "source_sha256": "a25c3eebe86132357c46ff96232badbd46ac38eb528a255aacb1bdb9d712d978",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgwp-0",
+      "title": "Spanheims Gründung",
+      "source_sha256": "2a0fe77412180c2dc154cac00c8f1bfb71b3d52bd5588d9f2454cf02fdc65d9f",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj2f-0",
+      "title": "Vom Ursprung des Moselweins",
+      "source_sha256": "4508203f73ba4609667d32bd8e5a1d62f8296c425d495f5b6c4924dfd8d222c4",
+      "count": 6,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjck-0",
+      "title": "Der Heiligen Gräber",
+      "source_sha256": "89eb9f0e8ecfbf6ed04422bf94edfe07635d495a98714bca8903ea6e1a812b83",
+      "count": 6,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kht9-0",
+      "title": "Metz versagt den Tanz",
+      "source_sha256": "8a23e22047c76044614578b6f722641899d922e9659dc48c6c6df1f9e7310bde",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khkt-0",
+      "title": "Der Teufelsbündner in Virdung",
+      "source_sha256": "3157f3595749bed8330c21a1cdcf212ac26c1033298d4b5fab0d939e10b250d0",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khhb-0",
+      "title": "Die getreue Frau Florentina",
+      "source_sha256": "c84929ba4f27681fc2d5686d24c05b7488d2018e9f289106c05fe76cd23e8c9b",
+      "count": 18,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdvs-0",
+      "title": "Triers Alter",
+      "source_sha256": "395d84fb632e03ec611ed6e5dc078327b678010cc091c93f5375b533fc5cd428",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg90-0",
+      "title": "Sankt Arnulfs Ring",
+      "source_sha256": "2d068296c73b89f85f5f05e77f0e5bc18b3b0e2aa160388ecd9cd7f129c4ad1d",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg1g-0",
+      "title": "Frevel wird bestraft",
+      "source_sha256": "2981f347db99395a66b462662093efb9f35ea8dc88238b49945084077e7a97be",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh4g-0",
+      "title": "Die Martyrergräber",
+      "source_sha256": "00abf4d37b1a28c16dca47b2623e925f7769faadefc098a66fda154843a69ce0",
+      "count": 6,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdh7-0",
+      "title": "Die heilige Genofeva",
+      "source_sha256": "69a198bf47ce0041741b0d3933e0637259849397b07f3be040fec20cbd1abc5e",
+      "count": 18,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgwd-0",
+      "title": "Die Weingötter am Rhein",
+      "source_sha256": "cd8fda2d9ad8e912f7f5fdfc1b94e8f52a9c363936be4b3ee55bc26dd06e6a76",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjbs-0",
+      "title": "Die sieben Schwestern",
+      "source_sha256": "52d34399d179716217bfb688d376e161a3a9b1a41d26fd1775d74102b43b0f22",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khg6-0",
+      "title": "Lurlei",
+      "source_sha256": "f0362afed784a8bec13ee26a6561d8cd519eb9c9daf0705112d1d03cb1633067",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdkv-0",
+      "title": "Sankt Goars Wunder",
+      "source_sha256": "54f361b7fceb488fae1c9ba8b6200ca0141e0e6c2a91ea5a87185e627250bbec",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdb0-0",
+      "title": "Die Brüder",
+      "source_sha256": "af3d248ff781bb639ff3a8c681096c0a98c0bcc360b2a21b6e1d675199e08a61",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgn2-0",
+      "title": "Die wandelnde Nonne",
+      "source_sha256": "f19b32289165266d6adb51e7f32aca9d5b53d39b7fd37f26be820228600f5056",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj9s-0",
+      "title": "Die Frau von Stein",
+      "source_sha256": "756a75d22f78b8f734a65fd9760b1de0a01044834a780a9c433513a46a024c35",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdbn-0",
+      "title": "Der kühne Kurzbold",
+      "source_sha256": "47f352cc6d6ff252ae65236381649e96ef372b4b14008d179de850dd8dd169cb",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfcp-0",
+      "title": "Die Luftbrücke",
+      "source_sha256": "920e930131784df7dd09ba4a679873dde869c8a00cc96e5715bd38c5406ec28a",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khwm-0",
+      "title": "Die Gefangenen auf Altenahr",
+      "source_sha256": "16debe47e902a98d4dc4f5f152db098357cd139ef84f717371f323fd00da76eb",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdtx-0",
+      "title": "Vom Siebengebürg",
+      "source_sha256": "b07ba36d7d551d538be0ec7b0fa363ac4cf4335d30f486fde8bc26052a800111",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khh1-0",
+      "title": "Rolandseck",
+      "source_sha256": "0345434da4bad0fb610cde7c60da958c2b902ecd3efc3a6e050c0139590dc1ec",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgvt-0",
+      "title": "Die Knappschaft im Lüderich",
+      "source_sha256": "b4924bf9bb527d7ac2b5439d0254704e355620c469e798204ec85b719c697c66",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdsj-0",
+      "title": "Die letzte Saat",
+      "source_sha256": "75bb44aab7ba9935f3b86e20cef62c060ef695c3526e765ce9ea846e5331e395",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfzz-0",
+      "title": "Der Alte-Berg",
+      "source_sha256": "e4c3fdb9751205a8e67a5871c6b033459a5cef77e925ca65272b909c67941078",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khvv-0",
+      "title": "Der Klosteresel",
+      "source_sha256": "1fb1197f0fbfd74b1bc2b308fea29c41faa238258d2c967c9417161449829c5b",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjcb-0",
+      "title": "Der blühende Bischofstab",
+      "source_sha256": "10080faddef1ef485dc844be87d6a346875d3ee33702572738f190edd2f43cd9",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgx8-0",
+      "title": "Immenkapelle",
+      "source_sha256": "f22347ab429517d48fbfacd7b915bf94465fb2c13261b96bea4262a4d5136e9a",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdxk-0",
+      "title": "Nibelung von Hardenberg und der Zwerg Goldemar",
+      "source_sha256": "428e8bbb5a7b972916f06ea128e90897233bea817f2255d17511780d3dba0581",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgjv-0",
+      "title": "Das heilige Köln",
+      "source_sha256": "5dac9e9a2f59a26a698aa3cf45c621140dc92993b18918d82329f8a2458af7d5",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdf3-0",
+      "title": "Der Bürger Marsilius",
+      "source_sha256": "850748952a0db374c606c9552021c25bb82660c28b3d995783c3032a2d0ab299",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khzw-0",
+      "title": "Die Kölner Dom-Sage",
+      "source_sha256": "bea8f7d52d329f0c5262dba87a85d24345fce4a700c2756f679b2b2982b3c286",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kd5q-0",
+      "title": "Albertus Magnus",
+      "source_sha256": "b87a93eda8dd24e52163542887181e4a98f51b53233a7cef1270431512320836",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgrb-0",
+      "title": "Herr Gryn und der Löwe",
+      "source_sha256": "106e7c16f8196c582f9ddac219426ddf6316ba5cf7e41fa8cf6eb36b23d41b6f",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khf5-0",
+      "title": "Die Pferde aus dem Bodenloch",
+      "source_sha256": "f79bf4782a2ad948e6119a475e641bc3d5120f0a8e16a4fed9fb047e1b6afe28",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdfp-0",
+      "title": "Umrittener Wald",
+      "source_sha256": "6558aa89fc8e643b534226f0cdf2c8dff3f9a3ec8a6e105091812c1443999d38",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgj9-0",
+      "title": "Kaiser Karls Apfelschnitze",
+      "source_sha256": "2b91db0f245b80d20bad3e2f72f47b0df1e790918c77ca52479f0d63979a1fa9",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjc8-0",
+      "title": "Dom zu Aachen",
+      "source_sha256": "ef9b47bebc0a412ef4409d0f71e4ca27b3f048f4233fb78435e400caccf386c2",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgmw-0",
+      "title": "Der Teufel im Ponellenturm",
+      "source_sha256": "effd2de6c722f4aab667937f2891af1579670ceba37e7b3dc92b781cf93b6676",
+      "count": 6,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgx1-0",
+      "title": "Vom Loosberg über Aachen",
+      "source_sha256": "f0aa9ac62116d0764925f97170c4e7f3fb356c8b8a56dbfd12f93de23f7696e9",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh8r-0",
+      "title": "Schlangenring",
+      "source_sha256": "c84b1b078128bc63fb33669c586b0a02f4704230922753a848e24373484aaf87",
+      "count": 10,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh4p-0",
+      "title": "Kaiser Karl kehrt heim",
+      "source_sha256": "480fef40504763b1b9e1cc8d54d0cd22064054a3c657d09bc6ad1b861b3f5dc4",
+      "count": 14,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjcw-0",
+      "title": "Fastradas Liebeszauber",
+      "source_sha256": "c1fc82fd0e3a46a66022f5938773a39a87df08f392d2c1386305d3c5ada036b1",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfnh-0",
+      "title": "Karl des Großen Tod und Grab",
+      "source_sha256": "52ce117a23e6a1f36fe27daa3eb7b35a924c4648985af44327255c9473351051",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdnt-0",
+      "title": "Templerkirche zu Aachen",
+      "source_sha256": "95d51c535b25adb0153d2d90309a99977faf176d6a048ae7c2bae72990ca2c48",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj1j-0",
+      "title": "Die Hinzlein zu Aachen",
+      "source_sha256": "76d92ec3837a4469e0c0db005f3edacf9a502d0ec94aea6a914f2c21214953eb",
+      "count": 16,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh89-0",
+      "title": "Die buckligen Musikanten auf dem Pervisch",
+      "source_sha256": "40358585caf46e8b734d3d27088eacea871cb9c5cfc08613d9d9bb087ccc304d",
+      "count": 12,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfv5-0",
+      "title": "Der fliegende Holländer",
+      "source_sha256": "0c39b93152dfccefef555e41a37987cd61c270984b3ce8e3d193f9055840bcce",
+      "count": 16,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdww-0",
+      "title": "Sankt Remaclus Fuß zu Spa",
+      "source_sha256": "4f2fba51111e4d31d01c19550f4ef78060f55022ff55f9e2bbb807e6e8e17a02",
+      "count": 8,
+      "status": "offen"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj1r-0",
+      "title": "Die schlafenden Kinder",
+      "source_sha256": "fa51318589449149b2e03aad6f47b70d9ac74438d1487a9cb5605fdab7741b9c",
+      "count": 12,
+      "status": "offen"
+    }
+  ],
+  "bilder_generieren": false,
+  "ziel_auswahl": 200
+}

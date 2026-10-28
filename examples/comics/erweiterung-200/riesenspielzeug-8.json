@@ -1,0 +1,471 @@
+{
+  "mode": "editorial",
+  "name": "Das Riesenspielzeug – Kein Ding zum Spielen · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Das Riesenspielzeug. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 31.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAn einem wilden Wasserfall in der Nähe des Breuschtales im Elsaß liegen die Trümmer einer alten Riesenburg, Schloß Nideck geheißen. Von der Burg herab ging einstmals ein Fräulein bis schier gen Hasloch, das war des Burgherrn riesige Tochter, die hatte noch niemals Menschenleute gesehen, und da gewahrte sie unversehens einen Ackersmann, der mit zwei Pferden pflügte, das dünkte ihr etwas sehr Gespaßiges, das kleine Zeug; sie kauerte sich zum Boden nieder, breitete ihr Schürztuch aus und raffte mit der Hand Bauer, Pflug und Pferde hinein, schlug die Schürze um sich herum, hielt's mit der Hand recht fest und lief, was sie nur laufen konnte, und sprang eilend den Berg hinauf. Mit wenigen Schritten, die sie tat, war sie droben und trat jubelnd über ihren Fund und Fang vor ihren Vater, den Riesen, hin, der gerade beim Tische saß und sich am vollen Humpen labte. Als der die Tochter so mit freudeglühendem Gesicht eintreten sah, so fragte er: Nu min Kind, was hesch so Zwaselichs in di Furti? Krom's us, krom's us! – O min Vater! rief die Riesentochter, gar ze nettes Spieldinges ha i funden. – Und da kramte sie aus ihrem Vortuch aus, Bauer und Pferde und Pflug, und stellt's auf den Tisch hin und hatte ihre Herzensfreude daran, daß das Spielzeug lebendig war, sich bewegte und zappelte. Ja min Kind, sprach der alte Riese, do hest de ebs Schöns gemacht, dies is jo ken Spieldings nit, dies is jo einer von die Burn; trog alles widder fort und stells widder hin ans nämlich Plätzli, wo du's genommen hast! – Das hörte das Riesenfräulein gar nicht gern, daß sie ihren Fund wieder forttragen sollte, und greinte, der Riese aber ward zornig und schalt: Potz tusig! daß de mir net murrst! E Bur ist nit e Spieldings! Wenn die Burn net ackern, so müssen die Riesen verhungern! – Da mußte das Riesenfräulein seinen vermeintlichen Spielkram als wieder forttragen und stellte alles wieder auf den Acker hin.\n\nDiese Sage wird auch von manchem andern Ort in Deutschland erzählt, und zwar auf ganz ähnliche Weise, vom Schlosse Blankenburg oder Greifenstein ohnweit Schwarzburg im Thüringerlande, auch vom Lichtenberg im Odenwalde, allwo gewaltige Riesen hausten.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Das Riesenspielzeug. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 31.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAn einem wilden Wasserfall in der Nähe des Breuschtales im Elsaß liegen die Trümmer einer alten Riesenburg, Schloß Nideck geheißen. Von der Burg herab ging einstmals ein Fräulein bis schier gen Hasloch, das war des Burgherrn riesige Tochter, die hatte noch niemals Menschenleute gesehen, und da gewahrte sie unversehens einen Ackersmann, der mit zwei Pferden pflügte, das dünkte ihr etwas sehr Gespaßiges, das kleine Zeug; sie kauerte sich zum Boden nieder, breitete ihr Schürztuch aus und raffte mit der Hand Bauer, Pflug und Pferde hinein, schlug die Schürze um sich herum, hielt's mit der Hand recht fest und lief, was sie nur laufen konnte, und sprang eilend den Berg hinauf. Mit wenigen Schritten, die sie tat, war sie droben und trat jubelnd über ihren Fund und Fang vor ihren Vater, den Riesen, hin, der gerade beim Tische saß und sich am vollen Humpen labte. Als der die Tochter so mit freudeglühendem Gesicht eintreten sah, so fragte er: Nu min Kind, was hesch so Zwaselichs in di Furti? Krom's us, krom's us! – O min Vater! rief die Riesentochter, gar ze nettes Spieldinges ha i funden. – Und da kramte sie aus ihrem Vortuch aus, Bauer und Pferde und Pflug, und stellt's auf den Tisch hin und hatte ihre Herzensfreude daran, daß das Spielzeug lebendig war, sich bewegte und zappelte. Ja min Kind, sprach der alte Riese, do hest de ebs Schöns gemacht, dies is jo ken Spieldings nit, dies is jo einer von die Burn; trog alles widder fort und stells widder hin ans nämlich Plätzli, wo du's genommen hast! – Das hörte das Riesenfräulein gar nicht gern, daß sie ihren Fund wieder forttragen sollte, und greinte, der Riese aber ward zornig und schalt: Potz tusig! daß de mir net murrst! E Bur ist nit e Spieldings! Wenn die Burn net ackern, so müssen die Riesen verhungern! – Da mußte das Riesenfräulein seinen vermeintlichen Spielkram als wieder forttragen und stellte alles wieder auf den Acker hin.\n\nDiese Sage wird auch von manchem andern Ort in Deutschland erzählt, und zwar auf ganz ähnliche Weise, vom Schlosse Blankenburg oder Greifenstein ohnweit Schwarzburg im Thüringerlande, auch vom Lichtenberg im Odenwalde, allwo gewaltige Riesen hausten.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 8,
+    "panel_count": 8,
+    "scenes": [
+      {
+        "heading": "Unter der Riesenburg",
+        "setting": "Unter der Riesenburg",
+        "characters": [
+          "043aedef3a4a59069db46fe004c14fc2",
+          "888d7787542a539189741aa1d84ecfd8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riesentochter oben am Hang, kleiner entfernter Bauer mit genau zwei Pferden auf dem Acker. Größenunterschied durch Riesenmaßstab.",
+        "dialog": "Von Nideck stieg die Riesentochter ins Tal. Menschen hatte sie noch nie gesehen.",
+        "bubbles": [],
+        "character_states": {
+          "043aedef3a4a59069db46fe004c14fc2": "geht den Hang hinunter; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend",
+          "888d7787542a539189741aa1d84ecfd8": "pflügt fern unten; Graues Hemd, braune Hose, Strohhut.; Lebenszustand: lebend"
+        },
+        "continuity": "Riesentochter oben am Hang, kleiner entfernter Bauer mit genau zwei Pferden auf dem Acker. Größenunterschied durch Riesenmaßstab.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Unter der Riesenburg",
+            "posture": "geht den Hang hinunter"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Unter der Riesenburg",
+            "posture": "pflügt fern unten"
+          }
+        }
+      },
+      {
+        "heading": "Der Fund",
+        "setting": "Der Fund",
+        "characters": [
+          "043aedef3a4a59069db46fe004c14fc2",
+          "888d7787542a539189741aa1d84ecfd8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riesentochter breitet ihre eine Schürze am Boden aus; Bauer, ein Pflug und zwei Pferde direkt davor.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "043aedef3a4a59069db46fe004c14fc2",
+            "text": "Was für ein lebendiges Spielzeug!",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "043aedef3a4a59069db46fe004c14fc2": "kauert vor dem Acker; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend",
+          "888d7787542a539189741aa1d84ecfd8": "steht beim Pflug; Graues Hemd, braune Hose, Strohhut.; Lebenszustand: lebend"
+        },
+        "continuity": "Riesentochter breitet ihre eine Schürze am Boden aus; Bauer, ein Pflug und zwei Pferde direkt davor.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Der Fund",
+            "posture": "kauert vor dem Acker"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Der Fund",
+            "posture": "steht beim Pflug"
+          }
+        }
+      },
+      {
+        "heading": "In der Schürze",
+        "setting": "In der Schürze",
+        "characters": [
+          "043aedef3a4a59069db46fe004c14fc2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Beide Hände der Riesin halten den großen Schürzenbeutel; keine zweite Bauerfigur auf dem Acker.",
+        "dialog": "Sie nahm Bauer, Pflug und Pferde mit. Seine Arbeit und sein Leben waren für sie nur ein Fund.",
+        "bubbles": [],
+        "character_states": {
+          "043aedef3a4a59069db46fe004c14fc2": "steht mit geschlossen geraffter Schürze; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Beide Hände der Riesin halten den großen Schürzenbeutel; keine zweite Bauerfigur auf dem Acker.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "In der Schürze",
+            "posture": "steht mit geschlossen geraffter Schürze"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Der Fund",
+            "posture": "steht beim Pflug"
+          }
+        }
+      },
+      {
+        "heading": "Auf dem Tisch",
+        "setting": "Auf dem Tisch",
+        "characters": [
+          "043aedef3a4a59069db46fe004c14fc2",
+          "5a0829904fe7536e8108b03ab14d4b6b",
+          "888d7787542a539189741aa1d84ecfd8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bauer, zwei Pferde und ein Pflug auf dem großen Tisch; Schürze jetzt leer. Vater riesig im Stuhl dahinter.",
+        "dialog": "Dem Vater stellte sie alles auf den Tisch.",
+        "bubbles": [],
+        "character_states": {
+          "043aedef3a4a59069db46fe004c14fc2": "steht links am Riesentisch; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend",
+          "5a0829904fe7536e8108b03ab14d4b6b": "sitzt rechts; Braunes Wams, dunkle Hose und Stiefel.; Lebenszustand: lebend",
+          "888d7787542a539189741aa1d84ecfd8": "steht klein auf der Tischplatte; Graues Hemd, braune Hose, Strohhut.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Bauer, zwei Pferde und ein Pflug auf dem großen Tisch; Schürze jetzt leer. Vater riesig im Stuhl dahinter.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Auf dem Tisch",
+            "posture": "steht links am Riesentisch"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Auf dem Tisch",
+            "posture": "steht klein auf der Tischplatte"
+          },
+          "5a0829904fe7536e8108b03ab14d4b6b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Wams, dunkle Hose und Stiefel.",
+            "location": "Auf dem Tisch",
+            "posture": "sitzt rechts"
+          }
+        }
+      },
+      {
+        "heading": "Der Widerspruch",
+        "setting": "Der Widerspruch",
+        "characters": [
+          "5a0829904fe7536e8108b03ab14d4b6b",
+          "043aedef3a4a59069db46fe004c14fc2",
+          "888d7787542a539189741aa1d84ecfd8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riese blickt ernst zur Tochter, Bauer bleibt auf derselben Tischkante.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "5a0829904fe7536e8108b03ab14d4b6b",
+            "text": "Das ist ein Bauer. Kein Spielzeug.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "5a0829904fe7536e8108b03ab14d4b6b": "beugt sich zum Tisch; Braunes Wams, dunkle Hose und Stiefel.; Lebenszustand: lebend",
+          "043aedef3a4a59069db46fe004c14fc2": "steht daneben; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend",
+          "888d7787542a539189741aa1d84ecfd8": "steht bei den Pferden; Graues Hemd, braune Hose, Strohhut.; Lebenszustand: lebend"
+        },
+        "continuity": "Riese blickt ernst zur Tochter, Bauer bleibt auf derselben Tischkante.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Der Widerspruch",
+            "posture": "steht daneben"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Der Widerspruch",
+            "posture": "steht bei den Pferden"
+          },
+          "5a0829904fe7536e8108b03ab14d4b6b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Wams, dunkle Hose und Stiefel.",
+            "location": "Der Widerspruch",
+            "posture": "beugt sich zum Tisch"
+          }
+        }
+      },
+      {
+        "heading": "Die Abhängigkeit",
+        "setting": "Die Abhängigkeit",
+        "characters": [
+          "5a0829904fe7536e8108b03ab14d4b6b",
+          "043aedef3a4a59069db46fe004c14fc2",
+          "888d7787542a539189741aa1d84ecfd8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Identitäten klar getrennt; die zwei Pferde ruhig neben dem Pflug.",
+        "dialog": "Ohne die Arbeit der Bauern, erklärte der Vater, müssten auch die Riesen hungern.",
+        "bubbles": [],
+        "character_states": {
+          "5a0829904fe7536e8108b03ab14d4b6b": "zeigt mit offener Hand auf den Bauern; Braunes Wams, dunkle Hose und Stiefel.; Lebenszustand: lebend",
+          "043aedef3a4a59069db46fe004c14fc2": "hört zu; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend",
+          "888d7787542a539189741aa1d84ecfd8": "steht auf dem Tisch; Graues Hemd, braune Hose, Strohhut.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Identitäten klar getrennt; die zwei Pferde ruhig neben dem Pflug.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Die Abhängigkeit",
+            "posture": "hört zu"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Die Abhängigkeit",
+            "posture": "steht auf dem Tisch"
+          },
+          "5a0829904fe7536e8108b03ab14d4b6b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Wams, dunkle Hose und Stiefel.",
+            "location": "Die Abhängigkeit",
+            "posture": "zeigt mit offener Hand auf den Bauern"
+          }
+        }
+      },
+      {
+        "heading": "Der Rückweg",
+        "setting": "Der Rückweg",
+        "characters": [
+          "043aedef3a4a59069db46fe004c14fc2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riesentochter trägt denselben einen Schürzenbeutel zurück zum Acker. Kein Bauer läuft als Kopie neben ihr.",
+        "dialog": "Sie musste ihren vermeintlichen Spielkram zurücktragen.",
+        "bubbles": [],
+        "character_states": {
+          "043aedef3a4a59069db46fe004c14fc2": "geht mit geraffter Schürze bergab; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Riesentochter trägt denselben einen Schürzenbeutel zurück zum Acker. Kein Bauer läuft als Kopie neben ihr.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Der Rückweg",
+            "posture": "geht mit geraffter Schürze bergab"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Die Abhängigkeit",
+            "posture": "steht auf dem Tisch"
+          },
+          "5a0829904fe7536e8108b03ab14d4b6b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Wams, dunkle Hose und Stiefel.",
+            "location": "Die Abhängigkeit",
+            "posture": "zeigt mit offener Hand auf den Bauern"
+          }
+        }
+      },
+      {
+        "heading": "Wieder am Acker",
+        "setting": "Wieder am Acker",
+        "characters": [
+          "043aedef3a4a59069db46fe004c14fc2",
+          "888d7787542a539189741aa1d84ecfd8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauer mit zwei unversehrten Pferden wieder auf dem Acker; riesige offene Hand dahinter entfernt sich.",
+        "dialog": "Unversehrt stand alles am alten Platz. Klein zu sein machte den Bauern nicht zum Besitz der Großen.",
+        "bubbles": [],
+        "character_states": {
+          "043aedef3a4a59069db46fe004c14fc2": "kniet mit leerer Schürze; Blaues Kleid, große helle Schürze, braune Schuhe.; Lebenszustand: lebend",
+          "888d7787542a539189741aa1d84ecfd8": "steht am Pflug; Graues Hemd, braune Hose, Strohhut.; Lebenszustand: lebend"
+        },
+        "continuity": "Bauer mit zwei unversehrten Pferden wieder auf dem Acker; riesige offene Hand dahinter entfernt sich.",
+        "continuity_state": {
+          "043aedef3a4a59069db46fe004c14fc2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+            "location": "Wieder am Acker",
+            "posture": "kniet mit leerer Schürze"
+          },
+          "888d7787542a539189741aa1d84ecfd8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Hemd, braune Hose, Strohhut.",
+            "location": "Wieder am Acker",
+            "posture": "steht am Pflug"
+          },
+          "5a0829904fe7536e8108b03ab14d4b6b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Wams, dunkle Hose und Stiefel.",
+            "location": "Die Abhängigkeit",
+            "posture": "zeigt mit offener Hand auf den Bauern"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Riesentochter von Nideck",
+        "description": "Junge riesenhafte Frau mit braunem Zopf und rundem Gesicht.",
+        "outfit": "Blaues Kleid, große helle Schürze, braune Schuhe.",
+        "backstory": "Hält Menschen zunächst für Spielzeug.",
+        "id": "043aedef3a4a59069db46fe004c14fc2",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Riese von Nideck",
+        "description": "Sehr großer älterer Mann, grauer Vollbart.",
+        "outfit": "Braunes Wams, dunkle Hose und Stiefel.",
+        "backstory": "Kennt die Bedeutung der Bauern auch für das Leben der Riesen.",
+        "id": "5a0829904fe7536e8108b03ab14d4b6b",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Bauer unter Nideck",
+        "description": "Erwachsener normal großer Mann, kurzer schwarzer Bart.",
+        "outfit": "Graues Hemd, braune Hose, Strohhut.",
+        "backstory": "Pflügt mit zwei Pferden und wird unversehrt zurückgebracht.",
+        "id": "888d7787542a539189741aa1d84ecfd8",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Darf größere Macht das kleinere Leben zum bloßen Spielzeug machen?",
+      "core": "Wer mächtiger ist, darf andere nicht als verfügbare Dinge behandeln. Gerade die scheinbar Kleinen tragen Lebensgrundlagen, von denen auch die Großen abhängen.",
+      "ending": "Die Riesentochter bringt Bauer, Pferde und Pflug unversehrt auf den Acker zurück.",
+      "reason": "Fund, vermeintlicher Spielwert, belehrende Umwertung und Rückgabe tragen die klare Pointe.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Wenn die Burn net ackern, so müssen die Riesen verhungern!",
+          "meaning": "Der Vater begründet Rücksicht aus realer wechselseitiger Abhängigkeit."
+        }
+      ],
+      "causal_chain": [
+        "Wenn die Burn net ackern, so müssen die Riesen verhungern!",
+        "Die Riesentochter bringt Bauer, Pferde und Pflug unversehrt auf den Acker zurück."
+      ],
+      "recommended_count": 8,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "685a963896464da28606e5aa867165a2b6843162aca5d0b08028b2f2619ac362",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.853291+00:00"
+    },
+    "post_summary": "Eine Riesentochter findet einen Bauern samt Pferden. Ihr Vater erklärt ihr, was sie wirklich in der Schürze trägt.",
+    "source_provenance": {
+      "title": "Das Riesenspielzeug",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 31.",
+      "url": "https://textgridrep.org/browse/kf1t.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Das Riesenspielzeug. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 31.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAn einem wilden Wasserfall in der Nähe des Breuschtales im Elsaß liegen die Trümmer einer alten Riesenburg, Schloß Nideck geheißen. Von der Burg herab ging einstmals ein Fräulein bis schier gen Hasloch, das war des Burgherrn riesige Tochter, die hatte noch niemals Menschenleute gesehen, und da gewahrte sie unversehens einen Ackersmann, der mit zwei Pferden pflügte, das dünkte ihr etwas sehr Gespaßiges, das kleine Zeug; sie kauerte sich zum Boden nieder, breitete ihr Schürztuch aus und raffte mit der Hand Bauer, Pflug und Pferde hinein, schlug die Schürze um sich herum, hielt's mit der Hand recht fest und lief, was sie nur laufen konnte, und sprang eilend den Berg hinauf. Mit wenigen Schritten, die sie tat, war sie droben und trat jubelnd über ihren Fund und Fang vor ihren Vater, den Riesen, hin, der gerade beim Tische saß und sich am vollen Humpen labte. Als der die Tochter so mit freudeglühendem Gesicht eintreten sah, so fragte er: Nu min Kind, was hesch so Zwaselichs in di Furti? Krom's us, krom's us! – O min Vater! rief die Riesentochter, gar ze nettes Spieldinges ha i funden. – Und da kramte sie aus ihrem Vortuch aus, Bauer und Pferde und Pflug, und stellt's auf den Tisch hin und hatte ihre Herzensfreude daran, daß das Spielzeug lebendig war, sich bewegte und zappelte. Ja min Kind, sprach der alte Riese, do hest de ebs Schöns gemacht, dies is jo ken Spieldings nit, dies is jo einer von die Burn; trog alles widder fort und stells widder hin ans nämlich Plätzli, wo du's genommen hast! – Das hörte das Riesenfräulein gar nicht gern, daß sie ihren Fund wieder forttragen sollte, und greinte, der Riese aber ward zornig und schalt: Potz tusig! daß de mir net murrst! E Bur ist nit e Spieldings! Wenn die Burn net ackern, so müssen die Riesen verhungern! – Da mußte das Riesenfräulein seinen vermeintlichen Spielkram als wieder forttragen und stellte alles wieder auf den Acker hin.\n\nDiese Sage wird auch von manchem andern Ort in Deutschland erzählt, und zwar auf ganz ähnliche Weise, vom Schlosse Blankenburg oder Greifenstein ohnweit Schwarzburg im Thüringerlande, auch vom Lichtenberg im Odenwalde, allwo gewaltige Riesen hausten.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "An einem wilden Wasserfall in der Nähe des Breuschtales im Elsaß liegen die Trümmer einer alten Riesenburg, Schloß Nideck geheißen.",
+      "id": "bechstein-sagen-kf1t-0",
+      "category": "Drachen und Ungeheuer",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "riesenspielzeug-8-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Das Riesenspielzeug – Kein Ding zum Spielen · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Das Riesenspielzeug – Kein Ding zum Spielen\nAUTOR: Sysop\nKACHELANZAHL: 8\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Riesentochter von Nideck\nAussehen: Junge riesenhafte Frau mit braunem Zopf und rundem Gesicht.\nKleidung: Blaues Kleid, große helle Schürze, braune Schuhe.\nPersönlichkeit und Vorgeschichte: Hält Menschen zunächst für Spielzeug.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Riese von Nideck\nAussehen: Sehr großer älterer Mann, grauer Vollbart.\nKleidung: Braunes Wams, dunkle Hose und Stiefel.\nPersönlichkeit und Vorgeschichte: Kennt die Bedeutung der Bauern auch für das Leben der Riesen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Bauer unter Nideck\nAussehen: Erwachsener normal großer Mann, kurzer schwarzer Bart.\nKleidung: Graues Hemd, braune Hose, Strohhut.\nPersönlichkeit und Vorgeschichte: Pflügt mit zwei Pferden und wird unversehrt zurückgebracht.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Unter der Riesenburg\nOrt und Zeit: Unter der Riesenburg\nSichtbare Figuren: Riesentochter von Nideck, Bauer unter Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riesentochter oben am Hang, kleiner entfernter Bauer mit genau zwei Pferden auf dem Acker. Größenunterschied durch Riesenmaßstab.\nErzählertext: Von Nideck stieg die Riesentochter ins Tal. Menschen hatte sie noch nie gesehen.\nDialoge: keine\nKontinuität / Änderung: Riesentochter oben am Hang, kleiner entfernter Bauer mit genau zwei Pferden auf dem Acker. Größenunterschied durch Riesenmaßstab.\n\nKACHEL 2: Der Fund\nOrt und Zeit: Der Fund\nSichtbare Figuren: Riesentochter von Nideck, Bauer unter Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riesentochter breitet ihre eine Schürze am Boden aus; Bauer, ein Pflug und zwei Pferde direkt davor.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Riesentochter von Nideck\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Was für ein lebendiges Spielzeug!“\nKontinuität / Änderung: Riesentochter breitet ihre eine Schürze am Boden aus; Bauer, ein Pflug und zwei Pferde direkt davor.\n\nKACHEL 3: In der Schürze\nOrt und Zeit: In der Schürze\nSichtbare Figuren: Riesentochter von Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Beide Hände der Riesin halten den großen Schürzenbeutel; keine zweite Bauerfigur auf dem Acker.\nErzählertext: Sie nahm Bauer, Pflug und Pferde mit. Seine Arbeit und sein Leben waren für sie nur ein Fund.\nDialoge: keine\nKontinuität / Änderung: Beide Hände der Riesin halten den großen Schürzenbeutel; keine zweite Bauerfigur auf dem Acker.\n\nKACHEL 4: Auf dem Tisch\nOrt und Zeit: Auf dem Tisch\nSichtbare Figuren: Riesentochter von Nideck, Riese von Nideck, Bauer unter Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bauer, zwei Pferde und ein Pflug auf dem großen Tisch; Schürze jetzt leer. Vater riesig im Stuhl dahinter.\nErzählertext: Dem Vater stellte sie alles auf den Tisch.\nDialoge: keine\nKontinuität / Änderung: Ein Bauer, zwei Pferde und ein Pflug auf dem großen Tisch; Schürze jetzt leer. Vater riesig im Stuhl dahinter.\n\nKACHEL 5: Der Widerspruch\nOrt und Zeit: Der Widerspruch\nSichtbare Figuren: Riese von Nideck, Riesentochter von Nideck, Bauer unter Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riese blickt ernst zur Tochter, Bauer bleibt auf derselben Tischkante.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Riese von Nideck\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das ist ein Bauer. Kein Spielzeug.“\nKontinuität / Änderung: Riese blickt ernst zur Tochter, Bauer bleibt auf derselben Tischkante.\n\nKACHEL 6: Die Abhängigkeit\nOrt und Zeit: Die Abhängigkeit\nSichtbare Figuren: Riese von Nideck, Riesentochter von Nideck, Bauer unter Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Identitäten klar getrennt; die zwei Pferde ruhig neben dem Pflug.\nErzählertext: Ohne die Arbeit der Bauern, erklärte der Vater, müssten auch die Riesen hungern.\nDialoge: keine\nKontinuität / Änderung: Drei Identitäten klar getrennt; die zwei Pferde ruhig neben dem Pflug.\n\nKACHEL 7: Der Rückweg\nOrt und Zeit: Der Rückweg\nSichtbare Figuren: Riesentochter von Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riesentochter trägt denselben einen Schürzenbeutel zurück zum Acker. Kein Bauer läuft als Kopie neben ihr.\nErzählertext: Sie musste ihren vermeintlichen Spielkram zurücktragen.\nDialoge: keine\nKontinuität / Änderung: Riesentochter trägt denselben einen Schürzenbeutel zurück zum Acker. Kein Bauer läuft als Kopie neben ihr.\n\nKACHEL 8: Wieder am Acker\nOrt und Zeit: Wieder am Acker\nSichtbare Figuren: Riesentochter von Nideck, Bauer unter Nideck\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauer mit zwei unversehrten Pferden wieder auf dem Acker; riesige offene Hand dahinter entfernt sich.\nErzählertext: Unversehrt stand alles am alten Platz. Klein zu sein machte den Bauern nicht zum Besitz der Großen.\nDialoge: keine\nKontinuität / Änderung: Bauer mit zwei unversehrten Pferden wieder auf dem Acker; riesige offene Hand dahinter entfernt sich.\n"
+  },
+  "count_policy": "editorial"
+}

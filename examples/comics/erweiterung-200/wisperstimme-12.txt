@@ -1,0 +1,125 @@
+TITEL: Die Wisperstimme – Der Schatz im Turm
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Müllerin im Wispertal
+Aussehen: Erwachsene Frau mit dunklem Zopf.
+Kleidung: Blaues Arbeitskleid, helle Schürze.
+Persönlichkeit und Vorgeschichte: Hört eine versprechende Stimme und sucht den Schatz mit ihrem Säugling.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Müller im Wispertal
+Aussehen: Erwachsener kräftiger Mann mit graubraunem kurzem Bart.
+Kleidung: Graues Hemd, braune Hose, mehlige Schürze.
+Persönlichkeit und Vorgeschichte: Verweist auf die vorhandene Arbeit und sucht später die Vermissten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Jüngstes Kind der Wispermühle
+Aussehen: Ein kleiner Säugling mit rundem Gesicht, stets vollständig eingewickelt.
+Kleidung: Helle Säuglingsdecke.
+Persönlichkeit und Vorgeschichte: Überlebt den misslungenen Schatzversuch.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die vorhandene Grundlage
+Ort und Zeit: Die vorhandene Grundlage
+Sichtbare Figuren: Müllerin im Wispertal, Müller im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im arbeitenden Mühlenraum, heller Mehlkasten im Vordergrund.
+Erzählertext: Die Familie lebte von ihrer Mühle im Wispertal.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im arbeitenden Mühlenraum, heller Mehlkasten im Vordergrund.
+
+KACHEL 2: Das Wispern
+Ort und Zeit: Das Wispern
+Sichtbare Figuren: Müllerin im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau lauscht im leeren Raum, keine körperliche Sprecherfigur.
+Erzählertext: Dann hörte die Müllerin eine Stimme: Ein Schatz auf Kammerberg sei für sie bestimmt.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau lauscht im leeren Raum, keine körperliche Sprecherfigur.
+
+KACHEL 3: Der weiße Kasten
+Ort und Zeit: Der weiße Kasten
+Sichtbare Figuren: Müller im Wispertal, Müllerin im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mann deutet auf den Mehlkasten, Frau zum Bergfenster.
+Erzählertext: Der Müller hielt es für Träumerei. Der Mehlkasten sei ihr Schatz, sagte er.
+Dialoge: keine
+Kontinuität / Änderung: Mann deutet auf den Mehlkasten, Frau zum Bergfenster.
+
+KACHEL 4: Die fortdauernde Stimme
+Ort und Zeit: Die fortdauernde Stimme
+Sichtbare Figuren: Müllerin im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau wach auf einer Bank, Kind in einer sicheren Wiege daneben, niemand wispert sichtbar ins Ohr.
+Erzählertext: Die Stimme ließ ihr keine Ruhe und versprach Sicherheit – solange sie schweige.
+Dialoge: keine
+Kontinuität / Änderung: Frau wach auf einer Bank, Kind in einer sicheren Wiege daneben, niemand wispert sichtbar ins Ohr.
+
+KACHEL 5: Allein zum Berg
+Ort und Zeit: Allein zum Berg
+Sichtbare Figuren: Müllerin im Wispertal, Jüngstes Kind der Wispermühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau zu Fuß auf dem Bergpfad, Kind an ihrer Brust, keine zusätzlichen Kinder am Weg.
+Erzählertext: Als der Mann am Wehr arbeitete, ging sie mit dem Jüngsten hinauf.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau zu Fuß auf dem Bergpfad, Kind an ihrer Brust, keine zusätzlichen Kinder am Weg.
+
+KACHEL 6: Der schwarze Kasten
+Ort und Zeit: Der schwarze Kasten
+Sichtbare Figuren: Müllerin im Wispertal, Jüngstes Kind der Wispermühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine schwarze Truhe mit eingestecktem Schlüssel, Säugling trocken und sicher auf einer Decke abseits.
+Erzählertext: Im Gewölbe stand tatsächlich der Kasten mit dem Schlüssel.
+Dialoge: keine
+Kontinuität / Änderung: Eine schwarze Truhe mit eingestecktem Schlüssel, Säugling trocken und sicher auf einer Decke abseits.
+
+KACHEL 7: Das Gold
+Ort und Zeit: Das Gold
+Sichtbare Figuren: Müllerin im Wispertal, Jüngstes Kind der Wispermühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine offene Truhe mit Gold, beide Hände der Frau leer, kein dritter Arm mit Kind.
+Erzählertext: Sie öffnete ihn. Nun hätte sie nehmen können.
+Dialoge: keine
+Kontinuität / Änderung: Eine offene Truhe mit Gold, beide Hände der Frau leer, kein dritter Arm mit Kind.
+
+KACHEL 8: Der vertraute Ruf
+Ort und Zeit: Der vertraute Ruf
+Sichtbare Figuren: Müllerin im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau blickt zur dunklen Treppe, niemand steht dort.
+Erzählertext: Sie meinte, ihren älteren Jungen rufen zu hören, und antwortete unwillkürlich.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau blickt zur dunklen Treppe, niemand steht dort.
+
+KACHEL 9: Die gebrochene Bedingung
+Ort und Zeit: Die gebrochene Bedingung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres dunkles Turmgewölbe mit schrägem Licht, keine einstürzenden Steine auf einem Säugling.
+Erzählertext: Ein Krachen folgte. Die Stimme beklagte die wieder misslungene Erlösung. Dann verlor die Frau das Bewusstsein.
+Dialoge: keine
+Kontinuität / Änderung: Leeres dunkles Turmgewölbe mit schrägem Licht, keine einstürzenden Steine auf einem Säugling.
+
+KACHEL 10: Die Suche des Mannes
+Ort und Zeit: Die Suche des Mannes
+Sichtbare Figuren: Müller im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Müller am Eingang, hört in die Tiefe, keine gleichzeitige Rettungskopie.
+Erzählertext: Früher heimgekehrt vermisste der Müller seine Frau. Auf dem Berg hörte er sein Kind weinen.
+Dialoge: keine
+Kontinuität / Änderung: Müller am Eingang, hört in die Tiefe, keine gleichzeitige Rettungskopie.
+
+KACHEL 11: Zurück im Haus
+Ort und Zeit: Zurück im Haus
+Sichtbare Figuren: Müllerin im Wispertal, Jüngstes Kind der Wispermühle, Müller im Wispertal
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Personen in getrennten sicheren Positionen, kein geborgener Goldschatz.
+Erzählertext: Er brachte beide heim. Als sie erwachte, erzählte sie ihm den misslungenen Versuch.
+Dialoge: keine
+Kontinuität / Änderung: Drei Personen in getrennten sicheren Positionen, kein geborgener Goldschatz.
+
+KACHEL 12: Der Verlust
+Ort und Zeit: Der Verlust
+Sichtbare Figuren: Müller im Wispertal, Jüngstes Kind der Wispermühle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater bei einem lebenden Säugling, das Bett hinter geschlossenem Vorhang.
+Erzählertext: Danach erkrankte sie schwer und starb. Das Kind überlebte; der versprochene Reichtum ersetzte keine verlorene Nähe.
+Dialoge: keine
+Kontinuität / Änderung: Vater bei einem lebenden Säugling, das Bett hinter geschlossenem Vorhang.

@@ -1,0 +1,106 @@
+TITEL: Der Heerwisch – Der gerufene Schrecken
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Junge Frau bei Hähnlein
+Aussehen: Junge erwachsene Frau, brauner Zopf, Sommersprossen.
+Kleidung: Blaues langes Kleid, graues Tuch, feste Schuhe.
+Persönlichkeit und Vorgeschichte: Fordert eine unbekannte Erscheinung heraus und wird verfolgt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Heerwisch von Hähnlein
+Aussehen: Eine einzige flackernde Lichtgestalt mit zwei angedeuteten feurigen Flügeln, ohne Menschenkopf.
+Kleidung: Nur Licht und Flammenumriss, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Sagenerscheinung, nicht naturwissenschaftliche Erklärung von Irrlichtern.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Am Sumpf
+Ort und Zeit: Am Sumpf
+Sichtbare Figuren: Junge Frau bei Hähnlein, Heerwisch von Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junge Erwachsene auf trockenem Weg, ein kleines einzelnes Licht über fernem Sumpfwasser.
+Erzählertext: Zur Abendzeit sah eine junge Frau bei Hähnlein einen Heerwisch.
+Dialoge: keine
+Kontinuität / Änderung: Junge Erwachsene auf trockenem Weg, ein kleines einzelnes Licht über fernem Sumpfwasser.
+
+KACHEL 2: Der Spott
+Ort und Zeit: Der Spott
+Sichtbare Figuren: Junge Frau bei Hähnlein, Heerwisch von Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau mit erhobenem Kopf am Ufer, einzelne Lichtgestalt gegenüber.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Junge Frau bei Hähnlein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann komm doch und schlag mich blau!“
+Kontinuität / Änderung: Frau mit erhobenem Kopf am Ufer, einzelne Lichtgestalt gegenüber.
+
+KACHEL 3: Die Antwort
+Ort und Zeit: Die Antwort
+Sichtbare Figuren: Heerwisch von Hähnlein, Junge Frau bei Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziger Lichtkörper mit zwei Flammenflügeln nähert sich der Frau, kein Feuervogelschwarm.
+Erzählertext: Der Heerwisch kam auf sie zu. Aus dem Ruf wurde eine Begegnung, die sie nicht mehr wollte.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziger Lichtkörper mit zwei Flammenflügeln nähert sich der Frau, kein Feuervogelschwarm.
+
+KACHEL 4: Der Heimweg
+Ort und Zeit: Der Heimweg
+Sichtbare Figuren: Junge Frau bei Hähnlein, Heerwisch von Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine laufende Frau links zum Haus, eine Lichtgestalt rechts hinter ihr, keine zusätzlichen Beine.
+Erzählertext: Sie floh zum Elternhaus.
+Dialoge: keine
+Kontinuität / Änderung: Eine laufende Frau links zum Haus, eine Lichtgestalt rechts hinter ihr, keine zusätzlichen Beine.
+
+KACHEL 5: Durch die Tür
+Ort und Zeit: Durch die Tür
+Sichtbare Figuren: Junge Frau bei Hähnlein, Heerwisch von Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Türöffnung, Frau schon innen, Flammenumriss an der Schwelle. Kein zweites brennendes Haus.
+Erzählertext: Auch dort endete die Verfolgung nicht.
+Dialoge: keine
+Kontinuität / Änderung: Eine Türöffnung, Frau schon innen, Flammenumriss an der Schwelle. Kein zweites brennendes Haus.
+
+KACHEL 6: Der helle Flur
+Ort und Zeit: Der helle Flur
+Sichtbare Figuren: Heerwisch von Hähnlein, Junge Frau bei Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lichtgestalt im einen Flur, Frau und wenige namenlose Erwachsene weichen aus. Keine verbrannten Körper.
+Erzählertext: Der Schein erhellte den Flur. Die Schläge der Erscheinung trafen auch andere Bewohner.
+Dialoge: keine
+Kontinuität / Änderung: Lichtgestalt im einen Flur, Frau und wenige namenlose Erwachsene weichen aus. Keine verbrannten Körper.
+
+KACHEL 7: Der Weg nach oben
+Ort und Zeit: Der Weg nach oben
+Sichtbare Figuren: Heerwisch von Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Flammenumriss steigt in den Schornstein, Menschen bleiben außerhalb.
+Erzählertext: Schließlich fuhr der Heerwisch durch den Schornstein hinaus.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Flammenumriss steigt in den Schornstein, Menschen bleiben außerhalb.
+
+KACHEL 8: Über den Dächern
+Ort und Zeit: Über den Dächern
+Sichtbare Figuren: Heerwisch von Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine zusammenhängende Lichtspur mit flügelartigem Anfang über unversehrten Dächern, kein Stadtbrand.
+Erzählertext: Über den Häusern verschwand die Erscheinung.
+Dialoge: keine
+Kontinuität / Änderung: Eine zusammenhängende Lichtspur mit flügelartigem Anfang über unversehrten Dächern, kein Stadtbrand.
+
+KACHEL 9: Am nächsten Morgen
+Ort und Zeit: Am nächsten Morgen
+Sichtbare Figuren: Junge Frau bei Hähnlein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau mit kleinen blauen Flecken an einem unverletzten Unterarm, vollständig bekleidet.
+Erzählertext: Die Spuren der Nacht blieben sichtbar, besonders bei der jungen Frau.
+Dialoge: keine
+Kontinuität / Änderung: Frau mit kleinen blauen Flecken an einem unverletzten Unterarm, vollständig bekleidet.
+
+KACHEL 10: Die Deutung
+Ort und Zeit: Die Deutung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiger Sumpf bei Tageslicht, kein gefangener Geist in einer Flasche.
+Erzählertext: Der Text deutet Irrlichter als ruhelose Seelen. Das ist Sagenvorstellung; hier bleibt vor allem die Folge eines leichtfertigen Rufs.
+Dialoge: keine
+Kontinuität / Änderung: Ruhiger Sumpf bei Tageslicht, kein gefangener Geist in einer Flasche.

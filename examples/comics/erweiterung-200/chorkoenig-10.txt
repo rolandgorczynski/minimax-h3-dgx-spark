@@ -1,0 +1,110 @@
+TITEL: Chorkönig – Der erste Befehl
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Heinrich in der Chorkönigssage
+Aussehen: Erwachsener Mann mit kurzem graubraunem Bart.
+Kleidung: Dunkelblauer Herrscherrock, goldener schmaler Kronreif, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Möchte geistliches Leben beginnen, wird aber auf seine öffentliche Aufgabe zurückverwiesen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bischof Werinhard
+Aussehen: Älterer Mann mit weißem kurzem Bart.
+Kleidung: Helles geistliches Gewand, schlichter Bischofsstab.
+Persönlichkeit und Vorgeschichte: Nimmt Heinrich das Gelübde ab und befiehlt ihm, die Regierung zu behalten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das zerstörte Münster
+Ort und Zeit: Das zerstörte Münster
+Sichtbare Figuren: Heinrich in der Chorkönigssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher vor alten Brandresten und zerstörtem Chor, keine laufende Feuersbrunst.
+Erzählertext: Heinrich kam nach Straßburg. Das zerstörte Münster bedrückte ihn.
+Dialoge: keine
+Kontinuität / Änderung: Herrscher vor alten Brandresten und zerstörtem Chor, keine laufende Feuersbrunst.
+
+KACHEL 2: Eine andere Ordnung
+Ort und Zeit: Eine andere Ordnung
+Sichtbare Figuren: Heinrich in der Chorkönigssage, Bischof Werinhard
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof rechts legt eine einzelne Regelhandschrift auf den Tisch, keine lesbar ausformulierten Buchseiten.
+Erzählertext: Die Ordnung der Chorherren erschien ihm als Ausweg aus seiner Last.
+Dialoge: keine
+Kontinuität / Änderung: Bischof rechts legt eine einzelne Regelhandschrift auf den Tisch, keine lesbar ausformulierten Buchseiten.
+
+KACHEL 3: Der Entschluss
+Ort und Zeit: Der Entschluss
+Sichtbare Figuren: Heinrich in der Chorkönigssage, Bischof Werinhard
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Heinrich berührt seine eine Krone, hebt sie aber noch nicht ab.
+Erzählertext: Er wollte die Herrschaft abgeben und selbst Chorherr werden.
+Dialoge: keine
+Kontinuität / Änderung: Heinrich berührt seine eine Krone, hebt sie aber noch nicht ab.
+
+KACHEL 4: Die Sorge
+Ort und Zeit: Die Sorge
+Sichtbare Figuren: Heinrich in der Chorkönigssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbewaffnete Erwachsene bitten mit offenen Händen, der Herrscher bleibt ernst.
+Erzählertext: Seine Getreuen widersprachen: Das Reich brauche ihn weiterhin.
+Dialoge: keine
+Kontinuität / Änderung: Unbewaffnete Erwachsene bitten mit offenen Händen, der Herrscher bleibt ernst.
+
+KACHEL 5: Er bleibt dabei
+Ort und Zeit: Er bleibt dabei
+Sichtbare Figuren: Heinrich in der Chorkönigssage, Bischof Werinhard
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer auf gleicher Bodenhöhe, Heinrichs Hände nun leer.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Heinrich in der Chorkönigssage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich will dieses Leben beginnen.“
+Kontinuität / Änderung: Zwei Männer auf gleicher Bodenhöhe, Heinrichs Hände nun leer.
+
+KACHEL 6: Das Gelübde
+Ort und Zeit: Das Gelübde
+Sichtbare Figuren: Heinrich in der Chorkönigssage, Bischof Werinhard
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kniender Erwachsener vor dem Bischof, Krone noch auf dem Kopf.
+Erzählertext: Werinhard nahm ihn auf. Zuerst ließ er ihn Gehorsam geloben.
+Dialoge: keine
+Kontinuität / Änderung: Ein kniender Erwachsener vor dem Bischof, Krone noch auf dem Kopf.
+
+KACHEL 7: Der erste Befehl
+Ort und Zeit: Der erste Befehl
+Sichtbare Figuren: Bischof Werinhard, Heinrich in der Chorkönigssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof rechts mit offener Hand zum Kopf des Herrschers, keine zweite Krone in seiner Hand.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bischof Werinhard
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann behalte die Krone und regiere weiter.“
+Kontinuität / Änderung: Bischof rechts mit offener Hand zum Kopf des Herrschers, keine zweite Krone in seiner Hand.
+
+KACHEL 8: Gebunden
+Ort und Zeit: Gebunden
+Sichtbare Figuren: Heinrich in der Chorkönigssage, Bischof Werinhard
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Heinrich auf beiden Füßen, Hand nicht mehr an der Krone, ernster überraschter Blick.
+Erzählertext: Das neue Versprechen band ihn an die alte Pflicht. Er erkannte die List.
+Dialoge: keine
+Kontinuität / Änderung: Heinrich auf beiden Füßen, Hand nicht mehr an der Krone, ernster überraschter Blick.
+
+KACHEL 9: Eine Vertretung
+Ort und Zeit: Eine Vertretung
+Sichtbare Figuren: Heinrich in der Chorkönigssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher reicht einem geistlichen Erwachsenen eine geschlossene Stiftungsurkunde, Bischof nur außerhalb.
+Erzählertext: Heinrich stiftete stattdessen einen Chorherrn, der für ihn dienen und beten sollte.
+Dialoge: keine
+Kontinuität / Änderung: Herrscher reicht einem geistlichen Erwachsenen eine geschlossene Stiftungsurkunde, Bischof nur außerhalb.
+
+KACHEL 10: Beide Aufgaben
+Ort und Zeit: Beide Aufgaben
+Sichtbare Figuren: Heinrich in der Chorkönigssage, Bischof Werinhard
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Heinrich mit seiner einen Krone auf dem Weg nach draußen; im Chor ein unbenannter Geistlicher.
+Erzählertext: Der Chorkönig blieb im Münster, Heinrich in der Regierung. Sein Rückzug war zur neuen Verbindung beider Aufgaben geworden.
+Dialoge: keine
+Kontinuität / Änderung: Heinrich mit seiner einen Krone auf dem Weg nach draußen; im Chor ein unbenannter Geistlicher.

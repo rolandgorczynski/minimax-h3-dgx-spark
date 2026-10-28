@@ -1,0 +1,149 @@
+TITEL: Eginhart und Emma – Eine Spur im Schnee
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Eginhart in der Schneesage
+Aussehen: Junger erwachsener Mann mit braunem kurzem Haar.
+Kleidung: Graue Schreiberkleidung, brauner Gürtel und Schuhe.
+Persönlichkeit und Vorgeschichte: Liebt Emma und fürchtet Karls Reaktion.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Emma in der Schneesage
+Aussehen: Junge erwachsene kräftige Frau mit dunklem Zopf.
+Kleidung: Blaues langes Kleid, braune Schuhe, heller Mantel.
+Persönlichkeit und Vorgeschichte: Trägt Eginhart durch den Schnee; erwachsene Frau mit eigener Entscheidung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Karl der Schneesage
+Aussehen: Älterer Mann mit grauem Vollbart.
+Kleidung: Dunkelroter langer Rock, schmaler goldener Reif.
+Persönlichkeit und Vorgeschichte: Erkennt die Liebenden, lässt sich aber zur Milde beraten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die heimliche Liebe
+Ort und Zeit: Die heimliche Liebe
+Sichtbare Figuren: Eginhart in der Schneesage, Emma in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene mit Abstand in einem warmen Zimmer, kein erotischer Ausschnitt.
+Erzählertext: Eginhart und Emma liebten sich. Sie fürchteten, Karl davon zu erzählen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene mit Abstand in einem warmen Zimmer, kein erotischer Ausschnitt.
+
+KACHEL 2: Die lange Nacht
+Ort und Zeit: Die lange Nacht
+Sichtbare Figuren: Eginhart in der Schneesage, Emma in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei bekleidete Erwachsene im Gespräch am Tisch, draußen beginnt Schnee zu fallen.
+Erzählertext: Ihr heimliches Gespräch dauerte bis kurz vor Morgen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei bekleidete Erwachsene im Gespräch am Tisch, draußen beginnt Schnee zu fallen.
+
+KACHEL 3: Die weißen Spuren
+Ort und Zeit: Die weißen Spuren
+Sichtbare Figuren: Eginhart in der Schneesage, Emma in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unberührter Schnee auf dem Burghof, noch keine männlichen Fußspuren.
+Erzählertext: Der Neuschnee würde seinen Weg aus ihrem Zimmer verraten.
+Dialoge: keine
+Kontinuität / Änderung: Unberührter Schnee auf dem Burghof, noch keine männlichen Fußspuren.
+
+KACHEL 4: Die List
+Ort und Zeit: Die List
+Sichtbare Figuren: Emma in der Schneesage, Eginhart in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Seitenansicht: Emma hält mit beiden Händen seine Oberschenkel, seine Arme locker an ihren Schultern. Nur ihre zwei Füße berühren den Schnee.
+Erzählertext: Emma trug ihn hinüber. Ein Erwachsener auf dem Rücken einer Erwachsenen, keine geschrumpfte Person.
+Dialoge: keine
+Kontinuität / Änderung: Seitenansicht: Emma hält mit beiden Händen seine Oberschenkel, seine Arme locker an ihren Schultern. Nur ihre zwei Füße berühren den Schnee.
+
+KACHEL 5: Der Rückweg
+Ort und Zeit: Der Rückweg
+Sichtbare Figuren: Emma in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nur Emma im Hof, Fuß setzt genau in ihre schon vorhandene Spur. Eginhart außerhalb.
+Erzählertext: Zurück trat sie vorsichtig in dieselben Spuren.
+Dialoge: keine
+Kontinuität / Änderung: Nur Emma im Hof, Fuß setzt genau in ihre schon vorhandene Spur. Eginhart außerhalb.
+
+KACHEL 6: Der wache Beobachter
+Ort und Zeit: Der wache Beobachter
+Sichtbare Figuren: Karl der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Älterer Kaiser blickt aus hohem Fenster auf den Hof, keine zweite Karlfigur unten.
+Erzählertext: Karl hatte nicht geschlafen. Er erkannte seine Tochter und schwieg zunächst.
+Dialoge: keine
+Kontinuität / Änderung: Älterer Kaiser blickt aus hohem Fenster auf den Hof, keine zweite Karlfigur unten.
+
+KACHEL 7: Die Bitte zu gehen
+Ort und Zeit: Die Bitte zu gehen
+Sichtbare Figuren: Eginhart in der Schneesage, Karl der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schreiber auf einem Knie, Herrscher gegenüber, Hände leer.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Eginhart in der Schneesage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Entlasst mich aus eurem Dienst.“
+Kontinuität / Änderung: Schreiber auf einem Knie, Herrscher gegenüber, Hände leer.
+
+KACHEL 8: Die Ausrede
+Ort und Zeit: Die Ausrede
+Sichtbare Figuren: Eginhart in der Schneesage, Karl der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer im Saal, kein sichtbarer Geldstreit.
+Erzählertext: Eginhart nannte ungenügenden Lohn und Unmut, nicht seine wirkliche Angst.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer im Saal, kein sichtbarer Geldstreit.
+
+KACHEL 9: Nicht allein richten
+Ort und Zeit: Nicht allein richten
+Sichtbare Figuren: Karl der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl am Rand eines Tischs mit namenlosen erwachsenen Räten, kein kniendes Paar im selben Raum.
+Erzählertext: Karl berichtete, was er gesehen hatte. In eigener Sache wollte er nicht allein Richter sein.
+Dialoge: keine
+Kontinuität / Änderung: Karl am Rand eines Tischs mit namenlosen erwachsenen Räten, kein kniendes Paar im selben Raum.
+
+KACHEL 10: Der Rat zur Milde
+Ort und Zeit: Der Rat zur Milde
+Sichtbare Figuren: Karl der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein namenloser älterer Rat spricht mit offenen Händen, Karl hört zu.
+Erzählertext: Die Räte sprachen sich für Verzeihen aus.
+Dialoge: keine
+Kontinuität / Änderung: Ein namenloser älterer Rat spricht mit offenen Händen, Karl hört zu.
+
+KACHEL 11: Die offene Antwort
+Ort und Zeit: Die offene Antwort
+Sichtbare Figuren: Karl der Schneesage, Eginhart in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene mit Abstand, Karl kein drohender Zeigefinger.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Karl der Schneesage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich habe gesehen, wer dich durch den Schnee getragen hat.“
+Kontinuität / Änderung: Zwei Erwachsene mit Abstand, Karl kein drohender Zeigefinger.
+
+KACHEL 12: Der gemeinsame Weg
+Ort und Zeit: Der gemeinsame Weg
+Sichtbare Figuren: Emma in der Schneesage, Eginhart in der Schneesage, Karl der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene in einem Saal, Liebende halten einander an der Hand.
+Erzählertext: Er erlaubte ihre Verbindung. Milde öffnete einen Weg, den der Zorn verschlossen hätte.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene in einem Saal, Liebende halten einander an der Hand.
+
+KACHEL 13: Spätere Jahre
+Ort und Zeit: Spätere Jahre
+Sichtbare Figuren: Eginhart in der Schneesage, Emma in der Schneesage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Paar mit ergrauten Haaren vor Kirche im Odenwald, gleiche Körperproportionen.
+Erzählertext: Später zogen sie sich vom Hof zurück und wandten sich einem geistlichen Leben zu.
+Dialoge: keine
+Kontinuität / Änderung: Paar mit ergrauten Haaren vor Kirche im Odenwald, gleiche Körperproportionen.
+
+KACHEL 14: Seligenstadt
+Ort und Zeit: Seligenstadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener schlichter Sarkophag im Kirchenraum, keine gleichzeitig lebenden Liebenden daneben.
+Erzählertext: Emma starb, später auch Eginhart. Ihre gemeinsame Erinnerung verbindet die Sage mit dem Namen Seligenstadt.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossener schlichter Sarkophag im Kirchenraum, keine gleichzeitig lebenden Liebenden daneben.

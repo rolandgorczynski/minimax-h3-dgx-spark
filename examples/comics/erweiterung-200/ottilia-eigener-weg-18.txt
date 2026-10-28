@@ -1,0 +1,191 @@
+TITEL: Sankt Ottilia – Ihr eigener Weg
+AUTOR: Sysop
+KACHELANZAHL: 18
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ottilia der Hohenburgsage
+Aussehen: Eine weibliche Identität mit braunem Haar und schmalem Gesicht; Alter und Sehzustand pro Kachel ausdrücklich festgelegt.
+Kleidung: Als erwachsene Frau graues langes Kleid und helles Schultertuch.
+Persönlichkeit und Vorgeschichte: Als blindes Kind verstoßen, wächst im Stift auf und wählt geistliches Leben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Attich von Hohenburg
+Aussehen: Erwachsener kräftiger Mann, dunkler Vollbart mit grauen Strähnen.
+Kleidung: Dunkelroter langer Rock, brauner Gürtel, Stiefel.
+Persönlichkeit und Vorgeschichte: Vater, der Ablehnung bereut, aber später erneut den Willen seiner Tochter übergeht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ottilias Mutter
+Aussehen: Erwachsene Frau mit dunklem Haar unter heller Haube.
+Kleidung: Grünes langes Kleid, dunkles Schultertuch.
+Persönlichkeit und Vorgeschichte: Schützt das neugeborene Kind vor dem Befehl des Vaters.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Erhardus in der Ottiliasage
+Aussehen: Älterer Mann mit weißem Bart.
+Kleidung: Helles geistliches Gewand.
+Persönlichkeit und Vorgeschichte: Tauft das Kind, dessen Heilung als Wunder der Sage erzählt wird.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Freier in der Ottiliasage
+Aussehen: Erwachsener schlanker Mann mit braunem Schnurrbart.
+Kleidung: Blauer Reisemantel, dunkle Hose, braune Stiefel.
+Persönlichkeit und Vorgeschichte: Verfolgt die geflohene Ottilia zusammen mit ihrem Vater.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das Kind auf Hohenburg
+Ort und Zeit: Das Kind auf Hohenburg
+Sichtbare Figuren: Ottilia der Hohenburgsage, Ottilias Mutter, Attich von Hohenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter links mit einem vollständig eingewickelten Säugling. Vater rechts abweisend, keine Gewalt.
+Erzählertext: Attich wies sein blind geborenes Kind zurück. Die Mutter entschied, es zu schützen.
+Dialoge: keine
+Kontinuität / Änderung: Mutter links mit einem vollständig eingewickelten Säugling. Vater rechts abweisend, keine Gewalt.
+
+KACHEL 2: Fortgebracht
+Ort und Zeit: Fortgebracht
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine namenlose erwachsene Amme mit dem einen eingewickelten Kind auf einem Weg, zwei erwachsene Knechte in Entfernung.
+Erzählertext: Mit treuen Helfern ließ die Mutter ihre Tochter weit fort ins Frauenstift Palma bringen.
+Dialoge: keine
+Kontinuität / Änderung: Eine namenlose erwachsene Amme mit dem einen eingewickelten Kind auf einem Weg, zwei erwachsene Knechte in Entfernung.
+
+KACHEL 3: Erhardus kommt
+Ort und Zeit: Erhardus kommt
+Sichtbare Figuren: Erhardus in der Ottiliasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Geistlicher nach langer Wanderung vor einem Frauenstift, eine Nonne öffnet.
+Erzählertext: Ein Traum führte Erhardus in der Sage zu dem Kind.
+Dialoge: keine
+Kontinuität / Änderung: Ein älterer Geistlicher nach langer Wanderung vor einem Frauenstift, eine Nonne öffnet.
+
+KACHEL 4: Die Taufe
+Ort und Zeit: Die Taufe
+Sichtbare Figuren: Erhardus in der Ottiliasage, Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Kind in heller Decke über einem niedrigen Taufbecken, Erhardus Hand mit wenigen Wassertropfen.
+Erzählertext: Er taufte sie Ottilia. Dass sie dabei sehend wurde, erzählt der Text als Wunder.
+Dialoge: keine
+Kontinuität / Änderung: Ein Kind in heller Decke über einem niedrigen Taufbecken, Erhardus Hand mit wenigen Wassertropfen.
+
+KACHEL 5: Die Jahre im Stift
+Ort und Zeit: Die Jahre im Stift
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine junge Frau am kleinen Orgelspieltisch, beide Hände an den Tasten, kein Baby zusätzlich.
+Erzählertext: Ottilia wuchs im Stift auf. Sie lernte Orgelspiel, Gartenpflege und ihre täglichen Aufgaben.
+Dialoge: keine
+Kontinuität / Änderung: Eine junge Frau am kleinen Orgelspieltisch, beide Hände an den Tasten, kein Baby zusätzlich.
+
+KACHEL 6: Die Reue
+Ort und Zeit: Die Reue
+Sichtbare Figuren: Attich von Hohenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Attich älter, Bart stärker ergraut, ein leerer Platz gegenüber.
+Erzählertext: Zu Hause bereute Attich seine Entscheidung. Er machte sich auf die Suche nach seiner Tochter.
+Dialoge: keine
+Kontinuität / Änderung: Attich älter, Bart stärker ergraut, ein leerer Platz gegenüber.
+
+KACHEL 7: Im Frauenstift
+Ort und Zeit: Im Frauenstift
+Sichtbare Figuren: Attich von Hohenburg, Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater und erwachsene Tochter vor der Stiftstür, beide Hände leer, keine erzwungene Umarmung.
+Erzählertext: Er fand sie und hörte von ihrem Leben. Danach brachte er sie nach Hohenburg zurück.
+Dialoge: keine
+Kontinuität / Änderung: Vater und erwachsene Tochter vor der Stiftstür, beide Hände leer, keine erzwungene Umarmung.
+
+KACHEL 8: Wieder bei der Mutter
+Ort und Zeit: Wieder bei der Mutter
+Sichtbare Figuren: Ottilias Mutter, Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Frauen begegnen sich in der Burg, Hände vorsichtig ineinandergelegt.
+Erzählertext: Die Mutter konnte sie wieder bei sich aufnehmen. Doch Reichtum und Glanz bestimmten Ottilias Wunsch nicht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Frauen begegnen sich in der Burg, Hände vorsichtig ineinandergelegt.
+
+KACHEL 9: Ein eigener Entschluss
+Ort und Zeit: Ein eigener Entschluss
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ottilia allein im grauen Kleid, Blick auf eine kleine Kapelle außerhalb der Burg.
+Erzählertext: Sie wollte ein geistliches Leben führen. Eine Heirat wollte sie nicht.
+Dialoge: keine
+Kontinuität / Änderung: Ottilia allein im grauen Kleid, Blick auf eine kleine Kapelle außerhalb der Burg.
+
+KACHEL 10: Der fremde Plan
+Ort und Zeit: Der fremde Plan
+Sichtbare Figuren: Attich von Hohenburg, Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater rechts deutet zum offenen Saalausgang, Tochter links bleibt stehen.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ottilia der Hohenburgsage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Ich will nicht heiraten.“
+Kontinuität / Änderung: Vater rechts deutet zum offenen Saalausgang, Tochter links bleibt stehen.
+
+KACHEL 11: Die Flucht
+Ort und Zeit: Die Flucht
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau zu Fuß im Morgengrauen, kleines Bündel links, keine bewaffnete Verfolgung im selben Ausschnitt.
+Erzählertext: Attich hatte sie dennoch einem Grafen versprochen. Ottilia floh.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau zu Fuß im Morgengrauen, kleines Bündel links, keine bewaffnete Verfolgung im selben Ausschnitt.
+
+KACHEL 12: Über den Rhein
+Ort und Zeit: Über den Rhein
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges Boot auf ruhigem Fluss, Ottilia allein darin, beide Ufer deutlich. Kein sichtbarer Engel als bestätigter Fährmann.
+Erzählertext: Die Sage lässt sie allein den Rhein überqueren. Wie ihr das gelang, bleibt dem Wundererzählen überlassen.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges Boot auf ruhigem Fluss, Ottilia allein darin, beide Ufer deutlich. Kein sichtbarer Engel als bestätigter Fährmann.
+
+KACHEL 13: Die Verfolger
+Ort und Zeit: Die Verfolger
+Sichtbare Figuren: Attich von Hohenburg, Freier in der Ottiliasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei verschiedene Reiter auf zwei Pferden im Tal, eine Frau weit oben auf dem Hang. Kein heimliches Absteigen.
+Erzählertext: Vater und Freier entdeckten sie auf einer Höhe und ritten ihr nach.
+Dialoge: keine
+Kontinuität / Änderung: Zwei verschiedene Reiter auf zwei Pferden im Tal, eine Frau weit oben auf dem Hang. Kein heimliches Absteigen.
+
+KACHEL 14: Vor dem Felsen
+Ort und Zeit: Vor dem Felsen
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ottilia unmittelbar vor einem schmalen dunklen Spalt, nur ihr ein Körper, Verfolger außerhalb.
+Erzählertext: Als die Felswand ihren Weg versperrte, öffnete sie sich vor ihr.
+Dialoge: keine
+Kontinuität / Änderung: Ottilia unmittelbar vor einem schmalen dunklen Spalt, nur ihr ein Körper, Verfolger außerhalb.
+
+KACHEL 15: Die geschlossene Wand
+Ort und Zeit: Die geschlossene Wand
+Sichtbare Figuren: Attich von Hohenburg, Freier in der Ottiliasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Reiter vor jetzt geschlossenem Fels, darunter eine kleine klare Quelle. Ottilia nicht sichtbar.
+Erzählertext: Der Fels schloss sich hinter ihr. Die Verfolger fanden nur die neue Quelle.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Reiter vor jetzt geschlossenem Fels, darunter eine kleine klare Quelle. Ottilia nicht sichtbar.
+
+KACHEL 16: Das Versprechen
+Ort und Zeit: Das Versprechen
+Sichtbare Figuren: Attich von Hohenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Attich ausdrücklich abgestiegen, braunes Pferd mit leerem Sattel seitlich. Leere Hände erhoben.
+Erzählertext: Attich versprach eine Kapelle und ein Kloster, wenn sie zurückkehre. Er musste ihre Entscheidung endlich achten.
+Dialoge: keine
+Kontinuität / Änderung: Attich ausdrücklich abgestiegen, braunes Pferd mit leerem Sattel seitlich. Leere Hände erhoben.
+
+KACHEL 17: Das gewählte Leben
+Ort und Zeit: Das gewählte Leben
+Sichtbare Figuren: Ottilia der Hohenburgsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe erwachsene Frau mit braunem Haar unter hellem Schleier, graue Ordenskleidung, betreut einen sitzenden namenlosen Kranken.
+Erzählertext: Ottilia wurde Äbtissin. Sie pflegte Kranke und ließ ein weiteres Kloster errichten.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe erwachsene Frau mit braunem Haar unter hellem Schleier, graue Ordenskleidung, betreut einen sitzenden namenlosen Kranken.
+
+KACHEL 18: Die Erinnerung
+Ort und Zeit: Die Erinnerung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Klostermauern und Quelle am Fuß des Felsens, keine übernatürliche Heilungsanweisung im Bild.
+Erzählertext: Nach ihrem Tod wurde sie als Heilige verehrt. Die Sage erinnert an Hilfe – und an einen eigenen Lebensweg, den der Vater nicht bestimmen durfte.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige Klostermauern und Quelle am Fuß des Felsens, keine übernatürliche Heilungsanweisung im Bild.

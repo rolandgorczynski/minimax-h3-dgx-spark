@@ -1,0 +1,443 @@
+{
+  "mode": "editorial",
+  "name": "Trifels – Die Antwort hinter der Mauer · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Trifels. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 40.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nÜber dem Anweiler Tale bei Landau erhob sich eine stattliche Kaiserpfalz, Burg Trifels. Es geht die allgemeine Sage, daß König Richard Löwenherz von England darinnen gefangengehalten worden vom Kaiser Heinrich. Niemand wußte, wo er hingekommen, und war große Sehnsucht nach Richards Wiederkehr in seinem Reiche. Nun hatte Richard einen treuen Dienstmann, der war ein Minnesänger und verstand sich meisterlich auf die Kunst des Gesanges und der Töne. Der machte sich mit einer Schar redlicher Mannen auf, seinen König allüberall zu suchen. Reichen Schatz an Gold und Kleinodien, den das Volk geopfert, nahmen sie mit sich zum Lösegeld. Auch König Richard war ein Minnesänger, und Blondel, so hieß jener treue Dienstmann, kannte und konnte des Königs Lieder. Vor mancher Burg, darinnen er den König gefangen glaubte, hatte Blondel schon Weisen angestimmt, auf welche, wie er sicher voraussetzte, der König, wenn er ihn hörte, singend antworten mußte, aber es war still geblieben hinter den festen Mauern. Schon war er am Donaustrom auf- und abgezogen und hatte auch all um den Rhein gesucht und gesungen, da vernahm er, daß in der Nähe der Stadt Landau, allwo man dazumal des Heiligen Reiches Kleinodien aufbewahrte, die Kaiser Friedrich auf den Trifels selbst eine Zeitlang bringen und bewahren ließ, auf dreien Felsenzacken gar ein großes und stattliches Kaiserschloß stehe, und da Blondel der Meinung war, nur in einem solchen Schloß werde der römische Kaiser seinen König und Herrn gefangen halten, so wandte er sich dorthin mit den Seinen, umschlich spähend die Mauern und stimmte am Fuße der starken und hohen Türme, in deren Tiefen und Verliesen man gewöhnlich die Gefangenen schmachten ließ, jene Weisen an, die nur König Richard konnte. Und – o Freude – endlich, endlich drang aus dem Gemäuer des Turms auf Trifels antwortender Gesang in gleicher Weise – hoch schlug vor Freude Blondels Herz, sein Richard, sein König war gefunden und bald darauf auch aus seiner Haft befreit.\n\nVom Schlosse Dürrenstein am Donaustrome geht die gleiche Sage, alldort zeigt man noch ein Loch im Trümmerfelsen, darin Erzherzog Leopold von Österreich den heldenmütigen König soll gefangengehalten haben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Trifels. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 40.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nÜber dem Anweiler Tale bei Landau erhob sich eine stattliche Kaiserpfalz, Burg Trifels. Es geht die allgemeine Sage, daß König Richard Löwenherz von England darinnen gefangengehalten worden vom Kaiser Heinrich. Niemand wußte, wo er hingekommen, und war große Sehnsucht nach Richards Wiederkehr in seinem Reiche. Nun hatte Richard einen treuen Dienstmann, der war ein Minnesänger und verstand sich meisterlich auf die Kunst des Gesanges und der Töne. Der machte sich mit einer Schar redlicher Mannen auf, seinen König allüberall zu suchen. Reichen Schatz an Gold und Kleinodien, den das Volk geopfert, nahmen sie mit sich zum Lösegeld. Auch König Richard war ein Minnesänger, und Blondel, so hieß jener treue Dienstmann, kannte und konnte des Königs Lieder. Vor mancher Burg, darinnen er den König gefangen glaubte, hatte Blondel schon Weisen angestimmt, auf welche, wie er sicher voraussetzte, der König, wenn er ihn hörte, singend antworten mußte, aber es war still geblieben hinter den festen Mauern. Schon war er am Donaustrom auf- und abgezogen und hatte auch all um den Rhein gesucht und gesungen, da vernahm er, daß in der Nähe der Stadt Landau, allwo man dazumal des Heiligen Reiches Kleinodien aufbewahrte, die Kaiser Friedrich auf den Trifels selbst eine Zeitlang bringen und bewahren ließ, auf dreien Felsenzacken gar ein großes und stattliches Kaiserschloß stehe, und da Blondel der Meinung war, nur in einem solchen Schloß werde der römische Kaiser seinen König und Herrn gefangen halten, so wandte er sich dorthin mit den Seinen, umschlich spähend die Mauern und stimmte am Fuße der starken und hohen Türme, in deren Tiefen und Verliesen man gewöhnlich die Gefangenen schmachten ließ, jene Weisen an, die nur König Richard konnte. Und – o Freude – endlich, endlich drang aus dem Gemäuer des Turms auf Trifels antwortender Gesang in gleicher Weise – hoch schlug vor Freude Blondels Herz, sein Richard, sein König war gefunden und bald darauf auch aus seiner Haft befreit.\n\nVom Schlosse Dürrenstein am Donaustrome geht die gleiche Sage, alldort zeigt man noch ein Loch im Trümmerfelsen, darin Erzherzog Leopold von Österreich den heldenmütigen König soll gefangengehalten haben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Ein verschwundener König",
+        "setting": "Ein verschwundener König",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Herrschaftsstuhl in einem schlichten Saal, wartende namenlose Erwachsene davor.",
+        "dialog": "Richard war verschwunden. In seinem Land wusste niemand, wo man ihn gefangen hielt.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leerer Herrschaftsstuhl in einem schlichten Saal, wartende namenlose Erwachsene davor.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die gemeinsame Hilfe",
+        "setting": "Die gemeinsame Hilfe",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blondel mit seiner einen Laute am Rücken, Helfer legen Geld in eine geöffnete Truhe.",
+        "dialog": "Die Menschen sammelten Lösegeld. Blondel zog mit Begleitern auf die Suche.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "steht vor einer geschlossenen Reisekiste; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Blondel mit seiner einen Laute am Rücken, Helfer legen Geld in eine geöffnete Truhe.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Die gemeinsame Hilfe",
+            "posture": "steht vor einer geschlossenen Reisekiste"
+          }
+        }
+      },
+      {
+        "heading": "Das gemeinsame Lied",
+        "setting": "Das gemeinsame Lied",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Sänger spielt mit zwei Händen an einer Laute, keine Richardsilhouette als Rückblende.",
+        "dialog": "Er kannte Lieder, die auch Richard singen konnte. Darin lag seine Hoffnung.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "sitzt mit der Laute; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Sänger spielt mit zwei Händen an einer Laute, keine Richardsilhouette als Rückblende.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Das gemeinsame Lied",
+            "posture": "sitzt mit der Laute"
+          }
+        }
+      },
+      {
+        "heading": "Die erste Mauer",
+        "setting": "Die erste Mauer",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blondel singt mit gehobenem Gesicht vor einer geschlossenen Burg, keine Antwortfigur am Fenster.",
+        "dialog": "An einer Burg sang er. Hinter der Mauer blieb es still.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "steht unter einem hohen Turm; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Blondel singt mit gehobenem Gesicht vor einer geschlossenen Burg, keine Antwortfigur am Fenster.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Die erste Mauer",
+            "posture": "steht unter einem hohen Turm"
+          }
+        }
+      },
+      {
+        "heading": "Weiter am Fluss",
+        "setting": "Weiter am Fluss",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Wanderer mit Laute am Rücken, wenige unbenannte Begleiter dahinter.",
+        "dialog": "Er suchte an Donau und Rhein. Die gesammelten Mittel allein konnten den Versteckten nicht finden.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "geht am Rheinufer; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Wanderer mit Laute am Rücken, wenige unbenannte Begleiter dahinter.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Weiter am Fluss",
+            "posture": "geht am Rheinufer"
+          }
+        }
+      },
+      {
+        "heading": "Ein neuer Hinweis",
+        "setting": "Ein neuer Hinweis",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an einer Weggabel, einer deutet auf drei ferne Felszacken.",
+        "dialog": "Dann hörte er von Trifels bei Landau, einer großen Kaiserburg.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "hört einem namenlosen Reisenden zu; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene an einer Weggabel, einer deutet auf drei ferne Felszacken.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Ein neuer Hinweis",
+            "posture": "hört einem namenlosen Reisenden zu"
+          }
+        }
+      },
+      {
+        "heading": "Unter Trifels",
+        "setting": "Unter Trifels",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Burg über drei Felszacken, Blondel als normal großer Erwachsener klein durch Entfernung unten.",
+        "dialog": "Er wandte sich dorthin und suchte einen Platz unter den Türmen.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "steht am Fuß der hohen Mauern; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine Burg über drei Felszacken, Blondel als normal großer Erwachsener klein durch Entfernung unten.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Unter Trifels",
+            "posture": "steht am Fuß der hohen Mauern"
+          }
+        }
+      },
+      {
+        "heading": "Noch einmal singen",
+        "setting": "Noch einmal singen",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sänger links unter einem Turmfenster, Mauer rechts bis oben vollständig ausgeführt.",
+        "dialog": "Wieder stimmte er eine vertraute Weise an.",
+        "bubbles": [],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "singt mit Laute in beiden Händen; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Sänger links unter einem Turmfenster, Mauer rechts bis oben vollständig ausgeführt.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Noch einmal singen",
+            "posture": "singt mit Laute in beiden Händen"
+          }
+        }
+      },
+      {
+        "heading": "Hinter dem Stein",
+        "setting": "Hinter dem Stein",
+        "characters": [
+          "c302ca2d935d52e69a43c83a992a3830"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Gefangener allein hinter einem vergitterten schmalen Turmfenster, Blick nach außen.",
+        "dialog": "Diesmal hörte Richard das Lied und antwortete aus seinem Gefängnis.",
+        "bubbles": [],
+        "character_states": {
+          "c302ca2d935d52e69a43c83a992a3830": "steht innen am schmalen Fenster; Schlichte graue Tunika, dunkle Hose und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Gefangener allein hinter einem vergitterten schmalen Turmfenster, Blick nach außen.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Noch einmal singen",
+            "posture": "singt mit Laute in beiden Händen"
+          },
+          "c302ca2d935d52e69a43c83a992a3830": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte graue Tunika, dunkle Hose und Schuhe.",
+            "location": "Hinter dem Stein",
+            "posture": "steht innen am schmalen Fenster"
+          }
+        }
+      },
+      {
+        "heading": "Die erkannte Stimme",
+        "setting": "Die erkannte Stimme",
+        "characters": [
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blondel allein außen, Laute vor dem Körper; kein befreiter Richard neben ihm.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "326d0ad5e19856ea9e5e524cd78c5c8d",
+            "text": "Das ist seine Stimme!",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "blickt freudig zum Fenster; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Blondel allein außen, Laute vor dem Körper; kein befreiter Richard neben ihm.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Die erkannte Stimme",
+            "posture": "blickt freudig zum Fenster"
+          },
+          "c302ca2d935d52e69a43c83a992a3830": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte graue Tunika, dunkle Hose und Schuhe.",
+            "location": "Hinter dem Stein",
+            "posture": "steht innen am schmalen Fenster"
+          }
+        }
+      },
+      {
+        "heading": "Nach dem Fund",
+        "setting": "Nach dem Fund",
+        "characters": [
+          "c302ca2d935d52e69a43c83a992a3830",
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an offenem Tor, Richard nicht mehr hinter Gittern. Keine erfundene Befreiungsschlacht.",
+        "dialog": "Bald danach wurde Richard freigelassen. Die Sage führt die Befreiung auf den geglückten Fund zu.",
+        "bubbles": [],
+        "character_states": {
+          "c302ca2d935d52e69a43c83a992a3830": "tritt zu Fuß durch das offene Burgtor; Schlichte graue Tunika, dunkle Hose und Schuhe.; Lebenszustand: lebend",
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "wartet draußen; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene an offenem Tor, Richard nicht mehr hinter Gittern. Keine erfundene Befreiungsschlacht.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Nach dem Fund",
+            "posture": "wartet draußen"
+          },
+          "c302ca2d935d52e69a43c83a992a3830": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte graue Tunika, dunkle Hose und Schuhe.",
+            "location": "Nach dem Fund",
+            "posture": "tritt zu Fuß durch das offene Burgtor"
+          }
+        }
+      },
+      {
+        "heading": "Die geteilte Weise",
+        "setting": "Die geteilte Weise",
+        "characters": [
+          "c302ca2d935d52e69a43c83a992a3830",
+          "326d0ad5e19856ea9e5e524cd78c5c8d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer nebeneinander am offenen Weg, Burg hinter ihnen.",
+        "dialog": "Nicht Gewalt hatte die Mauer zum Sprechen gebracht, sondern Beharrlichkeit und ein Wissen, das sie teilten.",
+        "bubbles": [],
+        "character_states": {
+          "c302ca2d935d52e69a43c83a992a3830": "steht neben Blondel; Schlichte graue Tunika, dunkle Hose und Schuhe.; Lebenszustand: lebend",
+          "326d0ad5e19856ea9e5e524cd78c5c8d": "hält die eine Laute; Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer nebeneinander am offenen Weg, Burg hinter ihnen.",
+        "continuity_state": {
+          "326d0ad5e19856ea9e5e524cd78c5c8d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+            "location": "Die geteilte Weise",
+            "posture": "hält die eine Laute"
+          },
+          "c302ca2d935d52e69a43c83a992a3830": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte graue Tunika, dunkle Hose und Schuhe.",
+            "location": "Die geteilte Weise",
+            "posture": "steht neben Blondel"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Blondel auf der Suche",
+        "description": "Erwachsener schlanker Mann, braune schulterlange Haare.",
+        "outfit": "Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.",
+        "backstory": "Treuer Sänger Richards; sucht mit gemeinsamem Liedwissen.",
+        "id": "326d0ad5e19856ea9e5e524cd78c5c8d",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Richard in der Trifelssage",
+        "description": "Erwachsener Mann mit rotbraunem kurzem Bart.",
+        "outfit": "Schlichte graue Tunika, dunkle Hose und Schuhe.",
+        "backstory": "Gefangener König, der auf die vertraute Melodie antwortet.",
+        "id": "c302ca2d935d52e69a43c83a992a3830",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wodurch wird aus langem vergeblichem Suchen eine verlässliche Verbindung?",
+      "core": "Beharrlichkeit und persönlich geteiltes Wissen können Verständigung ermöglichen, wo bloßes Vermuten an verschlossenen Mauern scheitert.",
+      "ending": "Blondel findet Richard; bald danach wird dieser befreit.",
+      "reason": "Mehrere erfolglose Burgen knapp bündeln und Raum für den Wechsel von Schweigen zu erwidertem Gesang lassen.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "antwortender Gesang in gleicher Weise",
+          "meaning": "Der bekannte gemeinsame Klang wird zum tatsächlichen Zeichen statt zu einer weiteren unbelegten Hoffnung."
+        }
+      ],
+      "causal_chain": [
+        "antwortender Gesang in gleicher Weise",
+        "Blondel findet Richard; bald danach wird dieser befreit."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "d011282bb1c8f1f5fb89b1ae502c6308c2abd55c0676380859edcff2ca0f52ad",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.853640+00:00"
+    },
+    "post_summary": "Blondel sucht seinen verschwundenen König. An verschlossenen Burgen trägt er ein Lied vor, das nur einer beantworten kann.",
+    "source_provenance": {
+      "title": "Trifels",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 40.",
+      "url": "https://textgridrep.org/browse/kfpk.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Trifels. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 40.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nÜber dem Anweiler Tale bei Landau erhob sich eine stattliche Kaiserpfalz, Burg Trifels. Es geht die allgemeine Sage, daß König Richard Löwenherz von England darinnen gefangengehalten worden vom Kaiser Heinrich. Niemand wußte, wo er hingekommen, und war große Sehnsucht nach Richards Wiederkehr in seinem Reiche. Nun hatte Richard einen treuen Dienstmann, der war ein Minnesänger und verstand sich meisterlich auf die Kunst des Gesanges und der Töne. Der machte sich mit einer Schar redlicher Mannen auf, seinen König allüberall zu suchen. Reichen Schatz an Gold und Kleinodien, den das Volk geopfert, nahmen sie mit sich zum Lösegeld. Auch König Richard war ein Minnesänger, und Blondel, so hieß jener treue Dienstmann, kannte und konnte des Königs Lieder. Vor mancher Burg, darinnen er den König gefangen glaubte, hatte Blondel schon Weisen angestimmt, auf welche, wie er sicher voraussetzte, der König, wenn er ihn hörte, singend antworten mußte, aber es war still geblieben hinter den festen Mauern. Schon war er am Donaustrom auf- und abgezogen und hatte auch all um den Rhein gesucht und gesungen, da vernahm er, daß in der Nähe der Stadt Landau, allwo man dazumal des Heiligen Reiches Kleinodien aufbewahrte, die Kaiser Friedrich auf den Trifels selbst eine Zeitlang bringen und bewahren ließ, auf dreien Felsenzacken gar ein großes und stattliches Kaiserschloß stehe, und da Blondel der Meinung war, nur in einem solchen Schloß werde der römische Kaiser seinen König und Herrn gefangen halten, so wandte er sich dorthin mit den Seinen, umschlich spähend die Mauern und stimmte am Fuße der starken und hohen Türme, in deren Tiefen und Verliesen man gewöhnlich die Gefangenen schmachten ließ, jene Weisen an, die nur König Richard konnte. Und – o Freude – endlich, endlich drang aus dem Gemäuer des Turms auf Trifels antwortender Gesang in gleicher Weise – hoch schlug vor Freude Blondels Herz, sein Richard, sein König war gefunden und bald darauf auch aus seiner Haft befreit.\n\nVom Schlosse Dürrenstein am Donaustrome geht die gleiche Sage, alldort zeigt man noch ein Loch im Trümmerfelsen, darin Erzherzog Leopold von Österreich den heldenmütigen König soll gefangengehalten haben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Über dem Anweiler Tale bei Landau erhob sich eine stattliche Kaiserpfalz, Burg Trifels. Es geht die allgemeine Sage, daß König Richard Löwenherz von England darinnen gefangengehalten worden vom Kaiser Heinrich.",
+      "id": "bechstein-sagen-kfpk-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "trifels-blondel-12-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Trifels – Die Antwort hinter der Mauer · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Trifels – Die Antwort hinter der Mauer\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Blondel auf der Suche\nAussehen: Erwachsener schlanker Mann, braune schulterlange Haare.\nKleidung: Grünes Reisegewand, braune Schuhe, eine Laute am Schulterriemen.\nPersönlichkeit und Vorgeschichte: Treuer Sänger Richards; sucht mit gemeinsamem Liedwissen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Richard in der Trifelssage\nAussehen: Erwachsener Mann mit rotbraunem kurzem Bart.\nKleidung: Schlichte graue Tunika, dunkle Hose und Schuhe.\nPersönlichkeit und Vorgeschichte: Gefangener König, der auf die vertraute Melodie antwortet.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Ein verschwundener König\nOrt und Zeit: Ein verschwundener König\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Herrschaftsstuhl in einem schlichten Saal, wartende namenlose Erwachsene davor.\nErzählertext: Richard war verschwunden. In seinem Land wusste niemand, wo man ihn gefangen hielt.\nDialoge: keine\nKontinuität / Änderung: Leerer Herrschaftsstuhl in einem schlichten Saal, wartende namenlose Erwachsene davor.\n\nKACHEL 2: Die gemeinsame Hilfe\nOrt und Zeit: Die gemeinsame Hilfe\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blondel mit seiner einen Laute am Rücken, Helfer legen Geld in eine geöffnete Truhe.\nErzählertext: Die Menschen sammelten Lösegeld. Blondel zog mit Begleitern auf die Suche.\nDialoge: keine\nKontinuität / Änderung: Blondel mit seiner einen Laute am Rücken, Helfer legen Geld in eine geöffnete Truhe.\n\nKACHEL 3: Das gemeinsame Lied\nOrt und Zeit: Das gemeinsame Lied\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Sänger spielt mit zwei Händen an einer Laute, keine Richardsilhouette als Rückblende.\nErzählertext: Er kannte Lieder, die auch Richard singen konnte. Darin lag seine Hoffnung.\nDialoge: keine\nKontinuität / Änderung: Ein Sänger spielt mit zwei Händen an einer Laute, keine Richardsilhouette als Rückblende.\n\nKACHEL 4: Die erste Mauer\nOrt und Zeit: Die erste Mauer\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blondel singt mit gehobenem Gesicht vor einer geschlossenen Burg, keine Antwortfigur am Fenster.\nErzählertext: An einer Burg sang er. Hinter der Mauer blieb es still.\nDialoge: keine\nKontinuität / Änderung: Blondel singt mit gehobenem Gesicht vor einer geschlossenen Burg, keine Antwortfigur am Fenster.\n\nKACHEL 5: Weiter am Fluss\nOrt und Zeit: Weiter am Fluss\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Wanderer mit Laute am Rücken, wenige unbenannte Begleiter dahinter.\nErzählertext: Er suchte an Donau und Rhein. Die gesammelten Mittel allein konnten den Versteckten nicht finden.\nDialoge: keine\nKontinuität / Änderung: Ein Wanderer mit Laute am Rücken, wenige unbenannte Begleiter dahinter.\n\nKACHEL 6: Ein neuer Hinweis\nOrt und Zeit: Ein neuer Hinweis\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an einer Weggabel, einer deutet auf drei ferne Felszacken.\nErzählertext: Dann hörte er von Trifels bei Landau, einer großen Kaiserburg.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene an einer Weggabel, einer deutet auf drei ferne Felszacken.\n\nKACHEL 7: Unter Trifels\nOrt und Zeit: Unter Trifels\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Burg über drei Felszacken, Blondel als normal großer Erwachsener klein durch Entfernung unten.\nErzählertext: Er wandte sich dorthin und suchte einen Platz unter den Türmen.\nDialoge: keine\nKontinuität / Änderung: Eine Burg über drei Felszacken, Blondel als normal großer Erwachsener klein durch Entfernung unten.\n\nKACHEL 8: Noch einmal singen\nOrt und Zeit: Noch einmal singen\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sänger links unter einem Turmfenster, Mauer rechts bis oben vollständig ausgeführt.\nErzählertext: Wieder stimmte er eine vertraute Weise an.\nDialoge: keine\nKontinuität / Änderung: Sänger links unter einem Turmfenster, Mauer rechts bis oben vollständig ausgeführt.\n\nKACHEL 9: Hinter dem Stein\nOrt und Zeit: Hinter dem Stein\nSichtbare Figuren: Richard in der Trifelssage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Gefangener allein hinter einem vergitterten schmalen Turmfenster, Blick nach außen.\nErzählertext: Diesmal hörte Richard das Lied und antwortete aus seinem Gefängnis.\nDialoge: keine\nKontinuität / Änderung: Ein Gefangener allein hinter einem vergitterten schmalen Turmfenster, Blick nach außen.\n\nKACHEL 10: Die erkannte Stimme\nOrt und Zeit: Die erkannte Stimme\nSichtbare Figuren: Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blondel allein außen, Laute vor dem Körper; kein befreiter Richard neben ihm.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Blondel auf der Suche\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Das ist seine Stimme!“\nKontinuität / Änderung: Blondel allein außen, Laute vor dem Körper; kein befreiter Richard neben ihm.\n\nKACHEL 11: Nach dem Fund\nOrt und Zeit: Nach dem Fund\nSichtbare Figuren: Richard in der Trifelssage, Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an offenem Tor, Richard nicht mehr hinter Gittern. Keine erfundene Befreiungsschlacht.\nErzählertext: Bald danach wurde Richard freigelassen. Die Sage führt die Befreiung auf den geglückten Fund zu.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene an offenem Tor, Richard nicht mehr hinter Gittern. Keine erfundene Befreiungsschlacht.\n\nKACHEL 12: Die geteilte Weise\nOrt und Zeit: Die geteilte Weise\nSichtbare Figuren: Richard in der Trifelssage, Blondel auf der Suche\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer nebeneinander am offenen Weg, Burg hinter ihnen.\nErzählertext: Nicht Gewalt hatte die Mauer zum Sprechen gebracht, sondern Beharrlichkeit und ein Wissen, das sie teilten.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer nebeneinander am offenen Weg, Burg hinter ihnen.\n"
+  },
+  "count_policy": "editorial"
+}

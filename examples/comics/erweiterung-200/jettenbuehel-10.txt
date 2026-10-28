@@ -1,0 +1,102 @@
+TITEL: Jettenbühel – Die Grenze des Zukunftsblicks
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Jetta am Heidelberger Hügel
+Aussehen: Ältere Frau mit langem grauem Haar und schmalem Gesicht.
+Kleidung: Dunkelgrünes Kleid, graues Tuch.
+Persönlichkeit und Vorgeschichte: Sagenhafte Wahrsagerin; ihr Wissen schützt sie nicht vor dem eigenen Ende.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wölfin am Wolfsbrunnen
+Aussehen: Eine graue Wölfin mit vier Beinen und buschigem Schwanz.
+Kleidung: Graues natürliches Fell.
+Persönlichkeit und Vorgeschichte: Liegt mit Jungen am Brunnen, ohne vermenschlichte Bosheit.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Hügel
+Ort und Zeit: Die Hügel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weite Landschaft über Heidelberg mit bewaldetem Hügel und fernem Schloss, keine maßstabslose Aussicht bis Köln.
+Erzählertext: Um Heidelbergs Hügel sammelten sich viele Überlieferungen. Eine erzählt von Jetta.
+Dialoge: keine
+Kontinuität / Änderung: Weite Landschaft über Heidelberg mit bewaldetem Hügel und fernem Schloss, keine maßstabslose Aussicht bis Köln.
+
+KACHEL 2: Das Fenster
+Ort und Zeit: Das Fenster
+Sichtbare Figuren: Jetta am Heidelberger Hügel
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine ältere Frau im offenen Fenster, ein namenloser erwachsener Fragender draußen.
+Erzählertext: Jetta wohnte in einer alten Kapelle und antwortete den Besuchern vom Fenster aus.
+Dialoge: keine
+Kontinuität / Änderung: Eine ältere Frau im offenen Fenster, ein namenloser erwachsener Fragender draußen.
+
+KACHEL 3: Die Verheißung
+Ort und Zeit: Die Verheißung
+Sichtbare Figuren: Jetta am Heidelberger Hügel
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jetta am selben Fenster über dem leeren Tal; keine schon verwirklichte Zukunftsstadt als Doppelbild.
+Erzählertext: Königliche Männer und ein belebtes Tal kündigte sie an.
+Dialoge: keine
+Kontinuität / Änderung: Jetta am selben Fenster über dem leeren Tal; keine schon verwirklichte Zukunftsstadt als Doppelbild.
+
+KACHEL 4: Zum Brunnen
+Ort und Zeit: Zum Brunnen
+Sichtbare Figuren: Jetta am Heidelberger Hügel
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Frau auf dem Waldweg zu einer erkennbaren Quelle.
+Erzählertext: Eines Tages ging sie zu dem Brunnen, den sie gern besuchte.
+Dialoge: keine
+Kontinuität / Änderung: Alte Frau auf dem Waldweg zu einer erkennbaren Quelle.
+
+KACHEL 5: Die Wölfin
+Ort und Zeit: Die Wölfin
+Sichtbare Figuren: Wölfin am Wolfsbrunnen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine graue Wölfin und wenige kleine Wolfsjunge am Wasser, Jetta außerhalb des Ausschnitts.
+Erzählertext: Dort lag eine Wölfin mit ihren Jungen.
+Dialoge: keine
+Kontinuität / Änderung: Eine graue Wölfin und wenige kleine Wolfsjunge am Wasser, Jetta außerhalb des Ausschnitts.
+
+KACHEL 6: Das unerwartete Ende
+Ort und Zeit: Das unerwartete Ende
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassener Brunnenweg mit Jettas grauem Tuch am Rand, keine Angriffsszene oder Körperreste.
+Erzählertext: Die Wölfin tötete Jetta. Der Zukunftsblick hatte ihr eigenes Leben nicht vor diesem Ende bewahrt.
+Dialoge: keine
+Kontinuität / Änderung: Verlassener Brunnenweg mit Jettas grauem Tuch am Rand, keine Angriffsszene oder Körperreste.
+
+KACHEL 7: Der Wolfsbrunnen
+Ort und Zeit: Der Wolfsbrunnen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Quelle in Waldlicht, kein weiter angreifendes Tier.
+Erzählertext: Wolfsbrunnen hieß der Ort der Erinnerung.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige Quelle in Waldlicht, kein weiter angreifendes Tier.
+
+KACHEL 8: Andere Zeiten
+Ort und Zeit: Andere Zeiten
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schlossmauer im fernen Gewitter, ein einzelner Blitz über dem Dach, keine Menschen im Brand.
+Erzählertext: Spätere Geschichten berichten von Blitz, Brand und zerstörter Burg. Der Ort blieb nicht unverändert.
+Dialoge: keine
+Kontinuität / Änderung: Schlossmauer im fernen Gewitter, ein einzelner Blitz über dem Dach, keine Menschen im Brand.
+
+KACHEL 9: Jenseits des Neckars
+Ort und Zeit: Jenseits des Neckars
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewachsener Heiligenberg mit verfallenen Kirchenmauern und dunklem Höhleneingang. Keine wirklich kämpfenden Götter.
+Erzählertext: Auch auf dem gegenüberliegenden Berg wechselten Tempel, Kirchen und Klöster. Über die Höhlen erzählte man weiter.
+Dialoge: keine
+Kontinuität / Änderung: Bewachsener Heiligenberg mit verfallenen Kirchenmauern und dunklem Höhleneingang. Keine wirklich kämpfenden Götter.
+
+KACHEL 10: Was eine Landschaft bewahrt
+Ort und Zeit: Was eine Landschaft bewahrt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weite Schlussansicht von Fluss, Ruinen und bewaldeten Hügeln, keine auferstandene Jetta.
+Erzählertext: Die Landschaft sammelte Zukunftsbilder und vergangene Verluste. Jettas eigenes Ende blieb die Grenze ihres Wissens.
+Dialoge: keine
+Kontinuität / Änderung: Weite Schlussansicht von Fluss, Ruinen und bewaldeten Hügeln, keine auferstandene Jetta.

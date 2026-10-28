@@ -1,0 +1,106 @@
+TITEL: Der Franken Furt – Der Ausweg
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Karl an der Frankenfurt
+Aussehen: Erwachsener kräftiger Mann mit braunem Vollbart.
+Kleidung: Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Muss in der Ursprungssage eine Niederlage anerkennen, um weiter handeln zu können.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hirschkuh der Frankenfurt
+Aussehen: Eine braune Hirschkuh mit vier Beinen und ohne Geweih.
+Kleidung: Natürliches Fell.
+Persönlichkeit und Vorgeschichte: Zeigt durch ihr Durchqueren des Flusses die Furt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Flüchtenden
+Ort und Zeit: Die Flüchtenden
+Sichtbare Figuren: Karl an der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erschöpfter erwachsener Mann mit wenigen namenlosen Begleitern am breiten Main.
+Erzählertext: In der Ursprungssage mussten Karls Franken vor den Sachsen fliehen.
+Dialoge: keine
+Kontinuität / Änderung: Erschöpfter erwachsener Mann mit wenigen namenlosen Begleitern am breiten Main.
+
+KACHEL 2: Der Fluss
+Ort und Zeit: Der Fluss
+Sichtbare Figuren: Karl an der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann am Ufer, breite Wasserfläche bis zum gegenüberliegenden Land. Keine Brücke oder Boote.
+Erzählertext: Vor ihnen lag der Main. Schiffe und Brücke fehlten.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann am Ufer, breite Wasserfläche bis zum gegenüberliegenden Land. Keine Brücke oder Boote.
+
+KACHEL 3: Die fremde Bewegung
+Ort und Zeit: Die fremde Bewegung
+Sichtbare Figuren: Hirschkuh der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige Hirschkuh am flachen Ufer, keine bewaffneten Menschen direkt daneben.
+Erzählertext: Da kam eine Hirschkuh zum Fluss.
+Dialoge: keine
+Kontinuität / Änderung: Eine einzige Hirschkuh am flachen Ufer, keine bewaffneten Menschen direkt daneben.
+
+KACHEL 4: Die Furt
+Ort und Zeit: Die Furt
+Sichtbare Figuren: Hirschkuh der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier Beine der Hirschkuh im flachen Wasser, Strömung reicht nur bis unter den Bauch.
+Erzählertext: Sie schritt ungefährdet hindurch und zeigte eine seichte Stelle.
+Dialoge: keine
+Kontinuität / Änderung: Vier Beine der Hirschkuh im flachen Wasser, Strömung reicht nur bis unter den Bauch.
+
+KACHEL 5: Genau hinsehen
+Ort und Zeit: Genau hinsehen
+Sichtbare Figuren: Karl an der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König vorn mit offener Hand, kleine Hirschkuh fern am anderen Ufer.
+Erzählertext: Karl beobachtete den Weg des Tieres.
+Dialoge: keine
+Kontinuität / Änderung: König vorn mit offener Hand, kleine Hirschkuh fern am anderen Ufer.
+
+KACHEL 6: Die Überquerung
+Ort und Zeit: Die Überquerung
+Sichtbare Figuren: Karl an der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann vorn mit beiden Füßen im seichten Wasser, Gruppe folgt einzeln, keine schwimmenden Rüstungsleichen.
+Erzählertext: Die Franken nutzten dieselbe Furt und kamen hinüber.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann vorn mit beiden Füßen im seichten Wasser, Gruppe folgt einzeln, keine schwimmenden Rüstungsleichen.
+
+KACHEL 7: Die Verfolger
+Ort und Zeit: Die Verfolger
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbenannte Erwachsene am ursprünglichen Ufer vor breitem Wasser, keine ihnen bekannte markierte Furt.
+Erzählertext: Die Verfolger fanden den Übergang nicht.
+Dialoge: keine
+Kontinuität / Änderung: Unbenannte Erwachsene am ursprünglichen Ufer vor breitem Wasser, keine ihnen bekannte markierte Furt.
+
+KACHEL 8: Eine angenommene Grenze
+Ort und Zeit: Eine angenommene Grenze
+Sichtbare Figuren: Karl an der Frankenfurt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König mit nassem Mantelsaum, Gefährten ruhen dahinter.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Karl an der Frankenfurt
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Besser geflohen und am Leben als hier gefallen.“
+Kontinuität / Änderung: König mit nassem Mantelsaum, Gefährten ruhen dahinter.
+
+KACHEL 9: Eine neue Ansiedlung
+Ort und Zeit: Eine neue Ansiedlung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einige einfache Hütten am Fluss, keine fertige moderne Großstadt.
+Erzählertext: Später siedelten sich Franken hier an. Die Sage erklärt daraus den Namen Frankfurt.
+Dialoge: keine
+Kontinuität / Änderung: Einige einfache Hütten am Fluss, keine fertige moderne Großstadt.
+
+KACHEL 10: Was der Ort bewahrt
+Ort und Zeit: Was der Ort bewahrt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Flusslandschaft mit einfachen Häusern und seichtem Übergang, keine Rückkehrschlacht.
+Erzählertext: Nicht die Behauptung unbesiegbaren Ansehens hatte sie bewahrt, sondern ein rechtzeitig erkannter Ausweg.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige Flusslandschaft mit einfachen Häusern und seichtem Übergang, keine Rückkehrschlacht.
