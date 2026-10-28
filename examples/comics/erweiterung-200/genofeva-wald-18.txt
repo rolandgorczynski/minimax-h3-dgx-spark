@@ -1,0 +1,187 @@
+TITEL: Die heilige Genofeva – Nicht zurück ins Schloss
+AUTOR: Sysop
+KACHELANZAHL: 18
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Genofeva der Pfalzelsage
+Aussehen: Erwachsene Frau mit braunem Zopf und kleinem Muttermal links am Hals.
+Kleidung: Blaues langes Kleid, heller Schleier, einzelner Trauring.
+Persönlichkeit und Vorgeschichte: Wird falsch beschuldigt, überlebt mit dem Kind im Wald und bestimmt selbst über ihre Rückkehr.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Siegfried der Genofevasage
+Aussehen: Erwachsener Mann mit dunklem kurzem Bart.
+Kleidung: Grauer Reisemantel, braune Hose, Stiefel; keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Vertraut ungeprüft Golo und erkennt seinen Irrtum erst Jahre später.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Golo der Genofevasage
+Aussehen: Erwachsener schlanker Mann, schwarzes kurzes Haar, bartlos.
+Kleidung: Dunkelgrünes Wams, graue Hose.
+Persönlichkeit und Vorgeschichte: Missbraucht Vertrauen und verfälscht Nachrichten nach der Zurückweisung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Genofevas Sohn
+Aussehen: Männliche Identität mit braunen Augen; zuerst Säugling, später etwa sechsjähriger Junge.
+Kleidung: Helle Säuglingsdecke.
+Persönlichkeit und Vorgeschichte: Überlebt durch die sagenhafte Hilfe der Hirschkuh.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hindin der Genofevasage
+Aussehen: Eine braune Hirschkuh ohne Geweih mit vier Beinen.
+Kleidung: Natürliches braunes Fell.
+Persönlichkeit und Vorgeschichte: Hilft Mutter und Kind und führt später die Jagd zur Hütte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Abschied
+Ort und Zeit: Der Abschied
+Sichtbare Figuren: Genofeva der Pfalzelsage, Siegfried der Genofevasage, Golo der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene am Tor, Siegfried zu Fuß mit Gepäck.
+Erzählertext: Siegfried zog fort und vertraute Genofeva dem Dienstmann Golo an.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene am Tor, Siegfried zu Fuß mit Gepäck.
+
+KACHEL 2: Die falsche Nachricht
+Ort und Zeit: Die falsche Nachricht
+Sichtbare Figuren: Golo der Genofevasage, Genofeva der Pfalzelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Brief zwischen zwei Erwachsenen, keine bestätigte Schiffskatastrophe eingeblendet.
+Erzählertext: Golo behauptete, Siegfried sei ertrunken, und warb selbst um Genofeva.
+Dialoge: keine
+Kontinuität / Änderung: Ein Brief zwischen zwei Erwachsenen, keine bestätigte Schiffskatastrophe eingeblendet.
+
+KACHEL 3: Die Zurückweisung
+Ort und Zeit: Die Zurückweisung
+Sichtbare Figuren: Genofeva der Pfalzelsage, Golo der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene mit Abstand, Frau zeigt klare Grenze.
+Erzählertext: Sie wies ihn ab. Aus seiner Werbung wurde Hass.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene mit Abstand, Frau zeigt klare Grenze.
+
+KACHEL 4: Die verweigerte Hilfe
+Ort und Zeit: Die verweigerte Hilfe
+Sichtbare Figuren: Genofeva der Pfalzelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleidete schwangere Frau auf dem Bett, eine alte namenlose Helferin daneben.
+Erzählertext: Er entzog ihr die Bedienung. Bei der Geburt half nur eine alte Waschfrau.
+Dialoge: keine
+Kontinuität / Änderung: Bekleidete schwangere Frau auf dem Bett, eine alte namenlose Helferin daneben.
+
+KACHEL 5: Das neue Kind
+Ort und Zeit: Das neue Kind
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter vollständig bekleidet mit einem bedeckten Baby.
+Erzählertext: Ihr Sohn war geboren. Da kam die Nachricht, dass Siegfried lebte.
+Dialoge: keine
+Kontinuität / Änderung: Mutter vollständig bekleidet mit einem bedeckten Baby.
+
+KACHEL 6: Die zweite Lüge
+Ort und Zeit: Die zweite Lüge
+Sichtbare Figuren: Golo der Genofevasage, Siegfried der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer auf dem Rückweg, Golo mit geöffnetem Brief, beide zu Fuß.
+Erzählertext: Golo behauptete nun, das Kind sei nicht Siegfrieds Sohn. Der glaubte ihm ohne Prüfung.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer auf dem Rückweg, Golo mit geöffnetem Brief, beide zu Fuß.
+
+KACHEL 7: Der tödliche Auftrag
+Ort und Zeit: Der tödliche Auftrag
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter mit Kind auf Waldweg, zwei namenlose erwachsene Knechte begleiten mit Abstand.
+Erzählertext: Die Knechte sollten beide töten.
+Dialoge: keine
+Kontinuität / Änderung: Mutter mit Kind auf Waldweg, zwei namenlose erwachsene Knechte begleiten mit Abstand.
+
+KACHEL 8: Die verweigerte Tat
+Ort und Zeit: Die verweigerte Tat
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter und Kind im Wald, Knechte entfernen sich ohne sichtbare Gewalttat.
+Erzählertext: Die Knechte widersetzten sich. Sie ließen die Unschuldigen leben und meldeten einen falschen Beweis.
+Dialoge: keine
+Kontinuität / Änderung: Mutter und Kind im Wald, Knechte entfernen sich ohne sichtbare Gewalttat.
+
+KACHEL 9: Die unerwartete Hilfe
+Ort und Zeit: Die unerwartete Hilfe
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn, Hindin der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter, vollständig eingewickeltes Kind und eine Hindin auf trockenem Boden. Kein Fütterungsdetail.
+Erzählertext: Eine Hindin half in der Legende, das Kind zu erhalten. Genofeva nährte sich von dem, was sie im Wald fand.
+Dialoge: keine
+Kontinuität / Änderung: Mutter, vollständig eingewickeltes Kind und eine Hindin auf trockenem Boden. Kein Fütterungsdetail.
+
+KACHEL 10: Die Jahre im Wald
+Ort und Zeit: Die Jahre im Wald
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn, Hindin der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau in vollständig geschlossenem geflicktem Kleid, Junge im grauen Hemd, eine Hirschkuh daneben.
+Erzählertext: Sechs Jahre und drei Monate lebten sie dort. Ihre Kleidung war zerschlissen, ihr Leben blieb mühsam.
+Dialoge: keine
+Kontinuität / Änderung: Frau in vollständig geschlossenem geflicktem Kleid, Junge im grauen Hemd, eine Hirschkuh daneben.
+
+KACHEL 11: Die Jagd
+Ort und Zeit: Die Jagd
+Sichtbare Figuren: Siegfried der Genofevasage, Hindin der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter folgt aus Abstand einer Hirschkuh, wenige Hunde hinten.
+Erzählertext: Eine Jagd trieb die Hindin zurück zur Hütte.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter folgt aus Abstand einer Hirschkuh, wenige Hunde hinten.
+
+KACHEL 12: Die geschützte Hütte
+Ort und Zeit: Die geschützte Hütte
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn, Hindin der Genofevasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter mit einem Stock hält Hunde fern, Kind bleibt sicher hinter ihrem Körper.
+Erzählertext: Genofeva wehrte die Hunde ab. Siegfried sah eine ihm zunächst fremde Frau.
+Dialoge: keine
+Kontinuität / Änderung: Mutter mit einem Stock hält Hunde fern, Kind bleibt sicher hinter ihrem Körper.
+
+KACHEL 13: Die Fragen
+Ort und Zeit: Die Fragen
+Sichtbare Figuren: Siegfried der Genofevasage, Genofeva der Pfalzelsage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Personen auf gleicher Bodenebene, braunes Pferd mit leerem Sattel fern.
+Erzählertext: Name, Muttermal und der weiter getragene Trauring ließen ihn die Vermisste erkennen.
+Dialoge: keine
+Kontinuität / Änderung: Drei Personen auf gleicher Bodenebene, braunes Pferd mit leerem Sattel fern.
+
+KACHEL 14: Die späte Reue
+Ort und Zeit: Die späte Reue
+Sichtbare Figuren: Siegfried der Genofevasage, Genofeva der Pfalzelsage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsener Mann auf einem Knie vor Mutter und Kind, keine erzwungene Versöhnungsumarmung.
+Erzählertext: Er erkannte Frau und Sohn und erfuhr von Golos Verrat.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsener Mann auf einem Knie vor Mutter und Kind, keine erzwungene Versöhnungsumarmung.
+
+KACHEL 15: Die Vergeltung
+Ort und Zeit: Die Vergeltung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener leerer Burghof, ein dunkler Mantel am Tor, keine Vierteilung oder Tiere mit Seilen.
+Erzählertext: Golo wurde grausam getötet. Diese Strafe der Sage macht Siegfrieds früheres Unrecht nicht ungeschehen.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener leerer Burghof, ein dunkler Mantel am Tor, keine Vierteilung oder Tiere mit Seilen.
+
+KACHEL 16: Die eigene Entscheidung
+Ort und Zeit: Die eigene Entscheidung
+Sichtbare Figuren: Genofeva der Pfalzelsage, Siegfried der Genofevasage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter zeigt mit leerer Hand auf den Waldort, Mann hört zu.
+Erzählertext: Genofeva wollte nicht ins Schloss zurück. An der Stätte ihrer Bewahrung wollte sie bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Mutter zeigt mit leerer Hand auf den Waldort, Mann hört zu.
+
+KACHEL 17: Das bessere Dach
+Ort und Zeit: Das bessere Dach
+Sichtbare Figuren: Genofeva der Pfalzelsage, Genofevas Sohn
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter und Junge in sicherem geschlossenem Raum, eine neue Kapelle am Fenster fern.
+Erzählertext: Siegfried ließ eine Kapelle und eine bessere Unterkunft errichten. Genofeva lebte nach dem Wiederfinden nur noch kurz.
+Dialoge: keine
+Kontinuität / Änderung: Mutter und Junge in sicherem geschlossenem Raum, eine neue Kapelle am Fenster fern.
+
+KACHEL 18: Die bleibende Waldstätte
+Ort und Zeit: Die bleibende Waldstätte
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Waldkapelle mit geschlossenem Grab, Hütte fern, keine glückliche neue Schlossfamilie.
+Erzählertext: Sie starb an ihrem gewählten Ort. Wiedererkennen und Reue hatten die zerstörerischen Folgen des Argwohns nicht aufgehoben.
+Dialoge: keine
+Kontinuität / Änderung: Kleine Waldkapelle mit geschlossenem Grab, Hütte fern, keine glückliche neue Schlossfamilie.

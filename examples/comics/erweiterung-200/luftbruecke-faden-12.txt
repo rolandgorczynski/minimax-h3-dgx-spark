@@ -1,0 +1,118 @@
+TITEL: Die Luftbrücke – Ein Faden reicht zum Anfang
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Junge Gräfin von Nuwenahr
+Aussehen: Junge erwachsene Frau mit braunem Zopf.
+Kleidung: Blaues langes Kleid, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Erneuert die Verbindung durch einen Faden und ein Briefsystem.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Rittersohn von Landskron
+Aussehen: Junger erwachsener Mann mit dunklem kurzem Haar.
+Kleidung: Grünes Wams, graue Hose und Schuhe.
+Persönlichkeit und Vorgeschichte: Erwidert ihre Liebe und baut später mit ihr die Brücke neu.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die verbundenen Burgen
+Ort und Zeit: Die verbundenen Burgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Burgen an gegenüberliegenden Talhängen, eine einzige fantastische leichte Brücke hoch darüber.
+Erzählertext: Zwei befreundete Burgherren ließen ihre Sitze in der Sage durch eine Brücke verbinden.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Burgen an gegenüberliegenden Talhängen, eine einzige fantastische leichte Brücke hoch darüber.
+
+KACHEL 2: Der kurze Besuch
+Ort und Zeit: Der kurze Besuch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose erwachsene Männer begegnen sich auf der einen Brücke, beide zu Fuß.
+Erzählertext: So konnten sie einander rasch besuchen, ohne den langen Weg durchs Tal.
+Dialoge: keine
+Kontinuität / Änderung: Zwei namenlose erwachsene Männer begegnen sich auf der einen Brücke, beide zu Fuß.
+
+KACHEL 3: Die verfallene Verbindung
+Ort und Zeit: Die verfallene Verbindung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Brückenansätze, der Mittelteil vollständig fort, Ahr tief darunter.
+Erzählertext: Nach dem Tod der Freunde verfiel die Brücke.
+Dialoge: keine
+Kontinuität / Änderung: Zwei alte Brückenansätze, der Mittelteil vollständig fort, Ahr tief darunter.
+
+KACHEL 4: Die nächste Generation
+Ort und Zeit: Die nächste Generation
+Sichtbare Figuren: Junge Gräfin von Nuwenahr
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau blickt zur gegenüberliegenden Burg, keine begehbare Restbrücke.
+Erzählertext: Später liebten sich ihre Kinder und wünschten die Verbindung zurück.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau blickt zur gegenüberliegenden Burg, keine begehbare Restbrücke.
+
+KACHEL 5: Der vorbereitete Faden
+Ort und Zeit: Der vorbereitete Faden
+Sichtbare Figuren: Junge Gräfin von Nuwenahr
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Garnknäuel und ein Bolzen mit angebundenem Garn auf einer Bank, ein befestigtes Fadenende am Fenster. Keine Bauanleitung.
+Erzählertext: Die Gräfin befestigte einen Faden und schickte dessen anderes Ende zur Nachbarburg.
+Dialoge: keine
+Kontinuität / Änderung: Ein Garnknäuel und ein Bolzen mit angebundenem Garn auf einer Bank, ein befestigtes Fadenende am Fenster. Keine Bauanleitung.
+
+KACHEL 6: Der erreichte Anfang
+Ort und Zeit: Der erreichte Anfang
+Sichtbare Figuren: Rittersohn von Landskron
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann hält das Ende eines einzelnen dünnen Fadens, der über das Tal aus dem Bild führt.
+Erzählertext: Der Faden verband beide Seiten, noch ohne einen Menschen zu tragen.
+Dialoge: keine
+Kontinuität / Änderung: Ein junger Mann hält das Ende eines einzelnen dünnen Fadens, der über das Tal aus dem Bild führt.
+
+KACHEL 7: Die kleine Fracht
+Ort und Zeit: Die kleine Fracht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Brief an einem Vorhangring über dem Tal, eine dünne Zugschnur daneben.
+Erzählertext: Mit Ring und Schnur konnten kleine Briefe und Zeichen hinübergezogen werden.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Brief an einem Vorhangring über dem Tal, eine dünne Zugschnur daneben.
+
+KACHEL 8: Die empfangene Nachricht
+Ort und Zeit: Die empfangene Nachricht
+Sichtbare Figuren: Junge Gräfin von Nuwenahr
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Frau am Fenster mit einem kleinen Brief in beiden Händen.
+Erzählertext: Was ein Bauwerk nicht mehr leistete, begann mit Nachrichten neu.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Frau am Fenster mit einem kleinen Brief in beiden Händen.
+
+KACHEL 9: Die erklärte Verbindung
+Ort und Zeit: Die erklärte Verbindung
+Sichtbare Figuren: Junge Gräfin von Nuwenahr, Rittersohn von Landskron
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Burghof, einander zugewandt, keine Menschen auf dünnem Faden.
+Erzählertext: Als ihre Herzen sich verständigt hatten, heirateten sie.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im Burghof, einander zugewandt, keine Menschen auf dünnem Faden.
+
+KACHEL 10: Der gemeinsame Neubau
+Ort und Zeit: Der gemeinsame Neubau
+Sichtbare Figuren: Junge Gräfin von Nuwenahr, Rittersohn von Landskron
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Paar vor einer noch unvollständigen Brücke, unbenannte Erwachsene arbeiten an getrennten Stellen.
+Erzählertext: Gemeinsam ließen sie die Brücke neu errichten.
+Dialoge: keine
+Kontinuität / Änderung: Paar vor einer noch unvollständigen Brücke, unbenannte Erwachsene arbeiten an getrennten Stellen.
+
+KACHEL 11: Der spätere Verfall
+Ort und Zeit: Der spätere Verfall
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselben Burgen als spätere Ruinen, Brückenmittelteil wieder verschwunden.
+Erzählertext: Doch auch diese Brücke und die Burgen verfielen später.
+Dialoge: keine
+Kontinuität / Änderung: Dieselben Burgen als spätere Ruinen, Brückenmittelteil wieder verschwunden.
+
+KACHEL 12: Die Arbeit an der Nähe
+Ort und Zeit: Die Arbeit an der Nähe
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein verwitterter einzelner Brückenansatz über dem ruhigen Tal, kein ewiges neues Bauwerk.
+Erzählertext: Verbundenheit war nicht allein geerbter Stein. Ein Faden konnte sie erneuern; dauerhaft blieb sie nur mit neuer Zuwendung.
+Dialoge: keine
+Kontinuität / Änderung: Ein verwitterter einzelner Brückenansatz über dem ruhigen Tal, kein ewiges neues Bauwerk.

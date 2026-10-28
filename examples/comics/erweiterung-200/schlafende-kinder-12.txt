@@ -1,0 +1,136 @@
+TITEL: Die schlafenden Kinder – Die späte Hilfe
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Witwe von Stockum
+Aussehen: Erwachsene Frau um vierzig mit braunem Haar und müdem Gesicht.
+Kleidung: Graues geflicktes Kleid, braunes Schultertuch.
+Persönlichkeit und Vorgeschichte: Ist mit drei Kindern in existenzieller Not, findet zunächst keine Hilfe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ältestes Stockumer Kind
+Aussehen: Etwa elfjähriger Junge mit kurzem braunem Haar.
+Kleidung: Braunes geflicktes Hemd und graue Hose.
+Persönlichkeit und Vorgeschichte: Bittet die verzweifelte Mutter, bis zur Ernte schlafen zu dürfen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Mittleres Stockumer Kind
+Aussehen: Etwa achtjähriges Mädchen mit braunem kurzen Zopf.
+Kleidung: Blaues geflicktes langes Kinderkleid.
+Persönlichkeit und Vorgeschichte: Eines der drei schlafenden Kinder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Jüngstes Stockumer Kind
+Aussehen: Etwa fünfjähriger Junge mit hellbraunen Locken.
+Kleidung: Helles Kinderhemd und braune Hose.
+Persönlichkeit und Vorgeschichte: Eines der drei schlafenden Kinder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die leeren Vorräte
+Ort und Zeit: Die leeren Vorräte
+Sichtbare Figuren: Witwe von Stockum, Ältestes Stockumer Kind, Mittleres Stockumer Kind, Jüngstes Stockumer Kind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter und genau drei Kinder um eine leere Brotschale, alle vollständig bekleidet.
+Erzählertext: In Stockum lebte eine Witwe mit drei Kindern. Es war teure Zeit, ihre Vorräte waren aufgebraucht.
+Dialoge: keine
+Kontinuität / Änderung: Mutter und genau drei Kinder um eine leere Brotschale, alle vollständig bekleidet.
+
+KACHEL 2: Die vergebliche Bitte
+Ort und Zeit: Die vergebliche Bitte
+Sichtbare Figuren: Witwe von Stockum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau mit leerem Korb an einer Tür, keine spöttisch karikierte Menge.
+Erzählertext: Sie ging um Hilfe bitten und bekam nicht genug zum Leben.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau mit leerem Korb an einer Tür, keine spöttisch karikierte Menge.
+
+KACHEL 3: Die Verzweiflung
+Ort und Zeit: Die Verzweiflung
+Sichtbare Figuren: Witwe von Stockum, Ältestes Stockumer Kind, Mittleres Stockumer Kind, Jüngstes Stockumer Kind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter mit leeren Händen vor dem Gesicht, Kinder sicher auf derselben Raumseite. Keine Waffe.
+Erzählertext: Heimgekehrt dachte sie in ihrer Verzweiflung daran, dem Leben ein Ende zu machen.
+Dialoge: keine
+Kontinuität / Änderung: Mutter mit leeren Händen vor dem Gesicht, Kinder sicher auf derselben Raumseite. Keine Waffe.
+
+KACHEL 4: Die andere Bitte
+Ort und Zeit: Die andere Bitte
+Sichtbare Figuren: Ältestes Stockumer Kind, Witwe von Stockum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Elfjähriger Junge spricht zur sitzenden Erwachsenen, Hände leer.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ältestes Stockumer Kind
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Lass uns bis zur Ernte schlafen. Dann gibt es wieder Brot.“
+Kontinuität / Änderung: Elfjähriger Junge spricht zur sitzenden Erwachsenen, Hände leer.
+
+KACHEL 5: Die sinkenden Augen
+Ort und Zeit: Die sinkenden Augen
+Sichtbare Figuren: Ältestes Stockumer Kind, Mittleres Stockumer Kind, Jüngstes Stockumer Kind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau drei bekleidete Kinder nebeneinander auf getrennten Kissen unter leichten Decken.
+Erzählertext: In der Sage schliefen die Kinder ein und wachten nicht mehr zum nächsten Tag auf.
+Dialoge: keine
+Kontinuität / Änderung: Genau drei bekleidete Kinder nebeneinander auf getrennten Kissen unter leichten Decken.
+
+KACHEL 6: Die vergehenden Monate
+Ort und Zeit: Die vergehenden Monate
+Sichtbare Figuren: Witwe von Stockum, Ältestes Stockumer Kind, Mittleres Stockumer Kind, Jüngstes Stockumer Kind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter wacht bei drei ruhig schlafenden Kindern, Frühjahr draußen am Fenster.
+Erzählertext: Winter und Frühling vergingen. Die Kinder schliefen weiter, und die Mutter wachte bei ihnen.
+Dialoge: keine
+Kontinuität / Änderung: Mutter wacht bei drei ruhig schlafenden Kindern, Frühjahr draußen am Fenster.
+
+KACHEL 7: Die ersten Besucher
+Ort und Zeit: Die ersten Besucher
+Sichtbare Figuren: Witwe von Stockum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose Erwachsene stehen vor dem Haus mit kleinen Gaben, Schlafplätze außerhalb des Bildes.
+Erzählertext: Nun kamen Menschen, um die ungewöhnlich schlafenden Kinder zu sehen.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose Erwachsene stehen vor dem Haus mit kleinen Gaben, Schlafplätze außerhalb des Bildes.
+
+KACHEL 8: Die gesehen gewordene Not
+Ort und Zeit: Die gesehen gewordene Not
+Sichtbare Figuren: Witwe von Stockum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Besucherin reicht einen Brotkorb, keine Bezahlung für eine Vorführung.
+Erzählertext: Sie brachten Gaben. Was vorher alltägliche Not gewesen war, hatte plötzlich Aufmerksamkeit.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Besucherin reicht einen Brotkorb, keine Bezahlung für eine Vorführung.
+
+KACHEL 9: Die gefüllten Vorräte
+Ort und Zeit: Die gefüllten Vorräte
+Sichtbare Figuren: Witwe von Stockum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mutter mit Brot, Obst und Körnern im Schrank, keine riesigen Goldberge.
+Erzählertext: Mit den Gaben war das künftige Leben der Familie gesichert.
+Dialoge: keine
+Kontinuität / Änderung: Mutter mit Brot, Obst und Körnern im Schrank, keine riesigen Goldberge.
+
+KACHEL 10: Die Ernte
+Ort und Zeit: Die Ernte
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sichere Erntelandschaft mit erwachsenen Arbeitenden, goldene Ähren im August.
+Erzählertext: Als die Ernte begann, kam das Ende der langen Nacht.
+Dialoge: keine
+Kontinuität / Änderung: Sichere Erntelandschaft mit erwachsenen Arbeitenden, goldene Ähren im August.
+
+KACHEL 11: Das Erwachen
+Ort und Zeit: Das Erwachen
+Sichtbare Figuren: Ältestes Stockumer Kind, Mittleres Stockumer Kind, Jüngstes Stockumer Kind, Witwe von Stockum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei lebende Kinder öffnen die Augen und setzen sich auf, Mutter freundlich daneben. Keine weiteren Kinderkopien.
+Erzählertext: Alle drei erwachten. Gemeinsam mit der Mutter konnten sie wieder leben, ohne denselben Mangel.
+Dialoge: keine
+Kontinuität / Änderung: Drei lebende Kinder öffnen die Augen und setzen sich auf, Mutter freundlich daneben. Keine weiteren Kinderkopien.
+
+KACHEL 12: Die offene Frage
+Ort und Zeit: Die offene Frage
+Sichtbare Figuren: Witwe von Stockum, Ältestes Stockumer Kind, Mittleres Stockumer Kind, Jüngstes Stockumer Kind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier Menschen an einem schlichten Tisch mit Brot und Obst, gleiche Raumaufteilung wie am Anfang.
+Erzählertext: Das Wunder hatte Hilfe angezogen. Warum sie nicht schon den hungernden Kindern gegeben worden war, bleibt die Frage der Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Vier Menschen an einem schlichten Tisch mit Brot und Obst, gleiche Raumaufteilung wie am Anfang.

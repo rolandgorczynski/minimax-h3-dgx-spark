@@ -1,0 +1,56 @@
+TITEL: Vom Ursprung des Moselweins – Mitgebrachte Reben
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Die alte Herkunftserzählung
+Ort und Zeit: Die alte Herkunftserzählung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ferne Gruppen von Erwachsenen auf verschiedenen Wegen, keine moderne nationale Landkarte.
+Erzählertext: Die Sage führt den Moselwein auf Menschen aus dem östlichen Franken zurück.
+Dialoge: keine
+Kontinuität / Änderung: Zwei ferne Gruppen von Erwachsenen auf verschiedenen Wegen, keine moderne nationale Landkarte.
+
+KACHEL 2: Der angeordnete Wechsel
+Ort und Zeit: Der angeordnete Wechsel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose erwachsene Reisende mit Bündeln vor ihren verlassenen Häusern.
+Erzählertext: Ein König soll Menschen zwischen den Regionen umgesiedelt haben. Die Quelle erzählt von einem angeordneten Wechsel.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose erwachsene Reisende mit Bündeln vor ihren verlassenen Häusern.
+
+KACHEL 3: Was mitkam
+Ort und Zeit: Was mitkam
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Hände um wenige eingewickelte Rebstöcke mit Wurzeln, kein fertiger Wein im Gepäck.
+Erzählertext: Die Winzer nahmen nicht nur Habe mit. Sie brachten Reben und ihr Wissen um deren Pflege.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Hände um wenige eingewickelte Rebstöcke mit Wurzeln, kein fertiger Wein im Gepäck.
+
+KACHEL 4: Der neue Boden
+Ort und Zeit: Der neue Boden
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene pflanzen junge Reben in einen Hang über einem gewundenen Fluss.
+Erzählertext: Im Moselland setzten sie die Reben in neuen Boden.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene pflanzen junge Reben in einen Hang über einem gewundenen Fluss.
+
+KACHEL 5: Die gewachsenen Hänge
+Ort und Zeit: Die gewachsenen Hänge
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Späterer begrünter Weinberg mit reifen Trauben, eine kleine Erntegesellschaft.
+Erzählertext: Dort gediehen sie. Die Ursprungssage verbindet den Wein mit weitergegebenem Können.
+Dialoge: keine
+Kontinuität / Änderung: Späterer begrünter Weinberg mit reifen Trauben, eine kleine Erntegesellschaft.
+
+KACHEL 6: Der überlieferte Ruhm
+Ort und Zeit: Der überlieferte Ruhm
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzelne Traubenschale und ein kleiner Weinbecher auf dem Tisch, keine Krankenbehandlung.
+Erzählertext: Lobverse nannten den Wein gesund. Das ist historische Rede, keine Gesundheitswirkung: Entscheidend bleibt hier das mitgebrachte Wissen.
+Dialoge: keine
+Kontinuität / Änderung: Eine einzelne Traubenschale und ein kleiner Weinbecher auf dem Tisch, keine Krankenbehandlung.

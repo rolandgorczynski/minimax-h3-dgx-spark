@@ -1,0 +1,442 @@
+{
+  "mode": "editorial",
+  "name": "Die letzte Saat – Ein Vergleich für die Ewigkeit · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die letzte Saat. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 106.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nBei Mülheim, nahe dem Rhein, lag vorzeiten ein Kloster namens Dünnwald, das war in Streit geraten über hundert Morgen Ackerlandes mit einem nachbarlichen Edeln, Junker Hall von Schleebusch. Das Kloster wie der Junker sprachen dieses große Grundstück als Eigentum an, doch hatte es der Junker im Besitz, aber alle Nutzung verzehrten die Kosten des vor Gericht geführten Rechtsstreites, die Anwälte, die Fürsprecher, die Richter, die Schöffen, die Schreiber. Da bot endlich der Junker Hall von Schleebusch gütlichen Vergleich an und sprach zu den frommen Vätern des Klosters Dünnwald: Fromme Väter, ich bin des langen Haders müde, der uns beiderseits nicht frommt. Die hundert Morgen sollen fürder und künftig für alle Zeiten des Klosters Eigen sein, nur eins bedinge ich: noch einmal eine, und zwar die letzte Aussaat. Ist die zur Ernte reif und gediehen und eingebracht, so begebe ich mich jedes Anspruchs an die hundert Morgen. – Der Himmel stärke Euch, edler Junker, in solch frommem Entschluß, sprach der Abt, doch seid Ihr wohl so gnädig, dieses Versprechen uns schriftlich zu geben. – Darauf wurde ein Brief auf Pergament doppelt geschrieben und ausgefertigt, und der Junker hing sein Siegel in Wachs daran, und der Abt des Klosters das seine, und das große Konventsiegel kam auch noch hinzu, und das des Priors, und noch zwölf Siegel erbetener ritterlicher Zeugen, und war ein sehr schöner Brief, diese Schenkungsurkunde auf ewige Zeiten nach der Ernte der letzten Aussaat, die noch des Junkers sein sollte. Junker Hall von Schleebusch ließ nun seinen Acker bestellen und die hundert Morgen besäen, das geschah im Herbst, und im Frühjahr ging die Saat auf, wollte aber gar nicht recht in die Höhe schießen wie andere Saat. Da nun das Fest der Hagelfeier kam, wo man mit Prozessionen und Fahnen die Felder umgeht und für sie betet, da sahen die Mönche nach der Saat auf dem künftigen Klostererbe – aber was sahen sie? – Eine Saat von Eicheln. – Betrug! Betrug! schrien Abt und Prior und Konvent – aber es half nichts, denn im Briefe stand: vnde bewilligen ihme deme edeln junkherrn Hall vom Sleehenbosche die letzte Vssaat sinder widerrede unde sinder alle geferde. deßez czo gezügen han wir erbeten etc. Lange noch freute Junker Hall von Schleebusch sich seines schönen herrlich gedeihenden jungen Eichenwaldes, er jagte noch Hasen und Hühner darin – die Bäume wuchsen, und Abt und Prior und der ganze damalige Konvent gingen einer nach dem andern zur ewigen Ruhe der Saat, von Gott gesäet – und immer noch wuchsen die Eichen, und im Archive der schöne Brief wurde grau, und die Siegel wurden voll Staub, und es dachte niemand mehr an ihn – und immer noch wuchsen die Eichen, und das Kloster versank in Schutt und Trümmer, und das neue Geschlecht, das gekommen war, konnte die Schrift des alten Briefes nicht mehr lesen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die letzte Saat. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 106.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nBei Mülheim, nahe dem Rhein, lag vorzeiten ein Kloster namens Dünnwald, das war in Streit geraten über hundert Morgen Ackerlandes mit einem nachbarlichen Edeln, Junker Hall von Schleebusch. Das Kloster wie der Junker sprachen dieses große Grundstück als Eigentum an, doch hatte es der Junker im Besitz, aber alle Nutzung verzehrten die Kosten des vor Gericht geführten Rechtsstreites, die Anwälte, die Fürsprecher, die Richter, die Schöffen, die Schreiber. Da bot endlich der Junker Hall von Schleebusch gütlichen Vergleich an und sprach zu den frommen Vätern des Klosters Dünnwald: Fromme Väter, ich bin des langen Haders müde, der uns beiderseits nicht frommt. Die hundert Morgen sollen fürder und künftig für alle Zeiten des Klosters Eigen sein, nur eins bedinge ich: noch einmal eine, und zwar die letzte Aussaat. Ist die zur Ernte reif und gediehen und eingebracht, so begebe ich mich jedes Anspruchs an die hundert Morgen. – Der Himmel stärke Euch, edler Junker, in solch frommem Entschluß, sprach der Abt, doch seid Ihr wohl so gnädig, dieses Versprechen uns schriftlich zu geben. – Darauf wurde ein Brief auf Pergament doppelt geschrieben und ausgefertigt, und der Junker hing sein Siegel in Wachs daran, und der Abt des Klosters das seine, und das große Konventsiegel kam auch noch hinzu, und das des Priors, und noch zwölf Siegel erbetener ritterlicher Zeugen, und war ein sehr schöner Brief, diese Schenkungsurkunde auf ewige Zeiten nach der Ernte der letzten Aussaat, die noch des Junkers sein sollte. Junker Hall von Schleebusch ließ nun seinen Acker bestellen und die hundert Morgen besäen, das geschah im Herbst, und im Frühjahr ging die Saat auf, wollte aber gar nicht recht in die Höhe schießen wie andere Saat. Da nun das Fest der Hagelfeier kam, wo man mit Prozessionen und Fahnen die Felder umgeht und für sie betet, da sahen die Mönche nach der Saat auf dem künftigen Klostererbe – aber was sahen sie? – Eine Saat von Eicheln. – Betrug! Betrug! schrien Abt und Prior und Konvent – aber es half nichts, denn im Briefe stand: vnde bewilligen ihme deme edeln junkherrn Hall vom Sleehenbosche die letzte Vssaat sinder widerrede unde sinder alle geferde. deßez czo gezügen han wir erbeten etc. Lange noch freute Junker Hall von Schleebusch sich seines schönen herrlich gedeihenden jungen Eichenwaldes, er jagte noch Hasen und Hühner darin – die Bäume wuchsen, und Abt und Prior und der ganze damalige Konvent gingen einer nach dem andern zur ewigen Ruhe der Saat, von Gott gesäet – und immer noch wuchsen die Eichen, und im Archive der schöne Brief wurde grau, und die Siegel wurden voll Staub, und es dachte niemand mehr an ihn – und immer noch wuchsen die Eichen, und das Kloster versank in Schutt und Trümmer, und das neue Geschlecht, das gekommen war, konnte die Schrift des alten Briefes nicht mehr lesen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Das umstrittene Feld",
+        "setting": "Das umstrittene Feld",
+        "characters": [
+          "a827549af72f5248964b764e75a33086",
+          "6a9e2f5d8ed8542ead6d89e33325cabe"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Rand eines großen Ackers, keine Trennmauer bereits darauf.",
+        "dialog": "Junker und Kloster stritten über hundert Morgen Land.",
+        "bubbles": [],
+        "character_states": {
+          "a827549af72f5248964b764e75a33086": "steht links am Feld; Grünes Wams, graue Hose, braune Schuhe.; Lebenszustand: lebend",
+          "6a9e2f5d8ed8542ead6d89e33325cabe": "steht rechts; Braune Kutte, heller Gürtel.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene am Rand eines großen Ackers, keine Trennmauer bereits darauf.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Das umstrittene Feld",
+            "posture": "steht links am Feld"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Das umstrittene Feld",
+            "posture": "steht rechts"
+          }
+        }
+      },
+      {
+        "heading": "Die Kosten",
+        "setting": "Die Kosten",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere geschlossene Schriftrollen und ein leerer Geldbeutel auf Gerichtstisch.",
+        "dialog": "Die Prozesskosten verzehrten, was der Acker einbrachte.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Mehrere geschlossene Schriftrollen und ein leerer Geldbeutel auf Gerichtstisch.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Das umstrittene Feld",
+            "posture": "steht links am Feld"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Das umstrittene Feld",
+            "posture": "steht rechts"
+          }
+        }
+      },
+      {
+        "heading": "Der angebotene Frieden",
+        "setting": "Der angebotene Frieden",
+        "characters": [
+          "a827549af72f5248964b764e75a33086",
+          "6a9e2f5d8ed8542ead6d89e33325cabe"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an einem schlichten Tisch.",
+        "dialog": "Der Junker bot das Land dem Kloster an – nach einer letzten eigenen Aussaat und deren Ernte.",
+        "bubbles": [],
+        "character_states": {
+          "a827549af72f5248964b764e75a33086": "steht vor dem Abt; Grünes Wams, graue Hose, braune Schuhe.; Lebenszustand: lebend",
+          "6a9e2f5d8ed8542ead6d89e33325cabe": "hört zu; Braune Kutte, heller Gürtel.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene an einem schlichten Tisch.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Der angebotene Frieden",
+            "posture": "steht vor dem Abt"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Der angebotene Frieden",
+            "posture": "hört zu"
+          }
+        }
+      },
+      {
+        "heading": "Das verlangte Papier",
+        "setting": "Das verlangte Papier",
+        "characters": [
+          "6a9e2f5d8ed8542ead6d89e33325cabe",
+          "a827549af72f5248964b764e75a33086"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein offenes Pergament ohne lesbaren kleinteiligen Text.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "6a9e2f5d8ed8542ead6d89e33325cabe",
+            "text": "Dann lasst uns das schriftlich festhalten.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "6a9e2f5d8ed8542ead6d89e33325cabe": "hält ein Pergament; Braune Kutte, heller Gürtel.; Lebenszustand: lebend",
+          "a827549af72f5248964b764e75a33086": "steht daneben; Grünes Wams, graue Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein offenes Pergament ohne lesbaren kleinteiligen Text.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Das verlangte Papier",
+            "posture": "steht daneben"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Das verlangte Papier",
+            "posture": "hält ein Pergament"
+          }
+        }
+      },
+      {
+        "heading": "Die vielen Siegel",
+        "setting": "Die vielen Siegel",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges Pergament mit mehreren Wachssiegeln am unteren Rand, keine genaue Siegelzählung verlangt.",
+        "dialog": "Beide Seiten und viele Zeugen besiegelten die Vereinbarung.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein einziges Pergament mit mehreren Wachssiegeln am unteren Rand, keine genaue Siegelzählung verlangt.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Das verlangte Papier",
+            "posture": "steht daneben"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Das verlangte Papier",
+            "posture": "hält ein Pergament"
+          }
+        }
+      },
+      {
+        "heading": "Der Herbst",
+        "setting": "Der Herbst",
+        "characters": [
+          "a827549af72f5248964b764e75a33086"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Feld wird mit kleinen Eicheln bestellt, eine Schale mit Eicheln deutlich im Vordergrund.",
+        "dialog": "Der Junker ließ tatsächlich säen: Eicheln.",
+        "bubbles": [],
+        "character_states": {
+          "a827549af72f5248964b764e75a33086": "steht vor arbeitenden Erwachsenen; Grünes Wams, graue Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Feld wird mit kleinen Eicheln bestellt, eine Schale mit Eicheln deutlich im Vordergrund.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Der Herbst",
+            "posture": "steht vor arbeitenden Erwachsenen"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Das verlangte Papier",
+            "posture": "hält ein Pergament"
+          }
+        }
+      },
+      {
+        "heading": "Das ungewöhnliche Grün",
+        "setting": "Das ungewöhnliche Grün",
+        "characters": [
+          "6a9e2f5d8ed8542ead6d89e33325cabe"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Eichensämlinge mit gelappten Blättern statt Getreidehalmen.",
+        "dialog": "Im Frühjahr sah das Wachstum anders aus als erwartet.",
+        "bubbles": [],
+        "character_states": {
+          "6a9e2f5d8ed8542ead6d89e33325cabe": "steht vor kleinen Pflanzen; Braune Kutte, heller Gürtel.; Lebenszustand: lebend"
+        },
+        "continuity": "Kleine Eichensämlinge mit gelappten Blättern statt Getreidehalmen.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Der Herbst",
+            "posture": "steht vor arbeitenden Erwachsenen"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Das ungewöhnliche Grün",
+            "posture": "steht vor kleinen Pflanzen"
+          }
+        }
+      },
+      {
+        "heading": "Die erkannte List",
+        "setting": "Die erkannte List",
+        "characters": [
+          "6a9e2f5d8ed8542ead6d89e33325cabe"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abt vor jungen Eichen, ein Schriftstück in beiden Händen, keine gereiften Getreideähren.",
+        "dialog": "Das Kloster protestierte. Doch die letzte Aussaat war nicht auf Getreide beschränkt worden.",
+        "bubbles": [],
+        "character_states": {
+          "6a9e2f5d8ed8542ead6d89e33325cabe": "steht am Feldrand mit dem Pergament; Braune Kutte, heller Gürtel.; Lebenszustand: lebend"
+        },
+        "continuity": "Abt vor jungen Eichen, ein Schriftstück in beiden Händen, keine gereiften Getreideähren.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Der Herbst",
+            "posture": "steht vor arbeitenden Erwachsenen"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Die erkannte List",
+            "posture": "steht am Feldrand mit dem Pergament"
+          }
+        }
+      },
+      {
+        "heading": "Die wartende Ernte",
+        "setting": "Die wartende Ernte",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Eichenwald am selben Ort, keine in derselben Kachel wachsenden Baumkopien.",
+        "dialog": "Die Eichen wuchsen. Ihre Ernte lag in einer anderen Zeit als die Hoffnung des Konvents.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein junger Eichenwald am selben Ort, keine in derselben Kachel wachsenden Baumkopien.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Der Herbst",
+            "posture": "steht vor arbeitenden Erwachsenen"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Die erkannte List",
+            "posture": "steht am Feldrand mit dem Pergament"
+          }
+        }
+      },
+      {
+        "heading": "Der vergessene Brief",
+        "setting": "Der vergessene Brief",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verstaubtes versiegeltes Pergament im alten Archiv, draußen ein mächtiger Wald.",
+        "dialog": "Menschen und Kloster vergingen, die Eichen blieben. Viele Siegel hatten den ausgenutzten Wortlaut nicht unschädlich gemacht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Verstaubtes versiegeltes Pergament im alten Archiv, draußen ein mächtiger Wald.",
+        "continuity_state": {
+          "a827549af72f5248964b764e75a33086": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose, braune Schuhe.",
+            "location": "Der Herbst",
+            "posture": "steht vor arbeitenden Erwachsenen"
+          },
+          "6a9e2f5d8ed8542ead6d89e33325cabe": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, heller Gürtel.",
+            "location": "Die erkannte List",
+            "posture": "steht am Feldrand mit dem Pergament"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Junker Hall von Schleebusch",
+        "description": "Erwachsener Mann mit braunem kurzem Bart.",
+        "outfit": "Grünes Wams, graue Hose, braune Schuhe.",
+        "backstory": "Setzt eine letzte Aussaat als Bedingung und nutzt deren unbestimmte Bedeutung.",
+        "id": "a827549af72f5248964b764e75a33086",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Abt von Dünnwald",
+        "description": "Älterer Mann mit weißem kurzem Bart.",
+        "outfit": "Braune Kutte, heller Gürtel.",
+        "backstory": "Vertraut auf die versiegelte Vereinbarung, ohne deren Deutung zu sichern.",
+        "id": "6a9e2f5d8ed8542ead6d89e33325cabe",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Schafft eine genau besiegelte Vereinbarung auch schon eine gemeinsame Bedeutung?",
+      "core": "Ein scheinbarer Vergleich kann den Streit durch eine nicht ausgesprochene Deutung nur aufschieben. Viele Siegel schützen nicht vor dem Widerspruch zwischen erwartetem Sinn und ausgenutztem Wortlaut.",
+      "ending": "Die Eichen wachsen weiter, während Kloster und Anspruch in Vergessenheit geraten.",
+      "reason": "Streitkosten, scheinbare Einigung, unerwartete Saat und vergehende Generationen tragen die eigentliche Pointe.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Eine Saat von Eicheln.",
+          "meaning": "Die letzte Ernte wird durch die Art der Saat in eine Zukunft verschoben, die das Kloster nicht mehr erlebt."
+        }
+      ],
+      "causal_chain": [
+        "Eine Saat von Eicheln.",
+        "Die Eichen wachsen weiter, während Kloster und Anspruch in Vergessenheit geraten."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "75bb44aab7ba9935f3b86e20cef62c060ef695c3526e765ce9ea846e5331e395",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.709722+00:00"
+    },
+    "post_summary": "Viele Siegel sollen einen Streit beenden. Doch zwischen dem Wort Saat und der erwarteten Ernte liegt ein ganzer Wald.",
+    "source_provenance": {
+      "title": "Die letzte Saat",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 106.",
+      "url": "https://textgridrep.org/browse/kdsj.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die letzte Saat. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 106.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nBei Mülheim, nahe dem Rhein, lag vorzeiten ein Kloster namens Dünnwald, das war in Streit geraten über hundert Morgen Ackerlandes mit einem nachbarlichen Edeln, Junker Hall von Schleebusch. Das Kloster wie der Junker sprachen dieses große Grundstück als Eigentum an, doch hatte es der Junker im Besitz, aber alle Nutzung verzehrten die Kosten des vor Gericht geführten Rechtsstreites, die Anwälte, die Fürsprecher, die Richter, die Schöffen, die Schreiber. Da bot endlich der Junker Hall von Schleebusch gütlichen Vergleich an und sprach zu den frommen Vätern des Klosters Dünnwald: Fromme Väter, ich bin des langen Haders müde, der uns beiderseits nicht frommt. Die hundert Morgen sollen fürder und künftig für alle Zeiten des Klosters Eigen sein, nur eins bedinge ich: noch einmal eine, und zwar die letzte Aussaat. Ist die zur Ernte reif und gediehen und eingebracht, so begebe ich mich jedes Anspruchs an die hundert Morgen. – Der Himmel stärke Euch, edler Junker, in solch frommem Entschluß, sprach der Abt, doch seid Ihr wohl so gnädig, dieses Versprechen uns schriftlich zu geben. – Darauf wurde ein Brief auf Pergament doppelt geschrieben und ausgefertigt, und der Junker hing sein Siegel in Wachs daran, und der Abt des Klosters das seine, und das große Konventsiegel kam auch noch hinzu, und das des Priors, und noch zwölf Siegel erbetener ritterlicher Zeugen, und war ein sehr schöner Brief, diese Schenkungsurkunde auf ewige Zeiten nach der Ernte der letzten Aussaat, die noch des Junkers sein sollte. Junker Hall von Schleebusch ließ nun seinen Acker bestellen und die hundert Morgen besäen, das geschah im Herbst, und im Frühjahr ging die Saat auf, wollte aber gar nicht recht in die Höhe schießen wie andere Saat. Da nun das Fest der Hagelfeier kam, wo man mit Prozessionen und Fahnen die Felder umgeht und für sie betet, da sahen die Mönche nach der Saat auf dem künftigen Klostererbe – aber was sahen sie? – Eine Saat von Eicheln. – Betrug! Betrug! schrien Abt und Prior und Konvent – aber es half nichts, denn im Briefe stand: vnde bewilligen ihme deme edeln junkherrn Hall vom Sleehenbosche die letzte Vssaat sinder widerrede unde sinder alle geferde. deßez czo gezügen han wir erbeten etc. Lange noch freute Junker Hall von Schleebusch sich seines schönen herrlich gedeihenden jungen Eichenwaldes, er jagte noch Hasen und Hühner darin – die Bäume wuchsen, und Abt und Prior und der ganze damalige Konvent gingen einer nach dem andern zur ewigen Ruhe der Saat, von Gott gesäet – und immer noch wuchsen die Eichen, und im Archive der schöne Brief wurde grau, und die Siegel wurden voll Staub, und es dachte niemand mehr an ihn – und immer noch wuchsen die Eichen, und das Kloster versank in Schutt und Trümmer, und das neue Geschlecht, das gekommen war, konnte die Schrift des alten Briefes nicht mehr lesen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Bei Mülheim, nahe dem Rhein, lag vorzeiten ein Kloster namens Dünnwald, das war in Streit geraten über hundert Morgen Ackerlandes mit einem nachbarlichen Edeln, Junker Hall von Schleebusch.",
+      "id": "bechstein-sagen-kdsj-0",
+      "category": "Heilige und Legenden",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "letzte-saat-eicheln-10-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die letzte Saat – Ein Vergleich für die Ewigkeit · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die letzte Saat – Ein Vergleich für die Ewigkeit\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Junker Hall von Schleebusch\nAussehen: Erwachsener Mann mit braunem kurzem Bart.\nKleidung: Grünes Wams, graue Hose, braune Schuhe.\nPersönlichkeit und Vorgeschichte: Setzt eine letzte Aussaat als Bedingung und nutzt deren unbestimmte Bedeutung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Abt von Dünnwald\nAussehen: Älterer Mann mit weißem kurzem Bart.\nKleidung: Braune Kutte, heller Gürtel.\nPersönlichkeit und Vorgeschichte: Vertraut auf die versiegelte Vereinbarung, ohne deren Deutung zu sichern.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das umstrittene Feld\nOrt und Zeit: Das umstrittene Feld\nSichtbare Figuren: Junker Hall von Schleebusch, Abt von Dünnwald\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Rand eines großen Ackers, keine Trennmauer bereits darauf.\nErzählertext: Junker und Kloster stritten über hundert Morgen Land.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene am Rand eines großen Ackers, keine Trennmauer bereits darauf.\n\nKACHEL 2: Die Kosten\nOrt und Zeit: Die Kosten\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere geschlossene Schriftrollen und ein leerer Geldbeutel auf Gerichtstisch.\nErzählertext: Die Prozesskosten verzehrten, was der Acker einbrachte.\nDialoge: keine\nKontinuität / Änderung: Mehrere geschlossene Schriftrollen und ein leerer Geldbeutel auf Gerichtstisch.\n\nKACHEL 3: Der angebotene Frieden\nOrt und Zeit: Der angebotene Frieden\nSichtbare Figuren: Junker Hall von Schleebusch, Abt von Dünnwald\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an einem schlichten Tisch.\nErzählertext: Der Junker bot das Land dem Kloster an – nach einer letzten eigenen Aussaat und deren Ernte.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene an einem schlichten Tisch.\n\nKACHEL 4: Das verlangte Papier\nOrt und Zeit: Das verlangte Papier\nSichtbare Figuren: Abt von Dünnwald, Junker Hall von Schleebusch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein offenes Pergament ohne lesbaren kleinteiligen Text.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Abt von Dünnwald\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann lasst uns das schriftlich festhalten.“\nKontinuität / Änderung: Ein offenes Pergament ohne lesbaren kleinteiligen Text.\n\nKACHEL 5: Die vielen Siegel\nOrt und Zeit: Die vielen Siegel\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges Pergament mit mehreren Wachssiegeln am unteren Rand, keine genaue Siegelzählung verlangt.\nErzählertext: Beide Seiten und viele Zeugen besiegelten die Vereinbarung.\nDialoge: keine\nKontinuität / Änderung: Ein einziges Pergament mit mehreren Wachssiegeln am unteren Rand, keine genaue Siegelzählung verlangt.\n\nKACHEL 6: Der Herbst\nOrt und Zeit: Der Herbst\nSichtbare Figuren: Junker Hall von Schleebusch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Feld wird mit kleinen Eicheln bestellt, eine Schale mit Eicheln deutlich im Vordergrund.\nErzählertext: Der Junker ließ tatsächlich säen: Eicheln.\nDialoge: keine\nKontinuität / Änderung: Ein Feld wird mit kleinen Eicheln bestellt, eine Schale mit Eicheln deutlich im Vordergrund.\n\nKACHEL 7: Das ungewöhnliche Grün\nOrt und Zeit: Das ungewöhnliche Grün\nSichtbare Figuren: Abt von Dünnwald\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Eichensämlinge mit gelappten Blättern statt Getreidehalmen.\nErzählertext: Im Frühjahr sah das Wachstum anders aus als erwartet.\nDialoge: keine\nKontinuität / Änderung: Kleine Eichensämlinge mit gelappten Blättern statt Getreidehalmen.\n\nKACHEL 8: Die erkannte List\nOrt und Zeit: Die erkannte List\nSichtbare Figuren: Abt von Dünnwald\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abt vor jungen Eichen, ein Schriftstück in beiden Händen, keine gereiften Getreideähren.\nErzählertext: Das Kloster protestierte. Doch die letzte Aussaat war nicht auf Getreide beschränkt worden.\nDialoge: keine\nKontinuität / Änderung: Abt vor jungen Eichen, ein Schriftstück in beiden Händen, keine gereiften Getreideähren.\n\nKACHEL 9: Die wartende Ernte\nOrt und Zeit: Die wartende Ernte\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Eichenwald am selben Ort, keine in derselben Kachel wachsenden Baumkopien.\nErzählertext: Die Eichen wuchsen. Ihre Ernte lag in einer anderen Zeit als die Hoffnung des Konvents.\nDialoge: keine\nKontinuität / Änderung: Ein junger Eichenwald am selben Ort, keine in derselben Kachel wachsenden Baumkopien.\n\nKACHEL 10: Der vergessene Brief\nOrt und Zeit: Der vergessene Brief\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verstaubtes versiegeltes Pergament im alten Archiv, draußen ein mächtiger Wald.\nErzählertext: Menschen und Kloster vergingen, die Eichen blieben. Viele Siegel hatten den ausgenutzten Wortlaut nicht unschädlich gemacht.\nDialoge: keine\nKontinuität / Änderung: Verstaubtes versiegeltes Pergament im alten Archiv, draußen ein mächtiger Wald.\n"
+  },
+  "count_policy": "editorial"
+}

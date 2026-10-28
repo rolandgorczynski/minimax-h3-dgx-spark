@@ -1,0 +1,697 @@
+{
+  "mode": "editorial",
+  "name": "Die Pferde aus dem Bodenloch – Lasst sie herein · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die Pferde aus dem Bodenloch. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 117.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Köln nahe dem Eingange der Kirche zu den heiligen zwölf Aposteln war ein Gemälde zu schauen, das stellte eine gar absonderliche Geschichte dar. Es war ein Bürgermeister daselbst, hieß Richmuth von Andocht, dem starb sein Eheweib und ward begraben, und da man am Grabe den Sarg nochmals öffnete, wie es sonst üblich war, und über der Leiche betete, so sahe der Totengräber, daß die Frau einen großen goldnen Ring am Finger hatte, mit Edelsteinen wohl geziert. Da wurde in dem Totengräber die Gier lebendig, zur Nacht das Grab wieder zu öffnen und der Leiche den Ring zu stehlen. Aber wie er das tat, drückte die Leiche ihm die Hand zusammen, denn sie war nicht tot, sondern lebend begraben, und wollte sich aus dem Sarge helfen. Eilend entfloh voller Schreck der Totengräber, die Begrabene aber wickelte sich aus den Grabtüchern los, trat aus dem Grabe und ging auf ihr Haus zu, klopfte und befahl dem Diener, zu öffnen, sie sei es. Der Diener vermeinte ein Gespenst zu sehen und zu hören und lief eilend zu seinem Herrn, ihm die Begebenheit zu melden, und stammelte: Ach Herr! Unsere Frau – drunten vorm Hause steht sie leibhaftig und will, daß ich ihr auftue. – Du bist ein Narr, antwortete der Bürgermeister, Herr Richmuth von Andocht. Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden. – Kaum hatte er das Wort ausgeredet, so erhob sich von unten nach oben ein grausamer Tumult, und als der Diener nachsah, so standen schon die sechs Kutschenpferde oben, ohne die andern, die noch nachkamen. Der Bürgermeister war ganz starr vor Schreck und glaubte nun, und die Frau ward eingelassen und ihrer mit warmen Tüchern und Arzeneien wohl gepflegt, daß sie sich wieder erholte. Am andern Tage schauten zu jedermanns Verwunderung die Pferde aus den Bodenlöchern heraus, und man mußte große Gerüste und Maschinen anwenden, um sie nur wieder herunter in den Stall zu bringen. Darauf wurden einige Pferde ausgestopft, die mußten zum Andenken auch fürder oben herausschauen. Und die Frau lebte noch sieben Jahre lang und spann und webte einen schönen großen Vorhang von weißem Linnen, den sie in die Apostelkirche verehrte.\n\nSolche Sage ist an mehr als einem Orte gangbar, unter andern auch in der vormaligen alten Reichsstadt Schweinfurt, wo die Frau des Syndikus Albert Angetraute war, die als Wöchnerin beerdigt worden, und die der Totengräber durch seine Raubsucht erweckte, doch lebte sie samt ihrem Kindlein nicht lange, und ihr Grabmal wird noch auf dem Schweinfurter Gottesacker gezeigt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die Pferde aus dem Bodenloch. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 117.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Köln nahe dem Eingange der Kirche zu den heiligen zwölf Aposteln war ein Gemälde zu schauen, das stellte eine gar absonderliche Geschichte dar. Es war ein Bürgermeister daselbst, hieß Richmuth von Andocht, dem starb sein Eheweib und ward begraben, und da man am Grabe den Sarg nochmals öffnete, wie es sonst üblich war, und über der Leiche betete, so sahe der Totengräber, daß die Frau einen großen goldnen Ring am Finger hatte, mit Edelsteinen wohl geziert. Da wurde in dem Totengräber die Gier lebendig, zur Nacht das Grab wieder zu öffnen und der Leiche den Ring zu stehlen. Aber wie er das tat, drückte die Leiche ihm die Hand zusammen, denn sie war nicht tot, sondern lebend begraben, und wollte sich aus dem Sarge helfen. Eilend entfloh voller Schreck der Totengräber, die Begrabene aber wickelte sich aus den Grabtüchern los, trat aus dem Grabe und ging auf ihr Haus zu, klopfte und befahl dem Diener, zu öffnen, sie sei es. Der Diener vermeinte ein Gespenst zu sehen und zu hören und lief eilend zu seinem Herrn, ihm die Begebenheit zu melden, und stammelte: Ach Herr! Unsere Frau – drunten vorm Hause steht sie leibhaftig und will, daß ich ihr auftue. – Du bist ein Narr, antwortete der Bürgermeister, Herr Richmuth von Andocht. Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden. – Kaum hatte er das Wort ausgeredet, so erhob sich von unten nach oben ein grausamer Tumult, und als der Diener nachsah, so standen schon die sechs Kutschenpferde oben, ohne die andern, die noch nachkamen. Der Bürgermeister war ganz starr vor Schreck und glaubte nun, und die Frau ward eingelassen und ihrer mit warmen Tüchern und Arzeneien wohl gepflegt, daß sie sich wieder erholte. Am andern Tage schauten zu jedermanns Verwunderung die Pferde aus den Bodenlöchern heraus, und man mußte große Gerüste und Maschinen anwenden, um sie nur wieder herunter in den Stall zu bringen. Darauf wurden einige Pferde ausgestopft, die mußten zum Andenken auch fürder oben herausschauen. Und die Frau lebte noch sieben Jahre lang und spann und webte einen schönen großen Vorhang von weißem Linnen, den sie in die Apostelkirche verehrte.\n\nSolche Sage ist an mehr als einem Orte gangbar, unter andern auch in der vormaligen alten Reichsstadt Schweinfurt, wo die Frau des Syndikus Albert Angetraute war, die als Wöchnerin beerdigt worden, und die der Totengräber durch seine Raubsucht erweckte, doch lebte sie samt ihrem Kindlein nicht lange, und ihr Grabmal wird noch auf dem Schweinfurter Gottesacker gezeigt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Der vermeintliche Abschied",
+        "setting": "Der vermeintliche Abschied",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg im ruhigen Grabbereich, keine offene Leiche.",
+        "dialog": "Man hielt die Frau für tot und begrub sie.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein geschlossener Sarg im ruhigen Grabbereich, keine offene Leiche.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Der bemerkte Ring",
+        "setting": "Der bemerkte Ring",
+        "characters": [
+          "5a8586a5d405587c8078d1c7c845c940"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Totengräber mit gierigem Blick auf einen einzelnen Ring am Rand einer bedeckten Hand, restlicher Körper vollständig verhüllt.",
+        "dialog": "Der Totengräber hatte ihren kostbaren Ring gesehen.",
+        "bubbles": [],
+        "character_states": {
+          "5a8586a5d405587c8078d1c7c845c940": "steht vor dem Grab; Brauner Arbeitsmantel, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Totengräber mit gierigem Blick auf einen einzelnen Ring am Rand einer bedeckten Hand, restlicher Körper vollständig verhüllt.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Der bemerkte Ring",
+            "posture": "steht vor dem Grab"
+          }
+        }
+      },
+      {
+        "heading": "Die nächtliche Rückkehr",
+        "setting": "Die nächtliche Rückkehr",
+        "characters": [
+          "5a8586a5d405587c8078d1c7c845c940"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann bei einer geöffneten Grabstelle, Laterne sicher seitlich, Frau noch nicht sichtbar.",
+        "dialog": "Nachts wollte er ihn stehlen.",
+        "bubbles": [],
+        "character_states": {
+          "5a8586a5d405587c8078d1c7c845c940": "kniet am geöffneten Grab; Brauner Arbeitsmantel, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann bei einer geöffneten Grabstelle, Laterne sicher seitlich, Frau noch nicht sichtbar.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die nächtliche Rückkehr",
+            "posture": "kniet am geöffneten Grab"
+          }
+        }
+      },
+      {
+        "heading": "Die lebendige Hand",
+        "setting": "Die lebendige Hand",
+        "characters": [
+          "5a8586a5d405587c8078d1c7c845c940",
+          "d92fc64a6cb358a5b28e9148c8c3e8e8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nahansicht zweier Hände, eine bedeckte Frau öffnet die Augen; kein verwesender Körper.",
+        "dialog": "Die Hand griff zurück. Sie war nicht tot gewesen.",
+        "bubbles": [],
+        "character_states": {
+          "5a8586a5d405587c8078d1c7c845c940": "zieht erschrocken seine Hand zurück; Brauner Arbeitsmantel, graue Hose.; Lebenszustand: lebend",
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": "liegt lebendig und bedeckt im Sarg; Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.; Lebenszustand: lebend"
+        },
+        "continuity": "Nahansicht zweier Hände, eine bedeckte Frau öffnet die Augen; kein verwesender Körper.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Die lebendige Hand",
+            "posture": "liegt lebendig und bedeckt im Sarg"
+          }
+        }
+      },
+      {
+        "heading": "Der verlassene Ort",
+        "setting": "Der verlassene Ort",
+        "characters": [
+          "d92fc64a6cb358a5b28e9148c8c3e8e8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine lebende vollständig bekleidete Frau neben Grabtüchern, Totengräber fort.",
+        "dialog": "Der Mann floh. Die Frau konnte sich selbst befreien.",
+        "bubbles": [],
+        "character_states": {
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": "steht sicher neben dem offenen Grab; Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine lebende vollständig bekleidete Frau neben Grabtüchern, Totengräber fort.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Der verlassene Ort",
+            "posture": "steht sicher neben dem offenen Grab"
+          }
+        }
+      },
+      {
+        "heading": "Vor der Haustür",
+        "setting": "Vor der Haustür",
+        "characters": [
+          "d92fc64a6cb358a5b28e9148c8c3e8e8",
+          "176d5624925f5b58bf0cda0ac327decb"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lebende Frau im hellen langen Gewand, Diener hält Abstand.",
+        "dialog": "Sie ging nach Hause und verlangte Einlass.",
+        "bubbles": [],
+        "character_states": {
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": "steht klopfend vor dem Haus; Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.; Lebenszustand: lebend",
+          "176d5624925f5b58bf0cda0ac327decb": "blickt aus einer Türöffnung; Graues Wams, braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Lebende Frau im hellen langen Gewand, Diener hält Abstand.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Vor der Haustür",
+            "posture": "steht klopfend vor dem Haus"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Vor der Haustür",
+            "posture": "blickt aus einer Türöffnung"
+          }
+        }
+      },
+      {
+        "heading": "Die ungläubige Meldung",
+        "setting": "Die ungläubige Meldung",
+        "characters": [
+          "176d5624925f5b58bf0cda0ac327decb",
+          "cda11f33637851b5b6d333cfa4967c65"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer im Zimmer, Frau nicht als Geisterbild neben ihnen.",
+        "dialog": "Der Diener berichtete seinem Herrn, dass seine Frau draußen stehe.",
+        "bubbles": [],
+        "character_states": {
+          "176d5624925f5b58bf0cda0ac327decb": "steht vor dem Hausherrn; Graues Wams, braune Hose.; Lebenszustand: lebend",
+          "cda11f33637851b5b6d333cfa4967c65": "sitzt auf einem Stuhl; Dunkelblauer langer Hausrock und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer im Zimmer, Frau nicht als Geisterbild neben ihnen.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Vor der Haustür",
+            "posture": "steht klopfend vor dem Haus"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Die ungläubige Meldung",
+            "posture": "steht vor dem Hausherrn"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Die ungläubige Meldung",
+            "posture": "sitzt auf einem Stuhl"
+          }
+        }
+      },
+      {
+        "heading": "Der unmögliche Vergleich",
+        "setting": "Der unmögliche Vergleich",
+        "characters": [
+          "cda11f33637851b5b6d333cfa4967c65",
+          "176d5624925f5b58bf0cda0ac327decb"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herr mit leerer Hand abweisend, Diener am Ausgang.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "cda11f33637851b5b6d333cfa4967c65",
+            "text": "Ebenso gut könnten meine Pferde auf dem Heuboden stehen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "cda11f33637851b5b6d333cfa4967c65": "steht lachend auf; Dunkelblauer langer Hausrock und Schuhe.; Lebenszustand: lebend",
+          "176d5624925f5b58bf0cda0ac327decb": "steht ernst; Graues Wams, braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Herr mit leerer Hand abweisend, Diener am Ausgang.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Vor der Haustür",
+            "posture": "steht klopfend vor dem Haus"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Der unmögliche Vergleich",
+            "posture": "steht ernst"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Der unmögliche Vergleich",
+            "posture": "steht lachend auf"
+          }
+        }
+      },
+      {
+        "heading": "Der Lärm oben",
+        "setting": "Der Lärm oben",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sechs weiße Pferde als getrennte Tiere auf weitem fantastischem Dachboden, drei Köpfe vorne und drei weiter hinten, keine Reiter.",
+        "dialog": "Kaum war es gesagt, standen die Schimmel der Sage nach oben auf dem Heuboden.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Sechs weiße Pferde als getrennte Tiere auf weitem fantastischem Dachboden, drei Köpfe vorne und drei weiter hinten, keine Reiter.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Vor der Haustür",
+            "posture": "steht klopfend vor dem Haus"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Der unmögliche Vergleich",
+            "posture": "steht ernst"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Der unmögliche Vergleich",
+            "posture": "steht lachend auf"
+          }
+        }
+      },
+      {
+        "heading": "Das geöffnete Haus",
+        "setting": "Das geöffnete Haus",
+        "characters": [
+          "d92fc64a6cb358a5b28e9148c8c3e8e8",
+          "cda11f33637851b5b6d333cfa4967c65",
+          "176d5624925f5b58bf0cda0ac327decb"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene, Frau tritt als Mensch ohne Leichentuchfratze ins warme Haus.",
+        "dialog": "Nun glaubte er. Die Frau wurde aufgenommen und gepflegt.",
+        "bubbles": [],
+        "character_states": {
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": "tritt durch die Tür; Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.; Lebenszustand: lebend",
+          "cda11f33637851b5b6d333cfa4967c65": "steht vor ihr; Dunkelblauer langer Hausrock und Schuhe.; Lebenszustand: lebend",
+          "176d5624925f5b58bf0cda0ac327decb": "hält die Tür offen; Graues Wams, braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Erwachsene, Frau tritt als Mensch ohne Leichentuchfratze ins warme Haus.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Das geöffnete Haus",
+            "posture": "tritt durch die Tür"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Das geöffnete Haus",
+            "posture": "hält die Tür offen"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Das geöffnete Haus",
+            "posture": "steht vor ihr"
+          }
+        }
+      },
+      {
+        "heading": "Die verwunderten Nachbarn",
+        "setting": "Die verwunderten Nachbarn",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei weiße Pferdeköpfe schauen aus drei getrennten Bodenöffnungen, restliche Tiere weiter innen unsichtbar.",
+        "dialog": "Am nächsten Morgen sahen die Nachbarn die Pferde aus den Bodenlöchern schauen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Drei weiße Pferdeköpfe schauen aus drei getrennten Bodenöffnungen, restliche Tiere weiter innen unsichtbar.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Das geöffnete Haus",
+            "posture": "tritt durch die Tür"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Das geöffnete Haus",
+            "posture": "hält die Tür offen"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Das geöffnete Haus",
+            "posture": "steht vor ihr"
+          }
+        }
+      },
+      {
+        "heading": "Zurück in den Stall",
+        "setting": "Zurück in den Stall",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Helfer bei breitem Gerüst vor einem Haus, ein weißes Pferd auf sicherem unteren Absatz. Keine gefährliche Bauanleitung.",
+        "dialog": "Mit großer Mühe wurden sie wieder hinuntergebracht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Erwachsene Helfer bei breitem Gerüst vor einem Haus, ein weißes Pferd auf sicherem unteren Absatz. Keine gefährliche Bauanleitung.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+            "location": "Das geöffnete Haus",
+            "posture": "tritt durch die Tür"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Das geöffnete Haus",
+            "posture": "hält die Tür offen"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Das geöffnete Haus",
+            "posture": "steht vor ihr"
+          }
+        }
+      },
+      {
+        "heading": "Die gewonnenen Jahre",
+        "setting": "Die gewonnenen Jahre",
+        "characters": [
+          "d92fc64a6cb358a5b28e9148c8c3e8e8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lebende Frau in geschlossenem grauem Alltagskleid webt weißes Leinen, derselbe Ring an ihrer Hand.",
+        "dialog": "Die Frau lebte noch sieben Jahre und stiftete einen großen Leinenbehang für die Kirche.",
+        "bubbles": [],
+        "character_states": {
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": "sitzt am Webstuhl; Geschlossenes graues Alltagskleid, derselbe goldene Ring.; Lebenszustand: lebend"
+        },
+        "continuity": "Lebende Frau in geschlossenem grauem Alltagskleid webt weißes Leinen, derselbe Ring an ihrer Hand.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Geschlossenes graues Alltagskleid, derselbe goldene Ring.",
+            "location": "Die gewonnenen Jahre",
+            "posture": "sitzt am Webstuhl"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Das geöffnete Haus",
+            "posture": "hält die Tür offen"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Das geöffnete Haus",
+            "posture": "steht vor ihr"
+          }
+        }
+      },
+      {
+        "heading": "Die widerlegte Gewissheit",
+        "setting": "Die widerlegte Gewissheit",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferdebild über einer Haustür, lebende Erwachsene gehen auf der Straße vorbei.",
+        "dialog": "Das Bild bewahrte die Geschichte. Ihr vermeintlich abgeschlossenes Schicksal war durch eine neue Wirklichkeit widerlegt worden.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein Pferdebild über einer Haustür, lebende Erwachsene gehen auf der Straße vorbei.",
+        "continuity_state": {
+          "5a8586a5d405587c8078d1c7c845c940": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Arbeitsmantel, graue Hose.",
+            "location": "Die lebendige Hand",
+            "posture": "zieht erschrocken seine Hand zurück"
+          },
+          "d92fc64a6cb358a5b28e9148c8c3e8e8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Geschlossenes graues Alltagskleid, derselbe goldene Ring.",
+            "location": "Die gewonnenen Jahre",
+            "posture": "sitzt am Webstuhl"
+          },
+          "176d5624925f5b58bf0cda0ac327decb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, braune Hose.",
+            "location": "Das geöffnete Haus",
+            "posture": "hält die Tür offen"
+          },
+          "cda11f33637851b5b6d333cfa4967c65": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Hausrock und Schuhe.",
+            "location": "Das geöffnete Haus",
+            "posture": "steht vor ihr"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Heimkehrende Frau der Kölner Pferdesage",
+        "description": "Erwachsene Frau mit braunem Haar und blassem Gesicht, lebendig.",
+        "outfit": "Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.",
+        "backstory": "Wird irrtümlich begraben, kehrt zurück und lebt noch Jahre.",
+        "id": "d92fc64a6cb358a5b28e9148c8c3e8e8",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Richmuth der Kölner Pferdesage",
+        "description": "Erwachsener Mann mit grauem kurzem Bart.",
+        "outfit": "Dunkelblauer langer Hausrock und Schuhe.",
+        "backstory": "Kann die unerwartete Rückkehr zunächst nicht glauben.",
+        "id": "cda11f33637851b5b6d333cfa4967c65",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Totengräber der Pferdesage",
+        "description": "Erwachsener schlanker Mann, dunkles kurzes Haar.",
+        "outfit": "Brauner Arbeitsmantel, graue Hose.",
+        "backstory": "Will den Ring stehlen und weckt die lebend Begrabene.",
+        "id": "5a8586a5d405587c8078d1c7c845c940",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Diener der Pferdesage",
+        "description": "Junger erwachsener Mann mit schwarzem kurzem Haar.",
+        "outfit": "Graues Wams, braune Hose.",
+        "backstory": "Hört die Heimkehrende und berichtet dem Herrn.",
+        "id": "176d5624925f5b58bf0cda0ac327decb",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie kann eine feste Gewissheit die Rückkehr eines Menschen beinahe verhindern?",
+      "core": "Ein abgeschlossen geglaubtes Urteil kann zur neuen Schranke werden, wenn unerwartete Wirklichkeit nicht mehr eingelassen wird. Die übersteigerte Unmöglichkeitsbehauptung wird im Sagenbild wörtlich widerlegt.",
+      "ending": "Die Frau wird aufgenommen und erholt sich; das Pferdebild erinnert an die unwahrscheinliche Rückkehr.",
+      "reason": "Ringgier, Erwachen, verweigerter Einlass und Glaubenswechsel getrennt zeigen; die Schweinfurter Variante nicht mit dem Kölner Ende vermischen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden.",
+          "meaning": "Die vorschnell ausgeschlossene Möglichkeit kehrt als Zeichen zurück und erzwingt ein Umdenken."
+        }
+      ],
+      "causal_chain": [
+        "Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden.",
+        "Die Frau wird aufgenommen und erholt sich; das Pferdebild erinnert an die unwahrscheinliche Rückkehr."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "f79bf4782a2ad948e6119a475e641bc3d5120f0a8e16a4fed9fb047e1b6afe28",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.710128+00:00"
+    },
+    "post_summary": "Eine tot geglaubte Frau steht vor ihrer Haustür. Ihr Mann erklärt das für unmöglich – bis seine eigene unmögliche Behauptung Gestalt annimmt.",
+    "source_provenance": {
+      "title": "Die Pferde aus dem Bodenloch",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 117.",
+      "url": "https://textgridrep.org/browse/khf5.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die Pferde aus dem Bodenloch. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 117.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Köln nahe dem Eingange der Kirche zu den heiligen zwölf Aposteln war ein Gemälde zu schauen, das stellte eine gar absonderliche Geschichte dar. Es war ein Bürgermeister daselbst, hieß Richmuth von Andocht, dem starb sein Eheweib und ward begraben, und da man am Grabe den Sarg nochmals öffnete, wie es sonst üblich war, und über der Leiche betete, so sahe der Totengräber, daß die Frau einen großen goldnen Ring am Finger hatte, mit Edelsteinen wohl geziert. Da wurde in dem Totengräber die Gier lebendig, zur Nacht das Grab wieder zu öffnen und der Leiche den Ring zu stehlen. Aber wie er das tat, drückte die Leiche ihm die Hand zusammen, denn sie war nicht tot, sondern lebend begraben, und wollte sich aus dem Sarge helfen. Eilend entfloh voller Schreck der Totengräber, die Begrabene aber wickelte sich aus den Grabtüchern los, trat aus dem Grabe und ging auf ihr Haus zu, klopfte und befahl dem Diener, zu öffnen, sie sei es. Der Diener vermeinte ein Gespenst zu sehen und zu hören und lief eilend zu seinem Herrn, ihm die Begebenheit zu melden, und stammelte: Ach Herr! Unsere Frau – drunten vorm Hause steht sie leibhaftig und will, daß ich ihr auftue. – Du bist ein Narr, antwortete der Bürgermeister, Herr Richmuth von Andocht. Ebenso wahr könntest du sagen, meine Schimmel stünden droben auf dem Heuboden. – Kaum hatte er das Wort ausgeredet, so erhob sich von unten nach oben ein grausamer Tumult, und als der Diener nachsah, so standen schon die sechs Kutschenpferde oben, ohne die andern, die noch nachkamen. Der Bürgermeister war ganz starr vor Schreck und glaubte nun, und die Frau ward eingelassen und ihrer mit warmen Tüchern und Arzeneien wohl gepflegt, daß sie sich wieder erholte. Am andern Tage schauten zu jedermanns Verwunderung die Pferde aus den Bodenlöchern heraus, und man mußte große Gerüste und Maschinen anwenden, um sie nur wieder herunter in den Stall zu bringen. Darauf wurden einige Pferde ausgestopft, die mußten zum Andenken auch fürder oben herausschauen. Und die Frau lebte noch sieben Jahre lang und spann und webte einen schönen großen Vorhang von weißem Linnen, den sie in die Apostelkirche verehrte.\n\nSolche Sage ist an mehr als einem Orte gangbar, unter andern auch in der vormaligen alten Reichsstadt Schweinfurt, wo die Frau des Syndikus Albert Angetraute war, die als Wöchnerin beerdigt worden, und die der Totengräber durch seine Raubsucht erweckte, doch lebte sie samt ihrem Kindlein nicht lange, und ihr Grabmal wird noch auf dem Schweinfurter Gottesacker gezeigt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Zu Köln nahe dem Eingange der Kirche zu den heiligen zwölf Aposteln war ein Gemälde zu schauen, das stellte eine gar absonderliche Geschichte dar. Es war ein Bürgermeister daselbst, hieß Richmuth von Andocht, dem starb sein Eheweib und ward begraben, und da man am Grabe den Sarg nochmals öffnete, wie es sonst üblich war, und über der Leiche betete, so sahe der Totengräber, daß die Frau einen großen goldnen Ring am Finger hatte, mit Edelsteinen wohl geziert.",
+      "id": "bechstein-sagen-khf5-0",
+      "category": "Geister und Spuk",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "pferde-bodenloch-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die Pferde aus dem Bodenloch – Lasst sie herein · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die Pferde aus dem Bodenloch – Lasst sie herein\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Heimkehrende Frau der Kölner Pferdesage\nAussehen: Erwachsene Frau mit braunem Haar und blassem Gesicht, lebendig.\nKleidung: Helles langes Gewand und ein einzelner goldener Ring; vollständig bedeckt.\nPersönlichkeit und Vorgeschichte: Wird irrtümlich begraben, kehrt zurück und lebt noch Jahre.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Richmuth der Kölner Pferdesage\nAussehen: Erwachsener Mann mit grauem kurzem Bart.\nKleidung: Dunkelblauer langer Hausrock und Schuhe.\nPersönlichkeit und Vorgeschichte: Kann die unerwartete Rückkehr zunächst nicht glauben.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Totengräber der Pferdesage\nAussehen: Erwachsener schlanker Mann, dunkles kurzes Haar.\nKleidung: Brauner Arbeitsmantel, graue Hose.\nPersönlichkeit und Vorgeschichte: Will den Ring stehlen und weckt die lebend Begrabene.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Diener der Pferdesage\nAussehen: Junger erwachsener Mann mit schwarzem kurzem Haar.\nKleidung: Graues Wams, braune Hose.\nPersönlichkeit und Vorgeschichte: Hört die Heimkehrende und berichtet dem Herrn.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der vermeintliche Abschied\nOrt und Zeit: Der vermeintliche Abschied\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Sarg im ruhigen Grabbereich, keine offene Leiche.\nErzählertext: Man hielt die Frau für tot und begrub sie.\nDialoge: keine\nKontinuität / Änderung: Ein geschlossener Sarg im ruhigen Grabbereich, keine offene Leiche.\n\nKACHEL 2: Der bemerkte Ring\nOrt und Zeit: Der bemerkte Ring\nSichtbare Figuren: Totengräber der Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Totengräber mit gierigem Blick auf einen einzelnen Ring am Rand einer bedeckten Hand, restlicher Körper vollständig verhüllt.\nErzählertext: Der Totengräber hatte ihren kostbaren Ring gesehen.\nDialoge: keine\nKontinuität / Änderung: Totengräber mit gierigem Blick auf einen einzelnen Ring am Rand einer bedeckten Hand, restlicher Körper vollständig verhüllt.\n\nKACHEL 3: Die nächtliche Rückkehr\nOrt und Zeit: Die nächtliche Rückkehr\nSichtbare Figuren: Totengräber der Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann bei einer geöffneten Grabstelle, Laterne sicher seitlich, Frau noch nicht sichtbar.\nErzählertext: Nachts wollte er ihn stehlen.\nDialoge: keine\nKontinuität / Änderung: Ein Mann bei einer geöffneten Grabstelle, Laterne sicher seitlich, Frau noch nicht sichtbar.\n\nKACHEL 4: Die lebendige Hand\nOrt und Zeit: Die lebendige Hand\nSichtbare Figuren: Totengräber der Pferdesage, Heimkehrende Frau der Kölner Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nahansicht zweier Hände, eine bedeckte Frau öffnet die Augen; kein verwesender Körper.\nErzählertext: Die Hand griff zurück. Sie war nicht tot gewesen.\nDialoge: keine\nKontinuität / Änderung: Nahansicht zweier Hände, eine bedeckte Frau öffnet die Augen; kein verwesender Körper.\n\nKACHEL 5: Der verlassene Ort\nOrt und Zeit: Der verlassene Ort\nSichtbare Figuren: Heimkehrende Frau der Kölner Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine lebende vollständig bekleidete Frau neben Grabtüchern, Totengräber fort.\nErzählertext: Der Mann floh. Die Frau konnte sich selbst befreien.\nDialoge: keine\nKontinuität / Änderung: Eine lebende vollständig bekleidete Frau neben Grabtüchern, Totengräber fort.\n\nKACHEL 6: Vor der Haustür\nOrt und Zeit: Vor der Haustür\nSichtbare Figuren: Heimkehrende Frau der Kölner Pferdesage, Diener der Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lebende Frau im hellen langen Gewand, Diener hält Abstand.\nErzählertext: Sie ging nach Hause und verlangte Einlass.\nDialoge: keine\nKontinuität / Änderung: Lebende Frau im hellen langen Gewand, Diener hält Abstand.\n\nKACHEL 7: Die ungläubige Meldung\nOrt und Zeit: Die ungläubige Meldung\nSichtbare Figuren: Diener der Pferdesage, Richmuth der Kölner Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer im Zimmer, Frau nicht als Geisterbild neben ihnen.\nErzählertext: Der Diener berichtete seinem Herrn, dass seine Frau draußen stehe.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer im Zimmer, Frau nicht als Geisterbild neben ihnen.\n\nKACHEL 8: Der unmögliche Vergleich\nOrt und Zeit: Der unmögliche Vergleich\nSichtbare Figuren: Richmuth der Kölner Pferdesage, Diener der Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herr mit leerer Hand abweisend, Diener am Ausgang.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Richmuth der Kölner Pferdesage\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Ebenso gut könnten meine Pferde auf dem Heuboden stehen.“\nKontinuität / Änderung: Herr mit leerer Hand abweisend, Diener am Ausgang.\n\nKACHEL 9: Der Lärm oben\nOrt und Zeit: Der Lärm oben\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sechs weiße Pferde als getrennte Tiere auf weitem fantastischem Dachboden, drei Köpfe vorne und drei weiter hinten, keine Reiter.\nErzählertext: Kaum war es gesagt, standen die Schimmel der Sage nach oben auf dem Heuboden.\nDialoge: keine\nKontinuität / Änderung: Sechs weiße Pferde als getrennte Tiere auf weitem fantastischem Dachboden, drei Köpfe vorne und drei weiter hinten, keine Reiter.\n\nKACHEL 10: Das geöffnete Haus\nOrt und Zeit: Das geöffnete Haus\nSichtbare Figuren: Heimkehrende Frau der Kölner Pferdesage, Richmuth der Kölner Pferdesage, Diener der Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene, Frau tritt als Mensch ohne Leichentuchfratze ins warme Haus.\nErzählertext: Nun glaubte er. Die Frau wurde aufgenommen und gepflegt.\nDialoge: keine\nKontinuität / Änderung: Drei Erwachsene, Frau tritt als Mensch ohne Leichentuchfratze ins warme Haus.\n\nKACHEL 11: Die verwunderten Nachbarn\nOrt und Zeit: Die verwunderten Nachbarn\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei weiße Pferdeköpfe schauen aus drei getrennten Bodenöffnungen, restliche Tiere weiter innen unsichtbar.\nErzählertext: Am nächsten Morgen sahen die Nachbarn die Pferde aus den Bodenlöchern schauen.\nDialoge: keine\nKontinuität / Änderung: Drei weiße Pferdeköpfe schauen aus drei getrennten Bodenöffnungen, restliche Tiere weiter innen unsichtbar.\n\nKACHEL 12: Zurück in den Stall\nOrt und Zeit: Zurück in den Stall\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Helfer bei breitem Gerüst vor einem Haus, ein weißes Pferd auf sicherem unteren Absatz. Keine gefährliche Bauanleitung.\nErzählertext: Mit großer Mühe wurden sie wieder hinuntergebracht.\nDialoge: keine\nKontinuität / Änderung: Erwachsene Helfer bei breitem Gerüst vor einem Haus, ein weißes Pferd auf sicherem unteren Absatz. Keine gefährliche Bauanleitung.\n\nKACHEL 13: Die gewonnenen Jahre\nOrt und Zeit: Die gewonnenen Jahre\nSichtbare Figuren: Heimkehrende Frau der Kölner Pferdesage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lebende Frau in geschlossenem grauem Alltagskleid webt weißes Leinen, derselbe Ring an ihrer Hand.\nErzählertext: Die Frau lebte noch sieben Jahre und stiftete einen großen Leinenbehang für die Kirche.\nDialoge: keine\nKontinuität / Änderung: Lebende Frau in geschlossenem grauem Alltagskleid webt weißes Leinen, derselbe Ring an ihrer Hand.\n\nKACHEL 14: Die widerlegte Gewissheit\nOrt und Zeit: Die widerlegte Gewissheit\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferdebild über einer Haustür, lebende Erwachsene gehen auf der Straße vorbei.\nErzählertext: Das Bild bewahrte die Geschichte. Ihr vermeintlich abgeschlossenes Schicksal war durch eine neue Wirklichkeit widerlegt worden.\nDialoge: keine\nKontinuität / Änderung: Ein Pferdebild über einer Haustür, lebende Erwachsene gehen auf der Straße vorbei.\n"
+  },
+  "count_policy": "editorial"
+}

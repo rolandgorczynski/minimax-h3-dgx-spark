@@ -1,0 +1,134 @@
+TITEL: Die wandelnde Nonne – Eine andere Gestalt
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Milde Nonne der Machernsage
+Aussehen: Erwachsene Frau mit schmalem Gesicht, braune Haare unter Haube.
+Kleidung: Graue Kutte und heller Schleier, ein kleines Buch.
+Persönlichkeit und Vorgeschichte: Lebt anders als die lärmende Gemeinschaft und erscheint später ohne Bedrohung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Klausner Michael
+Aussehen: Alter Mann mit langem grauem Bart.
+Kleidung: Braune Kutte und abgetragener Mantel.
+Persönlichkeit und Vorgeschichte: Wird abgewiesen und verwünscht das Kloster; später sorgt die Sage für seine Bestattung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die nächtliche Feier
+Ort und Zeit: Die nächtliche Feier
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene in geistlichen Gewändern bei lautem Mahl, keine sexualisierte Handlung.
+Erzählertext: Vom Kloster Machern erzählt die Sage von lärmenden nächtlichen Festen.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene in geistlichen Gewändern bei lautem Mahl, keine sexualisierte Handlung.
+
+KACHEL 2: Die einzelne Leserin
+Ort und Zeit: Die einzelne Leserin
+Sichtbare Figuren: Milde Nonne der Machernsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Nonne in stillem Nebenraum mit einem kleinen Buch.
+Erzählertext: Eine Nonne lebte anders: Sie las und betete.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Nonne in stillem Nebenraum mit einem kleinen Buch.
+
+KACHEL 3: Die Sturmnacht
+Ort und Zeit: Die Sturmnacht
+Sichtbare Figuren: Klausner Michael
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alter Mann im Regen vor geschlossener Tür, innen warmer Lichtschein.
+Erzählertext: In einer Sturmnacht bat Klausner Michael um Unterkunft.
+Dialoge: keine
+Kontinuität / Änderung: Alter Mann im Regen vor geschlossener Tür, innen warmer Lichtschein.
+
+KACHEL 4: Die abgewiesene Bitte
+Ort und Zeit: Die abgewiesene Bitte
+Sichtbare Figuren: Klausner Michael
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pforte geschlossen, alter Mann ohne Schale oder Obdach.
+Erzählertext: Die Feiernden fürchteten einen Zeugen und ließen ihn nicht ein.
+Dialoge: keine
+Kontinuität / Änderung: Pforte geschlossen, alter Mann ohne Schale oder Obdach.
+
+KACHEL 5: Der Fluch
+Ort und Zeit: Der Fluch
+Sichtbare Figuren: Klausner Michael
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann vor dunkler Tür, kein Blitzeinschlag in Körper.
+Erzählertext: Im Zorn verwünschte er das Kloster und seine Bewohner.
+Dialoge: keine
+Kontinuität / Änderung: Ein alter Mann vor dunkler Tür, kein Blitzeinschlag in Körper.
+
+KACHEL 6: Der leere Morgen
+Ort und Zeit: Der leere Morgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine öde Wiese statt des Gebäudes, Bach und Talhang zur Orientierung.
+Erzählertext: Am Morgen war das Kloster verschwunden.
+Dialoge: keine
+Kontinuität / Änderung: Eine öde Wiese statt des Gebäudes, Bach und Talhang zur Orientierung.
+
+KACHEL 7: Die wiederkehrende Zeit
+Ort und Zeit: Die wiederkehrende Zeit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose Erwachsene schließen zur Festzeit Fenster am Talrand, ferne fahle Lichter.
+Erzählertext: Zur Kirmeszeit soll man dort weiterhin Lärm und Spuk hören.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose Erwachsene schließen zur Festzeit Fenster am Talrand, ferne fahle Lichter.
+
+KACHEL 8: Der unheimliche Zug
+Ort und Zeit: Der unheimliche Zug
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein ferner Rollwagen mit schemenhaften Mönchsgestalten und glühenden Radumrissen, keine wirklichen brennenden Menschen.
+Erzählertext: Von unheimlichen Wagen und klagenden Stimmen wurde erzählt.
+Dialoge: keine
+Kontinuität / Änderung: Ein ferner Rollwagen mit schemenhaften Mönchsgestalten und glühenden Radumrissen, keine wirklichen brennenden Menschen.
+
+KACHEL 9: Die andere Erscheinung
+Ort und Zeit: Die andere Erscheinung
+Sichtbare Figuren: Milde Nonne der Machernsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzelne milde Gestalt mit Buch an einem verwitterten Bildstock, kein dunkler Verfolger.
+Erzählertext: Gesondert erschien die Nonne am Bildstock, ernst und mild.
+Dialoge: keine
+Kontinuität / Änderung: Eine einzelne milde Gestalt mit Buch an einem verwitterten Bildstock, kein dunkler Verfolger.
+
+KACHEL 10: Keine Drohung
+Ort und Zeit: Keine Drohung
+Sichtbare Figuren: Milde Nonne der Machernsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frauengestalt mit offenen ruhigen Zügen, ein namenloser erwachsener Wanderer hält Abstand.
+Erzählertext: Sie tat niemandem etwas und soll sogar gegrüßt haben.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frauengestalt mit offenen ruhigen Zügen, ein namenloser erwachsener Wanderer hält Abstand.
+
+KACHEL 11: Das andere Machern
+Ort und Zeit: Das andere Machern
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines Kloster an einem anderen Flussufer, keine zwei identisch übereinandergelegten Gebäude.
+Erzählertext: Das verschwundene Kloster wurde nach der Sage an der Mosel wiedergefunden und neu besiedelt.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleines Kloster an einem anderen Flussufer, keine zwei identisch übereinandergelegten Gebäude.
+
+KACHEL 12: Michaels letzte Bitte
+Ort und Zeit: Michaels letzte Bitte
+Sichtbare Figuren: Klausner Michael
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alter Mann bekleidet unter einer Decke, leere Hände gefaltet.
+Erzählertext: Michael bat vor seinem Tod darum, nicht unbegraben zu bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Alter Mann bekleidet unter einer Decke, leere Hände gefaltet.
+
+KACHEL 13: Die Glocken
+Ort und Zeit: Die Glocken
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Kirche mit einer schwingenden Glocke, Strick ohne sichtbare Hand.
+Erzählertext: Die Glocken sollen von selbst geläutet haben. Menschen kamen und bestatteten ihn.
+Dialoge: keine
+Kontinuität / Änderung: Alte Kirche mit einer schwingenden Glocke, Strick ohne sichtbare Hand.
+
+KACHEL 14: Das unterscheidbare Leben
+Ort und Zeit: Das unterscheidbare Leben
+Sichtbare Figuren: Milde Nonne der Machernsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelne helle Leserin am Bach, lärmende Wagen nur als ferne unbestimmte Spur.
+Erzählertext: Die Sage verurteilt eine Gemeinschaft. Ihre einzelne milde Gestalt bleibt dennoch als eigener Mensch erkennbar.
+Dialoge: keine
+Kontinuität / Änderung: Einzelne helle Leserin am Bach, lärmende Wagen nur als ferne unbestimmte Spur.

@@ -1,0 +1,56 @@
+TITEL: Der Heiligen Gräber – Eine Kapelle als Gedächtnis
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Am Moselufer
+Ort und Zeit: Am Moselufer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine alte Kapelle nahe einem ruhigen Fluss, Dorf am gegenüberliegenden Ufer.
+Erzählertext: Bei Chau erzählt die Überlieferung von einer Eucharius geweihten Kapelle.
+Dialoge: keine
+Kontinuität / Änderung: Kleine alte Kapelle nahe einem ruhigen Fluss, Dorf am gegenüberliegenden Ufer.
+
+KACHEL 2: Die genannten Namen
+Ort und Zeit: Die genannten Namen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere schlichte Gedenktafeln im stillen Kapellenraum, keine vom Bildmodell zu schreibenden Namenslisten.
+Erzählertext: Sie erinnert an Eucharius und weitere Heilige derselben überlieferten Familie.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere schlichte Gedenktafeln im stillen Kapellenraum, keine vom Bildmodell zu schreibenden Namenslisten.
+
+KACHEL 3: Der erzählte Überfall
+Ort und Zeit: Der erzählte Überfall
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassene Siedlung mit offenen Türen, Rauch fern, keine ausgeführte Massentötung.
+Erzählertext: Der Text berichtet von ihrer Tötung mit vielen anderen. Seine Täterzuordnungen und Zahlen sind keine hier geprüften Tatsachen.
+Dialoge: keine
+Kontinuität / Änderung: Verlassene Siedlung mit offenen Türen, Rauch fern, keine ausgeführte Massentötung.
+
+KACHEL 4: Der große Verlust
+Ort und Zeit: Der große Verlust
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Viele schlichte alte Grabsteine ohne Körper oder Waffen, Kapelle klein dahinter.
+Erzählertext: Die Gegend wird zum Totenhof der Erinnerung.
+Dialoge: keine
+Kontinuität / Änderung: Viele schlichte alte Grabsteine ohne Körper oder Waffen, Kapelle klein dahinter.
+
+KACHEL 5: Die bewahrten Spuren
+Ort und Zeit: Die bewahrten Spuren
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verwitterte Gedenktafel neben einem kleinen Licht, keine lebenden Heiligen erscheinen aus dem Stein.
+Erzählertext: Tafeln halten Namen fest, wenn die einzelnen Lebensgeschichten nur noch bruchstückhaft überliefert sind.
+Dialoge: keine
+Kontinuität / Änderung: Verwitterte Gedenktafel neben einem kleinen Licht, keine lebenden Heiligen erscheinen aus dem Stein.
+
+KACHEL 6: Der bleibende Ort
+Ort und Zeit: Der bleibende Ort
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Außenansicht derselben Kapelle am Fluss, kleine erwachsene Besucher davor.
+Erzählertext: Die Kapelle bleibt ein Ort des Gedächtnisses. Sie macht aus den Verlorenen mehr als eine Zahl.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige Außenansicht derselben Kapelle am Fluss, kleine erwachsene Besucher davor.

@@ -1,0 +1,537 @@
+{
+  "mode": "editorial",
+  "name": "Dom zu Aachen – Die erste Seele · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Dom zu Aachen. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 120.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDa der Dom zu Aachen erbauet ward, hehr und prächtig, drohte es zu gehen wie beim Dombau zu Köln; es gebrach an Geld, der Bau konnte nicht fortgeführt werden, und unvollendet stand das herrliche Münster. Da erschien vor dem hohen Rat ein reicher Fremder, der sagte, er habe wohl Geldes die Fülle, wolle das auch geben zu dem Dombau, damit er vollendet werde, aber ein hoher Rat müsse ihm auch etwas versprechen. Als nun der Rat den Fremden fragte, was es denn sei, das er begehre, da antwortete jener: Nicht viel, nur die Seele des Ersten, der nach der Vollendung den Dom betreten wird, verlange ich zu eigen. Muß damals eine fromme Menschheit gelebt haben, daß sich's einer so viel kosten ließ, um einer Seele habhaft zu werden, hat sie später schockweise billiger haben können – der Rat aber merkte nun, daß der Fremde der Teufel sei – schauderte, zauderte, bedachte sich lange, sagte aber doch zu, unter dem Beding, daß der Pakt geheimgehalten werde. Und ward nun mit besonderer Kunst und Hülfe das Münster schnell und herrlich ausgebaut, ward aber auch das Geheimnis ruchtbar unter den Leuten, und wollte niemand in den Dom gehen, weder Pfaffen noch Laien. Der Teufel lauerte Tag auf Tag auf die erste arme Seele, und ward ihm schier Zeit und Weile lang, es kam niemand, und da bedräute er den hohen Rat, daß er bald genug einen aus seiner Mitte holen werde, wenn er nicht bald einen ersten Kirchengänger schaffe. Da ward dem Rat bange, sann auf eine List, ließ im Gebirg einen Wolf fangen, diesen an das Haupttor des Domes bringen, ließ die Glocken lauten, wie zum hohen Feste, und stieß, nachdem das Portal geöffnet war, den Wolf ins Gotteshaus, wo der Teufel schon so lange lauerte, da es noch nicht geweiht war. Alsbald fuhr der Teufel zu und packte mit einem Griff den armen Wolf, daß ihm alsbald die Seele aus dem Halse fuhr. Wie aber der Teufel sah, daß er nur eine schlechte Wolfsseele erlangt hatte, fuhr er mit Gebrüll aus dem Tempel und schlug die eherne Türpforte so heftiglich zu, daß sie borst und sich spaltete, und ist der Spalt noch heute zu sehen. Der Rat aber war froh, daß er des Teufels ledig war, und ließ den Wolf und dessen arme Seele in Erz gießen und im Dome befestigen. Die Seele hält das Mittel zwischen einer Artischocke und einem Tannenzapfen.\n\nAndere erzählen diese Sage anders, und zwar also. Der Rat zu Aachen hatte just, als der Teufel seine Bedingung machte, eine arme Sünderin in seinem Gewahrsam, die schon zum Tode verurteilt war, und deren Seele verloren gegeben wurde. Diese Verurteilte nun ward in die Kirche hineingestoßen und ihre Seele vom Teufel in Empfang genommen, der aber deshalb aus Ärger die Tür zuwarf, daß sie borst, weil des Weibes Seele ohnehin schon sein gewesen wäre. Hernachmals goß man das eherne Bild und stellte den Teufel selbst in Gestalt eines unreinen Tieres, des Wolfes, dar, welcher bemüht ist, die Seele in Form eines Tannenzapfens in seinen Rachen hinabzuschlingen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Dom zu Aachen. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 120.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDa der Dom zu Aachen erbauet ward, hehr und prächtig, drohte es zu gehen wie beim Dombau zu Köln; es gebrach an Geld, der Bau konnte nicht fortgeführt werden, und unvollendet stand das herrliche Münster. Da erschien vor dem hohen Rat ein reicher Fremder, der sagte, er habe wohl Geldes die Fülle, wolle das auch geben zu dem Dombau, damit er vollendet werde, aber ein hoher Rat müsse ihm auch etwas versprechen. Als nun der Rat den Fremden fragte, was es denn sei, das er begehre, da antwortete jener: Nicht viel, nur die Seele des Ersten, der nach der Vollendung den Dom betreten wird, verlange ich zu eigen. Muß damals eine fromme Menschheit gelebt haben, daß sich's einer so viel kosten ließ, um einer Seele habhaft zu werden, hat sie später schockweise billiger haben können – der Rat aber merkte nun, daß der Fremde der Teufel sei – schauderte, zauderte, bedachte sich lange, sagte aber doch zu, unter dem Beding, daß der Pakt geheimgehalten werde. Und ward nun mit besonderer Kunst und Hülfe das Münster schnell und herrlich ausgebaut, ward aber auch das Geheimnis ruchtbar unter den Leuten, und wollte niemand in den Dom gehen, weder Pfaffen noch Laien. Der Teufel lauerte Tag auf Tag auf die erste arme Seele, und ward ihm schier Zeit und Weile lang, es kam niemand, und da bedräute er den hohen Rat, daß er bald genug einen aus seiner Mitte holen werde, wenn er nicht bald einen ersten Kirchengänger schaffe. Da ward dem Rat bange, sann auf eine List, ließ im Gebirg einen Wolf fangen, diesen an das Haupttor des Domes bringen, ließ die Glocken lauten, wie zum hohen Feste, und stieß, nachdem das Portal geöffnet war, den Wolf ins Gotteshaus, wo der Teufel schon so lange lauerte, da es noch nicht geweiht war. Alsbald fuhr der Teufel zu und packte mit einem Griff den armen Wolf, daß ihm alsbald die Seele aus dem Halse fuhr. Wie aber der Teufel sah, daß er nur eine schlechte Wolfsseele erlangt hatte, fuhr er mit Gebrüll aus dem Tempel und schlug die eherne Türpforte so heftiglich zu, daß sie borst und sich spaltete, und ist der Spalt noch heute zu sehen. Der Rat aber war froh, daß er des Teufels ledig war, und ließ den Wolf und dessen arme Seele in Erz gießen und im Dome befestigen. Die Seele hält das Mittel zwischen einer Artischocke und einem Tannenzapfen.\n\nAndere erzählen diese Sage anders, und zwar also. Der Rat zu Aachen hatte just, als der Teufel seine Bedingung machte, eine arme Sünderin in seinem Gewahrsam, die schon zum Tode verurteilt war, und deren Seele verloren gegeben wurde. Diese Verurteilte nun ward in die Kirche hineingestoßen und ihre Seele vom Teufel in Empfang genommen, der aber deshalb aus Ärger die Tür zuwarf, daß sie borst, weil des Weibes Seele ohnehin schon sein gewesen wäre. Hernachmals goß man das eherne Bild und stellte den Teufel selbst in Gestalt eines unreinen Tieres, des Wolfes, dar, welcher bemüht ist, die Seele in Form eines Tannenzapfens in seinen Rachen hinabzuschlingen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Das fehlende Geld",
+        "setting": "Das fehlende Geld",
+        "characters": [
+          "49f29b4e6282557793eff28f6c4b912b"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Ratsherr vor stillstehender Dombaustelle, Gerüste ohne Arbeiter.",
+        "dialog": "Beim Dombau ging Aachen das Geld aus.",
+        "bubbles": [],
+        "character_states": {
+          "49f29b4e6282557793eff28f6c4b912b": "steht vor dem unvollendeten Bau; Dunkelblauer Ratsrock und schwarze Kappe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Ratsherr vor stillstehender Dombaustelle, Gerüste ohne Arbeiter.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Das fehlende Geld",
+            "posture": "steht vor dem unvollendeten Bau"
+          }
+        }
+      },
+      {
+        "heading": "Der reiche Helfer",
+        "setting": "Der reiche Helfer",
+        "characters": [
+          "49f29b4e6282557793eff28f6c4b912b",
+          "45e651b9692459e190c7a1af8adbb36f"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ratstisch, Beutel nur beim Fremden.",
+        "dialog": "Ein Fremder bot Geld zur Vollendung.",
+        "bubbles": [],
+        "character_states": {
+          "49f29b4e6282557793eff28f6c4b912b": "steht dem Fremden gegenüber; Dunkelblauer Ratsrock und schwarze Kappe.; Lebenszustand: lebend",
+          "45e651b9692459e190c7a1af8adbb36f": "hält einen geschlossenen Geldbeutel; Dunkelroter Mantel und schwarze Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene am Ratstisch, Beutel nur beim Fremden.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Der reiche Helfer",
+            "posture": "steht dem Fremden gegenüber"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Der reiche Helfer",
+            "posture": "hält einen geschlossenen Geldbeutel"
+          }
+        }
+      },
+      {
+        "heading": "Die Bedingung",
+        "setting": "Die Bedingung",
+        "characters": [
+          "45e651b9692459e190c7a1af8adbb36f",
+          "49f29b4e6282557793eff28f6c4b912b"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, kein gefangener Mensch am Tisch.",
+        "dialog": "Er verlangte die Seele des ersten Wesens, das danach eintrete.",
+        "bubbles": [],
+        "character_states": {
+          "45e651b9692459e190c7a1af8adbb36f": "steht mit erhobenem Finger; Dunkelroter Mantel und schwarze Schuhe.; Lebenszustand: lebend",
+          "49f29b4e6282557793eff28f6c4b912b": "hört zu; Dunkelblauer Ratsrock und schwarze Kappe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer, kein gefangener Mensch am Tisch.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Bedingung",
+            "posture": "hört zu"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Bedingung",
+            "posture": "steht mit erhobenem Finger"
+          }
+        }
+      },
+      {
+        "heading": "Die heimliche Zusage",
+        "setting": "Die heimliche Zusage",
+        "characters": [
+          "49f29b4e6282557793eff28f6c4b912b",
+          "45e651b9692459e190c7a1af8adbb36f"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Handschlag über einem einzelnen Beutel.",
+        "dialog": "Der Rat erschrak, stimmte aber zu und wollte den Handel geheim halten.",
+        "bubbles": [],
+        "character_states": {
+          "49f29b4e6282557793eff28f6c4b912b": "reicht dem Fremden die Hand; Dunkelblauer Ratsrock und schwarze Kappe.; Lebenszustand: lebend",
+          "45e651b9692459e190c7a1af8adbb36f": "nimmt sie; Dunkelroter Mantel und schwarze Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Handschlag über einem einzelnen Beutel.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die heimliche Zusage",
+            "posture": "reicht dem Fremden die Hand"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die heimliche Zusage",
+            "posture": "nimmt sie"
+          }
+        }
+      },
+      {
+        "heading": "Der fertige Dom",
+        "setting": "Der fertige Dom",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fertig wirkender historischer Aachener Zentralbau mit offenem Portal, Platz davor leer.",
+        "dialog": "Der Bau wurde vollendet.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Fertig wirkender historischer Aachener Zentralbau mit offenem Portal, Platz davor leer.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die heimliche Zusage",
+            "posture": "reicht dem Fremden die Hand"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die heimliche Zusage",
+            "posture": "nimmt sie"
+          }
+        }
+      },
+      {
+        "heading": "Das leere Portal",
+        "setting": "Das leere Portal",
+        "characters": [
+          "45e651b9692459e190c7a1af8adbb36f"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fremder in leerem Eingangsraum, niemand tritt durch.",
+        "dialog": "Doch das Geheimnis war bekannt geworden. Niemand wollte der Erste sein.",
+        "bubbles": [],
+        "character_states": {
+          "45e651b9692459e190c7a1af8adbb36f": "wartet innen neben der Tür; Dunkelroter Mantel und schwarze Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Fremder in leerem Eingangsraum, niemand tritt durch.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die heimliche Zusage",
+            "posture": "reicht dem Fremden die Hand"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Das leere Portal",
+            "posture": "wartet innen neben der Tür"
+          }
+        }
+      },
+      {
+        "heading": "Die Drohung",
+        "setting": "Die Drohung",
+        "characters": [
+          "45e651b9692459e190c7a1af8adbb36f",
+          "49f29b4e6282557793eff28f6c4b912b"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor dem Ratshaus, kein gewaltsamer Zugriff.",
+        "dialog": "Der Teufel drohte, sich sonst jemanden aus dem Rat zu holen.",
+        "bubbles": [],
+        "character_states": {
+          "45e651b9692459e190c7a1af8adbb36f": "steht vor dem Ratsherrn; Dunkelroter Mantel und schwarze Schuhe.; Lebenszustand: lebend",
+          "49f29b4e6282557793eff28f6c4b912b": "steht bedrückt; Dunkelblauer Ratsrock und schwarze Kappe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer vor dem Ratshaus, kein gewaltsamer Zugriff.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Drohung",
+            "posture": "steht bedrückt"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Drohung",
+            "posture": "steht vor dem Ratsherrn"
+          }
+        }
+      },
+      {
+        "heading": "Der gefangene Wolf",
+        "setting": "Der gefangene Wolf",
+        "characters": [
+          "de672c3225135098b50995ba264287b5"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein grauer Wolf hinter geschlossener breiter Gittertür, keine blutigen Fangschlingen.",
+        "dialog": "Der Rat ließ einen Wolf fangen.",
+        "bubbles": [],
+        "character_states": {
+          "de672c3225135098b50995ba264287b5": "steht in einer großen Transportbox; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein grauer Wolf hinter geschlossener breiter Gittertür, keine blutigen Fangschlingen.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Drohung",
+            "posture": "steht bedrückt"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Drohung",
+            "posture": "steht vor dem Ratsherrn"
+          },
+          "de672c3225135098b50995ba264287b5": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der gefangene Wolf",
+            "posture": "steht in einer großen Transportbox"
+          }
+        }
+      },
+      {
+        "heading": "Der erste Eintritt",
+        "setting": "Der erste Eintritt",
+        "characters": [
+          "de672c3225135098b50995ba264287b5"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Wolf betritt den leeren Dom, keine Menschenseele als zweites Lichtwesen.",
+        "dialog": "Ihn trieb man zuerst hinein.",
+        "bubbles": [],
+        "character_states": {
+          "de672c3225135098b50995ba264287b5": "läuft allein durch das Portal; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein einzelner Wolf betritt den leeren Dom, keine Menschenseele als zweites Lichtwesen.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Drohung",
+            "posture": "steht bedrückt"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Drohung",
+            "posture": "steht vor dem Ratsherrn"
+          },
+          "de672c3225135098b50995ba264287b5": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der erste Eintritt",
+            "posture": "läuft allein durch das Portal"
+          }
+        }
+      },
+      {
+        "heading": "Der fremde Preis",
+        "setting": "Der fremde Preis",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Eingangsraum nach dem Geschehen, Türen weit geöffnet, keine Verletzung des Tiers.",
+        "dialog": "Der Teufel tötete den Wolf und erkannte die List.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leerer Eingangsraum nach dem Geschehen, Türen weit geöffnet, keine Verletzung des Tiers.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Drohung",
+            "posture": "steht bedrückt"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Drohung",
+            "posture": "steht vor dem Ratsherrn"
+          },
+          "de672c3225135098b50995ba264287b5": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der erste Eintritt",
+            "posture": "läuft allein durch das Portal"
+          }
+        }
+      },
+      {
+        "heading": "Die gesprungene Tür",
+        "setting": "Die gesprungene Tür",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein sichtbarer Riss in einer einzelnen bronzenen Türhälfte, keine gesprengte ganze Kathedrale.",
+        "dialog": "Im Zorn schlug er die Tür so zu, dass sie sprang, und fuhr davon.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein sichtbarer Riss in einer einzelnen bronzenen Türhälfte, keine gesprengte ganze Kathedrale.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Drohung",
+            "posture": "steht bedrückt"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Drohung",
+            "posture": "steht vor dem Ratsherrn"
+          },
+          "de672c3225135098b50995ba264287b5": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der erste Eintritt",
+            "posture": "läuft allein durch das Portal"
+          }
+        }
+      },
+      {
+        "heading": "Der zugängliche Dom",
+        "setting": "Der zugängliche Dom",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene treten durch das offene Portal, nebenan eine bronzene Wolfsfigur als Erinnerungsbild.",
+        "dialog": "Die Menschen konnten nun eintreten. Der Dom war gewonnen, der Wolf verloren. Die andere Fassung mit einem Menschenopfer bleibt eine eigene Variante.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Erwachsene treten durch das offene Portal, nebenan eine bronzene Wolfsfigur als Erinnerungsbild.",
+        "continuity_state": {
+          "49f29b4e6282557793eff28f6c4b912b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Ratsrock und schwarze Kappe.",
+            "location": "Die Drohung",
+            "posture": "steht bedrückt"
+          },
+          "45e651b9692459e190c7a1af8adbb36f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Mantel und schwarze Schuhe.",
+            "location": "Die Drohung",
+            "posture": "steht vor dem Ratsherrn"
+          },
+          "de672c3225135098b50995ba264287b5": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der erste Eintritt",
+            "posture": "läuft allein durch das Portal"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Ratsherr der Aachener Domsage",
+        "description": "Älterer Mann mit grauem kurzem Bart.",
+        "outfit": "Dunkelblauer Ratsrock und schwarze Kappe.",
+        "backstory": "Stimmt dem Handel zu und lenkt den Preis später auf ein Tier.",
+        "id": "49f29b4e6282557793eff28f6c4b912b",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Reicher Fremder der Aachener Domsage",
+        "description": "Erwachsener schlanker Mann mit spitzem Gesicht und schwarzen Haaren.",
+        "outfit": "Dunkelroter Mantel und schwarze Schuhe.",
+        "backstory": "Teuflischer Geldgeber, verlangt die erste eintretende Seele.",
+        "id": "45e651b9692459e190c7a1af8adbb36f",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Wolf der Aachener Domsage",
+        "description": "Ein grauer Wolf mit vier Beinen und buschigem Schwanz.",
+        "outfit": "Natürliches Fell.",
+        "backstory": "Wird gefangen und als erstes Wesen in den Dom getrieben.",
+        "id": "de672c3225135098b50995ba264287b5",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Ist eine Gemeinschaft von einem bösen Handel frei, wenn sie den Preis auf andere überträgt?",
+      "core": "Die List kann die Forderung gegen ihren Urheber wenden und die Gemeinschaft aus ihrer Angst lösen. Der Erfolg lässt jedoch die Frage nach dem geopferten Wehrlosen bestehen.",
+      "ending": "Der Dom ist zugänglich, der Teufel fort und der Türspalt bleibt; die alternative Menschenopferfassung ist eine andere Variante.",
+      "reason": "Den Wolfsbogen vollständig zeigen und Varianten trennen; keine verlustfreie Rettung behaupten.",
+      "meaning_type": "Offene Frage",
+      "evidence": [
+        {
+          "event": "packte mit einem Griff den armen Wolf",
+          "meaning": "Der Verfolger wird getäuscht, aber der verschobene Preis bleibt ein tatsächliches Opfer."
+        }
+      ],
+      "causal_chain": [
+        "packte mit einem Griff den armen Wolf",
+        "Der Dom ist zugänglich, der Teufel fort und der Türspalt bleibt; die alternative Menschenopferfassung ist eine andere Variante."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "ef9b47bebc0a412ef4409d0f71e4ca27b3f048f4233fb78435e400caccf386c2",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.710227+00:00"
+    },
+    "post_summary": "Ein gefährlicher Handel vollendet den Dom. Die List befreit die Stadt, aber nicht das Wesen, das den Preis bezahlt.",
+    "source_provenance": {
+      "title": "Dom zu Aachen",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 120.",
+      "url": "https://textgridrep.org/browse/kjc8.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Dom zu Aachen. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 120.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDa der Dom zu Aachen erbauet ward, hehr und prächtig, drohte es zu gehen wie beim Dombau zu Köln; es gebrach an Geld, der Bau konnte nicht fortgeführt werden, und unvollendet stand das herrliche Münster. Da erschien vor dem hohen Rat ein reicher Fremder, der sagte, er habe wohl Geldes die Fülle, wolle das auch geben zu dem Dombau, damit er vollendet werde, aber ein hoher Rat müsse ihm auch etwas versprechen. Als nun der Rat den Fremden fragte, was es denn sei, das er begehre, da antwortete jener: Nicht viel, nur die Seele des Ersten, der nach der Vollendung den Dom betreten wird, verlange ich zu eigen. Muß damals eine fromme Menschheit gelebt haben, daß sich's einer so viel kosten ließ, um einer Seele habhaft zu werden, hat sie später schockweise billiger haben können – der Rat aber merkte nun, daß der Fremde der Teufel sei – schauderte, zauderte, bedachte sich lange, sagte aber doch zu, unter dem Beding, daß der Pakt geheimgehalten werde. Und ward nun mit besonderer Kunst und Hülfe das Münster schnell und herrlich ausgebaut, ward aber auch das Geheimnis ruchtbar unter den Leuten, und wollte niemand in den Dom gehen, weder Pfaffen noch Laien. Der Teufel lauerte Tag auf Tag auf die erste arme Seele, und ward ihm schier Zeit und Weile lang, es kam niemand, und da bedräute er den hohen Rat, daß er bald genug einen aus seiner Mitte holen werde, wenn er nicht bald einen ersten Kirchengänger schaffe. Da ward dem Rat bange, sann auf eine List, ließ im Gebirg einen Wolf fangen, diesen an das Haupttor des Domes bringen, ließ die Glocken lauten, wie zum hohen Feste, und stieß, nachdem das Portal geöffnet war, den Wolf ins Gotteshaus, wo der Teufel schon so lange lauerte, da es noch nicht geweiht war. Alsbald fuhr der Teufel zu und packte mit einem Griff den armen Wolf, daß ihm alsbald die Seele aus dem Halse fuhr. Wie aber der Teufel sah, daß er nur eine schlechte Wolfsseele erlangt hatte, fuhr er mit Gebrüll aus dem Tempel und schlug die eherne Türpforte so heftiglich zu, daß sie borst und sich spaltete, und ist der Spalt noch heute zu sehen. Der Rat aber war froh, daß er des Teufels ledig war, und ließ den Wolf und dessen arme Seele in Erz gießen und im Dome befestigen. Die Seele hält das Mittel zwischen einer Artischocke und einem Tannenzapfen.\n\nAndere erzählen diese Sage anders, und zwar also. Der Rat zu Aachen hatte just, als der Teufel seine Bedingung machte, eine arme Sünderin in seinem Gewahrsam, die schon zum Tode verurteilt war, und deren Seele verloren gegeben wurde. Diese Verurteilte nun ward in die Kirche hineingestoßen und ihre Seele vom Teufel in Empfang genommen, der aber deshalb aus Ärger die Tür zuwarf, daß sie borst, weil des Weibes Seele ohnehin schon sein gewesen wäre. Hernachmals goß man das eherne Bild und stellte den Teufel selbst in Gestalt eines unreinen Tieres, des Wolfes, dar, welcher bemüht ist, die Seele in Form eines Tannenzapfens in seinen Rachen hinabzuschlingen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Da der Dom zu Aachen erbauet ward, hehr und prächtig, drohte es zu gehen wie beim Dombau zu Köln; es gebrach an Geld, der Bau konnte nicht fortgeführt werden, und unvollendet stand das herrliche Münster.",
+      "id": "bechstein-sagen-kjc8-0",
+      "category": "Teufel und Zauberei",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "aachener-dom-wolf-12-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Dom zu Aachen – Die erste Seele · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Dom zu Aachen – Die erste Seele\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Ratsherr der Aachener Domsage\nAussehen: Älterer Mann mit grauem kurzem Bart.\nKleidung: Dunkelblauer Ratsrock und schwarze Kappe.\nPersönlichkeit und Vorgeschichte: Stimmt dem Handel zu und lenkt den Preis später auf ein Tier.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Reicher Fremder der Aachener Domsage\nAussehen: Erwachsener schlanker Mann mit spitzem Gesicht und schwarzen Haaren.\nKleidung: Dunkelroter Mantel und schwarze Schuhe.\nPersönlichkeit und Vorgeschichte: Teuflischer Geldgeber, verlangt die erste eintretende Seele.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Wolf der Aachener Domsage\nAussehen: Ein grauer Wolf mit vier Beinen und buschigem Schwanz.\nKleidung: Natürliches Fell.\nPersönlichkeit und Vorgeschichte: Wird gefangen und als erstes Wesen in den Dom getrieben.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das fehlende Geld\nOrt und Zeit: Das fehlende Geld\nSichtbare Figuren: Ratsherr der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Ratsherr vor stillstehender Dombaustelle, Gerüste ohne Arbeiter.\nErzählertext: Beim Dombau ging Aachen das Geld aus.\nDialoge: keine\nKontinuität / Änderung: Ein Ratsherr vor stillstehender Dombaustelle, Gerüste ohne Arbeiter.\n\nKACHEL 2: Der reiche Helfer\nOrt und Zeit: Der reiche Helfer\nSichtbare Figuren: Ratsherr der Aachener Domsage, Reicher Fremder der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ratstisch, Beutel nur beim Fremden.\nErzählertext: Ein Fremder bot Geld zur Vollendung.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene am Ratstisch, Beutel nur beim Fremden.\n\nKACHEL 3: Die Bedingung\nOrt und Zeit: Die Bedingung\nSichtbare Figuren: Reicher Fremder der Aachener Domsage, Ratsherr der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, kein gefangener Mensch am Tisch.\nErzählertext: Er verlangte die Seele des ersten Wesens, das danach eintrete.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer, kein gefangener Mensch am Tisch.\n\nKACHEL 4: Die heimliche Zusage\nOrt und Zeit: Die heimliche Zusage\nSichtbare Figuren: Ratsherr der Aachener Domsage, Reicher Fremder der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Handschlag über einem einzelnen Beutel.\nErzählertext: Der Rat erschrak, stimmte aber zu und wollte den Handel geheim halten.\nDialoge: keine\nKontinuität / Änderung: Ein Handschlag über einem einzelnen Beutel.\n\nKACHEL 5: Der fertige Dom\nOrt und Zeit: Der fertige Dom\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fertig wirkender historischer Aachener Zentralbau mit offenem Portal, Platz davor leer.\nErzählertext: Der Bau wurde vollendet.\nDialoge: keine\nKontinuität / Änderung: Fertig wirkender historischer Aachener Zentralbau mit offenem Portal, Platz davor leer.\n\nKACHEL 6: Das leere Portal\nOrt und Zeit: Das leere Portal\nSichtbare Figuren: Reicher Fremder der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fremder in leerem Eingangsraum, niemand tritt durch.\nErzählertext: Doch das Geheimnis war bekannt geworden. Niemand wollte der Erste sein.\nDialoge: keine\nKontinuität / Änderung: Fremder in leerem Eingangsraum, niemand tritt durch.\n\nKACHEL 7: Die Drohung\nOrt und Zeit: Die Drohung\nSichtbare Figuren: Reicher Fremder der Aachener Domsage, Ratsherr der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor dem Ratshaus, kein gewaltsamer Zugriff.\nErzählertext: Der Teufel drohte, sich sonst jemanden aus dem Rat zu holen.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer vor dem Ratshaus, kein gewaltsamer Zugriff.\n\nKACHEL 8: Der gefangene Wolf\nOrt und Zeit: Der gefangene Wolf\nSichtbare Figuren: Wolf der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein grauer Wolf hinter geschlossener breiter Gittertür, keine blutigen Fangschlingen.\nErzählertext: Der Rat ließ einen Wolf fangen.\nDialoge: keine\nKontinuität / Änderung: Ein grauer Wolf hinter geschlossener breiter Gittertür, keine blutigen Fangschlingen.\n\nKACHEL 9: Der erste Eintritt\nOrt und Zeit: Der erste Eintritt\nSichtbare Figuren: Wolf der Aachener Domsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Wolf betritt den leeren Dom, keine Menschenseele als zweites Lichtwesen.\nErzählertext: Ihn trieb man zuerst hinein.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Wolf betritt den leeren Dom, keine Menschenseele als zweites Lichtwesen.\n\nKACHEL 10: Der fremde Preis\nOrt und Zeit: Der fremde Preis\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Eingangsraum nach dem Geschehen, Türen weit geöffnet, keine Verletzung des Tiers.\nErzählertext: Der Teufel tötete den Wolf und erkannte die List.\nDialoge: keine\nKontinuität / Änderung: Leerer Eingangsraum nach dem Geschehen, Türen weit geöffnet, keine Verletzung des Tiers.\n\nKACHEL 11: Die gesprungene Tür\nOrt und Zeit: Die gesprungene Tür\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein sichtbarer Riss in einer einzelnen bronzenen Türhälfte, keine gesprengte ganze Kathedrale.\nErzählertext: Im Zorn schlug er die Tür so zu, dass sie sprang, und fuhr davon.\nDialoge: keine\nKontinuität / Änderung: Ein sichtbarer Riss in einer einzelnen bronzenen Türhälfte, keine gesprengte ganze Kathedrale.\n\nKACHEL 12: Der zugängliche Dom\nOrt und Zeit: Der zugängliche Dom\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene treten durch das offene Portal, nebenan eine bronzene Wolfsfigur als Erinnerungsbild.\nErzählertext: Die Menschen konnten nun eintreten. Der Dom war gewonnen, der Wolf verloren. Die andere Fassung mit einem Menschenopfer bleibt eine eigene Variante.\nDialoge: keine\nKontinuität / Änderung: Erwachsene treten durch das offene Portal, nebenan eine bronzene Wolfsfigur als Erinnerungsbild.\n"
+  },
+  "count_policy": "editorial"
+}

@@ -1,0 +1,106 @@
+TITEL: Die letzte Saat – Ein Vergleich für die Ewigkeit
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Junker Hall von Schleebusch
+Aussehen: Erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Grünes Wams, graue Hose, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Setzt eine letzte Aussaat als Bedingung und nutzt deren unbestimmte Bedeutung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Abt von Dünnwald
+Aussehen: Älterer Mann mit weißem kurzem Bart.
+Kleidung: Braune Kutte, heller Gürtel.
+Persönlichkeit und Vorgeschichte: Vertraut auf die versiegelte Vereinbarung, ohne deren Deutung zu sichern.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das umstrittene Feld
+Ort und Zeit: Das umstrittene Feld
+Sichtbare Figuren: Junker Hall von Schleebusch, Abt von Dünnwald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Rand eines großen Ackers, keine Trennmauer bereits darauf.
+Erzählertext: Junker und Kloster stritten über hundert Morgen Land.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene am Rand eines großen Ackers, keine Trennmauer bereits darauf.
+
+KACHEL 2: Die Kosten
+Ort und Zeit: Die Kosten
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere geschlossene Schriftrollen und ein leerer Geldbeutel auf Gerichtstisch.
+Erzählertext: Die Prozesskosten verzehrten, was der Acker einbrachte.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere geschlossene Schriftrollen und ein leerer Geldbeutel auf Gerichtstisch.
+
+KACHEL 3: Der angebotene Frieden
+Ort und Zeit: Der angebotene Frieden
+Sichtbare Figuren: Junker Hall von Schleebusch, Abt von Dünnwald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an einem schlichten Tisch.
+Erzählertext: Der Junker bot das Land dem Kloster an – nach einer letzten eigenen Aussaat und deren Ernte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene an einem schlichten Tisch.
+
+KACHEL 4: Das verlangte Papier
+Ort und Zeit: Das verlangte Papier
+Sichtbare Figuren: Abt von Dünnwald, Junker Hall von Schleebusch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein offenes Pergament ohne lesbaren kleinteiligen Text.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Abt von Dünnwald
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann lasst uns das schriftlich festhalten.“
+Kontinuität / Änderung: Ein offenes Pergament ohne lesbaren kleinteiligen Text.
+
+KACHEL 5: Die vielen Siegel
+Ort und Zeit: Die vielen Siegel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges Pergament mit mehreren Wachssiegeln am unteren Rand, keine genaue Siegelzählung verlangt.
+Erzählertext: Beide Seiten und viele Zeugen besiegelten die Vereinbarung.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges Pergament mit mehreren Wachssiegeln am unteren Rand, keine genaue Siegelzählung verlangt.
+
+KACHEL 6: Der Herbst
+Ort und Zeit: Der Herbst
+Sichtbare Figuren: Junker Hall von Schleebusch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Feld wird mit kleinen Eicheln bestellt, eine Schale mit Eicheln deutlich im Vordergrund.
+Erzählertext: Der Junker ließ tatsächlich säen: Eicheln.
+Dialoge: keine
+Kontinuität / Änderung: Ein Feld wird mit kleinen Eicheln bestellt, eine Schale mit Eicheln deutlich im Vordergrund.
+
+KACHEL 7: Das ungewöhnliche Grün
+Ort und Zeit: Das ungewöhnliche Grün
+Sichtbare Figuren: Abt von Dünnwald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Eichensämlinge mit gelappten Blättern statt Getreidehalmen.
+Erzählertext: Im Frühjahr sah das Wachstum anders aus als erwartet.
+Dialoge: keine
+Kontinuität / Änderung: Kleine Eichensämlinge mit gelappten Blättern statt Getreidehalmen.
+
+KACHEL 8: Die erkannte List
+Ort und Zeit: Die erkannte List
+Sichtbare Figuren: Abt von Dünnwald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abt vor jungen Eichen, ein Schriftstück in beiden Händen, keine gereiften Getreideähren.
+Erzählertext: Das Kloster protestierte. Doch die letzte Aussaat war nicht auf Getreide beschränkt worden.
+Dialoge: keine
+Kontinuität / Änderung: Abt vor jungen Eichen, ein Schriftstück in beiden Händen, keine gereiften Getreideähren.
+
+KACHEL 9: Die wartende Ernte
+Ort und Zeit: Die wartende Ernte
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Eichenwald am selben Ort, keine in derselben Kachel wachsenden Baumkopien.
+Erzählertext: Die Eichen wuchsen. Ihre Ernte lag in einer anderen Zeit als die Hoffnung des Konvents.
+Dialoge: keine
+Kontinuität / Änderung: Ein junger Eichenwald am selben Ort, keine in derselben Kachel wachsenden Baumkopien.
+
+KACHEL 10: Der vergessene Brief
+Ort und Zeit: Der vergessene Brief
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verstaubtes versiegeltes Pergament im alten Archiv, draußen ein mächtiger Wald.
+Erzählertext: Menschen und Kloster vergingen, die Eichen blieben. Viele Siegel hatten den ausgenutzten Wortlaut nicht unschädlich gemacht.
+Dialoge: keine
+Kontinuität / Änderung: Verstaubtes versiegeltes Pergament im alten Archiv, draußen ein mächtiger Wald.

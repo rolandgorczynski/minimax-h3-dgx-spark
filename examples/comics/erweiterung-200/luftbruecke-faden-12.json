@@ -1,0 +1,415 @@
+{
+  "mode": "editorial",
+  "name": "Die Luftbrücke – Ein Faden reicht zum Anfang · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die Luftbrücke. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 101.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAus dem Ahrtale ragten stolz und kühn einst zwei stattliche Nachbarburgen einander gegenüber, zwischen beiden rauschte in der Taltiefe die Ahr, das waren die Schlösser Nuwenahr und Landskron, und hoch über dem Tale zog sich eine luftige Brücke, welche beide Burgsitze miteinander verband. Die beiden Herren dieser Burgen, der Graf von Nuwenahr und der Herr von Landskron, waren so traut befreundet, daß sie gemeinschaftlich diese Brücke bauten, welche mit unsaglicher Kunst gefügt war, ohne Stützen und doch dauerhaft, so daß die beiden Freunde zu jeder Stunde beisammensein und doch auch jeder schnell wieder in seinem Hause sein konnte, während ein nachbarlicher Besuch durch Herabritt und Hinaufritt mehrere Stunden in Anspruch nahm. Als diese Freunde verstorben waren, kam die Brücke in Verfall, die Elemente zerstörten sie, nur blieben an jeder Burg die Brückenpfeiler, die das Ganze mächtig stützen mußten, erhalten. Da geschah es, daß ein Rittersohn auf Landskron seine Nachbarin, eine junge Gräfin von Nuwenahr, liebte, die waren eingedenk ihrer Väter Freundschaft und wünschten sich sehnend die Brücke zurück. Da band die Grafentochter an einen Armbrustpfeil ein Garnknaul, ganz lose gewickelt, dessen Endfaden sie befestigte, und schoß den Pfeil zur Nachbarburg hinüber, da waren durch den Faden die Burgen wieder verbunden, und an dem Faden lief noch eine dünnere Schnur mit einem Vorhangring, daran ließen sich Brieflein und Liebespfänder hin-und herziehen in der Dämmerstunde; den dünnen Faden, dessen Farbe nicht ganz hell und nicht ganz dunkel war, gewahrte man kaum oben und von unten gar nicht. Als die Herzen beider Liebenden sich nun verständigt hatten, heirateten sie einander und bauten, wie die Sage meldet, die Brücke noch einmal neu, und dann ist sie wieder verfallen und nimmer wieder aufgebaut worden, und die Burgen sind verfallen, und Freundschaft und Liebe wohnen dort nicht mehr, ja Burg Nuwenahr ist bis auf seine Ruinen aus der Gegenwart hinweggeschwunden.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die Luftbrücke. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 101.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAus dem Ahrtale ragten stolz und kühn einst zwei stattliche Nachbarburgen einander gegenüber, zwischen beiden rauschte in der Taltiefe die Ahr, das waren die Schlösser Nuwenahr und Landskron, und hoch über dem Tale zog sich eine luftige Brücke, welche beide Burgsitze miteinander verband. Die beiden Herren dieser Burgen, der Graf von Nuwenahr und der Herr von Landskron, waren so traut befreundet, daß sie gemeinschaftlich diese Brücke bauten, welche mit unsaglicher Kunst gefügt war, ohne Stützen und doch dauerhaft, so daß die beiden Freunde zu jeder Stunde beisammensein und doch auch jeder schnell wieder in seinem Hause sein konnte, während ein nachbarlicher Besuch durch Herabritt und Hinaufritt mehrere Stunden in Anspruch nahm. Als diese Freunde verstorben waren, kam die Brücke in Verfall, die Elemente zerstörten sie, nur blieben an jeder Burg die Brückenpfeiler, die das Ganze mächtig stützen mußten, erhalten. Da geschah es, daß ein Rittersohn auf Landskron seine Nachbarin, eine junge Gräfin von Nuwenahr, liebte, die waren eingedenk ihrer Väter Freundschaft und wünschten sich sehnend die Brücke zurück. Da band die Grafentochter an einen Armbrustpfeil ein Garnknaul, ganz lose gewickelt, dessen Endfaden sie befestigte, und schoß den Pfeil zur Nachbarburg hinüber, da waren durch den Faden die Burgen wieder verbunden, und an dem Faden lief noch eine dünnere Schnur mit einem Vorhangring, daran ließen sich Brieflein und Liebespfänder hin-und herziehen in der Dämmerstunde; den dünnen Faden, dessen Farbe nicht ganz hell und nicht ganz dunkel war, gewahrte man kaum oben und von unten gar nicht. Als die Herzen beider Liebenden sich nun verständigt hatten, heirateten sie einander und bauten, wie die Sage meldet, die Brücke noch einmal neu, und dann ist sie wieder verfallen und nimmer wieder aufgebaut worden, und die Burgen sind verfallen, und Freundschaft und Liebe wohnen dort nicht mehr, ja Burg Nuwenahr ist bis auf seine Ruinen aus der Gegenwart hinweggeschwunden.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Die verbundenen Burgen",
+        "setting": "Die verbundenen Burgen",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Burgen an gegenüberliegenden Talhängen, eine einzige fantastische leichte Brücke hoch darüber.",
+        "dialog": "Zwei befreundete Burgherren ließen ihre Sitze in der Sage durch eine Brücke verbinden.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Zwei Burgen an gegenüberliegenden Talhängen, eine einzige fantastische leichte Brücke hoch darüber.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Der kurze Besuch",
+        "setting": "Der kurze Besuch",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose erwachsene Männer begegnen sich auf der einen Brücke, beide zu Fuß.",
+        "dialog": "So konnten sie einander rasch besuchen, ohne den langen Weg durchs Tal.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Zwei namenlose erwachsene Männer begegnen sich auf der einen Brücke, beide zu Fuß.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die verfallene Verbindung",
+        "setting": "Die verfallene Verbindung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Brückenansätze, der Mittelteil vollständig fort, Ahr tief darunter.",
+        "dialog": "Nach dem Tod der Freunde verfiel die Brücke.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Zwei alte Brückenansätze, der Mittelteil vollständig fort, Ahr tief darunter.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die nächste Generation",
+        "setting": "Die nächste Generation",
+        "characters": [
+          "ed835e13003a5ad39a9002cc5902b542"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau blickt zur gegenüberliegenden Burg, keine begehbare Restbrücke.",
+        "dialog": "Später liebten sich ihre Kinder und wünschten die Verbindung zurück.",
+        "bubbles": [],
+        "character_states": {
+          "ed835e13003a5ad39a9002cc5902b542": "steht am Fenster ihrer Burg; Blaues langes Kleid, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine erwachsene Frau blickt zur gegenüberliegenden Burg, keine begehbare Restbrücke.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Die nächste Generation",
+            "posture": "steht am Fenster ihrer Burg"
+          }
+        }
+      },
+      {
+        "heading": "Der vorbereitete Faden",
+        "setting": "Der vorbereitete Faden",
+        "characters": [
+          "ed835e13003a5ad39a9002cc5902b542"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Garnknäuel und ein Bolzen mit angebundenem Garn auf einer Bank, ein befestigtes Fadenende am Fenster. Keine Bauanleitung.",
+        "dialog": "Die Gräfin befestigte einen Faden und schickte dessen anderes Ende zur Nachbarburg.",
+        "bubbles": [],
+        "character_states": {
+          "ed835e13003a5ad39a9002cc5902b542": "steht vor einer abgelegten Armbrust; Blaues langes Kleid, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Garnknäuel und ein Bolzen mit angebundenem Garn auf einer Bank, ein befestigtes Fadenende am Fenster. Keine Bauanleitung.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Der vorbereitete Faden",
+            "posture": "steht vor einer abgelegten Armbrust"
+          }
+        }
+      },
+      {
+        "heading": "Der erreichte Anfang",
+        "setting": "Der erreichte Anfang",
+        "characters": [
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann hält das Ende eines einzelnen dünnen Fadens, der über das Tal aus dem Bild führt.",
+        "dialog": "Der Faden verband beide Seiten, noch ohne einen Menschen zu tragen.",
+        "bubbles": [],
+        "character_states": {
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": "steht am gegenüberliegenden Fenster; Grünes Wams, graue Hose und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein junger Mann hält das Ende eines einzelnen dünnen Fadens, der über das Tal aus dem Bild führt.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Der vorbereitete Faden",
+            "posture": "steht vor einer abgelegten Armbrust"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Der erreichte Anfang",
+            "posture": "steht am gegenüberliegenden Fenster"
+          }
+        }
+      },
+      {
+        "heading": "Die kleine Fracht",
+        "setting": "Die kleine Fracht",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Brief an einem Vorhangring über dem Tal, eine dünne Zugschnur daneben.",
+        "dialog": "Mit Ring und Schnur konnten kleine Briefe und Zeichen hinübergezogen werden.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein einzelner Brief an einem Vorhangring über dem Tal, eine dünne Zugschnur daneben.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Der vorbereitete Faden",
+            "posture": "steht vor einer abgelegten Armbrust"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Der erreichte Anfang",
+            "posture": "steht am gegenüberliegenden Fenster"
+          }
+        }
+      },
+      {
+        "heading": "Die empfangene Nachricht",
+        "setting": "Die empfangene Nachricht",
+        "characters": [
+          "ed835e13003a5ad39a9002cc5902b542"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Frau am Fenster mit einem kleinen Brief in beiden Händen.",
+        "dialog": "Was ein Bauwerk nicht mehr leistete, begann mit Nachrichten neu.",
+        "bubbles": [],
+        "character_states": {
+          "ed835e13003a5ad39a9002cc5902b542": "hält einen einzigen Brief; Blaues langes Kleid, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Erwachsene Frau am Fenster mit einem kleinen Brief in beiden Händen.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Die empfangene Nachricht",
+            "posture": "hält einen einzigen Brief"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Der erreichte Anfang",
+            "posture": "steht am gegenüberliegenden Fenster"
+          }
+        }
+      },
+      {
+        "heading": "Die erklärte Verbindung",
+        "setting": "Die erklärte Verbindung",
+        "characters": [
+          "ed835e13003a5ad39a9002cc5902b542",
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Burghof, einander zugewandt, keine Menschen auf dünnem Faden.",
+        "dialog": "Als ihre Herzen sich verständigt hatten, heirateten sie.",
+        "bubbles": [],
+        "character_states": {
+          "ed835e13003a5ad39a9002cc5902b542": "steht neben dem Rittersohn; Blaues langes Kleid, grauer Mantel.; Lebenszustand: lebend",
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": "steht bei ihr; Grünes Wams, graue Hose und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene im Burghof, einander zugewandt, keine Menschen auf dünnem Faden.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Die erklärte Verbindung",
+            "posture": "steht neben dem Rittersohn"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Die erklärte Verbindung",
+            "posture": "steht bei ihr"
+          }
+        }
+      },
+      {
+        "heading": "Der gemeinsame Neubau",
+        "setting": "Der gemeinsame Neubau",
+        "characters": [
+          "ed835e13003a5ad39a9002cc5902b542",
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Paar vor einer noch unvollständigen Brücke, unbenannte Erwachsene arbeiten an getrennten Stellen.",
+        "dialog": "Gemeinsam ließen sie die Brücke neu errichten.",
+        "bubbles": [],
+        "character_states": {
+          "ed835e13003a5ad39a9002cc5902b542": "steht am Bauplatz; Blaues langes Kleid, grauer Mantel.; Lebenszustand: lebend",
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": "steht neben ihr; Grünes Wams, graue Hose und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Paar vor einer noch unvollständigen Brücke, unbenannte Erwachsene arbeiten an getrennten Stellen.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Der gemeinsame Neubau",
+            "posture": "steht am Bauplatz"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Der gemeinsame Neubau",
+            "posture": "steht neben ihr"
+          }
+        }
+      },
+      {
+        "heading": "Der spätere Verfall",
+        "setting": "Der spätere Verfall",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselben Burgen als spätere Ruinen, Brückenmittelteil wieder verschwunden.",
+        "dialog": "Doch auch diese Brücke und die Burgen verfielen später.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Dieselben Burgen als spätere Ruinen, Brückenmittelteil wieder verschwunden.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Der gemeinsame Neubau",
+            "posture": "steht am Bauplatz"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Der gemeinsame Neubau",
+            "posture": "steht neben ihr"
+          }
+        }
+      },
+      {
+        "heading": "Die Arbeit an der Nähe",
+        "setting": "Die Arbeit an der Nähe",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein verwitterter einzelner Brückenansatz über dem ruhigen Tal, kein ewiges neues Bauwerk.",
+        "dialog": "Verbundenheit war nicht allein geerbter Stein. Ein Faden konnte sie erneuern; dauerhaft blieb sie nur mit neuer Zuwendung.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein verwitterter einzelner Brückenansatz über dem ruhigen Tal, kein ewiges neues Bauwerk.",
+        "continuity_state": {
+          "ed835e13003a5ad39a9002cc5902b542": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, grauer Mantel.",
+            "location": "Der gemeinsame Neubau",
+            "posture": "steht am Bauplatz"
+          },
+          "7f0e6d16cb0d58ba8c2dc3d41ec3f00c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wams, graue Hose und Schuhe.",
+            "location": "Der gemeinsame Neubau",
+            "posture": "steht neben ihr"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Junge Gräfin von Nuwenahr",
+        "description": "Junge erwachsene Frau mit braunem Zopf.",
+        "outfit": "Blaues langes Kleid, grauer Mantel.",
+        "backstory": "Erneuert die Verbindung durch einen Faden und ein Briefsystem.",
+        "id": "ed835e13003a5ad39a9002cc5902b542",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Rittersohn von Landskron",
+        "description": "Junger erwachsener Mann mit dunklem kurzem Haar.",
+        "outfit": "Grünes Wams, graue Hose und Schuhe.",
+        "backstory": "Erwidert ihre Liebe und baut später mit ihr die Brücke neu.",
+        "id": "7f0e6d16cb0d58ba8c2dc3d41ec3f00c",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wodurch bleibt eine Verbindung zwischen Menschen wirklich tragfähig?",
+      "core": "Eine Beziehung erneuert sich nicht allein durch geerbte Bauwerke. Ein unscheinbarer neuer Faden kann Verbundenheit wieder ermöglichen, doch jede dauerhafte Brücke braucht erneute gemeinsame Zuwendung.",
+      "ending": "Das Paar baut die Brücke neu; später verfallen Bauwerk und Burgen erneut.",
+      "reason": "Alte Freundschaft, Zerfall, erfundener Briefweg und gemeinsame Erneuerung bilden den Bogen; den späteren Verfall als Zeitnachklang zeigen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "an dem Faden lief noch eine dünnere Schnur mit einem Vorhangring",
+          "meaning": "Die Liebenden stellen den verlorenen Austausch zunächst mit einem kleinen eigenen Mittel wieder her."
+        }
+      ],
+      "causal_chain": [
+        "an dem Faden lief noch eine dünnere Schnur mit einem Vorhangring",
+        "Das Paar baut die Brücke neu; später verfallen Bauwerk und Burgen erneut."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "920e930131784df7dd09ba4a679873dde869c8a00cc96e5715bd38c5406ec28a",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:48:11.272910+00:00"
+    },
+    "post_summary": "Nach dem Verfall einer alten Freundschaftsbrücke suchen zwei Liebende einen neuen Weg. Zunächst braucht es nur eine dünne Verbindung.",
+    "source_provenance": {
+      "title": "Die Luftbrücke",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 101.",
+      "url": "https://textgridrep.org/browse/kfcp.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die Luftbrücke. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 101.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAus dem Ahrtale ragten stolz und kühn einst zwei stattliche Nachbarburgen einander gegenüber, zwischen beiden rauschte in der Taltiefe die Ahr, das waren die Schlösser Nuwenahr und Landskron, und hoch über dem Tale zog sich eine luftige Brücke, welche beide Burgsitze miteinander verband. Die beiden Herren dieser Burgen, der Graf von Nuwenahr und der Herr von Landskron, waren so traut befreundet, daß sie gemeinschaftlich diese Brücke bauten, welche mit unsaglicher Kunst gefügt war, ohne Stützen und doch dauerhaft, so daß die beiden Freunde zu jeder Stunde beisammensein und doch auch jeder schnell wieder in seinem Hause sein konnte, während ein nachbarlicher Besuch durch Herabritt und Hinaufritt mehrere Stunden in Anspruch nahm. Als diese Freunde verstorben waren, kam die Brücke in Verfall, die Elemente zerstörten sie, nur blieben an jeder Burg die Brückenpfeiler, die das Ganze mächtig stützen mußten, erhalten. Da geschah es, daß ein Rittersohn auf Landskron seine Nachbarin, eine junge Gräfin von Nuwenahr, liebte, die waren eingedenk ihrer Väter Freundschaft und wünschten sich sehnend die Brücke zurück. Da band die Grafentochter an einen Armbrustpfeil ein Garnknaul, ganz lose gewickelt, dessen Endfaden sie befestigte, und schoß den Pfeil zur Nachbarburg hinüber, da waren durch den Faden die Burgen wieder verbunden, und an dem Faden lief noch eine dünnere Schnur mit einem Vorhangring, daran ließen sich Brieflein und Liebespfänder hin-und herziehen in der Dämmerstunde; den dünnen Faden, dessen Farbe nicht ganz hell und nicht ganz dunkel war, gewahrte man kaum oben und von unten gar nicht. Als die Herzen beider Liebenden sich nun verständigt hatten, heirateten sie einander und bauten, wie die Sage meldet, die Brücke noch einmal neu, und dann ist sie wieder verfallen und nimmer wieder aufgebaut worden, und die Burgen sind verfallen, und Freundschaft und Liebe wohnen dort nicht mehr, ja Burg Nuwenahr ist bis auf seine Ruinen aus der Gegenwart hinweggeschwunden.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Aus dem Ahrtale ragten stolz und kühn einst zwei stattliche Nachbarburgen einander gegenüber, zwischen beiden rauschte in der Taltiefe die Ahr, das waren die Schlösser Nuwenahr und Landskron, und hoch über dem Tale zog sich eine luftige Brücke, welche beide Burgsitze miteinander verband.",
+      "id": "bechstein-sagen-kfcp-0",
+      "category": "Liebe und Treue",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "luftbruecke-faden-12-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die Luftbrücke – Ein Faden reicht zum Anfang · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die Luftbrücke – Ein Faden reicht zum Anfang\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Junge Gräfin von Nuwenahr\nAussehen: Junge erwachsene Frau mit braunem Zopf.\nKleidung: Blaues langes Kleid, grauer Mantel.\nPersönlichkeit und Vorgeschichte: Erneuert die Verbindung durch einen Faden und ein Briefsystem.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Rittersohn von Landskron\nAussehen: Junger erwachsener Mann mit dunklem kurzem Haar.\nKleidung: Grünes Wams, graue Hose und Schuhe.\nPersönlichkeit und Vorgeschichte: Erwidert ihre Liebe und baut später mit ihr die Brücke neu.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die verbundenen Burgen\nOrt und Zeit: Die verbundenen Burgen\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Burgen an gegenüberliegenden Talhängen, eine einzige fantastische leichte Brücke hoch darüber.\nErzählertext: Zwei befreundete Burgherren ließen ihre Sitze in der Sage durch eine Brücke verbinden.\nDialoge: keine\nKontinuität / Änderung: Zwei Burgen an gegenüberliegenden Talhängen, eine einzige fantastische leichte Brücke hoch darüber.\n\nKACHEL 2: Der kurze Besuch\nOrt und Zeit: Der kurze Besuch\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose erwachsene Männer begegnen sich auf der einen Brücke, beide zu Fuß.\nErzählertext: So konnten sie einander rasch besuchen, ohne den langen Weg durchs Tal.\nDialoge: keine\nKontinuität / Änderung: Zwei namenlose erwachsene Männer begegnen sich auf der einen Brücke, beide zu Fuß.\n\nKACHEL 3: Die verfallene Verbindung\nOrt und Zeit: Die verfallene Verbindung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Brückenansätze, der Mittelteil vollständig fort, Ahr tief darunter.\nErzählertext: Nach dem Tod der Freunde verfiel die Brücke.\nDialoge: keine\nKontinuität / Änderung: Zwei alte Brückenansätze, der Mittelteil vollständig fort, Ahr tief darunter.\n\nKACHEL 4: Die nächste Generation\nOrt und Zeit: Die nächste Generation\nSichtbare Figuren: Junge Gräfin von Nuwenahr\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau blickt zur gegenüberliegenden Burg, keine begehbare Restbrücke.\nErzählertext: Später liebten sich ihre Kinder und wünschten die Verbindung zurück.\nDialoge: keine\nKontinuität / Änderung: Eine erwachsene Frau blickt zur gegenüberliegenden Burg, keine begehbare Restbrücke.\n\nKACHEL 5: Der vorbereitete Faden\nOrt und Zeit: Der vorbereitete Faden\nSichtbare Figuren: Junge Gräfin von Nuwenahr\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Garnknäuel und ein Bolzen mit angebundenem Garn auf einer Bank, ein befestigtes Fadenende am Fenster. Keine Bauanleitung.\nErzählertext: Die Gräfin befestigte einen Faden und schickte dessen anderes Ende zur Nachbarburg.\nDialoge: keine\nKontinuität / Änderung: Ein Garnknäuel und ein Bolzen mit angebundenem Garn auf einer Bank, ein befestigtes Fadenende am Fenster. Keine Bauanleitung.\n\nKACHEL 6: Der erreichte Anfang\nOrt und Zeit: Der erreichte Anfang\nSichtbare Figuren: Rittersohn von Landskron\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann hält das Ende eines einzelnen dünnen Fadens, der über das Tal aus dem Bild führt.\nErzählertext: Der Faden verband beide Seiten, noch ohne einen Menschen zu tragen.\nDialoge: keine\nKontinuität / Änderung: Ein junger Mann hält das Ende eines einzelnen dünnen Fadens, der über das Tal aus dem Bild führt.\n\nKACHEL 7: Die kleine Fracht\nOrt und Zeit: Die kleine Fracht\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Brief an einem Vorhangring über dem Tal, eine dünne Zugschnur daneben.\nErzählertext: Mit Ring und Schnur konnten kleine Briefe und Zeichen hinübergezogen werden.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Brief an einem Vorhangring über dem Tal, eine dünne Zugschnur daneben.\n\nKACHEL 8: Die empfangene Nachricht\nOrt und Zeit: Die empfangene Nachricht\nSichtbare Figuren: Junge Gräfin von Nuwenahr\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Frau am Fenster mit einem kleinen Brief in beiden Händen.\nErzählertext: Was ein Bauwerk nicht mehr leistete, begann mit Nachrichten neu.\nDialoge: keine\nKontinuität / Änderung: Erwachsene Frau am Fenster mit einem kleinen Brief in beiden Händen.\n\nKACHEL 9: Die erklärte Verbindung\nOrt und Zeit: Die erklärte Verbindung\nSichtbare Figuren: Junge Gräfin von Nuwenahr, Rittersohn von Landskron\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Burghof, einander zugewandt, keine Menschen auf dünnem Faden.\nErzählertext: Als ihre Herzen sich verständigt hatten, heirateten sie.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene im Burghof, einander zugewandt, keine Menschen auf dünnem Faden.\n\nKACHEL 10: Der gemeinsame Neubau\nOrt und Zeit: Der gemeinsame Neubau\nSichtbare Figuren: Junge Gräfin von Nuwenahr, Rittersohn von Landskron\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Paar vor einer noch unvollständigen Brücke, unbenannte Erwachsene arbeiten an getrennten Stellen.\nErzählertext: Gemeinsam ließen sie die Brücke neu errichten.\nDialoge: keine\nKontinuität / Änderung: Paar vor einer noch unvollständigen Brücke, unbenannte Erwachsene arbeiten an getrennten Stellen.\n\nKACHEL 11: Der spätere Verfall\nOrt und Zeit: Der spätere Verfall\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselben Burgen als spätere Ruinen, Brückenmittelteil wieder verschwunden.\nErzählertext: Doch auch diese Brücke und die Burgen verfielen später.\nDialoge: keine\nKontinuität / Änderung: Dieselben Burgen als spätere Ruinen, Brückenmittelteil wieder verschwunden.\n\nKACHEL 12: Die Arbeit an der Nähe\nOrt und Zeit: Die Arbeit an der Nähe\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein verwitterter einzelner Brückenansatz über dem ruhigen Tal, kein ewiges neues Bauwerk.\nErzählertext: Verbundenheit war nicht allein geerbter Stein. Ein Faden konnte sie erneuern; dauerhaft blieb sie nur mit neuer Zuwendung.\nDialoge: keine\nKontinuität / Änderung: Ein verwitterter einzelner Brückenansatz über dem ruhigen Tal, kein ewiges neues Bauwerk.\n"
+  },
+  "count_policy": "editorial"
+}

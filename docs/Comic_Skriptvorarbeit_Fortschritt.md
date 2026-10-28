@@ -4,7 +4,7 @@ Stand: 28. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihe
 
 ## 1. Redaktionelle Skripte
 
-**101 von 382 Einträgen fertig.** Aktuell stehen 100 Geschichten zur Auswahl: die 89 Bildregie-Fassungen plus [elf neue Skripte](../examples/comics/erweiterung-100/README.md). Das Schneiderlein bleibt eine separate Referenz. Es wurden für diese Erweiterung keine Bilder erzeugt.
+**201 von 382 Einträgen fertig.** Aktuell stehen 200 Geschichten zur Auswahl. Die separate Schneiderlein-Referenz ist zusätzlich vorhanden. [Die jüngsten 100 Sagen und ihre vollständigen Skripte](../examples/comics/erweiterung-200/README.md) sind ohne Bilderzeugung fertiggestellt.
 
 - Der kleine Prinz: 12 Kacheln.
 - Die Bremer Stadtmusikanten: 10 Kacheln.
@@ -101,7 +101,7 @@ Die vollständige Auftragsliste ist unter `/home/jee/docker-data/comic-sinnanaly
 
 Die Skripte werden von Codex geschrieben und redaktionell geprüft. Der Import erzeugt weder Skripte mit lokalen Modellen noch Bilder. Bestehende Bearbeitungen bleiben erhalten; neue Skripte werden separat abgelegt. Ergebnisse und Importanleitung: [Skriptproben](../examples/comics/skriptproben/README.md).
 
-Die übrigen 281 Skripte sind noch offen. Der Skript-Cron bleibt auf Nutzerwunsch pausiert; die elf neuen Geschichten wurden durch den manuellen Auftrag vom 28. Oktober 2026 erstellt. Der folgende Absatz beschreibt die frühere Cron-Einrichtung: Ein Benutzer-Cron prüft jetzt jede Minute, ob diese Codex-Unterhaltung frei ist, und kann höchstens einen Folgeauftrag für vier Skripte einreihen. Die Einrichtung hat keinen sofortigen Arbeitslauf gestartet. Einrichtung, Protokolle und Pause: [Skript-Cron](Comic_Skript_Cron.md).
+Die übrigen 181 Skripte sind noch offen. Der Skript-Cron bleibt auf Nutzerwunsch pausiert; die elf neuen Geschichten wurden durch den manuellen Auftrag vom 28. Oktober 2026 erstellt. Der folgende Absatz beschreibt die frühere Cron-Einrichtung: Ein Benutzer-Cron prüft jetzt jede Minute, ob diese Codex-Unterhaltung frei ist, und kann höchstens einen Folgeauftrag für vier Skripte einreihen. Die Einrichtung hat keinen sofortigen Arbeitslauf gestartet. Einrichtung, Protokolle und Pause: [Skript-Cron](Comic_Skript_Cron.md).
 
 Prüfung vor der Erweiterung auf 100: Der Fertig-Filter zeigte damals 90 Quellen. Die vier zuletzt ergänzten Skripte wurden im Browser unter Schritt 2 ausgewählt; Stil bleibt offen und alle Szenen sind erreichbar. Sie bestehen die Beschriftungsprüfung ohne Warnungen. Die zuvor fertigen Skripte und die Seitennavigation längerer Skripte waren bereits in den vorherigen Arbeitsrunden im Browser geprüft worden. Bestehende Geschichten und Renderaufträge wurden mit dem Stand vor dieser Arbeitsrunde verglichen und blieben unverändert.
 
@@ -134,3 +134,7 @@ Diese Varianten erhöhen nicht den Fortschritt des weiterhin pausierten 382er-Au
 ## Erweiterung am 28. Oktober 2026
 
 Elf weitere Sagen mit zusammen 122 Kacheln sind als neue Geschichten importiert, technisch ohne Beschriftungswarnungen geprüft und mit präziser Bildregie vorbereitet. Die bestehenden Geschichten bleiben unverändert. [Alle elf Titel, Skripte und Prüfberichte](../examples/comics/erweiterung-100/README.md). Die zusätzliche Auswahl ist unabhängig vom pausierten Cron.
+
+## Weitere 100 Sagen am 28. Oktober 2026
+
+100 weitere Sagen sind mit 1.146 Kacheln, Figurenprofilen, Erzählertexten und präziser Bildregie als neue Geschichten importiert. Alle Szenen und Figuren sind mit der API abgeglichen; keine Beschriftungswarnungen. Die Auswahl zeigt 200 Geschichten und 200 Quellen. Der Cron bleibt pausiert, keine Bilder erzeugt. [Abschluss und alle Skripte](../examples/comics/erweiterung-200/README.md).

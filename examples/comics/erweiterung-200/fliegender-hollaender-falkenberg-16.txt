@@ -1,0 +1,182 @@
+TITEL: Der fliegende Holländer – Die unbeendete Reise
+AUTOR: Sysop
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Reginald von Falkenberg
+Aussehen: Erwachsener Mann mit schwarzem kurzem Haar und schmalem Bart.
+Kleidung: Dunkelgrüner Rock, grauer Reisemantel und Stiefel.
+Persönlichkeit und Vorgeschichte: Tötet aus Rache, bereut und bleibt im Kampf um seine Seele.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Waleram von Falkenberg
+Aussehen: Erwachsener Mann mit braunem Lockenhaar, bartlos.
+Kleidung: Blaues Wams, graue Hose.
+Persönlichkeit und Vorgeschichte: Alix wählt ihn; er wird mit ihr getötet.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alix von Cleve
+Aussehen: Erwachsene Frau mit langem braunem Haar.
+Kleidung: Blaues langes Kleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Trifft ihre eigene Wahl für Waleram.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Einsiedler von Falkenberg
+Aussehen: Alter Mann mit weißem langem Bart.
+Kleidung: Braune Kutte und Sandalen.
+Persönlichkeit und Vorgeschichte: Hört das Geständnis und weist den Weg der Buße.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Helle Weggestalt Reginalds
+Aussehen: Eine einzelne durchscheinende menschenähnliche Lichtgestalt.
+Kleidung: Helles schlichtes Gewand.
+Persönlichkeit und Vorgeschichte: Bestärkt ihn in Reue und Gebet.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dunkle Weggestalt Reginalds
+Aussehen: Eine einzelne dunkle menschenähnliche Schattengestalt.
+Kleidung: Dunkles schlichtes Gewand.
+Persönlichkeit und Vorgeschichte: Drängt zum Abbruch der Buße und eröffnet später das Spiel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die rufende Burg
+Ort und Zeit: Die rufende Burg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verfallene Burg mit zwei kleinen Lichtflammen in einem leeren Gang, kein sichtbarer Rufer.
+Erzählertext: Auf Falkenberg soll noch eine Stimme klagen. Die Sage führt zurück zu zwei Brüdern.
+Dialoge: keine
+Kontinuität / Änderung: Verfallene Burg mit zwei kleinen Lichtflammen in einem leeren Gang, kein sichtbarer Rufer.
+
+KACHEL 2: Die eigene Wahl
+Ort und Zeit: Die eigene Wahl
+Sichtbare Figuren: Alix von Cleve, Waleram von Falkenberg, Reginald von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene, Paar in Blau vorn, Reginald grün in Abstand.
+Erzählertext: Beide Brüder liebten Alix. Sie entschied sich für Waleram.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene, Paar in Blau vorn, Reginald grün in Abstand.
+
+KACHEL 3: Die Hochzeit
+Ort und Zeit: Die Hochzeit
+Sichtbare Figuren: Alix von Cleve, Waleram von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Vermählte im Saal, friedliche Umgebung.
+Erzählertext: Sie heirateten. Reginald nahm ihre Wahl nicht an.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Vermählte im Saal, friedliche Umgebung.
+
+KACHEL 4: Der Mord bleibt außerhalb
+Ort und Zeit: Der Mord bleibt außerhalb
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Brautzimmertür, davor ein dunkler Mantelschatten, keine Gewalt im Bett.
+Erzählertext: Er tötete beide. Die verweigerte Anerkennung wurde zur unwiderruflichen Tat.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossene Brautzimmertür, davor ein dunkler Mantelschatten, keine Gewalt im Bett.
+
+KACHEL 5: Der fliehende Bruder
+Ort und Zeit: Der fliehende Bruder
+Sichtbare Figuren: Reginald von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann mit einem dunklen handförmigen Mal im Gesicht und einer kleinen Haarlocke im geschlossenen Tuch, keine offene Wunde.
+Erzählertext: Reginald floh. Eine Handspur seines Bruders blieb ihm im Gesicht.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann mit einem dunklen handförmigen Mal im Gesicht und einer kleinen Haarlocke im geschlossenen Tuch, keine offene Wunde.
+
+KACHEL 6: Vor der Klause
+Ort und Zeit: Vor der Klause
+Sichtbare Figuren: Reginald von Falkenberg, Einsiedler von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an einer nächtlichen Kapellentür, beide Hände leer.
+Erzählertext: Von Reue gequält bekannte er einem Einsiedler seine Tat.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene an einer nächtlichen Kapellentür, beide Hände leer.
+
+KACHEL 7: Die gemeinsame Nacht
+Ort und Zeit: Die gemeinsame Nacht
+Sichtbare Figuren: Reginald von Falkenberg, Einsiedler von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor einem schlichten Altar, keine vergebende Totenerscheinung.
+Erzählertext: Die Nacht verbrachten sie im Gebet.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer vor einem schlichten Altar, keine vergebende Totenerscheinung.
+
+KACHEL 8: Der verlangte Weg
+Ort und Zeit: Der verlangte Weg
+Sichtbare Figuren: Einsiedler von Falkenberg, Reginald von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alter Mann weist auf einen offenen Weg nach Norden.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Einsiedler von Falkenberg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Geh nach Norden, bis kein Land mehr vor dir liegt.“
+Kontinuität / Änderung: Alter Mann weist auf einen offenen Weg nach Norden.
+
+KACHEL 9: Der Abschied vom Besitz
+Ort und Zeit: Der Abschied vom Besitz
+Sichtbare Figuren: Reginald von Falkenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine kleine Haarlocke verbrennt allein in der Lampe, Hände sicher entfernt.
+Erzählertext: Er verbrannte Alixens Locke und brach auf.
+Dialoge: keine
+Kontinuität / Änderung: Eine kleine Haarlocke verbrennt allein in der Lampe, Hände sicher entfernt.
+
+KACHEL 10: Die beiden Begleiter
+Ort und Zeit: Die beiden Begleiter
+Sichtbare Figuren: Reginald von Falkenberg, Helle Weggestalt Reginalds, Dunkle Weggestalt Reginalds
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei getrennte Gestalten auf demselben Weg: Mensch mittig, helle rechts, dunkle links.
+Erzählertext: Eine helle und eine dunkle Gestalt gingen mit ihm. Der innere Kampf wurde sichtbar.
+Dialoge: keine
+Kontinuität / Änderung: Drei getrennte Gestalten auf demselben Weg: Mensch mittig, helle rechts, dunkle links.
+
+KACHEL 11: Das Ende des Landes
+Ort und Zeit: Das Ende des Landes
+Sichtbare Figuren: Reginald von Falkenberg, Helle Weggestalt Reginalds, Dunkle Weggestalt Reginalds
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Gestalten am Ufer, offenes Meer vor ihnen, kein Landweg weiter.
+Erzählertext: Nach langer Wanderung erreichte er das Meer.
+Dialoge: keine
+Kontinuität / Änderung: Drei Gestalten am Ufer, offenes Meer vor ihnen, kein Landweg weiter.
+
+KACHEL 12: Der erwartete Fahrgast
+Ort und Zeit: Der erwartete Fahrgast
+Sichtbare Figuren: Reginald von Falkenberg, Helle Weggestalt Reginalds, Dunkle Weggestalt Reginalds
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Nachen mit drei Reisenden und einem namenlosen erwachsenen Fährmann, großes Segelschiff fern.
+Erzählertext: Ein Fährmann erwartete ihn und brachte die drei zu einem Schiff.
+Dialoge: keine
+Kontinuität / Änderung: Ein Nachen mit drei Reisenden und einem namenlosen erwachsenen Fährmann, großes Segelschiff fern.
+
+KACHEL 13: Das leere Deck
+Ort und Zeit: Das leere Deck
+Sichtbare Figuren: Reginald von Falkenberg, Helle Weggestalt Reginalds, Dunkle Weggestalt Reginalds
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Gestalten auf einem unbemannten historischen Segelschiff, Fährmann und Nachen fort.
+Erzählertext: Das Schiff fuhr ohne Besatzung weiter.
+Dialoge: keine
+Kontinuität / Änderung: Drei Gestalten auf einem unbemannten historischen Segelschiff, Fährmann und Nachen fort.
+
+KACHEL 14: Die drei Würfel
+Ort und Zeit: Die drei Würfel
+Sichtbare Figuren: Reginald von Falkenberg, Helle Weggestalt Reginalds, Dunkle Weggestalt Reginalds
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei sitzende Gestalten, genau drei kleine Knochenwürfel auf einem einzigen Tisch.
+Erzählertext: Unter Deck eröffnete die dunkle Gestalt das Spiel um seine Seele.
+Dialoge: keine
+Kontinuität / Änderung: Drei sitzende Gestalten, genau drei kleine Knochenwürfel auf einem einzigen Tisch.
+
+KACHEL 15: Kein endlicher Einsatz
+Ort und Zeit: Kein endlicher Einsatz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbemanntes graues Segelschiff auf leerem Meer, einzelne fahle Lichtflammen an Masten, keine Steuerperson.
+Erzählertext: Bis zum Jüngsten Tag soll gespielt werden. Reue war begonnen, Erlösung nicht gewonnen.
+Dialoge: keine
+Kontinuität / Änderung: Unbemanntes graues Segelschiff auf leerem Meer, einzelne fahle Lichtflammen an Masten, keine Steuerperson.
+
+KACHEL 16: Die unbeendete Reise
+Ort und Zeit: Die unbeendete Reise
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dasselbe Schiff fern auf glatter See ohne Wind, Segel grau, Deck leer.
+Erzählertext: So erklärt diese Falkenberger Fassung den fliegenden Holländer. Das Fortgehen hatte die eigene Tat nicht abgelegt.
+Dialoge: keine
+Kontinuität / Änderung: Dasselbe Schiff fern auf glatter See ohne Wind, Segel grau, Deck leer.

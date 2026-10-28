@@ -1,0 +1,141 @@
+TITEL: Metz versagt den Tanz – Ein Brief als Falle
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Karl V. in der Metzer Überlieferung
+Aussehen: Älterer Mann mit kurzem braunem Bart.
+Kleidung: Dunkelgrauer Herrscherrock, heller Kragen, Stiefel.
+Persönlichkeit und Vorgeschichte: Belagerer, der einen zugespielten Brief für gesichertes Wissen hält.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Guise in der Metzer Überlieferung
+Aussehen: Erwachsener Mann mit dunklem kurzem Bart.
+Kleidung: Dunkelblauer Soldatenrock, grauer Mantel, Stiefel.
+Persönlichkeit und Vorgeschichte: Verteidiger, der einen Brief absichtlich in feindliche Hände gelangen lässt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bote des Metzer Briefs
+Aussehen: Junger erwachsener Mann, braunes kurzes Haar.
+Kleidung: Brauner Reisemantel und graue Hose.
+Persönlichkeit und Vorgeschichte: Übernimmt die Rolle des scheinbar ungeschickten Überbringers.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Eine alte Stadt
+Ort und Zeit: Eine alte Stadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Historisches Metz mit Mauern und einem offenen Stadttor, keine heutige Grenzkarte.
+Erzählertext: Metz hat viele Herkunftserzählungen. Dieser Handlungsbogen folgt der List um seine Besetzung und Belagerung.
+Dialoge: keine
+Kontinuität / Änderung: Historisches Metz mit Mauern und einem offenen Stadttor, keine heutige Grenzkarte.
+
+KACHEL 2: Ein Fähnlein
+Ort und Zeit: Ein Fähnlein
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Bannerträger vor dem Stadttor, dahinter eine lange weit entfernte Soldatenkolonne.
+Erzählertext: Man versprach Schutz, wenn nur ein Fähnlein aufgenommen werde.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Bannerträger vor dem Stadttor, dahinter eine lange weit entfernte Soldatenkolonne.
+
+KACHEL 3: Wort und Menge
+Ort und Zeit: Wort und Menge
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine große Kolonne zieht unter genau einer sichtbaren Fahne durch das Tor.
+Erzählertext: Es kam eine große Truppe, tatsächlich mit nur einem Fähnlein. Das kleine Zeichen hatte über die Menge getäuscht.
+Dialoge: keine
+Kontinuität / Änderung: Eine große Kolonne zieht unter genau einer sichtbaren Fahne durch das Tor.
+
+KACHEL 4: Die neue Verteidigung
+Ort und Zeit: Die neue Verteidigung
+Sichtbare Figuren: Guise in der Metzer Überlieferung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Guise bei namenlosen erwachsenen Helfern, Vorräte werden hinter die Mauer getragen.
+Erzählertext: Die Stadt wurde befestigt und mit Vorräten versorgt.
+Dialoge: keine
+Kontinuität / Änderung: Guise bei namenlosen erwachsenen Helfern, Vorräte werden hinter die Mauer getragen.
+
+KACHEL 5: Vor den Mauern
+Ort und Zeit: Vor den Mauern
+Sichtbare Figuren: Karl V. in der Metzer Überlieferung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Herrscher vor vielen fernen Zelten, Stadtmauer dahinter, keine Tausende einzelner Köpfe.
+Erzählertext: Karl V. erschien mit einem großen Heer und belagerte Metz.
+Dialoge: keine
+Kontinuität / Änderung: Ein Herrscher vor vielen fernen Zelten, Stadtmauer dahinter, keine Tausende einzelner Köpfe.
+
+KACHEL 6: Die langen Wochen
+Ort und Zeit: Die langen Wochen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rauch zwischen beschädigter Stadtmauer und entferntem Lager, keine auf Menschen treffenden Geschosse.
+Erzählertext: Beschuss, Kälte, Hunger und Krankheiten erschöpften beide Seiten.
+Dialoge: keine
+Kontinuität / Änderung: Rauch zwischen beschädigter Stadtmauer und entferntem Lager, keine auf Menschen treffenden Geschosse.
+
+KACHEL 7: Die gefährdete Stelle
+Ort und Zeit: Die gefährdete Stelle
+Sichtbare Figuren: Guise in der Metzer Überlieferung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verteidiger betrachtet geschwächten Mauerabschnitt, keine freigelegte technische Angriffskarte.
+Erzählertext: Guise fürchtete, die schwache Seite nicht lange halten zu können.
+Dialoge: keine
+Kontinuität / Änderung: Verteidiger betrachtet geschwächten Mauerabschnitt, keine freigelegte technische Angriffskarte.
+
+KACHEL 8: Der geschriebene Irrtum
+Ort und Zeit: Der geschriebene Irrtum
+Sichtbare Figuren: Guise in der Metzer Überlieferung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann am Schreiben, Brief ohne lesbaren Text, ein Siegel daneben.
+Erzählertext: Er schrieb absichtlich, der Gegner greife gerade die stärkste Stelle an.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann am Schreiben, Brief ohne lesbaren Text, ein Siegel daneben.
+
+KACHEL 9: Der ausgesandte Bote
+Ort und Zeit: Der ausgesandte Bote
+Sichtbare Figuren: Bote des Metzer Briefs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner erwachsener Bote zum gegnerischen Lager, keine heimliche zweite Kopie im Bild.
+Erzählertext: Der Bote sollte sich mit diesem Schreiben fangen lassen.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner erwachsener Bote zum gegnerischen Lager, keine heimliche zweite Kopie im Bild.
+
+KACHEL 10: Der gefundene Beweis
+Ort und Zeit: Der gefundene Beweis
+Sichtbare Figuren: Karl V. in der Metzer Überlieferung, Bote des Metzer Briefs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher mit einem Blatt, Bote mit leeren Händen unter namenloser Bewachung.
+Erzählertext: Karl bekam den Brief und hielt ihn für eine unverfälschte Nachricht.
+Dialoge: keine
+Kontinuität / Änderung: Herrscher mit einem Blatt, Bote mit leeren Händen unter namenloser Bewachung.
+
+KACHEL 11: Die falsche Verlegung
+Ort und Zeit: Die falsche Verlegung
+Sichtbare Figuren: Karl V. in der Metzer Überlieferung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ferne Soldatengruppen ziehen von beschädigter zu stark befestigter Mauer, kein gleichzeitiger Sieg.
+Erzählertext: Er verlegte den Angriff und gab seine bereits erreichten Vorteile auf.
+Dialoge: keine
+Kontinuität / Änderung: Ferne Soldatengruppen ziehen von beschädigter zu stark befestigter Mauer, kein gleichzeitiger Sieg.
+
+KACHEL 12: Der Abzug
+Ort und Zeit: Der Abzug
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erschöpftes Heer entfernt sich von ungebrochener Stadtmauer, verlassene Zelte hinten.
+Erzählertext: Die Belagerung scheiterte. Die Truppen zogen ab.
+Dialoge: keine
+Kontinuität / Änderung: Erschöpftes Heer entfernt sich von ungebrochener Stadtmauer, verlassene Zelte hinten.
+
+KACHEL 13: Der Spott
+Ort und Zeit: Der Spott
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose erwachsene Stadtbewohner auf einem Platz im Gespräch, keine ausgeschriebenen Spottverse.
+Erzählertext: Spottlieder machten die Niederlage zum Stoff der Erinnerung.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose erwachsene Stadtbewohner auf einem Platz im Gespräch, keine ausgeschriebenen Spottverse.
+
+KACHEL 14: Die gelenkte Gewissheit
+Ort und Zeit: Die gelenkte Gewissheit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner geöffneter Brief auf leerem Feldtisch, Stadtmauer fern.
+Erzählertext: Fahne und Brief waren sichtbare Zeichen. Erst die ungeprüfte Deutung machte sie zu Fallen. Die alten Jahreszahlen und Schuldurteile übernehmen wir nicht als gesicherte Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner geöffneter Brief auf leerem Feldtisch, Stadtmauer fern.

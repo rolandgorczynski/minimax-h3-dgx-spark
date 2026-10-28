@@ -1,0 +1,83 @@
+TITEL: Die Frau von Stein – Der leere Platz
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Witwe von Stein
+Aussehen: Ältere erwachsene Frau, graubraunes Haar unter Haube.
+Kleidung: Dunkelblaues Festkleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Verschwindet ohne erklärte Ursache; kein erfundenes Strafmotiv.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die versammelte Familie
+Ort und Zeit: Die versammelte Familie
+Sichtbare Figuren: Witwe von Stein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Witwe mit zehn verschiedenen erwachsenen Angehörigen am Tisch, keine Kinder oder fremden Gäste.
+Erzählertext: Die Frau von Stein lud ihre vier Töchter, deren Männer und ihre beiden Söhne ein.
+Dialoge: keine
+Kontinuität / Änderung: Eine Witwe mit zehn verschiedenen erwachsenen Angehörigen am Tisch, keine Kinder oder fremden Gäste.
+
+KACHEL 2: Der ausgesprochene Stolz
+Ort und Zeit: Der ausgesprochene Stolz
+Sichtbare Figuren: Witwe von Stein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine ältere Frau mit einem Becher, andere Erwachsene hören zu.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Witwe von Stein
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Welche Witwe könnte sich glücklicher nennen?“
+Kontinuität / Änderung: Eine ältere Frau mit einem Becher, andere Erwachsene hören zu.
+
+KACHEL 3: Der gemeinsame Wunsch
+Ort und Zeit: Der gemeinsame Wunsch
+Sichtbare Figuren: Witwe von Stein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Festtisch, unterschiedliche erwachsene Hände mit Bechern, keine mehrfachen Gastgeberinnen.
+Erzählertext: Die Familie pries ihr Glück und wünschte ihr langes Leben.
+Dialoge: keine
+Kontinuität / Änderung: Ein Festtisch, unterschiedliche erwachsene Hände mit Bechern, keine mehrfachen Gastgeberinnen.
+
+KACHEL 4: Der kurze Ausgang
+Ort und Zeit: Der kurze Ausgang
+Sichtbare Figuren: Witwe von Stein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau verlässt den Saal, leerer Stuhl am Kopfende bleibt.
+Erzählertext: Nach einer Weile ging sie hinaus, als wolle sie etwas anordnen.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau verlässt den Saal, leerer Stuhl am Kopfende bleibt.
+
+KACHEL 5: Das weiterlaufende Fest
+Ort und Zeit: Das weiterlaufende Fest
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Angehörige sprechen weiter, ein einzelner leerer Stuhl deutlich am Kopf des Tisches.
+Erzählertext: Eine Zeitlang fiel niemandem auf, dass sie nicht zurückkam.
+Dialoge: keine
+Kontinuität / Änderung: Angehörige sprechen weiter, ein einzelner leerer Stuhl deutlich am Kopf des Tisches.
+
+KACHEL 6: Die Suche im Zimmer
+Ort und Zeit: Die Suche im Zimmer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres Schlafzimmer mit unbenutztem Bett, zwei namenlose erwachsene Frauen in der Tür.
+Erzählertext: Die Töchter fanden sie nicht in ihrem Zimmer.
+Dialoge: keine
+Kontinuität / Änderung: Leeres Schlafzimmer mit unbenutztem Bett, zwei namenlose erwachsene Frauen in der Tür.
+
+KACHEL 7: Niemand hatte sie gesehen
+Ort und Zeit: Niemand hatte sie gesehen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose erwachsene Hausleute stehen ratlos im Flur, keine versteckte Leiche oder Geheimtür.
+Erzählertext: Auch das Gesinde wusste nicht, wohin sie gegangen war.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose erwachsene Hausleute stehen ratlos im Flur, keine versteckte Leiche oder Geheimtür.
+
+KACHEL 8: Das ungelöste Ende
+Ort und Zeit: Das ungelöste Ende
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Festsaal, ihr einzelner Stuhl am Kopfende, Becher unberührt davor.
+Erzählertext: Sie kehrte nie wieder. Die Sage nennt weder Ursache noch Täter; aus dem Verlust wird keine erfundene Strafe für ihren Stolz.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Festsaal, ihr einzelner Stuhl am Kopfende, Becher unberührt davor.

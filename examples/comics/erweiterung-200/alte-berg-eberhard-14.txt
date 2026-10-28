@@ -1,0 +1,145 @@
+TITEL: Der Alte-Berg – Dienen statt herrschen
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Eberhard vom Alten-Berg
+Aussehen: Erwachsener Mann mit dunklem kurzem Bart, später grauer Bart.
+Kleidung: Grauer Reisemantel und braune Hose.
+Persönlichkeit und Vorgeschichte: Wählt nach Schmerz und Pilgerfahrt den Dienst statt Herrschaft.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Adolf vom Alten-Berg
+Aussehen: Erwachsener Mann mit braunem Vollbart, später ergraut.
+Kleidung: Dunkelgrüner langer Rock und Schuhe.
+Persönlichkeit und Vorgeschichte: Bruder, der den Verlorenen vermisst und später die neue Gemeinschaft mitträgt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wiederfindender Freund Eberhards
+Aussehen: Erwachsener Mann mit schwarzem Haar und kurzem Bart.
+Kleidung: Brauner Pilgermantel und Stiefel.
+Persönlichkeit und Vorgeschichte: Bruder der verstorbenen Geliebten, findet Eberhard im niedrigen Dienst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Verlust
+Ort und Zeit: Der Verlust
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann im grauen Mantel, leerer Platz gegenüber.
+Erzählertext: Eberhard verlor die Frau, die er liebte.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann im grauen Mantel, leerer Platz gegenüber.
+
+KACHEL 2: Der Lärm als Ausweg
+Ort und Zeit: Der Lärm als Ausweg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Schlachtlandschaft mit zurückgelassenem Schild, keine Tötungsszene.
+Erzählertext: Er suchte im Kampf den Schmerz zu übertönen und kehrte verwundet nicht mit den anderen heim.
+Dialoge: keine
+Kontinuität / Änderung: Leere Schlachtlandschaft mit zurückgelassenem Schild, keine Tötungsszene.
+
+KACHEL 3: Die angenommenen Toten
+Ort und Zeit: Die angenommenen Toten
+Sichtbare Figuren: Adolf vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Bruder vor leerem Burgweg, niemand bringt einen Körper.
+Erzählertext: Die Seinen hielten ihn für tot.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Bruder vor leerem Burgweg, niemand bringt einen Körper.
+
+KACHEL 4: Die Pilgerwege
+Ort und Zeit: Die Pilgerwege
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Mann zu Fuß mit schlichtem Pilgergepäck, Wunde geschlossen verbunden.
+Erzählertext: Eberhard zog als Pilger weiter.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Mann zu Fuß mit schlichtem Pilgergepäck, Wunde geschlossen verbunden.
+
+KACHEL 5: Bei den Verwandten
+Ort und Zeit: Bei den Verwandten
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor einer thüringischen Burg, beide zu Fuß.
+Erzählertext: Bei Verwandten in Thüringen riet er zur Gründung eines Klosters.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene vor einer thüringischen Burg, beide zu Fuß.
+
+KACHEL 6: Die Abtwürde
+Ort und Zeit: Die Abtwürde
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann nun in brauner Kutte vor wenigen Mönchen, kein prunkvoller Thron.
+Erzählertext: In Georgenthal wurde er erster Abt.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann nun in brauner Kutte vor wenigen Mönchen, kein prunkvoller Thron.
+
+KACHEL 7: Der freiwillige Verzicht
+Ort und Zeit: Der freiwillige Verzicht
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Mönch mit kleinem Bündel, keine mitgenommene Amtsinsignie.
+Erzählertext: Doch er wollte dienen, nicht herrschen. Er legte die Würde nieder.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Mönch mit kleinem Bündel, keine mitgenommene Amtsinsignie.
+
+KACHEL 8: Der niedrige Dienst
+Ort und Zeit: Der niedrige Dienst
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mönch mit grauer werdendem Bart führt Schweine auf einer Weide, keine Karikatur des Dienstes.
+Erzählertext: In Morimund hütete er unerkannt die Schweine.
+Dialoge: keine
+Kontinuität / Änderung: Ein älterer Mönch mit grauer werdendem Bart führt Schweine auf einer Weide, keine Karikatur des Dienstes.
+
+KACHEL 9: Die unvermutete Begegnung
+Ort und Zeit: Die unvermutete Begegnung
+Sichtbare Figuren: Wiederfindender Freund Eberhards, Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Weiderand, Freund im Pilgermantel, Eberhard in einfacher brauner Kutte.
+Erzählertext: Der Bruder seiner verstorbenen Geliebten erkannte ihn auf einer Pilgerfahrt.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene am Weiderand, Freund im Pilgermantel, Eberhard in einfacher brauner Kutte.
+
+KACHEL 10: Die mögliche Heimkehr
+Ort und Zeit: Die mögliche Heimkehr
+Sichtbare Figuren: Eberhard vom Alten-Berg, Wiederfindender Freund Eberhards
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer mit offenen leeren Händen.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Eberhard vom Alten-Berg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann zurück zum alten Berg.“
+Kontinuität / Änderung: Zwei Männer mit offenen leeren Händen.
+
+KACHEL 11: Die gemeinsame Reise
+Ort und Zeit: Die gemeinsame Reise
+Sichtbare Figuren: Eberhard vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mönch vorn, zwölf kleine getrennte Mönchsgestalten hinten auf dem Weg.
+Erzählertext: Mit zwölf Brüdern durfte er in seine Heimat ziehen.
+Dialoge: keine
+Kontinuität / Änderung: Ein älterer Mönch vorn, zwölf kleine getrennte Mönchsgestalten hinten auf dem Weg.
+
+KACHEL 12: Das verwandelte Haus
+Ort und Zeit: Das verwandelte Haus
+Sichtbare Figuren: Eberhard vom Alten-Berg, Adolf vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Brüder vor einer Burg, die zum schlichten Kloster umgebaut wird.
+Erzählertext: Aus Burg Berg wurde ein Kloster. Auch Adolf trat in die neue Gemeinschaft ein.
+Dialoge: keine
+Kontinuität / Änderung: Zwei ältere Brüder vor einer Burg, die zum schlichten Kloster umgebaut wird.
+
+KACHEL 13: Der Abschied
+Ort und Zeit: Der Abschied
+Sichtbare Figuren: Eberhard vom Alten-Berg, Adolf vom Alten-Berg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Männer im einfachen Klosterzimmer, Eberhard bedeckt, Adolf weint.
+Erzählertext: Eberhard starb. Die Sage lässt ihn die spätere Stunde des Wiedersehens ankündigen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei alte Männer im einfachen Klosterzimmer, Eberhard bedeckt, Adolf weint.
+
+KACHEL 14: Die neue Bedeutung des Ortes
+Ort und Zeit: Die neue Bedeutung des Ortes
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges Kloster über dem Tal, keine ewige Herrschaftspose oder geöffnete Gräber.
+Erzählertext: Adolf folgte ihm im Tod. Aus dem Sitz der Macht war für beide ein Ort des Dienens und gemeinsamer Erinnerung geworden.
+Dialoge: keine
+Kontinuität / Änderung: Ruhiges Kloster über dem Tal, keine ewige Herrschaftspose oder geöffnete Gräber.

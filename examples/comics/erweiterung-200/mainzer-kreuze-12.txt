@@ -50,7 +50,7 @@ KACHEL 5: Die Verehrung
 Ort und Zeit: Die Verehrung
 Sichtbare Figuren: keine
 Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelnes Metallkreuz am Altar, vollständig bekleidete Erwachsene beten davor.
-Erzählertext: Von Heilungen wurde erzählt. Das sind Glaubenswunder dieser Legende, keine medizinische Anleitung.
+Erzählertext: Vor dem Kreuz wurde gebetet, von Heilungen erzählt. Der Ort wurde zum Ziel der Verehrung.
 Dialoge: keine
 Kontinuität / Änderung: Ein einzelnes Metallkreuz am Altar, vollständig bekleidete Erwachsene beten davor.
 

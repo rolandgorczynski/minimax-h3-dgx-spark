@@ -1,0 +1,141 @@
+TITEL: Der kühne Kurzbold – Ein anderer Maßstab
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kunz Kurzbold
+Aussehen: Erwachsener kleinwüchsiger kräftiger Mann mit dunklem Vollbart und erwachsenen Proportionen; kein Kind und keine Miniatur.
+Kleidung: Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.
+Persönlichkeit und Vorgeschichte: Sagenheld, dessen Können nicht aus seiner Körperhöhe ablesbar ist.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Otto der Kurzboldsage
+Aussehen: Erwachsener großer Mann mit kurzem braunem Bart.
+Kleidung: Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Erlebt Kurzbolds Geistesgegenwart.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Löwe der Kurzboldsage
+Aussehen: Ein ausgewachsener goldbrauner Löwe mit Mähne, vier Beinen, einem Schwanz.
+Kleidung: Natürliches Fell.
+Persönlichkeit und Vorgeschichte: Bricht in einer Erzählung aus einem Käfig.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Beiname
+Ort und Zeit: Der Beiname
+Sichtbare Figuren: Kunz Kurzbold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer auf derselben Bodenebene, Kurzbold kleiner aber kräftig, Gesicht erwachsen.
+Erzählertext: Kunz hieß wegen seiner geringen Körperhöhe Kurzbold. Seine Fähigkeiten waren damit nicht beschrieben.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Männer auf derselben Bodenebene, Kurzbold kleiner aber kräftig, Gesicht erwachsen.
+
+KACHEL 2: Die erste Bewährung
+Ort und Zeit: Die erste Bewährung
+Sichtbare Figuren: Kunz Kurzbold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleiner erwachsener Mann mit einer einzelnen Lanze, zwei Dutzend Begleiter nur fern.
+Erzählertext: Mit wenigen Männern erwartete er ein gegnerisches Heer am Rhein.
+Dialoge: keine
+Kontinuität / Änderung: Kleiner erwachsener Mann mit einer einzelnen Lanze, zwei Dutzend Begleiter nur fern.
+
+KACHEL 3: Der angreifende Nachen
+Ort und Zeit: Der angreifende Nachen
+Sichtbare Figuren: Kunz Kurzbold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot nähert sich dem Ufer, Kurzbolds Lanzenspitze zum Boot, keine eindringende Spitze in Menschen.
+Erzählertext: Die Sage lässt ihn einen Nachen durch einen mächtigen Stoß zum Sinken bringen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Boot nähert sich dem Ufer, Kurzbolds Lanzenspitze zum Boot, keine eindringende Spitze in Menschen.
+
+KACHEL 4: Die harte Schlachtfolge
+Ort und Zeit: Die harte Schlachtfolge
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres Ufer mit beschädigtem Boot, keine Ertrinkenden oder offenen Wunden.
+Erzählertext: Auch einen bereits gelandeten Gegner tötete er. Diese Heldensage erzählt zugleich von tödlicher Gewalt.
+Dialoge: keine
+Kontinuität / Änderung: Leeres Ufer mit beschädigtem Boot, keine Ertrinkenden oder offenen Wunden.
+
+KACHEL 5: Bei König Otto
+Ort und Zeit: Bei König Otto
+Sichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer, kleiner Held links, größerer Herrscher rechts. Klinge steckt wieder links vollständig.
+Erzählertext: Später schätzte auch Otto seine Dienste.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Männer, kleiner Held links, größerer Herrscher rechts. Klinge steckt wieder links vollständig.
+
+KACHEL 6: Der offene Käfig
+Ort und Zeit: Der offene Käfig
+Sichtbare Figuren: Löwe der Kurzboldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Löwe mit vier Beinen, eiserner Käfig dahinter leer.
+Erzählertext: Ein Löwe brach aus seinem Käfig.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Löwe mit vier Beinen, eiserner Käfig dahinter leer.
+
+KACHEL 7: Die bedrohten Männer
+Ort und Zeit: Die bedrohten Männer
+Sichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage, Löwe der Kurzboldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei getrennte Körper, Otto greift in Richtung des linken Schwertgriffs Kurzbolds, berührt ihn noch nicht.
+Erzählertext: Der unbewaffnete König wollte nach Kurzbolds Schwert greifen.
+Dialoge: keine
+Kontinuität / Änderung: Drei getrennte Körper, Otto greift in Richtung des linken Schwertgriffs Kurzbolds, berührt ihn noch nicht.
+
+KACHEL 8: Die schnellere Entscheidung
+Ort und Zeit: Die schnellere Entscheidung
+Sichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Klinge rechts, linke Scheide leer ohne Griff. Otto hat beide Hände leer.
+Erzählertext: Kurzbold kam ihm zuvor und stellte sich dem Tier.
+Dialoge: keine
+Kontinuität / Änderung: Klinge rechts, linke Scheide leer ohne Griff. Otto hat beide Hände leer.
+
+KACHEL 9: Nach der Gefahr
+Ort und Zeit: Nach der Gefahr
+Sichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, regloser Löwenkörper nur fern im Schatten ohne Wunddetails.
+Erzählertext: Er tötete den Löwen. Der König blieb unverletzt.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer, regloser Löwenkörper nur fern im Schatten ohne Wunddetails.
+
+KACHEL 10: Die große Herausforderung
+Ort und Zeit: Die große Herausforderung
+Sichtbare Figuren: Kunz Kurzbold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner erwachsener Mann mit einer Lanze vor einem namenlosen sehr großen erwachsenen Gegner, beide zu Fuß. Klinge eingesteckt.
+Erzählertext: Eine weitere Episode stellt ihm einen sehr großen Herausforderer gegenüber.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner erwachsener Mann mit einer Lanze vor einem namenlosen sehr großen erwachsenen Gegner, beide zu Fuß. Klinge eingesteckt.
+
+KACHEL 11: Die bewegliche Antwort
+Ort und Zeit: Die bewegliche Antwort
+Sichtbare Figuren: Kunz Kurzbold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kurzbold tritt neben die gerade Angriffslinie des Gegners, hält seine eine Lanze körpernah. Keine zusätzlichen Arme.
+Erzählertext: Nicht die Höhe entschied. Er wich aus und besiegte den Gegner.
+Dialoge: keine
+Kontinuität / Änderung: Kurzbold tritt neben die gerade Angriffslinie des Gegners, hält seine eine Lanze körpernah. Keine zusätzlichen Arme.
+
+KACHEL 12: Die Stiftung
+Ort und Zeit: Die Stiftung
+Sichtbare Figuren: Kunz Kurzbold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Held zu Fuß vor neuer Kirche, keine Waffe in den Händen.
+Erzählertext: Kurzbold stiftete in Limburg die Georgskirche.
+Dialoge: keine
+Kontinuität / Änderung: Held zu Fuß vor neuer Kirche, keine Waffe in den Händen.
+
+KACHEL 13: Die Erinnerung im Stein
+Ort und Zeit: Die Erinnerung im Stein
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossenes steinernes Rittergrab in einer Kirche, Bildwerk als Bildwerk erkennbar.
+Erzählertext: Dort blieb sein Grab als Erinnerungszeichen erhalten.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossenes steinernes Rittergrab in einer Kirche, Bildwerk als Bildwerk erkennbar.
+
+KACHEL 14: Die Grenze des Eindrucks
+Ort und Zeit: Die Grenze des Eindrucks
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Außenansicht der Kirche am Fluss, keine riesenhafte Statue als Größenkorrektur.
+Erzählertext: Die Erzählung misst Können nicht an Körperhöhe. Kurzbolds Mut und seine schnelle Entscheidung blieben im Gedächtnis.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige Außenansicht der Kirche am Fluss, keine riesenhafte Statue als Größenkorrektur.

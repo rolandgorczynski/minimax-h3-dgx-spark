@@ -1,0 +1,585 @@
+{
+  "mode": "editorial",
+  "name": "Fastradas Liebeszauber – Wohin der Ring fällt · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Fastradas Liebeszauber. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 125.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nMit einer unsterblichen Liebe liebte Kaiser Karl sein Ehegemahl Fastrada, bis sie erkrankte und starb. Dies geschah zu Frankfurt am Main, von wannen ihr Leichnam erhoben ward und gen Mainz geführt, ihn allda zu bestatten. Aber der Kaiser wich nicht von der Verstorbenen und duldete nicht, daß man sie von ihm entferne, denn es fesselte ihn ein Zauber, wie vorher an die Lebende, so jetzt an die Tote. Das ward des Kaisers Umgebung auf die Länge ganz unerträglich, fort und fort den Stank der Verwesung zu atmen, und endlich ahnete der weise Turpin, des Kaisers Ohm und Bischof von Mainz, daß ein Zauber hier walte, suchte und fand im Munde der Toten, oder nach andern in ihr Haar geflochten, den Ring mit dem Edelstein, den damals zu Zürch die Schlange in des Königs Becher gesenkt, und nahm den Ring an sich. Alsbald wich der Zauber von Fastradens Leichnam, die dem Kaiser bislang noch immer schön und frisch und blühend, wie eine Schlafende, erschienen war, deshalb er sie auch nicht zu bestatten erlaubte – und er erbebte jetzt vor ihrem Anblick und wollte sie nicht mehr sehen. Also ward Fastrada bestattet, aber nun wandte sich Karls ganze Liebe dem Erzbischof zu, der nun schon wußte, woher diese Neigung stamme. Und als Erzbischof Turpin im Gefolge des Kaisers gen Aachen zog, da sah er unterm Frankenberge einen schönen See, der war still und tief und heimlich. Dahinein warf Turpin den Schlangenring. Alsobald entwich die Zauberliebe aus Karols Herzen und wandte sich nun zu diesem See, wollte nimmer von ihm scheiden. Ließ ein Schloß zur Wohnstätte auf den Berg über dem See bauen, da weilte er nun immerdar und hatte seine Augen stündlich auf den See gerichtet und verordnete, daß man ihn bei seinem Absterben allda in seinem Münster zu Aachen begraben solle, befahl auch, daß alle seine Nachfolger zu Aachen vor ihrer Krönung sich sollten salben und weihen lassen, welches auch also geschehen ist in langer Reihe deutscher Kaiser bis nahe heran an die neue Zeit, da man nicht mehr deutsche Kaiser zu salben und zu krönen hatte und das Reich ein Ende genommen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Fastradas Liebeszauber. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 125.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nMit einer unsterblichen Liebe liebte Kaiser Karl sein Ehegemahl Fastrada, bis sie erkrankte und starb. Dies geschah zu Frankfurt am Main, von wannen ihr Leichnam erhoben ward und gen Mainz geführt, ihn allda zu bestatten. Aber der Kaiser wich nicht von der Verstorbenen und duldete nicht, daß man sie von ihm entferne, denn es fesselte ihn ein Zauber, wie vorher an die Lebende, so jetzt an die Tote. Das ward des Kaisers Umgebung auf die Länge ganz unerträglich, fort und fort den Stank der Verwesung zu atmen, und endlich ahnete der weise Turpin, des Kaisers Ohm und Bischof von Mainz, daß ein Zauber hier walte, suchte und fand im Munde der Toten, oder nach andern in ihr Haar geflochten, den Ring mit dem Edelstein, den damals zu Zürch die Schlange in des Königs Becher gesenkt, und nahm den Ring an sich. Alsbald wich der Zauber von Fastradens Leichnam, die dem Kaiser bislang noch immer schön und frisch und blühend, wie eine Schlafende, erschienen war, deshalb er sie auch nicht zu bestatten erlaubte – und er erbebte jetzt vor ihrem Anblick und wollte sie nicht mehr sehen. Also ward Fastrada bestattet, aber nun wandte sich Karls ganze Liebe dem Erzbischof zu, der nun schon wußte, woher diese Neigung stamme. Und als Erzbischof Turpin im Gefolge des Kaisers gen Aachen zog, da sah er unterm Frankenberge einen schönen See, der war still und tief und heimlich. Dahinein warf Turpin den Schlangenring. Alsobald entwich die Zauberliebe aus Karols Herzen und wandte sich nun zu diesem See, wollte nimmer von ihm scheiden. Ließ ein Schloß zur Wohnstätte auf den Berg über dem See bauen, da weilte er nun immerdar und hatte seine Augen stündlich auf den See gerichtet und verordnete, daß man ihn bei seinem Absterben allda in seinem Münster zu Aachen begraben solle, befahl auch, daß alle seine Nachfolger zu Aachen vor ihrer Krönung sich sollten salben und weihen lassen, welches auch also geschehen ist in langer Reihe deutscher Kaiser bis nahe heran an die neue Zeit, da man nicht mehr deutsche Kaiser zu salben und zu krönen hatte und das Reich ein Ende genommen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Die starke Bindung",
+        "setting": "Die starke Bindung",
+        "characters": [
+          "afe2cb4b27645db8bff9a331d34de476",
+          "386f24319a0d5b5981cb068e21be84bb"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene in ruhigem Raum, kleiner Ringschimmer im dunklen Haar der Frau.",
+        "dialog": "Karl liebte Fastrada. Die Sage verbindet die übermächtige Bindung mit dem Schlangenring.",
+        "bubbles": [],
+        "character_states": {
+          "afe2cb4b27645db8bff9a331d34de476": "sitzt bei Fastrada; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "386f24319a0d5b5981cb068e21be84bb": "sitzt neben ihm; Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene in ruhigem Raum, kleiner Ringschimmer im dunklen Haar der Frau.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die starke Bindung",
+            "posture": "sitzt bei Fastrada"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die starke Bindung",
+            "posture": "sitzt neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Die Krankheit",
+        "setting": "Die Krankheit",
+        "characters": [
+          "386f24319a0d5b5981cb068e21be84bb",
+          "afe2cb4b27645db8bff9a331d34de476"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau im Bett, Mann mit leeren Händen am Rand, keine medizinischen Geräte.",
+        "dialog": "Fastrada erkrankte und starb.",
+        "bubbles": [],
+        "character_states": {
+          "386f24319a0d5b5981cb068e21be84bb": "liegt bekleidet unter einer Decke; Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.; Lebenszustand: lebend",
+          "afe2cb4b27645db8bff9a331d34de476": "sitzt daneben; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Frau im Bett, Mann mit leeren Händen am Rand, keine medizinischen Geräte.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die Krankheit",
+            "posture": "sitzt daneben"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          }
+        }
+      },
+      {
+        "heading": "Der verweigerte Abschied",
+        "setting": "Der verweigerte Abschied",
+        "characters": [
+          "afe2cb4b27645db8bff9a331d34de476"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bedeckte ruhige Liegestatt, Karl bleibt daneben, kein verwesender Körper.",
+        "dialog": "Er wollte sich von der Toten nicht trennen und erlaubte ihre Bestattung nicht.",
+        "bubbles": [],
+        "character_states": {
+          "afe2cb4b27645db8bff9a331d34de476": "sitzt vor geschlossener verhüllter Liegestatt; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Bedeckte ruhige Liegestatt, Karl bleibt daneben, kein verwesender Körper.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der verweigerte Abschied",
+            "posture": "sitzt vor geschlossener verhüllter Liegestatt"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          }
+        }
+      },
+      {
+        "heading": "Turpins Vermutung",
+        "setting": "Turpins Vermutung",
+        "characters": [
+          "9c571b5e59235cfb9997f26e69623f17",
+          "afe2cb4b27645db8bff9a331d34de476"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer im stillen Raum, Totenliege außerhalb des Ausschnitts.",
+        "dialog": "Turpin vermutete einen Zauber.",
+        "bubbles": [],
+        "character_states": {
+          "9c571b5e59235cfb9997f26e69623f17": "steht hinter Karl; Graues geistliches Gewand.; Lebenszustand: lebend",
+          "afe2cb4b27645db8bff9a331d34de476": "sitzt unverändert; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer im stillen Raum, Totenliege außerhalb des Ausschnitts.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Turpins Vermutung",
+            "posture": "sitzt unverändert"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Turpins Vermutung",
+            "posture": "steht hinter Karl"
+          }
+        }
+      },
+      {
+        "heading": "Der gefundene Ring",
+        "setting": "Der gefundene Ring",
+        "characters": [
+          "9c571b5e59235cfb9997f26e69623f17"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Ring in seiner offenen Hand, verhüllte Liegestatt weit hinten. Keine Berührung des Mundes oder Leichendetails.",
+        "dialog": "Er fand den Ring in ihrem Haar und nahm ihn an sich.",
+        "bubbles": [],
+        "character_states": {
+          "9c571b5e59235cfb9997f26e69623f17": "hält einen einzelnen Ring; Graues geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Ring in seiner offenen Hand, verhüllte Liegestatt weit hinten. Keine Berührung des Mundes oder Leichendetails.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Turpins Vermutung",
+            "posture": "sitzt unverändert"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Der gefundene Ring",
+            "posture": "hält einen einzelnen Ring"
+          }
+        }
+      },
+      {
+        "heading": "Der gelöste Blick",
+        "setting": "Der gelöste Blick",
+        "characters": [
+          "afe2cb4b27645db8bff9a331d34de476"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl allein im Vordergrund, Liegestatt weiter verhüllt.",
+        "dialog": "Sogleich konnte Karl den Tod wahrnehmen. Fastrada wurde bestattet.",
+        "bubbles": [],
+        "character_states": {
+          "afe2cb4b27645db8bff9a331d34de476": "steht von seinem Stuhl auf; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Karl allein im Vordergrund, Liegestatt weiter verhüllt.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der gelöste Blick",
+            "posture": "steht von seinem Stuhl auf"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Der gefundene Ring",
+            "posture": "hält einen einzelnen Ring"
+          }
+        }
+      },
+      {
+        "heading": "Die neue Bindung",
+        "setting": "Die neue Bindung",
+        "characters": [
+          "afe2cb4b27645db8bff9a331d34de476",
+          "9c571b5e59235cfb9997f26e69623f17"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer auf einem Weg, Ring im verschlossenen Beutel des Geistlichen.",
+        "dialog": "Nun galt Karls ganze Zuneigung Turpin.",
+        "bubbles": [],
+        "character_states": {
+          "afe2cb4b27645db8bff9a331d34de476": "geht dicht hinter Turpin; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend",
+          "9c571b5e59235cfb9997f26e69623f17": "geht mit geschlossenem Beutel; Graues geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei erwachsene Männer auf einem Weg, Ring im verschlossenen Beutel des Geistlichen.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die neue Bindung",
+            "posture": "geht dicht hinter Turpin"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Die neue Bindung",
+            "posture": "geht mit geschlossenem Beutel"
+          }
+        }
+      },
+      {
+        "heading": "Die erkannte Ursache",
+        "setting": "Die erkannte Ursache",
+        "characters": [
+          "9c571b5e59235cfb9997f26e69623f17"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann betrachtet denselben einen Ring vor tiefem ruhigem Wasser.",
+        "dialog": "Turpin wusste, dass die neue Nähe vom Ring ausging.",
+        "bubbles": [],
+        "character_states": {
+          "9c571b5e59235cfb9997f26e69623f17": "steht allein am See; Graues geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein alter Mann betrachtet denselben einen Ring vor tiefem ruhigem Wasser.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die neue Bindung",
+            "posture": "geht dicht hinter Turpin"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Die erkannte Ursache",
+            "posture": "steht allein am See"
+          }
+        }
+      },
+      {
+        "heading": "Das abgegebene Zeichen",
+        "setting": "Das abgegebene Zeichen",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Ring fällt über dunklem Seewasser, keine weitere Kopie in einer Hand.",
+        "dialog": "Unter dem Frankenberg warf er ihn in den See.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein einzelner Ring fällt über dunklem Seewasser, keine weitere Kopie in einer Hand.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Die neue Bindung",
+            "posture": "geht dicht hinter Turpin"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Die erkannte Ursache",
+            "posture": "steht allein am See"
+          }
+        }
+      },
+      {
+        "heading": "Der dritte Gegenstand",
+        "setting": "Der dritte Gegenstand",
+        "characters": [
+          "afe2cb4b27645db8bff9a331d34de476"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl allein blickt auf das Wasser, keine Fastradageister oder Turpinkopie darin.",
+        "dialog": "Jetzt konnte Karl von diesem Ort nicht mehr lassen.",
+        "bubbles": [],
+        "character_states": {
+          "afe2cb4b27645db8bff9a331d34de476": "sitzt am Seeufer; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Karl allein blickt auf das Wasser, keine Fastradageister oder Turpinkopie darin.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Der dritte Gegenstand",
+            "posture": "sitzt am Seeufer"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Die erkannte Ursache",
+            "posture": "steht allein am See"
+          }
+        }
+      },
+      {
+        "heading": "Das Haus über dem Wasser",
+        "setting": "Das Haus über dem Wasser",
+        "characters": [
+          "afe2cb4b27645db8bff9a331d34de476"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann blickt aus einem Schlossfenster zum See, keine andere Person wird festgehalten.",
+        "dialog": "Er ließ sich über dem See eine Wohnstätte bauen und wünschte dort seine spätere Bestattung.",
+        "bubbles": [],
+        "character_states": {
+          "afe2cb4b27645db8bff9a331d34de476": "steht am Fenster eines neuen Hauses; Dunkelroter Herrscherrock, schmaler goldener Reif.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann blickt aus einem Schlossfenster zum See, keine andere Person wird festgehalten.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Das Haus über dem Wasser",
+            "posture": "steht am Fenster eines neuen Hauses"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Die erkannte Ursache",
+            "posture": "steht allein am See"
+          }
+        }
+      },
+      {
+        "heading": "Die gebundene Aufmerksamkeit",
+        "setting": "Die gebundene Aufmerksamkeit",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiger See vor einem Schloss, Ring tief im Wasser unsichtbar.",
+        "dialog": "Der Gegenstand wechselte, die Unfreiheit blieb. Die Sage trennt überwältigendes Gefühl von einem frei wahrgenommenen Gegenüber.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ruhiger See vor einem Schloss, Ring tief im Wasser unsichtbar.",
+        "continuity_state": {
+          "afe2cb4b27645db8bff9a331d34de476": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+            "location": "Das Haus über dem Wasser",
+            "posture": "steht am Fenster eines neuen Hauses"
+          },
+          "386f24319a0d5b5981cb068e21be84bb": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+            "location": "Die Krankheit",
+            "posture": "liegt bekleidet unter einer Decke"
+          },
+          "9c571b5e59235cfb9997f26e69623f17": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues geistliches Gewand.",
+            "location": "Die erkannte Ursache",
+            "posture": "steht allein am See"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Karl in der Fastradasage",
+        "description": "Älterer Mann mit langem grauem Bart.",
+        "outfit": "Dunkelroter Herrscherrock, schmaler goldener Reif.",
+        "backstory": "Seine Aufmerksamkeit wird im Sagenbild vom Ring gebunden.",
+        "id": "afe2cb4b27645db8bff9a331d34de476",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Fastrada der Liebeszaubersage",
+        "description": "Erwachsene Frau mit langem dunklem Haar.",
+        "outfit": "Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.",
+        "backstory": "Stirbt, bleibt aber zunächst Gegenstand des Zaubers.",
+        "id": "386f24319a0d5b5981cb068e21be84bb",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Turpin der Liebeszaubersage",
+        "description": "Älterer Mann mit weißem kurzem Bart.",
+        "outfit": "Graues geistliches Gewand.",
+        "backstory": "Erkennt den wechselnden Auslöser und wirft den Ring in einen See.",
+        "id": "9c571b5e59235cfb9997f26e69623f17",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Woran lässt sich Bindung von einer freien Beziehung unterscheiden?",
+      "core": "Ein überwältigendes Gefühl kann den Blick auf den anderen verdrängen und an einem äußeren Auslöser hängen. Der wechselnde Gegenstand zeigt eine gebundene Aufmerksamkeit, nicht den jeweils neu bewiesenen Wert des Geliebten.",
+      "ending": "Der Ring liegt im See; Karls unfreie Zuneigung bleibt auf diesen Ort gerichtet.",
+      "reason": "Tod, entdeckter Auslöser, mehrfacher Wechsel und bleibende Ortsbindung unterscheiden; den Zauber nicht schon mit dem ersten Ringwechsel als beendet zeigen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "nun wandte sich Karls ganze Liebe dem Erzbischof zu",
+          "meaning": "Die sofortige Umlenkung offenbart die Macht des Rings über die scheinbar persönliche Entscheidung."
+        }
+      ],
+      "causal_chain": [
+        "nun wandte sich Karls ganze Liebe dem Erzbischof zu",
+        "Der Ring liegt im See; Karls unfreie Zuneigung bleibt auf diesen Ort gerichtet."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "c1fc82fd0e3a46a66022f5938773a39a87df08f392d2c1386305d3c5ada036b1",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.710389+00:00"
+    },
+    "post_summary": "Karls Gefühl scheint unsterblich. Als ein Ring den Ort wechselt, wandert auch seine ganze Aufmerksamkeit weiter.",
+    "source_provenance": {
+      "title": "Fastradas Liebeszauber",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 125.",
+      "url": "https://textgridrep.org/browse/kjcw.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Fastradas Liebeszauber. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 125.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nMit einer unsterblichen Liebe liebte Kaiser Karl sein Ehegemahl Fastrada, bis sie erkrankte und starb. Dies geschah zu Frankfurt am Main, von wannen ihr Leichnam erhoben ward und gen Mainz geführt, ihn allda zu bestatten. Aber der Kaiser wich nicht von der Verstorbenen und duldete nicht, daß man sie von ihm entferne, denn es fesselte ihn ein Zauber, wie vorher an die Lebende, so jetzt an die Tote. Das ward des Kaisers Umgebung auf die Länge ganz unerträglich, fort und fort den Stank der Verwesung zu atmen, und endlich ahnete der weise Turpin, des Kaisers Ohm und Bischof von Mainz, daß ein Zauber hier walte, suchte und fand im Munde der Toten, oder nach andern in ihr Haar geflochten, den Ring mit dem Edelstein, den damals zu Zürch die Schlange in des Königs Becher gesenkt, und nahm den Ring an sich. Alsbald wich der Zauber von Fastradens Leichnam, die dem Kaiser bislang noch immer schön und frisch und blühend, wie eine Schlafende, erschienen war, deshalb er sie auch nicht zu bestatten erlaubte – und er erbebte jetzt vor ihrem Anblick und wollte sie nicht mehr sehen. Also ward Fastrada bestattet, aber nun wandte sich Karls ganze Liebe dem Erzbischof zu, der nun schon wußte, woher diese Neigung stamme. Und als Erzbischof Turpin im Gefolge des Kaisers gen Aachen zog, da sah er unterm Frankenberge einen schönen See, der war still und tief und heimlich. Dahinein warf Turpin den Schlangenring. Alsobald entwich die Zauberliebe aus Karols Herzen und wandte sich nun zu diesem See, wollte nimmer von ihm scheiden. Ließ ein Schloß zur Wohnstätte auf den Berg über dem See bauen, da weilte er nun immerdar und hatte seine Augen stündlich auf den See gerichtet und verordnete, daß man ihn bei seinem Absterben allda in seinem Münster zu Aachen begraben solle, befahl auch, daß alle seine Nachfolger zu Aachen vor ihrer Krönung sich sollten salben und weihen lassen, welches auch also geschehen ist in langer Reihe deutscher Kaiser bis nahe heran an die neue Zeit, da man nicht mehr deutsche Kaiser zu salben und zu krönen hatte und das Reich ein Ende genommen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Mit einer unsterblichen Liebe liebte Kaiser Karl sein Ehegemahl Fastrada, bis sie erkrankte und starb. Dies geschah zu Frankfurt am Main, von wannen ihr Leichnam erhoben ward und gen Mainz geführt, ihn allda zu bestatten.",
+      "id": "bechstein-sagen-kjcw-0",
+      "category": "Teufel und Zauberei",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "fastrada-ring-12-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Fastradas Liebeszauber – Wohin der Ring fällt · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Fastradas Liebeszauber – Wohin der Ring fällt\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Karl in der Fastradasage\nAussehen: Älterer Mann mit langem grauem Bart.\nKleidung: Dunkelroter Herrscherrock, schmaler goldener Reif.\nPersönlichkeit und Vorgeschichte: Seine Aufmerksamkeit wird im Sagenbild vom Ring gebunden.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Fastrada der Liebeszaubersage\nAussehen: Erwachsene Frau mit langem dunklem Haar.\nKleidung: Blaues langes Kleid, ein kleiner goldener Ring im Haar verborgen.\nPersönlichkeit und Vorgeschichte: Stirbt, bleibt aber zunächst Gegenstand des Zaubers.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Turpin der Liebeszaubersage\nAussehen: Älterer Mann mit weißem kurzem Bart.\nKleidung: Graues geistliches Gewand.\nPersönlichkeit und Vorgeschichte: Erkennt den wechselnden Auslöser und wirft den Ring in einen See.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die starke Bindung\nOrt und Zeit: Die starke Bindung\nSichtbare Figuren: Karl in der Fastradasage, Fastrada der Liebeszaubersage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene in ruhigem Raum, kleiner Ringschimmer im dunklen Haar der Frau.\nErzählertext: Karl liebte Fastrada. Die Sage verbindet die übermächtige Bindung mit dem Schlangenring.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene in ruhigem Raum, kleiner Ringschimmer im dunklen Haar der Frau.\n\nKACHEL 2: Die Krankheit\nOrt und Zeit: Die Krankheit\nSichtbare Figuren: Fastrada der Liebeszaubersage, Karl in der Fastradasage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau im Bett, Mann mit leeren Händen am Rand, keine medizinischen Geräte.\nErzählertext: Fastrada erkrankte und starb.\nDialoge: keine\nKontinuität / Änderung: Frau im Bett, Mann mit leeren Händen am Rand, keine medizinischen Geräte.\n\nKACHEL 3: Der verweigerte Abschied\nOrt und Zeit: Der verweigerte Abschied\nSichtbare Figuren: Karl in der Fastradasage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bedeckte ruhige Liegestatt, Karl bleibt daneben, kein verwesender Körper.\nErzählertext: Er wollte sich von der Toten nicht trennen und erlaubte ihre Bestattung nicht.\nDialoge: keine\nKontinuität / Änderung: Bedeckte ruhige Liegestatt, Karl bleibt daneben, kein verwesender Körper.\n\nKACHEL 4: Turpins Vermutung\nOrt und Zeit: Turpins Vermutung\nSichtbare Figuren: Turpin der Liebeszaubersage, Karl in der Fastradasage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer im stillen Raum, Totenliege außerhalb des Ausschnitts.\nErzählertext: Turpin vermutete einen Zauber.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer im stillen Raum, Totenliege außerhalb des Ausschnitts.\n\nKACHEL 5: Der gefundene Ring\nOrt und Zeit: Der gefundene Ring\nSichtbare Figuren: Turpin der Liebeszaubersage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Ring in seiner offenen Hand, verhüllte Liegestatt weit hinten. Keine Berührung des Mundes oder Leichendetails.\nErzählertext: Er fand den Ring in ihrem Haar und nahm ihn an sich.\nDialoge: keine\nKontinuität / Änderung: Ein Ring in seiner offenen Hand, verhüllte Liegestatt weit hinten. Keine Berührung des Mundes oder Leichendetails.\n\nKACHEL 6: Der gelöste Blick\nOrt und Zeit: Der gelöste Blick\nSichtbare Figuren: Karl in der Fastradasage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl allein im Vordergrund, Liegestatt weiter verhüllt.\nErzählertext: Sogleich konnte Karl den Tod wahrnehmen. Fastrada wurde bestattet.\nDialoge: keine\nKontinuität / Änderung: Karl allein im Vordergrund, Liegestatt weiter verhüllt.\n\nKACHEL 7: Die neue Bindung\nOrt und Zeit: Die neue Bindung\nSichtbare Figuren: Karl in der Fastradasage, Turpin der Liebeszaubersage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer auf einem Weg, Ring im verschlossenen Beutel des Geistlichen.\nErzählertext: Nun galt Karls ganze Zuneigung Turpin.\nDialoge: keine\nKontinuität / Änderung: Zwei erwachsene Männer auf einem Weg, Ring im verschlossenen Beutel des Geistlichen.\n\nKACHEL 8: Die erkannte Ursache\nOrt und Zeit: Die erkannte Ursache\nSichtbare Figuren: Turpin der Liebeszaubersage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann betrachtet denselben einen Ring vor tiefem ruhigem Wasser.\nErzählertext: Turpin wusste, dass die neue Nähe vom Ring ausging.\nDialoge: keine\nKontinuität / Änderung: Ein alter Mann betrachtet denselben einen Ring vor tiefem ruhigem Wasser.\n\nKACHEL 9: Das abgegebene Zeichen\nOrt und Zeit: Das abgegebene Zeichen\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Ring fällt über dunklem Seewasser, keine weitere Kopie in einer Hand.\nErzählertext: Unter dem Frankenberg warf er ihn in den See.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Ring fällt über dunklem Seewasser, keine weitere Kopie in einer Hand.\n\nKACHEL 10: Der dritte Gegenstand\nOrt und Zeit: Der dritte Gegenstand\nSichtbare Figuren: Karl in der Fastradasage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Karl allein blickt auf das Wasser, keine Fastradageister oder Turpinkopie darin.\nErzählertext: Jetzt konnte Karl von diesem Ort nicht mehr lassen.\nDialoge: keine\nKontinuität / Änderung: Karl allein blickt auf das Wasser, keine Fastradageister oder Turpinkopie darin.\n\nKACHEL 11: Das Haus über dem Wasser\nOrt und Zeit: Das Haus über dem Wasser\nSichtbare Figuren: Karl in der Fastradasage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann blickt aus einem Schlossfenster zum See, keine andere Person wird festgehalten.\nErzählertext: Er ließ sich über dem See eine Wohnstätte bauen und wünschte dort seine spätere Bestattung.\nDialoge: keine\nKontinuität / Änderung: Ein Mann blickt aus einem Schlossfenster zum See, keine andere Person wird festgehalten.\n\nKACHEL 12: Die gebundene Aufmerksamkeit\nOrt und Zeit: Die gebundene Aufmerksamkeit\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiger See vor einem Schloss, Ring tief im Wasser unsichtbar.\nErzählertext: Der Gegenstand wechselte, die Unfreiheit blieb. Die Sage trennt überwältigendes Gefühl von einem frei wahrgenommenen Gegenüber.\nDialoge: keine\nKontinuität / Änderung: Ruhiger See vor einem Schloss, Ring tief im Wasser unsichtbar.\n"
+  },
+  "count_policy": "editorial"
+}

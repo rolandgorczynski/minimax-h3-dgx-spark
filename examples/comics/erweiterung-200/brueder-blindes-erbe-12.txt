@@ -1,0 +1,125 @@
+TITEL: Die Brüder – Das umgedrehte Maß
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bruder von Sternfels
+Aussehen: Erwachsener schlanker Mann mit schwarzem kurzem Bart.
+Kleidung: Blaues Wams, graue Hose, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Täuscht mit seinem Bruder die Schwester.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bruder von Liebenstein
+Aussehen: Erwachsener kräftiger Mann mit braunem Vollbart.
+Kleidung: Grünes Wams, braune Hose, schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Beteiligt sich am falschen Maß und wird später Feind seines Bruders.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Blinde Schwester der Brüdersage
+Aussehen: Erwachsene Frau mit braunem Zopf und geschlossenen unverletzten Augen.
+Kleidung: Graues langes Kleid und heller Schleier.
+Persönlichkeit und Vorgeschichte: Vertraut auf ein gleich gefülltes Maß und wird absichtlich betrogen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das neue Erbe
+Ort und Zeit: Das neue Erbe
+Sichtbare Figuren: Bruder von Sternfels, Bruder von Liebenstein, Blinde Schwester der Brüdersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei erwachsene Geschwister um eine geschlossene Geldtruhe.
+Erzählertext: Nach dem Tod der Mutter sollten die Brüder das Erbe mit ihrer blinden Schwester teilen.
+Dialoge: keine
+Kontinuität / Änderung: Drei erwachsene Geschwister um eine geschlossene Geldtruhe.
+
+KACHEL 2: Das volle Maß
+Ort und Zeit: Das volle Maß
+Sichtbare Figuren: Bruder von Sternfels, Bruder von Liebenstein, Blinde Schwester der Brüdersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein normal stehendes volles Holzmaß, ihre Fingerspitzen am Rand, kein zweites Gefäß.
+Erzählertext: Für sich füllten die Brüder das Maß bis zum Rand.
+Dialoge: keine
+Kontinuität / Änderung: Ein normal stehendes volles Holzmaß, ihre Fingerspitzen am Rand, kein zweites Gefäß.
+
+KACHEL 3: Der falsche Boden
+Ort und Zeit: Der falsche Boden
+Sichtbare Figuren: Bruder von Sternfels, Blinde Schwester der Brüdersage, Bruder von Liebenstein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein deutlich umgedrehtes Holzmaß, wenige Münzen auf dessen flachem Boden, dünner Rand darum.
+Erzählertext: Bei der Schwester drehten sie es um. Der bedeckte Boden fühlte sich wie ein volles Maß an.
+Dialoge: keine
+Kontinuität / Änderung: Ein deutlich umgedrehtes Holzmaß, wenige Münzen auf dessen flachem Boden, dünner Rand darum.
+
+KACHEL 4: Das Vertrauen
+Ort und Zeit: Das Vertrauen
+Sichtbare Figuren: Blinde Schwester der Brüdersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau allein am Tisch mit einem kleinen Beutel, kein triumphierender Betrugsausdruck.
+Erzählertext: Sie hielt ihren Anteil für gleich groß.
+Dialoge: keine
+Kontinuität / Änderung: Frau allein am Tisch mit einem kleinen Beutel, kein triumphierender Betrugsausdruck.
+
+KACHEL 5: Was sie daraus tat
+Ort und Zeit: Was sie daraus tat
+Sichtbare Figuren: Blinde Schwester der Brüdersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau reicht einen geschlossenen Beutel, Kirchenhof im Hintergrund.
+Erzählertext: Mit ihrem Anteil stiftete sie Andachten. Die Erzählung stellt ihre Haltung gegen die der Brüder.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau reicht einen geschlossenen Beutel, Kirchenhof im Hintergrund.
+
+KACHEL 6: Der schwindende Besitz
+Ort und Zeit: Der schwindende Besitz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verfallender Burghof mit leerem Futtertrog und beschädigtem Dach, keine geschlachteten Herden.
+Erzählertext: Bei den Brüdern schwanden Besitz und Glück. Ihre Burgen verfielen.
+Dialoge: keine
+Kontinuität / Änderung: Verfallender Burghof mit leerem Futtertrog und beschädigtem Dach, keine geschlachteten Herden.
+
+KACHEL 7: Die Mauer
+Ort und Zeit: Die Mauer
+Sichtbare Figuren: Bruder von Sternfels, Bruder von Liebenstein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer getrennt durch hohe neue Mauer, ihre verschiedenen Burgen fern.
+Erzählertext: Sie wurden zu Feinden und trennten sich durch eine Mauer.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer getrennt durch hohe neue Mauer, ihre verschiedenen Burgen fern.
+
+KACHEL 8: Wieder Freunde
+Ort und Zeit: Wieder Freunde
+Sichtbare Figuren: Bruder von Sternfels, Bruder von Liebenstein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Männer am offenen Weg, Mauerreste seitlich.
+Erzählertext: Erst als das Erbe verbraucht war, versöhnten sie sich untereinander.
+Dialoge: keine
+Kontinuität / Änderung: Zwei ältere Männer am offenen Weg, Mauerreste seitlich.
+
+KACHEL 9: Der Jagdplan
+Ort und Zeit: Der Jagdplan
+Sichtbare Figuren: Bruder von Sternfels, Bruder von Liebenstein
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer im Gespräch, je eine Armbrust liegt getrennt auf einer Bank.
+Erzählertext: Wer zuerst erwache, sollte den anderen durch einen Schuss an dessen Fensterladen wecken.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Männer im Gespräch, je eine Armbrust liegt getrennt auf einer Bank.
+
+KACHEL 10: Der gleiche Augenblick
+Ort und Zeit: Der gleiche Augenblick
+Sichtbare Figuren: Bruder von Sternfels
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nur ein Bruder im Nahbild am Fenster, eine Armbrust in beiden Händen, Gegenfenster fern.
+Erzählertext: Beide erwachten gleichzeitig und öffneten ihre Läden.
+Dialoge: keine
+Kontinuität / Änderung: Nur ein Bruder im Nahbild am Fenster, eine Armbrust in beiden Händen, Gegenfenster fern.
+
+KACHEL 11: Das Ende der Brüder
+Ort und Zeit: Das Ende der Brüder
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei gegenüberliegende offene Fenster von außen, keine getroffenen Körper.
+Erzählertext: Im Hauptbogen der Sage schossen sie gleichzeitig und trafen einander tödlich.
+Dialoge: keine
+Kontinuität / Änderung: Zwei gegenüberliegende offene Fenster von außen, keine getroffenen Körper.
+
+KACHEL 12: Der ungelöste Rest
+Ort und Zeit: Der ungelöste Rest
+Sichtbare Figuren: Blinde Schwester der Brüdersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau in grauem Kleid, Hände leer; keine plötzlich wieder sehenden Augen.
+Erzählertext: Ihre Eintracht hatte den Betrug an der Schwester nie aufgehoben. Die andere Pilgervariante wird hier nicht mit diesem Ende vermischt.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau in grauem Kleid, Hände leer; keine plötzlich wieder sehenden Augen.

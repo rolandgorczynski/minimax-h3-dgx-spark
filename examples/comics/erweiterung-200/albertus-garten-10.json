@@ -1,0 +1,440 @@
+{
+  "mode": "editorial",
+  "name": "Albertus Magnus – Ein Sommer im Winter · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Albertus Magnus. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 115.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs war ein berühmter Mönch und hochgelahrter Doktor des Namens Albertus Magnus, vordessen Bischof zu Regensburg und hernachmals zu Köln am Rheine gestorben und begraben. Er war in allen hohen Künsten erfahren, ja auch ein Baumeister. Manche sagen, daß Albertus Magnus den Grundplan des Kölner Doms erfunden und aufgezeichnet habe, und das Chor der vormaligen Dominikanerkirche habe er auch erbaut. In dieser Kirche ruhten seine Gebeine, kamen aber in St. Andreas' Kirche, als jene der Dominikaner ihre Zerstörung fand.\n\nIm Jahre 1248 kam Kaiser Wilhelm von Holland, Kaiser Friedrich des Zweiten Gegenkaiser, mit ziemlichem Hofstaate gen Köln, und zwar am Tage der heiligen drei Könige, den bat, samt seinem Hofe, Albertus in seinen Klostergarten zu den Predigern zu Gaste. Es war große Kälte eingetreten und fiel ein starker tiefer Schnee, da meinten die Räte und vornehmen Dienstmannen, der Mönch möge wohl sein Gehirn erfroren haben, daß er zu solcher Jahreszeit zu einem Gartenvergnügen einlade, und rieten dem Kaiser, ihrem Herrn, der Einladung keine Folge zu geben. Aber der Kaiser ließ sich dazu nicht bewegen, hieß vielmehr die Seinen ihm folgen, und kamen zu dem Predigerkloster, wurden auch alsobald in den Garten geleitet. Da lagen alle Bäume und Sträucher dick voll Schnee, und waren alle Wege verschneit, und alles Laub und Gras war bedeckt, unter den Bäumen aber standen die Tafeln mit kostbaren Gedecken und Aufsätzen und herrliche Sessel und schmucke Diener zur Aufwartung. Dem Kaiser machte das Seltsame solcher Anordnung eine Lust, und setzte sich auf den für ihn bereiten Stuhl, da mußten die andern sich auch setzen, und die Tafel hub an. Da klärte sich der Himmel auf, und trat lieblicher Sonnenschein herfür, und verging der Schnee wie ein Dunst, und hoben sich Gras und Laub frischgrün zu Tage, und kamen Blumen aus dem Boden hervorgesproßt, und die Bäume alle trieben Laub und Blüten. Auch Vöglein kamen geflogen und sangen gar lieblich, und wurde sehr heiß allmählich, so daß der Bäume Blüten abfielen und die Fruchtkeime schwollen und die Früchte reiften. Und der Kaiser tät seine winterliche Pelzschaube ab, weil ihm allzu warm wurde, und die andern auch die ihrigen. Da nun die Mahlzeit mit großen Freuden geendet war, obschon niemand wußte, wer und von wannen die zierlichen und willfährigen Diener waren und wo die Speisen alle zubereitet wurden, da verloren sich die Diener, und die Vögel sangen nicht mehr und entflohen, die Blumen blühten ab, die Bäume wurden fahl, es ward kühl, dann kalt, die Winterschauben wurden wieder umgehangen, der Kaiser hob die Tafel auf, die Sonne verschwand, der Himmel ward grau, und auf Bäumen, Laub und Gras lag wieder Schnee. Alles eilte in das Kloster, um im warmen Refektorium vor der Kälte gesichert zu sein. Kaiser Wilhelm aber pries seinen kunstfertigen Wirt und begabte ihn und den Konvent mit Gütern reichlich und erlebte nie wieder solch wunderseltsames Gastmahl.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Albertus Magnus. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 115.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs war ein berühmter Mönch und hochgelahrter Doktor des Namens Albertus Magnus, vordessen Bischof zu Regensburg und hernachmals zu Köln am Rheine gestorben und begraben. Er war in allen hohen Künsten erfahren, ja auch ein Baumeister. Manche sagen, daß Albertus Magnus den Grundplan des Kölner Doms erfunden und aufgezeichnet habe, und das Chor der vormaligen Dominikanerkirche habe er auch erbaut. In dieser Kirche ruhten seine Gebeine, kamen aber in St. Andreas' Kirche, als jene der Dominikaner ihre Zerstörung fand.\n\nIm Jahre 1248 kam Kaiser Wilhelm von Holland, Kaiser Friedrich des Zweiten Gegenkaiser, mit ziemlichem Hofstaate gen Köln, und zwar am Tage der heiligen drei Könige, den bat, samt seinem Hofe, Albertus in seinen Klostergarten zu den Predigern zu Gaste. Es war große Kälte eingetreten und fiel ein starker tiefer Schnee, da meinten die Räte und vornehmen Dienstmannen, der Mönch möge wohl sein Gehirn erfroren haben, daß er zu solcher Jahreszeit zu einem Gartenvergnügen einlade, und rieten dem Kaiser, ihrem Herrn, der Einladung keine Folge zu geben. Aber der Kaiser ließ sich dazu nicht bewegen, hieß vielmehr die Seinen ihm folgen, und kamen zu dem Predigerkloster, wurden auch alsobald in den Garten geleitet. Da lagen alle Bäume und Sträucher dick voll Schnee, und waren alle Wege verschneit, und alles Laub und Gras war bedeckt, unter den Bäumen aber standen die Tafeln mit kostbaren Gedecken und Aufsätzen und herrliche Sessel und schmucke Diener zur Aufwartung. Dem Kaiser machte das Seltsame solcher Anordnung eine Lust, und setzte sich auf den für ihn bereiten Stuhl, da mußten die andern sich auch setzen, und die Tafel hub an. Da klärte sich der Himmel auf, und trat lieblicher Sonnenschein herfür, und verging der Schnee wie ein Dunst, und hoben sich Gras und Laub frischgrün zu Tage, und kamen Blumen aus dem Boden hervorgesproßt, und die Bäume alle trieben Laub und Blüten. Auch Vöglein kamen geflogen und sangen gar lieblich, und wurde sehr heiß allmählich, so daß der Bäume Blüten abfielen und die Fruchtkeime schwollen und die Früchte reiften. Und der Kaiser tät seine winterliche Pelzschaube ab, weil ihm allzu warm wurde, und die andern auch die ihrigen. Da nun die Mahlzeit mit großen Freuden geendet war, obschon niemand wußte, wer und von wannen die zierlichen und willfährigen Diener waren und wo die Speisen alle zubereitet wurden, da verloren sich die Diener, und die Vögel sangen nicht mehr und entflohen, die Blumen blühten ab, die Bäume wurden fahl, es ward kühl, dann kalt, die Winterschauben wurden wieder umgehangen, der Kaiser hob die Tafel auf, die Sonne verschwand, der Himmel ward grau, und auf Bäumen, Laub und Gras lag wieder Schnee. Alles eilte in das Kloster, um im warmen Refektorium vor der Kälte gesichert zu sein. Kaiser Wilhelm aber pries seinen kunstfertigen Wirt und begabte ihn und den Konvent mit Gütern reichlich und erlebte nie wieder solch wunderseltsames Gastmahl.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Die Einladung",
+        "setting": "Die Einladung",
+        "characters": [
+          "9334f2fcd1df5a15b03aaaf0b98afef0"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mönch am verschneiten Gartentor mit gedecktem Tisch fern dahinter.",
+        "dialog": "Albertus lud Wilhelm und seinen Hof mitten im Winter zum Gartenmahl.",
+        "bubbles": [],
+        "character_states": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": "steht vor einem namenlosen Boten; Braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Mönch am verschneiten Gartentor mit gedecktem Tisch fern dahinter.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die Einladung",
+            "posture": "steht vor einem namenlosen Boten"
+          }
+        }
+      },
+      {
+        "heading": "Der Widerspruch",
+        "setting": "Der Widerspruch",
+        "characters": [
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher im Winterpelz, Ratsherren blicken skeptisch auf Schnee.",
+        "dialog": "Seine Räte hielten die Einladung für unsinnig.",
+        "bubbles": [],
+        "character_states": {
+          "eed2228fe139577da29a394996881d48": "steht unter seinen Räten; Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Herrscher im Winterpelz, Ratsherren blicken skeptisch auf Schnee.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die Einladung",
+            "posture": "steht vor einem namenlosen Boten"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.",
+            "location": "Der Widerspruch",
+            "posture": "steht unter seinen Räten"
+          }
+        }
+      },
+      {
+        "heading": "Der entschlossene Gast",
+        "setting": "Der entschlossene Gast",
+        "characters": [
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann im Pelz mit wenigen Begleitern auf verschneitem Weg.",
+        "dialog": "Wilhelm ging dennoch.",
+        "bubbles": [],
+        "character_states": {
+          "eed2228fe139577da29a394996881d48": "geht zum Klostertor; Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein erwachsener Mann im Pelz mit wenigen Begleitern auf verschneitem Weg.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die Einladung",
+            "posture": "steht vor einem namenlosen Boten"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.",
+            "location": "Der entschlossene Gast",
+            "posture": "geht zum Klostertor"
+          }
+        }
+      },
+      {
+        "heading": "Die Tafel im Schnee",
+        "setting": "Die Tafel im Schnee",
+        "characters": [
+          "9334f2fcd1df5a15b03aaaf0b98afef0",
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Tisch unter schneebedeckten Bäumen, zwei benannte Erwachsene und wenige namenlose Gäste.",
+        "dialog": "Unter den weißen Bäumen standen gedeckte Tafeln bereit.",
+        "bubbles": [],
+        "character_states": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": "steht am Tisch; Braune Kutte, Sandalen.; Lebenszustand: lebend",
+          "eed2228fe139577da29a394996881d48": "sitzt im Pelz; Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Tisch unter schneebedeckten Bäumen, zwei benannte Erwachsene und wenige namenlose Gäste.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die Tafel im Schnee",
+            "posture": "steht am Tisch"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.",
+            "location": "Die Tafel im Schnee",
+            "posture": "sitzt im Pelz"
+          }
+        }
+      },
+      {
+        "heading": "Das erste Licht",
+        "setting": "Das erste Licht",
+        "characters": [
+          "eed2228fe139577da29a394996881d48",
+          "9334f2fcd1df5a15b03aaaf0b98afef0"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee schmilzt an den Bäumen, frisches Gras sichtbar, kein Sommerbild als zweite Kachel im Bild.",
+        "dialog": "Als das Mahl begann, wurde der Himmel hell und der Schnee verschwand.",
+        "bubbles": [],
+        "character_states": {
+          "eed2228fe139577da29a394996881d48": "sitzt am selben Platz; Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.; Lebenszustand: lebend",
+          "9334f2fcd1df5a15b03aaaf0b98afef0": "steht daneben; Braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Schnee schmilzt an den Bäumen, frisches Gras sichtbar, kein Sommerbild als zweite Kachel im Bild.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Das erste Licht",
+            "posture": "steht daneben"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.",
+            "location": "Das erste Licht",
+            "posture": "sitzt am selben Platz"
+          }
+        }
+      },
+      {
+        "heading": "Die kurze Blüte",
+        "setting": "Die kurze Blüte",
+        "characters": [
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bäume voller Blüten, Winterpelz gefaltet auf leerem Nachbarstuhl, derselbe eine Gastkörper.",
+        "dialog": "Gras, Blüten und Vögel füllten den Garten. Die Gäste legten ihre schweren Mäntel ab.",
+        "bubbles": [],
+        "character_states": {
+          "eed2228fe139577da29a394996881d48": "sitzt ohne Pelz am Tisch; Dunkelblauer Rock, Winterpelz abgelegt auf Stuhl.; Lebenszustand: lebend"
+        },
+        "continuity": "Bäume voller Blüten, Winterpelz gefaltet auf leerem Nachbarstuhl, derselbe eine Gastkörper.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Das erste Licht",
+            "posture": "steht daneben"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, Winterpelz abgelegt auf Stuhl.",
+            "location": "Die kurze Blüte",
+            "posture": "sitzt ohne Pelz am Tisch"
+          }
+        }
+      },
+      {
+        "heading": "Die reifen Früchte",
+        "setting": "Die reifen Früchte",
+        "characters": [
+          "9334f2fcd1df5a15b03aaaf0b98afef0",
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Obstbaum nun mit wenigen reifen Früchten statt zugleich frischer Blüte, warme Luft.",
+        "dialog": "Sogar Früchte reiften während der Mahlzeit.",
+        "bubbles": [],
+        "character_states": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": "steht unter einem Obstbaum; Braune Kutte, Sandalen.; Lebenszustand: lebend",
+          "eed2228fe139577da29a394996881d48": "sitzt am Tisch; Dunkelblauer Rock, Winterpelz abgelegt auf Stuhl.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Obstbaum nun mit wenigen reifen Früchten statt zugleich frischer Blüte, warme Luft.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die reifen Früchte",
+            "posture": "steht unter einem Obstbaum"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, Winterpelz abgelegt auf Stuhl.",
+            "location": "Die reifen Früchte",
+            "posture": "sitzt am Tisch"
+          }
+        }
+      },
+      {
+        "heading": "Der Umschlag zurück",
+        "setting": "Der Umschlag zurück",
+        "characters": [
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann legt den einen Pelz um, Bäume verlieren Laub, keine doppelte Kleidung.",
+        "dialog": "Mit dem Ende des Mahls wurde es wieder kalt.",
+        "bubbles": [],
+        "character_states": {
+          "eed2228fe139577da29a394996881d48": "zieht den Winterpelz wieder an; Dunkelblauer Rock, Winterpelz abgelegt auf Stuhl.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein erwachsener Mann legt den einen Pelz um, Bäume verlieren Laub, keine doppelte Kleidung.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die reifen Früchte",
+            "posture": "steht unter einem Obstbaum"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock, Winterpelz abgelegt auf Stuhl.",
+            "location": "Der Umschlag zurück",
+            "posture": "zieht den Winterpelz wieder an"
+          }
+        }
+      },
+      {
+        "heading": "Wieder Winter",
+        "setting": "Wieder Winter",
+        "characters": [
+          "9334f2fcd1df5a15b03aaaf0b98afef0",
+          "eed2228fe139577da29a394996881d48"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee liegt wieder auf demselben Tisch und den Bäumen, Gäste vollständig bekleidet auf dem Weg hinein.",
+        "dialog": "Alles eilte ins warme Haus. Der Garten lag wieder im Schnee.",
+        "bubbles": [],
+        "character_states": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": "steht am Gartentor; Braune Kutte, Sandalen.; Lebenszustand: lebend",
+          "eed2228fe139577da29a394996881d48": "geht ins Kloster; Dunkelblauer Rock und wieder getragener schwerer Winterpelz.; Lebenszustand: lebend"
+        },
+        "continuity": "Schnee liegt wieder auf demselben Tisch und den Bäumen, Gäste vollständig bekleidet auf dem Weg hinein.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Wieder Winter",
+            "posture": "steht am Gartentor"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock und wieder getragener schwerer Winterpelz.",
+            "location": "Wieder Winter",
+            "posture": "geht ins Kloster"
+          }
+        }
+      },
+      {
+        "heading": "Die nicht festgehaltene Stunde",
+        "setting": "Die nicht festgehaltene Stunde",
+        "characters": [
+          "eed2228fe139577da29a394996881d48",
+          "9334f2fcd1df5a15b03aaaf0b98afef0"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher dankt dem Mönch im einfachen Refektorium, kein mitgenommener Sommerbaum.",
+        "dialog": "Wilhelm ehrte seinen Gastgeber. Die besondere Erfahrung blieb Erinnerung, kein jederzeit verfügbares Eigentum.",
+        "bubbles": [],
+        "character_states": {
+          "eed2228fe139577da29a394996881d48": "steht vor Albertus; Dunkelblauer Rock und wieder getragener schwerer Winterpelz.; Lebenszustand: lebend",
+          "9334f2fcd1df5a15b03aaaf0b98afef0": "steht ihm gegenüber; Braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Herrscher dankt dem Mönch im einfachen Refektorium, kein mitgenommener Sommerbaum.",
+        "continuity_state": {
+          "9334f2fcd1df5a15b03aaaf0b98afef0": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braune Kutte, Sandalen.",
+            "location": "Die nicht festgehaltene Stunde",
+            "posture": "steht ihm gegenüber"
+          },
+          "eed2228fe139577da29a394996881d48": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Rock und wieder getragener schwerer Winterpelz.",
+            "location": "Die nicht festgehaltene Stunde",
+            "posture": "steht vor Albertus"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Albertus der Gartenlegende",
+        "description": "Älterer Mann mit kurzem grauem Bart.",
+        "outfit": "Braune Kutte, Sandalen.",
+        "backstory": "Gastgeber einer wunderbaren vorübergehenden Jahreszeitenverwandlung.",
+        "id": "9334f2fcd1df5a15b03aaaf0b98afef0",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Wilhelm im Wintergarten",
+        "description": "Erwachsener Mann mit blondem kurzem Bart.",
+        "outfit": "Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.",
+        "backstory": "Nimmt eine ungewöhnliche Einladung gegen den Rat seiner Umgebung an.",
+        "id": "eed2228fe139577da29a394996881d48",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was verpasst man, wenn Ungewohntes vorschnell als Unsinn gilt?",
+      "core": "Aufgeschlossenheit kann eine Erfahrung eröffnen, die vertraute Erwartungen übersteigt. Ihre Kostbarkeit liegt auch darin, dass sie nicht einfach festgehalten oder beliebig wiederholt werden kann.",
+      "ending": "Der Garten kehrt in den Winter zurück; der Kaiser ehrt den Gastgeber.",
+      "reason": "Vorurteil, Einladung, rascher Jahreszeitenwechsel und Rückkehr zur Kälte brauchen klare zeitliche Bildstufen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "erlebte nie wieder solch wunderseltsames Gastmahl.",
+          "meaning": "Das winterliche Wunder endet und bleibt einmalige, dankbar erinnerte Erfahrung."
+        }
+      ],
+      "causal_chain": [
+        "erlebte nie wieder solch wunderseltsames Gastmahl.",
+        "Der Garten kehrt in den Winter zurück; der Kaiser ehrt den Gastgeber."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "b87a93eda8dd24e52163542887181e4a98f51b53233a7cef1270431512320836",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.710060+00:00"
+    },
+    "post_summary": "Die Einladung klingt unsinnig: ein Gartenmahl im Schnee. Wer trotzdem kommt, erlebt etwas, das sich nicht festhalten lässt.",
+    "source_provenance": {
+      "title": "Albertus Magnus",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 115.",
+      "url": "https://textgridrep.org/browse/kd5q.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Albertus Magnus. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 115.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs war ein berühmter Mönch und hochgelahrter Doktor des Namens Albertus Magnus, vordessen Bischof zu Regensburg und hernachmals zu Köln am Rheine gestorben und begraben. Er war in allen hohen Künsten erfahren, ja auch ein Baumeister. Manche sagen, daß Albertus Magnus den Grundplan des Kölner Doms erfunden und aufgezeichnet habe, und das Chor der vormaligen Dominikanerkirche habe er auch erbaut. In dieser Kirche ruhten seine Gebeine, kamen aber in St. Andreas' Kirche, als jene der Dominikaner ihre Zerstörung fand.\n\nIm Jahre 1248 kam Kaiser Wilhelm von Holland, Kaiser Friedrich des Zweiten Gegenkaiser, mit ziemlichem Hofstaate gen Köln, und zwar am Tage der heiligen drei Könige, den bat, samt seinem Hofe, Albertus in seinen Klostergarten zu den Predigern zu Gaste. Es war große Kälte eingetreten und fiel ein starker tiefer Schnee, da meinten die Räte und vornehmen Dienstmannen, der Mönch möge wohl sein Gehirn erfroren haben, daß er zu solcher Jahreszeit zu einem Gartenvergnügen einlade, und rieten dem Kaiser, ihrem Herrn, der Einladung keine Folge zu geben. Aber der Kaiser ließ sich dazu nicht bewegen, hieß vielmehr die Seinen ihm folgen, und kamen zu dem Predigerkloster, wurden auch alsobald in den Garten geleitet. Da lagen alle Bäume und Sträucher dick voll Schnee, und waren alle Wege verschneit, und alles Laub und Gras war bedeckt, unter den Bäumen aber standen die Tafeln mit kostbaren Gedecken und Aufsätzen und herrliche Sessel und schmucke Diener zur Aufwartung. Dem Kaiser machte das Seltsame solcher Anordnung eine Lust, und setzte sich auf den für ihn bereiten Stuhl, da mußten die andern sich auch setzen, und die Tafel hub an. Da klärte sich der Himmel auf, und trat lieblicher Sonnenschein herfür, und verging der Schnee wie ein Dunst, und hoben sich Gras und Laub frischgrün zu Tage, und kamen Blumen aus dem Boden hervorgesproßt, und die Bäume alle trieben Laub und Blüten. Auch Vöglein kamen geflogen und sangen gar lieblich, und wurde sehr heiß allmählich, so daß der Bäume Blüten abfielen und die Fruchtkeime schwollen und die Früchte reiften. Und der Kaiser tät seine winterliche Pelzschaube ab, weil ihm allzu warm wurde, und die andern auch die ihrigen. Da nun die Mahlzeit mit großen Freuden geendet war, obschon niemand wußte, wer und von wannen die zierlichen und willfährigen Diener waren und wo die Speisen alle zubereitet wurden, da verloren sich die Diener, und die Vögel sangen nicht mehr und entflohen, die Blumen blühten ab, die Bäume wurden fahl, es ward kühl, dann kalt, die Winterschauben wurden wieder umgehangen, der Kaiser hob die Tafel auf, die Sonne verschwand, der Himmel ward grau, und auf Bäumen, Laub und Gras lag wieder Schnee. Alles eilte in das Kloster, um im warmen Refektorium vor der Kälte gesichert zu sein. Kaiser Wilhelm aber pries seinen kunstfertigen Wirt und begabte ihn und den Konvent mit Gütern reichlich und erlebte nie wieder solch wunderseltsames Gastmahl.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Es war ein berühmter Mönch und hochgelahrter Doktor des Namens Albertus Magnus, vordessen Bischof zu Regensburg und hernachmals zu Köln am Rheine gestorben und begraben. Er war in allen hohen Künsten erfahren, ja auch ein Baumeister.",
+      "id": "bechstein-sagen-kd5q-0",
+      "category": "Heilige und Legenden",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "albertus-garten-10-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Albertus Magnus – Ein Sommer im Winter · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Albertus Magnus – Ein Sommer im Winter\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Albertus der Gartenlegende\nAussehen: Älterer Mann mit kurzem grauem Bart.\nKleidung: Braune Kutte, Sandalen.\nPersönlichkeit und Vorgeschichte: Gastgeber einer wunderbaren vorübergehenden Jahreszeitenverwandlung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Wilhelm im Wintergarten\nAussehen: Erwachsener Mann mit blondem kurzem Bart.\nKleidung: Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.\nPersönlichkeit und Vorgeschichte: Nimmt eine ungewöhnliche Einladung gegen den Rat seiner Umgebung an.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Einladung\nOrt und Zeit: Die Einladung\nSichtbare Figuren: Albertus der Gartenlegende\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mönch am verschneiten Gartentor mit gedecktem Tisch fern dahinter.\nErzählertext: Albertus lud Wilhelm und seinen Hof mitten im Winter zum Gartenmahl.\nDialoge: keine\nKontinuität / Änderung: Mönch am verschneiten Gartentor mit gedecktem Tisch fern dahinter.\n\nKACHEL 2: Der Widerspruch\nOrt und Zeit: Der Widerspruch\nSichtbare Figuren: Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher im Winterpelz, Ratsherren blicken skeptisch auf Schnee.\nErzählertext: Seine Räte hielten die Einladung für unsinnig.\nDialoge: keine\nKontinuität / Änderung: Herrscher im Winterpelz, Ratsherren blicken skeptisch auf Schnee.\n\nKACHEL 3: Der entschlossene Gast\nOrt und Zeit: Der entschlossene Gast\nSichtbare Figuren: Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann im Pelz mit wenigen Begleitern auf verschneitem Weg.\nErzählertext: Wilhelm ging dennoch.\nDialoge: keine\nKontinuität / Änderung: Ein erwachsener Mann im Pelz mit wenigen Begleitern auf verschneitem Weg.\n\nKACHEL 4: Die Tafel im Schnee\nOrt und Zeit: Die Tafel im Schnee\nSichtbare Figuren: Albertus der Gartenlegende, Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Tisch unter schneebedeckten Bäumen, zwei benannte Erwachsene und wenige namenlose Gäste.\nErzählertext: Unter den weißen Bäumen standen gedeckte Tafeln bereit.\nDialoge: keine\nKontinuität / Änderung: Tisch unter schneebedeckten Bäumen, zwei benannte Erwachsene und wenige namenlose Gäste.\n\nKACHEL 5: Das erste Licht\nOrt und Zeit: Das erste Licht\nSichtbare Figuren: Wilhelm im Wintergarten, Albertus der Gartenlegende\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee schmilzt an den Bäumen, frisches Gras sichtbar, kein Sommerbild als zweite Kachel im Bild.\nErzählertext: Als das Mahl begann, wurde der Himmel hell und der Schnee verschwand.\nDialoge: keine\nKontinuität / Änderung: Schnee schmilzt an den Bäumen, frisches Gras sichtbar, kein Sommerbild als zweite Kachel im Bild.\n\nKACHEL 6: Die kurze Blüte\nOrt und Zeit: Die kurze Blüte\nSichtbare Figuren: Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bäume voller Blüten, Winterpelz gefaltet auf leerem Nachbarstuhl, derselbe eine Gastkörper.\nErzählertext: Gras, Blüten und Vögel füllten den Garten. Die Gäste legten ihre schweren Mäntel ab.\nDialoge: keine\nKontinuität / Änderung: Bäume voller Blüten, Winterpelz gefaltet auf leerem Nachbarstuhl, derselbe eine Gastkörper.\n\nKACHEL 7: Die reifen Früchte\nOrt und Zeit: Die reifen Früchte\nSichtbare Figuren: Albertus der Gartenlegende, Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Obstbaum nun mit wenigen reifen Früchten statt zugleich frischer Blüte, warme Luft.\nErzählertext: Sogar Früchte reiften während der Mahlzeit.\nDialoge: keine\nKontinuität / Änderung: Ein Obstbaum nun mit wenigen reifen Früchten statt zugleich frischer Blüte, warme Luft.\n\nKACHEL 8: Der Umschlag zurück\nOrt und Zeit: Der Umschlag zurück\nSichtbare Figuren: Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann legt den einen Pelz um, Bäume verlieren Laub, keine doppelte Kleidung.\nErzählertext: Mit dem Ende des Mahls wurde es wieder kalt.\nDialoge: keine\nKontinuität / Änderung: Ein erwachsener Mann legt den einen Pelz um, Bäume verlieren Laub, keine doppelte Kleidung.\n\nKACHEL 9: Wieder Winter\nOrt und Zeit: Wieder Winter\nSichtbare Figuren: Albertus der Gartenlegende, Wilhelm im Wintergarten\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee liegt wieder auf demselben Tisch und den Bäumen, Gäste vollständig bekleidet auf dem Weg hinein.\nErzählertext: Alles eilte ins warme Haus. Der Garten lag wieder im Schnee.\nDialoge: keine\nKontinuität / Änderung: Schnee liegt wieder auf demselben Tisch und den Bäumen, Gäste vollständig bekleidet auf dem Weg hinein.\n\nKACHEL 10: Die nicht festgehaltene Stunde\nOrt und Zeit: Die nicht festgehaltene Stunde\nSichtbare Figuren: Wilhelm im Wintergarten, Albertus der Gartenlegende\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher dankt dem Mönch im einfachen Refektorium, kein mitgenommener Sommerbaum.\nErzählertext: Wilhelm ehrte seinen Gastgeber. Die besondere Erfahrung blieb Erinnerung, kein jederzeit verfügbares Eigentum.\nDialoge: keine\nKontinuität / Änderung: Herrscher dankt dem Mönch im einfachen Refektorium, kein mitgenommener Sommerbaum.\n"
+  },
+  "count_policy": "editorial"
+}

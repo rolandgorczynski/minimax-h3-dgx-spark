@@ -1,0 +1,697 @@
+{
+  "mode": "editorial",
+  "name": "Rolandseck – Einen Tag zu spät · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Rolandseck. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 104.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs saß auf hoher Burg am Rhein hoch über dem Stromtal ein junger Rittersmann, Roland geheißen, manche sagen Roland von Angers, Neffe Karl des Großen, der liebte ein Burgfräulein, Hildegunde, die Tochter des Burggrafen Heribert, der auf dem nahen Schloß Drachenfels saß, und wurde wiederum auch von ihr geliebt. Da auch der alte Burggraf nichts gegen die Verbindung seiner Tochter mit Ritter Roland einzuwenden hatte, so verlobte er ihm seine geliebte Tochter herzlich gern. Da erscholl, noch bevor die Vermählung des Brautpaares erfolgen konnte, ein Aufgebot der Ritterschaft gegen Hunnen und Heidenscharen, die im Osten das Reich bedrohten, und dem Ritter Roland geboten Pflicht und Ehre, diesem Aufgebot zu folgen. Große Taten der Tapferkeit tat Roland gegen die Heidenschwärme, und seine tapfere Hand entschied den Kampf zugunsten des Christenheeres. Davon kam die erfreuliche Kunde bald an den Rhein und auf den Drachenfels und weckte dort große Freude. Dann aber ward wieder eine Zeitlang keine Kunde vom Ritter Roland vernommen. Endlich kam ein heimkehrender Ritter am Siebengebürge vorüber und sprach ein Nachtlager auf dem gastlichen Drachenfels an, der verkündete, ohne daß er wußte, wie schmerzlich für seine Wirte seine Kunde sei, daß Ritter Roland in einem der letzten Kämpfe an seiner Seite den Heldentod gefunden habe. Da entstand großes Leid und Wehklagen, und Hildegunde war so trauervoll, daß sie sogleich den Entschluß faßte, im Kloster Nonnenwerth den Schleier zu nehmen, und da der Bischof, der über dieses Kloster gebot, ihr Verwandter war, so willigte er in Hildegundens dringendes Verlangen, ihr das Probejahr zu erlassen, und ließ sie schon nach eines Monates Frist als Nonne einkleiden.\n\nAm folgenden Tage stieg ein Gast zum Drachenfels empor, ward eingelassen und sah auf allen Mienen nur Trauer. Mit Schreck und Freude erkannte Ritter Heribert in dem Fremden den geliebten Ritter Roland. Wohl war dieser für tot vom Schlachtfeld getragen worden, aber wieder genesen, wohl hatte er Botschaft gesendet, aber der Bote war nicht angelangt, und nun fragte er nach seiner Hildegund und vernahm das Donnerwort: Sie ist eine Nonne!\n\nSchrecklich war, was Roland empfand. Stumm vor Schmerz geht er vom Drachenfels herab, besteigt sein Roß, reitet nach Rolandseck hinauf, entläßt seine Diener, wählt sich droben einen Felsensitz, wo er herabschauen kann nach Nonnenwerth, und schaut herab nach der Geliebten, jeden Tag, und Mond um Mond, und Jahr um Jahr, lebt als Einsiedler und murmelt Gebete, wenn drunten im Tale die Klosterglocke klingt. Bisweilen erblickt er die Nonne Hildegund, die aus Trauer um ihn das ewig unlösbare Gelübde tat – bis er einst sie lange nicht mehr sieht, bis ein Leichenzug ihm sagt, daß sie geschieden aus dem irdischen Leben und zum ewigen Frieden eingegangen. Und bald danach ist Roland erblichen gefunden worden und ihr dahin nachgegangen, wo alle liebenden Seelen im Schoße der ewigen Liebe sich wieder einigen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Rolandseck. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 104.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs saß auf hoher Burg am Rhein hoch über dem Stromtal ein junger Rittersmann, Roland geheißen, manche sagen Roland von Angers, Neffe Karl des Großen, der liebte ein Burgfräulein, Hildegunde, die Tochter des Burggrafen Heribert, der auf dem nahen Schloß Drachenfels saß, und wurde wiederum auch von ihr geliebt. Da auch der alte Burggraf nichts gegen die Verbindung seiner Tochter mit Ritter Roland einzuwenden hatte, so verlobte er ihm seine geliebte Tochter herzlich gern. Da erscholl, noch bevor die Vermählung des Brautpaares erfolgen konnte, ein Aufgebot der Ritterschaft gegen Hunnen und Heidenscharen, die im Osten das Reich bedrohten, und dem Ritter Roland geboten Pflicht und Ehre, diesem Aufgebot zu folgen. Große Taten der Tapferkeit tat Roland gegen die Heidenschwärme, und seine tapfere Hand entschied den Kampf zugunsten des Christenheeres. Davon kam die erfreuliche Kunde bald an den Rhein und auf den Drachenfels und weckte dort große Freude. Dann aber ward wieder eine Zeitlang keine Kunde vom Ritter Roland vernommen. Endlich kam ein heimkehrender Ritter am Siebengebürge vorüber und sprach ein Nachtlager auf dem gastlichen Drachenfels an, der verkündete, ohne daß er wußte, wie schmerzlich für seine Wirte seine Kunde sei, daß Ritter Roland in einem der letzten Kämpfe an seiner Seite den Heldentod gefunden habe. Da entstand großes Leid und Wehklagen, und Hildegunde war so trauervoll, daß sie sogleich den Entschluß faßte, im Kloster Nonnenwerth den Schleier zu nehmen, und da der Bischof, der über dieses Kloster gebot, ihr Verwandter war, so willigte er in Hildegundens dringendes Verlangen, ihr das Probejahr zu erlassen, und ließ sie schon nach eines Monates Frist als Nonne einkleiden.\n\nAm folgenden Tage stieg ein Gast zum Drachenfels empor, ward eingelassen und sah auf allen Mienen nur Trauer. Mit Schreck und Freude erkannte Ritter Heribert in dem Fremden den geliebten Ritter Roland. Wohl war dieser für tot vom Schlachtfeld getragen worden, aber wieder genesen, wohl hatte er Botschaft gesendet, aber der Bote war nicht angelangt, und nun fragte er nach seiner Hildegund und vernahm das Donnerwort: Sie ist eine Nonne!\n\nSchrecklich war, was Roland empfand. Stumm vor Schmerz geht er vom Drachenfels herab, besteigt sein Roß, reitet nach Rolandseck hinauf, entläßt seine Diener, wählt sich droben einen Felsensitz, wo er herabschauen kann nach Nonnenwerth, und schaut herab nach der Geliebten, jeden Tag, und Mond um Mond, und Jahr um Jahr, lebt als Einsiedler und murmelt Gebete, wenn drunten im Tale die Klosterglocke klingt. Bisweilen erblickt er die Nonne Hildegund, die aus Trauer um ihn das ewig unlösbare Gelübde tat – bis er einst sie lange nicht mehr sieht, bis ein Leichenzug ihm sagt, daß sie geschieden aus dem irdischen Leben und zum ewigen Frieden eingegangen. Und bald danach ist Roland erblichen gefunden worden und ihr dahin nachgegangen, wo alle liebenden Seelen im Schoße der ewigen Liebe sich wieder einigen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Die Verlobten",
+        "setting": "Die Verlobten",
+        "characters": [
+          "98c5e774ec095144a9024c2ecf313a6d",
+          "2e979be763f3519f97d1a6f162dba18e",
+          "ff7bd9bc209b546181c60074cded801c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene auf dem Burghof, Paar mit ineinandergelegten Händen.",
+        "dialog": "Roland und Hildegunde liebten sich. Ihr Vater hatte der Verbindung zugestimmt.",
+        "bubbles": [],
+        "character_states": {
+          "98c5e774ec095144a9024c2ecf313a6d": "steht neben Hildegunde; Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "2e979be763f3519f97d1a6f162dba18e": "steht bei ihm; Blaues langes Kleid, heller Schleier.; Lebenszustand: lebend",
+          "ff7bd9bc209b546181c60074cded801c": "steht seitlich; Brauner langer Rock, dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Erwachsene auf dem Burghof, Paar mit ineinandergelegten Händen.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Die Verlobten",
+            "posture": "steht neben Hildegunde"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, heller Schleier.",
+            "location": "Die Verlobten",
+            "posture": "steht bei ihm"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die Verlobten",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Der Ruf zum Aufbruch",
+        "setting": "Der Ruf zum Aufbruch",
+        "characters": [
+          "98c5e774ec095144a9024c2ecf313a6d",
+          "2e979be763f3519f97d1a6f162dba18e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter vor einer erwachsenen Frau zu Fuß, Hände am Zügel.",
+        "dialog": "Noch vor der Hochzeit musste Roland zum Kampf aufbrechen.",
+        "bubbles": [],
+        "character_states": {
+          "98c5e774ec095144a9024c2ecf313a6d": "sitzt auf einem braunen Pferd; Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "2e979be763f3519f97d1a6f162dba18e": "steht am Tor; Blaues langes Kleid, heller Schleier.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Reiter vor einer erwachsenen Frau zu Fuß, Hände am Zügel.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "sitzt auf einem braunen Pferd"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, heller Schleier.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "steht am Tor"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die Verlobten",
+            "posture": "steht seitlich"
+          }
+        }
+      },
+      {
+        "heading": "Die gute Nachricht",
+        "setting": "Die gute Nachricht",
+        "characters": [
+          "2e979be763f3519f97d1a6f162dba18e",
+          "ff7bd9bc209b546181c60074cded801c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote mit geschlossenem Brief, Frau und Vater erwarten ihn.",
+        "dialog": "Zunächst hörte man von seinen Erfolgen.",
+        "bubbles": [],
+        "character_states": {
+          "2e979be763f3519f97d1a6f162dba18e": "steht vor einem namenlosen Boten; Blaues langes Kleid, heller Schleier.; Lebenszustand: lebend",
+          "ff7bd9bc209b546181c60074cded801c": "steht neben ihr; Brauner langer Rock, dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Bote mit geschlossenem Brief, Frau und Vater erwarten ihn.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "sitzt auf einem braunen Pferd"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, heller Schleier.",
+            "location": "Die gute Nachricht",
+            "posture": "steht vor einem namenlosen Boten"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die gute Nachricht",
+            "posture": "steht neben ihr"
+          }
+        }
+      },
+      {
+        "heading": "Das lange Schweigen",
+        "setting": "Das lange Schweigen",
+        "characters": [
+          "2e979be763f3519f97d1a6f162dba18e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junge Frau im blauen Kleid blickt auf leeren Weg.",
+        "dialog": "Dann blieb jede Nachricht aus.",
+        "bubbles": [],
+        "character_states": {
+          "2e979be763f3519f97d1a6f162dba18e": "sitzt am Fenster; Blaues langes Kleid, heller Schleier.; Lebenszustand: lebend"
+        },
+        "continuity": "Junge Frau im blauen Kleid blickt auf leeren Weg.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "sitzt auf einem braunen Pferd"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, heller Schleier.",
+            "location": "Das lange Schweigen",
+            "posture": "sitzt am Fenster"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die gute Nachricht",
+            "posture": "steht neben ihr"
+          }
+        }
+      },
+      {
+        "heading": "Der heimkehrende Ritter",
+        "setting": "Der heimkehrende Ritter",
+        "characters": [
+          "ff7bd9bc209b546181c60074cded801c",
+          "2e979be763f3519f97d1a6f162dba18e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene im Saal, Reisender erschöpft.",
+        "dialog": "Ein Heimkehrer berichtete, Roland sei an seiner Seite gefallen.",
+        "bubbles": [],
+        "character_states": {
+          "ff7bd9bc209b546181c60074cded801c": "steht vor einem namenlosen Reisenden; Brauner langer Rock, dunkle Schuhe.; Lebenszustand: lebend",
+          "2e979be763f3519f97d1a6f162dba18e": "steht seitlich; Blaues langes Kleid, heller Schleier.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Erwachsene im Saal, Reisender erschöpft.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "sitzt auf einem braunen Pferd"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, heller Schleier.",
+            "location": "Der heimkehrende Ritter",
+            "posture": "steht seitlich"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Der heimkehrende Ritter",
+            "posture": "steht vor einem namenlosen Reisenden"
+          }
+        }
+      },
+      {
+        "heading": "Die neue Gewissheit",
+        "setting": "Die neue Gewissheit",
+        "characters": [
+          "2e979be763f3519f97d1a6f162dba18e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau allein, ein geschlossener Brief unberührt auf dem Tisch.",
+        "dialog": "Hildegunde glaubte die Nachricht. In ihrer Trauer entschied sie sich für Nonnenwerth.",
+        "bubbles": [],
+        "character_states": {
+          "2e979be763f3519f97d1a6f162dba18e": "sitzt mit gesenktem Kopf; Blaues langes Kleid, heller Schleier.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine erwachsene Frau allein, ein geschlossener Brief unberührt auf dem Tisch.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "sitzt auf einem braunen Pferd"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues langes Kleid, heller Schleier.",
+            "location": "Die neue Gewissheit",
+            "posture": "sitzt mit gesenktem Kopf"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Der heimkehrende Ritter",
+            "posture": "steht vor einem namenlosen Reisenden"
+          }
+        }
+      },
+      {
+        "heading": "Der schnelle Eintritt",
+        "setting": "Der schnelle Eintritt",
+        "characters": [
+          "2e979be763f3519f97d1a6f162dba18e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau im grauen Ordenskleid und weißen Schleier, blaues Kleid gefaltet auf einer Bank.",
+        "dialog": "Nach nur einem Monat nahm sie den Schleier.",
+        "bubbles": [],
+        "character_states": {
+          "2e979be763f3519f97d1a6f162dba18e": "steht in neuer Ordenskleidung; Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.; Lebenszustand: lebend"
+        },
+        "continuity": "Dieselbe Frau im grauen Ordenskleid und weißen Schleier, blaues Kleid gefaltet auf einer Bank.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Ruf zum Aufbruch",
+            "posture": "sitzt auf einem braunen Pferd"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Der schnelle Eintritt",
+            "posture": "steht in neuer Ordenskleidung"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Der heimkehrende Ritter",
+            "posture": "steht vor einem namenlosen Reisenden"
+          }
+        }
+      },
+      {
+        "heading": "Die unerwartete Rückkehr",
+        "setting": "Die unerwartete Rückkehr",
+        "characters": [
+          "98c5e774ec095144a9024c2ecf313a6d",
+          "ff7bd9bc209b546181c60074cded801c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer begegnen sich am Burgtor, ein leeres Pferd seitlich.",
+        "dialog": "Am folgenden Tag kehrte Roland lebend zurück.",
+        "bubbles": [],
+        "character_states": {
+          "98c5e774ec095144a9024c2ecf313a6d": "steht ausdrücklich zu Fuß vor Heribert; Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "ff7bd9bc209b546181c60074cded801c": "steht im Tor; Brauner langer Rock, dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer begegnen sich am Burgtor, ein leeres Pferd seitlich.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Die unerwartete Rückkehr",
+            "posture": "steht ausdrücklich zu Fuß vor Heribert"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Der schnelle Eintritt",
+            "posture": "steht in neuer Ordenskleidung"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die unerwartete Rückkehr",
+            "posture": "steht im Tor"
+          }
+        }
+      },
+      {
+        "heading": "Die verlorene Nachricht",
+        "setting": "Die verlorene Nachricht",
+        "characters": [
+          "98c5e774ec095144a9024c2ecf313a6d",
+          "ff7bd9bc209b546181c60074cded801c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im stillen Saal, keine tatsächlich tote Rolandfigur im Hintergrund.",
+        "dialog": "Man hatte ihn für tot gehalten, doch er war genesen. Sein eigener Bote war nicht angekommen.",
+        "bubbles": [],
+        "character_states": {
+          "98c5e774ec095144a9024c2ecf313a6d": "steht vor dem Vater; Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "ff7bd9bc209b546181c60074cded801c": "hört zu; Brauner langer Rock, dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene im stillen Saal, keine tatsächlich tote Rolandfigur im Hintergrund.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Die verlorene Nachricht",
+            "posture": "steht vor dem Vater"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Der schnelle Eintritt",
+            "posture": "steht in neuer Ordenskleidung"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die verlorene Nachricht",
+            "posture": "hört zu"
+          }
+        }
+      },
+      {
+        "heading": "Die neue Wirklichkeit",
+        "setting": "Die neue Wirklichkeit",
+        "characters": [
+          "98c5e774ec095144a9024c2ecf313a6d",
+          "ff7bd9bc209b546181c60074cded801c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Roland mit beiden leeren Händen, Vater ohne Drohgebärde.",
+        "dialog": "Jetzt erfuhr er, dass Hildegunde Nonne geworden war. Der Irrtum hatte eine eigene Wirklichkeit geschaffen.",
+        "bubbles": [],
+        "character_states": {
+          "98c5e774ec095144a9024c2ecf313a6d": "steht erstarrt; Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend",
+          "ff7bd9bc209b546181c60074cded801c": "steht mit gesenktem Blick; Brauner langer Rock, dunkle Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Roland mit beiden leeren Händen, Vater ohne Drohgebärde.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Die neue Wirklichkeit",
+            "posture": "steht erstarrt"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Der schnelle Eintritt",
+            "posture": "steht in neuer Ordenskleidung"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die neue Wirklichkeit",
+            "posture": "steht mit gesenktem Blick"
+          }
+        }
+      },
+      {
+        "heading": "Der Felsensitz",
+        "setting": "Der Felsensitz",
+        "characters": [
+          "98c5e774ec095144a9024c2ecf313a6d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann auf sicherem Felsabsatz mit Blick zur fernen Klosterinsel.",
+        "dialog": "Roland zog sich zurück und blickte Tag für Tag nach Nonnenwerth.",
+        "bubbles": [],
+        "character_states": {
+          "98c5e774ec095144a9024c2ecf313a6d": "sitzt allein über dem Rhein; Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein erwachsener Mann auf sicherem Felsabsatz mit Blick zur fernen Klosterinsel.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Felsensitz",
+            "posture": "sitzt allein über dem Rhein"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Der schnelle Eintritt",
+            "posture": "steht in neuer Ordenskleidung"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die neue Wirklichkeit",
+            "posture": "steht mit gesenktem Blick"
+          }
+        }
+      },
+      {
+        "heading": "Die entfernte Geliebte",
+        "setting": "Die entfernte Geliebte",
+        "characters": [
+          "2e979be763f3519f97d1a6f162dba18e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelne Nonne im Garten der Insel, kein gleichzeitig erreichbarer Roland neben ihr.",
+        "dialog": "Manchmal konnte er sie sehen. Die Nähe blieb durch Abstand und Gelübde begrenzt.",
+        "bubbles": [],
+        "character_states": {
+          "2e979be763f3519f97d1a6f162dba18e": "geht im Klostergarten; Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.; Lebenszustand: lebend"
+        },
+        "continuity": "Einzelne Nonne im Garten der Insel, kein gleichzeitig erreichbarer Roland neben ihr.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Felsensitz",
+            "posture": "sitzt allein über dem Rhein"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Die entfernte Geliebte",
+            "posture": "geht im Klostergarten"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die neue Wirklichkeit",
+            "posture": "steht mit gesenktem Blick"
+          }
+        }
+      },
+      {
+        "heading": "Der stille Zug",
+        "setting": "Der stille Zug",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner geschlossener Sarg in kleiner Klosterprozession, keine offene Leiche.",
+        "dialog": "Eines Tages sah er ihren Leichenzug.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein einzelner geschlossener Sarg in kleiner Klosterprozession, keine offene Leiche.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Felsensitz",
+            "posture": "sitzt allein über dem Rhein"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Die entfernte Geliebte",
+            "posture": "geht im Klostergarten"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die neue Wirklichkeit",
+            "posture": "steht mit gesenktem Blick"
+          }
+        }
+      },
+      {
+        "heading": "Der leere Sitz",
+        "setting": "Der leere Sitz",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbesetzter Felsensitz über dem Rhein, Klosterinsel fern.",
+        "dialog": "Bald darauf starb auch Roland. Die spätere Wahrheit hatte das Leben nach der falschen Nachricht nicht rückgängig machen können.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Unbesetzter Felsensitz über dem Rhein, Klosterinsel fern.",
+        "continuity_state": {
+          "98c5e774ec095144a9024c2ecf313a6d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+            "location": "Der Felsensitz",
+            "posture": "sitzt allein über dem Rhein"
+          },
+          "2e979be763f3519f97d1a6f162dba18e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graue Ordenskleidung und weißer Schleier, blaues Kleid abgelegt.",
+            "location": "Die entfernte Geliebte",
+            "posture": "geht im Klostergarten"
+          },
+          "ff7bd9bc209b546181c60074cded801c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner langer Rock, dunkle Schuhe.",
+            "location": "Die neue Wirklichkeit",
+            "posture": "steht mit gesenktem Blick"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Roland der Rolandsecksage",
+        "description": "Junger erwachsener Mann mit braunem kurzem Bart.",
+        "outfit": "Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.",
+        "backstory": "Überlebt schwer verletzt, doch seine Nachricht kommt nicht an.",
+        "id": "98c5e774ec095144a9024c2ecf313a6d",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Hildegunde vom Drachenfels",
+        "description": "Junge erwachsene Frau mit dunklem Zopf.",
+        "outfit": "Blaues langes Kleid, heller Schleier.",
+        "backstory": "Hält Roland für tot und tritt ins Kloster ein.",
+        "id": "2e979be763f3519f97d1a6f162dba18e",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Heribert vom Drachenfels",
+        "description": "Älterer Mann mit weißem Vollbart.",
+        "outfit": "Brauner langer Rock, dunkle Schuhe.",
+        "backstory": "Vater Hildegundes, heißt die Verbindung zunächst gut.",
+        "id": "ff7bd9bc209b546181c60074cded801c",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie weit reichen die Folgen einer für sicher gehaltenen Todesnachricht?",
+      "core": "Ungeprüfte Gewissheit kann unumkehrbare Entscheidungen auslösen. Dass die Nachricht später falsch wird, nimmt ihre inzwischen geschaffene Wirklichkeit nicht zurück.",
+      "ending": "Hildegunde bleibt im Kloster und stirbt; Roland folgt ihr nach langem Warten im Tod.",
+      "reason": "Verlobung, falsche Nachricht, beschleunigtes Gelübde und lebende Rückkehr müssen zeitlich klar sein; kein wiedervereintes Hochzeitspaar ergänzen.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "aber der Bote war nicht angelangt",
+          "meaning": "Die fehlende Gegenbotschaft lässt den Irrtum lange genug bestehen, um die Bindung endgültig zu verändern."
+        }
+      ],
+      "causal_chain": [
+        "aber der Bote war nicht angelangt",
+        "Hildegunde bleibt im Kloster und stirbt; Roland folgt ihr nach langem Warten im Tod."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "0345434da4bad0fb610cde7c60da958c2b902ecd3efc3a6e050c0139590dc1ec",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:48:11.273021+00:00"
+    },
+    "post_summary": "Eine Todesnachricht führt Hildegunde ins Kloster. Als Roland zurückkommt, ist aus dem Irrtum eine nicht mehr zurücknehmbare Wirklichkeit geworden.",
+    "source_provenance": {
+      "title": "Rolandseck",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 104.",
+      "url": "https://textgridrep.org/browse/khh1.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Rolandseck. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 104.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs saß auf hoher Burg am Rhein hoch über dem Stromtal ein junger Rittersmann, Roland geheißen, manche sagen Roland von Angers, Neffe Karl des Großen, der liebte ein Burgfräulein, Hildegunde, die Tochter des Burggrafen Heribert, der auf dem nahen Schloß Drachenfels saß, und wurde wiederum auch von ihr geliebt. Da auch der alte Burggraf nichts gegen die Verbindung seiner Tochter mit Ritter Roland einzuwenden hatte, so verlobte er ihm seine geliebte Tochter herzlich gern. Da erscholl, noch bevor die Vermählung des Brautpaares erfolgen konnte, ein Aufgebot der Ritterschaft gegen Hunnen und Heidenscharen, die im Osten das Reich bedrohten, und dem Ritter Roland geboten Pflicht und Ehre, diesem Aufgebot zu folgen. Große Taten der Tapferkeit tat Roland gegen die Heidenschwärme, und seine tapfere Hand entschied den Kampf zugunsten des Christenheeres. Davon kam die erfreuliche Kunde bald an den Rhein und auf den Drachenfels und weckte dort große Freude. Dann aber ward wieder eine Zeitlang keine Kunde vom Ritter Roland vernommen. Endlich kam ein heimkehrender Ritter am Siebengebürge vorüber und sprach ein Nachtlager auf dem gastlichen Drachenfels an, der verkündete, ohne daß er wußte, wie schmerzlich für seine Wirte seine Kunde sei, daß Ritter Roland in einem der letzten Kämpfe an seiner Seite den Heldentod gefunden habe. Da entstand großes Leid und Wehklagen, und Hildegunde war so trauervoll, daß sie sogleich den Entschluß faßte, im Kloster Nonnenwerth den Schleier zu nehmen, und da der Bischof, der über dieses Kloster gebot, ihr Verwandter war, so willigte er in Hildegundens dringendes Verlangen, ihr das Probejahr zu erlassen, und ließ sie schon nach eines Monates Frist als Nonne einkleiden.\n\nAm folgenden Tage stieg ein Gast zum Drachenfels empor, ward eingelassen und sah auf allen Mienen nur Trauer. Mit Schreck und Freude erkannte Ritter Heribert in dem Fremden den geliebten Ritter Roland. Wohl war dieser für tot vom Schlachtfeld getragen worden, aber wieder genesen, wohl hatte er Botschaft gesendet, aber der Bote war nicht angelangt, und nun fragte er nach seiner Hildegund und vernahm das Donnerwort: Sie ist eine Nonne!\n\nSchrecklich war, was Roland empfand. Stumm vor Schmerz geht er vom Drachenfels herab, besteigt sein Roß, reitet nach Rolandseck hinauf, entläßt seine Diener, wählt sich droben einen Felsensitz, wo er herabschauen kann nach Nonnenwerth, und schaut herab nach der Geliebten, jeden Tag, und Mond um Mond, und Jahr um Jahr, lebt als Einsiedler und murmelt Gebete, wenn drunten im Tale die Klosterglocke klingt. Bisweilen erblickt er die Nonne Hildegund, die aus Trauer um ihn das ewig unlösbare Gelübde tat – bis er einst sie lange nicht mehr sieht, bis ein Leichenzug ihm sagt, daß sie geschieden aus dem irdischen Leben und zum ewigen Frieden eingegangen. Und bald danach ist Roland erblichen gefunden worden und ihr dahin nachgegangen, wo alle liebenden Seelen im Schoße der ewigen Liebe sich wieder einigen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Es saß auf hoher Burg am Rhein hoch über dem Stromtal ein junger Rittersmann, Roland geheißen, manche sagen Roland von Angers, Neffe Karl des Großen, der liebte ein Burgfräulein, Hildegunde, die Tochter des Burggrafen Heribert, der auf dem nahen Schloß Drachenfels saß, und wurde wiederum auch von ihr geliebt.",
+      "id": "bechstein-sagen-khh1-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "rolandseck-nachricht-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Rolandseck – Einen Tag zu spät · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Rolandseck – Einen Tag zu spät\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Roland der Rolandsecksage\nAussehen: Junger erwachsener Mann mit braunem kurzem Bart.\nKleidung: Grauer Reisemantel, blaues Wams, Stiefel; keine sichtbare Waffe.\nPersönlichkeit und Vorgeschichte: Überlebt schwer verletzt, doch seine Nachricht kommt nicht an.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hildegunde vom Drachenfels\nAussehen: Junge erwachsene Frau mit dunklem Zopf.\nKleidung: Blaues langes Kleid, heller Schleier.\nPersönlichkeit und Vorgeschichte: Hält Roland für tot und tritt ins Kloster ein.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Heribert vom Drachenfels\nAussehen: Älterer Mann mit weißem Vollbart.\nKleidung: Brauner langer Rock, dunkle Schuhe.\nPersönlichkeit und Vorgeschichte: Vater Hildegundes, heißt die Verbindung zunächst gut.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Verlobten\nOrt und Zeit: Die Verlobten\nSichtbare Figuren: Roland der Rolandsecksage, Hildegunde vom Drachenfels, Heribert vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene auf dem Burghof, Paar mit ineinandergelegten Händen.\nErzählertext: Roland und Hildegunde liebten sich. Ihr Vater hatte der Verbindung zugestimmt.\nDialoge: keine\nKontinuität / Änderung: Drei Erwachsene auf dem Burghof, Paar mit ineinandergelegten Händen.\n\nKACHEL 2: Der Ruf zum Aufbruch\nOrt und Zeit: Der Ruf zum Aufbruch\nSichtbare Figuren: Roland der Rolandsecksage, Hildegunde vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter vor einer erwachsenen Frau zu Fuß, Hände am Zügel.\nErzählertext: Noch vor der Hochzeit musste Roland zum Kampf aufbrechen.\nDialoge: keine\nKontinuität / Änderung: Ein Reiter vor einer erwachsenen Frau zu Fuß, Hände am Zügel.\n\nKACHEL 3: Die gute Nachricht\nOrt und Zeit: Die gute Nachricht\nSichtbare Figuren: Hildegunde vom Drachenfels, Heribert vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote mit geschlossenem Brief, Frau und Vater erwarten ihn.\nErzählertext: Zunächst hörte man von seinen Erfolgen.\nDialoge: keine\nKontinuität / Änderung: Bote mit geschlossenem Brief, Frau und Vater erwarten ihn.\n\nKACHEL 4: Das lange Schweigen\nOrt und Zeit: Das lange Schweigen\nSichtbare Figuren: Hildegunde vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junge Frau im blauen Kleid blickt auf leeren Weg.\nErzählertext: Dann blieb jede Nachricht aus.\nDialoge: keine\nKontinuität / Änderung: Junge Frau im blauen Kleid blickt auf leeren Weg.\n\nKACHEL 5: Der heimkehrende Ritter\nOrt und Zeit: Der heimkehrende Ritter\nSichtbare Figuren: Heribert vom Drachenfels, Hildegunde vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene im Saal, Reisender erschöpft.\nErzählertext: Ein Heimkehrer berichtete, Roland sei an seiner Seite gefallen.\nDialoge: keine\nKontinuität / Änderung: Drei Erwachsene im Saal, Reisender erschöpft.\n\nKACHEL 6: Die neue Gewissheit\nOrt und Zeit: Die neue Gewissheit\nSichtbare Figuren: Hildegunde vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau allein, ein geschlossener Brief unberührt auf dem Tisch.\nErzählertext: Hildegunde glaubte die Nachricht. In ihrer Trauer entschied sie sich für Nonnenwerth.\nDialoge: keine\nKontinuität / Änderung: Eine erwachsene Frau allein, ein geschlossener Brief unberührt auf dem Tisch.\n\nKACHEL 7: Der schnelle Eintritt\nOrt und Zeit: Der schnelle Eintritt\nSichtbare Figuren: Hildegunde vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau im grauen Ordenskleid und weißen Schleier, blaues Kleid gefaltet auf einer Bank.\nErzählertext: Nach nur einem Monat nahm sie den Schleier.\nDialoge: keine\nKontinuität / Änderung: Dieselbe Frau im grauen Ordenskleid und weißen Schleier, blaues Kleid gefaltet auf einer Bank.\n\nKACHEL 8: Die unerwartete Rückkehr\nOrt und Zeit: Die unerwartete Rückkehr\nSichtbare Figuren: Roland der Rolandsecksage, Heribert vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer begegnen sich am Burgtor, ein leeres Pferd seitlich.\nErzählertext: Am folgenden Tag kehrte Roland lebend zurück.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer begegnen sich am Burgtor, ein leeres Pferd seitlich.\n\nKACHEL 9: Die verlorene Nachricht\nOrt und Zeit: Die verlorene Nachricht\nSichtbare Figuren: Roland der Rolandsecksage, Heribert vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im stillen Saal, keine tatsächlich tote Rolandfigur im Hintergrund.\nErzählertext: Man hatte ihn für tot gehalten, doch er war genesen. Sein eigener Bote war nicht angekommen.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene im stillen Saal, keine tatsächlich tote Rolandfigur im Hintergrund.\n\nKACHEL 10: Die neue Wirklichkeit\nOrt und Zeit: Die neue Wirklichkeit\nSichtbare Figuren: Roland der Rolandsecksage, Heribert vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Roland mit beiden leeren Händen, Vater ohne Drohgebärde.\nErzählertext: Jetzt erfuhr er, dass Hildegunde Nonne geworden war. Der Irrtum hatte eine eigene Wirklichkeit geschaffen.\nDialoge: keine\nKontinuität / Änderung: Roland mit beiden leeren Händen, Vater ohne Drohgebärde.\n\nKACHEL 11: Der Felsensitz\nOrt und Zeit: Der Felsensitz\nSichtbare Figuren: Roland der Rolandsecksage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann auf sicherem Felsabsatz mit Blick zur fernen Klosterinsel.\nErzählertext: Roland zog sich zurück und blickte Tag für Tag nach Nonnenwerth.\nDialoge: keine\nKontinuität / Änderung: Ein erwachsener Mann auf sicherem Felsabsatz mit Blick zur fernen Klosterinsel.\n\nKACHEL 12: Die entfernte Geliebte\nOrt und Zeit: Die entfernte Geliebte\nSichtbare Figuren: Hildegunde vom Drachenfels\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelne Nonne im Garten der Insel, kein gleichzeitig erreichbarer Roland neben ihr.\nErzählertext: Manchmal konnte er sie sehen. Die Nähe blieb durch Abstand und Gelübde begrenzt.\nDialoge: keine\nKontinuität / Änderung: Einzelne Nonne im Garten der Insel, kein gleichzeitig erreichbarer Roland neben ihr.\n\nKACHEL 13: Der stille Zug\nOrt und Zeit: Der stille Zug\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner geschlossener Sarg in kleiner Klosterprozession, keine offene Leiche.\nErzählertext: Eines Tages sah er ihren Leichenzug.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner geschlossener Sarg in kleiner Klosterprozession, keine offene Leiche.\n\nKACHEL 14: Der leere Sitz\nOrt und Zeit: Der leere Sitz\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbesetzter Felsensitz über dem Rhein, Klosterinsel fern.\nErzählertext: Bald darauf starb auch Roland. Die spätere Wahrheit hatte das Leben nach der falschen Nachricht nicht rückgängig machen können.\nDialoge: keine\nKontinuität / Änderung: Unbesetzter Felsensitz über dem Rhein, Klosterinsel fern.\n"
+  },
+  "count_policy": "editorial"
+}

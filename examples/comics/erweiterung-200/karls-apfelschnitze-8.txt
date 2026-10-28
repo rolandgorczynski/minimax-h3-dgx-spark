@@ -1,0 +1,104 @@
+TITEL: Kaiser Karls Apfelschnitze – Zu spät geöffnet
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Karl als Vater der Apfelsage
+Aussehen: Älterer Mann mit langem grauem Bart.
+Kleidung: Dunkelroter Rock, goldener Reif.
+Persönlichkeit und Vorgeschichte: Prüft in der Sage die Bereitschaft seiner Söhne.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ältester Karl der Apfelsage
+Aussehen: Junger erwachsener Mann mit schwarzem kurzem Haar, bartlos.
+Kleidung: Blaues Wams und graue Hose.
+Persönlichkeit und Vorgeschichte: Lehnt zunächst ab und kommt erst nach sichtbarem Gewinn wieder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Pipin der Apfelsage
+Aussehen: Junger erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Grünes Wams und braune Hose.
+Persönlichkeit und Vorgeschichte: Nimmt den angebotenen Schritt an.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ludwig der Apfelsage
+Aussehen: Junger erwachsener Mann mit hellbraunem Lockenhaar.
+Kleidung: Graues Wams und dunkle Hose.
+Persönlichkeit und Vorgeschichte: Folgt ebenfalls der Bitte des Vaters.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Nach dem Essen
+Ort und Zeit: Nach dem Essen
+Sichtbare Figuren: Karl als Vater der Apfelsage, Ältester Karl der Apfelsage, Pipin der Apfelsage, Ludwig der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Vater mit Apfel, drei unterschiedliche erwachsene Söhne daneben.
+Erzählertext: Karl schälte nach dem Essen einen Apfel. Seine drei Söhne standen bei ihm.
+Dialoge: keine
+Kontinuität / Änderung: Ein älterer Vater mit Apfel, drei unterschiedliche erwachsene Söhne daneben.
+
+KACHEL 2: Der erste Schnitz
+Ort und Zeit: Der erste Schnitz
+Sichtbare Figuren: Karl als Vater der Apfelsage, Ältester Karl der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Fruchtspalte in der Hand des Vaters, ältester Sohn berührt sie nicht.
+Erzählertext: Den Ältesten bat er, einen Schnitz von ihm anzunehmen.
+Dialoge: keine
+Kontinuität / Änderung: Eine Fruchtspalte in der Hand des Vaters, ältester Sohn berührt sie nicht.
+
+KACHEL 3: Die abgelehnte Nähe
+Ort und Zeit: Die abgelehnte Nähe
+Sichtbare Figuren: Ältester Karl der Apfelsage, Karl als Vater der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene, Sohn mit abgewandtem Gesicht, Apfelschnitz weiter beim Vater.
+Erzählertext: Der Sohn hielt das für beschämend. Er könne selbst Äpfel schälen und essen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene, Sohn mit abgewandtem Gesicht, Apfelschnitz weiter beim Vater.
+
+KACHEL 4: Pipins Schritt
+Ort und Zeit: Pipins Schritt
+Sichtbare Figuren: Pipin der Apfelsage, Karl als Vater der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsener Sohn auf einem Knie, Vater reicht einen kleinen Schnitz, kein aufgedrängter Griff ins Gesicht.
+Erzählertext: Pipin nahm die Bitte an.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsener Sohn auf einem Knie, Vater reicht einen kleinen Schnitz, kein aufgedrängter Griff ins Gesicht.
+
+KACHEL 5: Die erste Zusage
+Ort und Zeit: Die erste Zusage
+Sichtbare Figuren: Pipin der Apfelsage, Karl als Vater der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene, keine neu aus dem Tisch wachsende Landkarte.
+Erzählertext: Der Vater versprach ihm Länder und Königswürde.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene, keine neu aus dem Tisch wachsende Landkarte.
+
+KACHEL 6: Ludwigs Antwort
+Ort und Zeit: Ludwigs Antwort
+Sichtbare Figuren: Ludwig der Apfelsage, Karl als Vater der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Sohn im grauen Wams nimmt einen kleinen Apfelschnitz.
+Erzählertext: Auch Ludwig folgte der Bitte und erhielt eine Zusage.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Sohn im grauen Wams nimmt einen kleinen Apfelschnitz.
+
+KACHEL 7: Der nachträgliche Wunsch
+Ort und Zeit: Der nachträgliche Wunsch
+Sichtbare Figuren: Ältester Karl der Apfelsage, Karl als Vater der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ältester Sohn nun erwartungsvoll, Vater hält keine weitere Spalte bereit.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Ältester Karl der Apfelsage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Jetzt möchte ich auch einen Schnitz.“
+Kontinuität / Änderung: Ältester Sohn nun erwartungsvoll, Vater hält keine weitere Spalte bereit.
+
+KACHEL 8: Die verpasste Gelegenheit
+Ort und Zeit: Die verpasste Gelegenheit
+Sichtbare Figuren: Ältester Karl der Apfelsage, Karl als Vater der Apfelsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater und erwachsener Sohn, die beiden Brüder nur fern im Hintergrund.
+Erzählertext: Karl sagte, er komme zu spät. Die Pointe gilt dem Mitmachen erst beim sichtbaren Vorteil, nicht einer historischen Erklärung der Reichsteilung.
+Dialoge: keine
+Kontinuität / Änderung: Vater und erwachsener Sohn, die beiden Brüder nur fern im Hintergrund.

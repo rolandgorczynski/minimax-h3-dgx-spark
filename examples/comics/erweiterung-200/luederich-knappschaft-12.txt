@@ -1,0 +1,118 @@
+TITEL: Die Knappschaft im Lüderich – Der missachtete Boden
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hirte am Lüderich
+Aussehen: Erwachsener Mann mit braunem kurzen Bart.
+Kleidung: Graues Wollhemd, braune Hose und Schuhe, Holzstab.
+Persönlichkeit und Vorgeschichte: Verlässt nach einer Warnung mit seinen Tieren den Berg.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bergmann der Lüderichsage
+Aussehen: Erwachsener kräftiger Mann mit schwarzem kurzem Bart.
+Kleidung: Braunes Arbeitswams, graue Hose, einfache Haube.
+Persönlichkeit und Vorgeschichte: Verdichteter Vertreter der reichen Knappschaft, ohne pauschales Urteil über Bergarbeiter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der reiche Berg
+Ort und Zeit: Der reiche Berg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Berg mit mehreren alten Stolleneingängen, einfache Erzförderung am Hang.
+Erzählertext: Der Lüderich galt in der Sage als Berg von großer Ausbeute.
+Dialoge: keine
+Kontinuität / Änderung: Berg mit mehreren alten Stolleneingängen, einfache Erzförderung am Hang.
+
+KACHEL 2: Der sichtbare Wohlstand
+Ort und Zeit: Der sichtbare Wohlstand
+Sichtbare Figuren: Bergmann der Lüderichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bergmann mit Erzkarre und geordneten Körben, Hände leer.
+Erzählertext: Mit dem Reichtum wuchs nach der Erzählung der Übermut.
+Dialoge: keine
+Kontinuität / Änderung: Bergmann mit Erzkarre und geordneten Körben, Hände leer.
+
+KACHEL 3: Die Räder aus Käse
+Ort und Zeit: Die Räder aus Käse
+Sichtbare Figuren: Bergmann der Lüderichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Karren mit zwei runden gelblichen Käseleiben als Rädern, ausdrücklich groteskes Sagenbild, keine technischen Details.
+Erzählertext: Statt Lebensmittel zu achten, machte man in der Sage selbst Wagenräder aus Käse.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Karren mit zwei runden gelblichen Käseleiben als Rädern, ausdrücklich groteskes Sagenbild, keine technischen Details.
+
+KACHEL 4: Das Brot am Hang
+Ort und Zeit: Das Brot am Hang
+Sichtbare Figuren: Bergmann der Lüderichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner runder Brotlaib rollt von einem Mann weg auf leeren Hang, keine Menschen darunter.
+Erzählertext: Brot wurde den Berg hinabgerollt und verspottet.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner runder Brotlaib rollt von einem Mann weg auf leeren Hang, keine Menschen darunter.
+
+KACHEL 5: Der geteilte Alltag
+Ort und Zeit: Der geteilte Alltag
+Sichtbare Figuren: Hirte am Lüderich
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hirte mit kleinen Schafen auf sonniger Weide, Bergleute außerhalb.
+Erzählertext: Neben dem Treiben hütete ein Mann seine Tiere.
+Dialoge: keine
+Kontinuität / Änderung: Ein Hirte mit kleinen Schafen auf sonniger Weide, Bergleute außerhalb.
+
+KACHEL 6: Die Warnung
+Ort und Zeit: Die Warnung
+Sichtbare Figuren: Hirte am Lüderich
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hirte allein im Vordergrund, keine körperliche Stimme am Himmel.
+Erzählertext: Er hörte die Aufforderung, den Lüderich zu verlassen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Hirte allein im Vordergrund, keine körperliche Stimme am Himmel.
+
+KACHEL 7: Der Fortgang
+Ort und Zeit: Der Fortgang
+Sichtbare Figuren: Hirte am Lüderich
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hirte geht zu Fuß links voraus, Schafe folgen als getrennte Tiere.
+Erzählertext: Er trieb die Herde weg.
+Dialoge: keine
+Kontinuität / Änderung: Hirte geht zu Fuß links voraus, Schafe folgen als getrennte Tiere.
+
+KACHEL 8: Die verlockende Jagd
+Ort und Zeit: Die verlockende Jagd
+Sichtbare Figuren: Bergmann der Lüderichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bergmann und wenige namenlose Erwachsene folgen einem entfernten Hirsch zur Höhle.
+Erzählertext: Die Herren des Bergbaus folgten dagegen einem lockenden Jagdtier.
+Dialoge: keine
+Kontinuität / Änderung: Ein Bergmann und wenige namenlose Erwachsene folgen einem entfernten Hirsch zur Höhle.
+
+KACHEL 9: Im Heidenkeller
+Ort und Zeit: Im Heidenkeller
+Sichtbare Figuren: Bergmann der Lüderichsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann im Eingang mit weiteren fernen Silhouetten, Tier außerhalb des Ausschnitts.
+Erzählertext: Es führte sie in die Höhle des Heidenkellers.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann im Eingang mit weiteren fernen Silhouetten, Tier außerhalb des Ausschnitts.
+
+KACHEL 10: Der Zusammenbruch
+Ort und Zeit: Der Zusammenbruch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Staub und eingestürzte Stollenzugänge, keine erschlagenen Menschen im Bild.
+Erzählertext: Mit einem Mal stürzten die Schächte ein. Die Sage lässt die Knappschaft dabei untergehen.
+Dialoge: keine
+Kontinuität / Änderung: Staub und eingestürzte Stollenzugänge, keine erschlagenen Menschen im Bild.
+
+KACHEL 11: Die verschlossenen Wege
+Ort und Zeit: Die verschlossenen Wege
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verschütteter Stollen mit austretendem rötlichem Wasser, keine sichtbar schwimmenden Körper.
+Erzählertext: Wasser füllte die Gruben und machte die Wege unbrauchbar.
+Dialoge: keine
+Kontinuität / Änderung: Verschütteter Stollen mit austretendem rötlichem Wasser, keine sichtbar schwimmenden Körper.
+
+KACHEL 12: Die rote Quelle
+Ort und Zeit: Die rote Quelle
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine kleine rötliche Quelle unter Fels im grünen späteren Hang.
+Erzählertext: Die Quelle blieb als Zeichen. Der Übermut hatte in der Erzählung die eigene Grundlage verloren; ihre Blutfarbe ist Sagenbedeutung, kein Nachweis des Geschehens.
+Dialoge: keine
+Kontinuität / Änderung: Eine kleine rötliche Quelle unter Fels im grünen späteren Hang.

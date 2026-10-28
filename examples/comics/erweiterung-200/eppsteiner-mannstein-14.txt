@@ -9,14 +9,14 @@ FIGUREN
 
 Name: Ritter Eppo
 Aussehen: Erwachsener Mann mit braunem kurzem Bart und braunen Augen.
-Kleidung: Zunächst grauer Harnisch und blauer Überwurf; Austausch wird je Kachel angegeben.
+Kleidung: Grauer Harnisch und blauer Überwurf.
 Persönlichkeit und Vorgeschichte: Plant die Rettung mit eisernem Netz und Kleidertausch.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
 
 Name: Eppos Knappe
 Aussehen: Junger erwachsener Mann, schwarzes kurzes Haar, bartlos.
-Kleidung: Zunächst braunes Knappenwams und graue Hose.
+Kleidung: Braunes Knappenwams und graue Hose.
 Persönlichkeit und Vorgeschichte: Übernimmt Eppos Rüstung und wird irrtümlich versteinert.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.

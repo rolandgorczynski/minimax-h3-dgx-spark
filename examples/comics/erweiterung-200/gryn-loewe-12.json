@@ -1,0 +1,688 @@
+{
+  "mode": "editorial",
+  "name": "Herr Gryn und der Löwe – Die falsche Gastlichkeit · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Herr Gryn und der Löwe. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 116.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Köln saß auf dem geistlichen Herrscherstuhle Erzbischof Engelbert, der hatte viel Streitens mit der Bürgerschaft, das bis zum blutigen Kampf gedieh. Dieser Bischof hatte einen Löwen, den hatten ihm zwei Domherren aufgezogen. Gegen den Bischof stand im steten Streite der Bürgermeister der Stadt, Herr Hermann Gryn, und hielt zur Gemeinde und verteidigte deren Rechte, doch war er mit den Domherren gleichwohl persönlich nicht verfeindet. So luden die zwei, welche des Erzbischofs enge Freunde waren, eines Tages – es soll im Jahre 1266 sich zugetragen haben – den Bürgermeister zu sich ein zu einem Gastmahl und brachten das Gespräch auf den Löwen, den sie heimlich hatten fasten und sehr hungrig werden lassen, und erboten sich, vor dem Essen ihm den Löwen sehen zu lassen. Sie führten Hermann Gryn an die Pforte des Löwenzwingers, öffneten diese und stießen ihn unversehens hinein, worauf sie die Türe zuschlugen und vermeinten, der Löwe werde ihn alsobald zerreißen. Der Löwe, als er den Mann sah, riß den Rachen mit den scharfen Zähnen weit auf, schlug einen Schweifring und legte sich nach Katzenart zum Sprunge; Herr Hermann Gryn aber, wie er sah, was ihm drohte, schlang rasch seinen Mantel um den linken Arm und faßte seine Gugel, die er in der Hand hielt, fest und zog sein Schwert und wartete nicht, bis der Löwe sprang, sondern stürzte sich auf ihn mit gezücktem Schwerte, fuhr ihm mit dem linken Arm in den Rachen hinein und durchstieß ihn mit dem Schwerte. Dann gewann er einen Ausgang und ging, ohne gegessen zu haben, seinem Hause zu. Dieses Mittagessen bekam aber den beiden Domherren gar übel, denn der Bürgermeister sandte seine Häscher unversehens und ließ sie greifen und aufhenken an einen Balken gleich am Tore des Chorherrenhauses neben dem Dom, das nannte man seitdem das Pfaffentor. Darauf wurde zum Andenken solchen Mutes das Bild Gryns mit noch dreien andern Löwenbändigern in Gesellschaft in Stein ausgeführt und zur Zier über dem Pfeilerbogengang am Rathaus angebracht, da sieht man die Mär von Herzog Heinrich dem Löwen, Simsons Löwenkampf und Daniel in der Löwengrube dem Kölner Löwensieger beigesellt. –\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Herr Gryn und der Löwe. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 116.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Köln saß auf dem geistlichen Herrscherstuhle Erzbischof Engelbert, der hatte viel Streitens mit der Bürgerschaft, das bis zum blutigen Kampf gedieh. Dieser Bischof hatte einen Löwen, den hatten ihm zwei Domherren aufgezogen. Gegen den Bischof stand im steten Streite der Bürgermeister der Stadt, Herr Hermann Gryn, und hielt zur Gemeinde und verteidigte deren Rechte, doch war er mit den Domherren gleichwohl persönlich nicht verfeindet. So luden die zwei, welche des Erzbischofs enge Freunde waren, eines Tages – es soll im Jahre 1266 sich zugetragen haben – den Bürgermeister zu sich ein zu einem Gastmahl und brachten das Gespräch auf den Löwen, den sie heimlich hatten fasten und sehr hungrig werden lassen, und erboten sich, vor dem Essen ihm den Löwen sehen zu lassen. Sie führten Hermann Gryn an die Pforte des Löwenzwingers, öffneten diese und stießen ihn unversehens hinein, worauf sie die Türe zuschlugen und vermeinten, der Löwe werde ihn alsobald zerreißen. Der Löwe, als er den Mann sah, riß den Rachen mit den scharfen Zähnen weit auf, schlug einen Schweifring und legte sich nach Katzenart zum Sprunge; Herr Hermann Gryn aber, wie er sah, was ihm drohte, schlang rasch seinen Mantel um den linken Arm und faßte seine Gugel, die er in der Hand hielt, fest und zog sein Schwert und wartete nicht, bis der Löwe sprang, sondern stürzte sich auf ihn mit gezücktem Schwerte, fuhr ihm mit dem linken Arm in den Rachen hinein und durchstieß ihn mit dem Schwerte. Dann gewann er einen Ausgang und ging, ohne gegessen zu haben, seinem Hause zu. Dieses Mittagessen bekam aber den beiden Domherren gar übel, denn der Bürgermeister sandte seine Häscher unversehens und ließ sie greifen und aufhenken an einen Balken gleich am Tore des Chorherrenhauses neben dem Dom, das nannte man seitdem das Pfaffentor. Darauf wurde zum Andenken solchen Mutes das Bild Gryns mit noch dreien andern Löwenbändigern in Gesellschaft in Stein ausgeführt und zur Zier über dem Pfeilerbogengang am Rathaus angebracht, da sieht man die Mär von Herzog Heinrich dem Löwen, Simsons Löwenkampf und Daniel in der Löwengrube dem Kölner Löwensieger beigesellt. –\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Der öffentliche Streit",
+        "setting": "Der öffentliche Streit",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bürgermeister auf einem Platz vor Bürgern, keine drohende Löwenfigur im Hintergrund.",
+        "dialog": "Gryn vertrat die Gemeinde im Streit mit dem Bischof.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "steht vor erwachsenen Bürgern; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Bürgermeister auf einem Platz vor Bürgern, keine drohende Löwenfigur im Hintergrund.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Der öffentliche Streit",
+            "posture": "steht vor erwachsenen Bürgern"
+          }
+        }
+      },
+      {
+        "heading": "Die persönliche Einladung",
+        "setting": "Die persönliche Einladung",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527",
+          "9e916b3d00e45ff28438899f5becf117",
+          "cac138afc1985768b020be2d711f3319"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene vor einer Tür, Gastgeber mit offenen Händen.",
+        "dialog": "Mit zwei Domherren war er persönlich nicht verfeindet. Er nahm ihre Einladung zum Essen an.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "steht vor beiden Domherren; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "9e916b3d00e45ff28438899f5becf117": "steht links; Schwarzes geistliches Gewand.; Lebenszustand: lebend",
+          "cac138afc1985768b020be2d711f3319": "steht rechts; Dunkelbraunes geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Erwachsene vor einer Tür, Gastgeber mit offenen Händen.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Die persönliche Einladung",
+            "posture": "steht vor beiden Domherren"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Die persönliche Einladung",
+            "posture": "steht links"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Die persönliche Einladung",
+            "posture": "steht rechts"
+          }
+        }
+      },
+      {
+        "heading": "Der hungrige Löwe",
+        "setting": "Der hungrige Löwe",
+        "characters": [
+          "64125b412bbd5abf8a02fae3298ef52a"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Löwe vor leerem Futtertrog hinter geschlossener Tür.",
+        "dialog": "Die Gastgeber hatten den Löwen heimlich hungern lassen.",
+        "bubbles": [],
+        "character_states": {
+          "64125b412bbd5abf8a02fae3298ef52a": "liegt allein im Zwinger; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Löwe vor leerem Futtertrog hinter geschlossener Tür.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Die persönliche Einladung",
+            "posture": "steht vor beiden Domherren"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Die persönliche Einladung",
+            "posture": "steht links"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Die persönliche Einladung",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der hungrige Löwe",
+            "posture": "liegt allein im Zwinger"
+          }
+        }
+      },
+      {
+        "heading": "Vor dem Essen",
+        "setting": "Vor dem Essen",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527",
+          "9e916b3d00e45ff28438899f5becf117",
+          "cac138afc1985768b020be2d711f3319"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer vor einer geschlossenen massiven Zwingertür, Gryn noch im Mantel.",
+        "dialog": "Sie boten an, ihm zuerst das Tier zu zeigen.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "steht am Zwingertor; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "9e916b3d00e45ff28438899f5becf117": "steht links von ihm; Schwarzes geistliches Gewand.; Lebenszustand: lebend",
+          "cac138afc1985768b020be2d711f3319": "steht rechts; Dunkelbraunes geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Männer vor einer geschlossenen massiven Zwingertür, Gryn noch im Mantel.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Vor dem Essen",
+            "posture": "steht am Zwingertor"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht links von ihm"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der hungrige Löwe",
+            "posture": "liegt allein im Zwinger"
+          }
+        }
+      },
+      {
+        "heading": "Die verschlossene Falle",
+        "setting": "Die verschlossene Falle",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527",
+          "64125b412bbd5abf8a02fae3298ef52a"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mann links, Löwe rechts im geschlossenen Hof. Tür hinter dem Mann geschlossen.",
+        "dialog": "Sie stießen ihn hinein und schlossen die Tür.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "steht allein innen; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "64125b412bbd5abf8a02fae3298ef52a": "steht in Abstand gegenüber; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Mann links, Löwe rechts im geschlossenen Hof. Tür hinter dem Mann geschlossen.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Die verschlossene Falle",
+            "posture": "steht allein innen"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht links von ihm"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die verschlossene Falle",
+            "posture": "steht in Abstand gegenüber"
+          }
+        }
+      },
+      {
+        "heading": "Die unmittelbare Gefahr",
+        "setting": "Die unmittelbare Gefahr",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527",
+          "64125b412bbd5abf8a02fae3298ef52a"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Grauer Mantel nur am linken Unterarm, rechte Hand nahe dem einzigen Schwertgriff.",
+        "dialog": "Gryn fasste sich schnell: Er schützte seinen linken Arm mit dem Mantel.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "steht mit angewickeltem Mantel am linken Arm; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "64125b412bbd5abf8a02fae3298ef52a": "kauert gegenüber; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Grauer Mantel nur am linken Unterarm, rechte Hand nahe dem einzigen Schwertgriff.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Die unmittelbare Gefahr",
+            "posture": "steht mit angewickeltem Mantel am linken Arm"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht links von ihm"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die unmittelbare Gefahr",
+            "posture": "kauert gegenüber"
+          }
+        }
+      },
+      {
+        "heading": "Die gezogene Klinge",
+        "setting": "Die gezogene Klinge",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527",
+          "64125b412bbd5abf8a02fae3298ef52a"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge rechts, linke Scheide klar leer, linkes Mantelbündel vor seinem Körper.",
+        "dialog": "Er zog sein Schwert und ging dem Sprung des Tiers entgegen.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "hält rechts sein einziges Schwert; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "64125b412bbd5abf8a02fae3298ef52a": "steht vor ihm; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine Klinge rechts, linke Scheide klar leer, linkes Mantelbündel vor seinem Körper.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Die gezogene Klinge",
+            "posture": "hält rechts sein einziges Schwert"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht links von ihm"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht vor ihm"
+          }
+        }
+      },
+      {
+        "heading": "Der verdeckte Kampf",
+        "setting": "Der verdeckte Kampf",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schatten eines Mannes und eines Löwen auf Zwingermauer, keine durchbohrten Körper oder tiefe Armverletzung.",
+        "dialog": "Die Sage lässt ihn den Löwen töten und die Falle überleben.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Schatten eines Mannes und eines Löwen auf Zwingermauer, keine durchbohrten Körper oder tiefe Armverletzung.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Die gezogene Klinge",
+            "posture": "hält rechts sein einziges Schwert"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht links von ihm"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht vor ihm"
+          }
+        }
+      },
+      {
+        "heading": "Der andere Ausgang",
+        "setting": "Der andere Ausgang",
+        "characters": [
+          "c710018ced7b518c93edc2dbe4eba527"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann allein draußen, Schwert wieder links vollständig in der Scheide, Mantel über linkem Arm.",
+        "dialog": "Er fand einen Ausgang und ging ohne Mahl nach Hause.",
+        "bubbles": [],
+        "character_states": {
+          "c710018ced7b518c93edc2dbe4eba527": "tritt aus einer geöffneten Seitentür; Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann allein draußen, Schwert wieder links vollständig in der Scheide, Mantel über linkem Arm.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Der andere Ausgang",
+            "posture": "tritt aus einer geöffneten Seitentür"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht links von ihm"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Vor dem Essen",
+            "posture": "steht rechts"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht vor ihm"
+          }
+        }
+      },
+      {
+        "heading": "Die Festnahme",
+        "setting": "Die Festnahme",
+        "characters": [
+          "9e916b3d00e45ff28438899f5becf117",
+          "cac138afc1985768b020be2d711f3319"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Domherren mit namenlosen erwachsenen Wächtern, keine Schläge.",
+        "dialog": "Gryn ließ die beiden Gastgeber festnehmen.",
+        "bubbles": [],
+        "character_states": {
+          "9e916b3d00e45ff28438899f5becf117": "steht unter Bewachung; Schwarzes geistliches Gewand.; Lebenszustand: lebend",
+          "cac138afc1985768b020be2d711f3319": "steht daneben; Dunkelbraunes geistliches Gewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Domherren mit namenlosen erwachsenen Wächtern, keine Schläge.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Der andere Ausgang",
+            "posture": "tritt aus einer geöffneten Seitentür"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Die Festnahme",
+            "posture": "steht unter Bewachung"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Die Festnahme",
+            "posture": "steht daneben"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht vor ihm"
+          }
+        }
+      },
+      {
+        "heading": "Die harte Vergeltung",
+        "setting": "Die harte Vergeltung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossenes Tor des Chorherrenhauses, keine aufgehängten Körper.",
+        "dialog": "Die Sage berichtet von ihrer Hinrichtung. Die überstandene Gefahr wurde nicht zum friedlichen Ende.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Geschlossenes Tor des Chorherrenhauses, keine aufgehängten Körper.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Der andere Ausgang",
+            "posture": "tritt aus einer geöffneten Seitentür"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Die Festnahme",
+            "posture": "steht unter Bewachung"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Die Festnahme",
+            "posture": "steht daneben"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht vor ihm"
+          }
+        }
+      },
+      {
+        "heading": "Das Stadtbild",
+        "setting": "Das Stadtbild",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein steinernes Relief Gryns mit einem Löwen neben anderen separaten Löwenszenen, keine lebenden Tierduplikate.",
+        "dialog": "Sein Mut wurde im Stadtbild bewahrt. Der vertrauten Form der Gastlichkeit hatte kein verlässliches Handeln entsprochen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein steinernes Relief Gryns mit einem Löwen neben anderen separaten Löwenszenen, keine lebenden Tierduplikate.",
+        "continuity_state": {
+          "c710018ced7b518c93edc2dbe4eba527": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+            "location": "Der andere Ausgang",
+            "posture": "tritt aus einer geöffneten Seitentür"
+          },
+          "9e916b3d00e45ff28438899f5becf117": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geistliches Gewand.",
+            "location": "Die Festnahme",
+            "posture": "steht unter Bewachung"
+          },
+          "cac138afc1985768b020be2d711f3319": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelbraunes geistliches Gewand.",
+            "location": "Die Festnahme",
+            "posture": "steht daneben"
+          },
+          "64125b412bbd5abf8a02fae3298ef52a": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht vor ihm"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Hermann Gryn der Kölner Sage",
+        "description": "Erwachsener kräftiger Mann mit braunem Vollbart.",
+        "outfit": "Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.",
+        "backstory": "Verteidigt Stadtrechte und gerät durch eine Einladung in den Löwenzwinger.",
+        "id": "c710018ced7b518c93edc2dbe4eba527",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Erster Domherr der Grynsage",
+        "description": "Älterer schlanker Mann mit grauem Haar, bartlos.",
+        "outfit": "Schwarzes geistliches Gewand.",
+        "backstory": "Mitplaner der verräterischen Einladung.",
+        "id": "9e916b3d00e45ff28438899f5becf117",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Zweiter Domherr der Grynsage",
+        "description": "Erwachsener breiter Mann mit dunklem kurzem Bart.",
+        "outfit": "Dunkelbraunes geistliches Gewand.",
+        "backstory": "Zieht mit dem anderen Gastgeber die scheinbare persönliche Freundschaft zur Falle heran.",
+        "id": "cac138afc1985768b020be2d711f3319",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Löwe im Kölner Zwinger",
+        "description": "Ein ausgewachsener goldbrauner Löwe mit Mähne, vier Beinen und einem Schwanz.",
+        "outfit": "Natürliches Fell.",
+        "backstory": "Wird von den Menschen hungrig gehalten und als Waffe benutzt.",
+        "id": "64125b412bbd5abf8a02fae3298ef52a",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was verrät eine Macht, die Widerspruch durch heimliche Tötung beseitigen will?",
+      "core": "Die vermeintlich sichere Überlegenheit einer verräterischen Einladung kann an Mut und Geistesgegenwart des Bedrohten scheitern. Vertraute Form ersetzt kein verlässliches Handeln.",
+      "ending": "Gryn überlebt und bestraft die Domherren; sein Löwenkampf wird zum städtischen Erinnerungsbild.",
+      "reason": "Einladung, Verrat, entschlossene Gegenwehr und politische Folge kausal zeigen; nicht sämtliche geistlichen Figuren zu Tätern machen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "stießen ihn unversehens hinein",
+          "meaning": "Die Gastfreundschaft erweist sich im entscheidenden Augenblick als vorsätzlich hergestellte Falle."
+        }
+      ],
+      "causal_chain": [
+        "stießen ihn unversehens hinein",
+        "Gryn überlebt und bestraft die Domherren; sein Löwenkampf wird zum städtischen Erinnerungsbild."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "106e7c16f8196c582f9ddac219426ddf6316ba5cf7e41fa8cf6eb36b23d41b6f",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.710092+00:00"
+    },
+    "post_summary": "Ein Gastmahl tarnt eine tödliche Falle. Gryn überlebt – doch seine Vergeltung beendet die Geschichte nicht friedlich.",
+    "source_provenance": {
+      "title": "Herr Gryn und der Löwe",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 116.",
+      "url": "https://textgridrep.org/browse/kgrb.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Herr Gryn und der Löwe. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 116.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Köln saß auf dem geistlichen Herrscherstuhle Erzbischof Engelbert, der hatte viel Streitens mit der Bürgerschaft, das bis zum blutigen Kampf gedieh. Dieser Bischof hatte einen Löwen, den hatten ihm zwei Domherren aufgezogen. Gegen den Bischof stand im steten Streite der Bürgermeister der Stadt, Herr Hermann Gryn, und hielt zur Gemeinde und verteidigte deren Rechte, doch war er mit den Domherren gleichwohl persönlich nicht verfeindet. So luden die zwei, welche des Erzbischofs enge Freunde waren, eines Tages – es soll im Jahre 1266 sich zugetragen haben – den Bürgermeister zu sich ein zu einem Gastmahl und brachten das Gespräch auf den Löwen, den sie heimlich hatten fasten und sehr hungrig werden lassen, und erboten sich, vor dem Essen ihm den Löwen sehen zu lassen. Sie führten Hermann Gryn an die Pforte des Löwenzwingers, öffneten diese und stießen ihn unversehens hinein, worauf sie die Türe zuschlugen und vermeinten, der Löwe werde ihn alsobald zerreißen. Der Löwe, als er den Mann sah, riß den Rachen mit den scharfen Zähnen weit auf, schlug einen Schweifring und legte sich nach Katzenart zum Sprunge; Herr Hermann Gryn aber, wie er sah, was ihm drohte, schlang rasch seinen Mantel um den linken Arm und faßte seine Gugel, die er in der Hand hielt, fest und zog sein Schwert und wartete nicht, bis der Löwe sprang, sondern stürzte sich auf ihn mit gezücktem Schwerte, fuhr ihm mit dem linken Arm in den Rachen hinein und durchstieß ihn mit dem Schwerte. Dann gewann er einen Ausgang und ging, ohne gegessen zu haben, seinem Hause zu. Dieses Mittagessen bekam aber den beiden Domherren gar übel, denn der Bürgermeister sandte seine Häscher unversehens und ließ sie greifen und aufhenken an einen Balken gleich am Tore des Chorherrenhauses neben dem Dom, das nannte man seitdem das Pfaffentor. Darauf wurde zum Andenken solchen Mutes das Bild Gryns mit noch dreien andern Löwenbändigern in Gesellschaft in Stein ausgeführt und zur Zier über dem Pfeilerbogengang am Rathaus angebracht, da sieht man die Mär von Herzog Heinrich dem Löwen, Simsons Löwenkampf und Daniel in der Löwengrube dem Kölner Löwensieger beigesellt. –\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Zu Köln saß auf dem geistlichen Herrscherstuhle Erzbischof Engelbert, der hatte viel Streitens mit der Bürgerschaft, das bis zum blutigen Kampf gedieh. Dieser Bischof hatte einen Löwen, den hatten ihm zwei Domherren aufgezogen.",
+      "id": "bechstein-sagen-kgrb-0",
+      "category": "Fabeln und Tiergeschichten",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "gryn-loewe-12-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Herr Gryn und der Löwe – Die falsche Gastlichkeit · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Herr Gryn und der Löwe – Die falsche Gastlichkeit\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Hermann Gryn der Kölner Sage\nAussehen: Erwachsener kräftiger Mann mit braunem Vollbart.\nKleidung: Dunkelblauer Bürgerrock, grauer Mantel, ein Schwert in linker Scheide.\nPersönlichkeit und Vorgeschichte: Verteidigt Stadtrechte und gerät durch eine Einladung in den Löwenzwinger.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Erster Domherr der Grynsage\nAussehen: Älterer schlanker Mann mit grauem Haar, bartlos.\nKleidung: Schwarzes geistliches Gewand.\nPersönlichkeit und Vorgeschichte: Mitplaner der verräterischen Einladung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Zweiter Domherr der Grynsage\nAussehen: Erwachsener breiter Mann mit dunklem kurzem Bart.\nKleidung: Dunkelbraunes geistliches Gewand.\nPersönlichkeit und Vorgeschichte: Zieht mit dem anderen Gastgeber die scheinbare persönliche Freundschaft zur Falle heran.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Löwe im Kölner Zwinger\nAussehen: Ein ausgewachsener goldbrauner Löwe mit Mähne, vier Beinen und einem Schwanz.\nKleidung: Natürliches Fell.\nPersönlichkeit und Vorgeschichte: Wird von den Menschen hungrig gehalten und als Waffe benutzt.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der öffentliche Streit\nOrt und Zeit: Der öffentliche Streit\nSichtbare Figuren: Hermann Gryn der Kölner Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bürgermeister auf einem Platz vor Bürgern, keine drohende Löwenfigur im Hintergrund.\nErzählertext: Gryn vertrat die Gemeinde im Streit mit dem Bischof.\nDialoge: keine\nKontinuität / Änderung: Bürgermeister auf einem Platz vor Bürgern, keine drohende Löwenfigur im Hintergrund.\n\nKACHEL 2: Die persönliche Einladung\nOrt und Zeit: Die persönliche Einladung\nSichtbare Figuren: Hermann Gryn der Kölner Sage, Erster Domherr der Grynsage, Zweiter Domherr der Grynsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene vor einer Tür, Gastgeber mit offenen Händen.\nErzählertext: Mit zwei Domherren war er persönlich nicht verfeindet. Er nahm ihre Einladung zum Essen an.\nDialoge: keine\nKontinuität / Änderung: Drei Erwachsene vor einer Tür, Gastgeber mit offenen Händen.\n\nKACHEL 3: Der hungrige Löwe\nOrt und Zeit: Der hungrige Löwe\nSichtbare Figuren: Löwe im Kölner Zwinger\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Löwe vor leerem Futtertrog hinter geschlossener Tür.\nErzählertext: Die Gastgeber hatten den Löwen heimlich hungern lassen.\nDialoge: keine\nKontinuität / Änderung: Ein Löwe vor leerem Futtertrog hinter geschlossener Tür.\n\nKACHEL 4: Vor dem Essen\nOrt und Zeit: Vor dem Essen\nSichtbare Figuren: Hermann Gryn der Kölner Sage, Erster Domherr der Grynsage, Zweiter Domherr der Grynsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer vor einer geschlossenen massiven Zwingertür, Gryn noch im Mantel.\nErzählertext: Sie boten an, ihm zuerst das Tier zu zeigen.\nDialoge: keine\nKontinuität / Änderung: Drei Männer vor einer geschlossenen massiven Zwingertür, Gryn noch im Mantel.\n\nKACHEL 5: Die verschlossene Falle\nOrt und Zeit: Die verschlossene Falle\nSichtbare Figuren: Hermann Gryn der Kölner Sage, Löwe im Kölner Zwinger\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mann links, Löwe rechts im geschlossenen Hof. Tür hinter dem Mann geschlossen.\nErzählertext: Sie stießen ihn hinein und schlossen die Tür.\nDialoge: keine\nKontinuität / Änderung: Mann links, Löwe rechts im geschlossenen Hof. Tür hinter dem Mann geschlossen.\n\nKACHEL 6: Die unmittelbare Gefahr\nOrt und Zeit: Die unmittelbare Gefahr\nSichtbare Figuren: Hermann Gryn der Kölner Sage, Löwe im Kölner Zwinger\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Grauer Mantel nur am linken Unterarm, rechte Hand nahe dem einzigen Schwertgriff.\nErzählertext: Gryn fasste sich schnell: Er schützte seinen linken Arm mit dem Mantel.\nDialoge: keine\nKontinuität / Änderung: Grauer Mantel nur am linken Unterarm, rechte Hand nahe dem einzigen Schwertgriff.\n\nKACHEL 7: Die gezogene Klinge\nOrt und Zeit: Die gezogene Klinge\nSichtbare Figuren: Hermann Gryn der Kölner Sage, Löwe im Kölner Zwinger\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge rechts, linke Scheide klar leer, linkes Mantelbündel vor seinem Körper.\nErzählertext: Er zog sein Schwert und ging dem Sprung des Tiers entgegen.\nDialoge: keine\nKontinuität / Änderung: Eine Klinge rechts, linke Scheide klar leer, linkes Mantelbündel vor seinem Körper.\n\nKACHEL 8: Der verdeckte Kampf\nOrt und Zeit: Der verdeckte Kampf\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schatten eines Mannes und eines Löwen auf Zwingermauer, keine durchbohrten Körper oder tiefe Armverletzung.\nErzählertext: Die Sage lässt ihn den Löwen töten und die Falle überleben.\nDialoge: keine\nKontinuität / Änderung: Schatten eines Mannes und eines Löwen auf Zwingermauer, keine durchbohrten Körper oder tiefe Armverletzung.\n\nKACHEL 9: Der andere Ausgang\nOrt und Zeit: Der andere Ausgang\nSichtbare Figuren: Hermann Gryn der Kölner Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann allein draußen, Schwert wieder links vollständig in der Scheide, Mantel über linkem Arm.\nErzählertext: Er fand einen Ausgang und ging ohne Mahl nach Hause.\nDialoge: keine\nKontinuität / Änderung: Ein Mann allein draußen, Schwert wieder links vollständig in der Scheide, Mantel über linkem Arm.\n\nKACHEL 10: Die Festnahme\nOrt und Zeit: Die Festnahme\nSichtbare Figuren: Erster Domherr der Grynsage, Zweiter Domherr der Grynsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Domherren mit namenlosen erwachsenen Wächtern, keine Schläge.\nErzählertext: Gryn ließ die beiden Gastgeber festnehmen.\nDialoge: keine\nKontinuität / Änderung: Zwei Domherren mit namenlosen erwachsenen Wächtern, keine Schläge.\n\nKACHEL 11: Die harte Vergeltung\nOrt und Zeit: Die harte Vergeltung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossenes Tor des Chorherrenhauses, keine aufgehängten Körper.\nErzählertext: Die Sage berichtet von ihrer Hinrichtung. Die überstandene Gefahr wurde nicht zum friedlichen Ende.\nDialoge: keine\nKontinuität / Änderung: Geschlossenes Tor des Chorherrenhauses, keine aufgehängten Körper.\n\nKACHEL 12: Das Stadtbild\nOrt und Zeit: Das Stadtbild\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein steinernes Relief Gryns mit einem Löwen neben anderen separaten Löwenszenen, keine lebenden Tierduplikate.\nErzählertext: Sein Mut wurde im Stadtbild bewahrt. Der vertrauten Form der Gastlichkeit hatte kein verlässliches Handeln entsprochen.\nDialoge: keine\nKontinuität / Änderung: Ein steinernes Relief Gryns mit einem Löwen neben anderen separaten Löwenszenen, keine lebenden Tierduplikate.\n"
+  },
+  "count_policy": "editorial"
+}

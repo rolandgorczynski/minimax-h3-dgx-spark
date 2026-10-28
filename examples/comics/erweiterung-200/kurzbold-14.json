@@ -1,0 +1,615 @@
+{
+  "mode": "editorial",
+  "name": "Der kühne Kurzbold – Ein anderer Maßstab · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Der kühne Kurzbold. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 100.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs war ein Graf des untern Lahngaues, Kunz, ein Bruderssohn des deutschen Königs Konrad, des Vaters von Heinrich dem Finkler – der war gar ein tapferer Held und Degen, aber klein von Gestalt, daher hatte er den Beinamen Kurzbold erhalten, was nicht viel mehr besagen will als Däumling. Aber je kleiner Kurzbolds Körper war, um so größer war sein Geist, der verschaffte dem Helden den Namen des Weisen. Der Held Kurzbold hing mit eiserner Freundschaft an Heinrich dem Finkler, gegen den das salische Geschlecht der nahen Anverwandten Kurzbolds sich empörte und zu Felde zog. Das waren vornehmlich Giselbert, Herzog von Lothringen, Eberhard, Herzog von Franken, die führten ein Heer und wollten bei Breisig, unterhalb Andernach, über den Rhein fahren. Da harrte ihrer am andern Ufer Kurzbold mit nur vierundzwanzig Wappnern, und als der eine Nachen, darin Giselbert, der Lothringer, saß, anlanden wollte, da stieß Kurzbold seine Lanze mit so heftiger Gewalt in den Kahn, daß dieser alsbald sank und niedertauchte und die Rheinflut alle darinnen Sitzenden überströmte und verschlang. Während dies geschah, war Eberhard der Franke gelandet; alsobald wandte sich Kurzbold gegen ihn, rannte ihn an und stieß ihn mit seinem Schwerte durch und durch.\n\nDa Heinrich der Finkler nicht mehr am Leben war und Otto, zubenamt der Erste oder auch der Große, deutscher König geworden, hielt auch der den Helden Kurzbold gar wert. Da der König mit Kurzbold einstmals allein stand, geschah es, daß ein gefangener Löwe aus seinem Käfig brach und auf beide Männer zustürzte. Der König, der unbewehrt stand, griff nach Kurzbolds Schwert, das dieser an der Seite trug, aber Kurzbold kam dem König zuvor, warf sich dem Löwen entgegen und tötete ihn. Zu einer andern Zeit forderte ein riesenhaft gewachsener Petscheneger aus dem dem König Otto gegenüberliegenden Slawenheere des Herzogs von Böhmen die Heerführer Ottos zum Zweikampfe, indem er auf seine große Kraft und furchtbare Gestalt pochte. Da trat ihm, wie voreinst dem Riesen Goliath der kleine David, der kühne Kurzbold entgegen zum Fußkampf mit Lanzen, entglitt gewandt dem Stoß des Riesen und rannte ihn mit seiner Lanze und mit seiner schrecklichen Kraft sogleich zu Boden. Zweierlei mochte Held Kurzbold nicht leiden, Weiber und Äpfel, daher blieb er unverheiratet und erbenlos, gründete aber zu Limburg an der Lahn die herrliche St. Georgenkirche, die er dem Lindwurmtöter auf derselben Stelle erbauen ließ und weihte, wo, der Sage nach, vordem ein Lindwurm gehaust, der der frühern Burg, wie der heutigen Stadt, den Namen Lindburg gab, was eine spätere Zeit in Limburg umwandelte. In dieser Kirche ist des heldenmütigen Kurzbold Grabmal noch zu sehen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Der kühne Kurzbold. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 100.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs war ein Graf des untern Lahngaues, Kunz, ein Bruderssohn des deutschen Königs Konrad, des Vaters von Heinrich dem Finkler – der war gar ein tapferer Held und Degen, aber klein von Gestalt, daher hatte er den Beinamen Kurzbold erhalten, was nicht viel mehr besagen will als Däumling. Aber je kleiner Kurzbolds Körper war, um so größer war sein Geist, der verschaffte dem Helden den Namen des Weisen. Der Held Kurzbold hing mit eiserner Freundschaft an Heinrich dem Finkler, gegen den das salische Geschlecht der nahen Anverwandten Kurzbolds sich empörte und zu Felde zog. Das waren vornehmlich Giselbert, Herzog von Lothringen, Eberhard, Herzog von Franken, die führten ein Heer und wollten bei Breisig, unterhalb Andernach, über den Rhein fahren. Da harrte ihrer am andern Ufer Kurzbold mit nur vierundzwanzig Wappnern, und als der eine Nachen, darin Giselbert, der Lothringer, saß, anlanden wollte, da stieß Kurzbold seine Lanze mit so heftiger Gewalt in den Kahn, daß dieser alsbald sank und niedertauchte und die Rheinflut alle darinnen Sitzenden überströmte und verschlang. Während dies geschah, war Eberhard der Franke gelandet; alsobald wandte sich Kurzbold gegen ihn, rannte ihn an und stieß ihn mit seinem Schwerte durch und durch.\n\nDa Heinrich der Finkler nicht mehr am Leben war und Otto, zubenamt der Erste oder auch der Große, deutscher König geworden, hielt auch der den Helden Kurzbold gar wert. Da der König mit Kurzbold einstmals allein stand, geschah es, daß ein gefangener Löwe aus seinem Käfig brach und auf beide Männer zustürzte. Der König, der unbewehrt stand, griff nach Kurzbolds Schwert, das dieser an der Seite trug, aber Kurzbold kam dem König zuvor, warf sich dem Löwen entgegen und tötete ihn. Zu einer andern Zeit forderte ein riesenhaft gewachsener Petscheneger aus dem dem König Otto gegenüberliegenden Slawenheere des Herzogs von Böhmen die Heerführer Ottos zum Zweikampfe, indem er auf seine große Kraft und furchtbare Gestalt pochte. Da trat ihm, wie voreinst dem Riesen Goliath der kleine David, der kühne Kurzbold entgegen zum Fußkampf mit Lanzen, entglitt gewandt dem Stoß des Riesen und rannte ihn mit seiner Lanze und mit seiner schrecklichen Kraft sogleich zu Boden. Zweierlei mochte Held Kurzbold nicht leiden, Weiber und Äpfel, daher blieb er unverheiratet und erbenlos, gründete aber zu Limburg an der Lahn die herrliche St. Georgenkirche, die er dem Lindwurmtöter auf derselben Stelle erbauen ließ und weihte, wo, der Sage nach, vordem ein Lindwurm gehaust, der der frühern Burg, wie der heutigen Stadt, den Namen Lindburg gab, was eine spätere Zeit in Limburg umwandelte. In dieser Kirche ist des heldenmütigen Kurzbold Grabmal noch zu sehen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Der Beiname",
+        "setting": "Der Beiname",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer auf derselben Bodenebene, Kurzbold kleiner aber kräftig, Gesicht erwachsen.",
+        "dialog": "Kunz hieß wegen seiner geringen Körperhöhe Kurzbold. Seine Fähigkeiten waren damit nicht beschrieben.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht neben einem normalen Erwachsenen; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei erwachsene Männer auf derselben Bodenebene, Kurzbold kleiner aber kräftig, Gesicht erwachsen.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Der Beiname",
+            "posture": "steht neben einem normalen Erwachsenen"
+          }
+        }
+      },
+      {
+        "heading": "Die erste Bewährung",
+        "setting": "Die erste Bewährung",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleiner erwachsener Mann mit einer einzelnen Lanze, zwei Dutzend Begleiter nur fern.",
+        "dialog": "Mit wenigen Männern erwartete er ein gegnerisches Heer am Rhein.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht mit einer Lanze am Ufer; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Kleiner erwachsener Mann mit einer einzelnen Lanze, zwei Dutzend Begleiter nur fern.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die erste Bewährung",
+            "posture": "steht mit einer Lanze am Ufer"
+          }
+        }
+      },
+      {
+        "heading": "Der angreifende Nachen",
+        "setting": "Der angreifende Nachen",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot nähert sich dem Ufer, Kurzbolds Lanzenspitze zum Boot, keine eindringende Spitze in Menschen.",
+        "dialog": "Die Sage lässt ihn einen Nachen durch einen mächtigen Stoß zum Sinken bringen.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht am Ufer mit Lanze; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Boot nähert sich dem Ufer, Kurzbolds Lanzenspitze zum Boot, keine eindringende Spitze in Menschen.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Der angreifende Nachen",
+            "posture": "steht am Ufer mit Lanze"
+          }
+        }
+      },
+      {
+        "heading": "Die harte Schlachtfolge",
+        "setting": "Die harte Schlachtfolge",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres Ufer mit beschädigtem Boot, keine Ertrinkenden oder offenen Wunden.",
+        "dialog": "Auch einen bereits gelandeten Gegner tötete er. Diese Heldensage erzählt zugleich von tödlicher Gewalt.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leeres Ufer mit beschädigtem Boot, keine Ertrinkenden oder offenen Wunden.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Der angreifende Nachen",
+            "posture": "steht am Ufer mit Lanze"
+          }
+        }
+      },
+      {
+        "heading": "Bei König Otto",
+        "setting": "Bei König Otto",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47",
+          "719fdd3fb8ad50bfb159957472c4c7b3"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer, kleiner Held links, größerer Herrscher rechts. Klinge steckt wieder links vollständig.",
+        "dialog": "Später schätzte auch Otto seine Dienste.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht links; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "719fdd3fb8ad50bfb159957472c4c7b3": "steht rechts; Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei erwachsene Männer, kleiner Held links, größerer Herrscher rechts. Klinge steckt wieder links vollständig.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Bei König Otto",
+            "posture": "steht links"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Bei König Otto",
+            "posture": "steht rechts"
+          }
+        }
+      },
+      {
+        "heading": "Der offene Käfig",
+        "setting": "Der offene Käfig",
+        "characters": [
+          "15fe1088d3205c50a57345a55afbd9ce"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Löwe mit vier Beinen, eiserner Käfig dahinter leer.",
+        "dialog": "Ein Löwe brach aus seinem Käfig.",
+        "bubbles": [],
+        "character_states": {
+          "15fe1088d3205c50a57345a55afbd9ce": "steht vor einem geöffneten Tierkäfig; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein einzelner Löwe mit vier Beinen, eiserner Käfig dahinter leer.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Bei König Otto",
+            "posture": "steht links"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Bei König Otto",
+            "posture": "steht rechts"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Der offene Käfig",
+            "posture": "steht vor einem geöffneten Tierkäfig"
+          }
+        }
+      },
+      {
+        "heading": "Die bedrohten Männer",
+        "setting": "Die bedrohten Männer",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47",
+          "719fdd3fb8ad50bfb159957472c4c7b3",
+          "15fe1088d3205c50a57345a55afbd9ce"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei getrennte Körper, Otto greift in Richtung des linken Schwertgriffs Kurzbolds, berührt ihn noch nicht.",
+        "dialog": "Der unbewaffnete König wollte nach Kurzbolds Schwert greifen.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht vor Otto; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "719fdd3fb8ad50bfb159957472c4c7b3": "steht hinter ihm; Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.; Lebenszustand: lebend",
+          "15fe1088d3205c50a57345a55afbd9ce": "steht rechts in Abstand; Natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei getrennte Körper, Otto greift in Richtung des linken Schwertgriffs Kurzbolds, berührt ihn noch nicht.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht vor Otto"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht hinter ihm"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Die schnellere Entscheidung",
+        "setting": "Die schnellere Entscheidung",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47",
+          "719fdd3fb8ad50bfb159957472c4c7b3"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Klinge rechts, linke Scheide leer ohne Griff. Otto hat beide Hände leer.",
+        "dialog": "Kurzbold kam ihm zuvor und stellte sich dem Tier.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "hält rechts seine einzige gezogene Klinge; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "719fdd3fb8ad50bfb159957472c4c7b3": "steht hinter ihm; Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Klinge rechts, linke Scheide leer ohne Griff. Otto hat beide Hände leer.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die schnellere Entscheidung",
+            "posture": "hält rechts seine einzige gezogene Klinge"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Die schnellere Entscheidung",
+            "posture": "steht hinter ihm"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Nach der Gefahr",
+        "setting": "Nach der Gefahr",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47",
+          "719fdd3fb8ad50bfb159957472c4c7b3"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, regloser Löwenkörper nur fern im Schatten ohne Wunddetails.",
+        "dialog": "Er tötete den Löwen. Der König blieb unverletzt.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht mit gesenkter Klinge; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend",
+          "719fdd3fb8ad50bfb159957472c4c7b3": "steht unverletzt daneben; Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer, regloser Löwenkörper nur fern im Schatten ohne Wunddetails.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Nach der Gefahr",
+            "posture": "steht mit gesenkter Klinge"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Nach der Gefahr",
+            "posture": "steht unverletzt daneben"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Die große Herausforderung",
+        "setting": "Die große Herausforderung",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner erwachsener Mann mit einer Lanze vor einem namenlosen sehr großen erwachsenen Gegner, beide zu Fuß. Klinge eingesteckt.",
+        "dialog": "Eine weitere Episode stellt ihm einen sehr großen Herausforderer gegenüber.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht mit einer Lanze; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein kleiner erwachsener Mann mit einer Lanze vor einem namenlosen sehr großen erwachsenen Gegner, beide zu Fuß. Klinge eingesteckt.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die große Herausforderung",
+            "posture": "steht mit einer Lanze"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Nach der Gefahr",
+            "posture": "steht unverletzt daneben"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Die bewegliche Antwort",
+        "setting": "Die bewegliche Antwort",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kurzbold tritt neben die gerade Angriffslinie des Gegners, hält seine eine Lanze körpernah. Keine zusätzlichen Arme.",
+        "dialog": "Nicht die Höhe entschied. Er wich aus und besiegte den Gegner.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "weicht seitlich aus; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Kurzbold tritt neben die gerade Angriffslinie des Gegners, hält seine eine Lanze körpernah. Keine zusätzlichen Arme.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die bewegliche Antwort",
+            "posture": "weicht seitlich aus"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Nach der Gefahr",
+            "posture": "steht unverletzt daneben"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Die Stiftung",
+        "setting": "Die Stiftung",
+        "characters": [
+          "0693b3632183529eb27f7ca82f7e5c47"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Held zu Fuß vor neuer Kirche, keine Waffe in den Händen.",
+        "dialog": "Kurzbold stiftete in Limburg die Georgskirche.",
+        "bubbles": [],
+        "character_states": {
+          "0693b3632183529eb27f7ca82f7e5c47": "steht vor einer Kirche; Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Held zu Fuß vor neuer Kirche, keine Waffe in den Händen.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die Stiftung",
+            "posture": "steht vor einer Kirche"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Nach der Gefahr",
+            "posture": "steht unverletzt daneben"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Die Erinnerung im Stein",
+        "setting": "Die Erinnerung im Stein",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossenes steinernes Rittergrab in einer Kirche, Bildwerk als Bildwerk erkennbar.",
+        "dialog": "Dort blieb sein Grab als Erinnerungszeichen erhalten.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein geschlossenes steinernes Rittergrab in einer Kirche, Bildwerk als Bildwerk erkennbar.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die Stiftung",
+            "posture": "steht vor einer Kirche"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Nach der Gefahr",
+            "posture": "steht unverletzt daneben"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      },
+      {
+        "heading": "Die Grenze des Eindrucks",
+        "setting": "Die Grenze des Eindrucks",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Außenansicht der Kirche am Fluss, keine riesenhafte Statue als Größenkorrektur.",
+        "dialog": "Die Erzählung misst Können nicht an Körperhöhe. Kurzbolds Mut und seine schnelle Entscheidung blieben im Gedächtnis.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ruhige Außenansicht der Kirche am Fluss, keine riesenhafte Statue als Größenkorrektur.",
+        "continuity_state": {
+          "0693b3632183529eb27f7ca82f7e5c47": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+            "location": "Die Stiftung",
+            "posture": "steht vor einer Kirche"
+          },
+          "719fdd3fb8ad50bfb159957472c4c7b3": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+            "location": "Nach der Gefahr",
+            "posture": "steht unverletzt daneben"
+          },
+          "15fe1088d3205c50a57345a55afbd9ce": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Natürliches Fell.",
+            "location": "Die bedrohten Männer",
+            "posture": "steht rechts in Abstand"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Kunz Kurzbold",
+        "description": "Erwachsener kleinwüchsiger kräftiger Mann mit dunklem Vollbart und erwachsenen Proportionen; kein Kind und keine Miniatur.",
+        "outfit": "Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.",
+        "backstory": "Sagenheld, dessen Können nicht aus seiner Körperhöhe ablesbar ist.",
+        "id": "0693b3632183529eb27f7ca82f7e5c47",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Otto der Kurzboldsage",
+        "description": "Erwachsener großer Mann mit kurzem braunem Bart.",
+        "outfit": "Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.",
+        "backstory": "Erlebt Kurzbolds Geistesgegenwart.",
+        "id": "719fdd3fb8ad50bfb159957472c4c7b3",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Löwe der Kurzboldsage",
+        "description": "Ein ausgewachsener goldbrauner Löwe mit Mähne, vier Beinen, einem Schwanz.",
+        "outfit": "Natürliches Fell.",
+        "backstory": "Bricht in einer Erzählung aus einem Käfig.",
+        "id": "15fe1088d3205c50a57345a55afbd9ce",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Lässt die äußere Größe eines Menschen auf sein tatsächliches Vermögen schließen?",
+      "core": "Mut, Geistesgegenwart und Können lassen sich nicht an körperlichem Eindruck ablesen. Die wiederholte Unterschätzung macht den kleinen Helden gerade zum wirksamen Gegenbild bloßer Größe.",
+      "ending": "Kurzbold besteht die Gefahren und bleibt durch Stiftung und Grab erinnert.",
+      "reason": "Drei unterschiedliche Bewährungen knapp, aber unterscheidbar führen; abwertende Randbemerkungen nicht zur eigentlichen Lehre machen.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "um so größer war sein Geist",
+          "meaning": "Der Text stellt die innere Handlungsfähigkeit ausdrücklich gegen den kleinen Körper."
+        }
+      ],
+      "causal_chain": [
+        "um so größer war sein Geist",
+        "Kurzbold besteht die Gefahren und bleibt durch Stiftung und Grab erinnert."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "47f352cc6d6ff252ae65236381649e96ef372b4b14008d179de850dd8dd169cb",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:48:11.272880+00:00"
+    },
+    "post_summary": "Kunz ist klein von Gestalt und wird zum Gegenbild bloßer Größe. Seine Erzählung misst an Mut und Geistesgegenwart.",
+    "source_provenance": {
+      "title": "Der kühne Kurzbold",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 100.",
+      "url": "https://textgridrep.org/browse/kdbn.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Der kühne Kurzbold. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 100.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nEs war ein Graf des untern Lahngaues, Kunz, ein Bruderssohn des deutschen Königs Konrad, des Vaters von Heinrich dem Finkler – der war gar ein tapferer Held und Degen, aber klein von Gestalt, daher hatte er den Beinamen Kurzbold erhalten, was nicht viel mehr besagen will als Däumling. Aber je kleiner Kurzbolds Körper war, um so größer war sein Geist, der verschaffte dem Helden den Namen des Weisen. Der Held Kurzbold hing mit eiserner Freundschaft an Heinrich dem Finkler, gegen den das salische Geschlecht der nahen Anverwandten Kurzbolds sich empörte und zu Felde zog. Das waren vornehmlich Giselbert, Herzog von Lothringen, Eberhard, Herzog von Franken, die führten ein Heer und wollten bei Breisig, unterhalb Andernach, über den Rhein fahren. Da harrte ihrer am andern Ufer Kurzbold mit nur vierundzwanzig Wappnern, und als der eine Nachen, darin Giselbert, der Lothringer, saß, anlanden wollte, da stieß Kurzbold seine Lanze mit so heftiger Gewalt in den Kahn, daß dieser alsbald sank und niedertauchte und die Rheinflut alle darinnen Sitzenden überströmte und verschlang. Während dies geschah, war Eberhard der Franke gelandet; alsobald wandte sich Kurzbold gegen ihn, rannte ihn an und stieß ihn mit seinem Schwerte durch und durch.\n\nDa Heinrich der Finkler nicht mehr am Leben war und Otto, zubenamt der Erste oder auch der Große, deutscher König geworden, hielt auch der den Helden Kurzbold gar wert. Da der König mit Kurzbold einstmals allein stand, geschah es, daß ein gefangener Löwe aus seinem Käfig brach und auf beide Männer zustürzte. Der König, der unbewehrt stand, griff nach Kurzbolds Schwert, das dieser an der Seite trug, aber Kurzbold kam dem König zuvor, warf sich dem Löwen entgegen und tötete ihn. Zu einer andern Zeit forderte ein riesenhaft gewachsener Petscheneger aus dem dem König Otto gegenüberliegenden Slawenheere des Herzogs von Böhmen die Heerführer Ottos zum Zweikampfe, indem er auf seine große Kraft und furchtbare Gestalt pochte. Da trat ihm, wie voreinst dem Riesen Goliath der kleine David, der kühne Kurzbold entgegen zum Fußkampf mit Lanzen, entglitt gewandt dem Stoß des Riesen und rannte ihn mit seiner Lanze und mit seiner schrecklichen Kraft sogleich zu Boden. Zweierlei mochte Held Kurzbold nicht leiden, Weiber und Äpfel, daher blieb er unverheiratet und erbenlos, gründete aber zu Limburg an der Lahn die herrliche St. Georgenkirche, die er dem Lindwurmtöter auf derselben Stelle erbauen ließ und weihte, wo, der Sage nach, vordem ein Lindwurm gehaust, der der frühern Burg, wie der heutigen Stadt, den Namen Lindburg gab, was eine spätere Zeit in Limburg umwandelte. In dieser Kirche ist des heldenmütigen Kurzbold Grabmal noch zu sehen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Es war ein Graf des untern Lahngaues, Kunz, ein Bruderssohn des deutschen Königs Konrad, des Vaters von Heinrich dem Finkler – der war gar ein tapferer Held und Degen, aber klein von Gestalt, daher hatte er den Beinamen Kurzbold erhalten, was nicht viel mehr besagen will als Däumling.",
+      "id": "bechstein-sagen-kdbn-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "kurzbold-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Der kühne Kurzbold – Ein anderer Maßstab · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Der kühne Kurzbold – Ein anderer Maßstab\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Kunz Kurzbold\nAussehen: Erwachsener kleinwüchsiger kräftiger Mann mit dunklem Vollbart und erwachsenen Proportionen; kein Kind und keine Miniatur.\nKleidung: Graues Wams, dunkle Hose, Stiefel; ein Schwert in linker Scheide.\nPersönlichkeit und Vorgeschichte: Sagenheld, dessen Können nicht aus seiner Körperhöhe ablesbar ist.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Otto der Kurzboldsage\nAussehen: Erwachsener großer Mann mit kurzem braunem Bart.\nKleidung: Dunkelblauer Herrscherrock, goldener Reif, keine sichtbare Waffe.\nPersönlichkeit und Vorgeschichte: Erlebt Kurzbolds Geistesgegenwart.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Löwe der Kurzboldsage\nAussehen: Ein ausgewachsener goldbrauner Löwe mit Mähne, vier Beinen, einem Schwanz.\nKleidung: Natürliches Fell.\nPersönlichkeit und Vorgeschichte: Bricht in einer Erzählung aus einem Käfig.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der Beiname\nOrt und Zeit: Der Beiname\nSichtbare Figuren: Kunz Kurzbold\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer auf derselben Bodenebene, Kurzbold kleiner aber kräftig, Gesicht erwachsen.\nErzählertext: Kunz hieß wegen seiner geringen Körperhöhe Kurzbold. Seine Fähigkeiten waren damit nicht beschrieben.\nDialoge: keine\nKontinuität / Änderung: Zwei erwachsene Männer auf derselben Bodenebene, Kurzbold kleiner aber kräftig, Gesicht erwachsen.\n\nKACHEL 2: Die erste Bewährung\nOrt und Zeit: Die erste Bewährung\nSichtbare Figuren: Kunz Kurzbold\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleiner erwachsener Mann mit einer einzelnen Lanze, zwei Dutzend Begleiter nur fern.\nErzählertext: Mit wenigen Männern erwartete er ein gegnerisches Heer am Rhein.\nDialoge: keine\nKontinuität / Änderung: Kleiner erwachsener Mann mit einer einzelnen Lanze, zwei Dutzend Begleiter nur fern.\n\nKACHEL 3: Der angreifende Nachen\nOrt und Zeit: Der angreifende Nachen\nSichtbare Figuren: Kunz Kurzbold\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Boot nähert sich dem Ufer, Kurzbolds Lanzenspitze zum Boot, keine eindringende Spitze in Menschen.\nErzählertext: Die Sage lässt ihn einen Nachen durch einen mächtigen Stoß zum Sinken bringen.\nDialoge: keine\nKontinuität / Änderung: Ein Boot nähert sich dem Ufer, Kurzbolds Lanzenspitze zum Boot, keine eindringende Spitze in Menschen.\n\nKACHEL 4: Die harte Schlachtfolge\nOrt und Zeit: Die harte Schlachtfolge\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres Ufer mit beschädigtem Boot, keine Ertrinkenden oder offenen Wunden.\nErzählertext: Auch einen bereits gelandeten Gegner tötete er. Diese Heldensage erzählt zugleich von tödlicher Gewalt.\nDialoge: keine\nKontinuität / Änderung: Leeres Ufer mit beschädigtem Boot, keine Ertrinkenden oder offenen Wunden.\n\nKACHEL 5: Bei König Otto\nOrt und Zeit: Bei König Otto\nSichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Männer, kleiner Held links, größerer Herrscher rechts. Klinge steckt wieder links vollständig.\nErzählertext: Später schätzte auch Otto seine Dienste.\nDialoge: keine\nKontinuität / Änderung: Zwei erwachsene Männer, kleiner Held links, größerer Herrscher rechts. Klinge steckt wieder links vollständig.\n\nKACHEL 6: Der offene Käfig\nOrt und Zeit: Der offene Käfig\nSichtbare Figuren: Löwe der Kurzboldsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Löwe mit vier Beinen, eiserner Käfig dahinter leer.\nErzählertext: Ein Löwe brach aus seinem Käfig.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Löwe mit vier Beinen, eiserner Käfig dahinter leer.\n\nKACHEL 7: Die bedrohten Männer\nOrt und Zeit: Die bedrohten Männer\nSichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage, Löwe der Kurzboldsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei getrennte Körper, Otto greift in Richtung des linken Schwertgriffs Kurzbolds, berührt ihn noch nicht.\nErzählertext: Der unbewaffnete König wollte nach Kurzbolds Schwert greifen.\nDialoge: keine\nKontinuität / Änderung: Drei getrennte Körper, Otto greift in Richtung des linken Schwertgriffs Kurzbolds, berührt ihn noch nicht.\n\nKACHEL 8: Die schnellere Entscheidung\nOrt und Zeit: Die schnellere Entscheidung\nSichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Klinge rechts, linke Scheide leer ohne Griff. Otto hat beide Hände leer.\nErzählertext: Kurzbold kam ihm zuvor und stellte sich dem Tier.\nDialoge: keine\nKontinuität / Änderung: Klinge rechts, linke Scheide leer ohne Griff. Otto hat beide Hände leer.\n\nKACHEL 9: Nach der Gefahr\nOrt und Zeit: Nach der Gefahr\nSichtbare Figuren: Kunz Kurzbold, Otto der Kurzboldsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, regloser Löwenkörper nur fern im Schatten ohne Wunddetails.\nErzählertext: Er tötete den Löwen. Der König blieb unverletzt.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer, regloser Löwenkörper nur fern im Schatten ohne Wunddetails.\n\nKACHEL 10: Die große Herausforderung\nOrt und Zeit: Die große Herausforderung\nSichtbare Figuren: Kunz Kurzbold\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner erwachsener Mann mit einer Lanze vor einem namenlosen sehr großen erwachsenen Gegner, beide zu Fuß. Klinge eingesteckt.\nErzählertext: Eine weitere Episode stellt ihm einen sehr großen Herausforderer gegenüber.\nDialoge: keine\nKontinuität / Änderung: Ein kleiner erwachsener Mann mit einer Lanze vor einem namenlosen sehr großen erwachsenen Gegner, beide zu Fuß. Klinge eingesteckt.\n\nKACHEL 11: Die bewegliche Antwort\nOrt und Zeit: Die bewegliche Antwort\nSichtbare Figuren: Kunz Kurzbold\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kurzbold tritt neben die gerade Angriffslinie des Gegners, hält seine eine Lanze körpernah. Keine zusätzlichen Arme.\nErzählertext: Nicht die Höhe entschied. Er wich aus und besiegte den Gegner.\nDialoge: keine\nKontinuität / Änderung: Kurzbold tritt neben die gerade Angriffslinie des Gegners, hält seine eine Lanze körpernah. Keine zusätzlichen Arme.\n\nKACHEL 12: Die Stiftung\nOrt und Zeit: Die Stiftung\nSichtbare Figuren: Kunz Kurzbold\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Held zu Fuß vor neuer Kirche, keine Waffe in den Händen.\nErzählertext: Kurzbold stiftete in Limburg die Georgskirche.\nDialoge: keine\nKontinuität / Änderung: Held zu Fuß vor neuer Kirche, keine Waffe in den Händen.\n\nKACHEL 13: Die Erinnerung im Stein\nOrt und Zeit: Die Erinnerung im Stein\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossenes steinernes Rittergrab in einer Kirche, Bildwerk als Bildwerk erkennbar.\nErzählertext: Dort blieb sein Grab als Erinnerungszeichen erhalten.\nDialoge: keine\nKontinuität / Änderung: Ein geschlossenes steinernes Rittergrab in einer Kirche, Bildwerk als Bildwerk erkennbar.\n\nKACHEL 14: Die Grenze des Eindrucks\nOrt und Zeit: Die Grenze des Eindrucks\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Außenansicht der Kirche am Fluss, keine riesenhafte Statue als Größenkorrektur.\nErzählertext: Die Erzählung misst Können nicht an Körperhöhe. Kurzbolds Mut und seine schnelle Entscheidung blieben im Gedächtnis.\nDialoge: keine\nKontinuität / Änderung: Ruhige Außenansicht der Kirche am Fluss, keine riesenhafte Statue als Größenkorrektur.\n"
+  },
+  "count_policy": "editorial"
+}

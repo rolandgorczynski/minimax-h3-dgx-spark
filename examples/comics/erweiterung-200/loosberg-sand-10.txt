@@ -1,0 +1,106 @@
+TITEL: Vom Loosberg über Aachen – Die alten Schuhe
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Teufel mit der Sandlast
+Aussehen: Große erwachsene Sagengestalt mit zwei Armen, einem menschlichen Fuß und einem Pferdehuf.
+Kleidung: Dunkelroter Mantel, breite Sandlast wie ein Sack über den Schultern.
+Persönlichkeit und Vorgeschichte: Will Aachen aus Rache begraben, verliert aber an der Last Geduld.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alte Frau vor Aachen
+Aussehen: Alte Frau mit grauem Haar unter Haube und wachen Augen.
+Kleidung: Graues Kleid, braunes Tuch, stark abgetragene Schuhe.
+Persönlichkeit und Vorgeschichte: Erkennt den Gegner und täuscht ihn über die verbleibende Entfernung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die gekränkte Rache
+Ort und Zeit: Die gekränkte Rache
+Sichtbare Figuren: Teufel mit der Sandlast
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine große Sagengestalt vor weitem Küstensand, keine Menschen im Sand begraben.
+Erzählertext: Nach dem misslungenen Handel um den Dom wollte der Teufel Aachen schaden.
+Dialoge: keine
+Kontinuität / Änderung: Eine große Sagengestalt vor weitem Küstensand, keine Menschen im Sand begraben.
+
+KACHEL 2: Die große Last
+Ort und Zeit: Die große Last
+Sichtbare Figuren: Teufel mit der Sandlast
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige übergroße sackartige Düne auf zwei Schultern, zwei Arme halten die Ränder.
+Erzählertext: Er lud sich eine Düne auf, um sie über der Stadt auszuschütten.
+Dialoge: keine
+Kontinuität / Änderung: Eine einzige übergroße sackartige Düne auf zwei Schultern, zwei Arme halten die Ränder.
+
+KACHEL 3: Der lange Weg
+Ort und Zeit: Der lange Weg
+Sichtbare Figuren: Teufel mit der Sandlast
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Gestalt auf einem Weg, Sand rieselt seitlich aus derselben Last.
+Erzählertext: Mit der gewaltigen Last zog er Richtung Aachen.
+Dialoge: keine
+Kontinuität / Änderung: Eine Gestalt auf einem Weg, Sand rieselt seitlich aus derselben Last.
+
+KACHEL 4: Der störende Wind
+Ort und Zeit: Der störende Wind
+Sichtbare Figuren: Teufel mit der Sandlast
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Wirbel trägt Sand vom Sack zu seinem Gesicht, keine zerstörten Augen.
+Erzählertext: Im Soerstal blies ihm Sand ins Gesicht. Er wurde müde und verlor die Orientierung.
+Dialoge: keine
+Kontinuität / Änderung: Ein Wirbel trägt Sand vom Sack zu seinem Gesicht, keine zerstörten Augen.
+
+KACHEL 5: Die Begegnung
+Ort und Zeit: Die Begegnung
+Sichtbare Figuren: Teufel mit der Sandlast, Alte Frau vor Aachen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Großer Lastträger und kleine erwachsene alte Frau, sein Pferdehuf deutlich unten.
+Erzählertext: Da begegnete ihm eine Frau, die aus Aachen kam.
+Dialoge: keine
+Kontinuität / Änderung: Großer Lastträger und kleine erwachsene alte Frau, sein Pferdehuf deutlich unten.
+
+KACHEL 6: Die Frage
+Ort und Zeit: Die Frage
+Sichtbare Figuren: Teufel mit der Sandlast, Alte Frau vor Aachen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Gestalten auf gleichem Weg, Frau mit Blick nach unten erkennt den Huf.
+Erzählertext: Er fragte nach der Entfernung. Sie hatte erkannt, wen sie vor sich hatte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Gestalten auf gleichem Weg, Frau mit Blick nach unten erkennt den Huf.
+
+KACHEL 7: Die alten Schuhe
+Ort und Zeit: Die alten Schuhe
+Sichtbare Figuren: Alte Frau vor Aachen, Teufel mit der Sandlast
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Frau hält einen ausgezogenen Schuh in der Hand, zweiter noch am Fuß; keine drei Füße.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alte Frau vor Aachen
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „In Aachen waren die Schuhe neu. Seht, wie weit ich gegangen bin.“
+Kontinuität / Änderung: Alte Frau hält einen ausgezogenen Schuh in der Hand, zweiter noch am Fuß; keine drei Füße.
+
+KACHEL 8: Die verlorene Geduld
+Ort und Zeit: Die verlorene Geduld
+Sichtbare Figuren: Teufel mit der Sandlast
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erschöpfter Lastträger, Frau seitlich in sicherem Abstand, Schuhe wieder beide angezogen.
+Erzählertext: Die Täuschung traf seine Müdigkeit. Noch so einen Weg wollte er nicht gehen.
+Dialoge: keine
+Kontinuität / Änderung: Ein erschöpfter Lastträger, Frau seitlich in sicherem Abstand, Schuhe wieder beide angezogen.
+
+KACHEL 9: Der abgeworfene Sand
+Ort und Zeit: Der abgeworfene Sand
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine große neue Sandanhöhe und kleinere Nebenhöhe am Talrand, Staub setzt sich, keine begrabene Stadt.
+Erzählertext: Er warf den Sand ab und verschwand.
+Dialoge: keine
+Kontinuität / Änderung: Eine große neue Sandanhöhe und kleinere Nebenhöhe am Talrand, Staub setzt sich, keine begrabene Stadt.
+
+KACHEL 10: Die verschonte Stadt
+Ort und Zeit: Die verschonte Stadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Aachen fern hinter den zwei bewachsenen Höhen, eine kleine Kapelle auf der niedrigeren.
+Erzählertext: Die Sage erklärt so die Hügel. Beobachtung und kluge Ansprache hatten mehr bewirkt als ein Kräftemessen.
+Dialoge: keine
+Kontinuität / Änderung: Aachen fern hinter den zwei bewachsenen Höhen, eine kleine Kapelle auf der niedrigeren.

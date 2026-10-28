@@ -1,0 +1,161 @@
+{
+  "mode": "editorial",
+  "name": "Der Teufel im Ponellenturm – Wenn er kommt · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Der Teufel im Ponellenturm. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 121.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Aachen in der Stadtmauer steht ein starker Turm, heißt der Ponellenturm, dahinein haben sie einen Teufel gebannt, daß er nimmermehr wieder heraus kann, darin höret man ihn öfters wild rumoren, plärren, an die Glocke schlagen, auch äfft er sonderlich die Vorübergehenden, aber heraus kann er nicht, der gebannte Teufel, ehe denn der Jüngste Tag kommt. Daraus ist ein Sprüchwort im Volke von einem Ding der Unmöglichkeit, oder wenn einer eine Sache, die ein anderer als nahe in Aussicht stellt, bezweifeln will, so sagt er: Ja, das wird kommen, wenn der Teufel von Aachen kommt – das ist so viel als nimmermehr.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Der Teufel im Ponellenturm. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 121.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Aachen in der Stadtmauer steht ein starker Turm, heißt der Ponellenturm, dahinein haben sie einen Teufel gebannt, daß er nimmermehr wieder heraus kann, darin höret man ihn öfters wild rumoren, plärren, an die Glocke schlagen, auch äfft er sonderlich die Vorübergehenden, aber heraus kann er nicht, der gebannte Teufel, ehe denn der Jüngste Tag kommt. Daraus ist ein Sprüchwort im Volke von einem Ding der Unmöglichkeit, oder wenn einer eine Sache, die ein anderer als nahe in Aussicht stellt, bezweifeln will, so sagt er: Ja, das wird kommen, wenn der Teufel von Aachen kommt – das ist so viel als nimmermehr.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 6,
+    "panel_count": 6,
+    "scenes": [
+      {
+        "heading": "Der starke Turm",
+        "setting": "Der starke Turm",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner mittelalterlicher Stadtturm in Aachen, verschlossene Tür.",
+        "dialog": "Im Ponellenturm soll ein Teufel gebannt sein.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein einzelner mittelalterlicher Stadtturm in Aachen, verschlossene Tür.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Das Rumoren",
+        "setting": "Das Rumoren",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Turm von innen dunkel, lose Glocke oben leicht bewegt, keine hinausführende offene Tür.",
+        "dialog": "Man hörte ihn lärmen und an die Glocke schlagen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Geschlossener Turm von innen dunkel, lose Glocke oben leicht bewegt, keine hinausführende offene Tür.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Der verspottete Weg",
+        "setting": "Der verspottete Weg",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Passanten blicken ärgerlich zum Turm, keine sichtbare angreifende Sagengestalt.",
+        "dialog": "Auch Vorübergehende soll er geäfft haben.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Erwachsene Passanten blicken ärgerlich zum Turm, keine sichtbare angreifende Sagengestalt.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die feste Grenze",
+        "setting": "Die feste Grenze",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Massive Turmtür mit festem Riegel, kein schlüpfendes Wesen am Spalt.",
+        "dialog": "Heraus konnte er vor dem Jüngsten Tag nicht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Massive Turmtür mit festem Riegel, kein schlüpfendes Wesen am Spalt.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die scheinbare Zusage",
+        "setting": "Die scheinbare Zusage",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose Erwachsene im Gespräch am Markt, einer zeigt zum fernen Turm.",
+        "dialog": "Darum sagte man bei zweifelhaften Versprechen: Das geschieht, wenn der Teufel von Aachen kommt.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Zwei namenlose Erwachsene im Gespräch am Markt, einer zeigt zum fernen Turm.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Das gemeinte Niemals",
+        "setting": "Das gemeinte Niemals",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe verschlossene Turm im Abendlicht, Straße davor leer.",
+        "dialog": "Gemeint war kein naher Termin, sondern: niemals. Die Redensart beendet das Warten, statt es zu verlängern.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Derselbe verschlossene Turm im Abendlicht, Straße davor leer.",
+        "continuity_state": {}
+      }
+    ],
+    "characters": [],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was verspricht ein Ereignis, das im Weltlauf niemals eintreten soll?",
+      "core": "Ein scheinbarer Termin kann tatsächlich eine endgültige Verneinung ausdrücken. Die Spruchpointe macht den Unterschied zwischen unbestimmtem Warten und ausdrücklicher Unmöglichkeit verständlich.",
+      "ending": "Der Teufel bleibt gebannt; die Redensart bezeichnet das niemals Eintretende.",
+      "reason": "Sechs kurze Zeichen- und Erwartungsbilder reichen; keine im Text nicht vorhandene Befreiungsmission erfinden.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "das ist so viel als nimmermehr.",
+          "meaning": "Der Teufel im Turm wird zum sprachlichen Maßstab für ein nicht einzulösendes Versprechen."
+        }
+      ],
+      "causal_chain": [
+        "das ist so viel als nimmermehr.",
+        "Der Teufel bleibt gebannt; die Redensart bezeichnet das niemals Eintretende."
+      ],
+      "recommended_count": 6,
+      "series_count": 1,
+      "series_reason": "Eine einzelne Folge mit sechs Kacheln reicht für den Erkenntnisbogen.",
+      "analysis_version": 4,
+      "source_sha256": "effd2de6c722f4aab667937f2891af1579670ceba37e7b3dc92b781cf93b6676",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.710247+00:00"
+    },
+    "post_summary": "Ein eingeschlossener Teufel wird zur Redensart. Sein angeblicher Ankunftstermin bedeutet das Gegenteil einer Zusage.",
+    "source_provenance": {
+      "title": "Der Teufel im Ponellenturm",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 121.",
+      "url": "https://textgridrep.org/browse/kgmw.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Der Teufel im Ponellenturm. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 121.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nZu Aachen in der Stadtmauer steht ein starker Turm, heißt der Ponellenturm, dahinein haben sie einen Teufel gebannt, daß er nimmermehr wieder heraus kann, darin höret man ihn öfters wild rumoren, plärren, an die Glocke schlagen, auch äfft er sonderlich die Vorübergehenden, aber heraus kann er nicht, der gebannte Teufel, ehe denn der Jüngste Tag kommt. Daraus ist ein Sprüchwort im Volke von einem Ding der Unmöglichkeit, oder wenn einer eine Sache, die ein anderer als nahe in Aussicht stellt, bezweifeln will, so sagt er: Ja, das wird kommen, wenn der Teufel von Aachen kommt – das ist so viel als nimmermehr.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Zu Aachen in der Stadtmauer steht ein starker Turm, heißt der Ponellenturm, dahinein haben sie einen Teufel gebannt, daß er nimmermehr wieder heraus kann, darin höret man ihn öfters wild rumoren, plärren, an die Glocke schlagen, auch äfft er sonderlich die Vorübergehenden, aber heraus kann er nicht, der gebannte Teufel, ehe denn der Jüngste Tag kommt.",
+      "id": "bechstein-sagen-kgmw-0",
+      "category": "Teufel und Zauberei",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "ponellenturm-6-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Der Teufel im Ponellenturm – Wenn er kommt · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Der Teufel im Ponellenturm – Wenn er kommt\nAUTOR: Sysop\nKACHELANZAHL: 6\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nKACHEL 1: Der starke Turm\nOrt und Zeit: Der starke Turm\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner mittelalterlicher Stadtturm in Aachen, verschlossene Tür.\nErzählertext: Im Ponellenturm soll ein Teufel gebannt sein.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner mittelalterlicher Stadtturm in Aachen, verschlossene Tür.\n\nKACHEL 2: Das Rumoren\nOrt und Zeit: Das Rumoren\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Turm von innen dunkel, lose Glocke oben leicht bewegt, keine hinausführende offene Tür.\nErzählertext: Man hörte ihn lärmen und an die Glocke schlagen.\nDialoge: keine\nKontinuität / Änderung: Geschlossener Turm von innen dunkel, lose Glocke oben leicht bewegt, keine hinausführende offene Tür.\n\nKACHEL 3: Der verspottete Weg\nOrt und Zeit: Der verspottete Weg\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Passanten blicken ärgerlich zum Turm, keine sichtbare angreifende Sagengestalt.\nErzählertext: Auch Vorübergehende soll er geäfft haben.\nDialoge: keine\nKontinuität / Änderung: Erwachsene Passanten blicken ärgerlich zum Turm, keine sichtbare angreifende Sagengestalt.\n\nKACHEL 4: Die feste Grenze\nOrt und Zeit: Die feste Grenze\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Massive Turmtür mit festem Riegel, kein schlüpfendes Wesen am Spalt.\nErzählertext: Heraus konnte er vor dem Jüngsten Tag nicht.\nDialoge: keine\nKontinuität / Änderung: Massive Turmtür mit festem Riegel, kein schlüpfendes Wesen am Spalt.\n\nKACHEL 5: Die scheinbare Zusage\nOrt und Zeit: Die scheinbare Zusage\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose Erwachsene im Gespräch am Markt, einer zeigt zum fernen Turm.\nErzählertext: Darum sagte man bei zweifelhaften Versprechen: Das geschieht, wenn der Teufel von Aachen kommt.\nDialoge: keine\nKontinuität / Änderung: Zwei namenlose Erwachsene im Gespräch am Markt, einer zeigt zum fernen Turm.\n\nKACHEL 6: Das gemeinte Niemals\nOrt und Zeit: Das gemeinte Niemals\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe verschlossene Turm im Abendlicht, Straße davor leer.\nErzählertext: Gemeint war kein naher Termin, sondern: niemals. Die Redensart beendet das Warten, statt es zu verlängern.\nDialoge: keine\nKontinuität / Änderung: Derselbe verschlossene Turm im Abendlicht, Straße davor leer.\n"
+  },
+  "count_policy": "editorial"
+}

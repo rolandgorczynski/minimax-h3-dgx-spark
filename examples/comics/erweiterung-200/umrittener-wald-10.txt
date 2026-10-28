@@ -1,0 +1,106 @@
+TITEL: Umrittener Wald – Nicht für mich
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Sänger Arnold
+Aussehen: Erwachsener schlanker Mann mit braunem kurzem Bart.
+Kleidung: Grünes Reisewams, graue Hose, Stiefel; ein Schwert links in der Scheide.
+Persönlichkeit und Vorgeschichte: Plant mit Pferdewechseln eine große Waldumrundung für bedürftige Dörfer.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Karl in der Arnoldsage
+Aussehen: Älterer Mann mit grauem Vollbart.
+Kleidung: Dunkelroter Rock, goldener schmaler Reif.
+Persönlichkeit und Vorgeschichte: Bietet Lohn und urteilt zunächst über den bloßen Umfang der Bitte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der angebotene Lohn
+Ort und Zeit: Der angebotene Lohn
+Sichtbare Figuren: Sänger Arnold, Karl in der Arnoldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Saal, Laute des Sängers einmal neben dem Stuhl.
+Erzählertext: Karl wollte seinen Sänger Arnold für seine Lieder belohnen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im Saal, Laute des Sängers einmal neben dem Stuhl.
+
+KACHEL 2: Die Bitte
+Ort und Zeit: Die Bitte
+Sichtbare Figuren: Sänger Arnold, Karl in der Arnoldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sänger zeigt zum Wald außerhalb, keine fertige Besitzurkunde.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Sänger Arnold
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Gebt mir so viel Wald, wie ich während eures Mahls umreiten kann.“
+Kontinuität / Änderung: Sänger zeigt zum Wald außerhalb, keine fertige Besitzurkunde.
+
+KACHEL 3: Die Vorbereitung
+Ort und Zeit: Die Vorbereitung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere ausgeruhte Pferde stehen an getrennten fernen Wegpunkten mit namenlosen Helfern.
+Erzählertext: Arnold hatte entlang der Strecke frische Pferde bereitstellen lassen.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere ausgeruhte Pferde stehen an getrennten fernen Wegpunkten mit namenlosen Helfern.
+
+KACHEL 4: Der Beginn
+Ort und Zeit: Der Beginn
+Sichtbare Figuren: Sänger Arnold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter am Waldrand, beide Hände zunächst am Zügel, Klinge noch links.
+Erzählertext: Als Karl zu essen begann, brach Arnold auf.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter am Waldrand, beide Hände zunächst am Zügel, Klinge noch links.
+
+KACHEL 5: Die markierte Strecke
+Ort und Zeit: Die markierte Strecke
+Sichtbare Figuren: Sänger Arnold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge rechts an einem dünnen Ast, linke Scheide leer, Zügel allein links. Keine Wunde am Pferd.
+Erzählertext: Mit grünen Zweigen markierte er seinen Weg.
+Dialoge: keine
+Kontinuität / Änderung: Eine Klinge rechts an einem dünnen Ast, linke Scheide leer, Zügel allein links. Keine Wunde am Pferd.
+
+KACHEL 6: Der Wechsel
+Ort und Zeit: Der Wechsel
+Sichtbare Figuren: Sänger Arnold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann ausdrücklich abgestiegen, zwei getrennte Pferde, Schwert wieder links in Scheide.
+Erzählertext: Frische Pferde hielten den Ritt schnell. So wurde die gute Vorbereitung wirksam.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann ausdrücklich abgestiegen, zwei getrennte Pferde, Schwert wieder links in Scheide.
+
+KACHEL 7: Die frühe Rückkehr
+Ort und Zeit: Die frühe Rückkehr
+Sichtbare Figuren: Sänger Arnold, Karl in der Arnoldsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sänger zu Fuß vor Karl, König isst einen einzelnen Apfel.
+Erzählertext: Noch vor dem Ende der Mahlzeit war Arnold zurück.
+Dialoge: keine
+Kontinuität / Änderung: Sänger zu Fuß vor Karl, König isst einen einzelnen Apfel.
+
+KACHEL 8: Der erste Eindruck
+Ort und Zeit: Der erste Eindruck
+Sichtbare Figuren: Karl in der Arnoldsage, Sänger Arnold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer im Gespräch, keiner hält eine Landkarte mit maßstabslosem Kreis.
+Erzählertext: Karl hielt erst die Strecke für klein, dann Arnolds große Forderung für unbescheiden.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer im Gespräch, keiner hält eine Landkarte mit maßstabslosem Kreis.
+
+KACHEL 9: Der wirkliche Zweck
+Ort und Zeit: Der wirkliche Zweck
+Sichtbare Figuren: Sänger Arnold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Sänger vor dem offenen Fenster auf ferne Dörfer, kein Reichtum in seinen Händen.
+Erzählertext: Arnold erklärte: Den Dörfern ringsum fehle Holz. Für sie habe er den Wald umritten.
+Dialoge: keine
+Kontinuität / Änderung: Ein Sänger vor dem offenen Fenster auf ferne Dörfer, kein Reichtum in seinen Händen.
+
+KACHEL 10: Die bestätigte Gabe
+Ort und Zeit: Die bestätigte Gabe
+Sichtbare Figuren: Karl in der Arnoldsage, Sänger Arnold
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Urkunde zwischen zwei Erwachsenen, Wald und Dörfer fern.
+Erzählertext: Karl bestätigte die Gabe gern. Die große Bitte hatte keinem kleinen Eigennutz gedient.
+Dialoge: keine
+Kontinuität / Änderung: Eine Urkunde zwischen zwei Erwachsenen, Wald und Dörfer fern.

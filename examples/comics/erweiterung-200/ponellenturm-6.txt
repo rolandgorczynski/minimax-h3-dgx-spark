@@ -1,0 +1,56 @@
+TITEL: Der Teufel im Ponellenturm – Wenn er kommt
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Der starke Turm
+Ort und Zeit: Der starke Turm
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner mittelalterlicher Stadtturm in Aachen, verschlossene Tür.
+Erzählertext: Im Ponellenturm soll ein Teufel gebannt sein.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner mittelalterlicher Stadtturm in Aachen, verschlossene Tür.
+
+KACHEL 2: Das Rumoren
+Ort und Zeit: Das Rumoren
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Turm von innen dunkel, lose Glocke oben leicht bewegt, keine hinausführende offene Tür.
+Erzählertext: Man hörte ihn lärmen und an die Glocke schlagen.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener Turm von innen dunkel, lose Glocke oben leicht bewegt, keine hinausführende offene Tür.
+
+KACHEL 3: Der verspottete Weg
+Ort und Zeit: Der verspottete Weg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Passanten blicken ärgerlich zum Turm, keine sichtbare angreifende Sagengestalt.
+Erzählertext: Auch Vorübergehende soll er geäfft haben.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Passanten blicken ärgerlich zum Turm, keine sichtbare angreifende Sagengestalt.
+
+KACHEL 4: Die feste Grenze
+Ort und Zeit: Die feste Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Massive Turmtür mit festem Riegel, kein schlüpfendes Wesen am Spalt.
+Erzählertext: Heraus konnte er vor dem Jüngsten Tag nicht.
+Dialoge: keine
+Kontinuität / Änderung: Massive Turmtür mit festem Riegel, kein schlüpfendes Wesen am Spalt.
+
+KACHEL 5: Die scheinbare Zusage
+Ort und Zeit: Die scheinbare Zusage
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose Erwachsene im Gespräch am Markt, einer zeigt zum fernen Turm.
+Erzählertext: Darum sagte man bei zweifelhaften Versprechen: Das geschieht, wenn der Teufel von Aachen kommt.
+Dialoge: keine
+Kontinuität / Änderung: Zwei namenlose Erwachsene im Gespräch am Markt, einer zeigt zum fernen Turm.
+
+KACHEL 6: Das gemeinte Niemals
+Ort und Zeit: Das gemeinte Niemals
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe verschlossene Turm im Abendlicht, Straße davor leer.
+Erzählertext: Gemeint war kein naher Termin, sondern: niemals. Die Redensart beendet das Warten, statt es zu verlängern.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe verschlossene Turm im Abendlicht, Straße davor leer.

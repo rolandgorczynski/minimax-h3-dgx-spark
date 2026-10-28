@@ -9,7 +9,7 @@ FIGUREN
 
 Name: Neuer Bischof der Speyerer Brauchsage
 Aussehen: Älterer Mann mit kurzem weißem Bart.
-Kleidung: Dunkler Reisemantel; spätere Festkleidung wird je Szene angegeben.
+Kleidung: Dunkler Reisemantel und feste Schuhe.
 Persönlichkeit und Vorgeschichte: Muss vor dem Einzug die Stadtrechte verbindlich anerkennen.
 Gesinnung: Nicht festgelegt.
 Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.

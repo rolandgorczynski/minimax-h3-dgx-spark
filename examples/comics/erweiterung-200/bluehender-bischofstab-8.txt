@@ -1,0 +1,79 @@
+TITEL: Der blühende Bischofstab – Das abgelegte Amt
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bruno der Stabssage
+Aussehen: Älterer Mann mit kurzem weißem Bart und schmalem Gesicht.
+Kleidung: Helles bischöfliches Gewand.
+Persönlichkeit und Vorgeschichte: Verzichtet freiwillig auf sein Amt und dient in Altenberg als einfacher Mönch.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die schwere Würde
+Ort und Zeit: Die schwere Würde
+Sichtbare Figuren: Bruno der Stabssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Geistlicher auf einfachem Stuhl, ein einzelner Stab neben ihm.
+Erzählertext: Bruno zögerte lange, das Bischofsamt anzunehmen. Seine Würde empfand er als Last.
+Dialoge: keine
+Kontinuität / Änderung: Ein älterer Geistlicher auf einfachem Stuhl, ein einzelner Stab neben ihm.
+
+KACHEL 2: Die wenigen Jahre
+Ort und Zeit: Die wenigen Jahre
+Sichtbare Figuren: Bruno der Stabssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Mann in hellem Gewand, Hände am einen Stab.
+Erzählertext: Nur wenige Jahre behielt er das Amt.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Mann in hellem Gewand, Hände am einen Stab.
+
+KACHEL 3: In Altenberg
+Ort und Zeit: In Altenberg
+Sichtbare Figuren: Bruno der Stabssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bischof beim letzten feierlichen Gottesdienst, keine zweite Mönchsfigur gleicher Identität.
+Erzählertext: Dann kam er nach Altenberg und hielt noch einmal das Hochamt.
+Dialoge: keine
+Kontinuität / Änderung: Ein Bischof beim letzten feierlichen Gottesdienst, keine zweite Mönchsfigur gleicher Identität.
+
+KACHEL 4: Die schlichte Kleidung
+Ort und Zeit: Die schlichte Kleidung
+Sichtbare Figuren: Bruno der Stabssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Helles Amtsgewand gefaltet auf Bank, derselbe Mann nun schlicht gekleidet.
+Erzählertext: Anschließend trat er als einfacher Bruder in die Gemeinschaft.
+Dialoge: keine
+Kontinuität / Änderung: Helles Amtsgewand gefaltet auf Bank, derselbe Mann nun schlicht gekleidet.
+
+KACHEL 5: Der zurückgelassene Stab
+Ort und Zeit: Der zurückgelassene Stab
+Sichtbare Figuren: Bruno der Stabssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Bischofsstab sicher an der Wand aufgehängt, seine Hände jetzt leer.
+Erzählertext: Den Stab hängte er als Erinnerung hinter dem Altar auf.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Bischofsstab sicher an der Wand aufgehängt, seine Hände jetzt leer.
+
+KACHEL 6: Das spätere Leben
+Ort und Zeit: Das spätere Leben
+Sichtbare Figuren: Bruno der Stabssage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere Erwachsene in gleicher einfacher Kutte, Bruno ohne Sonderthron.
+Erzählertext: Er diente ohne den früheren Rang und starb später in der Gemeinschaft.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere Erwachsene in gleicher einfacher Kutte, Bruno ohne Sonderthron.
+
+KACHEL 7: Der duftende Morgen
+Ort und Zeit: Der duftende Morgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe aufgehängte Holzstab trägt kleine weiße Lilien und Palmzweige, kein zweiter Stab daneben.
+Erzählertext: Am Morgen nach seinem Tod soll der Stab geblüht und geduftet haben.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe aufgehängte Holzstab trägt kleine weiße Lilien und Palmzweige, kein zweiter Stab daneben.
+
+KACHEL 8: Ein anderes Zeichen des Wertes
+Ort und Zeit: Ein anderes Zeichen des Wertes
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blühender Stab hinter dem schlichten Altar, keine neue Krönung des Toten.
+Erzählertext: Die Sage ehrt nicht einen festgehaltenen Titel, sondern die Haltung, die im Verzicht sichtbar geworden war.
+Dialoge: keine
+Kontinuität / Änderung: Blühender Stab hinter dem schlichten Altar, keine neue Krönung des Toten.

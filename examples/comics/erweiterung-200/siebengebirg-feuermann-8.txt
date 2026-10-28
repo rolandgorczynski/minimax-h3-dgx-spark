@@ -1,0 +1,94 @@
+TITEL: Vom Siebengebürg – Das nützliche Amt
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bauer bei Königswinter
+Aussehen: Älterer Mann mit kurzem grauem Bart und freundlichen Falten.
+Kleidung: Braunes Wams, graue Hose, Strohhut, kleine Pfeife.
+Persönlichkeit und Vorgeschichte: Begegnet dem früheren Amtsträger ohne Unterwürfigkeit.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Feuermann im Siebengebirge
+Aussehen: Eine männlich umrissene durchscheinende Flammengestalt mit zwei Armen und Beinen, ohne brennende Haut.
+Kleidung: Nur Flammenkontur, angedeuteter Amtsrock als Silhouette.
+Persönlichkeit und Vorgeschichte: Ruheloser Geist eines in der Sage ausbeuterischen Ministers.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zwischen Bergen und Burgen
+Ort und Zeit: Zwischen Bergen und Burgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rheinische Berggruppe mit Burgruinen und Nebel in den Tälern.
+Erzählertext: Vom Siebengebirge erzählte man viele Geschichten ruheloser Seelen.
+Dialoge: keine
+Kontinuität / Änderung: Rheinische Berggruppe mit Burgruinen und Nebel in den Tälern.
+
+KACHEL 2: Der beschwerte Geist
+Ort und Zeit: Der beschwerte Geist
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine namenlose durchscheinende Gestalt mit schweren bleiernen Schuhen auf felsigem Weg.
+Erzählertext: Ein Wucherer soll mit schweren Schuhen wandern. Andere Gestalten wurden an frühere Ämter erinnert.
+Dialoge: keine
+Kontinuität / Änderung: Eine namenlose durchscheinende Gestalt mit schweren bleiernen Schuhen auf felsigem Weg.
+
+KACHEL 3: Das rasche Licht
+Ort und Zeit: Das rasche Licht
+Sichtbare Figuren: Feuermann im Siebengebirge
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner menschenförmiger Feuerschein ohne echtes Verbrennen, klare Arme und Beine.
+Erzählertext: Ein habgieriger Minister soll als Feuermann keine Ruhe finden.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner menschenförmiger Feuerschein ohne echtes Verbrennen, klare Arme und Beine.
+
+KACHEL 4: Der erkannte Herr
+Ort und Zeit: Der erkannte Herr
+Sichtbare Figuren: Bauer bei Königswinter, Feuermann im Siebengebirge
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Bauer mit einer kleinen Pfeife, eine durchscheinende Lichtgestalt in Abstand.
+Erzählertext: Bei Königswinter erkannte ein Bauer den früheren Amtsträger.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Bauer mit einer kleinen Pfeife, eine durchscheinende Lichtgestalt in Abstand.
+
+KACHEL 5: Die Bitte um einen Funken
+Ort und Zeit: Die Bitte um einen Funken
+Sichtbare Figuren: Bauer bei Königswinter, Feuermann im Siebengebirge
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauer mit einem Pfeifenkopf nahe dem unteren Lichtsaum, keine Berührung verbrannter Haut.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bauer bei Königswinter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bleib einen Augenblick. Dein Feuer kann mir nützen.“
+Kontinuität / Änderung: Bauer mit einem Pfeifenkopf nahe dem unteren Lichtsaum, keine Berührung verbrannter Haut.
+
+KACHEL 6: Der unfreiwillige Dienst
+Ort und Zeit: Der unfreiwillige Dienst
+Sichtbare Figuren: Bauer bei Königswinter, Feuermann im Siebengebirge
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Funkenregen um dieselbe eine Gestalt, Bauer steht ruhig daneben.
+Erzählertext: Der Feuermann musste stillhalten. Sein früherer Rang schützte ihn nicht vor diesem kleinen Dienst.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Funkenregen um dieselbe eine Gestalt, Bauer steht ruhig daneben.
+
+KACHEL 7: Der ungehorsame Dank
+Ort und Zeit: Der ungehorsame Dank
+Sichtbare Figuren: Bauer bei Königswinter, Feuermann im Siebengebirge
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauer ruhig, Feuermann bereits zum Weitergehen gedreht.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bauer bei Königswinter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Danke. Ein guter Herr warst du trotzdem nicht.“
+Kontinuität / Änderung: Bauer ruhig, Feuermann bereits zum Weitergehen gedreht.
+
+KACHEL 8: Ohne die alte Furcht
+Ort und Zeit: Ohne die alte Furcht
+Sichtbare Figuren: Feuermann im Siebengebirge
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelnes Licht entfernt sich im felsigen Tal, Bauer klein hinten am Weg.
+Erzählertext: Der Geist zog weiter. Die alte Ehrfurcht war fort; der einfache Mann hatte ihn erkannt, benutzt und beurteilt.
+Dialoge: keine
+Kontinuität / Änderung: Einzelnes Licht entfernt sich im felsigen Tal, Bauer klein hinten am Weg.

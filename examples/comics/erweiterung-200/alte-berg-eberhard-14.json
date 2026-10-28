@@ -1,0 +1,623 @@
+{
+  "mode": "editorial",
+  "name": "Der Alte-Berg – Dienen statt herrschen · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Der Alte-Berg. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 107.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nHoch und herrlich stand, landbeherrschend, das stolze Grafenschloß Berg überm Tal der Dhüne und gab der ganzen Grafschaft Berg den Namen, die hinter Jülich und Cleve in so vielen Titeln deutscher Fürstenhäuser unsterblich fortgeführt wird. An der Wupper wohnte ein Vogt, Eberhard, aus dem Hause Teißerbant, der hatte einen lieben Bruder, Adolf mit Namen, beide besaßen die Schlösser Berg und Altena. Adolf vermählte sich, und Eberhard minnte ein schönes Fräulein auf Burg Odinthal, aber dieses starb in seiner Jugendblüte. Graf Eberhard von Berg suchte seinen tiefen Schmerz durch Waffenlärm zu übertäuben, und da der Herzog Gottfried von Brabant dem Ritter von Limburg und den Grafen von Berg Fehde bot, so führte Eberhard die Scharen an und erfocht einen vollständigen Sieg, ward aber verwundet und kam von den Seinen hinweg, die ihn tot glauben mußten. Graf Eberhard trat eine große Wallfahrt gen Rom an, wie auch gen Compostell, dann kam er auf seinem Pilgergange nach Thüringen zum Schlosse Käfernburg, wo ein Verwandter von ihm namens Sizzo, nach andern Sieghard, wohnte. Dieser Sizzo war es, welcher unter der St. Johanniskirche auf dem Altenberge, wo der heilige Bonifazius den Thüringern zuerst das Evangelium predigte, noch eine Kirche in des heiligen Georgs Ehre erbaute, hernach im Tale das Kloster Asolverod gründete, zu welcher Gründung Graf Eberhard riet, und vom Kirchlein auf dem Georgenberge das Kloster nun Georgenthal nannte. Und da wurde Graf Eberhard von Berg und von der Mark der erste Abt. Allein der demütige und fromme Sinn dieses Grafen litt nicht lange diesen hohen Rang; er wollte dienen, nicht herrschen, legte daher die Abtwürde zu Georgenthal in Thüringen freiwillig nieder und zog als ein büßender Pilgrim weiter. Da kam er zu dem Kloster Morimund (Morimont) in der Champagne und bat daselbst um den geringsten Dienst. Dort ließ man ihn um Knechteslohn die Schweine hüten, und dies trieb er unerkannt lange Jahre. Sein Bruder Adolf und nicht minder der Bruder seiner verstorbenen Braut trugen großes Sehnen nach dem Verlorenen, und der letztere fand ihn auf einer Pilgerfahrt, die er zum Grabe des heiligen Aegidius in Morimund machte, unversehens in seinem niedern Dienste. Da nun der Freund in Eberhard dringt, ihm zu folgen, ruft dieser aus: Ja, hin nach dem alten Berge! Und bat den Abt von Morimund, zwölf Klosterbrüder mit ihm in seine Heimat ziehen zu lassen, zog heim und wandelte Schloß Berg in ein Kloster um, das er nun, vielleicht mit aus Erinnerung an jenes thüringische Altenberge, wo er oft auf waldiger Höhe im Gebet gekniet hatte, auch Altenberge nannte. Sein Bruder Adolf trat als Mitbegründer auch in das neue Kloster, dem Eberhard vorstand, und da es mit ihm zum Sterben kam und sein Bruder weinend an seinem Lager stand, sagte er einen Tag und eine Stunde voraus, wo er Adolf wiedersehen werde, und genau zu derselben Stunde ging Adolf zum Tode ein und zum Wiedersehen in dem ewigen Leben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Der Alte-Berg. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 107.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nHoch und herrlich stand, landbeherrschend, das stolze Grafenschloß Berg überm Tal der Dhüne und gab der ganzen Grafschaft Berg den Namen, die hinter Jülich und Cleve in so vielen Titeln deutscher Fürstenhäuser unsterblich fortgeführt wird. An der Wupper wohnte ein Vogt, Eberhard, aus dem Hause Teißerbant, der hatte einen lieben Bruder, Adolf mit Namen, beide besaßen die Schlösser Berg und Altena. Adolf vermählte sich, und Eberhard minnte ein schönes Fräulein auf Burg Odinthal, aber dieses starb in seiner Jugendblüte. Graf Eberhard von Berg suchte seinen tiefen Schmerz durch Waffenlärm zu übertäuben, und da der Herzog Gottfried von Brabant dem Ritter von Limburg und den Grafen von Berg Fehde bot, so führte Eberhard die Scharen an und erfocht einen vollständigen Sieg, ward aber verwundet und kam von den Seinen hinweg, die ihn tot glauben mußten. Graf Eberhard trat eine große Wallfahrt gen Rom an, wie auch gen Compostell, dann kam er auf seinem Pilgergange nach Thüringen zum Schlosse Käfernburg, wo ein Verwandter von ihm namens Sizzo, nach andern Sieghard, wohnte. Dieser Sizzo war es, welcher unter der St. Johanniskirche auf dem Altenberge, wo der heilige Bonifazius den Thüringern zuerst das Evangelium predigte, noch eine Kirche in des heiligen Georgs Ehre erbaute, hernach im Tale das Kloster Asolverod gründete, zu welcher Gründung Graf Eberhard riet, und vom Kirchlein auf dem Georgenberge das Kloster nun Georgenthal nannte. Und da wurde Graf Eberhard von Berg und von der Mark der erste Abt. Allein der demütige und fromme Sinn dieses Grafen litt nicht lange diesen hohen Rang; er wollte dienen, nicht herrschen, legte daher die Abtwürde zu Georgenthal in Thüringen freiwillig nieder und zog als ein büßender Pilgrim weiter. Da kam er zu dem Kloster Morimund (Morimont) in der Champagne und bat daselbst um den geringsten Dienst. Dort ließ man ihn um Knechteslohn die Schweine hüten, und dies trieb er unerkannt lange Jahre. Sein Bruder Adolf und nicht minder der Bruder seiner verstorbenen Braut trugen großes Sehnen nach dem Verlorenen, und der letztere fand ihn auf einer Pilgerfahrt, die er zum Grabe des heiligen Aegidius in Morimund machte, unversehens in seinem niedern Dienste. Da nun der Freund in Eberhard dringt, ihm zu folgen, ruft dieser aus: Ja, hin nach dem alten Berge! Und bat den Abt von Morimund, zwölf Klosterbrüder mit ihm in seine Heimat ziehen zu lassen, zog heim und wandelte Schloß Berg in ein Kloster um, das er nun, vielleicht mit aus Erinnerung an jenes thüringische Altenberge, wo er oft auf waldiger Höhe im Gebet gekniet hatte, auch Altenberge nannte. Sein Bruder Adolf trat als Mitbegründer auch in das neue Kloster, dem Eberhard vorstand, und da es mit ihm zum Sterben kam und sein Bruder weinend an seinem Lager stand, sagte er einen Tag und eine Stunde voraus, wo er Adolf wiedersehen werde, und genau zu derselben Stunde ging Adolf zum Tode ein und zum Wiedersehen in dem ewigen Leben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Der Verlust",
+        "setting": "Der Verlust",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann im grauen Mantel, leerer Platz gegenüber.",
+        "dialog": "Eberhard verlor die Frau, die er liebte.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "sitzt allein am Burgfenster; Grauer Reisemantel und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann im grauen Mantel, leerer Platz gegenüber.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel und braune Hose.",
+            "location": "Der Verlust",
+            "posture": "sitzt allein am Burgfenster"
+          }
+        }
+      },
+      {
+        "heading": "Der Lärm als Ausweg",
+        "setting": "Der Lärm als Ausweg",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Schlachtlandschaft mit zurückgelassenem Schild, keine Tötungsszene.",
+        "dialog": "Er suchte im Kampf den Schmerz zu übertönen und kehrte verwundet nicht mit den anderen heim.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leere Schlachtlandschaft mit zurückgelassenem Schild, keine Tötungsszene.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel und braune Hose.",
+            "location": "Der Verlust",
+            "posture": "sitzt allein am Burgfenster"
+          }
+        }
+      },
+      {
+        "heading": "Die angenommenen Toten",
+        "setting": "Die angenommenen Toten",
+        "characters": [
+          "811bd4157c4b57e9950ea9b46aa5ad4d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Bruder vor leerem Burgweg, niemand bringt einen Körper.",
+        "dialog": "Die Seinen hielten ihn für tot.",
+        "bubbles": [],
+        "character_states": {
+          "811bd4157c4b57e9950ea9b46aa5ad4d": "steht wartend am Tor; Dunkelgrüner langer Rock und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein erwachsener Bruder vor leerem Burgweg, niemand bringt einen Körper.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel und braune Hose.",
+            "location": "Der Verlust",
+            "posture": "sitzt allein am Burgfenster"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          }
+        }
+      },
+      {
+        "heading": "Die Pilgerwege",
+        "setting": "Die Pilgerwege",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Mann zu Fuß mit schlichtem Pilgergepäck, Wunde geschlossen verbunden.",
+        "dialog": "Eberhard zog als Pilger weiter.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "geht allein auf einem langen Weg; Grauer Reisemantel und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Derselbe Mann zu Fuß mit schlichtem Pilgergepäck, Wunde geschlossen verbunden.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel und braune Hose.",
+            "location": "Die Pilgerwege",
+            "posture": "geht allein auf einem langen Weg"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          }
+        }
+      },
+      {
+        "heading": "Bei den Verwandten",
+        "setting": "Bei den Verwandten",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor einer thüringischen Burg, beide zu Fuß.",
+        "dialog": "Bei Verwandten in Thüringen riet er zur Gründung eines Klosters.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "steht vor namenlosem erwachsenem Gastgeber; Grauer Reisemantel und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene vor einer thüringischen Burg, beide zu Fuß.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Reisemantel und braune Hose.",
+            "location": "Bei den Verwandten",
+            "posture": "steht vor namenlosem erwachsenem Gastgeber"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          }
+        }
+      },
+      {
+        "heading": "Die Abtwürde",
+        "setting": "Die Abtwürde",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann nun in brauner Kutte vor wenigen Mönchen, kein prunkvoller Thron.",
+        "dialog": "In Georgenthal wurde er erster Abt.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "steht im neuen Kloster; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann nun in brauner Kutte vor wenigen Mönchen, kein prunkvoller Thron.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Die Abtwürde",
+            "posture": "steht im neuen Kloster"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          }
+        }
+      },
+      {
+        "heading": "Der freiwillige Verzicht",
+        "setting": "Der freiwillige Verzicht",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Mönch mit kleinem Bündel, keine mitgenommene Amtsinsignie.",
+        "dialog": "Doch er wollte dienen, nicht herrschen. Er legte die Würde nieder.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "geht aus dem Klostertor; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein einzelner Mönch mit kleinem Bündel, keine mitgenommene Amtsinsignie.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der freiwillige Verzicht",
+            "posture": "geht aus dem Klostertor"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          }
+        }
+      },
+      {
+        "heading": "Der niedrige Dienst",
+        "setting": "Der niedrige Dienst",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mönch mit grauer werdendem Bart führt Schweine auf einer Weide, keine Karikatur des Dienstes.",
+        "dialog": "In Morimund hütete er unerkannt die Schweine.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "steht bei wenigen Schweinen; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein älterer Mönch mit grauer werdendem Bart führt Schweine auf einer Weide, keine Karikatur des Dienstes.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der niedrige Dienst",
+            "posture": "steht bei wenigen Schweinen"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          }
+        }
+      },
+      {
+        "heading": "Die unvermutete Begegnung",
+        "setting": "Die unvermutete Begegnung",
+        "characters": [
+          "446398167c435d1c9d68869a62df9391",
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Weiderand, Freund im Pilgermantel, Eberhard in einfacher brauner Kutte.",
+        "dialog": "Der Bruder seiner verstorbenen Geliebten erkannte ihn auf einer Pilgerfahrt.",
+        "bubbles": [],
+        "character_states": {
+          "446398167c435d1c9d68869a62df9391": "steht vor Eberhard; Brauner Pilgermantel und Stiefel.; Lebenszustand: lebend",
+          "f595a7ac5b7c5a9082129e78d62e066c": "steht in Arbeitskleidung; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene am Weiderand, Freund im Pilgermantel, Eberhard in einfacher brauner Kutte.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Die unvermutete Begegnung",
+            "posture": "steht in Arbeitskleidung"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          },
+          "446398167c435d1c9d68869a62df9391": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Pilgermantel und Stiefel.",
+            "location": "Die unvermutete Begegnung",
+            "posture": "steht vor Eberhard"
+          }
+        }
+      },
+      {
+        "heading": "Die mögliche Heimkehr",
+        "setting": "Die mögliche Heimkehr",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c",
+          "446398167c435d1c9d68869a62df9391"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer mit offenen leeren Händen.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "f595a7ac5b7c5a9082129e78d62e066c",
+            "text": "Dann zurück zum alten Berg.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "steht dem Freund zugewandt; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend",
+          "446398167c435d1c9d68869a62df9391": "steht neben ihm; Brauner Pilgermantel und Stiefel.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer mit offenen leeren Händen.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Die mögliche Heimkehr",
+            "posture": "steht dem Freund zugewandt"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          },
+          "446398167c435d1c9d68869a62df9391": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Pilgermantel und Stiefel.",
+            "location": "Die mögliche Heimkehr",
+            "posture": "steht neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Die gemeinsame Reise",
+        "setting": "Die gemeinsame Reise",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mönch vorn, zwölf kleine getrennte Mönchsgestalten hinten auf dem Weg.",
+        "dialog": "Mit zwölf Brüdern durfte er in seine Heimat ziehen.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "geht vor einer fernen Gruppe von zwölf Mönchen; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein älterer Mönch vorn, zwölf kleine getrennte Mönchsgestalten hinten auf dem Weg.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Die gemeinsame Reise",
+            "posture": "geht vor einer fernen Gruppe von zwölf Mönchen"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner langer Rock und Schuhe.",
+            "location": "Die angenommenen Toten",
+            "posture": "steht wartend am Tor"
+          },
+          "446398167c435d1c9d68869a62df9391": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Pilgermantel und Stiefel.",
+            "location": "Die mögliche Heimkehr",
+            "posture": "steht neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Das verwandelte Haus",
+        "setting": "Das verwandelte Haus",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c",
+          "811bd4157c4b57e9950ea9b46aa5ad4d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Brüder vor einer Burg, die zum schlichten Kloster umgebaut wird.",
+        "dialog": "Aus Burg Berg wurde ein Kloster. Auch Adolf trat in die neue Gemeinschaft ein.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "steht neben Adolf; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend",
+          "811bd4157c4b57e9950ea9b46aa5ad4d": "steht nun in Kutte; Schlichte braune Kutte und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei ältere Brüder vor einer Burg, die zum schlichten Kloster umgebaut wird.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Das verwandelte Haus",
+            "posture": "steht neben Adolf"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte und Schuhe.",
+            "location": "Das verwandelte Haus",
+            "posture": "steht nun in Kutte"
+          },
+          "446398167c435d1c9d68869a62df9391": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Pilgermantel und Stiefel.",
+            "location": "Die mögliche Heimkehr",
+            "posture": "steht neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Der Abschied",
+        "setting": "Der Abschied",
+        "characters": [
+          "f595a7ac5b7c5a9082129e78d62e066c",
+          "811bd4157c4b57e9950ea9b46aa5ad4d"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Männer im einfachen Klosterzimmer, Eberhard bedeckt, Adolf weint.",
+        "dialog": "Eberhard starb. Die Sage lässt ihn die spätere Stunde des Wiedersehens ankündigen.",
+        "bubbles": [],
+        "character_states": {
+          "f595a7ac5b7c5a9082129e78d62e066c": "liegt alt auf einer Liege; Schlichte braune Kutte, Sandalen.; Lebenszustand: lebend",
+          "811bd4157c4b57e9950ea9b46aa5ad4d": "sitzt am Bett; Schlichte braune Kutte und Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei alte Männer im einfachen Klosterzimmer, Eberhard bedeckt, Adolf weint.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der Abschied",
+            "posture": "liegt alt auf einer Liege"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte und Schuhe.",
+            "location": "Der Abschied",
+            "posture": "sitzt am Bett"
+          },
+          "446398167c435d1c9d68869a62df9391": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Pilgermantel und Stiefel.",
+            "location": "Die mögliche Heimkehr",
+            "posture": "steht neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Die neue Bedeutung des Ortes",
+        "setting": "Die neue Bedeutung des Ortes",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges Kloster über dem Tal, keine ewige Herrschaftspose oder geöffnete Gräber.",
+        "dialog": "Adolf folgte ihm im Tod. Aus dem Sitz der Macht war für beide ein Ort des Dienens und gemeinsamer Erinnerung geworden.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ruhiges Kloster über dem Tal, keine ewige Herrschaftspose oder geöffnete Gräber.",
+        "continuity_state": {
+          "f595a7ac5b7c5a9082129e78d62e066c": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte, Sandalen.",
+            "location": "Der Abschied",
+            "posture": "liegt alt auf einer Liege"
+          },
+          "811bd4157c4b57e9950ea9b46aa5ad4d": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichte braune Kutte und Schuhe.",
+            "location": "Der Abschied",
+            "posture": "sitzt am Bett"
+          },
+          "446398167c435d1c9d68869a62df9391": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Pilgermantel und Stiefel.",
+            "location": "Die mögliche Heimkehr",
+            "posture": "steht neben ihm"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Eberhard vom Alten-Berg",
+        "description": "Erwachsener Mann mit dunklem kurzem Bart, später grauer Bart.",
+        "outfit": "Grauer Reisemantel und braune Hose.",
+        "backstory": "Wählt nach Schmerz und Pilgerfahrt den Dienst statt Herrschaft.",
+        "id": "f595a7ac5b7c5a9082129e78d62e066c",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Adolf vom Alten-Berg",
+        "description": "Erwachsener Mann mit braunem Vollbart, später ergraut.",
+        "outfit": "Dunkelgrüner langer Rock und Schuhe.",
+        "backstory": "Bruder, der den Verlorenen vermisst und später die neue Gemeinschaft mitträgt.",
+        "id": "811bd4157c4b57e9950ea9b46aa5ad4d",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Wiederfindender Freund Eberhards",
+        "description": "Erwachsener Mann mit schwarzem Haar und kurzem Bart.",
+        "outfit": "Brauner Pilgermantel und Stiefel.",
+        "backstory": "Bruder der verstorbenen Geliebten, findet Eberhard im niedrigen Dienst.",
+        "id": "446398167c435d1c9d68869a62df9391",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Kann ein erfülltes Leben im freiwilligen Verzicht auf hohen Rang liegen?",
+      "core": "Aus Verlust kann eine Suche nach anderem Sinn entstehen. Der Wert des eigenen Weges muss sich nicht in Herrschaft zeigen, sondern kann im tätigen Dienen und in erneuerter Gemeinschaft liegen.",
+      "ending": "Eberhard kehrt mit Brüdern heim und gründet das Kloster; beide leiblichen Brüder enden in gemeinsamer Erinnerung.",
+      "reason": "Liebesverlust, Abtwürde, schlichter Dienst und spätere Heimkehr als unterschiedliche Entscheidungen zeigen, nicht als bloßes Reiseverzeichnis.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "er wollte dienen, nicht herrschen",
+          "meaning": "Eberhard gibt ein angesehenes Amt auf, statt nur die Form seiner Macht zu wechseln."
+        }
+      ],
+      "causal_chain": [
+        "er wollte dienen, nicht herrschen",
+        "Eberhard kehrt mit Brüdern heim und gründet das Kloster; beide leiblichen Brüder enden in gemeinsamer Erinnerung."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "e4c3fdb9751205a8e67a5871c6b033459a5cef77e925ca65272b909c67941078",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:56:59.709780+00:00"
+    },
+    "post_summary": "Eberhard sucht nach einem Verlust einen anderen Lebenssinn. Selbst die Abtwürde ist ihm noch zu viel Rang.",
+    "source_provenance": {
+      "title": "Der Alte-Berg",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 107.",
+      "url": "https://textgridrep.org/browse/kfzz.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Der Alte-Berg. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 107.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nHoch und herrlich stand, landbeherrschend, das stolze Grafenschloß Berg überm Tal der Dhüne und gab der ganzen Grafschaft Berg den Namen, die hinter Jülich und Cleve in so vielen Titeln deutscher Fürstenhäuser unsterblich fortgeführt wird. An der Wupper wohnte ein Vogt, Eberhard, aus dem Hause Teißerbant, der hatte einen lieben Bruder, Adolf mit Namen, beide besaßen die Schlösser Berg und Altena. Adolf vermählte sich, und Eberhard minnte ein schönes Fräulein auf Burg Odinthal, aber dieses starb in seiner Jugendblüte. Graf Eberhard von Berg suchte seinen tiefen Schmerz durch Waffenlärm zu übertäuben, und da der Herzog Gottfried von Brabant dem Ritter von Limburg und den Grafen von Berg Fehde bot, so führte Eberhard die Scharen an und erfocht einen vollständigen Sieg, ward aber verwundet und kam von den Seinen hinweg, die ihn tot glauben mußten. Graf Eberhard trat eine große Wallfahrt gen Rom an, wie auch gen Compostell, dann kam er auf seinem Pilgergange nach Thüringen zum Schlosse Käfernburg, wo ein Verwandter von ihm namens Sizzo, nach andern Sieghard, wohnte. Dieser Sizzo war es, welcher unter der St. Johanniskirche auf dem Altenberge, wo der heilige Bonifazius den Thüringern zuerst das Evangelium predigte, noch eine Kirche in des heiligen Georgs Ehre erbaute, hernach im Tale das Kloster Asolverod gründete, zu welcher Gründung Graf Eberhard riet, und vom Kirchlein auf dem Georgenberge das Kloster nun Georgenthal nannte. Und da wurde Graf Eberhard von Berg und von der Mark der erste Abt. Allein der demütige und fromme Sinn dieses Grafen litt nicht lange diesen hohen Rang; er wollte dienen, nicht herrschen, legte daher die Abtwürde zu Georgenthal in Thüringen freiwillig nieder und zog als ein büßender Pilgrim weiter. Da kam er zu dem Kloster Morimund (Morimont) in der Champagne und bat daselbst um den geringsten Dienst. Dort ließ man ihn um Knechteslohn die Schweine hüten, und dies trieb er unerkannt lange Jahre. Sein Bruder Adolf und nicht minder der Bruder seiner verstorbenen Braut trugen großes Sehnen nach dem Verlorenen, und der letztere fand ihn auf einer Pilgerfahrt, die er zum Grabe des heiligen Aegidius in Morimund machte, unversehens in seinem niedern Dienste. Da nun der Freund in Eberhard dringt, ihm zu folgen, ruft dieser aus: Ja, hin nach dem alten Berge! Und bat den Abt von Morimund, zwölf Klosterbrüder mit ihm in seine Heimat ziehen zu lassen, zog heim und wandelte Schloß Berg in ein Kloster um, das er nun, vielleicht mit aus Erinnerung an jenes thüringische Altenberge, wo er oft auf waldiger Höhe im Gebet gekniet hatte, auch Altenberge nannte. Sein Bruder Adolf trat als Mitbegründer auch in das neue Kloster, dem Eberhard vorstand, und da es mit ihm zum Sterben kam und sein Bruder weinend an seinem Lager stand, sagte er einen Tag und eine Stunde voraus, wo er Adolf wiedersehen werde, und genau zu derselben Stunde ging Adolf zum Tode ein und zum Wiedersehen in dem ewigen Leben.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Hoch und herrlich stand, landbeherrschend, das stolze Grafenschloß Berg überm Tal der Dhüne und gab der ganzen Grafschaft Berg den Namen, die hinter Jülich und Cleve in so vielen Titeln deutscher Fürstenhäuser unsterblich fortgeführt wird.",
+      "id": "bechstein-sagen-kfzz-0",
+      "category": "Heilige und Legenden",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "alte-berg-eberhard-14-comic-auswahl-200-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Der Alte-Berg – Dienen statt herrschen · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Der Alte-Berg – Dienen statt herrschen\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Eberhard vom Alten-Berg\nAussehen: Erwachsener Mann mit dunklem kurzem Bart, später grauer Bart.\nKleidung: Grauer Reisemantel und braune Hose.\nPersönlichkeit und Vorgeschichte: Wählt nach Schmerz und Pilgerfahrt den Dienst statt Herrschaft.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Adolf vom Alten-Berg\nAussehen: Erwachsener Mann mit braunem Vollbart, später ergraut.\nKleidung: Dunkelgrüner langer Rock und Schuhe.\nPersönlichkeit und Vorgeschichte: Bruder, der den Verlorenen vermisst und später die neue Gemeinschaft mitträgt.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Wiederfindender Freund Eberhards\nAussehen: Erwachsener Mann mit schwarzem Haar und kurzem Bart.\nKleidung: Brauner Pilgermantel und Stiefel.\nPersönlichkeit und Vorgeschichte: Bruder der verstorbenen Geliebten, findet Eberhard im niedrigen Dienst.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der Verlust\nOrt und Zeit: Der Verlust\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann im grauen Mantel, leerer Platz gegenüber.\nErzählertext: Eberhard verlor die Frau, die er liebte.\nDialoge: keine\nKontinuität / Änderung: Ein Mann im grauen Mantel, leerer Platz gegenüber.\n\nKACHEL 2: Der Lärm als Ausweg\nOrt und Zeit: Der Lärm als Ausweg\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Schlachtlandschaft mit zurückgelassenem Schild, keine Tötungsszene.\nErzählertext: Er suchte im Kampf den Schmerz zu übertönen und kehrte verwundet nicht mit den anderen heim.\nDialoge: keine\nKontinuität / Änderung: Leere Schlachtlandschaft mit zurückgelassenem Schild, keine Tötungsszene.\n\nKACHEL 3: Die angenommenen Toten\nOrt und Zeit: Die angenommenen Toten\nSichtbare Figuren: Adolf vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Bruder vor leerem Burgweg, niemand bringt einen Körper.\nErzählertext: Die Seinen hielten ihn für tot.\nDialoge: keine\nKontinuität / Änderung: Ein erwachsener Bruder vor leerem Burgweg, niemand bringt einen Körper.\n\nKACHEL 4: Die Pilgerwege\nOrt und Zeit: Die Pilgerwege\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Mann zu Fuß mit schlichtem Pilgergepäck, Wunde geschlossen verbunden.\nErzählertext: Eberhard zog als Pilger weiter.\nDialoge: keine\nKontinuität / Änderung: Derselbe Mann zu Fuß mit schlichtem Pilgergepäck, Wunde geschlossen verbunden.\n\nKACHEL 5: Bei den Verwandten\nOrt und Zeit: Bei den Verwandten\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor einer thüringischen Burg, beide zu Fuß.\nErzählertext: Bei Verwandten in Thüringen riet er zur Gründung eines Klosters.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene vor einer thüringischen Burg, beide zu Fuß.\n\nKACHEL 6: Die Abtwürde\nOrt und Zeit: Die Abtwürde\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann nun in brauner Kutte vor wenigen Mönchen, kein prunkvoller Thron.\nErzählertext: In Georgenthal wurde er erster Abt.\nDialoge: keine\nKontinuität / Änderung: Ein Mann nun in brauner Kutte vor wenigen Mönchen, kein prunkvoller Thron.\n\nKACHEL 7: Der freiwillige Verzicht\nOrt und Zeit: Der freiwillige Verzicht\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Mönch mit kleinem Bündel, keine mitgenommene Amtsinsignie.\nErzählertext: Doch er wollte dienen, nicht herrschen. Er legte die Würde nieder.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Mönch mit kleinem Bündel, keine mitgenommene Amtsinsignie.\n\nKACHEL 8: Der niedrige Dienst\nOrt und Zeit: Der niedrige Dienst\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mönch mit grauer werdendem Bart führt Schweine auf einer Weide, keine Karikatur des Dienstes.\nErzählertext: In Morimund hütete er unerkannt die Schweine.\nDialoge: keine\nKontinuität / Änderung: Ein älterer Mönch mit grauer werdendem Bart führt Schweine auf einer Weide, keine Karikatur des Dienstes.\n\nKACHEL 9: Die unvermutete Begegnung\nOrt und Zeit: Die unvermutete Begegnung\nSichtbare Figuren: Wiederfindender Freund Eberhards, Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Weiderand, Freund im Pilgermantel, Eberhard in einfacher brauner Kutte.\nErzählertext: Der Bruder seiner verstorbenen Geliebten erkannte ihn auf einer Pilgerfahrt.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene am Weiderand, Freund im Pilgermantel, Eberhard in einfacher brauner Kutte.\n\nKACHEL 10: Die mögliche Heimkehr\nOrt und Zeit: Die mögliche Heimkehr\nSichtbare Figuren: Eberhard vom Alten-Berg, Wiederfindender Freund Eberhards\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer mit offenen leeren Händen.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Eberhard vom Alten-Berg\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dann zurück zum alten Berg.“\nKontinuität / Änderung: Zwei Männer mit offenen leeren Händen.\n\nKACHEL 11: Die gemeinsame Reise\nOrt und Zeit: Die gemeinsame Reise\nSichtbare Figuren: Eberhard vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein älterer Mönch vorn, zwölf kleine getrennte Mönchsgestalten hinten auf dem Weg.\nErzählertext: Mit zwölf Brüdern durfte er in seine Heimat ziehen.\nDialoge: keine\nKontinuität / Änderung: Ein älterer Mönch vorn, zwölf kleine getrennte Mönchsgestalten hinten auf dem Weg.\n\nKACHEL 12: Das verwandelte Haus\nOrt und Zeit: Das verwandelte Haus\nSichtbare Figuren: Eberhard vom Alten-Berg, Adolf vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei ältere Brüder vor einer Burg, die zum schlichten Kloster umgebaut wird.\nErzählertext: Aus Burg Berg wurde ein Kloster. Auch Adolf trat in die neue Gemeinschaft ein.\nDialoge: keine\nKontinuität / Änderung: Zwei ältere Brüder vor einer Burg, die zum schlichten Kloster umgebaut wird.\n\nKACHEL 13: Der Abschied\nOrt und Zeit: Der Abschied\nSichtbare Figuren: Eberhard vom Alten-Berg, Adolf vom Alten-Berg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Männer im einfachen Klosterzimmer, Eberhard bedeckt, Adolf weint.\nErzählertext: Eberhard starb. Die Sage lässt ihn die spätere Stunde des Wiedersehens ankündigen.\nDialoge: keine\nKontinuität / Änderung: Zwei alte Männer im einfachen Klosterzimmer, Eberhard bedeckt, Adolf weint.\n\nKACHEL 14: Die neue Bedeutung des Ortes\nOrt und Zeit: Die neue Bedeutung des Ortes\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges Kloster über dem Tal, keine ewige Herrschaftspose oder geöffnete Gräber.\nErzählertext: Adolf folgte ihm im Tod. Aus dem Sitz der Macht war für beide ein Ort des Dienens und gemeinsamer Erinnerung geworden.\nDialoge: keine\nKontinuität / Änderung: Ruhiges Kloster über dem Tal, keine ewige Herrschaftspose oder geöffnete Gräber.\n"
+  },
+  "count_policy": "editorial"
+}

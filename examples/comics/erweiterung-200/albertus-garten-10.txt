@@ -1,0 +1,102 @@
+TITEL: Albertus Magnus – Ein Sommer im Winter
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Albertus der Gartenlegende
+Aussehen: Älterer Mann mit kurzem grauem Bart.
+Kleidung: Braune Kutte, Sandalen.
+Persönlichkeit und Vorgeschichte: Gastgeber einer wunderbaren vorübergehenden Jahreszeitenverwandlung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wilhelm im Wintergarten
+Aussehen: Erwachsener Mann mit blondem kurzem Bart.
+Kleidung: Dunkelblauer Rock, schwerer brauner Winterpelz, Schuhe.
+Persönlichkeit und Vorgeschichte: Nimmt eine ungewöhnliche Einladung gegen den Rat seiner Umgebung an.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Einladung
+Ort und Zeit: Die Einladung
+Sichtbare Figuren: Albertus der Gartenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mönch am verschneiten Gartentor mit gedecktem Tisch fern dahinter.
+Erzählertext: Albertus lud Wilhelm und seinen Hof mitten im Winter zum Gartenmahl.
+Dialoge: keine
+Kontinuität / Änderung: Mönch am verschneiten Gartentor mit gedecktem Tisch fern dahinter.
+
+KACHEL 2: Der Widerspruch
+Ort und Zeit: Der Widerspruch
+Sichtbare Figuren: Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher im Winterpelz, Ratsherren blicken skeptisch auf Schnee.
+Erzählertext: Seine Räte hielten die Einladung für unsinnig.
+Dialoge: keine
+Kontinuität / Änderung: Herrscher im Winterpelz, Ratsherren blicken skeptisch auf Schnee.
+
+KACHEL 3: Der entschlossene Gast
+Ort und Zeit: Der entschlossene Gast
+Sichtbare Figuren: Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann im Pelz mit wenigen Begleitern auf verschneitem Weg.
+Erzählertext: Wilhelm ging dennoch.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann im Pelz mit wenigen Begleitern auf verschneitem Weg.
+
+KACHEL 4: Die Tafel im Schnee
+Ort und Zeit: Die Tafel im Schnee
+Sichtbare Figuren: Albertus der Gartenlegende, Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Tisch unter schneebedeckten Bäumen, zwei benannte Erwachsene und wenige namenlose Gäste.
+Erzählertext: Unter den weißen Bäumen standen gedeckte Tafeln bereit.
+Dialoge: keine
+Kontinuität / Änderung: Tisch unter schneebedeckten Bäumen, zwei benannte Erwachsene und wenige namenlose Gäste.
+
+KACHEL 5: Das erste Licht
+Ort und Zeit: Das erste Licht
+Sichtbare Figuren: Wilhelm im Wintergarten, Albertus der Gartenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee schmilzt an den Bäumen, frisches Gras sichtbar, kein Sommerbild als zweite Kachel im Bild.
+Erzählertext: Als das Mahl begann, wurde der Himmel hell und der Schnee verschwand.
+Dialoge: keine
+Kontinuität / Änderung: Schnee schmilzt an den Bäumen, frisches Gras sichtbar, kein Sommerbild als zweite Kachel im Bild.
+
+KACHEL 6: Die kurze Blüte
+Ort und Zeit: Die kurze Blüte
+Sichtbare Figuren: Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bäume voller Blüten, Winterpelz gefaltet auf leerem Nachbarstuhl, derselbe eine Gastkörper.
+Erzählertext: Gras, Blüten und Vögel füllten den Garten. Die Gäste legten ihre schweren Mäntel ab.
+Dialoge: keine
+Kontinuität / Änderung: Bäume voller Blüten, Winterpelz gefaltet auf leerem Nachbarstuhl, derselbe eine Gastkörper.
+
+KACHEL 7: Die reifen Früchte
+Ort und Zeit: Die reifen Früchte
+Sichtbare Figuren: Albertus der Gartenlegende, Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Obstbaum nun mit wenigen reifen Früchten statt zugleich frischer Blüte, warme Luft.
+Erzählertext: Sogar Früchte reiften während der Mahlzeit.
+Dialoge: keine
+Kontinuität / Änderung: Ein Obstbaum nun mit wenigen reifen Früchten statt zugleich frischer Blüte, warme Luft.
+
+KACHEL 8: Der Umschlag zurück
+Ort und Zeit: Der Umschlag zurück
+Sichtbare Figuren: Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann legt den einen Pelz um, Bäume verlieren Laub, keine doppelte Kleidung.
+Erzählertext: Mit dem Ende des Mahls wurde es wieder kalt.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann legt den einen Pelz um, Bäume verlieren Laub, keine doppelte Kleidung.
+
+KACHEL 9: Wieder Winter
+Ort und Zeit: Wieder Winter
+Sichtbare Figuren: Albertus der Gartenlegende, Wilhelm im Wintergarten
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee liegt wieder auf demselben Tisch und den Bäumen, Gäste vollständig bekleidet auf dem Weg hinein.
+Erzählertext: Alles eilte ins warme Haus. Der Garten lag wieder im Schnee.
+Dialoge: keine
+Kontinuität / Änderung: Schnee liegt wieder auf demselben Tisch und den Bäumen, Gäste vollständig bekleidet auf dem Weg hinein.
+
+KACHEL 10: Die nicht festgehaltene Stunde
+Ort und Zeit: Die nicht festgehaltene Stunde
+Sichtbare Figuren: Wilhelm im Wintergarten, Albertus der Gartenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher dankt dem Mönch im einfachen Refektorium, kein mitgenommener Sommerbaum.
+Erzählertext: Wilhelm ehrte seinen Gastgeber. Die besondere Erfahrung blieb Erinnerung, kein jederzeit verfügbares Eigentum.
+Dialoge: keine
+Kontinuität / Änderung: Herrscher dankt dem Mönch im einfachen Refektorium, kein mitgenommener Sommerbaum.

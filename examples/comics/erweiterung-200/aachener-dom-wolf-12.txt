@@ -1,0 +1,125 @@
+TITEL: Dom zu Aachen – Die erste Seele
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ratsherr der Aachener Domsage
+Aussehen: Älterer Mann mit grauem kurzem Bart.
+Kleidung: Dunkelblauer Ratsrock und schwarze Kappe.
+Persönlichkeit und Vorgeschichte: Stimmt dem Handel zu und lenkt den Preis später auf ein Tier.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Reicher Fremder der Aachener Domsage
+Aussehen: Erwachsener schlanker Mann mit spitzem Gesicht und schwarzen Haaren.
+Kleidung: Dunkelroter Mantel und schwarze Schuhe.
+Persönlichkeit und Vorgeschichte: Teuflischer Geldgeber, verlangt die erste eintretende Seele.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wolf der Aachener Domsage
+Aussehen: Ein grauer Wolf mit vier Beinen und buschigem Schwanz.
+Kleidung: Natürliches Fell.
+Persönlichkeit und Vorgeschichte: Wird gefangen und als erstes Wesen in den Dom getrieben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das fehlende Geld
+Ort und Zeit: Das fehlende Geld
+Sichtbare Figuren: Ratsherr der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Ratsherr vor stillstehender Dombaustelle, Gerüste ohne Arbeiter.
+Erzählertext: Beim Dombau ging Aachen das Geld aus.
+Dialoge: keine
+Kontinuität / Änderung: Ein Ratsherr vor stillstehender Dombaustelle, Gerüste ohne Arbeiter.
+
+KACHEL 2: Der reiche Helfer
+Ort und Zeit: Der reiche Helfer
+Sichtbare Figuren: Ratsherr der Aachener Domsage, Reicher Fremder der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ratstisch, Beutel nur beim Fremden.
+Erzählertext: Ein Fremder bot Geld zur Vollendung.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene am Ratstisch, Beutel nur beim Fremden.
+
+KACHEL 3: Die Bedingung
+Ort und Zeit: Die Bedingung
+Sichtbare Figuren: Reicher Fremder der Aachener Domsage, Ratsherr der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, kein gefangener Mensch am Tisch.
+Erzählertext: Er verlangte die Seele des ersten Wesens, das danach eintrete.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer, kein gefangener Mensch am Tisch.
+
+KACHEL 4: Die heimliche Zusage
+Ort und Zeit: Die heimliche Zusage
+Sichtbare Figuren: Ratsherr der Aachener Domsage, Reicher Fremder der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Handschlag über einem einzelnen Beutel.
+Erzählertext: Der Rat erschrak, stimmte aber zu und wollte den Handel geheim halten.
+Dialoge: keine
+Kontinuität / Änderung: Ein Handschlag über einem einzelnen Beutel.
+
+KACHEL 5: Der fertige Dom
+Ort und Zeit: Der fertige Dom
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fertig wirkender historischer Aachener Zentralbau mit offenem Portal, Platz davor leer.
+Erzählertext: Der Bau wurde vollendet.
+Dialoge: keine
+Kontinuität / Änderung: Fertig wirkender historischer Aachener Zentralbau mit offenem Portal, Platz davor leer.
+
+KACHEL 6: Das leere Portal
+Ort und Zeit: Das leere Portal
+Sichtbare Figuren: Reicher Fremder der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fremder in leerem Eingangsraum, niemand tritt durch.
+Erzählertext: Doch das Geheimnis war bekannt geworden. Niemand wollte der Erste sein.
+Dialoge: keine
+Kontinuität / Änderung: Fremder in leerem Eingangsraum, niemand tritt durch.
+
+KACHEL 7: Die Drohung
+Ort und Zeit: Die Drohung
+Sichtbare Figuren: Reicher Fremder der Aachener Domsage, Ratsherr der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor dem Ratshaus, kein gewaltsamer Zugriff.
+Erzählertext: Der Teufel drohte, sich sonst jemanden aus dem Rat zu holen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer vor dem Ratshaus, kein gewaltsamer Zugriff.
+
+KACHEL 8: Der gefangene Wolf
+Ort und Zeit: Der gefangene Wolf
+Sichtbare Figuren: Wolf der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein grauer Wolf hinter geschlossener breiter Gittertür, keine blutigen Fangschlingen.
+Erzählertext: Der Rat ließ einen Wolf fangen.
+Dialoge: keine
+Kontinuität / Änderung: Ein grauer Wolf hinter geschlossener breiter Gittertür, keine blutigen Fangschlingen.
+
+KACHEL 9: Der erste Eintritt
+Ort und Zeit: Der erste Eintritt
+Sichtbare Figuren: Wolf der Aachener Domsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Wolf betritt den leeren Dom, keine Menschenseele als zweites Lichtwesen.
+Erzählertext: Ihn trieb man zuerst hinein.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Wolf betritt den leeren Dom, keine Menschenseele als zweites Lichtwesen.
+
+KACHEL 10: Der fremde Preis
+Ort und Zeit: Der fremde Preis
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Eingangsraum nach dem Geschehen, Türen weit geöffnet, keine Verletzung des Tiers.
+Erzählertext: Der Teufel tötete den Wolf und erkannte die List.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Eingangsraum nach dem Geschehen, Türen weit geöffnet, keine Verletzung des Tiers.
+
+KACHEL 11: Die gesprungene Tür
+Ort und Zeit: Die gesprungene Tür
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein sichtbarer Riss in einer einzelnen bronzenen Türhälfte, keine gesprengte ganze Kathedrale.
+Erzählertext: Im Zorn schlug er die Tür so zu, dass sie sprang, und fuhr davon.
+Dialoge: keine
+Kontinuität / Änderung: Ein sichtbarer Riss in einer einzelnen bronzenen Türhälfte, keine gesprengte ganze Kathedrale.
+
+KACHEL 12: Der zugängliche Dom
+Ort und Zeit: Der zugängliche Dom
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene treten durch das offene Portal, nebenan eine bronzene Wolfsfigur als Erinnerungsbild.
+Erzählertext: Die Menschen konnten nun eintreten. Der Dom war gewonnen, der Wolf verloren. Die andere Fassung mit einem Menschenopfer bleibt eine eigene Variante.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene treten durch das offene Portal, nebenan eine bronzene Wolfsfigur als Erinnerungsbild.

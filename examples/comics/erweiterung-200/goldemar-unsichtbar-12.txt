@@ -1,0 +1,118 @@
+TITEL: Goldemar – Was man nicht sehen muss
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Nibelung von Hardenberg
+Aussehen: Erwachsener Mann mit braunem Vollbart.
+Kleidung: Blaues Wams, graue Hose, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Lebt mit dem unsichtbaren Goldemar in hilfreicher Freundschaft.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schwester des Hardenbergers
+Aussehen: Erwachsene Frau mit dunklem Zopf.
+Kleidung: Grünes langes Kleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Spielt und hört gemeinsam mit dem Bruder dem unsichtbaren Gast zu.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der unsichtbare Bewohner
+Ort und Zeit: Der unsichtbare Bewohner
+Sichtbare Figuren: Nibelung von Hardenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann vor einem einzelnen leeren Stuhl im Saal. Keine gemalte Zwergenfigur.
+Erzählertext: Bei Hardenberg soll Goldemar gewohnt haben, stets unsichtbar und doch spürbar.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann vor einem einzelnen leeren Stuhl im Saal. Keine gemalte Zwergenfigur.
+
+KACHEL 2: Der hilfreiche Rat
+Ort und Zeit: Der hilfreiche Rat
+Sichtbare Figuren: Nibelung von Hardenberg, Schwester des Hardenbergers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei sichtbare Erwachsene am Tisch, ein dritter Platz leer.
+Erzählertext: Er half und gab Rat, ohne seine Gestalt zu zeigen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei sichtbare Erwachsene am Tisch, ein dritter Platz leer.
+
+KACHEL 3: Das Spiel
+Ort und Zeit: Das Spiel
+Sichtbare Figuren: Nibelung von Hardenberg, Schwester des Hardenbergers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Brettspiel mit einem bewegten Spielstein am leeren dritten Platz; keine körperlose menschliche Hand.
+Erzählertext: Mit den Geschwistern spielte er Brett und Würfel.
+Dialoge: keine
+Kontinuität / Änderung: Brettspiel mit einem bewegten Spielstein am leeren dritten Platz; keine körperlose menschliche Hand.
+
+KACHEL 4: Die Musik
+Ort und Zeit: Die Musik
+Sichtbare Figuren: Nibelung von Hardenberg, Schwester des Hardenbergers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Harfe am leeren Stuhl, Saiten leicht bewegt, nur zwei sichtbare Menschen.
+Erzählertext: Sein Harfenspiel konnte niemand nachahmen.
+Dialoge: keine
+Kontinuität / Änderung: Eine Harfe am leeren Stuhl, Saiten leicht bewegt, nur zwei sichtbare Menschen.
+
+KACHEL 5: Die gefühlte Hand
+Ort und Zeit: Die gefühlte Hand
+Sichtbare Figuren: Nibelung von Hardenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine menschliche offene Hand im leeren Raum, keine sichtbar gezeichnete Zwergenhand.
+Erzählertext: Wenn Nibelung seine Nähe prüfen wollte, fühlte er eine kleine warme Hand.
+Dialoge: keine
+Kontinuität / Änderung: Eine menschliche offene Hand im leeren Raum, keine sichtbar gezeichnete Zwergenhand.
+
+KACHEL 6: Drei Jahre
+Ort und Zeit: Drei Jahre
+Sichtbare Figuren: Nibelung von Hardenberg, Schwester des Hardenbergers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im vertrauten Saal, dritter Platz weiterhin leer.
+Erzählertext: Drei Jahre dauerte dieser Umgang, ohne dass Goldemar jemanden beleidigte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im vertrauten Saal, dritter Platz weiterhin leer.
+
+KACHEL 7: Die neugierigen Hausleute
+Ort und Zeit: Die neugierigen Hausleute
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose erwachsene Hausleute beobachten den leeren Saaleingang.
+Erzählertext: Andere im Haus wollten unbedingt wissen, wie er aussah.
+Dialoge: keine
+Kontinuität / Änderung: Zwei namenlose erwachsene Hausleute beobachten den leeren Saaleingang.
+
+KACHEL 8: Die Falle
+Ort und Zeit: Die Falle
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dünner heller Aschestreifen und einige Erbsen auf dem Saalboden, niemand fällt schon darin.
+Erzählertext: Sie streuten heimlich Asche und Erbsen aus.
+Dialoge: keine
+Kontinuität / Änderung: Ein dünner heller Aschestreifen und einige Erbsen auf dem Saalboden, niemand fällt schon darin.
+
+KACHEL 9: Die verletzte Grenze
+Ort und Zeit: Die verletzte Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Körperabdruck in der Asche nach einem Sturz, kein wirklich sichtbares Kind im Saal.
+Erzählertext: Goldemar rutschte aus. Sein Abdruck verriet eine kleine Gestalt.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Körperabdruck in der Asche nach einem Sturz, kein wirklich sichtbares Kind im Saal.
+
+KACHEL 10: Die leere Harfe
+Ort und Zeit: Die leere Harfe
+Sichtbare Figuren: Nibelung von Hardenberg, Schwester des Hardenbergers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene vor leerem Stuhl und ruhender Harfe.
+Erzählertext: Danach kam er nie wieder.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene vor leerem Stuhl und ruhender Harfe.
+
+KACHEL 11: Kein neuer Zugriff
+Ort und Zeit: Kein neuer Zugriff
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weg von Hardenberg in die Ferne, kein entführtes Mädchen aus späterer anderer Episode.
+Erzählertext: Der vertraute Gast war fort. Nach dem vermeintlich sicheren Blick auf seine Gestalt blieb nur sein unbesetzter Platz.
+Dialoge: keine
+Kontinuität / Änderung: Weg von Hardenberg in die Ferne, kein entführtes Mädchen aus späterer anderer Episode.
+
+KACHEL 12: Die verlorene Nähe
+Ort und Zeit: Die verlorene Nähe
+Sichtbare Figuren: Nibelung von Hardenberg, Schwester des Hardenbergers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Menschen am Spielbrett, dritter Stuhl leer, keine heimlich zurückgekehrte Zwergengestalt.
+Erzählertext: Sie hatten eine Gestalt enthüllt und einen hilfreichen Umgang verloren. Nicht alles Vertraute musste zuvor sichtbar sein.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Menschen am Spielbrett, dritter Stuhl leer, keine heimlich zurückgekehrte Zwergengestalt.

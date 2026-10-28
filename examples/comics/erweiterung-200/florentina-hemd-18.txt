@@ -1,0 +1,184 @@
+TITEL: Die getreue Frau Florentina – Die unbekannte Befreierin
+AUTOR: Sysop
+KACHELANZAHL: 18
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Florentina aus Metz
+Aussehen: Erwachsene Frau mit braunem Haar und klaren dunklen Augen; gleiche Gesichtszüge auch in Verkleidung.
+Kleidung: Blaues langes Kleid.
+Persönlichkeit und Vorgeschichte: Musikerin und handelnde Befreierin, nicht bloß Trägerin eines Treuezeichens.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alexander aus Metz
+Aussehen: Erwachsener Mann mit dunkelbraunem kurzem Bart.
+Kleidung: Helles Leinenhemd mit einem roten Kreuz, braune Hose und Schuhe.
+Persönlichkeit und Vorgeschichte: Gerät in Gefangenschaft und erkennt die verkleidete Befreierin nicht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Sultan der Florentinasage
+Aussehen: Erwachsener Mann mit schwarzem kurzem Bart.
+Kleidung: Dunkelgrüner langer Rock, helles Kopftuch.
+Persönlichkeit und Vorgeschichte: Lässt die Behauptung prüfen und belohnt das Harfenspiel mit Freilassung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Gesandter der Florentinasage
+Aussehen: Erwachsener schlanker Mann mit schwarzem Bart.
+Kleidung: Grauer Reisemantel, braune Hose, Schuhe.
+Persönlichkeit und Vorgeschichte: Prüft Florentinas Treue, wird abgewiesen und erkennt sie später nicht in Pilgertracht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das angefertigte Hemd
+Ort und Zeit: Das angefertigte Hemd
+Sichtbare Figuren: Florentina aus Metz, Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein helles Hemd mit kleinem roten Kreuz liegt zwischen den beiden Erwachsenen.
+Erzählertext: Vor Alexanders Bußfahrt fertigte Florentina ihm ein Hemd als Treuezeichen.
+Dialoge: keine
+Kontinuität / Änderung: Ein helles Hemd mit kleinem roten Kreuz liegt zwischen den beiden Erwachsenen.
+
+KACHEL 2: Die Gefangenschaft
+Ort und Zeit: Die Gefangenschaft
+Sichtbare Figuren: Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Gefangener vor einem Pflug mit breitem Joch, keine Peitschenhiebe oder Wunden.
+Erzählertext: Im fernen Land wurde Alexander gefangen und zur schweren Feldarbeit gezwungen.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Gefangener vor einem Pflug mit breitem Joch, keine Peitschenhiebe oder Wunden.
+
+KACHEL 3: Das reine Zeichen
+Ort und Zeit: Das reine Zeichen
+Sichtbare Figuren: Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schweißiges Gesicht, staubige Umgebung, das eine Hemd bleibt weiß mit rotem Kreuz.
+Erzählertext: Das Hemd blieb in der Sage rein. Die Aufseher berichteten dem Sultan davon.
+Dialoge: keine
+Kontinuität / Änderung: Schweißiges Gesicht, staubige Umgebung, das eine Hemd bleibt weiß mit rotem Kreuz.
+
+KACHEL 4: Die Nachfrage
+Ort und Zeit: Die Nachfrage
+Sichtbare Figuren: Sultan der Florentinasage, Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herrscher und Gefangener auf Abstand, keine Folter.
+Erzählertext: Alexander erklärte es mit Florentinas Treue.
+Dialoge: keine
+Kontinuität / Änderung: Herrscher und Gefangener auf Abstand, keine Folter.
+
+KACHEL 5: Die Reise des Gesandten
+Ort und Zeit: Die Reise des Gesandten
+Sichtbare Figuren: Gesandter der Florentinasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reisender mit geschlossenem Bericht, Metz fern.
+Erzählertext: Der Sultan schickte einen Gesandten, die Behauptung zu prüfen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reisender mit geschlossenem Bericht, Metz fern.
+
+KACHEL 6: Die klare Grenze
+Ort und Zeit: Die klare Grenze
+Sichtbare Figuren: Florentina aus Metz, Gesandter der Florentinasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene mit Abstand, Florentina hält eine offene Hand abwehrend.
+Erzählertext: Der Gesandte erzählte von der Gefangenschaft und warb selbst um sie. Sie wies ihn ab.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene mit Abstand, Florentina hält eine offene Hand abwehrend.
+
+KACHEL 7: Die eigene Entscheidung
+Ort und Zeit: Die eigene Entscheidung
+Sichtbare Figuren: Florentina aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau mit braunem Haar nun unter Kapuze, eine Harfe im Tragebeutel, Kleid auf einer Bank abgelegt.
+Erzählertext: Florentina verkleidete sich als Pilger und nahm ihre Harfe mit.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Frau mit braunem Haar nun unter Kapuze, eine Harfe im Tragebeutel, Kleid auf einer Bank abgelegt.
+
+KACHEL 8: Auf demselben Schiff
+Ort und Zeit: Auf demselben Schiff
+Sichtbare Figuren: Florentina aus Metz, Gesandter der Florentinasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf einem Schiff, ihre Harfe sicher neben ihr. Keine doppelte unverkleidete Frau.
+Erzählertext: In Venedig holte sie den Gesandten ein. Er erkannte sie auf der gemeinsamen Reise nicht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene auf einem Schiff, ihre Harfe sicher neben ihr. Keine doppelte unverkleidete Frau.
+
+KACHEL 9: Die Empfehlung
+Ort und Zeit: Die Empfehlung
+Sichtbare Figuren: Gesandter der Florentinasage, Sultan der Florentinasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gesandter berichtet im Saal, Harfe der wartenden Pilgerin am Rand sichtbar.
+Erzählertext: Er berichtete von ihrer Treue und lobte die Musik seines vermeintlichen Reisegefährten.
+Dialoge: keine
+Kontinuität / Änderung: Gesandter berichtet im Saal, Harfe der wartenden Pilgerin am Rand sichtbar.
+
+KACHEL 10: Das Harfenspiel
+Ort und Zeit: Das Harfenspiel
+Sichtbare Figuren: Florentina aus Metz, Sultan der Florentinasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Hände spielen an einer einzelnen Harfe, Sultan sitzt in Entfernung.
+Erzählertext: Florentina spielte vor dem Hof.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Hände spielen an einer einzelnen Harfe, Sultan sitzt in Entfernung.
+
+KACHEL 11: Der andere Lohn
+Ort und Zeit: Der andere Lohn
+Sichtbare Figuren: Florentina aus Metz, Sultan der Florentinasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pilgermantel geschlossen, Harfe abgestellt neben ihr.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Florentina aus Metz
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Kein Gold. Lasst einen der Gefangenen frei.“
+Kontinuität / Änderung: Pilgermantel geschlossen, Harfe abgestellt neben ihr.
+
+KACHEL 12: Der gewählte Mann
+Ort und Zeit: Der gewählte Mann
+Sichtbare Figuren: Florentina aus Metz, Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene gehen vom Feld weg, das Joch liegt zurück.
+Erzählertext: Sie wählte ihren Mann. Als Befreiter reiste er mit, ohne sie zu erkennen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene gehen vom Feld weg, das Joch liegt zurück.
+
+KACHEL 13: Ein Stück als Erinnerung
+Ort und Zeit: Ein Stück als Erinnerung
+Sichtbare Figuren: Florentina aus Metz, Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alexander hat aus dem unteren Hemdsaum ein kleines Stück abgetrennt, ein einziges fehlendes Eck sichtbar.
+Erzählertext: Kurz vor Metz bat sie um ein Stück seines wunderbaren Hemds. Er gab es ihr zum Dank.
+Dialoge: keine
+Kontinuität / Änderung: Alexander hat aus dem unteren Hemdsaum ein kleines Stück abgetrennt, ein einziges fehlendes Eck sichtbar.
+
+KACHEL 14: Früher zu Hause
+Ort und Zeit: Früher zu Hause
+Sichtbare Figuren: Florentina aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Florentina legt den Pilgermantel auf eine Bank, Harfe und kleines Leinenstück sicher daneben.
+Erzählertext: Sie eilte voraus und legte ihre gewohnte Kleidung wieder an.
+Dialoge: keine
+Kontinuität / Änderung: Florentina legt den Pilgermantel auf eine Bank, Harfe und kleines Leinenstück sicher daneben.
+
+KACHEL 15: Die Heimkehr
+Ort und Zeit: Die Heimkehr
+Sichtbare Figuren: Alexander aus Metz, Florentina aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene an der Haustür, Hemd mit fehlendem kleinen Saumstück unverändert.
+Erzählertext: Alexander kam einen Tag später heim und wurde freudig empfangen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene an der Haustür, Hemd mit fehlendem kleinen Saumstück unverändert.
+
+KACHEL 16: Das Gerücht
+Ort und Zeit: Das Gerücht
+Sichtbare Figuren: Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Männer am Tisch, Alexander hört erschrocken, keine wirklich untreue Szene eingeblendet.
+Erzählertext: Andere erzählten von einem fremden Mann und Florentinas langer Abwesenheit. Er glaubte ihrer Deutung.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Männer am Tisch, Alexander hört erschrocken, keine wirklich untreue Szene eingeblendet.
+
+KACHEL 17: Die sichtbare Antwort
+Ort und Zeit: Die sichtbare Antwort
+Sichtbare Figuren: Florentina aus Metz, Alexander aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau im bekannten grauen Mantel, Harfe links, kleines Leinenstück rechts in eigener Hand.
+Erzählertext: Als er sie öffentlich beschuldigte, kam sie in Pilgertracht zurück und zeigte das Hemdstück.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Frau im bekannten grauen Mantel, Harfe links, kleines Leinenstück rechts in eigener Hand.
+
+KACHEL 18: Die erkannte Tat
+Ort und Zeit: Die erkannte Tat
+Sichtbare Figuren: Alexander aus Metz, Florentina aus Metz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene mit vorsichtig ineinandergelegten Händen, Harfe sicher abgestellt.
+Erzählertext: Jetzt erkannte er seine Befreierin und bat um Verzeihung. Ihr Handeln trug die Wahrheit, nicht das Gerücht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene mit vorsichtig ineinandergelegten Händen, Harfe sicher abgestellt.
