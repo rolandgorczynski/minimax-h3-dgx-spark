@@ -1,0 +1,141 @@
+TITEL: Die nächtliche Trauung – Das offene Grab
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Pfarrer bei Apenrade
+Aussehen: Älterer Mann mit grauem Haar.
+Kleidung: Schwarzes geistliches Gewand.
+Persönlichkeit und Vorgeschichte: Wird nachts mit Geld und Drohungen zur Kirche gezwungen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Braut der nächtlichen Trauung
+Aussehen: Junge erwachsene Frau mit dunklem Haar.
+Kleidung: Geschlossenes weißes Brautkleid.
+Persönlichkeit und Vorgeschichte: Ihr Schicksal bleibt von unbekannten Mächten bestimmt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bräutigam der nächtlichen Trauung
+Aussehen: Junger erwachsener Mann mit blondem Haar.
+Kleidung: Dunkelblauer reich verzierter Rock.
+Persönlichkeit und Vorgeschichte: Steht am Altar, seine Rolle bleibt ungeklärt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das Klopfen
+Ort und Zeit: Das Klopfen
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Seeleute vor Pfarrhaus in der Nacht.
+Erzählertext: Matrosen holten den Pfarrer nachts aus dem Bett.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Seeleute vor Pfarrhaus in der Nacht.
+
+KACHEL 2: Das Angebot
+Ort und Zeit: Das Angebot
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Beutel in fremder Hand, keine Übergabe.
+Erzählertext: Sie boten Gold und drohten zugleich mit seinem Tod.
+Dialoge: keine
+Kontinuität / Änderung: Ein Beutel in fremder Hand, keine Übergabe.
+
+KACHEL 3: Der erzwungene Weg
+Ort und Zeit: Der erzwungene Weg
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene auf dunklem Kirchenweg.
+Erzählertext: Er musste in seinem Ornat mitgehen.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene auf dunklem Kirchenweg.
+
+KACHEL 4: Die erleuchtete Kirche
+Ort und Zeit: Die erleuchtete Kirche
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kirche innen beleuchtet, bewaffnete Männer mit gesenkten Waffen.
+Erzählertext: Die einsame Kirche war voller fremder Seeleute.
+Dialoge: keine
+Kontinuität / Änderung: Kirche innen beleuchtet, bewaffnete Männer mit gesenkten Waffen.
+
+KACHEL 5: Das Paar
+Ort und Zeit: Das Paar
+Sichtbare Figuren: Braut der nächtlichen Trauung, Bräutigam der nächtlichen Trauung, Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene, offene Gruft fern hinter dem Paar.
+Erzählertext: Am Altar wartete ein junges Paar.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene, offene Gruft fern hinter dem Paar.
+
+KACHEL 6: Die geöffnete Gruft
+Ort und Zeit: Die geöffnete Gruft
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere offene Graböffnung hinter dem Altar, kein Körper.
+Erzählertext: Hinter ihnen war bereits ein Grab geöffnet.
+Dialoge: keine
+Kontinuität / Änderung: Leere offene Graböffnung hinter dem Altar, kein Körper.
+
+KACHEL 7: Die Anweisung
+Ort und Zeit: Die Anweisung
+Sichtbare Figuren: Pfarrer bei Apenrade, Braut der nächtlichen Trauung, Bräutigam der nächtlichen Trauung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pfarrer mit geschlossenem Buch.
+Erzählertext: Man befahl ihm, beide zu trauen.
+Dialoge: keine
+Kontinuität / Änderung: Pfarrer mit geschlossenem Buch.
+
+KACHEL 8: Die Hochzeit
+Ort und Zeit: Die Hochzeit
+Sichtbare Figuren: Pfarrer bei Apenrade, Braut der nächtlichen Trauung, Bräutigam der nächtlichen Trauung
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kurze Trauzeremonie ohne fröhliche Festgesellschaft.
+Erzählertext: Er tat es voller Angst.
+Dialoge: keine
+Kontinuität / Änderung: Kurze Trauzeremonie ohne fröhliche Festgesellschaft.
+
+KACHEL 9: Der zweite Auftrag
+Ort und Zeit: Der zweite Auftrag
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Paar fern außerhalb des Bildes.
+Erzählertext: Dann sollte er am offenen Grab eine Leichenrede halten.
+Dialoge: keine
+Kontinuität / Änderung: Paar fern außerhalb des Bildes.
+
+KACHEL 10: Der Schweigeeid
+Ort und Zeit: Der Schweigeeid
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geistlicher mit gesenkten Händen.
+Erzählertext: Zum Schluss zwangen sie ihn zu ewigem Schweigen.
+Dialoge: keine
+Kontinuität / Änderung: Geistlicher mit gesenkten Händen.
+
+KACHEL 11: Der Weg hinaus
+Ort und Zeit: Der Weg hinaus
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pfarrer vor geschlossener Kirchentür.
+Erzählertext: Er eilte nach Hause. Hinter ihm hörte er einen Schuss und einen Frauenschrei.
+Dialoge: keine
+Kontinuität / Änderung: Pfarrer vor geschlossener Kirchentür.
+
+KACHEL 12: Der Morgen
+Ort und Zeit: Der Morgen
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dreimaster entfernt sich auf offener See.
+Erzählertext: Im Morgengrauen lag ein fremdes Schiff bereits weit draußen.
+Dialoge: keine
+Kontinuität / Änderung: Dreimaster entfernt sich auf offener See.
+
+KACHEL 13: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Pfarrer bei Apenrade
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene weiße Decke im Grab, keine Wunde oder Gesicht sichtbar.
+Erzählertext: In der Gruft fand er die getötete Braut.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossene weiße Decke im Grab, keine Wunde oder Gesicht sichtbar.
+
+KACHEL 14: Die unbekannte Geschichte
+Ort und Zeit: Die unbekannte Geschichte
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Altar vor ruhigem Morgenfenster.
+Erzählertext: Über die Hintergründe wusste er nichts. Die erzwungene Trauung hatte keinen Lebensanfang geschützt.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Altar vor ruhigem Morgenfenster.

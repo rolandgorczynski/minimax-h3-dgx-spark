@@ -1,0 +1,157 @@
+TITEL: Die Enten – Der verräterische Ausruf
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Erster Mann am roten Fleck
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Brauner Rock, graue Hose.
+Persönlichkeit und Vorgeschichte: Verbirgt einen alten Mord.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweiter Mann am roten Fleck
+Aussehen: Erwachsener Mann mit schwarzem Haar.
+Kleidung: Grüner Rock, braune Hose.
+Persönlichkeit und Vorgeschichte: Dient später als Knecht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Frau des ersten Mannes
+Aussehen: Erwachsene Frau mit dunklem Zopf.
+Kleidung: Blaues Kleid, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Bemerkt die Reaktion und berichtet davon.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wandernder Handwerker
+Aussehen: Junger erwachsener Mann mit blondem Haar.
+Kleidung: Graues Reisegewand, Bündel.
+Persönlichkeit und Vorgeschichte: Wird wegen seines Geldes überfallen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Ruheplatz
+Ort und Zeit: Der Ruheplatz
+Sichtbare Figuren: Wandernder Handwerker
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Handwerker zählt wenige Münzen, Teich dahinter.
+Erzählertext: Ein Handwerker rastete bei einem Busch nahe Glückstadt.
+Dialoge: keine
+Kontinuität / Änderung: Handwerker zählt wenige Münzen, Teich dahinter.
+
+KACHEL 2: Die Beobachter
+Ort und Zeit: Die Beobachter
+Sichtbare Figuren: Erster Mann am roten Fleck, Zweiter Mann am roten Fleck
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei versteckte erwachsene Männer.
+Erzählertext: Zwei Männer sahen sein Geld.
+Dialoge: keine
+Kontinuität / Änderung: Zwei versteckte erwachsene Männer.
+
+KACHEL 3: Der Überfall
+Ort und Zeit: Der Überfall
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zurückgelassenes Bündel am Busch, keine Gewalt im Bild.
+Erzählertext: Sie überfielen und ermordeten ihn.
+Dialoge: keine
+Kontinuität / Änderung: Zurückgelassenes Bündel am Busch, keine Gewalt im Bild.
+
+KACHEL 4: Die Zeugen
+Ort und Zeit: Die Zeugen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wilde Enten fliegen schreiend vom Teich auf.
+Erzählertext: Sterbend rief er die Vögel zu Zeugen der Tat an.
+Dialoge: keine
+Kontinuität / Änderung: Wilde Enten fliegen schreiend vom Teich auf.
+
+KACHEL 5: Das verborgene Grab
+Ort und Zeit: Das verborgene Grab
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frisch bewegte Erde unter Busch, keine Gebeine.
+Erzählertext: Die Männer verbargen ihn und flohen.
+Dialoge: keine
+Kontinuität / Änderung: Frisch bewegte Erde unter Busch, keine Gebeine.
+
+KACHEL 6: Der rote Fleck
+Ort und Zeit: Der rote Fleck
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rotes Kraut unter Busch, scheuendes Pferd fern.
+Erzählertext: Rotes Kraut wuchs an der Stelle. Pferde scheuten davor.
+Dialoge: keine
+Kontinuität / Änderung: Rotes Kraut unter Busch, scheuendes Pferd fern.
+
+KACHEL 7: Die verstrichenen Jahre
+Ort und Zeit: Die verstrichenen Jahre
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Busch größer, ruhiger Hofweg.
+Erzählertext: Vierzig Jahre vergingen. Beide Männer galten als unbescholten.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Busch größer, ruhiger Hofweg.
+
+KACHEL 8: Die zufällige Begegnung
+Ort und Zeit: Die zufällige Begegnung
+Sichtbare Figuren: Erster Mann am roten Fleck, Frau des ersten Mannes, Zweiter Mann am roten Fleck
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei ältere Erwachsene treffen am roten Fleck zusammen.
+Erzählertext: Eines Abends trafen sie sich dort wieder.
+Dialoge: keine
+Kontinuität / Änderung: Drei ältere Erwachsene treffen am roten Fleck zusammen.
+
+KACHEL 9: Der gleiche Ruf
+Ort und Zeit: Der gleiche Ruf
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Enten fliegen erneut vom Teich auf.
+Erzählertext: Wieder schreckten Enten aus dem Wasser.
+Dialoge: keine
+Kontinuität / Änderung: Enten fliegen erneut vom Teich auf.
+
+KACHEL 10: Der gemeinsame Ausruf
+Ort und Zeit: Der gemeinsame Ausruf
+Sichtbare Figuren: Erster Mann am roten Fleck, Zweiter Mann am roten Fleck, Frau des ersten Mannes
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei ältere Menschen.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster Mann am roten Fleck
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Die Enten! Die Zeugen!“
+Dialog 2:
+  Sprecher: Zweiter Mann am roten Fleck
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Die Zeugen!“
+Kontinuität / Änderung: Drei ältere Menschen.
+
+KACHEL 11: Die veränderte Stille
+Ort und Zeit: Die veränderte Stille
+Sichtbare Figuren: Frau des ersten Mannes, Erster Mann am roten Fleck
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Häuslicher Raum, gealterte Gesichter.
+Erzählertext: Sein Verhalten machte die Frau misstrauisch. Sie erzählte Nachbarn davon.
+Dialoge: keine
+Kontinuität / Änderung: Häuslicher Raum, gealterte Gesichter.
+
+KACHEL 12: Die Nachforschung
+Ort und Zeit: Die Nachforschung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauernvogt und Helfer am abgesperrten roten Fleck.
+Erzählertext: Die Nachricht führte zur Untersuchung. Unter dem Busch fanden sich Gebeine.
+Dialoge: keine
+Kontinuität / Änderung: Bauernvogt und Helfer am abgesperrten roten Fleck.
+
+KACHEL 13: Das Geständnis
+Ort und Zeit: Das Geständnis
+Sichtbare Figuren: Erster Mann am roten Fleck, Zweiter Mann am roten Fleck
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei alte Männer mit gesenkten Köpfen.
+Erzählertext: Die Männer gestanden. Die Sage berichtet von ihrer Hinrichtung.
+Dialoge: keine
+Kontinuität / Änderung: Zwei alte Männer mit gesenkten Köpfen.
+
+KACHEL 14: Die Eiche
+Ort und Zeit: Die Eiche
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelne große Eiche am alten Teich.
+Erzählertext: Zum Gedächtnis des Opfers pflanzte man eine Eiche. Die Enten hatten eine menschliche Ermittlung ausgelöst.
+Dialoge: keine
+Kontinuität / Änderung: Einzelne große Eiche am alten Teich.

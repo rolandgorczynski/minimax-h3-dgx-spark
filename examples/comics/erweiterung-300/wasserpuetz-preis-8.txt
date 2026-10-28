@@ -1,0 +1,72 @@
+TITEL: Der Wasserpütz – Der Preis der schnellen Rettung
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Der neue Brunnen
+Ort und Zeit: Der neue Brunnen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene graben einen Brunnen außerhalb der Stadt.
+Erzählertext: Bei Stavoren suchte man süßes Wasser.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene graben einen Brunnen außerhalb der Stadt.
+
+KACHEL 2: Das falsche Wasser
+Ort und Zeit: Das falsche Wasser
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Salzwasser quillt aus dem Brunnen auf leeren Boden.
+Erzählertext: Stattdessen stieg immer mehr Salzwasser auf.
+Dialoge: keine
+Kontinuität / Änderung: Salzwasser quillt aus dem Brunnen auf leeren Boden.
+
+KACHEL 3: Die wachsende Angst
+Ort und Zeit: Die wachsende Angst
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wasser breitet sich vor fernen Stadthäusern aus.
+Erzählertext: Die Menschen fürchteten um Stadt und Land.
+Dialoge: keine
+Kontinuität / Änderung: Wasser breitet sich vor fernen Stadthäusern aus.
+
+KACHEL 4: Die Forderung
+Ort und Zeit: Die Forderung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dunkles Heiligtum, Erwachsene mit gesenkten Köpfen.
+Erzählertext: Das Orakel verlangte Blut eines dreijährigen Kindes.
+Dialoge: keine
+Kontinuität / Änderung: Dunkles Heiligtum, Erwachsene mit gesenkten Köpfen.
+
+KACHEL 5: Die nicht gezeigte Tat
+Ort und Zeit: Die nicht gezeigte Tat
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Heiligtumstür, abgelegte kleine Schuhe davor; kein Kind oder Blut sichtbar.
+Erzählertext: Die Sage berichtet, dass die Menschen die grausame Forderung erfüllten.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossene Heiligtumstür, abgelegte kleine Schuhe davor; kein Kind oder Blut sichtbar.
+
+KACHEL 6: Der versiegte Brunnen
+Ort und Zeit: Der versiegte Brunnen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Trockene Brunnenöffnung im Salzschlamm.
+Erzählertext: Das Wasser versiegte. Über das Schicksal des Kindes erzählt sie nicht weiter.
+Dialoge: keine
+Kontinuität / Änderung: Trockene Brunnenöffnung im Salzschlamm.
+
+KACHEL 7: Drei dürre Jahre
+Ort und Zeit: Drei dürre Jahre
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verkrustete Felder ohne Ernte.
+Erzählertext: Das Land blieb drei Jahre unfruchtbar.
+Dialoge: keine
+Kontinuität / Änderung: Verkrustete Felder ohne Ernte.
+
+KACHEL 8: Das erste Grün
+Ort und Zeit: Das erste Grün
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Einzelne junge Pflanzen auf rissigem Boden.
+Erzählertext: Das Land erholte sich langsam. Der beendete Schrecken machte seinen Preis nicht ungeschehen.
+Dialoge: keine
+Kontinuität / Änderung: Einzelne junge Pflanzen auf rissigem Boden.

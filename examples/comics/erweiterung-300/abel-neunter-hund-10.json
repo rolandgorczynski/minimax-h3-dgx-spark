@@ -1,0 +1,466 @@
+{
+  "mode": "editorial",
+  "name": "König Abels Jagd – Der zehnte Hund · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: König Abels Jagd. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 177.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKönig Abel, der Brudermörder, war Zeit seines Lebens ein gewaltiger Jäger, und als es mit ihm zum Sterben kam, wünschte er sich, statt der ewigen Seligkeit, ewig jagen zu dürfen. Dieser Wunsch ward ihm gewährt zur ewigen Strafe. Kohlschwarz im Gesicht, von zehn manchmal feurigen, aber kleinen Hunden begleitet, auf einem kleinen Pferde reitend, durchzieht er die Lüfte mit Lärm und Getöse und gellem Hornruf. Sein Schrei tönt: Hurra! Hurra! – Es war zur Zeit König Abels Leben nicht gut, ihm zu begegnen, und ist’s auch heute noch nicht. Ein alter Bauer aus Dorf Danewerk erzählte, wie seiner Großmutter ihre Großmutter noch eine junge Dirne gewesen, da hätte um das Danewerk herum noch viel Gehölz gestanden, dahinein hätte die Dirne die Kühe getrieben und gehütet. Da habe sie einmal unversehens in der Luft ein fürchterliches Ramentern vernommen und wäre König Abel in Lüften dahergesaust mit seiner Jagd. Zehn Hunde, ganz weiße, hatte er bei sich, die hatten feurige Zungen aus dem Halse hängen. Ach, dachte die Dirne, nun bin ich so ganz allein, wie soll das wohl gehen? Sie hatte ein weißes Schürztuch um, das band sie ab, und wickelte es um ihren Kopf, und setzte sich bei einen großen Baum und weinte. König Abel kam nun heran und machte gar ein grausiges Geprassel und Getöse bei ihr herum, und dann zuletzt machte er sich wieder von dannen. Von den Hunden des Königs Abel kam aber einer zu der Dirne heran, und sprang ihr in den Schoß, und legte sich still hinein. Wie nun der Lärm vorüber war, so nahm sie den Hund im Schoß mit nach Danewerk, und da hat er sein Geschlecht vermehrt, daß noch immer solche Däckel dort gefunden werden. König Abels Jagd hat aber seitdem nicht mehr zehn Hunde, sondern nur noch neun. König Abels Pferd braucht auch Futter. Auf dem Hesterberg bei Schleswig bringen die Bauern aus Mielberg, wenn sie ein Stück Land mit Hafer besäen, einen Sack voll mehr mit, als sie brauchen, nachts kommt hernach allemal jemand, der den Hafer für sein Pferd braucht. Darum gerät aber auch der Hafer auf dem Hesterberg am allerbesten in ganz Schleswig.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: König Abels Jagd. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 177.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKönig Abel, der Brudermörder, war Zeit seines Lebens ein gewaltiger Jäger, und als es mit ihm zum Sterben kam, wünschte er sich, statt der ewigen Seligkeit, ewig jagen zu dürfen. Dieser Wunsch ward ihm gewährt zur ewigen Strafe. Kohlschwarz im Gesicht, von zehn manchmal feurigen, aber kleinen Hunden begleitet, auf einem kleinen Pferde reitend, durchzieht er die Lüfte mit Lärm und Getöse und gellem Hornruf. Sein Schrei tönt: Hurra! Hurra! – Es war zur Zeit König Abels Leben nicht gut, ihm zu begegnen, und ist’s auch heute noch nicht. Ein alter Bauer aus Dorf Danewerk erzählte, wie seiner Großmutter ihre Großmutter noch eine junge Dirne gewesen, da hätte um das Danewerk herum noch viel Gehölz gestanden, dahinein hätte die Dirne die Kühe getrieben und gehütet. Da habe sie einmal unversehens in der Luft ein fürchterliches Ramentern vernommen und wäre König Abel in Lüften dahergesaust mit seiner Jagd. Zehn Hunde, ganz weiße, hatte er bei sich, die hatten feurige Zungen aus dem Halse hängen. Ach, dachte die Dirne, nun bin ich so ganz allein, wie soll das wohl gehen? Sie hatte ein weißes Schürztuch um, das band sie ab, und wickelte es um ihren Kopf, und setzte sich bei einen großen Baum und weinte. König Abel kam nun heran und machte gar ein grausiges Geprassel und Getöse bei ihr herum, und dann zuletzt machte er sich wieder von dannen. Von den Hunden des Königs Abel kam aber einer zu der Dirne heran, und sprang ihr in den Schoß, und legte sich still hinein. Wie nun der Lärm vorüber war, so nahm sie den Hund im Schoß mit nach Danewerk, und da hat er sein Geschlecht vermehrt, daß noch immer solche Däckel dort gefunden werden. König Abels Jagd hat aber seitdem nicht mehr zehn Hunde, sondern nur noch neun. König Abels Pferd braucht auch Futter. Auf dem Hesterberg bei Schleswig bringen die Bauern aus Mielberg, wenn sie ein Stück Land mit Hafer besäen, einen Sack voll mehr mit, als sie brauchen, nachts kommt hernach allemal jemand, der den Hafer für sein Pferd braucht. Darum gerät aber auch der Hafer auf dem Hesterberg am allerbesten in ganz Schleswig.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Der verhängte Wunsch",
+        "setting": "Der verhängte Wunsch",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geisterhafter Jagdzug fern über Wald.",
+        "dialog": "Abel hatte sich ewige Jagd gewünscht. Die Sage macht daraus eine Strafe.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Geisterhafter Jagdzug fern über Wald.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die Hirtin",
+        "setting": "Die Hirtin",
+        "characters": [
+          "a6f94365e15a5269bb9c6f285df70298"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Hirtin vor Gehölz am Danewerk.",
+        "dialog": "Eine junge Frau hütete dort ihre Kühe.",
+        "bubbles": [],
+        "character_states": {
+          "a6f94365e15a5269bb9c6f285df70298": "steht neben Kühen; Blaues Kleid, ein weißes Tuch als Schürze um die Hüfte.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine erwachsene Hirtin vor Gehölz am Danewerk.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, ein weißes Tuch als Schürze um die Hüfte.",
+            "location": "Die Hirtin",
+            "posture": "steht neben Kühen"
+          }
+        }
+      },
+      {
+        "heading": "Der Lärm",
+        "setting": "Der Lärm",
+        "characters": [
+          "84363740037c5f40ac665bd6b4eac932"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit genau zehn kleinen weißen Hunden in der Luft.",
+        "dialog": "Da kam Abels Jagd über sie hinweg.",
+        "bubbles": [],
+        "character_states": {
+          "84363740037c5f40ac665bd6b4eac932": "reitet auf kleinem dunklem Pferd; Schwarzer Jagdmantel, Horn.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Reiter mit genau zehn kleinen weißen Hunden in der Luft.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, ein weißes Tuch als Schürze um die Hüfte.",
+            "location": "Die Hirtin",
+            "posture": "steht neben Kühen"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der Lärm",
+            "posture": "reitet auf kleinem dunklem Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Der Schutz",
+        "setting": "Der Schutz",
+        "characters": [
+          "a6f94365e15a5269bb9c6f285df70298"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weißes Schürztuch jetzt um ihren Kopf, nicht zugleich um die Hüfte.",
+        "dialog": "Sie band ihr Schürztuch ab und hüllte den Kopf darin ein.",
+        "bubbles": [],
+        "character_states": {
+          "a6f94365e15a5269bb9c6f285df70298": "sitzt unter einem Baum; Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.; Lebenszustand: lebend"
+        },
+        "continuity": "Weißes Schürztuch jetzt um ihren Kopf, nicht zugleich um die Hüfte.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Der Schutz",
+            "posture": "sitzt unter einem Baum"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der Lärm",
+            "posture": "reitet auf kleinem dunklem Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Das Warten",
+        "setting": "Das Warten",
+        "characters": [
+          "a6f94365e15a5269bb9c6f285df70298"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jagd zieht über Baumkrone, Hirtin bleibt am Boden.",
+        "dialog": "Der Lärm umkreiste sie und zog weiter.",
+        "bubbles": [],
+        "character_states": {
+          "a6f94365e15a5269bb9c6f285df70298": "sitzt ängstlich; Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.; Lebenszustand: lebend"
+        },
+        "continuity": "Jagd zieht über Baumkrone, Hirtin bleibt am Boden.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Das Warten",
+            "posture": "sitzt ängstlich"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der Lärm",
+            "posture": "reitet auf kleinem dunklem Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Der Zurückgebliebene",
+        "setting": "Der Zurückgebliebene",
+        "characters": [
+          "a6f94365e15a5269bb9c6f285df70298",
+          "ad7f8797d0d457449e3c22e1f400b721"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Dackel still im Schoß.",
+        "dialog": "Einer der Hunde blieb zurück und legte sich zu ihr.",
+        "bubbles": [],
+        "character_states": {
+          "a6f94365e15a5269bb9c6f285df70298": "sitzt; Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.; Lebenszustand: lebend",
+          "ad7f8797d0d457449e3c22e1f400b721": "liegt in ihrem Schoß; Weißes Fell, keine Flammen nach seiner Rast.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein weißer Dackel still im Schoß.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Der Zurückgebliebene",
+            "posture": "sitzt"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der Lärm",
+            "posture": "reitet auf kleinem dunklem Pferd"
+          },
+          "ad7f8797d0d457449e3c22e1f400b721": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weißes Fell, keine Flammen nach seiner Rast.",
+            "location": "Der Zurückgebliebene",
+            "posture": "liegt in ihrem Schoß"
+          }
+        }
+      },
+      {
+        "heading": "Die Ruhe",
+        "setting": "Die Ruhe",
+        "characters": [
+          "a6f94365e15a5269bb9c6f285df70298",
+          "ad7f8797d0d457449e3c22e1f400b721"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nahbild mit unverletztem Tier.",
+        "dialog": "In ihrem Schoß war er kein Schrecken mehr.",
+        "bubbles": [],
+        "character_states": {
+          "a6f94365e15a5269bb9c6f285df70298": "hält den ruhigen Hund; Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.; Lebenszustand: lebend",
+          "ad7f8797d0d457449e3c22e1f400b721": "liegt entspannt; Weißes Fell, keine Flammen nach seiner Rast.; Lebenszustand: lebend"
+        },
+        "continuity": "Nahbild mit unverletztem Tier.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Die Ruhe",
+            "posture": "hält den ruhigen Hund"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der Lärm",
+            "posture": "reitet auf kleinem dunklem Pferd"
+          },
+          "ad7f8797d0d457449e3c22e1f400b721": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weißes Fell, keine Flammen nach seiner Rast.",
+            "location": "Die Ruhe",
+            "posture": "liegt entspannt"
+          }
+        }
+      },
+      {
+        "heading": "Der Heimweg",
+        "setting": "Der Heimweg",
+        "characters": [
+          "a6f94365e15a5269bb9c6f285df70298",
+          "ad7f8797d0d457449e3c22e1f400b721"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mensch und ein Hund auf Dorfweg, Schürztuch noch am Kopf.",
+        "dialog": "Sie nahm ihn mit nach Danewerk.",
+        "bubbles": [],
+        "character_states": {
+          "a6f94365e15a5269bb9c6f285df70298": "geht mit Hund auf dem Arm; Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.; Lebenszustand: lebend",
+          "ad7f8797d0d457449e3c22e1f400b721": "liegt im Arm; Weißes Fell, keine Flammen nach seiner Rast.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mensch und ein Hund auf Dorfweg, Schürztuch noch am Kopf.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Der Heimweg",
+            "posture": "geht mit Hund auf dem Arm"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der Lärm",
+            "posture": "reitet auf kleinem dunklem Pferd"
+          },
+          "ad7f8797d0d457449e3c22e1f400b721": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weißes Fell, keine Flammen nach seiner Rast.",
+            "location": "Der Heimweg",
+            "posture": "liegt im Arm"
+          }
+        }
+      },
+      {
+        "heading": "Der kleinere Zug",
+        "setting": "Der kleinere Zug",
+        "characters": [
+          "84363740037c5f40ac665bd6b4eac932"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit genau neun kleinen Hunden.",
+        "dialog": "Abel jagte fortan nur noch mit neun Hunden.",
+        "bubbles": [],
+        "character_states": {
+          "84363740037c5f40ac665bd6b4eac932": "reitet fern in Wolken; Schwarzer Jagdmantel, Horn.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Reiter mit genau neun kleinen Hunden.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Der Heimweg",
+            "posture": "geht mit Hund auf dem Arm"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der kleinere Zug",
+            "posture": "reitet fern in Wolken"
+          },
+          "ad7f8797d0d457449e3c22e1f400b721": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weißes Fell, keine Flammen nach seiner Rast.",
+            "location": "Der Heimweg",
+            "posture": "liegt im Arm"
+          }
+        }
+      },
+      {
+        "heading": "Das andere Erbe",
+        "setting": "Das andere Erbe",
+        "characters": [
+          "ad7f8797d0d457449e3c22e1f400b721"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Hund am Boden eines bewohnten Hauses.",
+        "dialog": "Von diesem Hund, sagt man, stammen die dortigen Dackel. Nicht jeder blieb in der Jagd gefangen.",
+        "bubbles": [],
+        "character_states": {
+          "ad7f8797d0d457449e3c22e1f400b721": "liegt vor einer warmen Haustür; Weißes Fell, keine Flammen nach seiner Rast.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein weißer Hund am Boden eines bewohnten Hauses.",
+        "continuity_state": {
+          "a6f94365e15a5269bb9c6f285df70298": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid ohne Schürze; einziges weißes Tuch jetzt um den Kopf.",
+            "location": "Der Heimweg",
+            "posture": "geht mit Hund auf dem Arm"
+          },
+          "84363740037c5f40ac665bd6b4eac932": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzer Jagdmantel, Horn.",
+            "location": "Der kleinere Zug",
+            "posture": "reitet fern in Wolken"
+          },
+          "ad7f8797d0d457449e3c22e1f400b721": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weißes Fell, keine Flammen nach seiner Rast.",
+            "location": "Das andere Erbe",
+            "posture": "liegt vor einer warmen Haustür"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "König Abel als Nachtjäger",
+        "description": "Dunkle geisterhafte Männergestalt mit grauem Bart.",
+        "outfit": "Schwarzer Jagdmantel, Horn.",
+        "backstory": "Jagt als Strafe ohne Ende.",
+        "id": "84363740037c5f40ac665bd6b4eac932",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Kuhhirtin bei Danewerk",
+        "description": "Junge erwachsene Frau mit braunem Zopf.",
+        "outfit": "Blaues Kleid. Ein weißes Tuch wird zuerst als Schürze, ab Kachel 4 als Kopfschutz getragen.",
+        "backstory": "Sucht Schutz und nimmt einen Hund auf.",
+        "id": "a6f94365e15a5269bb9c6f285df70298",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Hund aus Abels Jagd",
+        "description": "Kleiner weißer Dackel, vier Pfoten.",
+        "outfit": "Weißes Fell, keine Flammen nach seiner Rast.",
+        "backstory": "Verlässt den lärmenden Zug.",
+        "id": "ad7f8797d0d457449e3c22e1f400b721",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Kann inmitten einer grausigen Macht etwas Schutzbedürftiges Zuflucht finden?",
+      "core": "Die junge Kuhhirtin ist der wilden Jagd ausgeliefert. Gerade in ihrem Schoß findet einer der Hunde Ruhe und verlässt das Schreckensheer; das kleine Entkommen steht gegen Abels endlose Strafe.",
+      "ending": "Das Mädchen nimmt den Hund mit nach Danewerk; Abel jagt fortan mit neun Hunden weiter.",
+      "reason": "Abels Fluch kurz rahmen, dann die Begegnung aus Sicht des Mädchens. Die Hunde sind in dieser Begegnung weiß; das spätere Hafermotiv nur abgetrennt erwähnen.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "und legte sich still hinein",
+          "meaning": "Ein ruhiger Schutzmoment unterbricht den Lärm und die Furcht der Jagd."
+        }
+      ],
+      "causal_chain": [
+        "und legte sich still hinein",
+        "Das Mädchen nimmt den Hund mit nach Danewerk; Abel jagt fortan mit neun Hunden weiter."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "5cd6e39bce60525489b822dc1f58204a63fbca1ba6f74235d0b5d9f76357ec90",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:09:49.075666+00:00"
+    },
+    "post_summary": "Die wilde Jagd zieht weiter. Ein Hund findet im Schoß einer Hirtin Ruhe.",
+    "source_provenance": {
+      "title": "König Abels Jagd",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 177.",
+      "url": "https://textgridrep.org/browse/kgxd.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: König Abels Jagd. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 177.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKönig Abel, der Brudermörder, war Zeit seines Lebens ein gewaltiger Jäger, und als es mit ihm zum Sterben kam, wünschte er sich, statt der ewigen Seligkeit, ewig jagen zu dürfen. Dieser Wunsch ward ihm gewährt zur ewigen Strafe. Kohlschwarz im Gesicht, von zehn manchmal feurigen, aber kleinen Hunden begleitet, auf einem kleinen Pferde reitend, durchzieht er die Lüfte mit Lärm und Getöse und gellem Hornruf. Sein Schrei tönt: Hurra! Hurra! – Es war zur Zeit König Abels Leben nicht gut, ihm zu begegnen, und ist’s auch heute noch nicht. Ein alter Bauer aus Dorf Danewerk erzählte, wie seiner Großmutter ihre Großmutter noch eine junge Dirne gewesen, da hätte um das Danewerk herum noch viel Gehölz gestanden, dahinein hätte die Dirne die Kühe getrieben und gehütet. Da habe sie einmal unversehens in der Luft ein fürchterliches Ramentern vernommen und wäre König Abel in Lüften dahergesaust mit seiner Jagd. Zehn Hunde, ganz weiße, hatte er bei sich, die hatten feurige Zungen aus dem Halse hängen. Ach, dachte die Dirne, nun bin ich so ganz allein, wie soll das wohl gehen? Sie hatte ein weißes Schürztuch um, das band sie ab, und wickelte es um ihren Kopf, und setzte sich bei einen großen Baum und weinte. König Abel kam nun heran und machte gar ein grausiges Geprassel und Getöse bei ihr herum, und dann zuletzt machte er sich wieder von dannen. Von den Hunden des Königs Abel kam aber einer zu der Dirne heran, und sprang ihr in den Schoß, und legte sich still hinein. Wie nun der Lärm vorüber war, so nahm sie den Hund im Schoß mit nach Danewerk, und da hat er sein Geschlecht vermehrt, daß noch immer solche Däckel dort gefunden werden. König Abels Jagd hat aber seitdem nicht mehr zehn Hunde, sondern nur noch neun. König Abels Pferd braucht auch Futter. Auf dem Hesterberg bei Schleswig bringen die Bauern aus Mielberg, wenn sie ein Stück Land mit Hafer besäen, einen Sack voll mehr mit, als sie brauchen, nachts kommt hernach allemal jemand, der den Hafer für sein Pferd braucht. Darum gerät aber auch der Hafer auf dem Hesterberg am allerbesten in ganz Schleswig.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "König Abel, der Brudermörder, war Zeit seines Lebens ein gewaltiger Jäger, und als es mit ihm zum Sterben kam, wünschte er sich, statt der ewigen Seligkeit, ewig jagen zu dürfen. Dieser Wunsch ward ihm gewährt zur ewigen Strafe.",
+      "id": "bechstein-sagen-kgxd-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "abel-neunter-hund-10-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "König Abels Jagd – Der zehnte Hund · Skript",
+    "revisions": {},
+    "source_script": "TITEL: König Abels Jagd – Der zehnte Hund\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: König Abel als Nachtjäger\nAussehen: Dunkle geisterhafte Männergestalt mit grauem Bart.\nKleidung: Schwarzer Jagdmantel, Horn.\nPersönlichkeit und Vorgeschichte: Jagt als Strafe ohne Ende.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Kuhhirtin bei Danewerk\nAussehen: Junge erwachsene Frau mit braunem Zopf.\nKleidung: Blaues Kleid. Ein weißes Tuch wird zuerst als Schürze, ab Kachel 4 als Kopfschutz getragen.\nPersönlichkeit und Vorgeschichte: Sucht Schutz und nimmt einen Hund auf.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hund aus Abels Jagd\nAussehen: Kleiner weißer Dackel, vier Pfoten.\nKleidung: Weißes Fell, keine Flammen nach seiner Rast.\nPersönlichkeit und Vorgeschichte: Verlässt den lärmenden Zug.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der verhängte Wunsch\nOrt und Zeit: Der verhängte Wunsch\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geisterhafter Jagdzug fern über Wald.\nErzählertext: Abel hatte sich ewige Jagd gewünscht. Die Sage macht daraus eine Strafe.\nDialoge: keine\nKontinuität / Änderung: Geisterhafter Jagdzug fern über Wald.\n\nKACHEL 2: Die Hirtin\nOrt und Zeit: Die Hirtin\nSichtbare Figuren: Kuhhirtin bei Danewerk\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Hirtin vor Gehölz am Danewerk.\nErzählertext: Eine junge Frau hütete dort ihre Kühe.\nDialoge: keine\nKontinuität / Änderung: Eine erwachsene Hirtin vor Gehölz am Danewerk.\n\nKACHEL 3: Der Lärm\nOrt und Zeit: Der Lärm\nSichtbare Figuren: König Abel als Nachtjäger\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit genau zehn kleinen weißen Hunden in der Luft.\nErzählertext: Da kam Abels Jagd über sie hinweg.\nDialoge: keine\nKontinuität / Änderung: Ein Reiter mit genau zehn kleinen weißen Hunden in der Luft.\n\nKACHEL 4: Der Schutz\nOrt und Zeit: Der Schutz\nSichtbare Figuren: Kuhhirtin bei Danewerk\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weißes Schürztuch jetzt um ihren Kopf, nicht zugleich um die Hüfte.\nErzählertext: Sie band ihr Schürztuch ab und hüllte den Kopf darin ein.\nDialoge: keine\nKontinuität / Änderung: Weißes Schürztuch jetzt um ihren Kopf, nicht zugleich um die Hüfte.\n\nKACHEL 5: Das Warten\nOrt und Zeit: Das Warten\nSichtbare Figuren: Kuhhirtin bei Danewerk\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jagd zieht über Baumkrone, Hirtin bleibt am Boden.\nErzählertext: Der Lärm umkreiste sie und zog weiter.\nDialoge: keine\nKontinuität / Änderung: Jagd zieht über Baumkrone, Hirtin bleibt am Boden.\n\nKACHEL 6: Der Zurückgebliebene\nOrt und Zeit: Der Zurückgebliebene\nSichtbare Figuren: Kuhhirtin bei Danewerk, Hund aus Abels Jagd\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Dackel still im Schoß.\nErzählertext: Einer der Hunde blieb zurück und legte sich zu ihr.\nDialoge: keine\nKontinuität / Änderung: Ein weißer Dackel still im Schoß.\n\nKACHEL 7: Die Ruhe\nOrt und Zeit: Die Ruhe\nSichtbare Figuren: Kuhhirtin bei Danewerk, Hund aus Abels Jagd\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nahbild mit unverletztem Tier.\nErzählertext: In ihrem Schoß war er kein Schrecken mehr.\nDialoge: keine\nKontinuität / Änderung: Nahbild mit unverletztem Tier.\n\nKACHEL 8: Der Heimweg\nOrt und Zeit: Der Heimweg\nSichtbare Figuren: Kuhhirtin bei Danewerk, Hund aus Abels Jagd\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mensch und ein Hund auf Dorfweg, Schürztuch noch am Kopf.\nErzählertext: Sie nahm ihn mit nach Danewerk.\nDialoge: keine\nKontinuität / Änderung: Ein Mensch und ein Hund auf Dorfweg, Schürztuch noch am Kopf.\n\nKACHEL 9: Der kleinere Zug\nOrt und Zeit: Der kleinere Zug\nSichtbare Figuren: König Abel als Nachtjäger\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit genau neun kleinen Hunden.\nErzählertext: Abel jagte fortan nur noch mit neun Hunden.\nDialoge: keine\nKontinuität / Änderung: Ein Reiter mit genau neun kleinen Hunden.\n\nKACHEL 10: Das andere Erbe\nOrt und Zeit: Das andere Erbe\nSichtbare Figuren: Hund aus Abels Jagd\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Hund am Boden eines bewohnten Hauses.\nErzählertext: Von diesem Hund, sagt man, stammen die dortigen Dackel. Nicht jeder blieb in der Jagd gefangen.\nDialoge: keine\nKontinuität / Änderung: Ein weißer Hund am Boden eines bewohnten Hauses.\n"
+  },
+  "count_policy": "editorial"
+}

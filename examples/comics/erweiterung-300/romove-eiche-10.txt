@@ -1,0 +1,88 @@
+TITEL: Romove – Was vom Heiligtum bleibt
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Die grüne Eiche
+Ort und Zeit: Die grüne Eiche
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gewaltige immergrüne Eiche im alten Ort.
+Erzählertext: In Romove soll eine Eiche auch im Winter grün geblieben sein.
+Dialoge: keine
+Kontinuität / Änderung: Gewaltige immergrüne Eiche im alten Ort.
+
+KACHEL 2: Der verborgene Stamm
+Ort und Zeit: Der verborgene Stamm
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hohe seidene Vorhänge verdecken den Stamm.
+Erzählertext: Vorhänge entzogen ihren Stamm den Uneingeweihten.
+Dialoge: keine
+Kontinuität / Änderung: Hohe seidene Vorhänge verdecken den Stamm.
+
+KACHEL 3: Die drei Namen
+Ort und Zeit: Die drei Namen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei schlichte Holzbildnisse unter dem Laub.
+Erzählertext: Hier verortet die Überlieferung Perkunos, Pikollos und Potrimpos.
+Dialoge: keine
+Kontinuität / Änderung: Drei schlichte Holzbildnisse unter dem Laub.
+
+KACHEL 4: Die dunkle Grenze
+Ort und Zeit: Die dunkle Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossenes Heiligtumstor, fremde Reisebündel davor.
+Erzählertext: Sie erzählt auch von tödlichen Opfern gefangener Andersgläubiger.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossenes Heiligtumstor, fremde Reisebündel davor.
+
+KACHEL 5: Die anderen Eichen
+Ort und Zeit: Die anderen Eichen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mehrere alte Eichen in weiter Landschaft.
+Erzählertext: Auch anderswo wurden Bäume und ihre Standorte verehrt.
+Dialoge: keine
+Kontinuität / Änderung: Mehrere alte Eichen in weiter Landschaft.
+
+KACHEL 6: Der erzwungene Wechsel
+Ort und Zeit: Der erzwungene Wechsel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer geschädigter Tempelplatz, keine Gewalt gegen Menschen im Bild.
+Erzählertext: Die Christianisierung beschreibt die Quelle selbst als gewaltsam.
+Dialoge: keine
+Kontinuität / Änderung: Leerer geschädigter Tempelplatz, keine Gewalt gegen Menschen im Bild.
+
+KACHEL 7: Der neue Bau
+Ort und Zeit: Der neue Bau
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kirche und Kloster am früheren Heiligtumsplatz.
+Erzählertext: In Romove entstanden Kirche und Kloster.
+Dialoge: keine
+Kontinuität / Änderung: Kirche und Kloster am früheren Heiligtumsplatz.
+
+KACHEL 8: Die dauernde Achtung
+Ort und Zeit: Die dauernde Achtung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewohner stehen still am alten Eichenstandort neben der Kirche.
+Erzählertext: Die besondere Achtung vor den alten Orten blieb dennoch lange bestehen.
+Dialoge: keine
+Kontinuität / Änderung: Bewohner stehen still am alten Eichenstandort neben der Kirche.
+
+KACHEL 9: Die späteren Ruinen
+Ort und Zeit: Die späteren Ruinen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verfallene Mauern der Kirche und des Klosters.
+Erzählertext: Auch diese späteren Bauten verschwanden schließlich.
+Dialoge: keine
+Kontinuität / Änderung: Verfallene Mauern der Kirche und des Klosters.
+
+KACHEL 10: Die erinnerte Stadt
+Ort und Zeit: Die erinnerte Stadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Lichtung mit wenigen Mauersteinen und jungem Grün.
+Erzählertext: Fast keine Spur blieb. Die Erzählung bewahrt, was keine Bauform auf Dauer festhalten konnte.
+Dialoge: keine
+Kontinuität / Änderung: Leere Lichtung mit wenigen Mauersteinen und jungem Grün.

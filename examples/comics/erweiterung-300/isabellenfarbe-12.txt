@@ -1,0 +1,115 @@
+TITEL: Die Isabellenfarbe – Was eine Mode kostet
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Isabella der Farbensage
+Aussehen: Erwachsene Frau mit dunklem Haar unter Haube.
+Kleidung: Dunkelblaues geschlossenes Kleid über hellem langem Leinenhemd.
+Persönlichkeit und Vorgeschichte: Schwört auf den schnellen Sieg und hält an dem Eid fest.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Vor Ostende
+Ort und Zeit: Vor Ostende
+Sichtbare Figuren: Isabella der Farbensage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Frau vor weitem Belagerungslager, Stadtmauer fern.
+Erzählertext: Isabella begleitete die Belagerung Ostendes.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Frau vor weitem Belagerungslager, Stadtmauer fern.
+
+KACHEL 2: Die schnelle Erwartung
+Ort und Zeit: Die schnelle Erwartung
+Sichtbare Figuren: Isabella der Farbensage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau mit erhobener leerer Hand, keine entkleidete Körperdarstellung.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Isabella der Farbensage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bis die Stadt genommen ist, wechsle ich mein Hemd nicht.“
+Kontinuität / Änderung: Frau mit erhobener leerer Hand, keine entkleidete Körperdarstellung.
+
+KACHEL 3: Die ersten Tage
+Ort und Zeit: Die ersten Tage
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unversehrte neue Verteidigung hinter beschädigtem Außenwall, keine getroffenen Menschen.
+Erzählertext: Sie rechnete mit wenigen Tagen. Doch die Verteidiger bauten für verlorene Werke neue.
+Dialoge: keine
+Kontinuität / Änderung: Unversehrte neue Verteidigung hinter beschädigtem Außenwall, keine getroffenen Menschen.
+
+KACHEL 4: Die vergehenden Wochen
+Ort und Zeit: Die vergehenden Wochen
+Sichtbare Figuren: Isabella der Farbensage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau vollständig im blauen Kleid, etwas verfärbter Hemdkragen sichtbar.
+Erzählertext: Aus Tagen wurden Wochen.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Frau vollständig im blauen Kleid, etwas verfärbter Hemdkragen sichtbar.
+
+KACHEL 5: Der nächste Winter
+Ort und Zeit: Der nächste Winter
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Belagerungslager im Schnee, Zelte und erschöpfte namenlose Erwachsene.
+Erzählertext: Der Krieg ging weiter.
+Dialoge: keine
+Kontinuität / Änderung: Belagerungslager im Schnee, Zelte und erschöpfte namenlose Erwachsene.
+
+KACHEL 6: Die zerstörte Stadt
+Ort und Zeit: Die zerstörte Stadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine stark beschädigte Stadtmauer mit rauchenden Häusern fern.
+Erzählertext: Auf beiden Seiten starben viele Menschen. Die Stadt wurde zum Trümmerfeld.
+Dialoge: keine
+Kontinuität / Änderung: Eine stark beschädigte Stadtmauer mit rauchenden Häusern fern.
+
+KACHEL 7: Der festgehaltene Eid
+Ort und Zeit: Der festgehaltene Eid
+Sichtbare Figuren: Isabella der Farbensage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau im selben geschlossenen Kleid, Leinenkragen inzwischen gelblich.
+Erzählertext: Isabella hielt ihren Schwur weiter ein.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau im selben geschlossenen Kleid, Leinenkragen inzwischen gelblich.
+
+KACHEL 8: Die wiederkehrende Jahreszeit
+Ort und Zeit: Die wiederkehrende Jahreszeit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dasselbe Lager unter spätsommerlichem Licht, müde Erwachsene am Rand.
+Erzählertext: Mehr als drei Jahre dauerte die Belagerung.
+Dialoge: keine
+Kontinuität / Änderung: Dasselbe Lager unter spätsommerlichem Licht, müde Erwachsene am Rand.
+
+KACHEL 9: Das Ende des Wartens
+Ort und Zeit: Das Ende des Wartens
+Sichtbare Figuren: Isabella der Farbensage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau blickt zur fernen zerstörten Stadt, keine große Siegesfeier.
+Erzählertext: Erst mit dem Ende konnte sie ihr Hemd wechseln.
+Dialoge: keine
+Kontinuität / Änderung: Frau blickt zur fernen zerstörten Stadt, keine große Siegesfeier.
+
+KACHEL 10: Das abgelegte Kleidungsstück
+Ort und Zeit: Das abgelegte Kleidungsstück
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelnes verfärbtes langes Leinenhemd auf einer Bank, niemand unbekleidet daneben.
+Erzählertext: Die alte Wäsche zeigte eine eigentümlich unbestimmte Farbe.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelnes verfärbtes langes Leinenhemd auf einer Bank, niemand unbekleidet daneben.
+
+KACHEL 11: Die Mode
+Ort und Zeit: Die Mode
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines gelblich-graues Stoffmuster neben neuem Tuch auf einem Schneidertisch.
+Erzählertext: Isabellenfarbe nannte man den Ton, der nun in Mode kam.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleines gelblich-graues Stoffmuster neben neuem Tuch auf einem Schneidertisch.
+
+KACHEL 12: Der bittere Vergleich
+Ort und Zeit: Der bittere Vergleich
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Das Stoffmuster am Fenster, dahinter ferne Ruinen.
+Erzählertext: Der modische Name verdeckte das jahrelange Sterben nicht. Darin liegt der bittere Witz dieser Herkunftssage.
+Dialoge: keine
+Kontinuität / Änderung: Das Stoffmuster am Fenster, dahinter ferne Ruinen.

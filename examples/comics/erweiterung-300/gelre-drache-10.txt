@@ -1,0 +1,102 @@
+TITEL: Gelre, Gelre! – Der Ruf bleibt
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Leupold von Pont
+Aussehen: Junger erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Grauer Harnisch, blauer Überwurf. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.
+Persönlichkeit und Vorgeschichte: Gewinnt Anerkennung durch die Befreiung der Gegend.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Drache von Gelre
+Aussehen: Großes grünes vierbeiniges Reptil mit einem langen Schwanz und einem Kopf, ohne Flügel.
+Kleidung: Grüne Schuppen.
+Persönlichkeit und Vorgeschichte: Haust beim alten Birnbaum und ruft Gelre.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das verlassene Land
+Ort und Zeit: Das verlassene Land
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Höfe zwischen Rhein und Maas, ein ferner alter Birnbaum.
+Erzählertext: Ein Drache vertrieb Menschen aus einem fruchtbaren Land.
+Dialoge: keine
+Kontinuität / Änderung: Leere Höfe zwischen Rhein und Maas, ein ferner alter Birnbaum.
+
+KACHEL 2: Der hungrige Ruf
+Ort und Zeit: Der hungrige Ruf
+Sichtbare Figuren: Drache von Gelre
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziger Drache neben altem Baum mit Misteln, Kopf erhoben.
+Erzählertext: Wenn er Hunger hatte, schrie er: Gelre, Gelre.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziger Drache neben altem Baum mit Misteln, Kopf erhoben.
+
+KACHEL 3: Der Entschluss
+Ort und Zeit: Der Entschluss
+Sichtbare Figuren: Leupold von Pont
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gerüsteter Mann mit einer Lanze rechts und eingestecktem Schwert links.
+Erzählertext: Leupold von Pont wollte die Gegend befreien.
+Dialoge: keine
+Kontinuität / Änderung: Gerüsteter Mann mit einer Lanze rechts und eingestecktem Schwert links.
+
+KACHEL 4: Der gewiesene Ort
+Ort und Zeit: Der gewiesene Ort
+Sichtbare Figuren: Leupold von Pont
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Erwachsener blickt zu demselben Birnbaum, kein zweiter Drache im Himmel.
+Erzählertext: Man wies ihm den alten Baum.
+Dialoge: keine
+Kontinuität / Änderung: Ein Erwachsener blickt zu demselben Birnbaum, kein zweiter Drache im Himmel.
+
+KACHEL 5: Die Begegnung
+Ort und Zeit: Die Begegnung
+Sichtbare Figuren: Leupold von Pont, Drache von Gelre
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Körper mit klarer Distanz, Lanze zum offenen Maul, kein Kontakt.
+Erzählertext: Schon hörte er den Ruf und trat näher.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Körper mit klarer Distanz, Lanze zum offenen Maul, kein Kontakt.
+
+KACHEL 6: Der erste Stoß
+Ort und Zeit: Der erste Stoß
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lanzenschatten und Drachenkopf hinter dickem Baumstamm verdeckt, keine Wunde.
+Erzählertext: Leupold traf den Drachen mit seiner Lanze.
+Dialoge: keine
+Kontinuität / Änderung: Lanzenschatten und Drachenkopf hinter dickem Baumstamm verdeckt, keine Wunde.
+
+KACHEL 7: Die zweite Waffe
+Ort und Zeit: Die zweite Waffe
+Sichtbare Figuren: Leupold von Pont
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge rechts, linke Scheide leer, Lanze abgelegt am Boden.
+Erzählertext: Dann zog er sein Schwert und beendete den Kampf.
+Dialoge: keine
+Kontinuität / Änderung: Eine Klinge rechts, linke Scheide leer, Lanze abgelegt am Boden.
+
+KACHEL 8: Nach dem Kampf
+Ort und Zeit: Nach dem Kampf
+Sichtbare Figuren: Leupold von Pont, Drache von Gelre
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mann links, geschlossener regloser Drachenkörper rechts, keine Wunddetails.
+Erzählertext: Der Drache war tot. Der gefürchtete Ruf verstummte.
+Dialoge: keine
+Kontinuität / Änderung: Mann links, geschlossener regloser Drachenkörper rechts, keine Wunddetails.
+
+KACHEL 9: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Leupold von Pont
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Menschen kehren in Häuser zurück, Ritter mit wieder eingestecktem Schwert.
+Erzählertext: Die Bewohner dankten ihm und machten ihn zu ihrem Oberherrn.
+Dialoge: keine
+Kontinuität / Änderung: Menschen kehren in Häuser zurück, Ritter mit wieder eingestecktem Schwert.
+
+KACHEL 10: Der bewahrte Ruf
+Ort und Zeit: Der bewahrte Ruf
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Neue Burg beim alten Birnbaum, keine wieder lebende Drachenfigur.
+Erzählertext: Seine Burg nannte er Gelre. Die Namenssage bewahrt den Ruf des Besiegten im Namen Geldern.
+Dialoge: keine
+Kontinuität / Änderung: Neue Burg beim alten Birnbaum, keine wieder lebende Drachenfigur.

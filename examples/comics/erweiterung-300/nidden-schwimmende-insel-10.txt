@@ -1,0 +1,106 @@
+TITEL: Die Nixe von Nidden – Der weichende Strand
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Nixe von Nidden
+Aussehen: Erwachsene sagenhafte Frau mit langem hellem Haar.
+Kleidung: Weißes geschlossenes Gewand, leichter Schleier.
+Persönlichkeit und Vorgeschichte: Lockt von einer schwimmenden Insel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wanderer am Kurischen Haff
+Aussehen: Junger erwachsener Mann mit braunem Haar.
+Kleidung: Blaues Hemd, braune Hose.
+Persönlichkeit und Vorgeschichte: Vertraut dem versprochenen glücklichen Aufenthalt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der schmale Landweg
+Ort und Zeit: Der schmale Landweg
+Sichtbare Figuren: Wanderer am Kurischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kurische Nehrung im Abendlicht.
+Erzählertext: Bei Nidden liegt das Wasser nah an beiden Seiten des Landes.
+Dialoge: keine
+Kontinuität / Änderung: Kurische Nehrung im Abendlicht.
+
+KACHEL 2: Die grüne Insel
+Ort und Zeit: Die grüne Insel
+Sichtbare Figuren: Wanderer am Kurischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine blühende Insel im glatten Wasser.
+Erzählertext: Ein Wanderer sah ein grünes Eiland.
+Dialoge: keine
+Kontinuität / Änderung: Kleine blühende Insel im glatten Wasser.
+
+KACHEL 3: Die Sängerin
+Ort und Zeit: Die Sängerin
+Sichtbare Figuren: Nixe von Nidden
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Frau mit wehendem Schleier und beiden Füßen auf Land.
+Erzählertext: Von dort kamen Blumenduft und Gesang.
+Dialoge: keine
+Kontinuität / Änderung: Eine Frau mit wehendem Schleier und beiden Füßen auf Land.
+
+KACHEL 4: Die Einladung
+Ort und Zeit: Die Einladung
+Sichtbare Figuren: Nixe von Nidden
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Insel noch klar vom Festland getrennt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Nixe von Nidden
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Komm zu mir. Hier werden wir glücklich sein.“
+Kontinuität / Änderung: Insel noch klar vom Festland getrennt.
+
+KACHEL 5: Die scheinbare Nähe
+Ort und Zeit: Die scheinbare Nähe
+Sichtbare Figuren: Wanderer am Kurischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Insel hat sich dem Strand genähert, kurzer Wasserabstand.
+Erzählertext: Die Insel trieb näher heran.
+Dialoge: keine
+Kontinuität / Änderung: Insel hat sich dem Strand genähert, kurzer Wasserabstand.
+
+KACHEL 6: Der Schritt ins Wasser
+Ort und Zeit: Der Schritt ins Wasser
+Sichtbare Figuren: Wanderer am Kurischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Schwimmer zwischen Festland und Insel.
+Erzählertext: Der Mann schwamm dem versprochenen Glück entgegen.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Schwimmer zwischen Festland und Insel.
+
+KACHEL 7: Der weichende Boden
+Ort und Zeit: Der weichende Boden
+Sichtbare Figuren: Wanderer am Kurischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Insel bleibt voraus und entfernt sich, Festland jetzt ferner.
+Erzählertext: Doch sobald er näherkam, wich das Eiland zurück.
+Dialoge: keine
+Kontinuität / Änderung: Insel bleibt voraus und entfernt sich, Festland jetzt ferner.
+
+KACHEL 8: Die verlorene Strecke
+Ort und Zeit: Die verlorene Strecke
+Sichtbare Figuren: Wanderer am Kurischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine Verletzung, Insel weiterhin unerreichbar fern.
+Erzählertext: Er erreichte keinen festen Boden.
+Dialoge: keine
+Kontinuität / Änderung: Keine Verletzung, Insel weiterhin unerreichbar fern.
+
+KACHEL 9: Das verschwundene Ziel
+Ort und Zeit: Das verschwundene Ziel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Insel versinkt zu Wirbel im leeren Wasser, kein Mensch unter Wasser.
+Erzählertext: Schließlich verschwanden Insel und Nixe. Der Strudel zog auch ihn hinab.
+Dialoge: keine
+Kontinuität / Änderung: Insel versinkt zu Wirbel im leeren Wasser, kein Mensch unter Wasser.
+
+KACHEL 10: Die leere Wasserfläche
+Ort und Zeit: Die leere Wasserfläche
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stilles Haff im Abendlicht, Ufer ohne zurückkehrenden Wanderer.
+Erzählertext: Die Sage gibt niemanden zurück. Das versprochene sichere Land war selbst die Falle.
+Dialoge: keine
+Kontinuität / Änderung: Stilles Haff im Abendlicht, Ufer ohne zurückkehrenden Wanderer.

@@ -1,0 +1,496 @@
+{
+  "mode": "editorial",
+  "name": "Das Oldenburger Horn – Der ungeprüfte Trank · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Das Oldenburger Horn. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 163.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIm heutigen Oldenburger Lande herrschte ein Graf, des Namens Otto, der hatte große Lust am Jagen, und zog aus mit seinen Vasallen, Jagdgenossen und Jägern nach einem Walde, der hieß Bernefeuer, nicht allzufern von dem Osenberge. Da stieß dem Grafen ein Reh auf, das floh vor ihm her, und er hetzte es mit seinen Rüden und kam in der Verfolgung seinem Jagdgefolge ganz aus dem Gesicht, und sein weißes Pferd trug ihn also schnell von dannen, daß er selbst seinen schnellen Winden aus der Spur kam und sich mit einem Male, ohne auch nur vom weiten etwas von seiner Jägerei zu sehen oder zu hören, auf einer stillen Bergfläche befand. Auch das Reh, das ihn so weit verlockt, sah er nimmer. Nun war die Hitze an diesem Tage groß, es soll im Julimond gewesen sein, und den Grafen durstete sehr, daher sprach er zu sich selbst: O Gott, wer kühlen Wassers nur einen einzigen Trunk hätte! – Siehe, da öffnete sich eine Felswand am Osenberg, und es trat aus ihr eine schöne, wohlgezierte Jungfrau, reizend anzuschauen, die hielt in ihrer Hand ein uraltes Jägertrinkhorn, verziert mit mancherlei seltsamem Bildwerk, das war von Silber überkleidet und kostbar vergüldet und überaus künstlich, voll Figuren, und das Horn war voll eines Trankes, den bot die Jungfrau dem Grafen sittiglich dar. Graf Otto nahm das Trinkhorn, schlug den Deckel auf und wollte es zum Munde führen, sah aber in das Horn hinein und beschaute den Trank, und der gefiel ihm mitnichten, denn als er ihn schüttelte, war er trübe und roch auch nicht wie Malvasier – und der Graf trank nicht. Die Jungfrau aber ermunterte den Grafen, er solle nur ihr vertrauen und trinken; es werde ihm und seinem Geschlechte gedeihen. Dies und die Landschaft Oldenburg werde davon ein gutes Gedeihen haben. – Aber der Graf weigerte sich fortdauernd, um so mehr, da die Jungfrau in ihn drang, doch zu trinken, und so sagte sie: Wo du nicht trinkest, wird in deinem Geschlechte und deiner Nachkommenschaft nimmermehr Einigkeit sein. Nun hielt der Graf immer noch das Horn mit dem Trunke in seiner Hand und hatte sein Bedenken, und da zuckte das Roß, und es troff etwas von dem Tranke über und auf des Pferdes hintern Bug, da gingen gleich dem Pferde die Haare weg. Jetzt langte die Jungfrau nach dem Horne und begehrte es wieder aus seiner Hand zu nehmen, aber der Graf behielt es in seiner Hand und ritt von dannen, und die Jungfrau schwand wieder in den Berg hinein. Den Grafen aber kam ein Grauen an, und schüttete das Horn aus, und behielt es, und ritt weiter, indem er sein Roß spornte, bis er sich wieder zu seiner Jägerei fand, zeigte ihr das Horn und erzählte, auf wie wunderbarliche Weise er zu dem köstlichen Kleinod gekommen sei. Darauf ist das Horn sorgsam im Schatz der Grafen von Oldenburg aufbewahrt worden.\n\nDieser Graf Otto war dieses Namens der erste in seinem edlen Geschlecht und hatte von seiner Gemahlin Mechthild, Gräfin von Alvensleben, fünf Söhne, deren ältester war Johannes der Erste, dieser hatte wiederum fünf Söhne, von denen ward der erste Udo geheißen, Bischof zu Hildesheim, der zweite aber hieß Huno, der war gar herrlich und ehrenreich, also daß er den Beinamen Gloriosus empfangen hat.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Das Oldenburger Horn. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 163.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIm heutigen Oldenburger Lande herrschte ein Graf, des Namens Otto, der hatte große Lust am Jagen, und zog aus mit seinen Vasallen, Jagdgenossen und Jägern nach einem Walde, der hieß Bernefeuer, nicht allzufern von dem Osenberge. Da stieß dem Grafen ein Reh auf, das floh vor ihm her, und er hetzte es mit seinen Rüden und kam in der Verfolgung seinem Jagdgefolge ganz aus dem Gesicht, und sein weißes Pferd trug ihn also schnell von dannen, daß er selbst seinen schnellen Winden aus der Spur kam und sich mit einem Male, ohne auch nur vom weiten etwas von seiner Jägerei zu sehen oder zu hören, auf einer stillen Bergfläche befand. Auch das Reh, das ihn so weit verlockt, sah er nimmer. Nun war die Hitze an diesem Tage groß, es soll im Julimond gewesen sein, und den Grafen durstete sehr, daher sprach er zu sich selbst: O Gott, wer kühlen Wassers nur einen einzigen Trunk hätte! – Siehe, da öffnete sich eine Felswand am Osenberg, und es trat aus ihr eine schöne, wohlgezierte Jungfrau, reizend anzuschauen, die hielt in ihrer Hand ein uraltes Jägertrinkhorn, verziert mit mancherlei seltsamem Bildwerk, das war von Silber überkleidet und kostbar vergüldet und überaus künstlich, voll Figuren, und das Horn war voll eines Trankes, den bot die Jungfrau dem Grafen sittiglich dar. Graf Otto nahm das Trinkhorn, schlug den Deckel auf und wollte es zum Munde führen, sah aber in das Horn hinein und beschaute den Trank, und der gefiel ihm mitnichten, denn als er ihn schüttelte, war er trübe und roch auch nicht wie Malvasier – und der Graf trank nicht. Die Jungfrau aber ermunterte den Grafen, er solle nur ihr vertrauen und trinken; es werde ihm und seinem Geschlechte gedeihen. Dies und die Landschaft Oldenburg werde davon ein gutes Gedeihen haben. – Aber der Graf weigerte sich fortdauernd, um so mehr, da die Jungfrau in ihn drang, doch zu trinken, und so sagte sie: Wo du nicht trinkest, wird in deinem Geschlechte und deiner Nachkommenschaft nimmermehr Einigkeit sein. Nun hielt der Graf immer noch das Horn mit dem Trunke in seiner Hand und hatte sein Bedenken, und da zuckte das Roß, und es troff etwas von dem Tranke über und auf des Pferdes hintern Bug, da gingen gleich dem Pferde die Haare weg. Jetzt langte die Jungfrau nach dem Horne und begehrte es wieder aus seiner Hand zu nehmen, aber der Graf behielt es in seiner Hand und ritt von dannen, und die Jungfrau schwand wieder in den Berg hinein. Den Grafen aber kam ein Grauen an, und schüttete das Horn aus, und behielt es, und ritt weiter, indem er sein Roß spornte, bis er sich wieder zu seiner Jägerei fand, zeigte ihr das Horn und erzählte, auf wie wunderbarliche Weise er zu dem köstlichen Kleinod gekommen sei. Darauf ist das Horn sorgsam im Schatz der Grafen von Oldenburg aufbewahrt worden.\n\nDieser Graf Otto war dieses Namens der erste in seinem edlen Geschlecht und hatte von seiner Gemahlin Mechthild, Gräfin von Alvensleben, fünf Söhne, deren ältester war Johannes der Erste, dieser hatte wiederum fünf Söhne, von denen ward der erste Udo geheißen, Bischof zu Hildesheim, der zweite aber hieß Huno, der war gar herrlich und ehrenreich, also daß er den Beinamen Gloriosus empfangen hat.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Die Hetze",
+        "setting": "Die Hetze",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter verfolgt ein fernes Reh, Jagdgefolge weit zurück.",
+        "dialog": "Otto jagte im Juli einem Reh nach.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "reitet auf weißem Pferd; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Reiter verfolgt ein fernes Reh, Jagdgefolge weit zurück.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Die Hetze",
+            "posture": "reitet auf weißem Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Die verlorene Spur",
+        "setting": "Die verlorene Spur",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferd auf leerer Bergfläche, Reh und Hunde fort.",
+        "dialog": "Er verlor Reh, Hunde und Gefolge aus dem Blick.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "sitzt auf stillstehendem weißem Pferd; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Pferd auf leerer Bergfläche, Reh und Hunde fort.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Die verlorene Spur",
+            "posture": "sitzt auf stillstehendem weißem Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Der Durst",
+        "setting": "Der Durst",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sonne über trockener Bergfläche.",
+        "dialog": "Allein auf dem Berg wünschte er sich einen kühlen Trunk.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "sitzt erschöpft im Sattel; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Sonne über trockener Bergfläche.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Der Durst",
+            "posture": "sitzt erschöpft im Sattel"
+          }
+        }
+      },
+      {
+        "heading": "Die geöffnete Wand",
+        "setting": "Die geöffnete Wand",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535",
+          "7d346d116ab55e86861576ec5f34c8be"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau trägt ein einziges verziertes Trinkhorn.",
+        "dialog": "Eine Jungfrau trat aus dem Felsen.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "bleibt im Sattel; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend",
+          "7d346d116ab55e86861576ec5f34c8be": "tritt aus dem Fels; Blaues geschlossenes Kleid mit Silberborte.; Lebenszustand: lebend"
+        },
+        "continuity": "Frau trägt ein einziges verziertes Trinkhorn.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Die geöffnete Wand",
+            "posture": "bleibt im Sattel"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Die geöffnete Wand",
+            "posture": "tritt aus dem Fels"
+          }
+        }
+      },
+      {
+        "heading": "Die Gabe",
+        "setting": "Die Gabe",
+        "characters": [
+          "7d346d116ab55e86861576ec5f34c8be",
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau ein Horn zwischen zwei Händen.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "7d346d116ab55e86861576ec5f34c8be",
+            "text": "Trinkt. Es soll Euch und Eurem Land gedeihen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "7d346d116ab55e86861576ec5f34c8be": "reicht das Horn hinauf; Blaues geschlossenes Kleid mit Silberborte.; Lebenszustand: lebend",
+          "63b7683f002d5c419b39382f7ce24535": "nimmt es im Sattel; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Genau ein Horn zwischen zwei Händen.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Die Gabe",
+            "posture": "nimmt es im Sattel"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Die Gabe",
+            "posture": "reicht das Horn hinauf"
+          }
+        }
+      },
+      {
+        "heading": "Der prüfende Blick",
+        "setting": "Der prüfende Blick",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Trübe Flüssigkeit im Horn, Mann noch auf Pferd.",
+        "dialog": "Otto sah und roch den Trank. Er trank nicht.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "hält das offene Horn; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Trübe Flüssigkeit im Horn, Mann noch auf Pferd.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Der prüfende Blick",
+            "posture": "hält das offene Horn"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Die Gabe",
+            "posture": "reicht das Horn hinauf"
+          }
+        }
+      },
+      {
+        "heading": "Der Druck",
+        "setting": "Der Druck",
+        "characters": [
+          "7d346d116ab55e86861576ec5f34c8be",
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pferd steht ruhig, Horn offen.",
+        "dialog": "Die Frau drängte. Aus dem Versprechen wurde eine Drohung.",
+        "bubbles": [],
+        "character_states": {
+          "7d346d116ab55e86861576ec5f34c8be": "steht dicht beim Pferd; Blaues geschlossenes Kleid mit Silberborte.; Lebenszustand: lebend",
+          "63b7683f002d5c419b39382f7ce24535": "hält das Horn vom Mund entfernt; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Pferd steht ruhig, Horn offen.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Der Druck",
+            "posture": "hält das Horn vom Mund entfernt"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Der Druck",
+            "posture": "steht dicht beim Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Der verschüttete Tropfen",
+        "setting": "Der verschüttete Tropfen",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wenige Tropfen auf hinterem Pferderücken, keine Wunde.",
+        "dialog": "Das Pferd zuckte; etwas Trank lief auf sein Fell.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "sitzt auf zuckendem Pferd; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Wenige Tropfen auf hinterem Pferderücken, keine Wunde.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Der verschüttete Tropfen",
+            "posture": "sitzt auf zuckendem Pferd"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Der Druck",
+            "posture": "steht dicht beim Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Die Warnung am Tier",
+        "setting": "Die Warnung am Tier",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine haarlose Stelle am Hinterbug, unverletzte Haut.",
+        "dialog": "Wo der Trank getroffen hatte, fielen die Haare aus.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "blickt auf das Pferd; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Kleine haarlose Stelle am Hinterbug, unverletzte Haut.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Die Warnung am Tier",
+            "posture": "blickt auf das Pferd"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Der Druck",
+            "posture": "steht dicht beim Pferd"
+          }
+        }
+      },
+      {
+        "heading": "Die verweigerte Rückgabe",
+        "setting": "Die verweigerte Rückgabe",
+        "characters": [
+          "7d346d116ab55e86861576ec5f34c8be",
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau greift nicht nach Zügeln, Reiter wendet sein Pferd.",
+        "dialog": "Sie wollte das Horn zurück. Otto ritt mit ihm davon.",
+        "bubbles": [],
+        "character_states": {
+          "7d346d116ab55e86861576ec5f34c8be": "streckt die leere Hand aus; Blaues geschlossenes Kleid mit Silberborte.; Lebenszustand: lebend",
+          "63b7683f002d5c419b39382f7ce24535": "hält das Horn fest im Sattel; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Frau greift nicht nach Zügeln, Reiter wendet sein Pferd.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Die verweigerte Rückgabe",
+            "posture": "hält das Horn fest im Sattel"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Die verweigerte Rückgabe",
+            "posture": "streckt die leere Hand aus"
+          }
+        }
+      },
+      {
+        "heading": "Der ausgeschüttete Inhalt",
+        "setting": "Der ausgeschüttete Inhalt",
+        "characters": [
+          "63b7683f002d5c419b39382f7ce24535"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dünner Strahl auf Stein, Pferd steht daneben.",
+        "dialog": "Er schüttete den Rest aus und suchte sein Gefolge.",
+        "bubbles": [],
+        "character_states": {
+          "63b7683f002d5c419b39382f7ce24535": "gießt das Horn vom Pferd aus; Grünes Jagdwams, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein dünner Strahl auf Stein, Pferd steht daneben.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Der ausgeschüttete Inhalt",
+            "posture": "gießt das Horn vom Pferd aus"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Die verweigerte Rückgabe",
+            "posture": "streckt die leere Hand aus"
+          }
+        }
+      },
+      {
+        "heading": "Das bewahrte Gefäß",
+        "setting": "Das bewahrte Gefäß",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein leeres verziertes Horn in einer Schatzkammer.",
+        "dialog": "Das Horn wurde bewahrt. Seine Kostbarkeit hatte den Inhalt nicht vertrauenswürdig gemacht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein leeres verziertes Horn in einer Schatzkammer.",
+        "continuity_state": {
+          "63b7683f002d5c419b39382f7ce24535": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Jagdwams, grauer Mantel.",
+            "location": "Der ausgeschüttete Inhalt",
+            "posture": "gießt das Horn vom Pferd aus"
+          },
+          "7d346d116ab55e86861576ec5f34c8be": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid mit Silberborte.",
+            "location": "Die verweigerte Rückgabe",
+            "posture": "streckt die leere Hand aus"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Graf Otto",
+        "description": "Erwachsener Mann mit braunem Bart.",
+        "outfit": "Grünes Jagdwams, grauer Mantel.",
+        "backstory": "Prüft ein verlockendes Angebot.",
+        "id": "63b7683f002d5c419b39382f7ce24535",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Jungfrau im Osenberg",
+        "description": "Erwachsene Frau mit langen schwarzen Haaren.",
+        "outfit": "Blaues geschlossenes Kleid mit Silberborte.",
+        "backstory": "Will Otto zum Trinken bewegen.",
+        "id": "7d346d116ab55e86861576ec5f34c8be",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Woran erkennt man ein gefährliches Angebot hinter einer schönen Erscheinung?",
+      "core": "Otto prüft den angebotenen Trank, obwohl Schönheit, Versprechen und Druck ihn zum Trinken bewegen sollen. Der Schaden am Pferd bestätigt sein Misstrauen gegen den Inhalt des kostbaren Gefäßes.",
+      "ending": "Otto entkommt mit dem Horn, schüttet den Trank aus und erreicht sein Gefolge; das Gefäß bleibt als Erinnerungsstück.",
+      "reason": "Die räumliche Trennung vom Gefolge, Versuchung, Drohung, Spritzer und Flucht deutlich zeigen. Die nachfolgende Genealogie braucht keine zusätzlichen Szenen.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "da gingen gleich dem Pferde die Haare weg",
+          "meaning": "Eine beobachtbare Wirkung wiegt schwerer als die beruhigenden Worte der Anbieterin."
+        }
+      ],
+      "causal_chain": [
+        "da gingen gleich dem Pferde die Haare weg",
+        "Otto entkommt mit dem Horn, schüttet den Trank aus und erreicht sein Gefolge; das Gefäß bleibt als Erinnerungsstück."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "4b2129e2264d0a500d1089fb3c75dc6abc79b4e8dd57be8d2e76909ba5c29011",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:09:49.075193+00:00"
+    },
+    "post_summary": "Otto lässt sich vom kostbaren Gefäß nicht über den gefährlichen Inhalt täuschen.",
+    "source_provenance": {
+      "title": "Das Oldenburger Horn",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 163.",
+      "url": "https://textgridrep.org/browse/kfd4.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Das Oldenburger Horn. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 163.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIm heutigen Oldenburger Lande herrschte ein Graf, des Namens Otto, der hatte große Lust am Jagen, und zog aus mit seinen Vasallen, Jagdgenossen und Jägern nach einem Walde, der hieß Bernefeuer, nicht allzufern von dem Osenberge. Da stieß dem Grafen ein Reh auf, das floh vor ihm her, und er hetzte es mit seinen Rüden und kam in der Verfolgung seinem Jagdgefolge ganz aus dem Gesicht, und sein weißes Pferd trug ihn also schnell von dannen, daß er selbst seinen schnellen Winden aus der Spur kam und sich mit einem Male, ohne auch nur vom weiten etwas von seiner Jägerei zu sehen oder zu hören, auf einer stillen Bergfläche befand. Auch das Reh, das ihn so weit verlockt, sah er nimmer. Nun war die Hitze an diesem Tage groß, es soll im Julimond gewesen sein, und den Grafen durstete sehr, daher sprach er zu sich selbst: O Gott, wer kühlen Wassers nur einen einzigen Trunk hätte! – Siehe, da öffnete sich eine Felswand am Osenberg, und es trat aus ihr eine schöne, wohlgezierte Jungfrau, reizend anzuschauen, die hielt in ihrer Hand ein uraltes Jägertrinkhorn, verziert mit mancherlei seltsamem Bildwerk, das war von Silber überkleidet und kostbar vergüldet und überaus künstlich, voll Figuren, und das Horn war voll eines Trankes, den bot die Jungfrau dem Grafen sittiglich dar. Graf Otto nahm das Trinkhorn, schlug den Deckel auf und wollte es zum Munde führen, sah aber in das Horn hinein und beschaute den Trank, und der gefiel ihm mitnichten, denn als er ihn schüttelte, war er trübe und roch auch nicht wie Malvasier – und der Graf trank nicht. Die Jungfrau aber ermunterte den Grafen, er solle nur ihr vertrauen und trinken; es werde ihm und seinem Geschlechte gedeihen. Dies und die Landschaft Oldenburg werde davon ein gutes Gedeihen haben. – Aber der Graf weigerte sich fortdauernd, um so mehr, da die Jungfrau in ihn drang, doch zu trinken, und so sagte sie: Wo du nicht trinkest, wird in deinem Geschlechte und deiner Nachkommenschaft nimmermehr Einigkeit sein. Nun hielt der Graf immer noch das Horn mit dem Trunke in seiner Hand und hatte sein Bedenken, und da zuckte das Roß, und es troff etwas von dem Tranke über und auf des Pferdes hintern Bug, da gingen gleich dem Pferde die Haare weg. Jetzt langte die Jungfrau nach dem Horne und begehrte es wieder aus seiner Hand zu nehmen, aber der Graf behielt es in seiner Hand und ritt von dannen, und die Jungfrau schwand wieder in den Berg hinein. Den Grafen aber kam ein Grauen an, und schüttete das Horn aus, und behielt es, und ritt weiter, indem er sein Roß spornte, bis er sich wieder zu seiner Jägerei fand, zeigte ihr das Horn und erzählte, auf wie wunderbarliche Weise er zu dem köstlichen Kleinod gekommen sei. Darauf ist das Horn sorgsam im Schatz der Grafen von Oldenburg aufbewahrt worden.\n\nDieser Graf Otto war dieses Namens der erste in seinem edlen Geschlecht und hatte von seiner Gemahlin Mechthild, Gräfin von Alvensleben, fünf Söhne, deren ältester war Johannes der Erste, dieser hatte wiederum fünf Söhne, von denen ward der erste Udo geheißen, Bischof zu Hildesheim, der zweite aber hieß Huno, der war gar herrlich und ehrenreich, also daß er den Beinamen Gloriosus empfangen hat.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Im heutigen Oldenburger Lande herrschte ein Graf, des Namens Otto, der hatte große Lust am Jagen, und zog aus mit seinen Vasallen, Jagdgenossen und Jägern nach einem Walde, der hieß Bernefeuer, nicht allzufern von dem Osenberge.",
+      "id": "bechstein-sagen-kfd4-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "oldenburger-horn-12-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Das Oldenburger Horn – Der ungeprüfte Trank · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Das Oldenburger Horn – Der ungeprüfte Trank\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Graf Otto\nAussehen: Erwachsener Mann mit braunem Bart.\nKleidung: Grünes Jagdwams, grauer Mantel.\nPersönlichkeit und Vorgeschichte: Prüft ein verlockendes Angebot.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Jungfrau im Osenberg\nAussehen: Erwachsene Frau mit langen schwarzen Haaren.\nKleidung: Blaues geschlossenes Kleid mit Silberborte.\nPersönlichkeit und Vorgeschichte: Will Otto zum Trinken bewegen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Hetze\nOrt und Zeit: Die Hetze\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter verfolgt ein fernes Reh, Jagdgefolge weit zurück.\nErzählertext: Otto jagte im Juli einem Reh nach.\nDialoge: keine\nKontinuität / Änderung: Ein Reiter verfolgt ein fernes Reh, Jagdgefolge weit zurück.\n\nKACHEL 2: Die verlorene Spur\nOrt und Zeit: Die verlorene Spur\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferd auf leerer Bergfläche, Reh und Hunde fort.\nErzählertext: Er verlor Reh, Hunde und Gefolge aus dem Blick.\nDialoge: keine\nKontinuität / Änderung: Ein Pferd auf leerer Bergfläche, Reh und Hunde fort.\n\nKACHEL 3: Der Durst\nOrt und Zeit: Der Durst\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sonne über trockener Bergfläche.\nErzählertext: Allein auf dem Berg wünschte er sich einen kühlen Trunk.\nDialoge: keine\nKontinuität / Änderung: Sonne über trockener Bergfläche.\n\nKACHEL 4: Die geöffnete Wand\nOrt und Zeit: Die geöffnete Wand\nSichtbare Figuren: Graf Otto, Jungfrau im Osenberg\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau trägt ein einziges verziertes Trinkhorn.\nErzählertext: Eine Jungfrau trat aus dem Felsen.\nDialoge: keine\nKontinuität / Änderung: Frau trägt ein einziges verziertes Trinkhorn.\n\nKACHEL 5: Die Gabe\nOrt und Zeit: Die Gabe\nSichtbare Figuren: Jungfrau im Osenberg, Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau ein Horn zwischen zwei Händen.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Jungfrau im Osenberg\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Trinkt. Es soll Euch und Eurem Land gedeihen.“\nKontinuität / Änderung: Genau ein Horn zwischen zwei Händen.\n\nKACHEL 6: Der prüfende Blick\nOrt und Zeit: Der prüfende Blick\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Trübe Flüssigkeit im Horn, Mann noch auf Pferd.\nErzählertext: Otto sah und roch den Trank. Er trank nicht.\nDialoge: keine\nKontinuität / Änderung: Trübe Flüssigkeit im Horn, Mann noch auf Pferd.\n\nKACHEL 7: Der Druck\nOrt und Zeit: Der Druck\nSichtbare Figuren: Jungfrau im Osenberg, Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pferd steht ruhig, Horn offen.\nErzählertext: Die Frau drängte. Aus dem Versprechen wurde eine Drohung.\nDialoge: keine\nKontinuität / Änderung: Pferd steht ruhig, Horn offen.\n\nKACHEL 8: Der verschüttete Tropfen\nOrt und Zeit: Der verschüttete Tropfen\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wenige Tropfen auf hinterem Pferderücken, keine Wunde.\nErzählertext: Das Pferd zuckte; etwas Trank lief auf sein Fell.\nDialoge: keine\nKontinuität / Änderung: Wenige Tropfen auf hinterem Pferderücken, keine Wunde.\n\nKACHEL 9: Die Warnung am Tier\nOrt und Zeit: Die Warnung am Tier\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine haarlose Stelle am Hinterbug, unverletzte Haut.\nErzählertext: Wo der Trank getroffen hatte, fielen die Haare aus.\nDialoge: keine\nKontinuität / Änderung: Kleine haarlose Stelle am Hinterbug, unverletzte Haut.\n\nKACHEL 10: Die verweigerte Rückgabe\nOrt und Zeit: Die verweigerte Rückgabe\nSichtbare Figuren: Jungfrau im Osenberg, Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau greift nicht nach Zügeln, Reiter wendet sein Pferd.\nErzählertext: Sie wollte das Horn zurück. Otto ritt mit ihm davon.\nDialoge: keine\nKontinuität / Änderung: Frau greift nicht nach Zügeln, Reiter wendet sein Pferd.\n\nKACHEL 11: Der ausgeschüttete Inhalt\nOrt und Zeit: Der ausgeschüttete Inhalt\nSichtbare Figuren: Graf Otto\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dünner Strahl auf Stein, Pferd steht daneben.\nErzählertext: Er schüttete den Rest aus und suchte sein Gefolge.\nDialoge: keine\nKontinuität / Änderung: Ein dünner Strahl auf Stein, Pferd steht daneben.\n\nKACHEL 12: Das bewahrte Gefäß\nOrt und Zeit: Das bewahrte Gefäß\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein leeres verziertes Horn in einer Schatzkammer.\nErzählertext: Das Horn wurde bewahrt. Seine Kostbarkeit hatte den Inhalt nicht vertrauenswürdig gemacht.\nDialoge: keine\nKontinuität / Änderung: Ein leeres verziertes Horn in einer Schatzkammer.\n"
+  },
+  "count_policy": "editorial"
+}

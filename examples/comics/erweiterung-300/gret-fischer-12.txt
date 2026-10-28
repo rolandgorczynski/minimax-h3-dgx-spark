@@ -1,0 +1,129 @@
+TITEL: Die schwarze Gret – Der beste Fisch
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Schwarze Gret der Fischersage
+Aussehen: Erwachsene königliche Frau mit schwarzem Haar.
+Kleidung: Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.
+Persönlichkeit und Vorgeschichte: Schenkt den Fischern einen Fang mit einer Grenze.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Erster Fischer vom Holm
+Aussehen: Erwachsener Mann mit grauem Bart.
+Kleidung: Blauer Wollrock, graue Hose.
+Persönlichkeit und Vorgeschichte: Will den versprochenen Fisch zurückgeben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweiter Fischer vom Holm
+Aussehen: Erwachsener Mann mit rotem Bart.
+Kleidung: Brauner Wollrock, schwarze Hose.
+Persönlichkeit und Vorgeschichte: Versteckt den kostbarsten Fisch.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die leere Nacht
+Ort und Zeit: Die leere Nacht
+Sichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines Fischerboot, leere Netze.
+Erzählertext: Fischer vom Schleswiger Holm hatten die ganze Nacht nichts gefangen.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleines Fischerboot, leere Netze.
+
+KACHEL 2: Die Erscheinung
+Ort und Zeit: Die Erscheinung
+Sichtbare Figuren: Schwarze Gret der Fischersage, Erster Fischer vom Holm, Zweiter Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschmückte Frau im Abstand zum Boot.
+Erzählertext: Da erschien ihnen nach der Sage die schwarze Gret.
+Dialoge: keine
+Kontinuität / Änderung: Geschmückte Frau im Abstand zum Boot.
+
+KACHEL 3: Der Auftrag
+Ort und Zeit: Der Auftrag
+Sichtbare Figuren: Schwarze Gret der Fischersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königliche Erscheinung am stillen Ufer.
+Erzählertext: Sie sollten noch einmal auswerfen und den besten Fisch zurückgeben.
+Dialoge: keine
+Kontinuität / Änderung: Königliche Erscheinung am stillen Ufer.
+
+KACHEL 4: Der neue Versuch
+Ort und Zeit: Der neue Versuch
+Sichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein ausgeworfenes Netz im ruhigen Wasser.
+Erzählertext: Sie folgten ihrem Rat.
+Dialoge: keine
+Kontinuität / Änderung: Ein ausgeworfenes Netz im ruhigen Wasser.
+
+KACHEL 5: Der volle Fang
+Ort und Zeit: Der volle Fang
+Sichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Netz voll normaler Fische, einer glitzert besonders.
+Erzählertext: Das Netz kam voller Fische zurück.
+Dialoge: keine
+Kontinuität / Änderung: Netz voll normaler Fische, einer glitzert besonders.
+
+KACHEL 6: Der beste Fisch
+Ort und Zeit: Der beste Fisch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein fantastischer Fisch mit goldenen Schuppen und smaragdgrünen Flossen im nassen Netz.
+Erzählertext: Einer trug Gold, Perlen und Edelsteine.
+Dialoge: keine
+Kontinuität / Änderung: Ein fantastischer Fisch mit goldenen Schuppen und smaragdgrünen Flossen im nassen Netz.
+
+KACHEL 7: Die erfüllbare Grenze
+Ort und Zeit: Die erfüllbare Grenze
+Sichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau ein prächtiger Fisch, normale andere Fische im Boot.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster Fischer vom Holm
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dieser muss zurück.“
+Kontinuität / Änderung: Genau ein prächtiger Fisch, normale andere Fische im Boot.
+
+KACHEL 8: Das Versteck
+Ort und Zeit: Das Versteck
+Sichtbare Figuren: Zweiter Fischer vom Holm, Erster Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein versteckter Fisch, Boot noch normal schwimmend.
+Erzählertext: Der andere behielt ihn gegen den Willen seines Gefährten.
+Dialoge: keine
+Kontinuität / Änderung: Ein versteckter Fisch, Boot noch normal schwimmend.
+
+KACHEL 9: Das neue Gewicht
+Ort und Zeit: Das neue Gewicht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle Fische im Boot bekommen glänzende metallische Schuppen.
+Erzählertext: Beim Fortfahren verwandelten sich auch die anderen Fische.
+Dialoge: keine
+Kontinuität / Änderung: Alle Fische im Boot bekommen glänzende metallische Schuppen.
+
+KACHEL 10: Die sinkende Bordwand
+Ort und Zeit: Die sinkende Bordwand
+Sichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wasser erreicht Bootsrand, niemand unter Wasser gezeigt.
+Erzählertext: Der Fang wurde zu schwer. Der Kahn sank.
+Dialoge: keine
+Kontinuität / Änderung: Wasser erreicht Bootsrand, niemand unter Wasser gezeigt.
+
+KACHEL 11: Das gerettete Ufer
+Ort und Zeit: Das gerettete Ufer
+Sichtbare Figuren: Erster Fischer vom Holm
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geretteter Fischer, leeres Meer dahinter.
+Erzählertext: Nur der Fischer, der sein Wort halten wollte, rettete knapp sein Leben.
+Dialoge: keine
+Kontinuität / Änderung: Ein geretteter Fischer, leeres Meer dahinter.
+
+KACHEL 12: Der leere Platz
+Ort und Zeit: Der leere Platz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nasses Tau am Ufer, zweiter Sitzplatz leer.
+Erzählertext: Der andere ertrank. Das behaltene Kostbarste hatte den ganzen Fang untragbar gemacht.
+Dialoge: keine
+Kontinuität / Änderung: Nasses Tau am Ufer, zweiter Sitzplatz leer.

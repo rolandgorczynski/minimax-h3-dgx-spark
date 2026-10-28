@@ -1,0 +1,106 @@
+TITEL: Wittekinds Taufe – Der andere Blick
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Wittekind
+Aussehen: Großer erwachsener Mann mit braunem Bart.
+Kleidung: Abgetragener grauer Mantel, braunes Gewand, keine Waffe.
+Persönlichkeit und Vorgeschichte: Kommt verkleidet, um Karls Lager zu erkunden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kaiser Karl
+Aussehen: Älterer kräftiger Mann mit grauem Bart.
+Kleidung: Blauer Mantel, schlichtes goldenes Stirnband.
+Persönlichkeit und Vorgeschichte: Empfängt den erkannten Gegner freundlich.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der verkleidete Gegner
+Ort und Zeit: Der verkleidete Gegner
+Sichtbare Figuren: Wittekind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Großer Mann in ärmlichem Gewand, Lagerwachen fern.
+Erzählertext: Wittekind ging verkleidet in Karls Lager.
+Dialoge: keine
+Kontinuität / Änderung: Großer Mann in ärmlichem Gewand, Lagerwachen fern.
+
+KACHEL 2: Unter den Wartenden
+Ort und Zeit: Unter den Wartenden
+Sichtbare Figuren: Wittekind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sitzende Gruppe vor der Lagerkirche.
+Erzählertext: Zwischen Bittenden wollte er die Franken ausforschen.
+Dialoge: keine
+Kontinuität / Änderung: Sitzende Gruppe vor der Lagerkirche.
+
+KACHEL 3: Der Ostermorgen
+Ort und Zeit: Der Ostermorgen
+Sichtbare Figuren: Wittekind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kirchenraum, Geistlicher am fernen Altar.
+Erzählertext: Am Ostertag sah er bei der Messe nach der Sage ein Wunder.
+Dialoge: keine
+Kontinuität / Änderung: Kirchenraum, Geistlicher am fernen Altar.
+
+KACHEL 4: Die Erscheinung
+Ort und Zeit: Die Erscheinung
+Sichtbare Figuren: Wittekind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Licht am Altar mit kleiner schemenhafter Kindgestalt, keine Menschenverwandlung.
+Erzählertext: Ihm erschien ein wunderbares Kind im Heiligtum.
+Dialoge: keine
+Kontinuität / Änderung: Licht am Altar mit kleiner schemenhafter Kindgestalt, keine Menschenverwandlung.
+
+KACHEL 5: Die veränderte Miene
+Ort und Zeit: Die veränderte Miene
+Sichtbare Figuren: Wittekind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wittekinds Gesicht im warmen Licht.
+Erzählertext: Sein prüfender Blick wurde zu Zuneigung.
+Dialoge: keine
+Kontinuität / Änderung: Wittekinds Gesicht im warmen Licht.
+
+KACHEL 6: Die Entdeckung
+Ort und Zeit: Die Entdeckung
+Sichtbare Figuren: Wittekind
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Silberpfennig in fremder ausgestreckter Hand.
+Erzählertext: Bei der Gabenverteilung erkannte man ihn trotz der Verkleidung.
+Dialoge: keine
+Kontinuität / Änderung: Silberpfennig in fremder ausgestreckter Hand.
+
+KACHEL 7: Vor dem Kaiser
+Ort und Zeit: Vor dem Kaiser
+Sichtbare Figuren: Wittekind, Kaiser Karl
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene, keine Fesseln.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kaiser Karl
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Erzähle mir, was du gesehen hast.“
+Kontinuität / Änderung: Zwei Erwachsene, keine Fesseln.
+
+KACHEL 8: Das Gespräch
+Ort und Zeit: Das Gespräch
+Sichtbare Figuren: Wittekind, Kaiser Karl
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer auf gleicher Bodenhöhe.
+Erzählertext: Karl empfing ihn freundlich. Wittekind erzählte von dem Kind.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer auf gleicher Bodenhöhe.
+
+KACHEL 9: Die Taufe
+Ort und Zeit: Die Taufe
+Sichtbare Figuren: Wittekind, Kaiser Karl
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schlichter Taufraum, Wittekind weiterhin erwachsen und bekleidet.
+Erzählertext: In dieser Sage nahm Wittekind die Taufe freiwillig an.
+Dialoge: keine
+Kontinuität / Änderung: Schlichter Taufraum, Wittekind weiterhin erwachsen und bekleidet.
+
+KACHEL 10: Das neue Zeichen
+Ort und Zeit: Das neue Zeichen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Schild mit genau einem weißen steigenden Pferd.
+Erzählertext: Das schwarze Pferd seines Schildes wurde weiß: ein sichtbares Zeichen neuer Zugehörigkeit.
+Dialoge: keine
+Kontinuität / Änderung: Ein Schild mit genau einem weißen steigenden Pferd.

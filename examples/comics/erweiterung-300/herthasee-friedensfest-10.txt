@@ -1,0 +1,95 @@
+TITEL: Der Herthasee – Hinter dem Friedensfest
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Priester der Herthasage
+Aussehen: Älterer Mann mit weißem Bart.
+Kleidung: Langes graues geschlossenes Gewand.
+Persönlichkeit und Vorgeschichte: Begleitet den verhüllten Wagen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der stille See
+Ort und Zeit: Der stille See
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dunkler See im Buchenwald.
+Erzählertext: Am Herthasee verortet die Sage ein Heiligtum der Mutter Erde.
+Dialoge: keine
+Kontinuität / Änderung: Dunkler See im Buchenwald.
+
+KACHEL 2: Der verhüllte Wagen
+Ort und Zeit: Der verhüllte Wagen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein bedeckter Wagen im Wald, keine sichtbare Göttin.
+Erzählertext: Ihr Wagen blieb verhüllt.
+Dialoge: keine
+Kontinuität / Änderung: Ein bedeckter Wagen im Wald, keine sichtbare Göttin.
+
+KACHEL 3: Die Umfahrt
+Ort und Zeit: Die Umfahrt
+Sichtbare Figuren: Priester der Herthasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau zwei Kühe ziehen den bedeckten Wagen.
+Erzählertext: Ein Priester führte ihn einmal im Jahr durchs Land.
+Dialoge: keine
+Kontinuität / Änderung: Genau zwei Kühe ziehen den bedeckten Wagen.
+
+KACHEL 4: Die Waffenruhe
+Ort und Zeit: Die Waffenruhe
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene legen ungezogene Waffen auf Bank ab.
+Erzählertext: Wo er verweilte, durfte niemand streiten oder eine Waffe ergreifen.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene legen ungezogene Waffen auf Bank ab.
+
+KACHEL 5: Das Friedensfest
+Ort und Zeit: Das Friedensfest
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Menschen feiern gemeinsam auf Dorfplatz, keine ausgegrenzten Karikaturen.
+Erzählertext: Für die Festgemeinschaft war seine Ankunft ein Glück.
+Dialoge: keine
+Kontinuität / Änderung: Menschen feiern gemeinsam auf Dorfplatz, keine ausgegrenzten Karikaturen.
+
+KACHEL 6: Der Rückweg
+Ort und Zeit: Der Rückweg
+Sichtbare Figuren: Priester der Herthasage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Kühe ziehen Wagen zurück zum Wald.
+Erzählertext: Dann ging der Zug zurück ins Heiligtum.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Kühe ziehen Wagen zurück zum Wald.
+
+KACHEL 7: Die Dienenden
+Ort und Zeit: Die Dienenden
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleidete erwachsene Unfreie tragen Tücher zum See.
+Erzählertext: Unfreie mussten Wagen, Gewänder und Bildnis reinigen.
+Dialoge: keine
+Kontinuität / Änderung: Bekleidete erwachsene Unfreie tragen Tücher zum See.
+
+KACHEL 8: Das verlangte Schweigen
+Ort und Zeit: Das verlangte Schweigen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Waschplatz am dunklen See, keine Gewalt im Bild.
+Erzählertext: Damit niemand erzählte, was er gesehen hatte, wurden die Dienenden getötet.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Waschplatz am dunklen See, keine Gewalt im Bild.
+
+KACHEL 9: Der verborgene Wagen
+Ort und Zeit: Der verborgene Wagen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wieder verhüllter Wagen unter Buchen.
+Erzählertext: Der Wagen stand erneut im Heiligtum. Die Dienenden kehrten nicht zurück.
+Dialoge: keine
+Kontinuität / Änderung: Wieder verhüllter Wagen unter Buchen.
+
+KACHEL 10: Die unsichtbare Grenze
+Ort und Zeit: Die unsichtbare Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Heller Festplatz fern hinter dunklem Waldsee.
+Erzählertext: Die Sage zeigt einen Frieden, dessen Preis nicht alle Mitglieder der Gemeinschaft tragen mussten.
+Dialoge: keine
+Kontinuität / Änderung: Heller Festplatz fern hinter dunklem Waldsee.

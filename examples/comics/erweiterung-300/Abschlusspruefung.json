@@ -1,0 +1,15 @@
+{
+  "neue_geschichten": 100,
+  "neue_kacheln": 1180,
+  "auswahl_geschichten": 300,
+  "auswahl_quellen": 300,
+  "beschriftungswarnungen": 0,
+  "api_rueckvergleich": true,
+  "urspruengliche_auswahl_erhalten": true,
+  "keine_doppelimporte": true,
+  "erzaehler_jede_dritte_und_bei_bedarf": true,
+  "bilder_generiert": false,
+  "cron_pausiert": true,
+  "auftragsliste_fertig": 301,
+  "auftragsliste_offen": 81
+}

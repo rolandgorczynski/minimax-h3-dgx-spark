@@ -1,0 +1,118 @@
+TITEL: Das Bernsteinrecht – Der verspätete Ruf
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Vogt Anselmus von Losenberg
+Aussehen: Erwachsener Mann mit grauem Bart.
+Kleidung: Schwarzer Amtsrock, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Erzwingt das Bernsteinmonopol des Ordens.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Fischer am Frischen Haff
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Blauer Wollrock, graue Hose.
+Persönlichkeit und Vorgeschichte: Kann Bernstein sogar ohne Absicht im Boot finden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das Geschenk am Strand
+Ort und Zeit: Das Geschenk am Strand
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Viele kleine Bernsteinstücke im feuchten Sand.
+Erzählertext: Früher, erzählt die Sage, durfte man angeschwemmten Bernstein frei sammeln.
+Dialoge: keine
+Kontinuität / Änderung: Viele kleine Bernsteinstücke im feuchten Sand.
+
+KACHEL 2: Die neue Herrschaft
+Ort und Zeit: Die neue Herrschaft
+Sichtbare Figuren: Vogt Anselmus von Losenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Amtsträger vor Küstenwache.
+Erzählertext: Der Orden beanspruchte den Bernstein nun allein.
+Dialoge: keine
+Kontinuität / Änderung: Amtsträger vor Küstenwache.
+
+KACHEL 3: Das neue Gesetz
+Ort und Zeit: Das neue Gesetz
+Sichtbare Figuren: Vogt Anselmus von Losenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine lesbare erzeugte Schrift.
+Erzählertext: Ohne Erlaubnis zu sammeln wurde mit dem Tod bedroht.
+Dialoge: keine
+Kontinuität / Änderung: Keine lesbare erzeugte Schrift.
+
+KACHEL 4: Der zufällige Fund
+Ort und Zeit: Der zufällige Fund
+Sichtbare Figuren: Fischer am Frischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Welle trägt kleines Bernsteinstück ins offene Boot.
+Erzählertext: Schon eine Welle konnte einem Fischer ein Stück ins Boot werfen.
+Dialoge: keine
+Kontinuität / Änderung: Welle trägt kleines Bernsteinstück ins offene Boot.
+
+KACHEL 5: Der unerbittliche Maßstab
+Ort und Zeit: Der unerbittliche Maßstab
+Sichtbare Figuren: Vogt Anselmus von Losenberg, Fischer am Frischen Haff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wachen auf Abstand, keine Folter.
+Erzählertext: Der Vogt hielt ohne Nachsicht an seinem Gesetz fest.
+Dialoge: keine
+Kontinuität / Änderung: Wachen auf Abstand, keine Folter.
+
+KACHEL 6: Die Opfer
+Ort und Zeit: Die Opfer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassene Fischerkörbe vor geschlossenem Tor, keine Hinrichtung.
+Erzählertext: Menschen wurden eingekerkert und getötet, weil sie Bernstein aufgehoben hatten.
+Dialoge: keine
+Kontinuität / Änderung: Verlassene Fischerkörbe vor geschlossenem Tor, keine Hinrichtung.
+
+KACHEL 7: Das Ende des Vogtes
+Ort und Zeit: Das Ende des Vogtes
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossenes Grab unter Sturmwolken.
+Erzählertext: Dann starb der Vogt selbst.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossenes Grab unter Sturmwolken.
+
+KACHEL 8: Der unruhige Strand
+Ort und Zeit: Der unruhige Strand
+Sichtbare Figuren: Vogt Anselmus von Losenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine graue Geisterkontur, keine lebendige Amtswache.
+Erzählertext: Sein Geist sollte in Sturmnächten am Ufer wandern.
+Dialoge: keine
+Kontinuität / Änderung: Eine graue Geisterkontur, keine lebendige Amtswache.
+
+KACHEL 9: Der späte Widerruf
+Ort und Zeit: Der späte Widerruf
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stürmische Brandung und einsame Fußspuren.
+Erzählertext: Nun hörte man ihn rufen: Bernstein frei! Bernstein frei!
+Dialoge: keine
+Kontinuität / Änderung: Stürmische Brandung und einsame Fußspuren.
+
+KACHEL 10: Der geschwundene Reichtum
+Ort und Zeit: Der geschwundene Reichtum
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nur wenige Bernsteinsplitter auf weitem leerem Strand.
+Erzählertext: Die Sage verbindet die Gewalt mit dem Schwinden des reichen Naturgeschenks.
+Dialoge: keine
+Kontinuität / Änderung: Nur wenige Bernsteinsplitter auf weitem leerem Strand.
+
+KACHEL 11: Die vergebliche Jagd
+Ort und Zeit: Die vergebliche Jagd
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wächter rudern zu einem goldenen Schimmer, der sich als Schaum löst.
+Erzählertext: Große Funde entzogen sich ihnen wie Blendwerk.
+Dialoge: keine
+Kontinuität / Änderung: Wächter rudern zu einem goldenen Schimmer, der sich als Schaum löst.
+
+KACHEL 12: Das nicht ersetzte Leben
+Ort und Zeit: Das nicht ersetzte Leben
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leeres Fischerboot vor ruhigem Ufer.
+Erzählertext: Der Ruf nahm das alte Unrecht zurück. Die getöteten Menschen brachte er nicht zurück.
+Dialoge: keine
+Kontinuität / Änderung: Leeres Fischerboot vor ruhigem Ufer.

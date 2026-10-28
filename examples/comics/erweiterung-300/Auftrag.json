@@ -1,0 +1,907 @@
+{
+  "geschichten": [
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgq5-0",
+      "title": "Roß Bayard und Schloß Bayard",
+      "source_sha256": "1a11ef28af4fefdb8214483715ee6c8cc0d91705fa49a66843ca87247fa3e841",
+      "count": 18,
+      "status": "fertig",
+      "story_id": "180e98b091674192adb222efbc25f9e1"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdkp-0",
+      "title": "Die Toten in Löwen",
+      "source_sha256": "bbbd8fa9f50a7e175956fc528f88a4f9d1c106c9676eb81f964c322a35fc1611",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "43c7f2c06a1b40998df656c70e8002c7"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khsd-0",
+      "title": "Der Schwanritter",
+      "source_sha256": "cb23ebc1936bb322e144b54316933b4006f245a15a1efb541450bd9cae5c5189",
+      "count": 18,
+      "status": "fertig",
+      "story_id": "ef5dffa3c4c4459ab9af901f03cacf19"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj3k-0",
+      "title": "Gelre, Gelre!",
+      "source_sha256": "ab5c57bb0f4e53d3993fb92f5e549893142be4c1c8b3139931b632cdf6748654",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "7362216d8cc643b6a7233d7da939c9d0"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kjdq-0",
+      "title": "Des Riesen Handwerfen",
+      "source_sha256": "c7a81bd33e7666b40b232671462c4a33635c3284c748940ace49b1d729dad234",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "a1a85eb1bed949f79522f37a1c65847c"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg5z-0",
+      "title": "Herr Lem",
+      "source_sha256": "920ddd733c1650d17fda70b97e37128624e70e6cd893612d4fdab2d5f6221f33",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "970594e3499043ca8df5a108e5a2506d"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj2t-0",
+      "title": "Gangolfs Brunnen",
+      "source_sha256": "0f317a7432ba4afc83ee76178c58ae823f40a2c6fe8ffac2654b43e38c842491",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "e9b122f7368746b6bb15f91267c424c4"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdxd-0",
+      "title": "Die Isabellenfarbe",
+      "source_sha256": "385a9f34b2ce0685deee08d0bf1214f27aa9530607d0d6f3d90295c14e20fdba",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "b2369af6970f46878e97bbc8af61c131"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgm8-0",
+      "title": "Doktor Faust und sein Teufel Jost",
+      "source_sha256": "3745afbeba6f75effae9a8cec68df59f408702858ee2cae7b605a27d4e7b8885",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "fcf9b21c89b64c1090ef641adfa73bac"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khkg-0",
+      "title": "Vom Zauberer Agrippa",
+      "source_sha256": "7ff0503dd2fd09c6c4ff6c652a903532f4988b5478fbdffa48e9f5ce2e255d9a",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "0539f7190f544e2180337bcb8ea93bf1"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgfw-0",
+      "title": "Der Hund des Jan von Nivelle",
+      "source_sha256": "c0e385d09e92348679c1d192cf6b8fa5d499fa20dbda8a24d0a3a032140904e8",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "832d5e069a8d481bb75bd74cb02a8582"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kddt-0",
+      "title": "St. Johannisäpfel",
+      "source_sha256": "2a3002ebfa98f79d822cc834781db2ad81d4775db990827c46644df3494e390d",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "c3ac0a18fe064092894ea4feff8f8744"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf3s-0",
+      "title": "So viel Kinder als Tage im Jahre",
+      "source_sha256": "a3547f1d55bc9343e901f69e00c4240b92a3564b5ffc7e340edeba19554dd81b",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "abac436ede264621984339e308624a68"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdjb-0",
+      "title": "Der ewige Jäger",
+      "source_sha256": "dbd3d7f8270a63c0d42cd23b8389cdfa0e9eb1ebd183b09470010fea79f04339",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "f57e6001320844eea3c926e6b4c9f54d"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg58-0",
+      "title": "Tückebold Kludde",
+      "source_sha256": "e5802022d9636403480a59579e111c87dc6d7160a25cbf7863b4e40adaaa7e2c",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "0244c5415e6f47e69497fcae905c24c9"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdw4-0",
+      "title": "Die Tückebolde Lodder und lange Wapper",
+      "source_sha256": "55bdc2de802c9ed2121edde154cc32f40e0aba3ddf2c4339d3b650a0fac08a64",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "cb9d61aacc5547ad953a1c2c4c4860e8"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khgt-0",
+      "title": "Der Geist Osschaert",
+      "source_sha256": "227b6d34c44726c06a23ff5c65e2caa562cf01e0a7d9baf6fb20ef76e71af804",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "5fc3eb9e3690418abe218b2ecd3eafcd"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf0x-0",
+      "title": "Die Mahr",
+      "source_sha256": "a59b142bdf71ad7395af4802ecdb8513ae8d019a0701c7dd3ec7db978329f7ea",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "5f6c857dba0a487091e7ead068f423e2"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfmd-0",
+      "title": "Die Klabautermännchen",
+      "source_sha256": "f2d78b49b79a9a87015dce385de81134ef02e173fa0e54d73c7b7436b9f1c6ea",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "0c3912208cdb4ecca5808a7c97537352"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgv8-0",
+      "title": "Nix Flerus",
+      "source_sha256": "96caa57fe935165407462be9de57e65802a227ab94bc78d036c15478e612dea9",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "d3cf5138b5c7488a9a17ea61df1a2030"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgng-0",
+      "title": "Die Meerminnen",
+      "source_sha256": "e871531ae06f3e9d768702a03df1dc79b51cb97a8128600ec1e0ff49926572f5",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "1a50d26169544580a79f804b8d820a46"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kggk-0",
+      "title": "Geister in Friesland",
+      "source_sha256": "036097b7902b9ed808fd00823e68f6b407946c804f77272a0cadb7c964f278c2",
+      "count": 6,
+      "status": "fertig",
+      "story_id": "03b1b7593416442caacf31a83812eff5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdfc-0",
+      "title": "Stavorens Ursprung",
+      "source_sha256": "6b561ae103772ce4858f115fe456b9ec35900e384f40fa2e1a0c2af95d3b56b6",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "1e4475766740489781432a57dfcc3945"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdf8-0",
+      "title": "Der Feuerpütz",
+      "source_sha256": "5edd8eec1a9ca9698729117c5e02489c608798be3458b0aded4e43506279d9fd",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "990cfb7b5d7a4d3e8379ce318670b80f"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgdn-0",
+      "title": "Der überquellende Wasserpütz",
+      "source_sha256": "08237c4e6ad89519cb6d36f34f6012afed5f905ab607981bc6d300fd581ff482",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "b273c531922c4feca05d456bd76e8cd5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj0s-0",
+      "title": "Das Wunderkorn von Stavoren und der Frauensand",
+      "source_sha256": "9f1b3ae6ca7aa1fb18f6bad668539257984c6c0353c589857de5070bb3c53b86",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "7b52bcac60114eb8be5362350ec7419b"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgb0-0",
+      "title": "Stavorens Untergang",
+      "source_sha256": "2186997062e41821d8fbd50ebe98ce6d2a4cf2c8d462c2398e4da4835ac80af0",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "0b85a8df92204deaab21ba72a18b11f5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kd83-0",
+      "title": "Die sieben Meerminnen",
+      "source_sha256": "8492dae090078874c8492523bf9e5ae530b63ce154cb16510855786c03706078",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "894486089c874e2ca0446e5b50951235"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdgj-0",
+      "title": "Der Friesen Bekehrung",
+      "source_sha256": "ec2521486ca411fcfab78d0d2271c02b0002c59b01b28374035c57ae666d0169",
+      "count": 18,
+      "status": "fertig",
+      "story_id": "3ee008ddabd64f1c9bbfa046391409e0"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgj0-0",
+      "title": "Wittekinds Taufe",
+      "source_sha256": "0bdfe7a27c5d6ab66349e7c5387f4a48f8a2096637345b21a7dfc0a7caaa3122",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "4baee7f6cb0e4f72924c32e2ffc11c61"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfd4-0",
+      "title": "Das Oldenburger Horn",
+      "source_sha256": "4b2129e2264d0a500d1089fb3c75dc6abc79b4e8dd57be8d2e76909ba5c29011",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "147056cb014e41ebb7f05f23e075054e"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfzd-0",
+      "title": "Friedrich der Löwensieger",
+      "source_sha256": "56f3e462c20a7bd1dd7603eed1cefae21018d0e2229486cceed35bcf6fc607d8",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "0e27064d7cb549b9bbbbf676d723b389"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj29-0",
+      "title": "Das Zwergvolk im Osenberge",
+      "source_sha256": "093eced93011c60071678bbbcdd18c10e303da5195cd2a2aa7489dd8914a84fe",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "faf60602b12e4fb3b0ff9f85c1634144"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgw6-0",
+      "title": "Die Elben",
+      "source_sha256": "290f496ea5fd59149ce158672c00278cc728dda4f4ef057148a08dc46ef7b630",
+      "count": 6,
+      "status": "fertig",
+      "story_id": "06a7335e9bf24fa991746568578d45b5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf76-0",
+      "title": "Das heilige Land",
+      "source_sha256": "ead275da581d62991dc2e90a3602491debdf1ca99e890b692f8906c895b2817f",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "07d7a53b42514d1fb44f2b68bded93ca"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfds-0",
+      "title": "Fositesland",
+      "source_sha256": "a3be4de2bdfcc761f194e0b2e5d49859e2cdf698ff0a0528778b193314eac8b7",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "8fc688b359004269b03dfda2871a93bb"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgnv-0",
+      "title": "Der Jungfernstuhl und der Mönch auf Helgoland",
+      "source_sha256": "13867ed7716f96d6e3960ba32f87323537cb8385ff1d8fe4987eb2cb6db56108",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "7b769f6cabee432b8d70fe2d0f98fc2f"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdhr-0",
+      "title": "Mannigfual",
+      "source_sha256": "dac9c56eebc6620b7456dad9445d20895d222935a664c6ed7f9b8c2782f454b3",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "784ca70b39464b36ab67ed784bf6be59"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj26-0",
+      "title": "Der Geldsot",
+      "source_sha256": "be4852ed396e63d18f15cf3bc4b72daa0ec623e0286650d3e5c96e1df978ef57",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "20c2d5dc961a4ec9bc3b81fae9e4e7d5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kddr-0",
+      "title": "Röwerlöwe",
+      "source_sha256": "e0f5ce4ddf4acb45acbcdb38856c52284fd44ee5772d9298c46ce04f3bb4e184",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "de2bb5a59f7147e48c0edd0692f86f33"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf42-0",
+      "title": "König Dan",
+      "source_sha256": "be51355f9b8c7d0f7972a307f0746545e7a822760c40b4a282a5d8c842e0e548",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "8de868f2dc79460a99a0256021eaf8b8"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfxt-0",
+      "title": "Die Schlacht auf dem Tausendteufelsdamme",
+      "source_sha256": "77724a14e33aef1d60ab5333972f0b9024d0481e7d5583b958a6137a03f12ad2",
+      "count": 18,
+      "status": "fertig",
+      "story_id": "2b1e0ed816bc418a86af97eb3b2d360b"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kffh-0",
+      "title": "Wunderbäume in Dithmarschen und Holstein",
+      "source_sha256": "d4af1e516c8b83e9db65a68ced86a1e4093ce8cccd408e0491f0c1c4e9fc54da",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "fb87c6bf582d46e0a2857c9ce2e8d6f0"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khv2-0",
+      "title": "Der wilde Jäger in Dithmarschen",
+      "source_sha256": "5f03d3b0db2cdc3579001e99612514d237d6d7801b0ced9a20f629cc995fcef1",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "fd33716b97af4331a7bdd4e242c59438"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgxd-0",
+      "title": "König Abels Jagd",
+      "source_sha256": "5cd6e39bce60525489b822dc1f58204a63fbca1ba6f74235d0b5d9f76357ec90",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "bfe676606b204596a9af1abf37ea9762"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khq8-0",
+      "title": "Der Wode",
+      "source_sha256": "d6d06ba484538f5b1ce17be9c81b2918f230a942053414ae1b588e2d0f12c691",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "fdfe7815d06742fda7b830fb335513a0"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfns-0",
+      "title": "Die Unterirdischen",
+      "source_sha256": "d7d094c6faef00db9a029de9cccc4c4203bf6035d00f58b10344032a907ce5bf",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "42785cbfd4044a278e8f4b3c9384258b"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf1z-0",
+      "title": "Die Kielkröpfe",
+      "source_sha256": "47c7a173d7a7cd055b42496ea829dec1d248aa536b6b2c791dcfd3c12948e8f2",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "b31aa7931c3c4f58841229fbea1e7d11"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg13-0",
+      "title": "Die Nissen und die Wolterkens",
+      "source_sha256": "405ea2534b98b9ae1741d2433d4b2270e9fb18a47e1be5feb40fe6b7d84cf825",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "b00c7c0b10fb45fb8bfe7b1ad8ed824f"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgf4-0",
+      "title": "Allerünken",
+      "source_sha256": "9561837dd61eab33250f17943648f0547a32ea4ad2608d3f372fa6e2a932b127",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "0080569dba864785bdb0ac2784e70e50"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfhp-0",
+      "title": "Das Glück der Rantzau",
+      "source_sha256": "d22acf4d10da6b54867837c4a4bedb8dff4a6dda90b1e55a4891a95e498a8f42",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "ea19acfd072b4829830fa39f217c9204"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdp2-0",
+      "title": "Schwertmann",
+      "source_sha256": "bb6e1f4f0c76815f24ad57a5b542c4a39474b61a32ec34418a7fd218b48240a7",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "a546303e013248d8a05d80d04f965af8"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgdw-0",
+      "title": "Die schwarze Gret und das Danewerk",
+      "source_sha256": "4aa0041ef291e87461da64501dea65e79acf52b6aaa0f4b232be9e933b0fc05b",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "78eeef831c9f40a4a96053c7287ff781"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khfq-0",
+      "title": "Prinzessin Thüra",
+      "source_sha256": "b2ab7ff36cf9d8a52bcded5ba89a2573fd81575ad5820d8e15a220e6f64d21fe",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "b827acc8813d4102a54745d9f148e572"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj3p-0",
+      "title": "Die Sassen und die Jüten",
+      "source_sha256": "b0938375a4b6d8d0fae552444f6a6dadd6aae1b05a3b1705e0020e764f8dbce5",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "7f40a9c83e0d4403ad67aa6cb2e237f0"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf3p-0",
+      "title": "Totenkopf wandert",
+      "source_sha256": "071b8719053e886e8179b5c8910875195fb0cabf9d121142de1da0f4a4f496a4",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "a6051ba4feef48f99be9c3dfe4b8f29d"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh1r-0",
+      "title": "Die schwarze Schule",
+      "source_sha256": "ccf8a5c5d3e50640e12e48beaa73b8549d19b7e268478d1672e93dfe1fe1924e",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "e77c322db4264bc58494275a90a48bd9"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfs3-0",
+      "title": "Spottnamen und Schildbürger im Norden",
+      "source_sha256": "aa2928c3d2f230bfb59e21aa6bca3b9f13f69cb9175504676dc0de3f8200fd0c",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "6ecd994ba6094c1ca678ad4341a98e99"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdt0-0",
+      "title": "Die Rungholder auf Nordstrand",
+      "source_sha256": "60675c58b197cfcb94f28a77267b693b4ee936f533792e7a998f609c914bc982",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "68ee298318fc4e448d86530404ada8ff"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khnd-0",
+      "title": "Treuer Herr, treuer Knecht",
+      "source_sha256": "b1cde0622d73a54459f3b8be4a3f553f2a87cc9e212e343432e861ba08d97705",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "be377cf1fcd146028f629945129ea2bb"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgsk-0",
+      "title": "Der Dom zu Schleswig",
+      "source_sha256": "a44aec1e90b7b0796c81243efdef8bbfc099708117bff0f7c8b9d606288e7178",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "710589b5145a4421a65ccf66eb54a7ab"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfg3-0",
+      "title": "Die nächtliche Trauung",
+      "source_sha256": "e24487b98d00f12b5c157f887e3a39e50c3d04e46e8f105173600111e48d8267",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "5a31cf358b6c4fbca43a283d3feb9115"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfzn-0",
+      "title": "Der schnelle Reiter Tod",
+      "source_sha256": "31136f103bcc1b97e0e6f6cc62d1bb38243a67b4b4e68d5e93c5932c963626f3",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "39fa5f65acf94001a8b4d89acd0419d8"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfq6-0",
+      "title": "Der Zauberer von Plön",
+      "source_sha256": "c3abfaac464dca568d0539511a8afdc6fd3652b9ea9e0d0ab2534d45a4fce174",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "2c107c6abca94e78913ed36ca4d91565"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh3k-0",
+      "title": "Die Seeräuber",
+      "source_sha256": "08588832b7d13cca3f39151af62149c110c88124a63b03043a534dcb3b35821c",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "6bee838796b245b990b000360f2afb61"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kf6q-0",
+      "title": "Die Krempner Glocke",
+      "source_sha256": "d6d9f6438377f1cdd2b1eef54bca8cdb6b0273bb53615b8ea543fd1b8b33f538",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "2e6fe37d2a4c41a7b37d48acd1e9a64a"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj04-0",
+      "title": "Enten zeigen den Mord an",
+      "source_sha256": "008ab8d59b07680620406d9fbe7da12b4519a5fd910fe12a1ccac4210959391b",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "7e42dc2d18424c99a17bf2528b469dc4"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg31-0",
+      "title": "Die Schwesterntürme",
+      "source_sha256": "f087a4779bbacc0f8a8dc04be5d41bfebec1fd9faa10e3565b039207afb617d1",
+      "count": 6,
+      "status": "fertig",
+      "story_id": "b2d783ee2ced4df6811515a54a128c94"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdpj-0",
+      "title": "Die Hand aus dem Grabe",
+      "source_sha256": "4cd8e9791b8b889b1c85cd48785d716a3b61ce5e63817cf49479346bef8611a2",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "907354d91c3444af8d5683203b27158e"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg7r-0",
+      "title": "Bischof Blücher",
+      "source_sha256": "d7ed31e5335b90f1f365dea5668c18780ab1d5d0845330f41742bcae51263f1d",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "7d926e59eb7848f6af84f71d71cdd889"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khxs-0",
+      "title": "Der Gast des Toten",
+      "source_sha256": "e872cb80494f157493d4ae7c5035f4a84e451059fd4b771539234aeb543eb411",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "f1a64c1d039d4c0387954e72c285303b"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgtc-0",
+      "title": "Till Eulenspiegels Grab",
+      "source_sha256": "f7cd6646c7876d4ce5293b8146e4b6dec9eb6c62706669f975b78d1a4cab1183",
+      "count": 6,
+      "status": "fertig",
+      "story_id": "52b4921f3a28414fabcc206fa30e7577"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg0f-0",
+      "title": "Dort tanzt Bornholm hin",
+      "source_sha256": "1d3e367375dcf65603a8d4b442f3359d9834e205173e0def9420c4b500127650",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "0e5eb1cd83304111b8ff3227020742b5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khrw-0",
+      "title": "Die drei Meister",
+      "source_sha256": "009eb71bf2bfc685100c345a516b4024570e79f25651ffdcd51e147c78ad34c6",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "aa49352bfb044b97a18b72a565930505"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khs0-0",
+      "title": "Rabundus Rose",
+      "source_sha256": "3eb61572316019d275664fdebb1dec5a9a8ffdb88d87a7d8d237ba5973b51cbc",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "6fafe1118519458d8844c842e7a10a02"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgxm-0",
+      "title": "Der Wald kommt",
+      "source_sha256": "d5ad01111f1e18ef9c951bc15252358603563be4270a3b44093c40111fe36824",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "8480afbcb90849faad699b04d2d7d7a5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh31-0",
+      "title": "Der Herthasee",
+      "source_sha256": "641d62b50c36eb1a9af7133b0976d1a88cc533277c1f03c630c0cf5e8c8250a0",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "431bbcf8b000464a93c5379c9fffff2e"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj36-0",
+      "title": "Pape Dönes Glockenspiel",
+      "source_sha256": "08a0e855d5726d5976f50fa5e1b0aa14d43d79cfc0eea84494cafa850a098341",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "bf2487ea166449d7ba7ebde15d6e9c8a"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgsq-0",
+      "title": "Die Ururalte",
+      "source_sha256": "6ea635d8d3de2527403aa9f16a62f46f019cf4ec0b50732cf53e81a82323220b",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "b0515ca2c9d84cf4a566a33938fdf991"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgk0-0",
+      "title": "Altmecklenburg",
+      "source_sha256": "b59a21e332bb2dbcac6af95ab9a43b6b5383673207a64d94281d761aa750f836",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "03600af296b24e86934ed7c34c4c4c24"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khw5-0",
+      "title": "Der Fürstin Traum",
+      "source_sha256": "de8626afa8c476c32495afd4b33463ab67cea06b11307cedf035bab756cb7fe8",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "26a923514ca141ada9eb784652b4b1c4"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh8v-0",
+      "title": "Das Teufelsgitter",
+      "source_sha256": "05637dabe278c66e127086039cc66aab506e5ef21256095e664b9b32bce70be0",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "9796a85abebb4f49b1f1f737259c08b1"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj9d-0",
+      "title": "Der englische Schweiß",
+      "source_sha256": "f80dbc1ad77c04d5bfcd7e34c8d437b61e5716e9df8949f0e24b9e859d8bbfaa",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "960c39991e8e4c9fb38db02a15117c9a"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khg9-0",
+      "title": "Die Wassermuhme",
+      "source_sha256": "b45102fc9cf8ea4304570780d66243e0575754403f180f3ccf9f5c83036a7927",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "e604b98e34ae4573ab071373f8c3884e"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khc8-0",
+      "title": "Der Gast des Pfingsttänzers",
+      "source_sha256": "e2736b4a12bbfdcdb0bd31bde73b72861a2dee582aaf75251a1edbb47c1e431f",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "1a8f1c927a4544298fd19c9c39667254"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kj8x-0",
+      "title": "Der Gast des Kornwucherers",
+      "source_sha256": "e4668c8db8fd06832d075531ea349edebd88d06615cb7c57cab4667c7d67fea4",
+      "count": 18,
+      "status": "fertig",
+      "story_id": "d33308162e944158a01dd29ba82de6d5"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kg1q-0",
+      "title": "Der heilige Damm",
+      "source_sha256": "aedf73c1cf7eb2a5c10d69a6fc8682ae128ecb60b92b1baec1e57294a72872a3",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "6364039c8e7d4678809c71d78cfa0cbf"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khcs-0",
+      "title": "Die Sieben in Rostock",
+      "source_sha256": "0c1f37aa6c2c2d619dd0c97395c0b93d7f233db1e27f9c1107cdd87b79458f36",
+      "count": 6,
+      "status": "fertig",
+      "story_id": "71e1e4883cf34f629bfc0efcfe50ac9d"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khq2-0",
+      "title": "Sankt Nikolaus in Greifswald",
+      "source_sha256": "bd3b73254eb79fdc6990d4bf01de30e34a79dd8aba364790782af1a3b94e6514",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "0c301fd33e0d4a2181aab9b8767cbf86"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kh03-0",
+      "title": "Vineta",
+      "source_sha256": "322134318795494aca81e7c5ebd196ea773090d75cc8c60c4de800b5a7302628",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "dac633ba006c4f299ad303e7d73ee8ca"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfh9-0",
+      "title": "Weh über Pommerland!",
+      "source_sha256": "2df9ce04beedfe692ad809ed6b164e9b62ab0f884c25b060dcf1ff88234f6225",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "3517da197e4a44a48a3c93122d7a7f7d"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khhh-0",
+      "title": "Julin",
+      "source_sha256": "7495c587578ba778507da0e624d7f8beef61fd766647d4beb4b9321a96ba2758",
+      "count": 16,
+      "status": "fertig",
+      "story_id": "89c71fa622734a1c84ca5869edc8c771"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-khgj-0",
+      "title": "Die Könige Widewuto und Bruteno",
+      "source_sha256": "53e407547b18ddd69704e226375023d2603f7c708272ea973adc149c911d8485",
+      "count": 14,
+      "status": "fertig",
+      "story_id": "b2ec7cbd25ad4d8c8a58188dd74f066e"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kfp9-0",
+      "title": "Romove",
+      "source_sha256": "56e3b7f77eea75d180bfb5420c42505a86f50aad8adc3f14e80d2c3abd6d67b6",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "52410df6f13f48b6a8c5928f40b753d4"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgx3-0",
+      "title": "König Widewuto opfert sich selbst",
+      "source_sha256": "35b57828b80049456af3cc94863df9d4eac45b5493439c3d67c53cc4472524fc",
+      "count": 8,
+      "status": "fertig",
+      "story_id": "11da1696e5ef44c89ffd4032ab56c100"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgdr-0",
+      "title": "Sankt Adalbert",
+      "source_sha256": "9e30ac743e3a92d2b8e8f26aa55b607c2e179abea2a23d2adffff9ac164abb96",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "4ea18ddb094e4d4d87b0660ecb67ccba"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgrh-0",
+      "title": "Heiligenbeil",
+      "source_sha256": "4ddbfb83dea22e797eaddf163861c6dbc96382d77ea97c69e719209aef1a1662",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "67470fa0779f4a148632013bfc317a94"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kd9j-0",
+      "title": "Das Bernsteinrecht",
+      "source_sha256": "4c380863132e83b531b5b9fcaef9d4883ffea6f3e1db897b4a19c17e809cf2cc",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "c61001714c0e4127bfbc95c8fca3a01d"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kgk9-0",
+      "title": "Die Nixe von Nidden",
+      "source_sha256": "da350e39134a0fa25eaf8625250e55e04dc571fa513a88a140a2087498a4cc85",
+      "count": 10,
+      "status": "fertig",
+      "story_id": "5beae8745bd941d5a54feae2cc5473ef"
+    },
+    {
+      "kind": "source",
+      "id": "bechstein-sagen-kdnz-0",
+      "title": "Der Glomssack zu Memel",
+      "source_sha256": "8890ec69cd60f6cd517dfe2a297e66d0df78b90b6b2c603b5a0631e1fa1857a3",
+      "count": 12,
+      "status": "fertig",
+      "story_id": "14b0a1c1cbdd4ce889420c2d7e5ac8d0"
+    }
+  ],
+  "bilder_generieren": false,
+  "ziel_auswahl": 300,
+  "stand": "abgeschlossen"
+}

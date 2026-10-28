@@ -1,0 +1,122 @@
+TITEL: Die Wunderbäume – Hilfe trotz altem Unrecht
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: König unter dem Holunder
+Aussehen: Alter Mann mit grauem Bart.
+Kleidung: Dunkler Mantel, goldener Stirnreif.
+Persönlichkeit und Vorgeschichte: Sucht im vorausgesagten Kampf Hilfe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bauer in blauer Weste
+Aussehen: Erwachsener Mann mit braunem Haar.
+Kleidung: Graue Hose, blaue Weste, weiße Hemdsärmel.
+Persönlichkeit und Vorgeschichte: Hilft trotz der Erinnerung an Unrecht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der alte Holunder
+Ort und Zeit: Der alte Holunder
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Holunderbaum an der Kirche von Süderhadstede.
+Erzählertext: Am Holunder soll ein königlicher Geist gebetet haben.
+Dialoge: keine
+Kontinuität / Änderung: Holunderbaum an der Kirche von Süderhadstede.
+
+KACHEL 2: Die angekündigte Schlacht
+Ort und Zeit: Die angekündigte Schlacht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ferne Truppen im Nebel, Bild wie eine Vision.
+Erzählertext: Die Prophezeiung erzählt von einer noch kommenden Schlacht.
+Dialoge: keine
+Kontinuität / Änderung: Ferne Truppen im Nebel, Bild wie eine Vision.
+
+KACHEL 3: Der geflohene König
+Ort und Zeit: Der geflohene König
+Sichtbare Figuren: König unter dem Holunder
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter nähert sich der Kirche.
+Erzählertext: Dann werde der bedrängte König hierher kommen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter nähert sich der Kirche.
+
+KACHEL 4: Das angebundene Pferd
+Ort und Zeit: Das angebundene Pferd
+Sichtbare Figuren: König unter dem Holunder
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Graues Pferd am Holunder angebunden, König eindeutig abgestiegen.
+Erzählertext: Er werde sein Pferd anbinden und beten.
+Dialoge: keine
+Kontinuität / Änderung: Graues Pferd am Holunder angebunden, König eindeutig abgestiegen.
+
+KACHEL 5: Die Bauern
+Ort und Zeit: Die Bauern
+Sichtbare Figuren: Bauer in blauer Weste
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauern hinter Kirche, Arbeitsgeräte abgesenkt.
+Erzählertext: Dreihundert Bauern würden ihm helfen.
+Dialoge: keine
+Kontinuität / Änderung: Bauern hinter Kirche, Arbeitsgeräte abgesenkt.
+
+KACHEL 6: Die Erinnerung
+Ort und Zeit: Die Erinnerung
+Sichtbare Figuren: Bauer in blauer Weste, König unter dem Holunder
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer unter Holunder.
+Erzählertext: Sie würden dabei nicht vergessen, dass er ihnen die Freiheit genommen hatte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer unter Holunder.
+
+KACHEL 7: Die angebotene Hilfe
+Ort und Zeit: Die angebotene Hilfe
+Sichtbare Figuren: Bauer in blauer Weste, König unter dem Holunder
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König zu Fuß, Pferd angebunden.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bauer in blauer Weste
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Steigt wieder auf. Wir stehen Euch dennoch bei.“
+Kontinuität / Änderung: König zu Fuß, Pferd angebunden.
+
+KACHEL 8: Der neue Aufbruch
+Ort und Zeit: Der neue Aufbruch
+Sichtbare Figuren: König unter dem Holunder, Bauer in blauer Weste
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pferd ausdrücklich losgebunden, Bauern sammeln sich.
+Erzählertext: Die vorausgesagte Hilfe soll am Ende langen Frieden bringen.
+Dialoge: keine
+Kontinuität / Änderung: Pferd ausdrücklich losgebunden, Bauern sammeln sich.
+
+KACHEL 9: Eine andere Überlieferung
+Ort und Zeit: Eine andere Überlieferung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sehr alte grüne Linde auf rundem Platz.
+Erzählertext: Eine zweite Baumgeschichte bindet das Grün einer Linde an die Landesfreiheit.
+Dialoge: keine
+Kontinuität / Änderung: Sehr alte grüne Linde auf rundem Platz.
+
+KACHEL 10: Der dürre Baum
+Ort und Zeit: Der dürre Baum
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Linde kahl auf demselben Platz.
+Erzählertext: Mit der verlorenen Freiheit soll sie verdorrt sein.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Linde kahl auf demselben Platz.
+
+KACHEL 11: Das erwartete Zeichen
+Ort und Zeit: Das erwartete Zeichen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Elsternnest im kahlen Baum, genau fünf helle Küken; visionäres Licht.
+Erzählertext: Fünf weiße Elsterjunge sollen eines Tages die Wiederkehr ankündigen.
+Dialoge: keine
+Kontinuität / Änderung: Elsternnest im kahlen Baum, genau fünf helle Küken; visionäres Licht.
+
+KACHEL 12: Das noch offene Grün
+Ort und Zeit: Das noch offene Grün
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kahle Linde im Morgenlicht, keine vollzogene Wiederergrünung.
+Erzählertext: Noch bleibt das Grün eine Hoffnung. Die beiden Prophezeiungen erzählen von verschiedener Zukunft.
+Dialoge: keine
+Kontinuität / Änderung: Kahle Linde im Morgenlicht, keine vollzogene Wiederergrünung.

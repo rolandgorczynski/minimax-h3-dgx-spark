@@ -1,0 +1,118 @@
+TITEL: Sankt Adalbert – Die zwei Pfennige
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Adalbert der Legende
+Aussehen: Erwachsener Geistlicher mit braunem Bart.
+Kleidung: Graues schlichtes Priestergewand.
+Persönlichkeit und Vorgeschichte: Verkündet im Ostseeraum seinen Glauben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alte Frau an der Waage
+Aussehen: Alte Frau mit weißem Haar.
+Kleidung: Braunes abgetragenes Kleid, graues Tuch.
+Persönlichkeit und Vorgeschichte: Hat nur zwei Pfennige und gibt sie dazu.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Weg nach Norden
+Ort und Zeit: Der Weg nach Norden
+Sichtbare Figuren: Adalbert der Legende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Geistlicher mit Reisebündel.
+Erzählertext: Adalbert kam in der Überlieferung aus Polen ins alte Preußenland.
+Dialoge: keine
+Kontinuität / Änderung: Ein Geistlicher mit Reisebündel.
+
+KACHEL 2: Die Verkündigung
+Ort und Zeit: Die Verkündigung
+Sichtbare Figuren: Adalbert der Legende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbewaffneter Mann auf offenem Platz.
+Erzählertext: Er zog weiter bis Danzig und Samland.
+Dialoge: keine
+Kontinuität / Änderung: Unbewaffneter Mann auf offenem Platz.
+
+KACHEL 3: Der gewaltsame Tod
+Ort und Zeit: Der gewaltsame Tod
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Küstenkapelle, geschlossenes Reisebündel davor.
+Erzählertext: Nahe Fischhausen wurde er getötet.
+Dialoge: keine
+Kontinuität / Änderung: Leere Küstenkapelle, geschlossenes Reisebündel davor.
+
+KACHEL 4: Die Bitte des Königs
+Ort und Zeit: Die Bitte des Königs
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abgesandte verhandeln an einer großen Waage.
+Erzählertext: Der polnische König wollte seinen Leichnam auslösen.
+Dialoge: keine
+Kontinuität / Änderung: Abgesandte verhandeln an einer großen Waage.
+
+KACHEL 5: Die Forderung
+Ort und Zeit: Die Forderung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verhüllte Bahre auf großer Waagschale, andere Schale leer.
+Erzählertext: Man verlangte das Gewicht des Leichnams in Gold.
+Dialoge: keine
+Kontinuität / Änderung: Verhüllte Bahre auf großer Waagschale, andere Schale leer.
+
+KACHEL 6: Das königliche Gold
+Ort und Zeit: Das königliche Gold
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gold liegt auf zweiter Schale, Bahre bleibt schwerer.
+Erzählertext: Doch die gesandte Goldmenge genügte nach der Legende nicht.
+Dialoge: keine
+Kontinuität / Änderung: Gold liegt auf zweiter Schale, Bahre bleibt schwerer.
+
+KACHEL 7: Die eigenen Gaben
+Ort und Zeit: Die eigenen Gaben
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Boten legen ihre persönlichen Goldstücke hinzu.
+Erzählertext: Die Abgesandten gaben ihr eigenes Gold dazu.
+Dialoge: keine
+Kontinuität / Änderung: Boten legen ihre persönlichen Goldstücke hinzu.
+
+KACHEL 8: Die größere Sammlung
+Ort und Zeit: Die größere Sammlung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weitere Menschen bringen kleine goldene Stücke.
+Erzählertext: Auch die Christen vor Ort sammelten. Die Waage blieb ungleich.
+Dialoge: keine
+Kontinuität / Änderung: Weitere Menschen bringen kleine goldene Stücke.
+
+KACHEL 9: Die alte Frau
+Ort und Zeit: Die alte Frau
+Sichtbare Figuren: Alte Frau an der Waage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei kleine Münzen auf ihrer offenen Hand.
+Erzählertext: Schließlich kam eine alte Frau mit nur zwei Pfennigen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei kleine Münzen auf ihrer offenen Hand.
+
+KACHEL 10: Die kleine Gabe
+Ort und Zeit: Die kleine Gabe
+Sichtbare Figuren: Alte Frau an der Waage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau zwei kleine Münzen fallen zur großen Menge.
+Erzählertext: Sie gab, was sie hatte.
+Dialoge: keine
+Kontinuität / Änderung: Genau zwei kleine Münzen fallen zur großen Menge.
+
+KACHEL 11: Die verkehrte Rechnung
+Ort und Zeit: Die verkehrte Rechnung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gold wird aus der Schale genommen, zwei kleine Münzen bleiben.
+Erzählertext: Da sank die Schale. Man musste das ganze Gold wieder entfernen.
+Dialoge: keine
+Kontinuität / Änderung: Gold wird aus der Schale genommen, zwei kleine Münzen bleiben.
+
+KACHEL 12: Das Gleichgewicht
+Ort und Zeit: Das Gleichgewicht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Waage im Gleichgewicht: verhüllte Bahre gegen genau zwei Münzen.
+Erzählertext: Allein die zwei Pfennige genügten. Die Legende wägt nicht nur Metall, sondern den Wert einer Gabe.
+Dialoge: keine
+Kontinuität / Änderung: Waage im Gleichgewicht: verhüllte Bahre gegen genau zwei Münzen.

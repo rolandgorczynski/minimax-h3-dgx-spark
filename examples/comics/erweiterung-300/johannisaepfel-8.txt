@@ -1,0 +1,90 @@
+TITEL: St. Johannisäpfel – Der grünende Stab
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Johann der Apfellegende
+Aussehen: Erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Graues Leinenhemd, braune Hose und Schuhe.
+Persönlichkeit und Vorgeschichte: Wird als Bauer zum Bischof berufen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Pilger der Apfellegende
+Aussehen: Älterer Mann mit weißem kurzem Bart.
+Kleidung: Brauner Reisemantel, ein dürrer Holzstab.
+Persönlichkeit und Vorgeschichte: Überbringt die unerwartete Berufung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Am Pflug
+Ort und Zeit: Am Pflug
+Sichtbare Figuren: Johann der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bauer neben abgestelltem Pflug, frische Erde.
+Erzählertext: Johann arbeitete auf seinem Acker.
+Dialoge: keine
+Kontinuität / Änderung: Ein Bauer neben abgestelltem Pflug, frische Erde.
+
+KACHEL 2: Der fremde Gruß
+Ort und Zeit: Der fremde Gruß
+Sichtbare Figuren: Johann der Apfellegende, Pilger der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf dem Feld.
+Erzählertext: Ein Pilger grüßte ihn als Bischof von Tongern.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene auf dem Feld.
+
+KACHEL 3: Die unvorstellbare Aufgabe
+Ort und Zeit: Die unvorstellbare Aufgabe
+Sichtbare Figuren: Johann der Apfellegende, Pilger der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauer blickt hinter sich, keine weitere Person im Feld.
+Erzählertext: Johann dachte, jemand anderes müsse gemeint sein.
+Dialoge: keine
+Kontinuität / Änderung: Bauer blickt hinter sich, keine weitere Person im Feld.
+
+KACHEL 4: Der unmögliche Vergleich
+Ort und Zeit: Der unmögliche Vergleich
+Sichtbare Figuren: Johann der Apfellegende, Pilger der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein trockener Stab zwischen zwei Erwachsenen.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Johann der Apfellegende
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „So wenig dieses Holz Früchte trägt, werde ich Bischof.“
+Kontinuität / Änderung: Ein trockener Stab zwischen zwei Erwachsenen.
+
+KACHEL 5: Der gepflanzte Stab
+Ort und Zeit: Der gepflanzte Stab
+Sichtbare Figuren: Pilger der Apfellegende, Johann der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Holzstab in einer frischen Furche.
+Erzählertext: Der Pilger stieß das Holz in den Boden.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Holzstab in einer frischen Furche.
+
+KACHEL 6: Die neue Blüte
+Ort und Zeit: Die neue Blüte
+Sichtbare Figuren: Johann der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Apfelbaum an genau der Stelle des Stabes, frische Blätter, Blüten und einige Äpfel als Wunderzeichen, kein zweiter Stab.
+Erzählertext: In der Legende grünte es, blühte und trug Äpfel.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Apfelbaum an genau der Stelle des Stabes, frische Blätter, Blüten und einige Äpfel als Wunderzeichen, kein zweiter Stab.
+
+KACHEL 7: Das angenommene Amt
+Ort und Zeit: Das angenommene Amt
+Sichtbare Figuren: Johann der Apfellegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe erwachsene Mann nun in hellem Bischofsgewand, Hände leer.
+Erzählertext: Johann wurde Bischof.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe erwachsene Mann nun in hellem Bischofsgewand, Hände leer.
+
+KACHEL 8: Die verbreitete Erinnerung
+Ort und Zeit: Die verbreitete Erinnerung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Junge Apfelbäume auf verschiedenen kleinen Parzellen, eine Fruchtschale vorn.
+Erzählertext: Schößlinge verbreiteten die Äpfel. Der sichtbare Wandel bewahrte die Erinnerung an die unerwartete Berufung.
+Dialoge: keine
+Kontinuität / Änderung: Junge Apfelbäume auf verschiedenen kleinen Parzellen, eine Fruchtschale vorn.

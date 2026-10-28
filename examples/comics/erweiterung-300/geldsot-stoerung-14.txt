@@ -1,0 +1,156 @@
+TITEL: Der Geldsot – Die letzte Antwort
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Hirte am Geldsot
+Aussehen: Alter Mann mit grauem Bart.
+Kleidung: Grauer Rock, schwarzer Dreispitz.
+Persönlichkeit und Vorgeschichte: Versenkt das Vermögen eines ausgestorbenen Dorfes.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Erster Schatzgräber
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Blaues Hemd, braune Hose.
+Persönlichkeit und Vorgeschichte: Arbeitet an der Winde.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Zweiter Schatzgräber
+Aussehen: Erwachsener Mann mit blondem Haar.
+Kleidung: Grünes Hemd, schwarze Hose.
+Persönlichkeit und Vorgeschichte: Hält das Seil.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dritter Schatzgräber
+Aussehen: Erwachsener Mann mit rotem Bart.
+Kleidung: Graues Hemd, braune Hose.
+Persönlichkeit und Vorgeschichte: Kann die spöttische Antwort nicht zurückhalten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das verstummte Dorf
+Ort und Zeit: Das verstummte Dorf
+Sichtbare Figuren: Hirte am Geldsot
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Hirte allein im verlassenen Dorf.
+Erzählertext: Nach Krieg und Seuche blieb nur der Hirte zurück.
+Dialoge: keine
+Kontinuität / Änderung: Ein alter Hirte allein im verlassenen Dorf.
+
+KACHEL 2: Das gesammelte Geld
+Ort und Zeit: Das gesammelte Geld
+Sichtbare Figuren: Hirte am Geldsot
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Münzen und verschlossene Truhe.
+Erzählertext: Er sammelte das zurückgelassene Vermögen.
+Dialoge: keine
+Kontinuität / Änderung: Münzen und verschlossene Truhe.
+
+KACHEL 3: Die Tiefe
+Ort und Zeit: Die Tiefe
+Sichtbare Figuren: Hirte am Geldsot
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verschlossene Truhe sinkt an Seil in den Quell.
+Erzählertext: Alles versenkte er im Brunnen. Später starb auch er.
+Dialoge: keine
+Kontinuität / Änderung: Verschlossene Truhe sinkt an Seil in den Quell.
+
+KACHEL 4: Der graue Wächter
+Ort und Zeit: Der graue Wächter
+Sichtbare Figuren: Hirte am Geldsot
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Geist mit Licht und schwarzem Hut.
+Erzählertext: Man meinte, ihn bei seinem Schatz zu sehen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Geist mit Licht und schwarzem Hut.
+
+KACHEL 5: Die Vereinbarung
+Ort und Zeit: Die Vereinbarung
+Sichtbare Figuren: Erster Schatzgräber, Zweiter Schatzgräber, Dritter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene mit Werkzeug.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Erster Schatzgräber
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Kein Wort, bis er oben ist.“
+Kontinuität / Änderung: Drei Erwachsene mit Werkzeug.
+
+KACHEL 6: Das Aufgraben
+Ort und Zeit: Das Aufgraben
+Sichtbare Figuren: Erster Schatzgräber, Zweiter Schatzgräber, Dritter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer, ein freigelegter großer Kessel.
+Erzählertext: Sie gruben und fanden einen schweren Braukessel.
+Dialoge: keine
+Kontinuität / Änderung: Drei Männer, ein freigelegter großer Kessel.
+
+KACHEL 7: Die Winde
+Ort und Zeit: Die Winde
+Sichtbare Figuren: Erster Schatzgräber, Zweiter Schatzgräber, Dritter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Seil an beiden Kesselösen, Holzbalken quer über Loch.
+Erzählertext: Mit einer Winde zogen sie ihn langsam hoch.
+Dialoge: keine
+Kontinuität / Änderung: Seil an beiden Kesselösen, Holzbalken quer über Loch.
+
+KACHEL 8: Die erste Ablenkung
+Ort und Zeit: Die erste Ablenkung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleiner Heuwagen mit genau sechs weißen Mäusen auf fernem Weg.
+Erzählertext: Ein Heuwagen rollte vorbei, von sechs weißen Mäusen gezogen.
+Dialoge: keine
+Kontinuität / Änderung: Ein kleiner Heuwagen mit genau sechs weißen Mäusen auf fernem Weg.
+
+KACHEL 9: Das gehaltene Schweigen
+Ort und Zeit: Das gehaltene Schweigen
+Sichtbare Figuren: Erster Schatzgräber, Zweiter Schatzgräber, Dritter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kessel knapp unter Brunnenrand.
+Erzählertext: Keiner sprach. Der Kessel stieg weiter.
+Dialoge: keine
+Kontinuität / Änderung: Kessel knapp unter Brunnenrand.
+
+KACHEL 10: Der seltsame Reiter
+Ort und Zeit: Der seltsame Reiter
+Sichtbare Figuren: Hirte am Geldsot
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sagenpferd ausdrücklich mit drei Beinen, schwarzer Dreispitz des Reiters.
+Erzählertext: Dann kam ein Reiter auf einem dreibeinigen Schimmel.
+Dialoge: keine
+Kontinuität / Änderung: Sagenpferd ausdrücklich mit drei Beinen, schwarzer Dreispitz des Reiters.
+
+KACHEL 11: Die Frage
+Ort und Zeit: Die Frage
+Sichtbare Figuren: Hirte am Geldsot, Dritter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reiter auf Abstand zur Winde.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Hirte am Geldsot
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hole ich den Heuwagen noch ein?“
+Kontinuität / Änderung: Reiter auf Abstand zur Winde.
+
+KACHEL 12: Der verlorene Vorsprung
+Ort und Zeit: Der verlorene Vorsprung
+Sichtbare Figuren: Dritter Schatzgräber, Erster Schatzgräber, Zweiter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Gräber, Kessel noch knapp unter Rand.
+Erzählertext: Einer spottete laut über das lahme Pferd. Das Schweigen war gebrochen.
+Dialoge: keine
+Kontinuität / Änderung: Drei Gräber, Kessel noch knapp unter Rand.
+
+KACHEL 13: Der Riss
+Ort und Zeit: Der Riss
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gebrochene Winde, schlaffes Seil, Kessel nicht mehr sichtbar.
+Erzählertext: Die Winde brach. Der Kessel versank.
+Dialoge: keine
+Kontinuität / Änderung: Gebrochene Winde, schlaffes Seil, Kessel nicht mehr sichtbar.
+
+KACHEL 14: Das letzte Wort
+Ort und Zeit: Das letzte Wort
+Sichtbare Figuren: Erster Schatzgräber, Zweiter Schatzgräber, Dritter Schatzgräber
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer ohne Schatz.
+Erzählertext: Kein späterer Versuch hob ihn. Die Antwort hatte mehr gekostet, als sie wert war.
+Dialoge: keine
+Kontinuität / Änderung: Drei Männer ohne Schatz.

@@ -1,0 +1,109 @@
+TITEL: König Abels Jagd – Der zehnte Hund
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: König Abel als Nachtjäger
+Aussehen: Dunkle geisterhafte Männergestalt mit grauem Bart.
+Kleidung: Schwarzer Jagdmantel, Horn.
+Persönlichkeit und Vorgeschichte: Jagt als Strafe ohne Ende.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Kuhhirtin bei Danewerk
+Aussehen: Junge erwachsene Frau mit braunem Zopf.
+Kleidung: Blaues Kleid. Ein weißes Tuch wird zuerst als Schürze, ab Kachel 4 als Kopfschutz getragen.
+Persönlichkeit und Vorgeschichte: Sucht Schutz und nimmt einen Hund auf.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hund aus Abels Jagd
+Aussehen: Kleiner weißer Dackel, vier Pfoten.
+Kleidung: Weißes Fell, keine Flammen nach seiner Rast.
+Persönlichkeit und Vorgeschichte: Verlässt den lärmenden Zug.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der verhängte Wunsch
+Ort und Zeit: Der verhängte Wunsch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geisterhafter Jagdzug fern über Wald.
+Erzählertext: Abel hatte sich ewige Jagd gewünscht. Die Sage macht daraus eine Strafe.
+Dialoge: keine
+Kontinuität / Änderung: Geisterhafter Jagdzug fern über Wald.
+
+KACHEL 2: Die Hirtin
+Ort und Zeit: Die Hirtin
+Sichtbare Figuren: Kuhhirtin bei Danewerk
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Hirtin vor Gehölz am Danewerk.
+Erzählertext: Eine junge Frau hütete dort ihre Kühe.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Hirtin vor Gehölz am Danewerk.
+
+KACHEL 3: Der Lärm
+Ort und Zeit: Der Lärm
+Sichtbare Figuren: König Abel als Nachtjäger
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit genau zehn kleinen weißen Hunden in der Luft.
+Erzählertext: Da kam Abels Jagd über sie hinweg.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter mit genau zehn kleinen weißen Hunden in der Luft.
+
+KACHEL 4: Der Schutz
+Ort und Zeit: Der Schutz
+Sichtbare Figuren: Kuhhirtin bei Danewerk
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weißes Schürztuch jetzt um ihren Kopf, nicht zugleich um die Hüfte.
+Erzählertext: Sie band ihr Schürztuch ab und hüllte den Kopf darin ein.
+Dialoge: keine
+Kontinuität / Änderung: Weißes Schürztuch jetzt um ihren Kopf, nicht zugleich um die Hüfte.
+
+KACHEL 5: Das Warten
+Ort und Zeit: Das Warten
+Sichtbare Figuren: Kuhhirtin bei Danewerk
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jagd zieht über Baumkrone, Hirtin bleibt am Boden.
+Erzählertext: Der Lärm umkreiste sie und zog weiter.
+Dialoge: keine
+Kontinuität / Änderung: Jagd zieht über Baumkrone, Hirtin bleibt am Boden.
+
+KACHEL 6: Der Zurückgebliebene
+Ort und Zeit: Der Zurückgebliebene
+Sichtbare Figuren: Kuhhirtin bei Danewerk, Hund aus Abels Jagd
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Dackel still im Schoß.
+Erzählertext: Einer der Hunde blieb zurück und legte sich zu ihr.
+Dialoge: keine
+Kontinuität / Änderung: Ein weißer Dackel still im Schoß.
+
+KACHEL 7: Die Ruhe
+Ort und Zeit: Die Ruhe
+Sichtbare Figuren: Kuhhirtin bei Danewerk, Hund aus Abels Jagd
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nahbild mit unverletztem Tier.
+Erzählertext: In ihrem Schoß war er kein Schrecken mehr.
+Dialoge: keine
+Kontinuität / Änderung: Nahbild mit unverletztem Tier.
+
+KACHEL 8: Der Heimweg
+Ort und Zeit: Der Heimweg
+Sichtbare Figuren: Kuhhirtin bei Danewerk, Hund aus Abels Jagd
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mensch und ein Hund auf Dorfweg, Schürztuch noch am Kopf.
+Erzählertext: Sie nahm ihn mit nach Danewerk.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mensch und ein Hund auf Dorfweg, Schürztuch noch am Kopf.
+
+KACHEL 9: Der kleinere Zug
+Ort und Zeit: Der kleinere Zug
+Sichtbare Figuren: König Abel als Nachtjäger
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit genau neun kleinen Hunden.
+Erzählertext: Abel jagte fortan nur noch mit neun Hunden.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter mit genau neun kleinen Hunden.
+
+KACHEL 10: Das andere Erbe
+Ort und Zeit: Das andere Erbe
+Sichtbare Figuren: Hund aus Abels Jagd
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißer Hund am Boden eines bewohnten Hauses.
+Erzählertext: Von diesem Hund, sagt man, stammen die dortigen Dackel. Nicht jeder blieb in der Jagd gefangen.
+Dialoge: keine
+Kontinuität / Änderung: Ein weißer Hund am Boden eines bewohnten Hauses.

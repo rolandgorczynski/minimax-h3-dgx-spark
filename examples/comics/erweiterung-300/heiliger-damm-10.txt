@@ -1,0 +1,88 @@
+TITEL: Der heilige Damm – Die dunkle Gestalt im Meer
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Die schwindende Küste
+Ort und Zeit: Die schwindende Küste
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Meer nagt an abbrechendem Ufersaum.
+Erzählertext: Bei Doberan nahm die Flut täglich ein Stück Land.
+Dialoge: keine
+Kontinuität / Änderung: Meer nagt an abbrechendem Ufersaum.
+
+KACHEL 2: Die nächsten Häuser
+Ort und Zeit: Die nächsten Häuser
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Häuser dicht hinter gefährdeter Uferkante.
+Erzählertext: Bald waren die ersten Häuser bedroht.
+Dialoge: keine
+Kontinuität / Änderung: Kleine Häuser dicht hinter gefährdeter Uferkante.
+
+KACHEL 3: Die gemeinsame Bitte
+Ort und Zeit: Die gemeinsame Bitte
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene beten in verschiedenen geöffneten Kirchenräumen als weiter Innenraum.
+Erzählertext: Im Land hielt man Betstunden ab.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene beten in verschiedenen geöffneten Kirchenräumen als weiter Innenraum.
+
+KACHEL 4: Die letzte Nacht
+Ort und Zeit: Die letzte Nacht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wache Menschen an dunklen Fenstern.
+Erzählertext: Viele erwarteten in dieser Nacht den Untergang.
+Dialoge: keine
+Kontinuität / Änderung: Wache Menschen an dunklen Fenstern.
+
+KACHEL 5: Das Zittern
+Ort und Zeit: Das Zittern
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blitze über hoher Brandung, Häuser unbeschädigt fern.
+Erzählertext: Die See donnerte, der Boden erzitterte.
+Dialoge: keine
+Kontinuität / Änderung: Blitze über hoher Brandung, Häuser unbeschädigt fern.
+
+KACHEL 6: Die neue Stille
+Ort und Zeit: Die neue Stille
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mond kommt hinter Wolken hervor.
+Erzählertext: Dann wurde es stiller.
+Dialoge: keine
+Kontinuität / Änderung: Mond kommt hinter Wolken hervor.
+
+KACHEL 7: Der dunkle Rücken
+Ort und Zeit: Der dunkle Rücken
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Langes dunkles Gebilde im Wasser, noch unklar erkennbar.
+Erzählertext: Manche hielten das Gebilde draußen für den Rücken des Kraken.
+Dialoge: keine
+Kontinuität / Änderung: Langes dunkles Gebilde im Wasser, noch unklar erkennbar.
+
+KACHEL 8: Das erste Licht
+Ort und Zeit: Das erste Licht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Morgenlicht enthüllt Kies- und Sandwall.
+Erzählertext: Am Morgen erkannten sie einen Wall.
+Dialoge: keine
+Kontinuität / Änderung: Morgenlicht enthüllt Kies- und Sandwall.
+
+KACHEL 9: Der zurückweichende Strand
+Ort und Zeit: Der zurückweichende Strand
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wasser zieht sich vor hohem neuem Küstendamm zurück.
+Erzählertext: Das Wasser verlief sich. Der neue Damm schützte das Land.
+Dialoge: keine
+Kontinuität / Änderung: Wasser zieht sich vor hohem neuem Küstendamm zurück.
+
+KACHEL 10: Der Name des Dankes
+Ort und Zeit: Der Name des Dankes
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewohner stehen sicher hinter weitem Küstenwall.
+Erzählertext: Die Sage erklärt ihn als göttliche Hilfe. Als heiliger Damm blieb er im Gedächtnis.
+Dialoge: keine
+Kontinuität / Änderung: Bewohner stehen sicher hinter weitem Küstenwall.

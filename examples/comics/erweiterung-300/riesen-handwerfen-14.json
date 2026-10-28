@@ -1,0 +1,560 @@
+{
+  "mode": "editorial",
+  "name": "Des Riesen Handwerfen – Die neue Grenze · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Des Riesen Handwerfen. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 137.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAm Scheldefluß hauste zu Julius Cäsars Zeiten ein Riese auf einem hohen Turme, soll Antigonus geheißen haben, der bewachte das Land und nahm allen, welche dort vorüberreisten oder über das Wasser setzen wollten, die Hälfte ihrer Güter als Zoll ab. Wollten sie den nicht entrichten, so mußten sie mit ihm kämpfen, und dann hieb er dem Besiegten jedesmal die rechte Hand ab und warf sie in die Schelde. Da kam ein Mann, der hieß Brabon, mit mehrern andern Gefährten an die Stelle der Überfahrt, und fanden allda den Knecht des Riesen auf der Wacht, der wehrte ihnen den Übergang; sie sollten erst mit dem Riesen, seinem Herrn, das Ihre teilen, oder sie müßten ihre rechte Hand lassen. Dazu war Brabon nicht geneigt, weder zum einen noch zum andern; darauf schlug der Knecht an eine Eisenstange, die gab tiefen Glockenschall, und da kam der Riese trutziglich vom Turme herunter und fragte: Wer ist es, der mit mir kämpfen will? – Ich allein! erwiderte Brabon, und alsbald begann der Kampf. Da fiel manch harter Kampf und schwerer Streich. Der Riese war ein starker Wigand, und wohin er schlug, wuchs kein Gras mehr. Endlich aber obsiegte ihm dennoch der mannhafte Held Brabon und schlug ihm erst die rechte Hand, hernach auch den Kopf ab, und nahm die Hand und warf sie über den breiten Strom und rief: So weit ich diese Hand werfe, so weit soll auch dieser Strom zu dem Lande gehören, das ich mir jetzt erkämpft! – Und ging, und dankte für seinen Sieg dem Kriegsgotte Mars, und brachte ihm Opfer in seinem Tempel. Und die Hand fiel in des Stromes Mitte, und das Land ward nach dem Helden Brabant geheißen, und die Hälfte der Schelde gehörte fortan zu Brabant.\n\nDa nun Julius Cäsar aus Britannien zurückkehrte, kam Brabon zu ihm und erzählte ihm sein Abenteuer mit dem Riesen Antigonus, den er im Ried an der Schelde erschlagen. Da lobte ihn der große Feldherr, und zog mit ihm nach dem Ort, und ließ dort eine Burg erbauen, und weihte sie und gab ihr und dem Lande große Rechte und Freiheiten, und machte Brabon zu einem Markgrafen des römischen Reiches. Der Ort aber ward von dem Handwerfen Handwerpen genannt und wuchs und ward groß und mächtig und ist jetzt die Stadt Antwerpen.\n\nDamals hat Julius Cäsar Turnhout gegründet und mit großen Freiheiten begabt, und nahe bei Löwen das Kaiserschloß gebaut. Da er mit dem Helden Brabon dort auf die Jagd ging, schoß er einen mächtig großen Adler und nahm das für ein glückverkündendes Orakel der Götter an. Darum gründete er an jenem Ort eine neue Kolonie und nannte sie Aarschuß, das heutige Aerschot.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Des Riesen Handwerfen. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 137.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAm Scheldefluß hauste zu Julius Cäsars Zeiten ein Riese auf einem hohen Turme, soll Antigonus geheißen haben, der bewachte das Land und nahm allen, welche dort vorüberreisten oder über das Wasser setzen wollten, die Hälfte ihrer Güter als Zoll ab. Wollten sie den nicht entrichten, so mußten sie mit ihm kämpfen, und dann hieb er dem Besiegten jedesmal die rechte Hand ab und warf sie in die Schelde. Da kam ein Mann, der hieß Brabon, mit mehrern andern Gefährten an die Stelle der Überfahrt, und fanden allda den Knecht des Riesen auf der Wacht, der wehrte ihnen den Übergang; sie sollten erst mit dem Riesen, seinem Herrn, das Ihre teilen, oder sie müßten ihre rechte Hand lassen. Dazu war Brabon nicht geneigt, weder zum einen noch zum andern; darauf schlug der Knecht an eine Eisenstange, die gab tiefen Glockenschall, und da kam der Riese trutziglich vom Turme herunter und fragte: Wer ist es, der mit mir kämpfen will? – Ich allein! erwiderte Brabon, und alsbald begann der Kampf. Da fiel manch harter Kampf und schwerer Streich. Der Riese war ein starker Wigand, und wohin er schlug, wuchs kein Gras mehr. Endlich aber obsiegte ihm dennoch der mannhafte Held Brabon und schlug ihm erst die rechte Hand, hernach auch den Kopf ab, und nahm die Hand und warf sie über den breiten Strom und rief: So weit ich diese Hand werfe, so weit soll auch dieser Strom zu dem Lande gehören, das ich mir jetzt erkämpft! – Und ging, und dankte für seinen Sieg dem Kriegsgotte Mars, und brachte ihm Opfer in seinem Tempel. Und die Hand fiel in des Stromes Mitte, und das Land ward nach dem Helden Brabant geheißen, und die Hälfte der Schelde gehörte fortan zu Brabant.\n\nDa nun Julius Cäsar aus Britannien zurückkehrte, kam Brabon zu ihm und erzählte ihm sein Abenteuer mit dem Riesen Antigonus, den er im Ried an der Schelde erschlagen. Da lobte ihn der große Feldherr, und zog mit ihm nach dem Ort, und ließ dort eine Burg erbauen, und weihte sie und gab ihr und dem Lande große Rechte und Freiheiten, und machte Brabon zu einem Markgrafen des römischen Reiches. Der Ort aber ward von dem Handwerfen Handwerpen genannt und wuchs und ward groß und mächtig und ist jetzt die Stadt Antwerpen.\n\nDamals hat Julius Cäsar Turnhout gegründet und mit großen Freiheiten begabt, und nahe bei Löwen das Kaiserschloß gebaut. Da er mit dem Helden Brabon dort auf die Jagd ging, schoß er einen mächtig großen Adler und nahm das für ein glückverkündendes Orakel der Götter an. Darum gründete er an jenem Ort eine neue Kolonie und nannte sie Aarschuß, das heutige Aerschot.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Die Überfahrt",
+        "setting": "Die Überfahrt",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hoher Turm an der Schelde, wartende Reisende mit Bündeln am Ufer.",
+        "dialog": "Antigonus verlangte von Reisenden die Hälfte ihrer Güter.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Hoher Turm an der Schelde, wartende Reisende mit Bündeln am Ufer.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die Drohung",
+        "setting": "Die Drohung",
+        "characters": [
+          "31d889b966035d218388b8fe74acb20e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riese versperrt Erwachsenen den Weg, Hände leer, keine Verstümmelung.",
+        "dialog": "Wer nicht zahlte, sollte kämpfen und die rechte Hand verlieren.",
+        "bubbles": [],
+        "character_states": {
+          "31d889b966035d218388b8fe74acb20e": "steht vor der Überfahrt; Braunes Fellwams, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Riese versperrt Erwachsenen den Weg, Hände leer, keine Verstümmelung.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die Drohung",
+            "posture": "steht vor der Überfahrt"
+          }
+        }
+      },
+      {
+        "heading": "Die Ankunft",
+        "setting": "Die Ankunft",
+        "characters": [
+          "228ca908a36158f684acb716b9950466"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein gerüsteter Mann mit eingesteckter Klinge vor einer eisernen Signalstange.",
+        "dialog": "Brabon wollte weder Habe noch Hand hergeben.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "steht vor namenlosem Wächter; Grauer Harnisch, grüner Überwurf; genau ein Schwert links eingesteckt, beide Hände ohne Schwert.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein gerüsteter Mann mit eingesteckter Klinge vor einer eisernen Signalstange.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die Drohung",
+            "posture": "steht vor der Überfahrt"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "kein Schwert in der Hand; einzige Klinge in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert links eingesteckt, beide Hände ohne Schwert.",
+            "location": "Die Ankunft",
+            "posture": "steht vor namenlosem Wächter"
+          }
+        }
+      },
+      {
+        "heading": "Das Signal",
+        "setting": "Das Signal",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine eiserne Stange wird von einem namenlosen Erwachsenen angeschlagen, Turmtür fern.",
+        "dialog": "Der Knecht rief den Riesen mit tiefem Klang.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Eine eiserne Stange wird von einem namenlosen Erwachsenen angeschlagen, Turmtür fern.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die Drohung",
+            "posture": "steht vor der Überfahrt"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "kein Schwert in der Hand; einzige Klinge in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert links eingesteckt, beide Hände ohne Schwert.",
+            "location": "Die Ankunft",
+            "posture": "steht vor namenlosem Wächter"
+          }
+        }
+      },
+      {
+        "heading": "Die Herausforderung",
+        "setting": "Die Herausforderung",
+        "characters": [
+          "228ca908a36158f684acb716b9950466",
+          "31d889b966035d218388b8fe74acb20e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsener Ritter und Riese auf derselben Uferfläche, keine Kinderproportionen.",
+        "dialog": "Brabon stellte sich ihm allein.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "steht links; Grauer Harnisch, grüner Überwurf; genau ein Schwert links eingesteckt, beide Hände ohne Schwert.; Lebenszustand: lebend",
+          "31d889b966035d218388b8fe74acb20e": "steht rechts; Braunes Fellwams, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Erwachsener Ritter und Riese auf derselben Uferfläche, keine Kinderproportionen.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die Herausforderung",
+            "posture": "steht rechts"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "kein Schwert in der Hand; einzige Klinge in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert links eingesteckt, beide Hände ohne Schwert.",
+            "location": "Die Herausforderung",
+            "posture": "steht links"
+          }
+        }
+      },
+      {
+        "heading": "Die gezogene Klinge",
+        "setting": "Die gezogene Klinge",
+        "characters": [
+          "228ca908a36158f684acb716b9950466",
+          "31d889b966035d218388b8fe74acb20e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge in Brabons rechter Hand, linke Scheide leer, Riese mit zwei sichtbaren Armen.",
+        "dialog": "Ein schwerer Kampf begann.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "hält rechts sein Schwert; Grauer Harnisch, grüner Überwurf; linke Schwertscheide sichtbar leer, einziges Schwert rechts gezogen.; Lebenszustand: lebend",
+          "31d889b966035d218388b8fe74acb20e": "steht in Gegenhaltung; Braunes Fellwams, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine Klinge in Brabons rechter Hand, linke Scheide leer, Riese mit zwei sichtbaren Armen.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "genau ein Schwert in der rechten Hand; keine zweite Klinge",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; linke Schwertscheide sichtbar leer, einziges Schwert rechts gezogen.",
+            "location": "Die gezogene Klinge",
+            "posture": "hält rechts sein Schwert"
+          }
+        }
+      },
+      {
+        "heading": "Der wechselnde Vorteil",
+        "setting": "Der wechselnde Vorteil",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kampfkonturen hinter einem Uferfelsen, kein Blutkontakt oder Gliedmaßenbild.",
+        "dialog": "Die Kraft des Riesen machte den Ausgang lange ungewiss.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Kampfkonturen hinter einem Uferfelsen, kein Blutkontakt oder Gliedmaßenbild.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "genau ein Schwert in der rechten Hand; keine zweite Klinge",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; linke Schwertscheide sichtbar leer, einziges Schwert rechts gezogen.",
+            "location": "Die gezogene Klinge",
+            "posture": "hält rechts sein Schwert"
+          }
+        }
+      },
+      {
+        "heading": "Der Besiegte",
+        "setting": "Der Besiegte",
+        "characters": [
+          "228ca908a36158f684acb716b9950466"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter allein im Vordergrund, Riese vollständig hinter Felsen verdeckt.",
+        "dialog": "Schließlich tötete Brabon Antigonus.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "steht mit gesenkter Klinge; Grauer Harnisch, grüner Überwurf; linke Schwertscheide sichtbar leer, einziges Schwert rechts gezogen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ritter allein im Vordergrund, Riese vollständig hinter Felsen verdeckt.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "genau ein Schwert in der rechten Hand; keine zweite Klinge",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; linke Schwertscheide sichtbar leer, einziges Schwert rechts gezogen.",
+            "location": "Der Besiegte",
+            "posture": "steht mit gesenkter Klinge"
+          }
+        }
+      },
+      {
+        "heading": "Die wiederholte Grausamkeit",
+        "setting": "Die wiederholte Grausamkeit",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dunkles verhülltes Bündel am Ufer, keine sichtbare Hand oder Kopf.",
+        "dialog": "Dem Riesen schlug er die rechte Hand ab. Er übernahm damit die grausame Geste seines Gegners.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein dunkles verhülltes Bündel am Ufer, keine sichtbare Hand oder Kopf.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "genau ein Schwert in der rechten Hand; keine zweite Klinge",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; linke Schwertscheide sichtbar leer, einziges Schwert rechts gezogen.",
+            "location": "Der Besiegte",
+            "posture": "steht mit gesenkter Klinge"
+          }
+        }
+      },
+      {
+        "heading": "Der Handwurf",
+        "setting": "Der Handwurf",
+        "characters": [
+          "228ca908a36158f684acb716b9950466"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann nach einem Wurf, kein Körperteil im Bild, ein Wellenring in Flussmitte. Klinge wieder links eingesteckt.",
+        "dialog": "So weit der Wurf reiche, beanspruchte er den Strom für sein gewonnenes Land.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "steht mit ausgestrecktem rechtem Arm; Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann nach einem Wurf, kein Körperteil im Bild, ein Wellenring in Flussmitte. Klinge wieder links eingesteckt.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "Hände ohne Schwert, einzige Klinge wieder in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.",
+            "location": "Der Handwurf",
+            "posture": "steht mit ausgestrecktem rechtem Arm"
+          }
+        }
+      },
+      {
+        "heading": "Die freie Überfahrt",
+        "setting": "Die freie Überfahrt",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Reisende gehen zum Ufer, Erpresserturm verlassen.",
+        "dialog": "Die Überfahrt war befreit. Zugleich entstand eine neue Grenze unter einem neuen Herrn.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Erwachsene Reisende gehen zum Ufer, Erpresserturm verlassen.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "Hände ohne Schwert, einzige Klinge wieder in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.",
+            "location": "Der Handwurf",
+            "posture": "steht mit ausgestrecktem rechtem Arm"
+          }
+        }
+      },
+      {
+        "heading": "Vor Cäsar",
+        "setting": "Vor Cäsar",
+        "characters": [
+          "228ca908a36158f684acb716b9950466",
+          "e6619c1505265ebba912483c7fc790c9"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ufer, keine erfundene antike Stadt im Vollausbau.",
+        "dialog": "Cäsar lobte nach der Sage seinen Sieg.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "steht vor dem Feldherrn; Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.; Lebenszustand: lebend",
+          "e6619c1505265ebba912483c7fc790c9": "hört zu; Schlichter römischer Feldherrnmantel, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Erwachsene am Ufer, keine erfundene antike Stadt im Vollausbau.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "Hände ohne Schwert, einzige Klinge wieder in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.",
+            "location": "Vor Cäsar",
+            "posture": "steht vor dem Feldherrn"
+          },
+          "e6619c1505265ebba912483c7fc790c9": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichter römischer Feldherrnmantel, Sandalen.",
+            "location": "Vor Cäsar",
+            "posture": "hört zu"
+          }
+        }
+      },
+      {
+        "heading": "Der bestätigte Rang",
+        "setting": "Der bestätigte Rang",
+        "characters": [
+          "228ca908a36158f684acb716b9950466",
+          "e6619c1505265ebba912483c7fc790c9"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor niedrigem Burgenbau, Hände leer.",
+        "dialog": "Burg, Rechte und Rang sollten Brabons Stellung festigen.",
+        "bubbles": [],
+        "character_states": {
+          "228ca908a36158f684acb716b9950466": "steht neben Cäsar; Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.; Lebenszustand: lebend",
+          "e6619c1505265ebba912483c7fc790c9": "zeigt zum Bauplatz; Schlichter römischer Feldherrnmantel, Sandalen.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer vor niedrigem Burgenbau, Hände leer.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "Hände ohne Schwert, einzige Klinge wieder in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.",
+            "location": "Der bestätigte Rang",
+            "posture": "steht neben Cäsar"
+          },
+          "e6619c1505265ebba912483c7fc790c9": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichter römischer Feldherrnmantel, Sandalen.",
+            "location": "Der bestätigte Rang",
+            "posture": "zeigt zum Bauplatz"
+          }
+        }
+      },
+      {
+        "heading": "Der Name am Strom",
+        "setting": "Der Name am Strom",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frühe Ansiedlung mit Flussübergang, kein buchstäblicher Handregen.",
+        "dialog": "Antwerpen erklärt die Sage aus dem Handwerfen. Die Befreiung und der neue Machtanspruch bleiben beide Teil des Anfangs.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Frühe Ansiedlung mit Flussübergang, kein buchstäblicher Handregen.",
+        "continuity_state": {
+          "31d889b966035d218388b8fe74acb20e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Braunes Fellwams, graue Hose.",
+            "location": "Die gezogene Klinge",
+            "posture": "steht in Gegenhaltung"
+          },
+          "228ca908a36158f684acb716b9950466": {
+            "held": "Hände ohne Schwert, einzige Klinge wieder in linker Scheide",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Harnisch, grüner Überwurf; genau ein Schwert wieder links eingesteckt.",
+            "location": "Der bestätigte Rang",
+            "posture": "steht neben Cäsar"
+          },
+          "e6619c1505265ebba912483c7fc790c9": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schlichter römischer Feldherrnmantel, Sandalen.",
+            "location": "Der bestätigte Rang",
+            "posture": "zeigt zum Bauplatz"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Brabon der Antwerpener Sage",
+        "description": "Erwachsener Mann mit kurzem braunem Bart.",
+        "outfit": "Grauer Harnisch, grüner Überwurf. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.",
+        "backstory": "Besiegt den Riesen und gewinnt eigene Herrschaft.",
+        "id": "228ca908a36158f684acb716b9950466",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Antigonus an der Schelde",
+        "description": "Sehr großer erwachsener Mann mit dunklem Vollbart, zwei Armen und zwei Beinen.",
+        "outfit": "Braunes Fellwams, graue Hose.",
+        "backstory": "Erpresst Reisende und bestraft Verweigerer grausam.",
+        "id": "31d889b966035d218388b8fe74acb20e",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Cäsar der Brabonsage",
+        "description": "Erwachsener Mann mit kurzem dunklem Haar, bartlos.",
+        "outfit": "Schlichter römischer Feldherrnmantel, Sandalen.",
+        "backstory": "Bestätigt in der Ursprungssage Brabons Stellung.",
+        "id": "e6619c1505265ebba912483c7fc790c9",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Endet die Herrschaft der Gewalt, wenn der Sieger dieselbe Strafe gegen den Besiegten richtet?",
+      "core": "Brabon beendet den erpresserischen Zoll des Riesen. Dass er dessen Hand abschlägt und daraus seinen eigenen Anspruch ableitet, macht den Übergang zu neuer Macht ambivalent.",
+      "ending": "Der Riese ist besiegt; Handwurf und zugesprochene Rechte begründen in der Sage Antwerpen und Brabons Stellung.",
+      "reason": "Zollzwang, Herausforderung, Kampf und Machtwechsel tragen den Hauptbogen. Weitere Stadtgründungen nur im knappen Nachklang; die Vergeltung nicht als ungebrochene Gewaltverherrlichung inszenieren.",
+      "meaning_type": "Offene Frage",
+      "evidence": [
+        {
+          "event": "die Hälfte ihrer Güter als Zoll",
+          "meaning": "Die Überfahrt wird durch Gewalt und willkürliche Forderungen beherrscht."
+        }
+      ],
+      "causal_chain": [
+        "die Hälfte ihrer Güter als Zoll",
+        "Der Riese ist besiegt; Handwurf und zugesprochene Rechte begründen in der Sage Antwerpen und Brabons Stellung."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "c7a81bd33e7666b40b232671462c4a33635c3284c748940ace49b1d729dad234",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:06:50.957766+00:00"
+    },
+    "post_summary": "Brabon befreit die Überfahrt vom erpresserischen Riesen. Aus dessen grausamer Strafe formt er anschließend seinen eigenen Machtanspruch.",
+    "source_provenance": {
+      "title": "Des Riesen Handwerfen",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 137.",
+      "url": "https://textgridrep.org/browse/kjdq.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Des Riesen Handwerfen. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 137.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nAm Scheldefluß hauste zu Julius Cäsars Zeiten ein Riese auf einem hohen Turme, soll Antigonus geheißen haben, der bewachte das Land und nahm allen, welche dort vorüberreisten oder über das Wasser setzen wollten, die Hälfte ihrer Güter als Zoll ab. Wollten sie den nicht entrichten, so mußten sie mit ihm kämpfen, und dann hieb er dem Besiegten jedesmal die rechte Hand ab und warf sie in die Schelde. Da kam ein Mann, der hieß Brabon, mit mehrern andern Gefährten an die Stelle der Überfahrt, und fanden allda den Knecht des Riesen auf der Wacht, der wehrte ihnen den Übergang; sie sollten erst mit dem Riesen, seinem Herrn, das Ihre teilen, oder sie müßten ihre rechte Hand lassen. Dazu war Brabon nicht geneigt, weder zum einen noch zum andern; darauf schlug der Knecht an eine Eisenstange, die gab tiefen Glockenschall, und da kam der Riese trutziglich vom Turme herunter und fragte: Wer ist es, der mit mir kämpfen will? – Ich allein! erwiderte Brabon, und alsbald begann der Kampf. Da fiel manch harter Kampf und schwerer Streich. Der Riese war ein starker Wigand, und wohin er schlug, wuchs kein Gras mehr. Endlich aber obsiegte ihm dennoch der mannhafte Held Brabon und schlug ihm erst die rechte Hand, hernach auch den Kopf ab, und nahm die Hand und warf sie über den breiten Strom und rief: So weit ich diese Hand werfe, so weit soll auch dieser Strom zu dem Lande gehören, das ich mir jetzt erkämpft! – Und ging, und dankte für seinen Sieg dem Kriegsgotte Mars, und brachte ihm Opfer in seinem Tempel. Und die Hand fiel in des Stromes Mitte, und das Land ward nach dem Helden Brabant geheißen, und die Hälfte der Schelde gehörte fortan zu Brabant.\n\nDa nun Julius Cäsar aus Britannien zurückkehrte, kam Brabon zu ihm und erzählte ihm sein Abenteuer mit dem Riesen Antigonus, den er im Ried an der Schelde erschlagen. Da lobte ihn der große Feldherr, und zog mit ihm nach dem Ort, und ließ dort eine Burg erbauen, und weihte sie und gab ihr und dem Lande große Rechte und Freiheiten, und machte Brabon zu einem Markgrafen des römischen Reiches. Der Ort aber ward von dem Handwerfen Handwerpen genannt und wuchs und ward groß und mächtig und ist jetzt die Stadt Antwerpen.\n\nDamals hat Julius Cäsar Turnhout gegründet und mit großen Freiheiten begabt, und nahe bei Löwen das Kaiserschloß gebaut. Da er mit dem Helden Brabon dort auf die Jagd ging, schoß er einen mächtig großen Adler und nahm das für ein glückverkündendes Orakel der Götter an. Darum gründete er an jenem Ort eine neue Kolonie und nannte sie Aarschuß, das heutige Aerschot.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Am Scheldefluß hauste zu Julius Cäsars Zeiten ein Riese auf einem hohen Turme, soll Antigonus geheißen haben, der bewachte das Land und nahm allen, welche dort vorüberreisten oder über das Wasser setzen wollten, die Hälfte ihrer Güter als Zoll ab.",
+      "id": "bechstein-sagen-kjdq-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "riesen-handwerfen-14-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Des Riesen Handwerfen – Die neue Grenze · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Des Riesen Handwerfen – Die neue Grenze\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Brabon der Antwerpener Sage\nAussehen: Erwachsener Mann mit kurzem braunem Bart.\nKleidung: Grauer Harnisch, grüner Überwurf. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.\nPersönlichkeit und Vorgeschichte: Besiegt den Riesen und gewinnt eigene Herrschaft.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Antigonus an der Schelde\nAussehen: Sehr großer erwachsener Mann mit dunklem Vollbart, zwei Armen und zwei Beinen.\nKleidung: Braunes Fellwams, graue Hose.\nPersönlichkeit und Vorgeschichte: Erpresst Reisende und bestraft Verweigerer grausam.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Cäsar der Brabonsage\nAussehen: Erwachsener Mann mit kurzem dunklem Haar, bartlos.\nKleidung: Schlichter römischer Feldherrnmantel, Sandalen.\nPersönlichkeit und Vorgeschichte: Bestätigt in der Ursprungssage Brabons Stellung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Überfahrt\nOrt und Zeit: Die Überfahrt\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hoher Turm an der Schelde, wartende Reisende mit Bündeln am Ufer.\nErzählertext: Antigonus verlangte von Reisenden die Hälfte ihrer Güter.\nDialoge: keine\nKontinuität / Änderung: Hoher Turm an der Schelde, wartende Reisende mit Bündeln am Ufer.\n\nKACHEL 2: Die Drohung\nOrt und Zeit: Die Drohung\nSichtbare Figuren: Antigonus an der Schelde\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riese versperrt Erwachsenen den Weg, Hände leer, keine Verstümmelung.\nErzählertext: Wer nicht zahlte, sollte kämpfen und die rechte Hand verlieren.\nDialoge: keine\nKontinuität / Änderung: Riese versperrt Erwachsenen den Weg, Hände leer, keine Verstümmelung.\n\nKACHEL 3: Die Ankunft\nOrt und Zeit: Die Ankunft\nSichtbare Figuren: Brabon der Antwerpener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein gerüsteter Mann mit eingesteckter Klinge vor einer eisernen Signalstange.\nErzählertext: Brabon wollte weder Habe noch Hand hergeben.\nDialoge: keine\nKontinuität / Änderung: Ein gerüsteter Mann mit eingesteckter Klinge vor einer eisernen Signalstange.\n\nKACHEL 4: Das Signal\nOrt und Zeit: Das Signal\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine eiserne Stange wird von einem namenlosen Erwachsenen angeschlagen, Turmtür fern.\nErzählertext: Der Knecht rief den Riesen mit tiefem Klang.\nDialoge: keine\nKontinuität / Änderung: Eine eiserne Stange wird von einem namenlosen Erwachsenen angeschlagen, Turmtür fern.\n\nKACHEL 5: Die Herausforderung\nOrt und Zeit: Die Herausforderung\nSichtbare Figuren: Brabon der Antwerpener Sage, Antigonus an der Schelde\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsener Ritter und Riese auf derselben Uferfläche, keine Kinderproportionen.\nErzählertext: Brabon stellte sich ihm allein.\nDialoge: keine\nKontinuität / Änderung: Erwachsener Ritter und Riese auf derselben Uferfläche, keine Kinderproportionen.\n\nKACHEL 6: Die gezogene Klinge\nOrt und Zeit: Die gezogene Klinge\nSichtbare Figuren: Brabon der Antwerpener Sage, Antigonus an der Schelde\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge in Brabons rechter Hand, linke Scheide leer, Riese mit zwei sichtbaren Armen.\nErzählertext: Ein schwerer Kampf begann.\nDialoge: keine\nKontinuität / Änderung: Eine Klinge in Brabons rechter Hand, linke Scheide leer, Riese mit zwei sichtbaren Armen.\n\nKACHEL 7: Der wechselnde Vorteil\nOrt und Zeit: Der wechselnde Vorteil\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kampfkonturen hinter einem Uferfelsen, kein Blutkontakt oder Gliedmaßenbild.\nErzählertext: Die Kraft des Riesen machte den Ausgang lange ungewiss.\nDialoge: keine\nKontinuität / Änderung: Kampfkonturen hinter einem Uferfelsen, kein Blutkontakt oder Gliedmaßenbild.\n\nKACHEL 8: Der Besiegte\nOrt und Zeit: Der Besiegte\nSichtbare Figuren: Brabon der Antwerpener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter allein im Vordergrund, Riese vollständig hinter Felsen verdeckt.\nErzählertext: Schließlich tötete Brabon Antigonus.\nDialoge: keine\nKontinuität / Änderung: Ritter allein im Vordergrund, Riese vollständig hinter Felsen verdeckt.\n\nKACHEL 9: Die wiederholte Grausamkeit\nOrt und Zeit: Die wiederholte Grausamkeit\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dunkles verhülltes Bündel am Ufer, keine sichtbare Hand oder Kopf.\nErzählertext: Dem Riesen schlug er die rechte Hand ab. Er übernahm damit die grausame Geste seines Gegners.\nDialoge: keine\nKontinuität / Änderung: Ein dunkles verhülltes Bündel am Ufer, keine sichtbare Hand oder Kopf.\n\nKACHEL 10: Der Handwurf\nOrt und Zeit: Der Handwurf\nSichtbare Figuren: Brabon der Antwerpener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann nach einem Wurf, kein Körperteil im Bild, ein Wellenring in Flussmitte. Klinge wieder links eingesteckt.\nErzählertext: So weit der Wurf reiche, beanspruchte er den Strom für sein gewonnenes Land.\nDialoge: keine\nKontinuität / Änderung: Ein Mann nach einem Wurf, kein Körperteil im Bild, ein Wellenring in Flussmitte. Klinge wieder links eingesteckt.\n\nKACHEL 11: Die freie Überfahrt\nOrt und Zeit: Die freie Überfahrt\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Reisende gehen zum Ufer, Erpresserturm verlassen.\nErzählertext: Die Überfahrt war befreit. Zugleich entstand eine neue Grenze unter einem neuen Herrn.\nDialoge: keine\nKontinuität / Änderung: Erwachsene Reisende gehen zum Ufer, Erpresserturm verlassen.\n\nKACHEL 12: Vor Cäsar\nOrt und Zeit: Vor Cäsar\nSichtbare Figuren: Brabon der Antwerpener Sage, Cäsar der Brabonsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ufer, keine erfundene antike Stadt im Vollausbau.\nErzählertext: Cäsar lobte nach der Sage seinen Sieg.\nDialoge: keine\nKontinuität / Änderung: Zwei Erwachsene am Ufer, keine erfundene antike Stadt im Vollausbau.\n\nKACHEL 13: Der bestätigte Rang\nOrt und Zeit: Der bestätigte Rang\nSichtbare Figuren: Brabon der Antwerpener Sage, Cäsar der Brabonsage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor niedrigem Burgenbau, Hände leer.\nErzählertext: Burg, Rechte und Rang sollten Brabons Stellung festigen.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer vor niedrigem Burgenbau, Hände leer.\n\nKACHEL 14: Der Name am Strom\nOrt und Zeit: Der Name am Strom\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frühe Ansiedlung mit Flussübergang, kein buchstäblicher Handregen.\nErzählertext: Antwerpen erklärt die Sage aus dem Handwerfen. Die Befreiung und der neue Machtanspruch bleiben beide Teil des Anfangs.\nDialoge: keine\nKontinuität / Änderung: Frühe Ansiedlung mit Flussübergang, kein buchstäblicher Handregen.\n"
+  },
+  "count_policy": "editorial"
+}

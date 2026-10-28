@@ -1,0 +1,79 @@
+TITEL: Das Teufelsgitter – Das falsche Schuldbuch
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Priester mit dem Schuldbuch
+Aussehen: Erwachsener Mann mit grauem Haar.
+Kleidung: Schwarzes schlichtes Geistlichengewand.
+Persönlichkeit und Vorgeschichte: Erfindet Forderungen, um Diebstahl vor sich selbst umzubenennen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das berühmte Gitter
+Ort und Zeit: Das berühmte Gitter
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kunstvolles geschlossenes Eisengitter um einen Taufstein.
+Erzählertext: Wismar erzählte von einem Gitter, das mit Teufelshilfe geschaffen worden sei.
+Dialoge: keine
+Kontinuität / Änderung: Kunstvolles geschlossenes Eisengitter um einen Taufstein.
+
+KACHEL 2: Die andere Geschichte
+Ort und Zeit: Die andere Geschichte
+Sichtbare Figuren: Priester mit dem Schuldbuch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Priester schreibt an Tisch; Gitter nicht im Raum.
+Erzählertext: Dieselbe Überlieferung berichtet auch von einem menschlichen Betrug.
+Dialoge: keine
+Kontinuität / Änderung: Priester schreibt an Tisch; Gitter nicht im Raum.
+
+KACHEL 3: Die erfundenen Forderungen
+Ort und Zeit: Die erfundenen Forderungen
+Sichtbare Figuren: Priester mit dem Schuldbuch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine lesbare Schrift, Münzen fehlen noch.
+Erzählertext: Der Priester schrieb reiche Stadtbewohner als angebliche Schuldner auf.
+Dialoge: keine
+Kontinuität / Änderung: Keine lesbare Schrift, Münzen fehlen noch.
+
+KACHEL 4: Die heimliche Einnahme
+Ort und Zeit: Die heimliche Einnahme
+Sichtbare Figuren: Priester mit dem Schuldbuch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine entnommene Münzhand, keine Gewalt.
+Erzählertext: Dann bestahl er sie.
+Dialoge: keine
+Kontinuität / Änderung: Eine entnommene Münzhand, keine Gewalt.
+
+KACHEL 5: Die saubere Buchung
+Ort und Zeit: Die saubere Buchung
+Sichtbare Figuren: Priester mit dem Schuldbuch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Münzen neben offener Buchseite.
+Erzählertext: Im Buch vermerkte er den Diebstahl wie eine erhaltene Zahlung.
+Dialoge: keine
+Kontinuität / Änderung: Münzen neben offener Buchseite.
+
+KACHEL 6: Die lange Gewohnheit
+Ort und Zeit: Die lange Gewohnheit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abgenutztes Buch neben mehreren verschlossenen Beuteln.
+Erzählertext: Jahrelang gab seine Buchführung dem Übergriff die Sprache eines Anspruchs.
+Dialoge: keine
+Kontinuität / Änderung: Abgenutztes Buch neben mehreren verschlossenen Beuteln.
+
+KACHEL 7: Die Entdeckung
+Ort und Zeit: Die Entdeckung
+Sichtbare Figuren: Priester mit dem Schuldbuch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geöffnetes Buch auf Amtstisch.
+Erzählertext: Schließlich kam die Praxis ans Licht.
+Dialoge: keine
+Kontinuität / Änderung: Geöffnetes Buch auf Amtstisch.
+
+KACHEL 8: Das wirkliche Gitter
+Ort und Zeit: Das wirkliche Gitter
+Sichtbare Figuren: Priester mit dem Schuldbuch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schlichtes funktionales Gitter, keine teuflische Erscheinung.
+Erzählertext: Er erhielt lebenslanges Gefängnis. Hier war kein Teufel nötig gewesen.
+Dialoge: keine
+Kontinuität / Änderung: Schlichtes funktionales Gitter, keine teuflische Erscheinung.

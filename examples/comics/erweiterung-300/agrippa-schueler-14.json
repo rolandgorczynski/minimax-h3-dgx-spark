@@ -1,0 +1,804 @@
+{
+  "mode": "editorial",
+  "name": "Vom Zauberer Agrippa – Der gerettete Schein · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Vom Zauberer Agrippa. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 142.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDer weit berufene Zauberer Henricus Cornelius Agrippa wohnte zu Löwen, er führte stets einen schwarzen Hund mit sich, der ihm auf dem Fuße folgte, wie dem Doktor Faust sein Hund Prästigiar; mochten wohl beide von einer Art abstammen, und hieß des Agrippa Hund Paradrius. Dieser weise Meister der Magie, Agrippa, hatte stets einen Schüler, dem er die schwarze Kunst lehrte, und der ihm als Famulus diente. Nun trug sich mit einem dieser Schüler folgendes zu. Der Meister mußte verreisen, und der Schüler, den er damals gerade hatte, war noch zu unerfahren, als daß der Meister ihn hätte in seine Heimlichkeit blicken lassen können oder wollen. Er gab daher beim Abschied den Schlüssel zu seinem Studierzimmer der Hausfrau und befahl ihr bei Leib und Leben, keinen Menschen in dasselbe einzulassen. Kaum aber war der Meister hinweg, so bat der Schüler die Frau, ihn in des Meisters Zimmer zu lassen, denn er war neugierig und brauchte allerlei Vorwand, und ob auch anfangs die Frau widerstand, so gab sie endlich doch nach und ließ den Schüler ein. Da lag das große Zauberbuch des Meisters auf seinem Pult an einer Kette, damit es keiner wegtrage. Neugierig trat der Jüngling hinzu, schlug das Buch auf und begann darinnen zu lesen, er wußte aber kaum, daß das, was er las, eine Beschwörungsformel war. Da klopfte es an die Türe. Jener überhörte das Klopfen und las weiter. Es klopfte noch einmal, aber jener hörte wieder nicht, er las immer weiter. Da sprang die Türe auf, und es trat ein höllischer Geist ein, fürchterlich anzusehen, und fragte: Was rufst du mich? Was soll ich dir tun? – Der Schüler bebte, als die übermächtige Erscheinung vor ihm stand, er vermochte nicht zu sprechen – das Entsetzen faßte ihn, er konnte auch den Geist nicht wieder hinwegbannen, zürnend hob der Geist die Hand, und der Schüler sank entseelt zu Boden. Das alles sahe in der Ferne der Zauberer Agrippa in seinem Erdspiegel und eilte flugs nach Hause zurück, rief einen dienstbaren Geist und gebot ihm, in die Leiche zu fahren und aus dem Hause zu wandeln, damit es nicht heiße, als sei bei ihm sein Schüler umgekommen, dann aber wieder von dem Körper zu weichen. Diesem Gebot gehorchte der Geist, und der Schüler wandelte wieder, wie lebend, durch die Straßen. Aber an einer Ecke fiel er um, denn der Geist hatte ihn wieder verlassen, und jedermann konnte nicht anders glauben, als daß ihn erst an dieser Stelle ein jäher Tod befallen.\n\nDa es mit Henricus Cornelius Agrippa zum Sterben kam, verfluchte er seinen Hund und rief: Packe dich hinweg, du, meiner Verdammnis Schuld und Urheber! – Und nach dem Tode des Meisters ist der Hund hinweggekommen, niemand wußte wohin. Einige sagen, er sei in das Wasser gesprungen und seit der Zeit nicht mehr gesehen worden, andere sagen, Agrippa habe den Hund vor seinem Ableben an einen Freund verschenkt, dem dann der Hund, gleich dem vorigen Herrn, auf eine Zeit habe dienen müssen. Es hatte jedoch mit solcher Gabe gar ein nachdenkliches Aber.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Vom Zauberer Agrippa. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 142.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDer weit berufene Zauberer Henricus Cornelius Agrippa wohnte zu Löwen, er führte stets einen schwarzen Hund mit sich, der ihm auf dem Fuße folgte, wie dem Doktor Faust sein Hund Prästigiar; mochten wohl beide von einer Art abstammen, und hieß des Agrippa Hund Paradrius. Dieser weise Meister der Magie, Agrippa, hatte stets einen Schüler, dem er die schwarze Kunst lehrte, und der ihm als Famulus diente. Nun trug sich mit einem dieser Schüler folgendes zu. Der Meister mußte verreisen, und der Schüler, den er damals gerade hatte, war noch zu unerfahren, als daß der Meister ihn hätte in seine Heimlichkeit blicken lassen können oder wollen. Er gab daher beim Abschied den Schlüssel zu seinem Studierzimmer der Hausfrau und befahl ihr bei Leib und Leben, keinen Menschen in dasselbe einzulassen. Kaum aber war der Meister hinweg, so bat der Schüler die Frau, ihn in des Meisters Zimmer zu lassen, denn er war neugierig und brauchte allerlei Vorwand, und ob auch anfangs die Frau widerstand, so gab sie endlich doch nach und ließ den Schüler ein. Da lag das große Zauberbuch des Meisters auf seinem Pult an einer Kette, damit es keiner wegtrage. Neugierig trat der Jüngling hinzu, schlug das Buch auf und begann darinnen zu lesen, er wußte aber kaum, daß das, was er las, eine Beschwörungsformel war. Da klopfte es an die Türe. Jener überhörte das Klopfen und las weiter. Es klopfte noch einmal, aber jener hörte wieder nicht, er las immer weiter. Da sprang die Türe auf, und es trat ein höllischer Geist ein, fürchterlich anzusehen, und fragte: Was rufst du mich? Was soll ich dir tun? – Der Schüler bebte, als die übermächtige Erscheinung vor ihm stand, er vermochte nicht zu sprechen – das Entsetzen faßte ihn, er konnte auch den Geist nicht wieder hinwegbannen, zürnend hob der Geist die Hand, und der Schüler sank entseelt zu Boden. Das alles sahe in der Ferne der Zauberer Agrippa in seinem Erdspiegel und eilte flugs nach Hause zurück, rief einen dienstbaren Geist und gebot ihm, in die Leiche zu fahren und aus dem Hause zu wandeln, damit es nicht heiße, als sei bei ihm sein Schüler umgekommen, dann aber wieder von dem Körper zu weichen. Diesem Gebot gehorchte der Geist, und der Schüler wandelte wieder, wie lebend, durch die Straßen. Aber an einer Ecke fiel er um, denn der Geist hatte ihn wieder verlassen, und jedermann konnte nicht anders glauben, als daß ihn erst an dieser Stelle ein jäher Tod befallen.\n\nDa es mit Henricus Cornelius Agrippa zum Sterben kam, verfluchte er seinen Hund und rief: Packe dich hinweg, du, meiner Verdammnis Schuld und Urheber! – Und nach dem Tode des Meisters ist der Hund hinweggekommen, niemand wußte wohin. Einige sagen, er sei in das Wasser gesprungen und seit der Zeit nicht mehr gesehen worden, andere sagen, Agrippa habe den Hund vor seinem Ableben an einen Freund verschenkt, dem dann der Hund, gleich dem vorigen Herrn, auf eine Zeit habe dienen müssen. Es hatte jedoch mit solcher Gabe gar ein nachdenkliches Aber.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 14,
+    "panel_count": 14,
+    "scenes": [
+      {
+        "heading": "Der gelehrte Haushalt",
+        "setting": "Der gelehrte Haushalt",
+        "characters": [
+          "cfdb47d83ec85437b065fd0649052ad8",
+          "37a3240bb98b583faf51e5f299c60764",
+          "bccd49c920485e65b94af4582c8c357b"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, ein angekettetes Buch auf Pult, schwarzer Hund an der Schwelle.",
+        "dialog": "Agrippa hatte einen Schüler, der ihm diente und lernen sollte.",
+        "bubbles": [],
+        "character_states": {
+          "cfdb47d83ec85437b065fd0649052ad8": "steht am Lesepult; Dunkelgrüner Gelehrtenrock.; Lebenszustand: lebend",
+          "37a3240bb98b583faf51e5f299c60764": "steht daneben; Graues Wams und braune Hose.; Lebenszustand: lebend",
+          "bccd49c920485e65b94af4582c8c357b": "sitzt an der Tür; Schwarzes natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Männer, ein angekettetes Buch auf Pult, schwarzer Hund an der Schwelle.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "steht am Lesepult"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "steht daneben"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          }
+        }
+      },
+      {
+        "heading": "Der verwahrte Schlüssel",
+        "setting": "Der verwahrte Schlüssel",
+        "characters": [
+          "cfdb47d83ec85437b065fd0649052ad8",
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Schlüssel zwischen zwei Erwachsenen.",
+        "dialog": "Vor der Reise verbot er den Zugang zum Studierzimmer.",
+        "bubbles": [],
+        "character_states": {
+          "cfdb47d83ec85437b065fd0649052ad8": "reicht der Frau einen Schlüssel; Dunkelgrüner Gelehrtenrock.; Lebenszustand: lebend",
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": "nimmt ihn an; Blaues Kleid, graue Schürze.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein einzelner Schlüssel zwischen zwei Erwachsenen.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "steht daneben"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "nimmt ihn an"
+          }
+        }
+      },
+      {
+        "heading": "Das Drängen",
+        "setting": "Das Drängen",
+        "characters": [
+          "37a3240bb98b583faf51e5f299c60764",
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schüler links bittet, Frau rechts zögert.",
+        "dialog": "Kaum war er fort, suchte der Schüler einen Vorwand, hineinzukommen.",
+        "bubbles": [],
+        "character_states": {
+          "37a3240bb98b583faf51e5f299c60764": "steht vor der Frau; Graues Wams und braune Hose.; Lebenszustand: lebend",
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": "hält den Schlüssel; Blaues Kleid, graue Schürze.; Lebenszustand: lebend"
+        },
+        "continuity": "Schüler links bittet, Frau rechts zögert.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Das Drängen",
+            "posture": "steht vor der Frau"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Die geöffnete Tür",
+        "setting": "Die geöffnete Tür",
+        "characters": [
+          "37a3240bb98b583faf51e5f299c60764"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann am offenen Raum, Schlüssel außerhalb, Buch auf seinem Pult.",
+        "dialog": "Die Frau gab nach.",
+        "bubbles": [],
+        "character_states": {
+          "37a3240bb98b583faf51e5f299c60764": "steht im Studierzimmer; Graues Wams und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein junger Mann am offenen Raum, Schlüssel außerhalb, Buch auf seinem Pult.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Die geöffnete Tür",
+            "posture": "steht im Studierzimmer"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Die unbekannten Worte",
+        "setting": "Die unbekannten Worte",
+        "characters": [
+          "37a3240bb98b583faf51e5f299c60764"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geöffnetes historisches Buch ohne lesbare Beschwörungsformel.",
+        "dialog": "Er las, ohne die Wirkung zu verstehen.",
+        "bubbles": [],
+        "character_states": {
+          "37a3240bb98b583faf51e5f299c60764": "steht lesend am Buch; Graues Wams und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein geöffnetes historisches Buch ohne lesbare Beschwörungsformel.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Die unbekannten Worte",
+            "posture": "steht lesend am Buch"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Das erste Klopfen",
+        "setting": "Das erste Klopfen",
+        "characters": [
+          "37a3240bb98b583faf51e5f299c60764"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann liest, Tür geschlossen hinter ihm, keine Erscheinung bereits daneben.",
+        "dialog": "Es klopfte. Er las weiter.",
+        "bubbles": [],
+        "character_states": {
+          "37a3240bb98b583faf51e5f299c60764": "bleibt am Pult; Graues Wams und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Mann liest, Tür geschlossen hinter ihm, keine Erscheinung bereits daneben.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Das erste Klopfen",
+            "posture": "bleibt am Pult"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Die geöffnete Schwelle",
+        "setting": "Die geöffnete Schwelle",
+        "characters": [
+          "37a3240bb98b583faf51e5f299c60764"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dunkler namenloser Geisterumriss füllt den Türrahmen, kein blutiges Wesen.",
+        "dialog": "Der gerufene Geist verlangte einen Auftrag. Der Schüler wusste weder zu antworten noch ihn zu entlassen.",
+        "bubbles": [],
+        "character_states": {
+          "37a3240bb98b583faf51e5f299c60764": "steht erstarrt; Graues Wams und braune Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein dunkler namenloser Geisterumriss füllt den Türrahmen, kein blutiges Wesen.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Die geöffnete Schwelle",
+            "posture": "steht erstarrt"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Der Tod im Zimmer",
+        "setting": "Der Tod im Zimmer",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stilles Pult, graues Gewand hinter einer Bank verdeckt am Boden, keine Verletzung.",
+        "dialog": "Der Geist tötete ihn.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Stilles Pult, graues Gewand hinter einer Bank verdeckt am Boden, keine Verletzung.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der verwahrte Schlüssel",
+            "posture": "reicht der Frau einen Schlüssel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Die geöffnete Schwelle",
+            "posture": "steht erstarrt"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Der ferne Blick",
+        "setting": "Der ferne Blick",
+        "characters": [
+          "cfdb47d83ec85437b065fd0649052ad8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann betrachtet einen einzelnen Spiegel, kein zweiter echter Schüler im Raum.",
+        "dialog": "Agrippa erkannte das Geschehen im Zauberspiegel und eilte zurück.",
+        "bubbles": [],
+        "character_states": {
+          "cfdb47d83ec85437b065fd0649052ad8": "schaut in einen dunklen Spiegel; Dunkelgrüner Gelehrtenrock.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein alter Mann betrachtet einen einzelnen Spiegel, kein zweiter echter Schüler im Raum.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der ferne Blick",
+            "posture": "schaut in einen dunklen Spiegel"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Die geöffnete Schwelle",
+            "posture": "steht erstarrt"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Der neue Befehl",
+        "setting": "Der neue Befehl",
+        "characters": [
+          "cfdb47d83ec85437b065fd0649052ad8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Meister vor verhülltem Körper, eine schemenhafte Dienstgestalt in Abstand.",
+        "dialog": "Er ließ einen dienstbaren Geist den toten Körper bewegen.",
+        "bubbles": [],
+        "character_states": {
+          "cfdb47d83ec85437b065fd0649052ad8": "steht im Studierzimmer; Dunkelgrüner Gelehrtenrock.; Lebenszustand: lebend"
+        },
+        "continuity": "Meister vor verhülltem Körper, eine schemenhafte Dienstgestalt in Abstand.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der neue Befehl",
+            "posture": "steht im Studierzimmer"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Die geöffnete Schwelle",
+            "posture": "steht erstarrt"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Der scheinbar Lebende",
+        "setting": "Der scheinbar Lebende",
+        "characters": [
+          "37a3240bb98b583faf51e5f299c60764"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann mit starrem Gesicht und geschlossenem Gewand, kein wiedergewonnener Lebensglanz.",
+        "dialog": "So wurde der Schüler aus dem Haus geführt.",
+        "bubbles": [],
+        "character_states": {
+          "37a3240bb98b583faf51e5f299c60764": "geht starr durch eine Straße; Graues Wams und braune Hose.; Lebenszustand: tot, nur von einem Geist bewegt"
+        },
+        "continuity": "Ein junger Mann mit starrem Gesicht und geschlossenem Gewand, kein wiedergewonnener Lebensglanz.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der neue Befehl",
+            "posture": "steht im Studierzimmer"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot, nur von einem Geist bewegt",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Der scheinbar Lebende",
+            "posture": "geht starr durch eine Straße"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "An der Straßenecke",
+        "setting": "An der Straßenecke",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Straßenecke, abgelegte graue Kleidung im Schatten einer Bank.",
+        "dialog": "Draußen ließ der Geist von ihm. Man hielt es für einen plötzlichen Tod an dieser Stelle.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leere Straßenecke, abgelegte graue Kleidung im Schatten einer Bank.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der neue Befehl",
+            "posture": "steht im Studierzimmer"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot; bewegender Geist fort",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Der scheinbar Lebende",
+            "posture": "geht starr durch eine Straße"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Der geschützte Ruf",
+        "setting": "Der geschützte Ruf",
+        "characters": [
+          "cfdb47d83ec85437b065fd0649052ad8"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gelehrter im stillen Studierzimmer, Schüler fehlt, Kette am Buch.",
+        "dialog": "Der Schein schützte den Meister. Verantwortung hatte er damit nicht übernommen.",
+        "bubbles": [],
+        "character_states": {
+          "cfdb47d83ec85437b065fd0649052ad8": "sitzt allein vor dem geschlossenen Buch; Dunkelgrüner Gelehrtenrock.; Lebenszustand: lebend"
+        },
+        "continuity": "Gelehrter im stillen Studierzimmer, Schüler fehlt, Kette am Buch.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der geschützte Ruf",
+            "posture": "sitzt allein vor dem geschlossenen Buch"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot; bewegender Geist fort",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Der scheinbar Lebende",
+            "posture": "geht starr durch eine Straße"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der gelehrte Haushalt",
+            "posture": "sitzt an der Tür"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      },
+      {
+        "heading": "Der spätere Abschied",
+        "setting": "Der spätere Abschied",
+        "characters": [
+          "bccd49c920485e65b94af4582c8c357b"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schwarzer Hund allein auf einem Weg, kein sichtbarer höllischer Schlund.",
+        "dialog": "Auch Agrippa starb später. Was aus seinem Hund wurde, erzählen die Fassungen verschieden.",
+        "bubbles": [],
+        "character_states": {
+          "bccd49c920485e65b94af4582c8c357b": "geht allein zum Stadtrand; Schwarzes natürliches Fell.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein schwarzer Hund allein auf einem Weg, kein sichtbarer höllischer Schlund.",
+        "continuity_state": {
+          "cfdb47d83ec85437b065fd0649052ad8": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelgrüner Gelehrtenrock.",
+            "location": "Der geschützte Ruf",
+            "posture": "sitzt allein vor dem geschlossenen Buch"
+          },
+          "37a3240bb98b583faf51e5f299c60764": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "tot; bewegender Geist fort",
+            "injury": "unverletzt",
+            "clothing": "Graues Wams und braune Hose.",
+            "location": "Der scheinbar Lebende",
+            "posture": "geht starr durch eine Straße"
+          },
+          "bccd49c920485e65b94af4582c8c357b": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes natürliches Fell.",
+            "location": "Der spätere Abschied",
+            "posture": "geht allein zum Stadtrand"
+          },
+          "db8fb76aed4c5c968d0c9e0f1aa80e0e": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Kleid, graue Schürze.",
+            "location": "Das Drängen",
+            "posture": "hält den Schlüssel"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Agrippa der Löwener Sage",
+        "description": "Älterer Mann mit langem grauem Bart.",
+        "outfit": "Dunkelgrüner Gelehrtenrock.",
+        "backstory": "Besitzt gefährliches Wissen und verbirgt später die Verantwortung.",
+        "id": "cfdb47d83ec85437b065fd0649052ad8",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Agrippas Schüler",
+        "description": "Junger erwachsener Mann mit braunem kurzem Haar.",
+        "outfit": "Graues Wams und braune Hose.",
+        "backstory": "Verwechselt Zugang zum Buch mit dem Können, seine Wirkung zu beenden.",
+        "id": "37a3240bb98b583faf51e5f299c60764",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Hausfrau bei Agrippa",
+        "description": "Erwachsene Frau mit dunklem Zopf.",
+        "outfit": "Blaues Kleid, graue Schürze.",
+        "backstory": "Bewahrt den Schlüssel, gibt aber dem Drängen des Schülers nach.",
+        "id": "db8fb76aed4c5c968d0c9e0f1aa80e0e",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Paradrius",
+        "description": "Ein schwarzer Hund mit vier Beinen und einem Schwanz.",
+        "outfit": "Schwarzes natürliches Fell.",
+        "backstory": "Begleiter des Meisters, kein nachgewiesener wirklicher Dämon.",
+        "id": "bccd49c920485e65b94af4582c8c357b",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was bedeutet Verantwortung, wenn ein Wissender lieber seinen Ruf rettet als die Wahrheit offenlegt?",
+      "core": "Der Schüler verwechselt Zugang zu gefährlichem Wissen mit dessen Beherrschung. Agrippas Reaktion zeigt eine zweite Verfehlung: Er verbirgt den Tod, statt Verantwortung dafür sichtbar zu übernehmen.",
+      "ending": "Der tote Schüler wird nur aus dem Haus geführt und bricht draußen zusammen; Agrippas Ansehen wird durch einen Schein geschützt.",
+      "reason": "Abwesenheit, Schlüssel, unbeherrschte Beschwörung, Tod und verdeckende Rückkehr bilden den Kern. Die spätere Hundesage nicht zur Ursache dieses Unglücks machen.",
+      "meaning_type": "Offene Frage",
+      "evidence": [
+        {
+          "event": "damit es nicht heiße, als sei bei ihm sein Schüler umgekommen",
+          "meaning": "Die scheinbare Wiederbelebung dient der Vertuschung und ist keine Rettung."
+        }
+      ],
+      "causal_chain": [
+        "damit es nicht heiße, als sei bei ihm sein Schüler umgekommen",
+        "Der tote Schüler wird nur aus dem Haus geführt und bricht draußen zusammen; Agrippas Ansehen wird durch einen Schein geschützt."
+      ],
+      "recommended_count": 14,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "7ff0503dd2fd09c6c4ff6c652a903532f4988b5478fbdffa48e9f5ce2e255d9a",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:06:50.957958+00:00"
+    },
+    "post_summary": "Ein Schüler öffnet ein Buch, das er nicht beherrscht. Der Meister kümmert sich danach vor allem darum, wo man den Toten findet.",
+    "source_provenance": {
+      "title": "Vom Zauberer Agrippa",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 142.",
+      "url": "https://textgridrep.org/browse/khkg.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Vom Zauberer Agrippa. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 142.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDer weit berufene Zauberer Henricus Cornelius Agrippa wohnte zu Löwen, er führte stets einen schwarzen Hund mit sich, der ihm auf dem Fuße folgte, wie dem Doktor Faust sein Hund Prästigiar; mochten wohl beide von einer Art abstammen, und hieß des Agrippa Hund Paradrius. Dieser weise Meister der Magie, Agrippa, hatte stets einen Schüler, dem er die schwarze Kunst lehrte, und der ihm als Famulus diente. Nun trug sich mit einem dieser Schüler folgendes zu. Der Meister mußte verreisen, und der Schüler, den er damals gerade hatte, war noch zu unerfahren, als daß der Meister ihn hätte in seine Heimlichkeit blicken lassen können oder wollen. Er gab daher beim Abschied den Schlüssel zu seinem Studierzimmer der Hausfrau und befahl ihr bei Leib und Leben, keinen Menschen in dasselbe einzulassen. Kaum aber war der Meister hinweg, so bat der Schüler die Frau, ihn in des Meisters Zimmer zu lassen, denn er war neugierig und brauchte allerlei Vorwand, und ob auch anfangs die Frau widerstand, so gab sie endlich doch nach und ließ den Schüler ein. Da lag das große Zauberbuch des Meisters auf seinem Pult an einer Kette, damit es keiner wegtrage. Neugierig trat der Jüngling hinzu, schlug das Buch auf und begann darinnen zu lesen, er wußte aber kaum, daß das, was er las, eine Beschwörungsformel war. Da klopfte es an die Türe. Jener überhörte das Klopfen und las weiter. Es klopfte noch einmal, aber jener hörte wieder nicht, er las immer weiter. Da sprang die Türe auf, und es trat ein höllischer Geist ein, fürchterlich anzusehen, und fragte: Was rufst du mich? Was soll ich dir tun? – Der Schüler bebte, als die übermächtige Erscheinung vor ihm stand, er vermochte nicht zu sprechen – das Entsetzen faßte ihn, er konnte auch den Geist nicht wieder hinwegbannen, zürnend hob der Geist die Hand, und der Schüler sank entseelt zu Boden. Das alles sahe in der Ferne der Zauberer Agrippa in seinem Erdspiegel und eilte flugs nach Hause zurück, rief einen dienstbaren Geist und gebot ihm, in die Leiche zu fahren und aus dem Hause zu wandeln, damit es nicht heiße, als sei bei ihm sein Schüler umgekommen, dann aber wieder von dem Körper zu weichen. Diesem Gebot gehorchte der Geist, und der Schüler wandelte wieder, wie lebend, durch die Straßen. Aber an einer Ecke fiel er um, denn der Geist hatte ihn wieder verlassen, und jedermann konnte nicht anders glauben, als daß ihn erst an dieser Stelle ein jäher Tod befallen.\n\nDa es mit Henricus Cornelius Agrippa zum Sterben kam, verfluchte er seinen Hund und rief: Packe dich hinweg, du, meiner Verdammnis Schuld und Urheber! – Und nach dem Tode des Meisters ist der Hund hinweggekommen, niemand wußte wohin. Einige sagen, er sei in das Wasser gesprungen und seit der Zeit nicht mehr gesehen worden, andere sagen, Agrippa habe den Hund vor seinem Ableben an einen Freund verschenkt, dem dann der Hund, gleich dem vorigen Herrn, auf eine Zeit habe dienen müssen. Es hatte jedoch mit solcher Gabe gar ein nachdenkliches Aber.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Der weit berufene Zauberer Henricus Cornelius Agrippa wohnte zu Löwen, er führte stets einen schwarzen Hund mit sich, der ihm auf dem Fuße folgte, wie dem Doktor Faust sein Hund Prästigiar; mochten wohl beide von einer Art abstammen, und hieß des Agrippa Hund Paradrius.",
+      "id": "bechstein-sagen-khkg-0",
+      "category": "Teufel und Zauberei",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "agrippa-schueler-14-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Vom Zauberer Agrippa – Der gerettete Schein · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Vom Zauberer Agrippa – Der gerettete Schein\nAUTOR: Sysop\nKACHELANZAHL: 14\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Agrippa der Löwener Sage\nAussehen: Älterer Mann mit langem grauem Bart.\nKleidung: Dunkelgrüner Gelehrtenrock.\nPersönlichkeit und Vorgeschichte: Besitzt gefährliches Wissen und verbirgt später die Verantwortung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Agrippas Schüler\nAussehen: Junger erwachsener Mann mit braunem kurzem Haar.\nKleidung: Graues Wams und braune Hose.\nPersönlichkeit und Vorgeschichte: Verwechselt Zugang zum Buch mit dem Können, seine Wirkung zu beenden.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Hausfrau bei Agrippa\nAussehen: Erwachsene Frau mit dunklem Zopf.\nKleidung: Blaues Kleid, graue Schürze.\nPersönlichkeit und Vorgeschichte: Bewahrt den Schlüssel, gibt aber dem Drängen des Schülers nach.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Paradrius\nAussehen: Ein schwarzer Hund mit vier Beinen und einem Schwanz.\nKleidung: Schwarzes natürliches Fell.\nPersönlichkeit und Vorgeschichte: Begleiter des Meisters, kein nachgewiesener wirklicher Dämon.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Der gelehrte Haushalt\nOrt und Zeit: Der gelehrte Haushalt\nSichtbare Figuren: Agrippa der Löwener Sage, Agrippas Schüler, Paradrius\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, ein angekettetes Buch auf Pult, schwarzer Hund an der Schwelle.\nErzählertext: Agrippa hatte einen Schüler, der ihm diente und lernen sollte.\nDialoge: keine\nKontinuität / Änderung: Zwei Männer, ein angekettetes Buch auf Pult, schwarzer Hund an der Schwelle.\n\nKACHEL 2: Der verwahrte Schlüssel\nOrt und Zeit: Der verwahrte Schlüssel\nSichtbare Figuren: Agrippa der Löwener Sage, Hausfrau bei Agrippa\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Schlüssel zwischen zwei Erwachsenen.\nErzählertext: Vor der Reise verbot er den Zugang zum Studierzimmer.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Schlüssel zwischen zwei Erwachsenen.\n\nKACHEL 3: Das Drängen\nOrt und Zeit: Das Drängen\nSichtbare Figuren: Agrippas Schüler, Hausfrau bei Agrippa\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schüler links bittet, Frau rechts zögert.\nErzählertext: Kaum war er fort, suchte der Schüler einen Vorwand, hineinzukommen.\nDialoge: keine\nKontinuität / Änderung: Schüler links bittet, Frau rechts zögert.\n\nKACHEL 4: Die geöffnete Tür\nOrt und Zeit: Die geöffnete Tür\nSichtbare Figuren: Agrippas Schüler\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann am offenen Raum, Schlüssel außerhalb, Buch auf seinem Pult.\nErzählertext: Die Frau gab nach.\nDialoge: keine\nKontinuität / Änderung: Ein junger Mann am offenen Raum, Schlüssel außerhalb, Buch auf seinem Pult.\n\nKACHEL 5: Die unbekannten Worte\nOrt und Zeit: Die unbekannten Worte\nSichtbare Figuren: Agrippas Schüler\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geöffnetes historisches Buch ohne lesbare Beschwörungsformel.\nErzählertext: Er las, ohne die Wirkung zu verstehen.\nDialoge: keine\nKontinuität / Änderung: Ein geöffnetes historisches Buch ohne lesbare Beschwörungsformel.\n\nKACHEL 6: Das erste Klopfen\nOrt und Zeit: Das erste Klopfen\nSichtbare Figuren: Agrippas Schüler\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann liest, Tür geschlossen hinter ihm, keine Erscheinung bereits daneben.\nErzählertext: Es klopfte. Er las weiter.\nDialoge: keine\nKontinuität / Änderung: Ein Mann liest, Tür geschlossen hinter ihm, keine Erscheinung bereits daneben.\n\nKACHEL 7: Die geöffnete Schwelle\nOrt und Zeit: Die geöffnete Schwelle\nSichtbare Figuren: Agrippas Schüler\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dunkler namenloser Geisterumriss füllt den Türrahmen, kein blutiges Wesen.\nErzählertext: Der gerufene Geist verlangte einen Auftrag. Der Schüler wusste weder zu antworten noch ihn zu entlassen.\nDialoge: keine\nKontinuität / Änderung: Ein dunkler namenloser Geisterumriss füllt den Türrahmen, kein blutiges Wesen.\n\nKACHEL 8: Der Tod im Zimmer\nOrt und Zeit: Der Tod im Zimmer\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stilles Pult, graues Gewand hinter einer Bank verdeckt am Boden, keine Verletzung.\nErzählertext: Der Geist tötete ihn.\nDialoge: keine\nKontinuität / Änderung: Stilles Pult, graues Gewand hinter einer Bank verdeckt am Boden, keine Verletzung.\n\nKACHEL 9: Der ferne Blick\nOrt und Zeit: Der ferne Blick\nSichtbare Figuren: Agrippa der Löwener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann betrachtet einen einzelnen Spiegel, kein zweiter echter Schüler im Raum.\nErzählertext: Agrippa erkannte das Geschehen im Zauberspiegel und eilte zurück.\nDialoge: keine\nKontinuität / Änderung: Ein alter Mann betrachtet einen einzelnen Spiegel, kein zweiter echter Schüler im Raum.\n\nKACHEL 10: Der neue Befehl\nOrt und Zeit: Der neue Befehl\nSichtbare Figuren: Agrippa der Löwener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Meister vor verhülltem Körper, eine schemenhafte Dienstgestalt in Abstand.\nErzählertext: Er ließ einen dienstbaren Geist den toten Körper bewegen.\nDialoge: keine\nKontinuität / Änderung: Meister vor verhülltem Körper, eine schemenhafte Dienstgestalt in Abstand.\n\nKACHEL 11: Der scheinbar Lebende\nOrt und Zeit: Der scheinbar Lebende\nSichtbare Figuren: Agrippas Schüler\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann mit starrem Gesicht und geschlossenem Gewand, kein wiedergewonnener Lebensglanz.\nErzählertext: So wurde der Schüler aus dem Haus geführt.\nDialoge: keine\nKontinuität / Änderung: Ein junger Mann mit starrem Gesicht und geschlossenem Gewand, kein wiedergewonnener Lebensglanz.\n\nKACHEL 12: An der Straßenecke\nOrt und Zeit: An der Straßenecke\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Straßenecke, abgelegte graue Kleidung im Schatten einer Bank.\nErzählertext: Draußen ließ der Geist von ihm. Man hielt es für einen plötzlichen Tod an dieser Stelle.\nDialoge: keine\nKontinuität / Änderung: Leere Straßenecke, abgelegte graue Kleidung im Schatten einer Bank.\n\nKACHEL 13: Der geschützte Ruf\nOrt und Zeit: Der geschützte Ruf\nSichtbare Figuren: Agrippa der Löwener Sage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gelehrter im stillen Studierzimmer, Schüler fehlt, Kette am Buch.\nErzählertext: Der Schein schützte den Meister. Verantwortung hatte er damit nicht übernommen.\nDialoge: keine\nKontinuität / Änderung: Gelehrter im stillen Studierzimmer, Schüler fehlt, Kette am Buch.\n\nKACHEL 14: Der spätere Abschied\nOrt und Zeit: Der spätere Abschied\nSichtbare Figuren: Paradrius\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schwarzer Hund allein auf einem Weg, kein sichtbarer höllischer Schlund.\nErzählertext: Auch Agrippa starb später. Was aus seinem Hund wurde, erzählen die Fassungen verschieden.\nDialoge: keine\nKontinuität / Änderung: Ein schwarzer Hund allein auf einem Weg, kein sichtbarer höllischer Schlund.\n"
+  },
+  "count_policy": "editorial"
+}

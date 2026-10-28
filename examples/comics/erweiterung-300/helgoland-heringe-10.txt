@@ -1,0 +1,95 @@
+TITEL: Das heilige Land – Der weggefegte Segen
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Alte Helgoländerin
+Aussehen: Alte Frau mit grauem Haar.
+Kleidung: Braunes Wollkleid, weißes Kopftuch.
+Persönlichkeit und Vorgeschichte: Fegt in einer Sagenvariante den reichen Fang zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Insel
+Ort und Zeit: Die Insel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Grünes Plateau, rote Felskante, weißer Strand.
+Erzählertext: Helgoland heißt in der Überlieferung auch das heilige Land.
+Dialoge: keine
+Kontinuität / Änderung: Grünes Plateau, rote Felskante, weißer Strand.
+
+KACHEL 2: Die vielen Menschen
+Ort und Zeit: Die vielen Menschen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Belebte alte Fischersiedlung am Hafen.
+Erzählertext: Die Insel ernährte einst viele Bewohner vom Heringsfang.
+Dialoge: keine
+Kontinuität / Änderung: Belebte alte Fischersiedlung am Hafen.
+
+KACHEL 3: Der volle Strand
+Ort und Zeit: Der volle Strand
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dichter Heringsfang in Netzen am Strand, keine Tierquälerei.
+Erzählertext: In dieser Sagenvariante gab es mehr Fisch, als sich verarbeiten ließ.
+Dialoge: keine
+Kontinuität / Änderung: Dichter Heringsfang in Netzen am Strand, keine Tierquälerei.
+
+KACHEL 4: Zu wenig Vorrat
+Ort und Zeit: Zu wenig Vorrat
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Salzschale und wenige Fässer neben gefüllten Körben.
+Erzählertext: Tonnen und Salz reichten nicht.
+Dialoge: keine
+Kontinuität / Änderung: Leere Salzschale und wenige Fässer neben gefüllten Körben.
+
+KACHEL 5: Die Verärgerung
+Ort und Zeit: Die Verärgerung
+Sichtbare Figuren: Alte Helgoländerin
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine bekleidete alte Frau vor übervollen Fischkörben.
+Erzählertext: Eine Frau ärgerte sich über den Überfluss.
+Dialoge: keine
+Kontinuität / Änderung: Eine bekleidete alte Frau vor übervollen Fischkörben.
+
+KACHEL 6: Die Bewegung
+Ort und Zeit: Die Bewegung
+Sichtbare Figuren: Alte Helgoländerin
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Besen führt am Strand liegende Heringe zum Wasser; keine Schlaghandlung.
+Erzählertext: Sie fegte die Heringe zurück.
+Dialoge: keine
+Kontinuität / Änderung: Besen führt am Strand liegende Heringe zum Wasser; keine Schlaghandlung.
+
+KACHEL 7: Der nächste Fang
+Ort und Zeit: Der nächste Fang
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fischer halten fast leeres Netz über dem Wasser.
+Erzählertext: Von da an, sagt diese Variante, blieben die Heringe aus.
+Dialoge: keine
+Kontinuität / Änderung: Fischer halten fast leeres Netz über dem Wasser.
+
+KACHEL 8: Die ungenutzten Fässer
+Ort und Zeit: Die ungenutzten Fässer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Fässer im stillen Hafenschuppen.
+Erzählertext: Nun fehlte, was zuvor zu viel gewesen war.
+Dialoge: keine
+Kontinuität / Änderung: Leere Fässer im stillen Hafenschuppen.
+
+KACHEL 9: Die kleinere Welt
+Ort und Zeit: Die kleinere Welt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Siedlung auf schmalem Rest der Felseninsel.
+Erzählertext: Auch die Insel schrumpfte unter den Fluten.
+Dialoge: keine
+Kontinuität / Änderung: Kleine Siedlung auf schmalem Rest der Felseninsel.
+
+KACHEL 10: Der veränderte Blick
+Ort und Zeit: Der veränderte Blick
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blick von roter Klippe auf weites Meer und leeren Strand.
+Erzählertext: Die Sage bindet den Verlust an einen Augenblick der Geringschätzung.
+Dialoge: keine
+Kontinuität / Änderung: Blick von roter Klippe auf weites Meer und leeren Strand.

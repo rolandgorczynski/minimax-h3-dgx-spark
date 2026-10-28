@@ -1,0 +1,115 @@
+TITEL: Vineta – Die zweite Stadt am Himmel
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Alte Warnerin von Vineta
+Aussehen: Alte Frau mit weißem Haar.
+Kleidung: Braunes Kleid, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Deutet die doppelte Stadtgestalt als Warnung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der große Hafen
+Ort und Zeit: Der große Hafen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Prächtige Hafenstadt mit Schiffen aus verschiedenen Richtungen.
+Erzählertext: Vineta verband in der Sage die Handelswege des Nordens.
+Dialoge: keine
+Kontinuität / Änderung: Prächtige Hafenstadt mit Schiffen aus verschiedenen Richtungen.
+
+KACHEL 2: Die blanken Türen
+Ort und Zeit: Die blanken Türen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kunstvoll verziertes Bronzetor.
+Erzählertext: Tore und Paläste zeigten ihren Reichtum.
+Dialoge: keine
+Kontinuität / Änderung: Kunstvoll verziertes Bronzetor.
+
+KACHEL 3: Die kostbaren Tische
+Ort und Zeit: Die kostbaren Tische
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Goldenes Geschirr auf Tisch, zerstrittene Erwachsene fern.
+Erzählertext: Silber und Gold waren überall. Einigkeit nicht.
+Dialoge: keine
+Kontinuität / Änderung: Goldenes Geschirr auf Tisch, zerstrittene Erwachsene fern.
+
+KACHEL 4: Die feindlichen Nachbarn
+Ort und Zeit: Die feindlichen Nachbarn
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewohner streiten mit Abstand auf belebtem Platz.
+Erzählertext: Die Stadt verlor ihren Zusammenhalt.
+Dialoge: keine
+Kontinuität / Änderung: Bewohner streiten mit Abstand auf belebtem Platz.
+
+KACHEL 5: Das zweite Bild
+Ort und Zeit: Das zweite Bild
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine vollständige gespiegelte Stadt erscheint als Luftbild über derselben realen Stadt.
+Erzählertext: Dann erschien Vineta ein zweites Mal am Himmel.
+Dialoge: keine
+Kontinuität / Änderung: Eine vollständige gespiegelte Stadt erscheint als Luftbild über derselben realen Stadt.
+
+KACHEL 6: Die Deutung
+Ort und Zeit: Die Deutung
+Sichtbare Figuren: Alte Warnerin von Vineta
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Frau vor doppelter Stadtkontur.
+Erzählertext: Die Alten sahen darin ein Vorzeichen des Untergangs.
+Dialoge: keine
+Kontinuität / Änderung: Alte Frau vor doppelter Stadtkontur.
+
+KACHEL 7: Die Warnung
+Ort und Zeit: Die Warnung
+Sichtbare Figuren: Alte Warnerin von Vineta
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau auf dem Platz, keine Gewalt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alte Warnerin von Vineta
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Verlasst die Stadt, solange es möglich ist.“
+Kontinuität / Änderung: Frau auf dem Platz, keine Gewalt.
+
+KACHEL 8: Das Lachen
+Ort und Zeit: Das Lachen
+Sichtbare Figuren: Alte Warnerin von Vineta
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewohner gehen zurück zu Geschäften.
+Erzählertext: Man verlachte die Warnenden.
+Dialoge: keine
+Kontinuität / Änderung: Bewohner gehen zurück zu Geschäften.
+
+KACHEL 9: Die angekündigte Frist
+Ort und Zeit: Die angekündigte Frist
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dunkles Meer vor unveränderter Stadt.
+Erzählertext: Drei Monate, drei Wochen und drei Tage soll das Zeichen vorausgegangen sein.
+Dialoge: keine
+Kontinuität / Änderung: Dunkles Meer vor unveränderter Stadt.
+
+KACHEL 10: Das erhobene Meer
+Ort und Zeit: Das erhobene Meer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Flut vor verlassenen Stadtmauern.
+Erzählertext: Dann stieg das Meer und Vineta versank.
+Dialoge: keine
+Kontinuität / Änderung: Flut vor verlassenen Stadtmauern.
+
+KACHEL 11: Die Straßen darunter
+Ort und Zeit: Die Straßen darunter
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige See über sichtbar geordneten versunkenen Straßen.
+Erzählertext: Bei stiller See wollten Schiffer die Straßen in der Tiefe sehen.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige See über sichtbar geordneten versunkenen Straßen.
+
+KACHEL 12: Der Klang danach
+Ort und Zeit: Der Klang danach
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weites ruhiges Meer vor Usedom.
+Erzählertext: Glocken aus der Tiefe halten in der Sage fest, was Reichtum allein nicht erhalten konnte.
+Dialoge: keine
+Kontinuität / Änderung: Weites ruhiges Meer vor Usedom.

@@ -1,0 +1,796 @@
+{
+  "mode": "editorial",
+  "name": "Das Glück der Rantzau – Der Preis des Beweises · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Das Glück der Rantzau. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 183.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDas Geschlecht der Grafen Rantzau ist uralten herzoglich-schleswigschen Stammes. Einer Ureltermutter dieses Geschlechtes begegnete es, daß ein kleines Männlein mit einer Laterne zu ihr kam und sie in einen Berg holte zu einer Wöchnerin bei den Unterirdischen. Sie legte derselben nur die Hand aufs Haupt, und alsbald genas das Zwergenweiblein glücklich. Das Männlein begleitete dann die edle Frau wieder nach ihrem Schlosse zurück und gab ihr einen Klumpen gediegenes Gold und sagte: Lasse daraus fertigen fünfzig Rechenpfennige, einen Hering und zwei Spindeln und verwahre das alles wohl bei deinem Geschlecht, denn solches wird stets in Ruhm und Ehre bleiben, solange von diesen Stücken nichts verloren geht. – Dieses geschah, und die Stücke haben noch auf lange Zeit dem Hause Glück gebracht. Es soll sich diese Tatsache, die auf sehr verschiedene Weise erzählt wird, auf dem Schlosse Breitenberg zugetragen haben. Den goldenen Hering hatte zuletzt Josias von Rantzau, ein tapferer Degen und kriegslustiger junger Held. Er ließ sich ein gutes Schwert fertigen und den Hering an dessen Griff umbiegen und als Bügel anbringen, trat dann in französische Dienste, hatte Glück in unzähligen Schlachten und wurde zuletzt Generalfeldmarschall. Fechten und Raufen war seine höchste Lust, dabei war er freilich unüberwindlich durch das Erbstück der Ahnfrau. Das wurde ihm, weil es ruchbar geworden, einstmals von einem Kriegskameraden, Caspar Bockwold, ins Gesicht gesagt, er habe gut Fechten und Händel suchen, man wisse wohl, daß er fest sei und sein Mut und seine Tapferkeit im Hering seines Degengriffes stecke. Darüber ergrimmte Junker Josias höchlichst, schleuderte alsbald seinen Degen von sich in den Rhein und forderte Caspar Bockwold auf der Stelle zum Zweikampf und besiegte ihn dennoch. Selten schlug es ihm fehl, als Sieger aus solchen Kämpfen zu gehen, er hatte deren aber so viele, daß er auch gar manche böse Scharte davon trug. Als er zu hohen Jahren kam, hatte er nur noch ein Auge, ein Ohr, einen Arm und ein Bein und außerdem noch an seinem Leibe sechsundfunfzig Male schwerer Wunden.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Das Glück der Rantzau. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 183.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDas Geschlecht der Grafen Rantzau ist uralten herzoglich-schleswigschen Stammes. Einer Ureltermutter dieses Geschlechtes begegnete es, daß ein kleines Männlein mit einer Laterne zu ihr kam und sie in einen Berg holte zu einer Wöchnerin bei den Unterirdischen. Sie legte derselben nur die Hand aufs Haupt, und alsbald genas das Zwergenweiblein glücklich. Das Männlein begleitete dann die edle Frau wieder nach ihrem Schlosse zurück und gab ihr einen Klumpen gediegenes Gold und sagte: Lasse daraus fertigen fünfzig Rechenpfennige, einen Hering und zwei Spindeln und verwahre das alles wohl bei deinem Geschlecht, denn solches wird stets in Ruhm und Ehre bleiben, solange von diesen Stücken nichts verloren geht. – Dieses geschah, und die Stücke haben noch auf lange Zeit dem Hause Glück gebracht. Es soll sich diese Tatsache, die auf sehr verschiedene Weise erzählt wird, auf dem Schlosse Breitenberg zugetragen haben. Den goldenen Hering hatte zuletzt Josias von Rantzau, ein tapferer Degen und kriegslustiger junger Held. Er ließ sich ein gutes Schwert fertigen und den Hering an dessen Griff umbiegen und als Bügel anbringen, trat dann in französische Dienste, hatte Glück in unzähligen Schlachten und wurde zuletzt Generalfeldmarschall. Fechten und Raufen war seine höchste Lust, dabei war er freilich unüberwindlich durch das Erbstück der Ahnfrau. Das wurde ihm, weil es ruchbar geworden, einstmals von einem Kriegskameraden, Caspar Bockwold, ins Gesicht gesagt, er habe gut Fechten und Händel suchen, man wisse wohl, daß er fest sei und sein Mut und seine Tapferkeit im Hering seines Degengriffes stecke. Darüber ergrimmte Junker Josias höchlichst, schleuderte alsbald seinen Degen von sich in den Rhein und forderte Caspar Bockwold auf der Stelle zum Zweikampf und besiegte ihn dennoch. Selten schlug es ihm fehl, als Sieger aus solchen Kämpfen zu gehen, er hatte deren aber so viele, daß er auch gar manche böse Scharte davon trug. Als er zu hohen Jahren kam, hatte er nur noch ein Auge, ein Ohr, einen Arm und ein Bein und außerdem noch an seinem Leibe sechsundfunfzig Male schwerer Wunden.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 16,
+    "panel_count": 16,
+    "scenes": [
+      {
+        "heading": "Die Bitte",
+        "setting": "Die Bitte",
+        "characters": [
+          "0e10450af5fd5c5784fb67af6f326407",
+          "61726902ee565d4d9e68ccc6a306c79f"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nächtlicher Schlosshof.",
+        "dialog": "Ein kleines Männlein bat eine Ahnfrau der Rantzau um Hilfe.",
+        "bubbles": [],
+        "character_states": {
+          "0e10450af5fd5c5784fb67af6f326407": "steht vor dem Boten; Blaues geschlossenes Kleid, grauer Mantel.; Lebenszustand: lebend",
+          "61726902ee565d4d9e68ccc6a306c79f": "hält Laterne; Grünes Gewand, eine Laterne.; Lebenszustand: lebend"
+        },
+        "continuity": "Nächtlicher Schlosshof.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Die Bitte",
+            "posture": "steht vor dem Boten"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Die Bitte",
+            "posture": "hält Laterne"
+          }
+        }
+      },
+      {
+        "heading": "Der Gang in den Berg",
+        "setting": "Der Gang in den Berg",
+        "characters": [
+          "0e10450af5fd5c5784fb67af6f326407",
+          "61726902ee565d4d9e68ccc6a306c79f"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Gestalten im beleuchteten Felsgang.",
+        "dialog": "Sie folgte ihm zu einer Wöchnerin unter der Erde.",
+        "bubbles": [],
+        "character_states": {
+          "0e10450af5fd5c5784fb67af6f326407": "folgt dem Boten; Blaues geschlossenes Kleid, grauer Mantel.; Lebenszustand: lebend",
+          "61726902ee565d4d9e68ccc6a306c79f": "geht voraus; Grünes Gewand, eine Laterne.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Gestalten im beleuchteten Felsgang.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Gang in den Berg",
+            "posture": "folgt dem Boten"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Gang in den Berg",
+            "posture": "geht voraus"
+          }
+        }
+      },
+      {
+        "heading": "Die leichte Hand",
+        "setting": "Die leichte Hand",
+        "characters": [
+          "0e10450af5fd5c5784fb67af6f326407"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges Lager, keine Geburtsdetails.",
+        "dialog": "Schon ihre Berührung soll der Unterirdischen geholfen haben.",
+        "bubbles": [],
+        "character_states": {
+          "0e10450af5fd5c5784fb67af6f326407": "legt einer bekleideten Frau die Hand auf den Kopf; Blaues geschlossenes Kleid, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ruhiges Lager, keine Geburtsdetails.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Die leichte Hand",
+            "posture": "legt einer bekleideten Frau die Hand auf den Kopf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Gang in den Berg",
+            "posture": "geht voraus"
+          }
+        }
+      },
+      {
+        "heading": "Der Dank",
+        "setting": "Der Dank",
+        "characters": [
+          "61726902ee565d4d9e68ccc6a306c79f",
+          "0e10450af5fd5c5784fb67af6f326407"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Goldklumpen.",
+        "dialog": "Der Bote begleitete sie heim und gab ihr Gold.",
+        "bubbles": [],
+        "character_states": {
+          "61726902ee565d4d9e68ccc6a306c79f": "übergibt Gold; Grünes Gewand, eine Laterne.; Lebenszustand: lebend",
+          "0e10450af5fd5c5784fb67af6f326407": "hält die Hand auf; Blaues geschlossenes Kleid, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein einzelner Goldklumpen.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          }
+        }
+      },
+      {
+        "heading": "Die Formen",
+        "setting": "Die Formen",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fünfzig kleine Rechenpfennige, ein goldener Hering und zwei Spindeln auf Tisch.",
+        "dialog": "Daraus sollte sie fünfzig Pfennige, einen Hering und zwei Spindeln fertigen lassen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Fünfzig kleine Rechenpfennige, ein goldener Hering und zwei Spindeln auf Tisch.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          }
+        }
+      },
+      {
+        "heading": "Die Bedingung",
+        "setting": "Die Bedingung",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle Goldstücke zusammen in einer offenen Truhe.",
+        "dialog": "Solange nichts verloren ginge, sollte das Haus in Ruhm und Ehre bleiben.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Alle Goldstücke zusammen in einer offenen Truhe.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          }
+        }
+      },
+      {
+        "heading": "Ein späterer Erbe",
+        "setting": "Ein späterer Erbe",
+        "characters": [
+          "961edce413645d9684684df8c65e1843"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Goldener Hering als gebogener Bügel an genau einem Degengriff.",
+        "dialog": "Viel später ließ Josias den Hering an seinem Degengriff anbringen.",
+        "bubbles": [],
+        "character_states": {
+          "961edce413645d9684684df8c65e1843": "steht vor einem Degen auf Tisch; Dunkelblauer Offiziersrock, Stiefel; Degen mit goldenem Heringsbügel liegt auf dem Tisch.; Lebenszustand: lebend"
+        },
+        "continuity": "Goldener Hering als gebogener Bügel an genau einem Degengriff.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere Hände",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock, Stiefel; Degen mit goldenem Heringsbügel liegt auf dem Tisch.",
+            "location": "Ein späterer Erbe",
+            "posture": "steht vor einem Degen auf Tisch"
+          }
+        }
+      },
+      {
+        "heading": "Die Laufbahn",
+        "setting": "Die Laufbahn",
+        "characters": [
+          "961edce413645d9684684df8c65e1843"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Degen links eingesteckt, keine andere Klinge.",
+        "dialog": "Er gewann Kämpfe und stieg in französischen Diensten auf.",
+        "bubbles": [],
+        "character_states": {
+          "961edce413645d9684684df8c65e1843": "steht vor einem Heerlager; Dunkelblauer Offiziersrock; ein Degen mit goldenem Bügel links in Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Degen links eingesteckt, keine andere Klinge.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere Hände",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein Degen mit goldenem Bügel links in Scheide.",
+            "location": "Die Laufbahn",
+            "posture": "steht vor einem Heerlager"
+          }
+        }
+      },
+      {
+        "heading": "Das Gerücht",
+        "setting": "Das Gerücht",
+        "characters": [
+          "6d20fbed450052d2b2e7f349f3b316f1",
+          "961edce413645d9684684df8c65e1843"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Offiziere am Rheinufer, beide Klingen eingesteckt.",
+        "dialog": "Seine Kameraden kannten die Geschichte des Erbstücks.",
+        "bubbles": [],
+        "character_states": {
+          "6d20fbed450052d2b2e7f349f3b316f1": "steht vor Josias; Grauer Offiziersrock; genau ein Degen links in Scheide.; Lebenszustand: lebend",
+          "961edce413645d9684684df8c65e1843": "steht ruhig; Dunkelblauer Offiziersrock; ein Degen mit goldenem Bügel links in Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei Offiziere am Rheinufer, beide Klingen eingesteckt.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere Hände",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein Degen mit goldenem Bügel links in Scheide.",
+            "location": "Das Gerücht",
+            "posture": "steht ruhig"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Das Gerücht",
+            "posture": "steht vor Josias"
+          }
+        }
+      },
+      {
+        "heading": "Die Herausforderung",
+        "setting": "Die Herausforderung",
+        "characters": [
+          "6d20fbed450052d2b2e7f349f3b316f1",
+          "961edce413645d9684684df8c65e1843"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abstand zwischen beiden.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "6d20fbed450052d2b2e7f349f3b316f1",
+            "text": "Leicht ist Tapferkeit, wenn der Hering dich schützt.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "6d20fbed450052d2b2e7f349f3b316f1": "spricht zu Josias; Grauer Offiziersrock; genau ein Degen links in Scheide.; Lebenszustand: lebend",
+          "961edce413645d9684684df8c65e1843": "blickt zornig; Dunkelblauer Offiziersrock; ein Degen mit goldenem Bügel links in Scheide.; Lebenszustand: lebend"
+        },
+        "continuity": "Abstand zwischen beiden.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere Hände",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein Degen mit goldenem Bügel links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "blickt zornig"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      },
+      {
+        "heading": "Der Verlust",
+        "setting": "Der Verlust",
+        "characters": [
+          "961edce413645d9684684df8c65e1843"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Degen samt goldenem Bügel fällt ins Wasser; linke Scheide leer.",
+        "dialog": "Josias warf den Degen mit dem Hering in den Rhein.",
+        "bubbles": [],
+        "character_states": {
+          "961edce413645d9684684df8c65e1843": "öffnet die rechte Hand über dem Fluss; Dunkelblauer Offiziersrock; linke Degenscheide leer, kein goldener Bügel getragen.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Degen samt goldenem Bügel fällt ins Wasser; linke Scheide leer.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere rechte Hand nach dem Wurf; Degen samt Hering im Rhein",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; linke Degenscheide leer, kein goldener Bügel getragen.",
+            "location": "Der Verlust",
+            "posture": "öffnet die rechte Hand über dem Fluss"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      },
+      {
+        "heading": "Der Beweis",
+        "setting": "Der Beweis",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei geliehene Übungsdegen liegen am Rand eines leeren Kampfplatzes.",
+        "dialog": "Ohne das Erbstück forderte er Bockwold zum Zweikampf und besiegte ihn.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Zwei geliehene Übungsdegen liegen am Rand eines leeren Kampfplatzes.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere rechte Hand nach dem Wurf; Degen samt Hering im Rhein",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; linke Degenscheide leer, kein goldener Bügel getragen.",
+            "location": "Der Verlust",
+            "posture": "öffnet die rechte Hand über dem Fluss"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      },
+      {
+        "heading": "Der fortgesetzte Kampf",
+        "setting": "Der fortgesetzte Kampf",
+        "characters": [
+          "961edce413645d9684684df8c65e1843"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Josias ohne Hering, ein schlichter Ersatzdegen eingesteckt.",
+        "dialog": "Auch danach suchte er Kämpfe und gewann oft.",
+        "bubbles": [],
+        "character_states": {
+          "961edce413645d9684684df8c65e1843": "steht vor weiteren Lagern; Dunkelblauer Offiziersrock; ein neuer schlichter Degen links eingesteckt, ohne Hering und ohne Goldbügel.; Lebenszustand: lebend"
+        },
+        "continuity": "Josias ohne Hering, ein schlichter Ersatzdegen eingesteckt.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere rechte Hand nach dem Wurf; Degen samt Hering im Rhein",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein neuer schlichter Degen links eingesteckt, ohne Hering und ohne Goldbügel.",
+            "location": "Der fortgesetzte Kampf",
+            "posture": "steht vor weiteren Lagern"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      },
+      {
+        "heading": "Die andere Bilanz",
+        "setting": "Die andere Bilanz",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Offiziersrock neben Krücken und Augenbinde, keine Wunden.",
+        "dialog": "Doch Siege verhinderten die vielen bleibenden Verletzungen nicht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Leerer Offiziersrock neben Krücken und Augenbinde, keine Wunden.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere rechte Hand nach dem Wurf; Degen samt Hering im Rhein",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein neuer schlichter Degen links eingesteckt, ohne Hering und ohne Goldbügel.",
+            "location": "Der fortgesetzte Kampf",
+            "posture": "steht vor weiteren Lagern"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      },
+      {
+        "heading": "Das hohe Alter",
+        "setting": "Das hohe Alter",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alterssessel mit einer Krücke im warmen Zimmer, keine drastischen Körperdetails.",
+        "dialog": "Die Überlieferung lässt ihn mit schweren Verlusten an Gliedmaßen und Sinnen alt werden.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Alterssessel mit einer Krücke im warmen Zimmer, keine drastischen Körperdetails.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere rechte Hand nach dem Wurf; Degen samt Hering im Rhein",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein neuer schlichter Degen links eingesteckt, ohne Hering und ohne Goldbügel.",
+            "location": "Der fortgesetzte Kampf",
+            "posture": "steht vor weiteren Lagern"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      },
+      {
+        "heading": "Der beantwortete Zweifel",
+        "setting": "Der beantwortete Zweifel",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiger Rhein, keine geborgene Waffe.",
+        "dialog": "Er hatte Mut ohne den Hering bewiesen. Die Kosten seiner Lebensweise hatte er damit nicht aufgehoben.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ruhiger Rhein, keine geborgene Waffe.",
+        "continuity_state": {
+          "0e10450af5fd5c5784fb67af6f326407": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues geschlossenes Kleid, grauer Mantel.",
+            "location": "Der Dank",
+            "posture": "hält die Hand auf"
+          },
+          "61726902ee565d4d9e68ccc6a306c79f": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Gewand, eine Laterne.",
+            "location": "Der Dank",
+            "posture": "übergibt Gold"
+          },
+          "961edce413645d9684684df8c65e1843": {
+            "held": "leere rechte Hand nach dem Wurf; Degen samt Hering im Rhein",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer Offiziersrock; ein neuer schlichter Degen links eingesteckt, ohne Hering und ohne Goldbügel.",
+            "location": "Der fortgesetzte Kampf",
+            "posture": "steht vor weiteren Lagern"
+          },
+          "6d20fbed450052d2b2e7f349f3b316f1": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+            "location": "Die Herausforderung",
+            "posture": "spricht zu Josias"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Ahnfrau der Rantzau",
+        "description": "Erwachsene Frau mit braunem Zopf.",
+        "outfit": "Blaues geschlossenes Kleid, grauer Mantel.",
+        "backstory": "Hilft einer Unterirdischen bei der Geburt.",
+        "id": "0e10450af5fd5c5784fb67af6f326407",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Bote der Unterirdischen",
+        "description": "Kleiner erwachsener Mann mit weißem Bart.",
+        "outfit": "Grünes Gewand, eine Laterne.",
+        "backstory": "Vergilt die Hilfe mit einem besonderen Goldgeschenk.",
+        "id": "61726902ee565d4d9e68ccc6a306c79f",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Josias von Rantzau",
+        "description": "Erwachsener Mann mit braunem kurzem Bart.",
+        "outfit": "Dunkelblauer Offiziersrock, Stiefel. Degen und goldener Hering werden ausschließlich nach aktuellem Kachelzustand gezeigt.",
+        "backstory": "Will seinen persönlichen Mut unabhängig vom Erbstück beweisen.",
+        "id": "961edce413645d9684684df8c65e1843",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Caspar Bockwold",
+        "description": "Erwachsener Mann mit blondem Bart.",
+        "outfit": "Grauer Offiziersrock; genau ein Degen links in Scheide.",
+        "backstory": "Stellt Josias vermeintliche Unverwundbarkeit bloß.",
+        "id": "6d20fbed450052d2b2e7f349f3b316f1",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was beweist ein Kämpfer, wenn er für seinen Stolz den Schutz wegwirft und trotzdem immer weiterkämpft?",
+      "core": "Josias will zeigen, dass sein Mut nicht im Erbstück steckt. Er siegt auch ohne den Hering, doch die vielen bleibenden Verletzungen machen aus dem Beweis seiner Tapferkeit zugleich die Bilanz einer zerstörerischen Lebensweise.",
+      "ending": "Josias besiegt den Herausforderer ohne das Erbstück, trägt im Alter aber schwere Verstümmelungen und zahlreiche Wunden.",
+      "reason": "Hilfe der Ahnfrau, bedingtes Geschenk, Weitergabe, Vorwurf und Wegwerfen führen zur ambivalenten Schlussbilanz. Nicht behaupten, jede spätere Schlacht werde verloren oder die Verletzungen seien im Ausgangstext ausdrücklich eine magische Strafe.",
+      "meaning_type": "Offene Frage",
+      "evidence": [
+        {
+          "event": "er habe gut Fechten und Händel suchen",
+          "meaning": "Der Vorwurf trifft den Unterschied zwischen eigenem Können und gefahrlos beanspruchtem Heldenruhm."
+        }
+      ],
+      "causal_chain": [
+        "er habe gut Fechten und Händel suchen",
+        "Josias besiegt den Herausforderer ohne das Erbstück, trägt im Alter aber schwere Verstümmelungen und zahlreiche Wunden."
+      ],
+      "recommended_count": 16,
+      "series_count": 3,
+      "series_reason": "3 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "d22acf4d10da6b54867837c4a4bedb8dff4a6dda90b1e55a4891a95e498a8f42",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:12:53.310297+00:00"
+    },
+    "post_summary": "Josias will beweisen, dass sein Mut nicht an einem Erbstück hängt. Seine Siege hinterlassen dennoch eine zerstörerische Bilanz.",
+    "source_provenance": {
+      "title": "Das Glück der Rantzau",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 183.",
+      "url": "https://textgridrep.org/browse/kfhp.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Das Glück der Rantzau. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 183.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDas Geschlecht der Grafen Rantzau ist uralten herzoglich-schleswigschen Stammes. Einer Ureltermutter dieses Geschlechtes begegnete es, daß ein kleines Männlein mit einer Laterne zu ihr kam und sie in einen Berg holte zu einer Wöchnerin bei den Unterirdischen. Sie legte derselben nur die Hand aufs Haupt, und alsbald genas das Zwergenweiblein glücklich. Das Männlein begleitete dann die edle Frau wieder nach ihrem Schlosse zurück und gab ihr einen Klumpen gediegenes Gold und sagte: Lasse daraus fertigen fünfzig Rechenpfennige, einen Hering und zwei Spindeln und verwahre das alles wohl bei deinem Geschlecht, denn solches wird stets in Ruhm und Ehre bleiben, solange von diesen Stücken nichts verloren geht. – Dieses geschah, und die Stücke haben noch auf lange Zeit dem Hause Glück gebracht. Es soll sich diese Tatsache, die auf sehr verschiedene Weise erzählt wird, auf dem Schlosse Breitenberg zugetragen haben. Den goldenen Hering hatte zuletzt Josias von Rantzau, ein tapferer Degen und kriegslustiger junger Held. Er ließ sich ein gutes Schwert fertigen und den Hering an dessen Griff umbiegen und als Bügel anbringen, trat dann in französische Dienste, hatte Glück in unzähligen Schlachten und wurde zuletzt Generalfeldmarschall. Fechten und Raufen war seine höchste Lust, dabei war er freilich unüberwindlich durch das Erbstück der Ahnfrau. Das wurde ihm, weil es ruchbar geworden, einstmals von einem Kriegskameraden, Caspar Bockwold, ins Gesicht gesagt, er habe gut Fechten und Händel suchen, man wisse wohl, daß er fest sei und sein Mut und seine Tapferkeit im Hering seines Degengriffes stecke. Darüber ergrimmte Junker Josias höchlichst, schleuderte alsbald seinen Degen von sich in den Rhein und forderte Caspar Bockwold auf der Stelle zum Zweikampf und besiegte ihn dennoch. Selten schlug es ihm fehl, als Sieger aus solchen Kämpfen zu gehen, er hatte deren aber so viele, daß er auch gar manche böse Scharte davon trug. Als er zu hohen Jahren kam, hatte er nur noch ein Auge, ein Ohr, einen Arm und ein Bein und außerdem noch an seinem Leibe sechsundfunfzig Male schwerer Wunden.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Das Geschlecht der Grafen Rantzau ist uralten herzoglich-schleswigschen Stammes. Einer Ureltermutter dieses Geschlechtes begegnete es, daß ein kleines Männlein mit einer Laterne zu ihr kam und sie in einen Berg holte zu einer Wöchnerin bei den Unterirdischen.",
+      "id": "bechstein-sagen-kfhp-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "rantzau-hering-16-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Das Glück der Rantzau – Der Preis des Beweises · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Das Glück der Rantzau – Der Preis des Beweises\nAUTOR: Sysop\nKACHELANZAHL: 16\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Ahnfrau der Rantzau\nAussehen: Erwachsene Frau mit braunem Zopf.\nKleidung: Blaues geschlossenes Kleid, grauer Mantel.\nPersönlichkeit und Vorgeschichte: Hilft einer Unterirdischen bei der Geburt.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Bote der Unterirdischen\nAussehen: Kleiner erwachsener Mann mit weißem Bart.\nKleidung: Grünes Gewand, eine Laterne.\nPersönlichkeit und Vorgeschichte: Vergilt die Hilfe mit einem besonderen Goldgeschenk.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Josias von Rantzau\nAussehen: Erwachsener Mann mit braunem kurzem Bart.\nKleidung: Dunkelblauer Offiziersrock, Stiefel. Degen und goldener Hering werden ausschließlich nach aktuellem Kachelzustand gezeigt.\nPersönlichkeit und Vorgeschichte: Will seinen persönlichen Mut unabhängig vom Erbstück beweisen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Caspar Bockwold\nAussehen: Erwachsener Mann mit blondem Bart.\nKleidung: Grauer Offiziersrock; genau ein Degen links in Scheide.\nPersönlichkeit und Vorgeschichte: Stellt Josias vermeintliche Unverwundbarkeit bloß.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Bitte\nOrt und Zeit: Die Bitte\nSichtbare Figuren: Ahnfrau der Rantzau, Bote der Unterirdischen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nächtlicher Schlosshof.\nErzählertext: Ein kleines Männlein bat eine Ahnfrau der Rantzau um Hilfe.\nDialoge: keine\nKontinuität / Änderung: Nächtlicher Schlosshof.\n\nKACHEL 2: Der Gang in den Berg\nOrt und Zeit: Der Gang in den Berg\nSichtbare Figuren: Ahnfrau der Rantzau, Bote der Unterirdischen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Gestalten im beleuchteten Felsgang.\nErzählertext: Sie folgte ihm zu einer Wöchnerin unter der Erde.\nDialoge: keine\nKontinuität / Änderung: Zwei Gestalten im beleuchteten Felsgang.\n\nKACHEL 3: Die leichte Hand\nOrt und Zeit: Die leichte Hand\nSichtbare Figuren: Ahnfrau der Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiges Lager, keine Geburtsdetails.\nErzählertext: Schon ihre Berührung soll der Unterirdischen geholfen haben.\nDialoge: keine\nKontinuität / Änderung: Ruhiges Lager, keine Geburtsdetails.\n\nKACHEL 4: Der Dank\nOrt und Zeit: Der Dank\nSichtbare Figuren: Bote der Unterirdischen, Ahnfrau der Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Goldklumpen.\nErzählertext: Der Bote begleitete sie heim und gab ihr Gold.\nDialoge: keine\nKontinuität / Änderung: Ein einzelner Goldklumpen.\n\nKACHEL 5: Die Formen\nOrt und Zeit: Die Formen\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fünfzig kleine Rechenpfennige, ein goldener Hering und zwei Spindeln auf Tisch.\nErzählertext: Daraus sollte sie fünfzig Pfennige, einen Hering und zwei Spindeln fertigen lassen.\nDialoge: keine\nKontinuität / Änderung: Fünfzig kleine Rechenpfennige, ein goldener Hering und zwei Spindeln auf Tisch.\n\nKACHEL 6: Die Bedingung\nOrt und Zeit: Die Bedingung\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle Goldstücke zusammen in einer offenen Truhe.\nErzählertext: Solange nichts verloren ginge, sollte das Haus in Ruhm und Ehre bleiben.\nDialoge: keine\nKontinuität / Änderung: Alle Goldstücke zusammen in einer offenen Truhe.\n\nKACHEL 7: Ein späterer Erbe\nOrt und Zeit: Ein späterer Erbe\nSichtbare Figuren: Josias von Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Goldener Hering als gebogener Bügel an genau einem Degengriff.\nErzählertext: Viel später ließ Josias den Hering an seinem Degengriff anbringen.\nDialoge: keine\nKontinuität / Änderung: Goldener Hering als gebogener Bügel an genau einem Degengriff.\n\nKACHEL 8: Die Laufbahn\nOrt und Zeit: Die Laufbahn\nSichtbare Figuren: Josias von Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Degen links eingesteckt, keine andere Klinge.\nErzählertext: Er gewann Kämpfe und stieg in französischen Diensten auf.\nDialoge: keine\nKontinuität / Änderung: Degen links eingesteckt, keine andere Klinge.\n\nKACHEL 9: Das Gerücht\nOrt und Zeit: Das Gerücht\nSichtbare Figuren: Caspar Bockwold, Josias von Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Offiziere am Rheinufer, beide Klingen eingesteckt.\nErzählertext: Seine Kameraden kannten die Geschichte des Erbstücks.\nDialoge: keine\nKontinuität / Änderung: Zwei Offiziere am Rheinufer, beide Klingen eingesteckt.\n\nKACHEL 10: Die Herausforderung\nOrt und Zeit: Die Herausforderung\nSichtbare Figuren: Caspar Bockwold, Josias von Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abstand zwischen beiden.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Caspar Bockwold\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Leicht ist Tapferkeit, wenn der Hering dich schützt.“\nKontinuität / Änderung: Abstand zwischen beiden.\n\nKACHEL 11: Der Verlust\nOrt und Zeit: Der Verlust\nSichtbare Figuren: Josias von Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Degen samt goldenem Bügel fällt ins Wasser; linke Scheide leer.\nErzählertext: Josias warf den Degen mit dem Hering in den Rhein.\nDialoge: keine\nKontinuität / Änderung: Ein Degen samt goldenem Bügel fällt ins Wasser; linke Scheide leer.\n\nKACHEL 12: Der Beweis\nOrt und Zeit: Der Beweis\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei geliehene Übungsdegen liegen am Rand eines leeren Kampfplatzes.\nErzählertext: Ohne das Erbstück forderte er Bockwold zum Zweikampf und besiegte ihn.\nDialoge: keine\nKontinuität / Änderung: Zwei geliehene Übungsdegen liegen am Rand eines leeren Kampfplatzes.\n\nKACHEL 13: Der fortgesetzte Kampf\nOrt und Zeit: Der fortgesetzte Kampf\nSichtbare Figuren: Josias von Rantzau\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Josias ohne Hering, ein schlichter Ersatzdegen eingesteckt.\nErzählertext: Auch danach suchte er Kämpfe und gewann oft.\nDialoge: keine\nKontinuität / Änderung: Josias ohne Hering, ein schlichter Ersatzdegen eingesteckt.\n\nKACHEL 14: Die andere Bilanz\nOrt und Zeit: Die andere Bilanz\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Offiziersrock neben Krücken und Augenbinde, keine Wunden.\nErzählertext: Doch Siege verhinderten die vielen bleibenden Verletzungen nicht.\nDialoge: keine\nKontinuität / Änderung: Leerer Offiziersrock neben Krücken und Augenbinde, keine Wunden.\n\nKACHEL 15: Das hohe Alter\nOrt und Zeit: Das hohe Alter\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alterssessel mit einer Krücke im warmen Zimmer, keine drastischen Körperdetails.\nErzählertext: Die Überlieferung lässt ihn mit schweren Verlusten an Gliedmaßen und Sinnen alt werden.\nDialoge: keine\nKontinuität / Änderung: Alterssessel mit einer Krücke im warmen Zimmer, keine drastischen Körperdetails.\n\nKACHEL 16: Der beantwortete Zweifel\nOrt und Zeit: Der beantwortete Zweifel\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhiger Rhein, keine geborgene Waffe.\nErzählertext: Er hatte Mut ohne den Hering bewiesen. Die Kosten seiner Lebensweise hatte er damit nicht aufgehoben.\nDialoge: keine\nKontinuität / Änderung: Ruhiger Rhein, keine geborgene Waffe.\n"
+  },
+  "count_policy": "editorial"
+}

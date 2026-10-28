@@ -1,0 +1,129 @@
+TITEL: Der Fürstin Traum – Das sichtbare Versprechen
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Fürstin Anastasia
+Aussehen: Erwachsene Frau mit braunem Haar.
+Kleidung: Blaues geschlossenes Hofkleid, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Sorgt für ihre Söhne und ihr bedrohtes Land.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Junger Heinrich
+Aussehen: Junger erwachsener Mann mit braunem Haar.
+Kleidung: Grauer Harnisch, grünes Wams, keine gezogene Waffe.
+Persönlichkeit und Vorgeschichte: Trägt das neue Panier gegen den überlegenen Feind.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Franziskus im Traum
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Braune Mönchskutte.
+Persönlichkeit und Vorgeschichte: Spricht im Traum eine Ermutigung aus.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der ferne Fürst
+Ort und Zeit: Der ferne Fürst
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schiff verlässt mecklenburgische Küste.
+Erzählertext: Heinrich der Pilger zog ins Heilige Land.
+Dialoge: keine
+Kontinuität / Änderung: Schiff verlässt mecklenburgische Küste.
+
+KACHEL 2: Die Bedrohung
+Ort und Zeit: Die Bedrohung
+Sichtbare Figuren: Fürstin Anastasia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ferne feindliche Lager vor dem Land.
+Erzählertext: Während seiner Abwesenheit wurde Mecklenburg angegriffen.
+Dialoge: keine
+Kontinuität / Änderung: Ferne feindliche Lager vor dem Land.
+
+KACHEL 3: Die Sorge
+Ort und Zeit: Die Sorge
+Sichtbare Figuren: Fürstin Anastasia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fürstin in stiller Nachtkammer.
+Erzählertext: Anastasia sorgte sich um ihre Söhne und das Land.
+Dialoge: keine
+Kontinuität / Änderung: Fürstin in stiller Nachtkammer.
+
+KACHEL 4: Der Traum
+Ort und Zeit: Der Traum
+Sichtbare Figuren: Fürstin Anastasia, Franziskus im Traum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Klare Trennung von schlafender Frau und Erscheinung.
+Erzählertext: Franziskus erschien ihr im Traum.
+Dialoge: keine
+Kontinuität / Änderung: Klare Trennung von schlafender Frau und Erscheinung.
+
+KACHEL 5: Die Ermutigung
+Ort und Zeit: Die Ermutigung
+Sichtbare Figuren: Franziskus im Traum
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Traumgestalt vor hellem Raum.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Franziskus im Traum
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Fasse Mut.“
+Kontinuität / Änderung: Traumgestalt vor hellem Raum.
+
+KACHEL 6: Der Morgen
+Ort und Zeit: Der Morgen
+Sichtbare Figuren: Fürstin Anastasia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schwebendes Panier mit Mönchsbild als Sagenerscheinung.
+Erzählertext: Am Morgen sah sie nach der Sage sein Bild auf einem Panier am Himmel.
+Dialoge: keine
+Kontinuität / Änderung: Ein schwebendes Panier mit Mönchsbild als Sagenerscheinung.
+
+KACHEL 7: Die Übersetzung
+Ort und Zeit: Die Übersetzung
+Sichtbare Figuren: Fürstin Anastasia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Maler vor unvollendetem Mönchsbild auf Stoff.
+Erzählertext: Sie ließ das gesehene Bild malen.
+Dialoge: keine
+Kontinuität / Änderung: Maler vor unvollendetem Mönchsbild auf Stoff.
+
+KACHEL 8: Die Übergabe
+Ort und Zeit: Die Übergabe
+Sichtbare Figuren: Fürstin Anastasia, Junger Heinrich
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Fahne, zwei getrennte Hände.
+Erzählertext: Das neue Panier gab sie ihrem ältesten Sohn.
+Dialoge: keine
+Kontinuität / Änderung: Eine Fahne, zwei getrennte Hände.
+
+KACHEL 9: Der Auszug
+Ort und Zeit: Der Auszug
+Sichtbare Figuren: Junger Heinrich
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsener Sohn zu Fuß, keine übergroße Fahne im Gesicht.
+Erzählertext: Die Söhne zogen gemeinsam gegen den überlegenen Feind.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsener Sohn zu Fuß, keine übergroße Fahne im Gesicht.
+
+KACHEL 10: Der Ausgang
+Ort und Zeit: Der Ausgang
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zurückkehrende mecklenburgische Truppe bei Abendlicht.
+Erzählertext: Die Sage berichtet von ihrem Sieg bei Gadebusch.
+Dialoge: keine
+Kontinuität / Änderung: Zurückkehrende mecklenburgische Truppe bei Abendlicht.
+
+KACHEL 11: Die gestifteten Fenster
+Ort und Zeit: Die gestifteten Fenster
+Sichtbare Figuren: Fürstin Anastasia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei farbige Chorfenster: Maria mittig, Franziskus und Antonius seitlich.
+Erzählertext: Anastasia stiftete dem Kloster drei neue Fenster.
+Dialoge: keine
+Kontinuität / Änderung: Drei farbige Chorfenster: Maria mittig, Franziskus und Antonius seitlich.
+
+KACHEL 12: Der weitergegebene Mut
+Ort und Zeit: Der weitergegebene Mut
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Farbiges Fensterlicht auf ruhigem Kirchenboden.
+Erzählertext: Aus ihrem Traum war ein gemeinsames Zeichen geworden. Den Dank hielt sie ebenso sichtbar fest.
+Dialoge: keine
+Kontinuität / Änderung: Farbiges Fensterlicht auf ruhigem Kirchenboden.

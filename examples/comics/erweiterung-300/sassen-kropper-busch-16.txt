@@ -1,0 +1,143 @@
+TITEL: Die Sassen und die Jüten – Noch nicht vorbei
+AUTOR: Sysop
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Feldherr der Sassen
+Aussehen: Großer erwachsener Mann mit grauem Bart.
+Kleidung: Grauer Harnisch, brauner Mantel; ein Schwert links eingesteckt.
+Persönlichkeit und Vorgeschichte: Verlässt sich zu früh auf den gewonnenen Durchbruch.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Grenze
+Ort und Zeit: Die Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Langer Erdwall zwischen zwei Landschaften.
+Erzählertext: Der Überlieferung nach trennte das Danewerk Jüten und Sassen.
+Dialoge: keine
+Kontinuität / Änderung: Langer Erdwall zwischen zwei Landschaften.
+
+KACHEL 2: Der Zusatz
+Ort und Zeit: Der Zusatz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Arbeiter graben einen Wassergraben vor dem Wall.
+Erzählertext: Die Jüten verstärkten ihn mit einem Graben.
+Dialoge: keine
+Kontinuität / Änderung: Arbeiter graben einen Wassergraben vor dem Wall.
+
+KACHEL 3: Der nächtliche Plan
+Ort und Zeit: Der nächtliche Plan
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rote Ochsen mit weißen Kopftüchern hinter sicherer Absperrung.
+Erzählertext: Sie wollten die Angreifer mit verkleideten Ochsen erschrecken.
+Dialoge: keine
+Kontinuität / Änderung: Rote Ochsen mit weißen Kopftüchern hinter sicherer Absperrung.
+
+KACHEL 4: Die falschen Geister
+Ort und Zeit: Die falschen Geister
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ochsen mit Kerzenhaltern auf Hörnern, entfernte Beobachter, keine brennenden Tiere.
+Erzählertext: Tücher und Lichter sollten im Dunkeln wie unheimliche Gestalten wirken.
+Dialoge: keine
+Kontinuität / Änderung: Ochsen mit Kerzenhaltern auf Hörnern, entfernte Beobachter, keine brennenden Tiere.
+
+KACHEL 5: Der durchkreuzte Schrecken
+Ort und Zeit: Der durchkreuzte Schrecken
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sassen führen unversehrte Ochsen am Strick fort.
+Erzählertext: Die List misslang. Die Angreifer nahmen Graben und Ochsen.
+Dialoge: keine
+Kontinuität / Änderung: Sassen führen unversehrte Ochsen am Strick fort.
+
+KACHEL 6: Der gehaltene Wall
+Ort und Zeit: Der gehaltene Wall
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Heer lagert vor hohem Erdwall.
+Erzählertext: Am eigentlichen Wall kamen sie zunächst nicht weiter.
+Dialoge: keine
+Kontinuität / Änderung: Heer lagert vor hohem Erdwall.
+
+KACHEL 7: Die schwache Stelle
+Ort und Zeit: Die schwache Stelle
+Sichtbare Figuren: Feldherr der Sassen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Feldherr zu Fuß vor anderem Bodenmaterial.
+Erzählertext: Dann fanden sie ein Stück aus Torf.
+Dialoge: keine
+Kontinuität / Änderung: Ein Feldherr zu Fuß vor anderem Bodenmaterial.
+
+KACHEL 8: Der Brand
+Ort und Zeit: Der Brand
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Brennender Torfabschnitt ohne Menschen im Feuer.
+Erzählertext: Dieses Stück ließ sich niederbrennen.
+Dialoge: keine
+Kontinuität / Änderung: Brennender Torfabschnitt ohne Menschen im Feuer.
+
+KACHEL 9: Die verborgene Kasse
+Ort und Zeit: Die verborgene Kasse
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verschlossene Kriegskasse wird in dunkler Erde versenkt.
+Erzählertext: Die bedrängten Jüten vergruben ihre Kriegskasse.
+Dialoge: keine
+Kontinuität / Änderung: Verschlossene Kriegskasse wird in dunkler Erde versenkt.
+
+KACHEL 10: Der Durchbruch
+Ort und Zeit: Der Durchbruch
+Sichtbare Figuren: Feldherr der Sassen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Feldherr mit Truppe, keine Körperverletzungen.
+Erzählertext: Die Sassen drangen durch den Wall.
+Dialoge: keine
+Kontinuität / Änderung: Ein Feldherr mit Truppe, keine Körperverletzungen.
+
+KACHEL 11: Der erste Ausgang
+Ort und Zeit: Der erste Ausgang
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassener Kampfplatz nach Schlacht, keine Leichen.
+Erzählertext: Sie gewannen eine schwere Schlacht.
+Dialoge: keine
+Kontinuität / Änderung: Verlassener Kampfplatz nach Schlacht, keine Leichen.
+
+KACHEL 12: Der begonnene Rückweg
+Ort und Zeit: Der begonnene Rückweg
+Sichtbare Figuren: Feldherr der Sassen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sassen ziehen vom Schlachtort fort.
+Erzählertext: Danach hielten sie den Kampf für beendet.
+Dialoge: keine
+Kontinuität / Änderung: Sassen ziehen vom Schlachtort fort.
+
+KACHEL 13: Die erneute Sammlung
+Ort und Zeit: Die erneute Sammlung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jütische Truppe sammelt sich hinter Gehölz.
+Erzählertext: Die Jüten sammelten sich noch einmal.
+Dialoge: keine
+Kontinuität / Änderung: Jütische Truppe sammelt sich hinter Gehölz.
+
+KACHEL 14: Der Kropper Busch
+Ort und Zeit: Der Kropper Busch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Heer auf offenem Weg vor dichtem Buschland.
+Erzählertext: Die Sieger waren noch nicht am Kropper Busch vorbei.
+Dialoge: keine
+Kontinuität / Änderung: Ein Heer auf offenem Weg vor dichtem Buschland.
+
+KACHEL 15: Die zweite Schlacht
+Ort und Zeit: Die zweite Schlacht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Staub über fernem Kampfplatz, fünf tiefe Fingerabdrücke in Stein vorn.
+Erzählertext: Bei Kropp unterlagen die Sassen. Auch ihr sagenhaft starker Feldherr fiel.
+Dialoge: keine
+Kontinuität / Änderung: Staub über fernem Kampfplatz, fünf tiefe Fingerabdrücke in Stein vorn.
+
+KACHEL 16: Der gebliebene Satz
+Ort und Zeit: Der gebliebene Satz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stiller Weg vor Kropper Busch.
+Erzählertext: Der erste Sieg war kein sicherer Heimweg. Das blieb im Sprichwort erhalten.
+Dialoge: keine
+Kontinuität / Änderung: Stiller Weg vor Kropper Busch.

@@ -1,0 +1,141 @@
+TITEL: Des Riesen Handwerfen – Die neue Grenze
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Brabon der Antwerpener Sage
+Aussehen: Erwachsener Mann mit kurzem braunem Bart.
+Kleidung: Grauer Harnisch, grüner Überwurf. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.
+Persönlichkeit und Vorgeschichte: Besiegt den Riesen und gewinnt eigene Herrschaft.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Antigonus an der Schelde
+Aussehen: Sehr großer erwachsener Mann mit dunklem Vollbart, zwei Armen und zwei Beinen.
+Kleidung: Braunes Fellwams, graue Hose.
+Persönlichkeit und Vorgeschichte: Erpresst Reisende und bestraft Verweigerer grausam.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Cäsar der Brabonsage
+Aussehen: Erwachsener Mann mit kurzem dunklem Haar, bartlos.
+Kleidung: Schlichter römischer Feldherrnmantel, Sandalen.
+Persönlichkeit und Vorgeschichte: Bestätigt in der Ursprungssage Brabons Stellung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Überfahrt
+Ort und Zeit: Die Überfahrt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hoher Turm an der Schelde, wartende Reisende mit Bündeln am Ufer.
+Erzählertext: Antigonus verlangte von Reisenden die Hälfte ihrer Güter.
+Dialoge: keine
+Kontinuität / Änderung: Hoher Turm an der Schelde, wartende Reisende mit Bündeln am Ufer.
+
+KACHEL 2: Die Drohung
+Ort und Zeit: Die Drohung
+Sichtbare Figuren: Antigonus an der Schelde
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Riese versperrt Erwachsenen den Weg, Hände leer, keine Verstümmelung.
+Erzählertext: Wer nicht zahlte, sollte kämpfen und die rechte Hand verlieren.
+Dialoge: keine
+Kontinuität / Änderung: Riese versperrt Erwachsenen den Weg, Hände leer, keine Verstümmelung.
+
+KACHEL 3: Die Ankunft
+Ort und Zeit: Die Ankunft
+Sichtbare Figuren: Brabon der Antwerpener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein gerüsteter Mann mit eingesteckter Klinge vor einer eisernen Signalstange.
+Erzählertext: Brabon wollte weder Habe noch Hand hergeben.
+Dialoge: keine
+Kontinuität / Änderung: Ein gerüsteter Mann mit eingesteckter Klinge vor einer eisernen Signalstange.
+
+KACHEL 4: Das Signal
+Ort und Zeit: Das Signal
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine eiserne Stange wird von einem namenlosen Erwachsenen angeschlagen, Turmtür fern.
+Erzählertext: Der Knecht rief den Riesen mit tiefem Klang.
+Dialoge: keine
+Kontinuität / Änderung: Eine eiserne Stange wird von einem namenlosen Erwachsenen angeschlagen, Turmtür fern.
+
+KACHEL 5: Die Herausforderung
+Ort und Zeit: Die Herausforderung
+Sichtbare Figuren: Brabon der Antwerpener Sage, Antigonus an der Schelde
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsener Ritter und Riese auf derselben Uferfläche, keine Kinderproportionen.
+Erzählertext: Brabon stellte sich ihm allein.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsener Ritter und Riese auf derselben Uferfläche, keine Kinderproportionen.
+
+KACHEL 6: Die gezogene Klinge
+Ort und Zeit: Die gezogene Klinge
+Sichtbare Figuren: Brabon der Antwerpener Sage, Antigonus an der Schelde
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge in Brabons rechter Hand, linke Scheide leer, Riese mit zwei sichtbaren Armen.
+Erzählertext: Ein schwerer Kampf begann.
+Dialoge: keine
+Kontinuität / Änderung: Eine Klinge in Brabons rechter Hand, linke Scheide leer, Riese mit zwei sichtbaren Armen.
+
+KACHEL 7: Der wechselnde Vorteil
+Ort und Zeit: Der wechselnde Vorteil
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kampfkonturen hinter einem Uferfelsen, kein Blutkontakt oder Gliedmaßenbild.
+Erzählertext: Die Kraft des Riesen machte den Ausgang lange ungewiss.
+Dialoge: keine
+Kontinuität / Änderung: Kampfkonturen hinter einem Uferfelsen, kein Blutkontakt oder Gliedmaßenbild.
+
+KACHEL 8: Der Besiegte
+Ort und Zeit: Der Besiegte
+Sichtbare Figuren: Brabon der Antwerpener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter allein im Vordergrund, Riese vollständig hinter Felsen verdeckt.
+Erzählertext: Schließlich tötete Brabon Antigonus.
+Dialoge: keine
+Kontinuität / Änderung: Ritter allein im Vordergrund, Riese vollständig hinter Felsen verdeckt.
+
+KACHEL 9: Die wiederholte Grausamkeit
+Ort und Zeit: Die wiederholte Grausamkeit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dunkles verhülltes Bündel am Ufer, keine sichtbare Hand oder Kopf.
+Erzählertext: Dem Riesen schlug er die rechte Hand ab. Er übernahm damit die grausame Geste seines Gegners.
+Dialoge: keine
+Kontinuität / Änderung: Ein dunkles verhülltes Bündel am Ufer, keine sichtbare Hand oder Kopf.
+
+KACHEL 10: Der Handwurf
+Ort und Zeit: Der Handwurf
+Sichtbare Figuren: Brabon der Antwerpener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann nach einem Wurf, kein Körperteil im Bild, ein Wellenring in Flussmitte. Klinge wieder links eingesteckt.
+Erzählertext: So weit der Wurf reiche, beanspruchte er den Strom für sein gewonnenes Land.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann nach einem Wurf, kein Körperteil im Bild, ein Wellenring in Flussmitte. Klinge wieder links eingesteckt.
+
+KACHEL 11: Die freie Überfahrt
+Ort und Zeit: Die freie Überfahrt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Reisende gehen zum Ufer, Erpresserturm verlassen.
+Erzählertext: Die Überfahrt war befreit. Zugleich entstand eine neue Grenze unter einem neuen Herrn.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Reisende gehen zum Ufer, Erpresserturm verlassen.
+
+KACHEL 12: Vor Cäsar
+Ort und Zeit: Vor Cäsar
+Sichtbare Figuren: Brabon der Antwerpener Sage, Cäsar der Brabonsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene am Ufer, keine erfundene antike Stadt im Vollausbau.
+Erzählertext: Cäsar lobte nach der Sage seinen Sieg.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene am Ufer, keine erfundene antike Stadt im Vollausbau.
+
+KACHEL 13: Der bestätigte Rang
+Ort und Zeit: Der bestätigte Rang
+Sichtbare Figuren: Brabon der Antwerpener Sage, Cäsar der Brabonsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer vor niedrigem Burgenbau, Hände leer.
+Erzählertext: Burg, Rechte und Rang sollten Brabons Stellung festigen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer vor niedrigem Burgenbau, Hände leer.
+
+KACHEL 14: Der Name am Strom
+Ort und Zeit: Der Name am Strom
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frühe Ansiedlung mit Flussübergang, kein buchstäblicher Handregen.
+Erzählertext: Antwerpen erklärt die Sage aus dem Handwerfen. Die Befreiung und der neue Machtanspruch bleiben beide Teil des Anfangs.
+Dialoge: keine
+Kontinuität / Änderung: Frühe Ansiedlung mit Flussübergang, kein buchstäblicher Handregen.

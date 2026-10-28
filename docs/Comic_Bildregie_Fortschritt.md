@@ -1,6 +1,6 @@
 # Fortschritt der Bildregie
 
-**Aktuelle Auswahl: 200 Geschichten.** [Weitere 100 vollständige Skripte samt Bildregie](../examples/comics/erweiterung-200/README.md) wurden ergänzt. Die erste Erweiterungsstufe umfasste 100 Geschichten. Die 89 unten dokumentierten Fassungen wurden am 28. Oktober um [elf weitere vollständige Skripte samt Bildregie](../examples/comics/erweiterung-100/README.md) ergänzt.
+**Aktuelle Auswahl: 300 Geschichten.** [Weitere 100 vollständige Skripte samt Bildregie](../examples/comics/erweiterung-300/README.md) wurden ergänzt. Die [vorige Erweiterung auf 200](../examples/comics/erweiterung-200/README.md) bleibt vollständig erhalten. Die erste Erweiterungsstufe umfasste 100 Geschichten. Die 89 unten dokumentierten Fassungen wurden am 28. Oktober um [elf weitere vollständige Skripte samt Bildregie](../examples/comics/erweiterung-100/README.md) ergänzt.
 
 **89 / 89 weitere Geschichten fertig.** Das Schneiderlein bleibt die separat geprüfte Referenz.
 
@@ -14,7 +14,7 @@ Lokaler Status und private Vorher-/Nachher-Snapshots: `/home/jee/docker-data/com
 
 ## Auswahl im Studio
 
-Die erste Begrenzung zeigte in Schritt 1, Schritt 2 und im Vorlagenkatalog diese 89 Geschichten; aktuell sind es mit den oben verlinkten Erweiterungen 200. Weitere vorhandene Geschichten und Vorlagen bleiben gespeichert und sind für später ausgeblendet. Eine ausdrücklich neu angelegte Geschichte wird der Auswahl hinzugefügt. Die letzte geöffnete Geschichte und vorhandene Ausgaben bleiben zugänglich.
+Die erste Begrenzung zeigte in Schritt 1, Schritt 2 und im Vorlagenkatalog diese 89 Geschichten; aktuell sind es mit den oben verlinkten Erweiterungen 300. Weitere vorhandene Geschichten und Vorlagen bleiben gespeichert und sind für später ausgeblendet. Eine ausdrücklich neu angelegte Geschichte wird der Auswahl hinzugefügt. Die letzte geöffnete Geschichte und vorhandene Ausgaben bleiben zugänglich.
 
 Die Auswahl wird lokal unter `story-selection-ids` gespeichert, die zurückgestellten Vorlagen unter `source-catalog-deferred`. Die vorherigen Einstellungen liegen im privaten Snapshot `auswahl-einstellungen-vorher.json`; beim späteren Erweitern wird die Auswahl geändert, nicht der Datenbestand gelöscht.
 

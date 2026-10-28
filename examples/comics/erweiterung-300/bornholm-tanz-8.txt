@@ -1,0 +1,93 @@
+TITEL: Dort tanzt Bornholm hin – Die teure Ehre
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Dänenkönig beim Tanz
+Aussehen: Erwachsener Mann mit grauem Bart.
+Kleidung: Blauer Hofrock, goldener Reif.
+Persönlichkeit und Vorgeschichte: Gewinnt sein Pfand ohne Zahlung zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Lübecker Bürgermeister
+Aussehen: Älterer Mann mit braunem Bart.
+Kleidung: Schwarzer Ratsrock.
+Persönlichkeit und Vorgeschichte: Schätzt höfische Auszeichnung höher als städtisches Geld.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Frau des Bürgermeisters
+Aussehen: Erwachsene Frau mit dunklem Haar.
+Kleidung: Grünes geschlossenes Festkleid.
+Persönlichkeit und Vorgeschichte: Erhält den Ehrenplatz und den ersten Tanz.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das Pfand
+Ort und Zeit: Das Pfand
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Handschlag über unbeschrifteter Inselkarte.
+Erzählertext: Der Dänenkönig hatte Lübeck Bornholm für eine Geldschuld verpfändet.
+Dialoge: keine
+Kontinuität / Änderung: Handschlag über unbeschrifteter Inselkarte.
+
+KACHEL 2: Der hohe Besuch
+Ort und Zeit: Der hohe Besuch
+Sichtbare Figuren: Dänenkönig beim Tanz, Lübecker Bürgermeister
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ratsversammlung im geschmückten Saal.
+Erzählertext: Später besuchte er die Stadt.
+Dialoge: keine
+Kontinuität / Änderung: Ratsversammlung im geschmückten Saal.
+
+KACHEL 3: Der Ehrenplatz
+Ort und Zeit: Der Ehrenplatz
+Sichtbare Figuren: Dänenkönig beim Tanz, Frau des Bürgermeisters, Lübecker Bürgermeister
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene an Festtafel.
+Erzählertext: Die Frau des Bürgermeisters erhielt den Platz an seiner Rechten.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene an Festtafel.
+
+KACHEL 4: Der erste Tanz
+Ort und Zeit: Der erste Tanz
+Sichtbare Figuren: Dänenkönig beim Tanz, Frau des Bürgermeisters
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Paar im Saal, kein weiterer Ehekonflikt erfunden.
+Erzählertext: Er führte sie zum ersten Tanz.
+Dialoge: keine
+Kontinuität / Änderung: Ein Paar im Saal, kein weiterer Ehekonflikt erfunden.
+
+KACHEL 5: Der stolze Zuschauer
+Ort und Zeit: Der stolze Zuschauer
+Sichtbare Figuren: Lübecker Bürgermeister
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bürgermeister blickt auf das tanzende Paar.
+Erzählertext: Die Auszeichnung beeindruckte den Bürgermeister sehr.
+Dialoge: keine
+Kontinuität / Änderung: Bürgermeister blickt auf das tanzende Paar.
+
+KACHEL 6: Der Kommentar
+Ort und Zeit: Der Kommentar
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lübecker Bürger beobachten den Tanz aus Abstand.
+Erzählertext: Die Bürger spotteten schon: Dort tanzt Bornholm hin.
+Dialoge: keine
+Kontinuität / Änderung: Lübecker Bürger beobachten den Tanz aus Abstand.
+
+KACHEL 7: Die Freigabe
+Ort und Zeit: Die Freigabe
+Sichtbare Figuren: Lübecker Bürgermeister, Dänenkönig beim Tanz
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine Münzen bei der Übergabe.
+Erzählertext: Bald wurde das Pfand freigegeben, ohne dass der König die Schuld bezahlte.
+Dialoge: keine
+Kontinuität / Änderung: Keine Münzen bei der Übergabe.
+
+KACHEL 8: Die Rechnung
+Ort und Zeit: Die Rechnung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Geldschale neben versiegeltem Vertrag.
+Erzählertext: Die Ehre war persönlich gewesen. Bezahlt hatte die Stadt.
+Dialoge: keine
+Kontinuität / Änderung: Leere Geldschale neben versiegeltem Vertrag.

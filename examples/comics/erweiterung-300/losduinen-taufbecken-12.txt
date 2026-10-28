@@ -1,0 +1,118 @@
+TITEL: So viel Kinder als Tage im Jahre – Die verweigerte Gabe
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Margaretha der Losduinener Sage
+Aussehen: Erwachsene Frau um vierzig mit braunem Haar.
+Kleidung: Dunkelblaues langes Kleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Verweigert Hilfe wegen eines voreiligen Urteils.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bittende Zwillingsmutter
+Aussehen: Erwachsene Frau mit dunklem Zopf und müdem Gesicht.
+Kleidung: Graues geflicktes Kleid.
+Persönlichkeit und Vorgeschichte: Bittet mit zwei vollständig eingewickelten Säuglingen um eine Gabe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die beiden Becken
+Ort und Zeit: Die beiden Becken
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei getrennte kupferne Taufbecken in einer alten Kirche.
+Erzählertext: In Losduinen zeigte man zwei Taufbecken und erzählte eine erschreckende Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei getrennte kupferne Taufbecken in einer alten Kirche.
+
+KACHEL 2: Die Reisende
+Ort und Zeit: Die Reisende
+Sichtbare Figuren: Margaretha der Losduinener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine vornehme Frau auf einem Dorfweg, Hände leer.
+Erzählertext: Gräfin Margaretha war in ihre alte Heimat gereist.
+Dialoge: keine
+Kontinuität / Änderung: Eine vornehme Frau auf einem Dorfweg, Hände leer.
+
+KACHEL 3: Die Bitte
+Ort und Zeit: Die Bitte
+Sichtbare Figuren: Bittende Zwillingsmutter, Margaretha der Losduinener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei vollständig bedeckte Babys sicher je auf einem Arm der Mutter, Gräfin seitlich.
+Erzählertext: Eine arme Frau mit Zwillingen bat um Hilfe.
+Dialoge: keine
+Kontinuität / Änderung: Zwei vollständig bedeckte Babys sicher je auf einem Arm der Mutter, Gräfin seitlich.
+
+KACHEL 4: Der falsche Schluss
+Ort und Zeit: Der falsche Schluss
+Sichtbare Figuren: Margaretha der Losduinener Sage, Bittende Zwillingsmutter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gräfin abweisend, arme Mutter hält die Kinder weiter sicher.
+Erzählertext: Margaretha deutete die Zwillinge als Zeichen von Untreue und verweigerte die Gabe.
+Dialoge: keine
+Kontinuität / Änderung: Gräfin abweisend, arme Mutter hält die Kinder weiter sicher.
+
+KACHEL 5: Die Verwünschung
+Ort und Zeit: Die Verwünschung
+Sichtbare Figuren: Bittende Zwillingsmutter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Mutter mit zwei bedeckten Kindern, keine drohende Gewalttat.
+Erzählertext: Die Verletzte wünschte ihr so viele Kinder wie Tage im Jahr.
+Dialoge: keine
+Kontinuität / Änderung: Eine Mutter mit zwei bedeckten Kindern, keine drohende Gewalttat.
+
+KACHEL 6: Das unmögliche Geschehen
+Ort und Zeit: Das unmögliche Geschehen
+Sichtbare Figuren: Margaretha der Losduinener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau im Zimmer, Helferin an der Tür, keine groteske Körpervergrößerung.
+Erzählertext: Die Sage lässt diese Verwünschung wahr werden.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau im Zimmer, Helferin an der Tür, keine groteske Körpervergrößerung.
+
+KACHEL 7: Der verschlossene Geburtsraum
+Ort und Zeit: Der verschlossene Geburtsraum
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossene Zimmertür mit wartenden namenlosen Erwachsenen davor.
+Erzählertext: Von dreihundertfünfundsechzig Kindern erzählt sie. Das Maß übersteigert das Urteil der Gräfin ins Unmögliche.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossene Zimmertür mit wartenden namenlosen Erwachsenen davor.
+
+KACHEL 8: Die Taufe
+Ort und Zeit: Die Taufe
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselben zwei kupfernen Taufbecken, ein Geistlicher in Abstand, keine Menge von Säuglingskörpern.
+Erzählertext: Ein Bischof soll die Kinder in den zwei Becken getauft haben.
+Dialoge: keine
+Kontinuität / Änderung: Dieselben zwei kupfernen Taufbecken, ein Geistlicher in Abstand, keine Menge von Säuglingskörpern.
+
+KACHEL 9: Der Verlust
+Ort und Zeit: Der Verlust
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stiller Kirchenraum mit geschlossenem schlichten Grab, keine Kinderleichen.
+Erzählertext: Alle Kinder und die Mutter starben in der Überlieferung.
+Dialoge: keine
+Kontinuität / Änderung: Stiller Kirchenraum mit geschlossenem schlichten Grab, keine Kinderleichen.
+
+KACHEL 10: Die erzählte Erinnerung
+Ort und Zeit: Die erzählte Erinnerung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Holztafel an der Kirchenwand neben zwei Becken, keine kleinteilige lesbare Zahlentabelle.
+Erzählertext: Tafeln und Becken bewahrten die Geschichte.
+Dialoge: keine
+Kontinuität / Änderung: Alte Holztafel an der Kirchenwand neben zwei Becken, keine kleinteilige lesbare Zahlentabelle.
+
+KACHEL 11: Die spätere Hoffnung
+Ort und Zeit: Die spätere Hoffnung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vollständig bekleidete erwachsene Besucherin steht bei den Becken, Hände leer.
+Erzählertext: Später verbanden Menschen selbst Hoffnungen mit diesen Erinnerungsstücken.
+Dialoge: keine
+Kontinuität / Änderung: Vollständig bekleidete erwachsene Besucherin steht bei den Becken, Hände leer.
+
+KACHEL 12: Das doppelt harte Urteil
+Ort und Zeit: Das doppelt harte Urteil
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei leere Becken im ruhigen Tageslicht.
+Erzählertext: Die verweigerte Hilfe beruhte auf einem falschen Schluss. Auch die maßlose Strafe bleibt erschreckend, nicht einfach gerecht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei leere Becken im ruhigen Tageslicht.

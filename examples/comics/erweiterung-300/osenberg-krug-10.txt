@@ -1,0 +1,113 @@
+TITEL: Das Zwergvolk – Der vergessene Krug
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Zwerg vom Osenberg
+Aussehen: Sehr alter kleiner Mann mit weißem Bart.
+Kleidung: Brauner Rock, rote Mütze.
+Persönlichkeit und Vorgeschichte: Fürchtet trotz seines Alters den Großvater.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wirt von Bümmerstett
+Aussehen: Erwachsener Mann mit grauem Bart.
+Kleidung: Leinenschürze, blaues Hemd.
+Persönlichkeit und Vorgeschichte: Bewahrt den fremden Krug.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Wirtstochter
+Aussehen: Erwachsene Frau mit braunem Haar.
+Kleidung: Grünes Kleid, weiße Schürze.
+Persönlichkeit und Vorgeschichte: Führt später die Wirtschaft fort.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die guten Gäste
+Ort und Zeit: Die guten Gäste
+Sichtbare Figuren: Wirt von Bümmerstett, Zwerg vom Osenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Großer Wirt und kleiner erwachsener Zwerg.
+Erzählertext: Die Zwerge vom Osenberg kauften gern frisches Bier.
+Dialoge: keine
+Kontinuität / Änderung: Großer Wirt und kleiner erwachsener Zwerg.
+
+KACHEL 2: Das fremde Silber
+Ort und Zeit: Das fremde Silber
+Sichtbare Figuren: Zwerg vom Osenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Silbermünzen ohne lesbare Prägung neben einem Krug.
+Erzählertext: Sie zahlten mit gutem, aber unbekanntem Geld.
+Dialoge: keine
+Kontinuität / Änderung: Silbermünzen ohne lesbare Prägung neben einem Krug.
+
+KACHEL 3: Der müde Gast
+Ort und Zeit: Der müde Gast
+Sichtbare Figuren: Zwerg vom Osenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schlafender alter Zwerg, sein Krug unbeschädigt daneben.
+Erzählertext: Einer trank an einem heißen Tag und schlief tief ein.
+Dialoge: keine
+Kontinuität / Änderung: Ein schlafender alter Zwerg, sein Krug unbeschädigt daneben.
+
+KACHEL 4: Das Erwachen
+Ort und Zeit: Das Erwachen
+Sichtbare Figuren: Zwerg vom Osenberg, Wirt von Bümmerstett
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Krug bleibt auf Tisch.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Zwerg vom Osenberg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Was wird mein Großvater mich schelten!“
+Kontinuität / Änderung: Ein einzelner Krug bleibt auf Tisch.
+
+KACHEL 5: Die Eile
+Ort und Zeit: Die Eile
+Sichtbare Figuren: Zwerg vom Osenberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwerg mit leeren Händen, Krug bleibt zurück.
+Erzählertext: Er eilte fort und vergaß seinen Krug.
+Dialoge: keine
+Kontinuität / Änderung: Zwerg mit leeren Händen, Krug bleibt zurück.
+
+KACHEL 6: Das letzte Geschenk
+Ort und Zeit: Das letzte Geschenk
+Sichtbare Figuren: Wirt von Bümmerstett
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein intakter Krug auf sicherem Holzregal.
+Erzählertext: Kein Zwerg kam wieder. Der Wirt hütete den Krug.
+Dialoge: keine
+Kontinuität / Änderung: Ein intakter Krug auf sicherem Holzregal.
+
+KACHEL 7: Die Übergabe
+Ort und Zeit: Die Übergabe
+Sichtbare Figuren: Wirt von Bümmerstett, Wirtstochter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gleicher Krug im selben Regal.
+Erzählertext: Später führte seine Tochter das Haus mit ihrem Mann weiter.
+Dialoge: keine
+Kontinuität / Änderung: Gleicher Krug im selben Regal.
+
+KACHEL 8: Die guten Jahre
+Ort und Zeit: Die guten Jahre
+Sichtbare Figuren: Wirtstochter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Belebtes Wirtshaus, Krug weiterhin unversehrt oben.
+Erzählertext: Lange blieb der Wirtschaft das Glück treu.
+Dialoge: keine
+Kontinuität / Änderung: Belebtes Wirtshaus, Krug weiterhin unversehrt oben.
+
+KACHEL 9: Der Bruch
+Ort und Zeit: Der Bruch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Scherben des einzigen Kruges unter dem leeren Regal.
+Erzählertext: Dann zerbrach der Krug durch Unvorsicht.
+Dialoge: keine
+Kontinuität / Änderung: Scherben des einzigen Kruges unter dem leeren Regal.
+
+KACHEL 10: Das stille Haus
+Ort und Zeit: Das stille Haus
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Gaststube, Scherben sorgfältig in kleiner Schale.
+Erzählertext: Von da an ging die Wirtschaft zurück. Das Geerbte war nicht unzerbrechlich gewesen.
+Dialoge: keine
+Kontinuität / Änderung: Leere Gaststube, Scherben sorgfältig in kleiner Schale.

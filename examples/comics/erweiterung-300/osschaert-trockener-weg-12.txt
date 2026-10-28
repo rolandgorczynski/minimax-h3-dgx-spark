@@ -1,0 +1,129 @@
+TITEL: Osschaert – Der trockene Graben
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Alter Gärtner
+Aussehen: Alter Mann mit weißem Bart.
+Kleidung: Brauner Wintermantel, Wollmütze, Stiefel.
+Persönlichkeit und Vorgeschichte: Will früh zur Stadt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bäuerin mit Tragkorb
+Aussehen: Erwachsene Frau mit dunklem Haar.
+Kleidung: Blauer Mantel, Tuch, Weidenkiepe.
+Persönlichkeit und Vorgeschichte: Ahnt nichts von der wandernden Last.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Osschaert
+Aussehen: Dunkler kleiner Kobold mit spitzen Ohren.
+Kleidung: Graue zottige Hülle.
+Persönlichkeit und Vorgeschichte: Täuscht Wasser vor und wechselt später in Fledermausgestalt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Winterweg
+Ort und Zeit: Der Winterweg
+Sichtbare Figuren: Alter Gärtner
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann auf trockenem Weg, Schnee auf den Ästen.
+Erzählertext: Vor Tagesanbruch ging ein Gärtner zur Stadt.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann auf trockenem Weg, Schnee auf den Ästen.
+
+KACHEL 2: Das greuliche Ding
+Ort und Zeit: Das greuliche Ding
+Sichtbare Figuren: Alter Gärtner, Osschaert
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Figuren, keine echten Wasserhindernisse im Weg.
+Erzählertext: Er sah Osschaert und wich erschrocken aus.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Figuren, keine echten Wasserhindernisse im Weg.
+
+KACHEL 3: Die Trennung
+Ort und Zeit: Die Trennung
+Sichtbare Figuren: Alter Gärtner
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gärtnerperspektive: dunkles Wasser zwischen Wiese und Straße.
+Erzählertext: Nun schienen ihn breite Wassergräben einzuschließen.
+Dialoge: keine
+Kontinuität / Änderung: Gärtnerperspektive: dunkles Wasser zwischen Wiese und Straße.
+
+KACHEL 4: Kein Übergang
+Ort und Zeit: Kein Übergang
+Sichtbare Figuren: Alter Gärtner
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann und ein breiter scheinbarer Wasserstreifen.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alter Gärtner
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier komme ich nicht hinüber!“
+Kontinuität / Änderung: Ein Mann und ein breiter scheinbarer Wasserstreifen.
+
+KACHEL 5: Der Fluch
+Ort und Zeit: Der Fluch
+Sichtbare Figuren: Alter Gärtner
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schnee fällt von einem Ast, Mann darunter.
+Erzählertext: In seiner Eile fluchte er.
+Dialoge: keine
+Kontinuität / Änderung: Schnee fällt von einem Ast, Mann darunter.
+
+KACHEL 6: Die Last
+Ort und Zeit: Die Last
+Sichtbare Figuren: Alter Gärtner, Osschaert
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Kobold auf einem erwachsenen Mann, beide klar getrennt.
+Erzählertext: Da sprang Osschaert ihm auf den Rücken und trieb ihn zum Graben.
+Dialoge: keine
+Kontinuität / Änderung: Ein Kobold auf einem erwachsenen Mann, beide klar getrennt.
+
+KACHEL 7: Der erste Schritt
+Ort und Zeit: Der erste Schritt
+Sichtbare Figuren: Alter Gärtner, Osschaert
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fuß landet auf trockenem Kies statt auf Wasser.
+Erzählertext: Der erwartete Sturz blieb aus.
+Dialoge: keine
+Kontinuität / Änderung: Fuß landet auf trockenem Kies statt auf Wasser.
+
+KACHEL 8: Der entlarvte Weg
+Ort und Zeit: Der entlarvte Weg
+Sichtbare Figuren: Alter Gärtner, Osschaert
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kein Graben mehr sichtbar, trockene Heerstraße.
+Erzählertext: Das Wasser war Täuschung. Die Last war geblieben.
+Dialoge: keine
+Kontinuität / Änderung: Kein Graben mehr sichtbar, trockene Heerstraße.
+
+KACHEL 9: Die Begegnung
+Ort und Zeit: Die Begegnung
+Sichtbare Figuren: Alter Gärtner, Osschaert, Bäuerin mit Tragkorb
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf demselben trockenen Weg.
+Erzählertext: Eine Viertelstunde später kam eine Frau mit einer Kiepe.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene auf demselben trockenen Weg.
+
+KACHEL 10: Der Wechsel
+Ort und Zeit: Der Wechsel
+Sichtbare Figuren: Alter Gärtner, Bäuerin mit Tragkorb, Osschaert
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kobold vollständig in der Kiepe, Gärtnerrücken leer.
+Erzählertext: Osschaert sprang in ihren Korb.
+Dialoge: keine
+Kontinuität / Änderung: Kobold vollständig in der Kiepe, Gärtnerrücken leer.
+
+KACHEL 11: Der Blick hinein
+Ort und Zeit: Der Blick hinein
+Sichtbare Figuren: Bäuerin mit Tragkorb
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Korb am Boden, daraus genau eine aufsteigende Fledermaus; Koboldgestalt fort.
+Erzählertext: Die Frau sah nach der plötzlichen Last.
+Dialoge: keine
+Kontinuität / Änderung: Korb am Boden, daraus genau eine aufsteigende Fledermaus; Koboldgestalt fort.
+
+KACHEL 12: Das weitergegebene Entsetzen
+Ort und Zeit: Das weitergegebene Entsetzen
+Sichtbare Figuren: Bäuerin mit Tragkorb
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine vergrößerte Fledermaus über dem Korb, Gärtner fern.
+Erzählertext: Das Tier wuchs und lachte. Einer war befreit; eine andere erschrak.
+Dialoge: keine
+Kontinuität / Änderung: Eine vergrößerte Fledermaus über dem Korb, Gärtner fern.

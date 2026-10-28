@@ -1,0 +1,122 @@
+TITEL: Die Hand aus dem Grabe – Die bleibende Grenze
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Vogt von Marienstede
+Aussehen: Erwachsener Mann mit dunklem Bart.
+Kleidung: Brauner Rock, schwarze Hose.
+Persönlichkeit und Vorgeschichte: Verachtet die Warnungen seines Vaters.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Alter Vater des Vogtes
+Aussehen: Alter Mann mit weißem Bart.
+Kleidung: Grauer Mantel, braune Hose.
+Persönlichkeit und Vorgeschichte: Versucht den Sohn zurückzuhalten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Kapelle
+Ort und Zeit: Die Kapelle
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Kapelle neben einem Wasserlauf.
+Erzählertext: In Marienstede galt ein Wasser bei der Kapelle als heilkräftig.
+Dialoge: keine
+Kontinuität / Änderung: Kleine Kapelle neben einem Wasserlauf.
+
+KACHEL 2: Der Spötter
+Ort und Zeit: Der Spötter
+Sichtbare Figuren: Vogt von Marienstede
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein müdes, unverletztes Pferd vor Stall.
+Erzählertext: Der Vogt verspottete die Wallfahrenden.
+Dialoge: keine
+Kontinuität / Änderung: Ein müdes, unverletztes Pferd vor Stall.
+
+KACHEL 3: Der eigene Bedarf
+Ort und Zeit: Der eigene Bedarf
+Sichtbare Figuren: Vogt von Marienstede
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vogt führt müdes Pferd aus dem Stall.
+Erzählertext: Als sein Pferd krank wurde, wollte er es trotzdem zum Wasser bringen.
+Dialoge: keine
+Kontinuität / Änderung: Vogt führt müdes Pferd aus dem Stall.
+
+KACHEL 4: Die Warnung
+Ort und Zeit: Die Warnung
+Sichtbare Figuren: Alter Vater des Vogtes, Vogt von Marienstede
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Körper klar getrennt: Vater, Sohn, Pferd.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Alter Vater des Vogtes
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mach aus der Hoffnung anderer keinen Spott.“
+Kontinuität / Änderung: Drei Körper klar getrennt: Vater, Sohn, Pferd.
+
+KACHEL 5: Die Abweisung
+Ort und Zeit: Die Abweisung
+Sichtbare Figuren: Vogt von Marienstede, Alter Vater des Vogtes
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Sohn hält weiter den Zaum.
+Erzählertext: Der Sohn lachte die Warnung aus.
+Dialoge: keine
+Kontinuität / Änderung: Sohn hält weiter den Zaum.
+
+KACHEL 6: Der letzte Versuch
+Ort und Zeit: Der letzte Versuch
+Sichtbare Figuren: Alter Vater des Vogtes, Vogt von Marienstede
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alter Mann am stehenden Pferd.
+Erzählertext: Der Vater stellte sich vor das Pferd, um ihn aufzuhalten.
+Dialoge: keine
+Kontinuität / Änderung: Alter Mann am stehenden Pferd.
+
+KACHEL 7: Die überschrittene Grenze
+Ort und Zeit: Die überschrittene Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herabgefallener grauer Hut am Boden, Tat außerhalb des Bildes.
+Erzählertext: Der Vogt schlug seinen alten Vater mit einem Riemen.
+Dialoge: keine
+Kontinuität / Änderung: Herabgefallener grauer Hut am Boden, Tat außerhalb des Bildes.
+
+KACHEL 8: Der Weg zum Wasser
+Ort und Zeit: Der Weg zum Wasser
+Sichtbare Figuren: Vogt von Marienstede
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reiter am Wasser neben der Kapelle.
+Erzählertext: Er ritt weiter und tränkte sein Pferd.
+Dialoge: keine
+Kontinuität / Änderung: Reiter am Wasser neben der Kapelle.
+
+KACHEL 9: Das verlorene Vertrauen
+Ort und Zeit: Das verlorene Vertrauen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Wasserlauf vor Kapelle.
+Erzählertext: Von diesem Tag an verlor das Wasser in der Sage seine Heilkraft.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Wasserlauf vor Kapelle.
+
+KACHEL 10: Das kurze Danach
+Ort und Zeit: Das kurze Danach
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossenes Grab auf Kirchhof.
+Erzählertext: Der Vogt wurde krank und starb bald darauf.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossenes Grab auf Kirchhof.
+
+KACHEL 11: Das nicht ruhende Zeichen
+Ort und Zeit: Das nicht ruhende Zeichen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weiße handförmige Silhouette auf Grabplatte, keine realistische abgetrennte Hand.
+Erzählertext: Seine schlagende Hand, erzählt die Sage, ließ sich nicht im Grab halten.
+Dialoge: keine
+Kontinuität / Änderung: Weiße handförmige Silhouette auf Grabplatte, keine realistische abgetrennte Hand.
+
+KACHEL 12: Die Erinnerung in der Kirche
+Ort und Zeit: Die Erinnerung in der Kirche
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener kleiner Reliquienschrein in Wandnische.
+Erzählertext: Man bewahrte sie in der Kirche als Mahnung. Vergessen wurde die Gewalt gegen den Vater nicht.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener kleiner Reliquienschrein in Wandnische.

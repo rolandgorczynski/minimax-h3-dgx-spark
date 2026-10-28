@@ -1,0 +1,135 @@
+TITEL: Der schnelle Reiter Tod – Beim dritten Fragen
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Trauernde Verlobte
+Aussehen: Junge erwachsene Frau mit braunem Haar.
+Kleidung: Blaues geschlossenes Kleid, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Will dem Verstorbenen nahebleiben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Toter Bräutigam als Reiter
+Aussehen: Junger erwachsener Mann mit blassem Gesicht und schwarzem Haar.
+Kleidung: Grauer Rock, dunkle Hose.
+Persönlichkeit und Vorgeschichte: Kehrt als unheimlicher Reiter zurück.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das verlorene Glück
+Ort und Zeit: Das verlorene Glück
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei leere Plätze an einem bäuerlichen Hochzeitstisch.
+Erzählertext: Der Bräutigam eines jungen Paares wurde krank und starb.
+Dialoge: keine
+Kontinuität / Änderung: Zwei leere Plätze an einem bäuerlichen Hochzeitstisch.
+
+KACHEL 2: Der erste Abend
+Ort und Zeit: Der erste Abend
+Sichtbare Figuren: Trauernde Verlobte
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleidete Frau vor geschlossenem Grab.
+Erzählertext: Seine Verlobte fand keine Ruhe.
+Dialoge: keine
+Kontinuität / Änderung: Bekleidete Frau vor geschlossenem Grab.
+
+KACHEL 3: Die dritte Nacht
+Ort und Zeit: Die dritte Nacht
+Sichtbare Figuren: Trauernde Verlobte
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mond über dem stillen Friedhof.
+Erzählertext: In der dritten Nacht saß sie noch immer bei ihm.
+Dialoge: keine
+Kontinuität / Änderung: Mond über dem stillen Friedhof.
+
+KACHEL 4: Der Besucher
+Ort und Zeit: Der Besucher
+Sichtbare Figuren: Toter Bräutigam als Reiter, Trauernde Verlobte
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter und eine Frau zu Fuß.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Toter Bräutigam als Reiter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Willst du mit mir reiten?“
+Kontinuität / Änderung: Ein Reiter und eine Frau zu Fuß.
+
+KACHEL 5: Das Wiedererkennen
+Ort und Zeit: Das Wiedererkennen
+Sichtbare Figuren: Trauernde Verlobte, Toter Bräutigam als Reiter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vertrautes blasses Gesicht, keine Skelettverwandlung.
+Erzählertext: Sie erkannte ihren Geliebten und vertraute ihm.
+Dialoge: keine
+Kontinuität / Änderung: Vertrautes blasses Gesicht, keine Skelettverwandlung.
+
+KACHEL 6: Der Aufstieg
+Ort und Zeit: Der Aufstieg
+Sichtbare Figuren: Trauernde Verlobte, Toter Bräutigam als Reiter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weißes Pferd, zwei erwachsene Reitende.
+Erzählertext: Sie stieg zu ihm aufs Pferd.
+Dialoge: keine
+Kontinuität / Änderung: Ein weißes Pferd, zwei erwachsene Reitende.
+
+KACHEL 7: Die erste Frage
+Ort und Zeit: Die erste Frage
+Sichtbare Figuren: Toter Bräutigam als Reiter, Trauernde Verlobte
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Reitende auf einem Pferd im Mondlicht.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Toter Bräutigam als Reiter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mein Liebchen, graut dir nicht?“
+Dialog 2:
+  Sprecher: Trauernde Verlobte
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Nein. Ich bin ja bei dir.“
+Kontinuität / Änderung: Zwei Reitende auf einem Pferd im Mondlicht.
+
+KACHEL 8: Der weitere Weg
+Ort und Zeit: Der weitere Weg
+Sichtbare Figuren: Toter Bräutigam als Reiter, Trauernde Verlobte
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferd auf leerem Feldweg.
+Erzählertext: Der Ritt wurde immer hastiger.
+Dialoge: keine
+Kontinuität / Änderung: Ein Pferd auf leerem Feldweg.
+
+KACHEL 9: Die zweite Frage
+Ort und Zeit: Die zweite Frage
+Sichtbare Figuren: Trauernde Verlobte, Toter Bräutigam als Reiter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau blickt nun unsicher zurück.
+Erzählertext: Auch beim zweiten Fragen verneinte sie die Angst. Doch die Sicherheit schwand.
+Dialoge: keine
+Kontinuität / Änderung: Frau blickt nun unsicher zurück.
+
+KACHEL 10: Die dritte Frage
+Ort und Zeit: Die dritte Frage
+Sichtbare Figuren: Toter Bräutigam als Reiter, Trauernde Verlobte
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferd, zwei Reitende.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Toter Bräutigam als Reiter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mein Liebchen, graut dir nicht?“
+Kontinuität / Änderung: Ein Pferd, zwei Reitende.
+
+KACHEL 11: Der Kreis
+Ort und Zeit: Der Kreis
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei konzentrische Hufspuren auf leerem Boden, Pferd fern im Nebel.
+Erzählertext: Nun schwieg sie. Das Pferd raste dreimal im Kreis.
+Dialoge: keine
+Kontinuität / Änderung: Drei konzentrische Hufspuren auf leerem Boden, Pferd fern im Nebel.
+
+KACHEL 12: Das Verschwinden
+Ort und Zeit: Das Verschwinden
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mond über leerer Ebene, keine zurückkehrenden Reiter.
+Erzählertext: Dann waren beide fort. Die Sage gibt ihr keine Rückkehr ins Leben.
+Dialoge: keine
+Kontinuität / Änderung: Mond über leerer Ebene, keine zurückkehrenden Reiter.

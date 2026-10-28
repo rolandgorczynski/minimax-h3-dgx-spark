@@ -1,0 +1,56 @@
+TITEL: Eulenspiegels Grab – Noch einmal verkehrt
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Die letzte Station
+Ort und Zeit: Die letzte Station
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Stadt Mölln unter ruhigem Himmel.
+Erzählertext: Eulenspiegels Abenteuerfahrt endete in Mölln.
+Dialoge: keine
+Kontinuität / Änderung: Alte Stadt Mölln unter ruhigem Himmel.
+
+KACHEL 2: Die Beisetzung
+Ort und Zeit: Die Beisetzung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Sarg hängt über Grab, Totengräber an Seilen.
+Erzählertext: Man wollte ihn wie andere Tote begraben.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener Sarg hängt über Grab, Totengräber an Seilen.
+
+KACHEL 3: Der schiefe Augenblick
+Ort und Zeit: Der schiefe Augenblick
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Sarg kippt im Grab senkrecht, keine gezeigte Leiche.
+Erzählertext: Doch der Sarg rutschte aufrecht hinein.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener Sarg kippt im Grab senkrecht, keine gezeigte Leiche.
+
+KACHEL 4: Der gemeinsame Blick
+Ort und Zeit: Der gemeinsame Blick
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Totengräber schauen in dasselbe Grab.
+Erzählertext: Die Totengräber hielten inne.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Totengräber schauen in dasselbe Grab.
+
+KACHEL 5: Der gewährte Wille
+Ort und Zeit: Der gewährte Wille
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zugeschüttetes Grab, Spaten daneben.
+Erzählertext: Wenn er es so haben wolle, meinten sie, solle er es so behalten.
+Dialoge: keine
+Kontinuität / Änderung: Zugeschüttetes Grab, Spaten daneben.
+
+KACHEL 6: Der bleibende Name
+Ort und Zeit: Der bleibende Name
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Grabstein mit kleiner Eule links und Spiegel rechts, keine Schrift.
+Erzählertext: Eule und Spiegel hielten den Namen fest. Selbst das Ende blieb verkehrt.
+Dialoge: keine
+Kontinuität / Änderung: Grabstein mit kleiner Eule links und Spiegel rechts, keine Schrift.

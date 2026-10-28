@@ -1,0 +1,111 @@
+TITEL: Rungholt – Hinter dem sicheren Deich
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Pfarrer von Rungholt
+Aussehen: Älterer Mann mit grauem Haar.
+Kleidung: Schwarzes schlichtes Gewand, brauner Reisemantel.
+Persönlichkeit und Vorgeschichte: Verweigert den erzwungenen Spott und folgt einer Warnung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die reiche Insel
+Ort und Zeit: Die reiche Insel
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wohlhabender Ort hinter hohem Deich.
+Erzählertext: Rungholt war in der Sage reich und gut eingedeicht.
+Dialoge: keine
+Kontinuität / Änderung: Wohlhabender Ort hinter hohem Deich.
+
+KACHEL 2: Der Spott gegen das Meer
+Ort und Zeit: Der Spott gegen das Meer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Bewohner stehen prahlend auf dem Deich.
+Erzählertext: Sie hielten ihre Sicherheit für unangreifbar.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Bewohner stehen prahlend auf dem Deich.
+
+KACHEL 3: Die entwürdigende Idee
+Ort und Zeit: Die entwürdigende Idee
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wirtshaus mit einer ungefährdeten Sau hinter offener Stalltür.
+Erzählertext: Einige wollten den Pfarrer mit einem Tier als angeblichem Kranken verhöhnen.
+Dialoge: keine
+Kontinuität / Änderung: Wirtshaus mit einer ungefährdeten Sau hinter offener Stalltür.
+
+KACHEL 4: Der falsche Ruf
+Ort und Zeit: Der falsche Ruf
+Sichtbare Figuren: Pfarrer von Rungholt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Boten an der Pfarrhaustür.
+Erzählertext: Sie riefen ihn, einem Todkranken das Abendmahl zu reichen.
+Dialoge: keine
+Kontinuität / Änderung: Boten an der Pfarrhaustür.
+
+KACHEL 5: Die Weigerung
+Ort und Zeit: Die Weigerung
+Sichtbare Figuren: Pfarrer von Rungholt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Pfarrer vor verschlossenem Nebenraum, Tier nicht im Bett vorgeführt.
+Erzählertext: Er erkannte die Absicht und verweigerte die Entweihung.
+Dialoge: keine
+Kontinuität / Änderung: Pfarrer vor verschlossenem Nebenraum, Tier nicht im Bett vorgeführt.
+
+KACHEL 6: Der Übergriff
+Ort und Zeit: Der Übergriff
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Umgestoßener Stuhl, offene Wirtshaustür, kein verletzter Mensch.
+Erzählertext: Die Männer bedrohten und misshandelten ihn.
+Dialoge: keine
+Kontinuität / Änderung: Umgestoßener Stuhl, offene Wirtshaustür, kein verletzter Mensch.
+
+KACHEL 7: Die Nacht
+Ort und Zeit: Die Nacht
+Sichtbare Figuren: Pfarrer von Rungholt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dunkles Meer fern hinter dem Deich.
+Erzählertext: In der Nacht vernahm er eine Warnung.
+Dialoge: keine
+Kontinuität / Änderung: Dunkles Meer fern hinter dem Deich.
+
+KACHEL 8: Der Auftrag zum Gehen
+Ort und Zeit: Der Auftrag zum Gehen
+Sichtbare Figuren: Pfarrer von Rungholt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reisebündel, Schuhe bereit.
+Erzählertext: Er sollte sich ankleiden und fortziehen.
+Dialoge: keine
+Kontinuität / Änderung: Reisebündel, Schuhe bereit.
+
+KACHEL 9: Der Auszug
+Ort und Zeit: Der Auszug
+Sichtbare Figuren: Pfarrer von Rungholt
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine bekleidete Gruppe entfernt sich vom Ort.
+Erzählertext: Er folgte der Stimme mit den Seinen.
+Dialoge: keine
+Kontinuität / Änderung: Kleine bekleidete Gruppe entfernt sich vom Ort.
+
+KACHEL 10: Das steigende Wasser
+Ort und Zeit: Das steigende Wasser
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wellen erreichen Deichkrone, niemand auf Deich.
+Erzählertext: Der Wind wuchs, und das Wasser stieg.
+Dialoge: keine
+Kontinuität / Änderung: Wellen erreichen Deichkrone, niemand auf Deich.
+
+KACHEL 11: Die überschrittene Grenze
+Ort und Zeit: Die überschrittene Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wasser strömt über den Deich in leere Straßen.
+Erzählertext: Die Flut verschlang Rungholt und weitere Kirchspiele.
+Dialoge: keine
+Kontinuität / Änderung: Wasser strömt über den Deich in leere Straßen.
+
+KACHEL 12: Die Glocken darunter
+Ort und Zeit: Die Glocken darunter
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stille See mit schwacher Turmkontur tief im Wasser.
+Erzählertext: Später wollte man versunkene Glocken hören. Die Sage lässt die Warnung weiterklingen.
+Dialoge: keine
+Kontinuität / Änderung: Stille See mit schwacher Turmkontur tief im Wasser.

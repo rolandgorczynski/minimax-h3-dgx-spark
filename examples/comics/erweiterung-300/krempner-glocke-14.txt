@@ -1,0 +1,134 @@
+TITEL: Die Krempner Glocke – Der Klang des Verlusts
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Krempner Glockengießer
+Aussehen: Erwachsener Mann mit grauem Bart.
+Kleidung: Braune Lederschürze, graues Hemd.
+Persönlichkeit und Vorgeschichte: Reagiert auf einen gutgemeinten Zusatz mit tödlicher Gewalt.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Lehrling des Glockengießers
+Aussehen: Siebzehnjähriger Jugendlicher mit braunem Haar.
+Kleidung: Graues geschlossenes Arbeitsgewand, Lederschürze.
+Persönlichkeit und Vorgeschichte: Hält das bereitstehende Silber für einen Teil des Gusses.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Werkstatt
+Ort und Zeit: Die Werkstatt
+Sichtbare Figuren: Krempner Glockengießer, Lehrling des Glockengießers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Menschen mit Schutzabstand zur Schmelze.
+Erzählertext: In Krempen wurde eine neue Glocke vorbereitet.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Menschen mit Schutzabstand zur Schmelze.
+
+KACHEL 2: Der Auftrag
+Ort und Zeit: Der Auftrag
+Sichtbare Figuren: Krempner Glockengießer, Lehrling des Glockengießers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Meister verlässt die Werkstatt.
+Erzählertext: Der Meister ließ den Lehrling kurz allein.
+Dialoge: keine
+Kontinuität / Änderung: Meister verlässt die Werkstatt.
+
+KACHEL 3: Der kleine Tiegel
+Ort und Zeit: Der kleine Tiegel
+Sichtbare Figuren: Lehrling des Glockengießers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geschlossener Ofen und ein kleiner Tiegel auf sicherem Gestell.
+Erzählertext: Der Junge hielt das Silber für einen nötigen Zusatz.
+Dialoge: keine
+Kontinuität / Änderung: Ein geschlossener Ofen und ein kleiner Tiegel auf sicherem Gestell.
+
+KACHEL 4: Der gute Wille
+Ort und Zeit: Der gute Wille
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Silber fließt aus einem Tiegel in die Glockenspeise, Hände geschützt.
+Erzählertext: Er gab es zur Schmelze.
+Dialoge: keine
+Kontinuität / Änderung: Silber fließt aus einem Tiegel in die Glockenspeise, Hände geschützt.
+
+KACHEL 5: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Krempner Glockengießer, Lehrling des Glockengießers
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine erhobene Waffe, Abstand zwischen beiden.
+Erzählertext: Der Meister sah es und verlor die Beherrschung.
+Dialoge: keine
+Kontinuität / Änderung: Keine erhobene Waffe, Abstand zwischen beiden.
+
+KACHEL 6: Die nicht gezeigte Gewalt
+Ort und Zeit: Die nicht gezeigte Gewalt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassene Werkbank mit einer kleinen Schürze.
+Erzählertext: Er schlug den Lehrling so schwer, dass dieser starb.
+Dialoge: keine
+Kontinuität / Änderung: Verlassene Werkbank mit einer kleinen Schürze.
+
+KACHEL 7: Der vollendete Guss
+Ort und Zeit: Der vollendete Guss
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Neue Glocke steht in leerer Werkstatt.
+Erzählertext: Die Glocke wurde dennoch gegossen.
+Dialoge: keine
+Kontinuität / Änderung: Neue Glocke steht in leerer Werkstatt.
+
+KACHEL 8: Die Maria
+Ort und Zeit: Die Maria
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Neue Glocke hängt im Kirchturm.
+Erzählertext: Man nannte sie Maria.
+Dialoge: keine
+Kontinuität / Änderung: Neue Glocke hängt im Kirchturm.
+
+KACHEL 9: Der besondere Ton
+Ort und Zeit: Der besondere Ton
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Glocke schwingt über Krempens Dächern.
+Erzählertext: Ihr Silber gab ihr einen ungewöhnlich hellen Klang.
+Dialoge: keine
+Kontinuität / Änderung: Glocke schwingt über Krempens Dächern.
+
+KACHEL 10: Die hörbare Klage
+Ort und Zeit: Die hörbare Klage
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Lehrlingsbank im Vordergrund, Turm durch Fenster.
+Erzählertext: Doch darin hörte man immer: Schade um den Jungen.
+Dialoge: keine
+Kontinuität / Änderung: Leere Lehrlingsbank im Vordergrund, Turm durch Fenster.
+
+KACHEL 11: Das Angebot
+Ort und Zeit: Das Angebot
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Goldene Kette auf langem Tuch vor städtischen Vertretern.
+Erzählertext: Hamburg bot schließlich eine Goldkette, die ganz Krempen umschließen sollte.
+Dialoge: keine
+Kontinuität / Änderung: Goldene Kette auf langem Tuch vor städtischen Vertretern.
+
+KACHEL 12: Der stillstehende Wagen
+Ort und Zeit: Der stillstehende Wagen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Glockenwagen steckt an einer Anhöhe fest, Zugpferde stehen.
+Erzählertext: Beim Abtransport ließ sich der Wagen nicht weiterbewegen.
+Dialoge: keine
+Kontinuität / Änderung: Glockenwagen steckt an einer Anhöhe fest, Zugpferde stehen.
+
+KACHEL 13: Die leichte Rückfahrt
+Ort und Zeit: Die leichte Rückfahrt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Pferde ziehen den gewendeten Wagen zurück zur Stadt.
+Erzählertext: Zurück nach Krempen ging es leicht. Maria kam wieder in den Turm.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Pferde ziehen den gewendeten Wagen zurück zur Stadt.
+
+KACHEL 14: Die spätere Stille
+Ort und Zeit: Die spätere Stille
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zerstörter Kirchturm, keine sichtbare Glocke.
+Erzählertext: Im späteren Krieg verschwand sie. Die Hoffnung auf ihre Wiederkehr bewahrte auch die Klage um den Jungen.
+Dialoge: keine
+Kontinuität / Änderung: Zerstörter Kirchturm, keine sichtbare Glocke.

@@ -1,0 +1,148 @@
+TITEL: Vom Zauberer Agrippa – Der gerettete Schein
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Agrippa der Löwener Sage
+Aussehen: Älterer Mann mit langem grauem Bart.
+Kleidung: Dunkelgrüner Gelehrtenrock.
+Persönlichkeit und Vorgeschichte: Besitzt gefährliches Wissen und verbirgt später die Verantwortung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Agrippas Schüler
+Aussehen: Junger erwachsener Mann mit braunem kurzem Haar.
+Kleidung: Graues Wams und braune Hose.
+Persönlichkeit und Vorgeschichte: Verwechselt Zugang zum Buch mit dem Können, seine Wirkung zu beenden.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hausfrau bei Agrippa
+Aussehen: Erwachsene Frau mit dunklem Zopf.
+Kleidung: Blaues Kleid, graue Schürze.
+Persönlichkeit und Vorgeschichte: Bewahrt den Schlüssel, gibt aber dem Drängen des Schülers nach.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Paradrius
+Aussehen: Ein schwarzer Hund mit vier Beinen und einem Schwanz.
+Kleidung: Schwarzes natürliches Fell.
+Persönlichkeit und Vorgeschichte: Begleiter des Meisters, kein nachgewiesener wirklicher Dämon.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der gelehrte Haushalt
+Ort und Zeit: Der gelehrte Haushalt
+Sichtbare Figuren: Agrippa der Löwener Sage, Agrippas Schüler, Paradrius
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Männer, ein angekettetes Buch auf Pult, schwarzer Hund an der Schwelle.
+Erzählertext: Agrippa hatte einen Schüler, der ihm diente und lernen sollte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Männer, ein angekettetes Buch auf Pult, schwarzer Hund an der Schwelle.
+
+KACHEL 2: Der verwahrte Schlüssel
+Ort und Zeit: Der verwahrte Schlüssel
+Sichtbare Figuren: Agrippa der Löwener Sage, Hausfrau bei Agrippa
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Schlüssel zwischen zwei Erwachsenen.
+Erzählertext: Vor der Reise verbot er den Zugang zum Studierzimmer.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Schlüssel zwischen zwei Erwachsenen.
+
+KACHEL 3: Das Drängen
+Ort und Zeit: Das Drängen
+Sichtbare Figuren: Agrippas Schüler, Hausfrau bei Agrippa
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schüler links bittet, Frau rechts zögert.
+Erzählertext: Kaum war er fort, suchte der Schüler einen Vorwand, hineinzukommen.
+Dialoge: keine
+Kontinuität / Änderung: Schüler links bittet, Frau rechts zögert.
+
+KACHEL 4: Die geöffnete Tür
+Ort und Zeit: Die geöffnete Tür
+Sichtbare Figuren: Agrippas Schüler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann am offenen Raum, Schlüssel außerhalb, Buch auf seinem Pult.
+Erzählertext: Die Frau gab nach.
+Dialoge: keine
+Kontinuität / Änderung: Ein junger Mann am offenen Raum, Schlüssel außerhalb, Buch auf seinem Pult.
+
+KACHEL 5: Die unbekannten Worte
+Ort und Zeit: Die unbekannten Worte
+Sichtbare Figuren: Agrippas Schüler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geöffnetes historisches Buch ohne lesbare Beschwörungsformel.
+Erzählertext: Er las, ohne die Wirkung zu verstehen.
+Dialoge: keine
+Kontinuität / Änderung: Ein geöffnetes historisches Buch ohne lesbare Beschwörungsformel.
+
+KACHEL 6: Das erste Klopfen
+Ort und Zeit: Das erste Klopfen
+Sichtbare Figuren: Agrippas Schüler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann liest, Tür geschlossen hinter ihm, keine Erscheinung bereits daneben.
+Erzählertext: Es klopfte. Er las weiter.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann liest, Tür geschlossen hinter ihm, keine Erscheinung bereits daneben.
+
+KACHEL 7: Die geöffnete Schwelle
+Ort und Zeit: Die geöffnete Schwelle
+Sichtbare Figuren: Agrippas Schüler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein dunkler namenloser Geisterumriss füllt den Türrahmen, kein blutiges Wesen.
+Erzählertext: Der gerufene Geist verlangte einen Auftrag. Der Schüler wusste weder zu antworten noch ihn zu entlassen.
+Dialoge: keine
+Kontinuität / Änderung: Ein dunkler namenloser Geisterumriss füllt den Türrahmen, kein blutiges Wesen.
+
+KACHEL 8: Der Tod im Zimmer
+Ort und Zeit: Der Tod im Zimmer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stilles Pult, graues Gewand hinter einer Bank verdeckt am Boden, keine Verletzung.
+Erzählertext: Der Geist tötete ihn.
+Dialoge: keine
+Kontinuität / Änderung: Stilles Pult, graues Gewand hinter einer Bank verdeckt am Boden, keine Verletzung.
+
+KACHEL 9: Der ferne Blick
+Ort und Zeit: Der ferne Blick
+Sichtbare Figuren: Agrippa der Löwener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein alter Mann betrachtet einen einzelnen Spiegel, kein zweiter echter Schüler im Raum.
+Erzählertext: Agrippa erkannte das Geschehen im Zauberspiegel und eilte zurück.
+Dialoge: keine
+Kontinuität / Änderung: Ein alter Mann betrachtet einen einzelnen Spiegel, kein zweiter echter Schüler im Raum.
+
+KACHEL 10: Der neue Befehl
+Ort und Zeit: Der neue Befehl
+Sichtbare Figuren: Agrippa der Löwener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Meister vor verhülltem Körper, eine schemenhafte Dienstgestalt in Abstand.
+Erzählertext: Er ließ einen dienstbaren Geist den toten Körper bewegen.
+Dialoge: keine
+Kontinuität / Änderung: Meister vor verhülltem Körper, eine schemenhafte Dienstgestalt in Abstand.
+
+KACHEL 11: Der scheinbar Lebende
+Ort und Zeit: Der scheinbar Lebende
+Sichtbare Figuren: Agrippas Schüler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein junger Mann mit starrem Gesicht und geschlossenem Gewand, kein wiedergewonnener Lebensglanz.
+Erzählertext: So wurde der Schüler aus dem Haus geführt.
+Dialoge: keine
+Kontinuität / Änderung: Ein junger Mann mit starrem Gesicht und geschlossenem Gewand, kein wiedergewonnener Lebensglanz.
+
+KACHEL 12: An der Straßenecke
+Ort und Zeit: An der Straßenecke
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Straßenecke, abgelegte graue Kleidung im Schatten einer Bank.
+Erzählertext: Draußen ließ der Geist von ihm. Man hielt es für einen plötzlichen Tod an dieser Stelle.
+Dialoge: keine
+Kontinuität / Änderung: Leere Straßenecke, abgelegte graue Kleidung im Schatten einer Bank.
+
+KACHEL 13: Der geschützte Ruf
+Ort und Zeit: Der geschützte Ruf
+Sichtbare Figuren: Agrippa der Löwener Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gelehrter im stillen Studierzimmer, Schüler fehlt, Kette am Buch.
+Erzählertext: Der Schein schützte den Meister. Verantwortung hatte er damit nicht übernommen.
+Dialoge: keine
+Kontinuität / Änderung: Gelehrter im stillen Studierzimmer, Schüler fehlt, Kette am Buch.
+
+KACHEL 14: Der spätere Abschied
+Ort und Zeit: Der spätere Abschied
+Sichtbare Figuren: Paradrius
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein schwarzer Hund allein auf einem Weg, kein sichtbarer höllischer Schlund.
+Erzählertext: Auch Agrippa starb später. Was aus seinem Hund wurde, erzählen die Fassungen verschieden.
+Dialoge: keine
+Kontinuität / Änderung: Ein schwarzer Hund allein auf einem Weg, kein sichtbarer höllischer Schlund.

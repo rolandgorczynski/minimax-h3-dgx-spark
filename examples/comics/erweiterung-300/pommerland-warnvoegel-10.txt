@@ -1,0 +1,95 @@
+TITEL: Weh über Pommerland – Der Sieg ist nicht der Frieden
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Leinewebersfrau auf dem Landweg
+Aussehen: Erwachsene Frau mit braunem Zopf.
+Kleidung: Blaues Kleid, brauner Mantel.
+Persönlichkeit und Vorgeschichte: Hört in der Sage die warnenden weißen Vögel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Weg im Jahr 1624
+Ort und Zeit: Der Weg im Jahr 1624
+Sichtbare Figuren: Leinewebersfrau auf dem Landweg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Frau zwischen zwei Dörfern.
+Erzählertext: 1624 sollte über Pommerland eine seltsame Warnung zu hören gewesen sein.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Frau zwischen zwei Dörfern.
+
+KACHEL 2: Die weißen Vögel
+Ort und Zeit: Die weißen Vögel
+Sichtbare Figuren: Leinewebersfrau auf dem Landweg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine weiße Vögel in Schwalbengröße.
+Erzählertext: Die Stimme kam nach der Sage von schneeweißen Vögeln.
+Dialoge: keine
+Kontinuität / Änderung: Kleine weiße Vögel in Schwalbengröße.
+
+KACHEL 3: Das gehörte Weh
+Ort und Zeit: Das gehörte Weh
+Sichtbare Figuren: Leinewebersfrau auf dem Landweg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weiße Vögel über weitem Land.
+Erzählertext: Sie kündigten Leid über Pommerland an.
+Dialoge: keine
+Kontinuität / Änderung: Weiße Vögel über weitem Land.
+
+KACHEL 4: Der wirkliche Krieg
+Ort und Zeit: Der wirkliche Krieg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fernes Heerlager am Horizont, Dorf davor leer.
+Erzählertext: Der Krieg brachte das Leid ins Land.
+Dialoge: keine
+Kontinuität / Änderung: Fernes Heerlager am Horizont, Dorf davor leer.
+
+KACHEL 5: Vor Stralsund
+Ort und Zeit: Vor Stralsund
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Belagerungsring um eine befestigte Hafenstadt.
+Erzählertext: Wallenstein wollte Stralsund unbedingt gewinnen.
+Dialoge: keine
+Kontinuität / Änderung: Belagerungsring um eine befestigte Hafenstadt.
+
+KACHEL 6: Die gehaltenen Mauern
+Ort und Zeit: Die gehaltenen Mauern
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stadtmauer bleibt intakt, belagerndes Heer fern.
+Erzählertext: Die Stadt fiel damals nicht.
+Dialoge: keine
+Kontinuität / Änderung: Stadtmauer bleibt intakt, belagerndes Heer fern.
+
+KACHEL 7: Das Land dahinter
+Ort und Zeit: Das Land dahinter
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Niedergetretene Felder und verlassenes Gehöft.
+Erzählertext: Der erfolglose Angriff bewahrte die Umgebung nicht vor Verwüstung.
+Dialoge: keine
+Kontinuität / Änderung: Niedergetretene Felder und verlassenes Gehöft.
+
+KACHEL 8: Der kurze Trost
+Ort und Zeit: Der kurze Trost
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Offenes Stadttor mit erschöpften Bewohnern.
+Erzählertext: Ein gehaltener Wall war noch kein Frieden für alle.
+Dialoge: keine
+Kontinuität / Änderung: Offenes Stadttor mit erschöpften Bewohnern.
+
+KACHEL 9: Der spätere Krieg
+Ort und Zeit: Der spätere Krieg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stralsunds Dächer brennen in weiter Ansicht, keine Opfer gezeigt.
+Erzählertext: Ein neuer Zeitsprung: 1678 wurde Stralsund in einem anderen Krieg zerstört und erobert.
+Dialoge: keine
+Kontinuität / Änderung: Stralsunds Dächer brennen in weiter Ansicht, keine Opfer gezeigt.
+
+KACHEL 10: Der Blick aufs Land
+Ort und Zeit: Der Blick aufs Land
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weiße Vögel über stillen Feldern.
+Erzählertext: Der Warnruf gehört nicht nur der belagerten Stadt. Er hält das Leiden des ganzen Landes fest.
+Dialoge: keine
+Kontinuität / Änderung: Weiße Vögel über stillen Feldern.

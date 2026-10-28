@@ -1,0 +1,195 @@
+TITEL: Der Schwanritter – Die Frage nach der Herkunft
+AUTOR: Sysop
+KACHELANZAHL: 18
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Helias der Schwanritter
+Aussehen: Junger erwachsener Mann mit blondem kurzem Haar, bartlos.
+Kleidung: Grauer Harnisch, blauer Überwurf. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.
+Persönlichkeit und Vorgeschichte: Unbekannter Helfer, bindet seine Ehe an das Herkunftsverbot.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Prinzessin von Brabant
+Aussehen: Junge erwachsene Frau mit braunem Zopf.
+Kleidung: Blaues langes Kleid und heller Schleier.
+Persönlichkeit und Vorgeschichte: Will nach Jahren die Herkunft ihres Mannes und ihrer Kinder kennen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Herzogin von Brabant
+Aussehen: Ältere Frau mit grauem Haar.
+Kleidung: Dunkelgrünes langes Kleid, heller Schleier.
+Persönlichkeit und Vorgeschichte: Verteidigt ihr und ihrer Tochter Erbe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Sachsenherzog der Schwanrittersage
+Aussehen: Erwachsener kräftiger Mann mit dunklem Vollbart.
+Kleidung: Grauer Harnisch, roter Überwurf. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.
+Persönlichkeit und Vorgeschichte: Bestreitet das Erbe der Frauen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schwan des Helias
+Aussehen: Ein großer weißer Schwan mit zwei Flügeln, zwei Beinen und langem Hals.
+Kleidung: Silbernes Halsband mit einer einzigen silbernen Zugkette.
+Persönlichkeit und Vorgeschichte: Bringt und holt Helias mit dem Nachen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das bestrittene Erbe
+Ort und Zeit: Das bestrittene Erbe
+Sichtbare Figuren: Herzogin von Brabant, Prinzessin von Brabant, Sachsenherzog der Schwanrittersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene in einer Halle, Sachsenherzog mit eingesteckter Klinge.
+Erzählertext: Nach Gottfrieds Tod beanspruchte sein Bruder Brabant gegen Witwe und Tochter.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene in einer Halle, Sachsenherzog mit eingesteckter Klinge.
+
+KACHEL 2: Die Klage
+Ort und Zeit: Die Klage
+Sichtbare Figuren: Herzogin von Brabant, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Frauen vor einem Richterstuhl, Gegner außerhalb.
+Erzählertext: Vor König Karl suchten sie ihr Recht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Frauen vor einem Richterstuhl, Gegner außerhalb.
+
+KACHEL 3: Der Nachen
+Ort und Zeit: Der Nachen
+Sichtbare Figuren: Schwan des Helias, Helias der Schwanritter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Schwan zieht an einer Kette ein Boot mit einem erwachsenen Ritter, Helm liegt neben ihm.
+Erzählertext: Da erschien ein Schwan mit einem schlafenden Ritter im Nachen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Schwan zieht an einer Kette ein Boot mit einem erwachsenen Ritter, Helm liegt neben ihm.
+
+KACHEL 4: Am Ufer
+Ort und Zeit: Am Ufer
+Sichtbare Figuren: Helias der Schwanritter, Schwan des Helias
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter zu Fuß am Ufer, ein leerer Nachen, nur ein Schwan.
+Erzählertext: Der Fremde kam an Land und schickte den Schwan fort.
+Dialoge: keine
+Kontinuität / Änderung: Ritter zu Fuß am Ufer, ein leerer Nachen, nur ein Schwan.
+
+KACHEL 5: Der angebotene Kampf
+Ort und Zeit: Der angebotene Kampf
+Sichtbare Figuren: Sachsenherzog der Schwanrittersage, Herzogin von Brabant, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene mit Abstand, Herzog zeigt auf den freien Zwischenraum.
+Erzählertext: Der Gegner verlangte einen Kämpfer für das Recht der Frauen.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene mit Abstand, Herzog zeigt auf den freien Zwischenraum.
+
+KACHEL 6: Der fremde Beistand
+Ort und Zeit: Der fremde Beistand
+Sichtbare Figuren: Helias der Schwanritter, Herzogin von Brabant, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ritter mit leeren Händen, Klinge noch links.
+Erzählertext: Helias bot sich an. Die beiden hatten sonst keinen Beschützer gefunden.
+Dialoge: keine
+Kontinuität / Änderung: Ritter mit leeren Händen, Klinge noch links.
+
+KACHEL 7: Die gezogenen Waffen
+Ort und Zeit: Die gezogenen Waffen
+Sichtbare Figuren: Helias der Schwanritter, Sachsenherzog der Schwanrittersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Ritter, je eine Klinge rechts, beide linken Scheiden leer.
+Erzählertext: Er trat gegen den Sachsenherzog an.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Ritter, je eine Klinge rechts, beide linken Scheiden leer.
+
+KACHEL 8: Der entscheidende Moment
+Ort und Zeit: Der entscheidende Moment
+Sichtbare Figuren: Helias der Schwanritter, Sachsenherzog der Schwanrittersage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei getrennte Körper, keine offene Wunde oder zweite Schwertkopie.
+Erzählertext: Nach schwerem Kampf siegte der Unbekannte.
+Dialoge: keine
+Kontinuität / Änderung: Zwei getrennte Körper, keine offene Wunde oder zweite Schwertkopie.
+
+KACHEL 9: Das freie Erbe
+Ort und Zeit: Das freie Erbe
+Sichtbare Figuren: Herzogin von Brabant, Prinzessin von Brabant, Helias der Schwanritter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene in der Halle, Hände leer.
+Erzählertext: Das Erbe war gesichert. Die Herzogin bot ihm die Verbindung mit ihrer Tochter an.
+Dialoge: keine
+Kontinuität / Änderung: Drei Erwachsene in der Halle, Hände leer.
+
+KACHEL 10: Die Bedingung
+Ort und Zeit: Die Bedingung
+Sichtbare Figuren: Helias der Schwanritter, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf gleicher Bodenhöhe.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Helias der Schwanritter
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Frag mich niemals nach Eltern und Herkunft.“
+Kontinuität / Änderung: Zwei Erwachsene auf gleicher Bodenhöhe.
+
+KACHEL 11: Die angenommene Zukunft
+Ort und Zeit: Die angenommene Zukunft
+Sichtbare Figuren: Helias der Schwanritter, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Paar in ruhigem Hof, kein Schwan als zweite Brautfigur.
+Erzählertext: Die Prinzessin hielt die Bedingung für leicht und heiratete ihn.
+Dialoge: keine
+Kontinuität / Änderung: Ein Paar in ruhigem Hof, kein Schwan als zweite Brautfigur.
+
+KACHEL 12: Die Jahre in Cleve
+Ort und Zeit: Die Jahre in Cleve
+Sichtbare Figuren: Helias der Schwanritter, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Paar mit zwei namenlosen kleinen Kindern im Burggarten, zwei Kinder deutlich getrennt.
+Erzählertext: In Cleve lebten sie glücklich und bekamen zwei Kinder.
+Dialoge: keine
+Kontinuität / Änderung: Paar mit zwei namenlosen kleinen Kindern im Burggarten, zwei Kinder deutlich getrennt.
+
+KACHEL 13: Die wachsende Frage
+Ort und Zeit: Die wachsende Frage
+Sichtbare Figuren: Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau schaut zu den zwei Kindern im Garten, Mann außerhalb.
+Erzählertext: Doch die Herkunft des Vaters ihrer Kinder blieb ihr verborgen.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau schaut zu den zwei Kindern im Garten, Mann außerhalb.
+
+KACHEL 14: Das ausgesprochene Verlangen
+Ort und Zeit: Das ausgesprochene Verlangen
+Sichtbare Figuren: Prinzessin von Brabant, Helias der Schwanritter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene, Frau mit leerer offener Hand.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Prinzessin von Brabant
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wer sind deine Eltern? Woher kommst du?“
+Kontinuität / Änderung: Zwei Erwachsene, Frau mit leerer offener Hand.
+
+KACHEL 15: Die gerufene Rückkehr
+Ort und Zeit: Die gerufene Rückkehr
+Sichtbare Figuren: Helias der Schwanritter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Ritter am offenen Fenster, fern ein einzelner Schwan mit Nachen.
+Erzählertext: Helias rief den Schwan. Die Bedingung ließ ihm kein Bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Ein Ritter am offenen Fenster, fern ein einzelner Schwan mit Nachen.
+
+KACHEL 16: Der Abschied
+Ort und Zeit: Der Abschied
+Sichtbare Figuren: Helias der Schwanritter, Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vier Menschen im Hof, Helias legt die Hände behutsam an Kinder-Schultern.
+Erzählertext: Er verabschiedete sich von den Kindern und seiner Frau.
+Dialoge: keine
+Kontinuität / Änderung: Vier Menschen im Hof, Helias legt die Hände behutsam an Kinder-Schultern.
+
+KACHEL 17: Die Fahrt
+Ort und Zeit: Die Fahrt
+Sichtbare Figuren: Helias der Schwanritter, Schwan des Helias
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Schwan und ein Nachen mit einem Erwachsenen auf dem Fluss.
+Erzählertext: Dann fuhr er endgültig fort.
+Dialoge: keine
+Kontinuität / Änderung: Ein Schwan und ein Nachen mit einem Erwachsenen auf dem Fluss.
+
+KACHEL 18: Die bleibende Familie
+Ort und Zeit: Die bleibende Familie
+Sichtbare Figuren: Prinzessin von Brabant
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau und zwei Kinder vor einem Schwanenwappen, kein zurückgekehrter Helias.
+Erzählertext: Sie erzog die Kinder allein. Der Wunsch nach Wissen hatte im Sagenvertrag die gemeinsame Zukunft beendet.
+Dialoge: keine
+Kontinuität / Änderung: Frau und zwei Kinder vor einem Schwanenwappen, kein zurückgekehrter Helias.

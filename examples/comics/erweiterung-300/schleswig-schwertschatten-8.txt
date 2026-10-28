@@ -1,0 +1,79 @@
+TITEL: Der Dom zu Schleswig – Der bleibende Schatten
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Spielender Soldat im Dom
+Aussehen: Erwachsener Mann mit rotem Bart.
+Kleidung: Grauer Rock. Ein Schwert mit einer Scheide als persönliches Inventar; Tragezustand ausschließlich nach Kachelregie.
+Persönlichkeit und Vorgeschichte: Richtet seinen Spielzorn gegen den Kirchenraum.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der besetzte Raum
+Ort und Zeit: Der besetzte Raum
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Soldaten lagern in einer großen Kirche.
+Erzählertext: Im Krieg wurde der Schleswiger Dom als Lager missbraucht.
+Dialoge: keine
+Kontinuität / Änderung: Soldaten lagern in einer großen Kirche.
+
+KACHEL 2: Das verlorene Spiel
+Ort und Zeit: Das verlorene Spiel
+Sichtbare Figuren: Spielender Soldat im Dom
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wenige Karten und Münzen, Schwert noch links eingesteckt.
+Erzählertext: Ein Soldat verlor beim Kartenspiel.
+Dialoge: keine
+Kontinuität / Änderung: Wenige Karten und Münzen, Schwert noch links eingesteckt.
+
+KACHEL 3: Der entgrenzte Zorn
+Ort und Zeit: Der entgrenzte Zorn
+Sichtbare Figuren: Spielender Soldat im Dom
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Klinge rechts, linke Scheide leer.
+Erzählertext: Er wandte seinen Zorn gegen Gott und das Gewölbe.
+Dialoge: keine
+Kontinuität / Änderung: Eine Klinge rechts, linke Scheide leer.
+
+KACHEL 4: Der Wurf
+Ort und Zeit: Der Wurf
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziges Schwert fliegt hoch zum Gewölbe, keine Menschen im Zielbereich.
+Erzählertext: Er schleuderte seine Klinge nach oben.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziges Schwert fliegt hoch zum Gewölbe, keine Menschen im Zielbereich.
+
+KACHEL 5: Das feststeckende Eisen
+Ort und Zeit: Das feststeckende Eisen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schwert steckt in einer Fuge hoch im Gewölbe.
+Erzählertext: Die Klinge blieb oben stecken.
+Dialoge: keine
+Kontinuität / Änderung: Schwert steckt in einer Fuge hoch im Gewölbe.
+
+KACHEL 6: Nach dem Abzug
+Ort und Zeit: Nach dem Abzug
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Dom, Arbeiter auf sicherem Gerüst.
+Erzählertext: Als die Soldaten abgezogen waren, wurde das Schwert entfernt.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Dom, Arbeiter auf sicherem Gerüst.
+
+KACHEL 7: Die leere Fuge
+Ort und Zeit: Die leere Fuge
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gewölbefuge ohne Schwert, daneben deutlicher Schwertschatten.
+Erzählertext: Das Eisen war fort. Der Schatten blieb.
+Dialoge: keine
+Kontinuität / Änderung: Gewölbefuge ohne Schwert, daneben deutlicher Schwertschatten.
+
+KACHEL 8: Das sichtbare Geschehene
+Ort und Zeit: Das sichtbare Geschehene
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weite Domansicht mit dunkler Schwertform oben.
+Erzählertext: So erzählt die Sage von etwas, das sich nicht mit dem Gegenstand beseitigen ließ.
+Dialoge: keine
+Kontinuität / Änderung: Weite Domansicht mit dunkler Schwertform oben.

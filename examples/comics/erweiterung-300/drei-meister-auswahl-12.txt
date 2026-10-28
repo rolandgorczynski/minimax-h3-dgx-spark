@@ -1,0 +1,104 @@
+TITEL: Die drei Meister – Der Applaus
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Die freie Stelle
+Ort und Zeit: Die freie Stelle
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Amtsstuhl neben verschlossenem Werkzeugschrank.
+Erzählertext: Nach einem Brand war Lübecks Scharfrichterstelle neu zu besetzen.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Amtsstuhl neben verschlossenem Werkzeugschrank.
+
+KACHEL 2: Die Bewerber
+Ort und Zeit: Die Bewerber
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei erwachsene Männer in verschiedenfarbigen Arbeitsröcken vor Ratsvertretern.
+Erzählertext: Drei Meister bewarben sich um das einträgliche Amt.
+Dialoge: keine
+Kontinuität / Änderung: Drei erwachsene Männer in verschiedenfarbigen Arbeitsröcken vor Ratsvertretern.
+
+KACHEL 3: Die Bedingungen
+Ort und Zeit: Die Bedingungen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ratsmitglieder an erhöhtem Tisch.
+Erzählertext: Jeder sollte seine Fertigkeit bei einer Hinrichtung beweisen.
+Dialoge: keine
+Kontinuität / Änderung: Ratsmitglieder an erhöhtem Tisch.
+
+KACHEL 4: Der erste Mann
+Ort und Zeit: Der erste Mann
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Blau gekleideter Bewerber vor geschlossenem Vorhang, keine Verurteilten sichtbar.
+Erzählertext: Der erste setzte auf kaum wahrnehmbare Schnelligkeit.
+Dialoge: keine
+Kontinuität / Änderung: Blau gekleideter Bewerber vor geschlossenem Vorhang, keine Verurteilten sichtbar.
+
+KACHEL 5: Die erste Reaktion
+Ort und Zeit: Die erste Reaktion
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zuschauer applaudieren, Hinrichtungsplatz außerhalb des Bildes.
+Erzählertext: Seine tödliche Präzision erhielt Beifall.
+Dialoge: keine
+Kontinuität / Änderung: Zuschauer applaudieren, Hinrichtungsplatz außerhalb des Bildes.
+
+KACHEL 6: Der zweite Anspruch
+Ort und Zeit: Der zweite Anspruch
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Grün gekleideter Bewerber vor demselben Vorhang.
+Erzählertext: Der zweite verlangte zwei Verurteilte für einen einzigen Streich.
+Dialoge: keine
+Kontinuität / Änderung: Grün gekleideter Bewerber vor demselben Vorhang.
+
+KACHEL 7: Die zweite Reaktion
+Ort und Zeit: Die zweite Reaktion
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ratsvertreter nicken, keinerlei Gewaltdetails.
+Erzählertext: Auch dafür gab es Lob.
+Dialoge: keine
+Kontinuität / Änderung: Ratsvertreter nicken, keinerlei Gewaltdetails.
+
+KACHEL 8: Die letzte Vorbereitung
+Ort und Zeit: Die letzte Vorbereitung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei eiserne Ringe und eine Erbse auf Werkbank, keine Person darin.
+Erzählertext: Der dritte bereitete zwei Ringe und eine Erbse vor.
+Dialoge: keine
+Kontinuität / Änderung: Zwei eiserne Ringe und eine Erbse auf Werkbank, keine Person darin.
+
+KACHEL 9: Der Maßstab
+Ort und Zeit: Der Maßstab
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Schwert liegt neben zwei Erbsenhälften auf Tisch.
+Erzählertext: Mitten durch die Erbse sollte sein Schnitt gehen. Zugleich starb ein Mensch.
+Dialoge: keine
+Kontinuität / Änderung: Ein Schwert liegt neben zwei Erbsenhälften auf Tisch.
+
+KACHEL 10: Das Urteil
+Ort und Zeit: Das Urteil
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Graubraun gekleideter dritter Bewerber vor zustimmenden Ratsmitgliedern.
+Erzählertext: Das galt als das größte Kunststück.
+Dialoge: keine
+Kontinuität / Änderung: Graubraun gekleideter dritter Bewerber vor zustimmenden Ratsmitgliedern.
+
+KACHEL 11: Die Bestallung
+Ort und Zeit: Die Bestallung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Amtsbrief wird dem dritten Mann überreicht.
+Erzählertext: Er erhielt die Stelle. Die anderen bekamen eine Belohnung.
+Dialoge: keine
+Kontinuität / Änderung: Ein Amtsbrief wird dem dritten Mann überreicht.
+
+KACHEL 12: Das nicht gezählte Leben
+Ort und Zeit: Das nicht gezählte Leben
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Vorführplatz nach Abzug der Zuschauer.
+Erzählertext: Die Auswahl war entschieden. Von den Getöteten sprach das Urteil nicht mehr.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Vorführplatz nach Abzug der Zuschauer.

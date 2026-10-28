@@ -1,0 +1,150 @@
+TITEL: Julin – Der dritte Freikauf
+AUTOR: Sysop
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: König Suen Otto
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Blauer Königsrock, grauer Mantel; kein getragener Schmuck in Gefangenschaft.
+Persönlichkeit und Vorgeschichte: Lernt aus zwei kostspieligen Niederlagen nicht genug.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Sprecherin der dänischen Frauen
+Aussehen: Erwachsene Frau mit grauem Haar.
+Kleidung: Grünes geschlossenes Kleid. Goldkette nur bis zur ausdrücklichen Abgabe in die Sammlung.
+Persönlichkeit und Vorgeschichte: Organisiert die dritte Auslösung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Handelsstadt
+Ort und Zeit: Die Handelsstadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reicher Hafen Julins am breiten Strom.
+Erzählertext: Nach der Sage blühte Julin als große Handelsstadt.
+Dialoge: keine
+Kontinuität / Änderung: Reicher Hafen Julins am breiten Strom.
+
+KACHEL 2: Der erste Krieg
+Ort und Zeit: Der erste Krieg
+Sichtbare Figuren: König Suen Otto
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König vor fernem Stadtwall.
+Erzählertext: Suen Otto zog gegen sie in den Krieg.
+Dialoge: keine
+Kontinuität / Änderung: König vor fernem Stadtwall.
+
+KACHEL 3: Die erste Gefangenschaft
+Ort und Zeit: Die erste Gefangenschaft
+Sichtbare Figuren: König Suen Otto
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleideter unversehrter Gefangener.
+Erzählertext: Die Juliner nahmen ihn gefangen.
+Dialoge: keine
+Kontinuität / Änderung: Bekleideter unversehrter Gefangener.
+
+KACHEL 4: Das Silbergewicht
+Ort und Zeit: Das Silbergewicht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Große Waage mit Silber auf einer Schale und Königsstuhl auf der anderen.
+Erzählertext: Sein Gewicht in Silber wurde als Lösegeld verlangt.
+Dialoge: keine
+Kontinuität / Änderung: Große Waage mit Silber auf einer Schale und Königsstuhl auf der anderen.
+
+KACHEL 5: Die erste Zahlung
+Ort und Zeit: Die erste Zahlung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königliche Schatzkammer gibt Silbersäcke aus.
+Erzählertext: Die Kammer zahlte und er kam frei.
+Dialoge: keine
+Kontinuität / Änderung: Königliche Schatzkammer gibt Silbersäcke aus.
+
+KACHEL 6: Der zweite Aufbruch
+Ort und Zeit: Der zweite Aufbruch
+Sichtbare Figuren: König Suen Otto
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Neue Zelte vor derselben Stadt.
+Erzählertext: Er führte erneut Krieg gegen Julin.
+Dialoge: keine
+Kontinuität / Änderung: Neue Zelte vor derselben Stadt.
+
+KACHEL 7: Die zweite Gefangenschaft
+Ort und Zeit: Die zweite Gefangenschaft
+Sichtbare Figuren: König Suen Otto
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gleicher König, keine neue Verletzung.
+Erzählertext: Wieder wurde er gefangen.
+Dialoge: keine
+Kontinuität / Änderung: Gleicher König, keine neue Verletzung.
+
+KACHEL 8: Der schwerere Preis
+Ort und Zeit: Der schwerere Preis
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Waage mit zusätzlicher leerer Ritterrüstung und Silber.
+Erzählertext: Nun zählte auch das Gewicht seiner schweren Rüstung.
+Dialoge: keine
+Kontinuität / Änderung: Waage mit zusätzlicher leerer Ritterrüstung und Silber.
+
+KACHEL 9: Die verpfändeten Güter
+Ort und Zeit: Die verpfändeten Güter
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Versiegelte Besitzurkunden neben leerer Schatztruhe.
+Erzählertext: Die Kammer reichte nicht mehr. Krongüter wurden verkauft und verpfändet.
+Dialoge: keine
+Kontinuität / Änderung: Versiegelte Besitzurkunden neben leerer Schatztruhe.
+
+KACHEL 10: Der dritte Versuch
+Ort und Zeit: Der dritte Versuch
+Sichtbare Figuren: König Suen Otto
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. König beginnt einen weiteren Feldzug.
+Erzählertext: Trotzdem wagte er einen dritten Krieg.
+Dialoge: keine
+Kontinuität / Änderung: König beginnt einen weiteren Feldzug.
+
+KACHEL 11: Die dritte Forderung
+Ort und Zeit: Die dritte Forderung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gold auf großer Waagschale im Verhandlungssaal.
+Erzählertext: Nach der dritten Gefangennahme verlangte Julin sein Gewicht in Gold.
+Dialoge: keine
+Kontinuität / Änderung: Gold auf großer Waagschale im Verhandlungssaal.
+
+KACHEL 12: Die erschöpfte Kammer
+Ort und Zeit: Die erschöpfte Kammer
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Völlig leere königliche Truhe.
+Erzählertext: Kammer und Krongüter konnten ihn nicht mehr auslösen.
+Dialoge: keine
+Kontinuität / Änderung: Völlig leere königliche Truhe.
+
+KACHEL 13: Die Sammlung
+Ort und Zeit: Die Sammlung
+Sichtbare Figuren: Sprecherin der dänischen Frauen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hals jetzt ohne Kette, andere Frauen geben weiteren Schmuck.
+Erzählertext: Die Frauen Dänemarks legten ihren Schmuck zusammen.
+Dialoge: keine
+Kontinuität / Änderung: Hals jetzt ohne Kette, andere Frauen geben weiteren Schmuck.
+
+KACHEL 14: Die Freilassung
+Ort und Zeit: Die Freilassung
+Sichtbare Figuren: König Suen Otto
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Freier König, Goldtruhe bleibt bei Bewachern.
+Erzählertext: Ihre Sammlung reichte für seine Rückkehr.
+Dialoge: keine
+Kontinuität / Änderung: Freier König, Goldtruhe bleibt bei Bewachern.
+
+KACHEL 15: Das neue Recht
+Ort und Zeit: Das neue Recht
+Sichtbare Figuren: König Suen Otto, Sprecherin der dänischen Frauen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine erfundene Schrift.
+Erzählertext: Zum Dank gewährte er Frauen ein Drittel des Nachlasses ihrer Ehemänner.
+Dialoge: keine
+Kontinuität / Änderung: Keine erfundene Schrift.
+
+KACHEL 16: Die andere Stärke
+Ort und Zeit: Die andere Stärke
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frauen vor geöffnetem Besitzhaus.
+Erzählertext: Die rettende Leistung kam nicht aus seinem nächsten Feldzug. Die Sage verbindet sie mit eigenem Recht für die Helfenden.
+Dialoge: keine
+Kontinuität / Änderung: Frauen vor geöffnetem Besitzhaus.

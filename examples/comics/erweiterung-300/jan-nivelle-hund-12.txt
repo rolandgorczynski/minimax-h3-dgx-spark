@@ -1,0 +1,136 @@
+TITEL: Jan von Nivelle – Die freie Wahl
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Jan von Nivelle
+Aussehen: Junger erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Blaues Reisewams, graue Hose, Stiefel; keine gezogene Waffe.
+Persönlichkeit und Vorgeschichte: Akzeptiert Entscheidungen, auch wenn sie ihn verletzen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Jans Reisegefährtin
+Aussehen: Junge erwachsene Frau mit dunklem Zopf.
+Kleidung: Grünes langes Kleid, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Entscheidet sich selbst für den anderen Ritter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Fremder Ritter bei Nivelle
+Aussehen: Erwachsener Mann mit schwarzen Locken, bartlos.
+Kleidung: Rotes Wams, grauer Harnisch und Stiefel.
+Persönlichkeit und Vorgeschichte: Verlangt erst Kampf um die Frau und dann um den Hund.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Jans Hund
+Aussehen: Mittelgroßer brauner Hund mit weißer Brust, vier Pfoten.
+Kleidung: Natürliches Fell.
+Persönlichkeit und Vorgeschichte: Folgt Jan aus eigenem Antrieb.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die gemeinsame Reise
+Ort und Zeit: Die gemeinsame Reise
+Sichtbare Figuren: Jan von Nivelle, Jans Reisegefährtin, Jans Hund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Pferd mit zwei erwachsenen Reitenden, ein Hund seitlich.
+Erzählertext: Jan ritt mit seiner Geliebten nach Nivelle. Sein Hund begleitete sie.
+Dialoge: keine
+Kontinuität / Änderung: Ein Pferd mit zwei erwachsenen Reitenden, ein Hund seitlich.
+
+KACHEL 2: Die Begegnung
+Ort und Zeit: Die Begegnung
+Sichtbare Figuren: Jan von Nivelle, Jans Reisegefährtin, Fremder Ritter bei Nivelle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei verschiedene Pferde, drei Erwachsene, klare Distanz.
+Erzählertext: Ein fremder Ritter hielt ihnen den Weg auf.
+Dialoge: keine
+Kontinuität / Änderung: Zwei verschiedene Pferde, drei Erwachsene, klare Distanz.
+
+KACHEL 3: Die Forderung
+Ort und Zeit: Die Forderung
+Sichtbare Figuren: Fremder Ritter bei Nivelle, Jan von Nivelle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Reiter ohne gezogene Klingen, keine begonnene Tjost.
+Erzählertext: Der Fremde wollte um die Frau kämpfen. Dem Sieger sollte sie gehören.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Reiter ohne gezogene Klingen, keine begonnene Tjost.
+
+KACHEL 4: Das abgelehnte Recht
+Ort und Zeit: Das abgelehnte Recht
+Sichtbare Figuren: Jan von Nivelle, Jans Reisegefährtin
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jan mit offener Hand, Frau hört zu.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Jan von Nivelle
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie entscheidet selbst, wem sie folgen will.“
+Kontinuität / Änderung: Jan mit offener Hand, Frau hört zu.
+
+KACHEL 5: Der Wechsel
+Ort und Zeit: Der Wechsel
+Sichtbare Figuren: Jans Reisegefährtin, Fremder Ritter bei Nivelle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau ausdrücklich von Jans braunem Pferd abgestiegen, graues Pferd wartet.
+Erzählertext: Sie stieg ab und wählte den Fremden.
+Dialoge: keine
+Kontinuität / Änderung: Frau ausdrücklich von Jans braunem Pferd abgestiegen, graues Pferd wartet.
+
+KACHEL 6: Der erste Abschied
+Ort und Zeit: Der erste Abschied
+Sichtbare Figuren: Jan von Nivelle, Jans Hund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter mit Hund entfernt sich, keine zweite Frau hinter ihm.
+Erzählertext: Jan stritt nicht. Er ritt weiter.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter mit Hund entfernt sich, keine zweite Frau hinter ihm.
+
+KACHEL 7: Die zweite Forderung
+Ort und Zeit: Die zweite Forderung
+Sichtbare Figuren: Fremder Ritter bei Nivelle, Jan von Nivelle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Reiter, Hund am Boden, Frau wartet fern außerhalb.
+Erzählertext: Der Ritter kam zurück. Die Frau wünsche auch den Hund.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Reiter, Hund am Boden, Frau wartet fern außerhalb.
+
+KACHEL 8: Wieder die Wahl
+Ort und Zeit: Wieder die Wahl
+Sichtbare Figuren: Jan von Nivelle, Jans Hund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Jan hält die Zügel ruhig, Hund ohne Leine zwischen beiden.
+Erzählertext: Jan wollte auch ihn nicht gegen dessen eigene Bindung vergeben.
+Dialoge: keine
+Kontinuität / Änderung: Jan hält die Zügel ruhig, Hund ohne Leine zwischen beiden.
+
+KACHEL 9: Die angebotenen Bissen
+Ort und Zeit: Die angebotenen Bissen
+Sichtbare Figuren: Fremder Ritter bei Nivelle, Jans Hund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reiter auf grauem Pferd lockt mit einer Hand, Hund hält Abstand.
+Erzählertext: Der Fremde lockte ihn mit Futter.
+Dialoge: keine
+Kontinuität / Änderung: Reiter auf grauem Pferd lockt mit einer Hand, Hund hält Abstand.
+
+KACHEL 10: Der eigene Entschluss
+Ort und Zeit: Der eigene Entschluss
+Sichtbare Figuren: Jans Hund, Jan von Nivelle
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund läuft eindeutig zum braunen Pferd, keine gespiegelte Hundekopie.
+Erzählertext: Der Hund ließ sich nicht gewinnen und blieb bei Jan.
+Dialoge: keine
+Kontinuität / Änderung: Ein Hund läuft eindeutig zum braunen Pferd, keine gespiegelte Hundekopie.
+
+KACHEL 11: Die letzte Abfahrt
+Ort und Zeit: Die letzte Abfahrt
+Sichtbare Figuren: Jan von Nivelle, Jans Hund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter und ein Hund auf freiem Weg, Fremder fern zurück.
+Erzählertext: Jan ritt ohne weiteren Gruß davon.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter und ein Hund auf freiem Weg, Fremder fern zurück.
+
+KACHEL 12: Geschenkte Verbundenheit
+Ort und Zeit: Geschenkte Verbundenheit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Offener Weg mit fernen Spuren von Pferd und Hund, keine Tierfrau-Verschmelzung.
+Erzählertext: Die Frau hatte gewählt, der Hund auch. Geforderter Besitz und geschenkte Treue waren nicht dasselbe.
+Dialoge: keine
+Kontinuität / Änderung: Offener Weg mit fernen Spuren von Pferd und Hund, keine Tierfrau-Verschmelzung.

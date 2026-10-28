@@ -1,0 +1,547 @@
+{
+  "mode": "editorial",
+  "name": "Stavorens Ursprung – Drei Wege · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Stavorens Ursprung. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 155.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDes Friesenlandes Hauptstadt ist Stavoren. Die alten Friesen hatten einen Gott, den hielten sie so groß und mächtig wie das Römervolk seinen Jupiter, den nannten sie Stavo. Da nun zu einer Zeit aus fernen Landen drei Brüder zu Schiffe an die Küste kamen, Friso, Saxo und Bruno geheißen, von vielen Gefährten begleitet, welches zur Herbsteszeit geschah, so fanden sie das Land, welches damals Sueven bewohnten, die keine festen Wohnsitze behaupteten und sich der Spätherbstüberschwemmungen wegen in höheres Land zurückgezogen hatten, von Einwohnern fast ganz entblößt, erbauten ihrem Gott Stavo einen Tempel, gründeten eine Stadt und nannten sie nach ihrem Gott Stavoren. Diese Stadt wurde bald groß und viel größer denn jetzt, und die ganze Südersee war noch bewohntes Land, von dem jetzt nur noch hie und da als kleine Insel ein geringer Rest aus den Wogen ragt. Da blieben sie nun dreizehn Jahre, und ihr Volk mehrte sich, und sie hatten nicht Raum genug, darum sprach Friso zu seinen Brüdern, es sei besser, wenn sie sich teilten und jeder von ihnen mit den Seinen ein weites Land gewänne. Da schieden die Brüder Saxo und Bruno in Frieden von Friso, welcher blieb, und Saxo lief in die Elbe ein, ließ sich an ihrem Ufer nie der und bevölkerte das Land, und sein Volk wurde nach ihm Saxen geheißen. Bruno aber machte sich seßhaft am Weserstrome und gründete dort eine Stadt, die hieß nach ihm Brunosvic, die gab hernach dem ganzen Lande ihren Namen Braunschweig. Friso aber erreichte ein sehr hohes Alter, er herrschte über Friesland achtundsechzig Jahre und hinterließ sieben Söhne und eine einzige Tochter.\n\nDie Stadt Stavoren wurde und war vor diesem die allerberühmteste Haupt- und Residenzstadt der friesischen Könige, und war nirgends größere Handlung und Schiffahrt als in dieser Stadt, denn sie war überaus wohl gelegen und hatte einen vortrefflichen Hafen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Stavorens Ursprung. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 155.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDes Friesenlandes Hauptstadt ist Stavoren. Die alten Friesen hatten einen Gott, den hielten sie so groß und mächtig wie das Römervolk seinen Jupiter, den nannten sie Stavo. Da nun zu einer Zeit aus fernen Landen drei Brüder zu Schiffe an die Küste kamen, Friso, Saxo und Bruno geheißen, von vielen Gefährten begleitet, welches zur Herbsteszeit geschah, so fanden sie das Land, welches damals Sueven bewohnten, die keine festen Wohnsitze behaupteten und sich der Spätherbstüberschwemmungen wegen in höheres Land zurückgezogen hatten, von Einwohnern fast ganz entblößt, erbauten ihrem Gott Stavo einen Tempel, gründeten eine Stadt und nannten sie nach ihrem Gott Stavoren. Diese Stadt wurde bald groß und viel größer denn jetzt, und die ganze Südersee war noch bewohntes Land, von dem jetzt nur noch hie und da als kleine Insel ein geringer Rest aus den Wogen ragt. Da blieben sie nun dreizehn Jahre, und ihr Volk mehrte sich, und sie hatten nicht Raum genug, darum sprach Friso zu seinen Brüdern, es sei besser, wenn sie sich teilten und jeder von ihnen mit den Seinen ein weites Land gewänne. Da schieden die Brüder Saxo und Bruno in Frieden von Friso, welcher blieb, und Saxo lief in die Elbe ein, ließ sich an ihrem Ufer nie der und bevölkerte das Land, und sein Volk wurde nach ihm Saxen geheißen. Bruno aber machte sich seßhaft am Weserstrome und gründete dort eine Stadt, die hieß nach ihm Brunosvic, die gab hernach dem ganzen Lande ihren Namen Braunschweig. Friso aber erreichte ein sehr hohes Alter, er herrschte über Friesland achtundsechzig Jahre und hinterließ sieben Söhne und eine einzige Tochter.\n\nDie Stadt Stavoren wurde und war vor diesem die allerberühmteste Haupt- und Residenzstadt der friesischen Könige, und war nirgends größere Handlung und Schiffahrt als in dieser Stadt, denn sie war überaus wohl gelegen und hatte einen vortrefflichen Hafen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Die Ankunft",
+        "setting": "Die Ankunft",
+        "characters": [
+          "e2d1bd7f447358e88212de967b3d1e05",
+          "1707ea9364fa5dd08810b185f37b2629",
+          "2dd60dbe94d2512fbef0c58619ec5f32"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei erwachsene Brüder auf einem Schiff vor Herbstküste.",
+        "dialog": "Friso, Saxo und Bruno kamen mit Gefährten übers Meer.",
+        "bubbles": [],
+        "character_states": {
+          "e2d1bd7f447358e88212de967b3d1e05": "steht am Schiffsbug; Blaues Wollgewand, brauner Mantel.; Lebenszustand: lebend",
+          "1707ea9364fa5dd08810b185f37b2629": "steht daneben; Grünes Wollgewand, grauer Mantel.; Lebenszustand: lebend",
+          "2dd60dbe94d2512fbef0c58619ec5f32": "steht daneben; Rotes Wollgewand, dunkler Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei erwachsene Brüder auf einem Schiff vor Herbstküste.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Die Ankunft",
+            "posture": "steht am Schiffsbug"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "Die Ankunft",
+            "posture": "steht daneben"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Die Ankunft",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "Das hohe Land",
+        "setting": "Das hohe Land",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassene niedrige Ufer und fern bewohnte Höhen.",
+        "dialog": "Frühere Bewohner hatten sich vor Herbstfluten ins höhere Land zurückgezogen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Verlassene niedrige Ufer und fern bewohnte Höhen.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Die Ankunft",
+            "posture": "steht am Schiffsbug"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "Die Ankunft",
+            "posture": "steht daneben"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Die Ankunft",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "Der gemeinsame Ort",
+        "setting": "Der gemeinsame Ort",
+        "characters": [
+          "e2d1bd7f447358e88212de967b3d1e05",
+          "1707ea9364fa5dd08810b185f37b2629",
+          "2dd60dbe94d2512fbef0c58619ec5f32"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Brüder vor schlichtem Tempelbau.",
+        "dialog": "Sie bauten Stavo einen Tempel und nannten die Stadt Stavoren.",
+        "bubbles": [],
+        "character_states": {
+          "e2d1bd7f447358e88212de967b3d1e05": "steht auf Bauplatz; Blaues Wollgewand, brauner Mantel.; Lebenszustand: lebend",
+          "1707ea9364fa5dd08810b185f37b2629": "steht neben ihm; Grünes Wollgewand, grauer Mantel.; Lebenszustand: lebend",
+          "2dd60dbe94d2512fbef0c58619ec5f32": "steht daneben; Rotes Wollgewand, dunkler Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Brüder vor schlichtem Tempelbau.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Der gemeinsame Ort",
+            "posture": "steht auf Bauplatz"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "Der gemeinsame Ort",
+            "posture": "steht neben ihm"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Der gemeinsame Ort",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "Das Wachstum",
+        "setting": "Das Wachstum",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Belebte Siedlung mit engem Hafenkai.",
+        "dialog": "Dreizehn Jahre blieb die Gemeinschaft zusammen.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Belebte Siedlung mit engem Hafenkai.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Der gemeinsame Ort",
+            "posture": "steht auf Bauplatz"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "Der gemeinsame Ort",
+            "posture": "steht neben ihm"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Der gemeinsame Ort",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "Zu wenig Raum",
+        "setting": "Zu wenig Raum",
+        "characters": [
+          "e2d1bd7f447358e88212de967b3d1e05",
+          "1707ea9364fa5dd08810b185f37b2629",
+          "2dd60dbe94d2512fbef0c58619ec5f32"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene am Tisch mit unbeschrifteten Flusssteinen.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "e2d1bd7f447358e88212de967b3d1e05",
+            "text": "Wir brauchen Raum. Jeder soll einen eigenen Weg haben.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "e2d1bd7f447358e88212de967b3d1e05": "spricht mit den Brüdern; Blaues Wollgewand, brauner Mantel.; Lebenszustand: lebend",
+          "1707ea9364fa5dd08810b185f37b2629": "hört zu; Grünes Wollgewand, grauer Mantel.; Lebenszustand: lebend",
+          "2dd60dbe94d2512fbef0c58619ec5f32": "hört zu; Rotes Wollgewand, dunkler Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Erwachsene am Tisch mit unbeschrifteten Flusssteinen.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Zu wenig Raum",
+            "posture": "spricht mit den Brüdern"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "Zu wenig Raum",
+            "posture": "hört zu"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Zu wenig Raum",
+            "posture": "hört zu"
+          }
+        }
+      },
+      {
+        "heading": "Die friedliche Teilung",
+        "setting": "Die friedliche Teilung",
+        "characters": [
+          "e2d1bd7f447358e88212de967b3d1e05",
+          "1707ea9364fa5dd08810b185f37b2629",
+          "2dd60dbe94d2512fbef0c58619ec5f32"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abschied ohne Waffen oder bedrohte Bewohner.",
+        "dialog": "Die Brüder trennten sich in Frieden.",
+        "bubbles": [],
+        "character_states": {
+          "e2d1bd7f447358e88212de967b3d1e05": "reicht Saxo die Hand; Blaues Wollgewand, brauner Mantel.; Lebenszustand: lebend",
+          "1707ea9364fa5dd08810b185f37b2629": "erwidert den Gruß; Grünes Wollgewand, grauer Mantel.; Lebenszustand: lebend",
+          "2dd60dbe94d2512fbef0c58619ec5f32": "steht daneben; Rotes Wollgewand, dunkler Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Abschied ohne Waffen oder bedrohte Bewohner.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Die friedliche Teilung",
+            "posture": "reicht Saxo die Hand"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "Die friedliche Teilung",
+            "posture": "erwidert den Gruß"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Die friedliche Teilung",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "An die Elbe",
+        "setting": "An die Elbe",
+        "characters": [
+          "1707ea9364fa5dd08810b185f37b2629"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bruder vor einer Flusssiedlung.",
+        "dialog": "Saxo ließ sich mit den Seinen an der Elbe nieder.",
+        "bubbles": [],
+        "character_states": {
+          "1707ea9364fa5dd08810b185f37b2629": "steht am Ufer; Grünes Wollgewand, grauer Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Bruder vor einer Flusssiedlung.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Die friedliche Teilung",
+            "posture": "reicht Saxo die Hand"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "An die Elbe",
+            "posture": "steht am Ufer"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "Die friedliche Teilung",
+            "posture": "steht daneben"
+          }
+        }
+      },
+      {
+        "heading": "An die Weser",
+        "setting": "An die Weser",
+        "characters": [
+          "2dd60dbe94d2512fbef0c58619ec5f32"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bruder am Ufer zwischen ersten Häusern.",
+        "dialog": "Bruno gründete an der Weser eine Stadt.",
+        "bubbles": [],
+        "character_states": {
+          "2dd60dbe94d2512fbef0c58619ec5f32": "steht auf Baugrund; Rotes Wollgewand, dunkler Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein Bruder am Ufer zwischen ersten Häusern.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Die friedliche Teilung",
+            "posture": "reicht Saxo die Hand"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "An die Elbe",
+            "posture": "steht am Ufer"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "An die Weser",
+            "posture": "steht auf Baugrund"
+          }
+        }
+      },
+      {
+        "heading": "Der gebliebene Bruder",
+        "setting": "Der gebliebene Bruder",
+        "characters": [
+          "e2d1bd7f447358e88212de967b3d1e05"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Friso vor älter gewordener Siedlung.",
+        "dialog": "Friso blieb. Die Sage lässt ihn lange über Friesland herrschen.",
+        "bubbles": [],
+        "character_states": {
+          "e2d1bd7f447358e88212de967b3d1e05": "steht am Hafen; Blaues Wollgewand, brauner Mantel.; Lebenszustand: lebend"
+        },
+        "continuity": "Friso vor älter gewordener Siedlung.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Der gebliebene Bruder",
+            "posture": "steht am Hafen"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "An die Elbe",
+            "posture": "steht am Ufer"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "An die Weser",
+            "posture": "steht auf Baugrund"
+          }
+        }
+      },
+      {
+        "heading": "Verbundene Namen",
+        "setting": "Verbundene Namen",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei verschiedene Flusslandschaften als zusammenhängende weite Landschaft, keine Schrift.",
+        "dialog": "Die Herkunftssage verbindet Friesland, Sachsen und Braunschweig durch einen friedlichen Abschied.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Drei verschiedene Flusslandschaften als zusammenhängende weite Landschaft, keine Schrift.",
+        "continuity_state": {
+          "e2d1bd7f447358e88212de967b3d1e05": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blaues Wollgewand, brauner Mantel.",
+            "location": "Der gebliebene Bruder",
+            "posture": "steht am Hafen"
+          },
+          "1707ea9364fa5dd08810b185f37b2629": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Grünes Wollgewand, grauer Mantel.",
+            "location": "An die Elbe",
+            "posture": "steht am Ufer"
+          },
+          "2dd60dbe94d2512fbef0c58619ec5f32": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Rotes Wollgewand, dunkler Mantel.",
+            "location": "An die Weser",
+            "posture": "steht auf Baugrund"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Friso",
+        "description": "Erwachsener Mann mit schwarzem kurzem Bart.",
+        "outfit": "Blaues Wollgewand, brauner Mantel.",
+        "backstory": "Bleibt am Ort der ersten gemeinsamen Siedlung.",
+        "id": "e2d1bd7f447358e88212de967b3d1e05",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Saxo",
+        "description": "Erwachsener Mann mit blondem Bart.",
+        "outfit": "Grünes Wollgewand, grauer Mantel.",
+        "backstory": "Zieht mit den Seinen zur Elbe.",
+        "id": "1707ea9364fa5dd08810b185f37b2629",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Bruno",
+        "description": "Erwachsener Mann mit braunem Bart.",
+        "outfit": "Rotes Wollgewand, dunkler Mantel.",
+        "backstory": "Zieht mit den Seinen zur Weser.",
+        "id": "2dd60dbe94d2512fbef0c58619ec5f32",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Kann eine Gemeinschaft auseinandergehen, ohne ihre Verbundenheit im Streit zu verlieren?",
+      "core": "Der wachsende Raumbedarf führt bei den Brüdern zu einer friedlichen Teilung statt zum Kampf um denselben Ort. Die Gründungssage verbindet unterschiedliche Landschaften durch gemeinsame Herkunft.",
+      "ending": "Friso bleibt in Friesland, Saxo und Bruno ziehen weiter; die Namen ihrer neuen Siedlungen bewahren in der Sage die Verbindung.",
+      "reason": "Ankunft, Aufbau, Raumnot, Beratung und drei Wege genügen. Die namengebende Abstammung als Sagendeutung kennzeichnen, nicht als gesicherte Siedlungsgeschichte.",
+      "meaning_type": "Erkenntnis",
+      "evidence": [
+        {
+          "event": "Da schieden die Brüder Saxo und Bruno in Frieden von Friso",
+          "meaning": "Die Trennung ist eine gemeinsam akzeptierte Antwort auf Wachstum, kein Bruch aus Feindschaft."
+        }
+      ],
+      "causal_chain": [
+        "Da schieden die Brüder Saxo und Bruno in Frieden von Friso",
+        "Friso bleibt in Friesland, Saxo und Bruno ziehen weiter; die Namen ihrer neuen Siedlungen bewahren in der Sage die Verbindung."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "6b561ae103772ce4858f115fe456b9ec35900e384f40fa2e1a0c2af95d3b56b6",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:06:50.958495+00:00"
+    },
+    "post_summary": "Die Brüder trennen sich ohne Krieg. Ihre Gründungssage bewahrt die gemeinsame Herkunft.",
+    "source_provenance": {
+      "title": "Stavorens Ursprung",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 155.",
+      "url": "https://textgridrep.org/browse/kdfc.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Stavorens Ursprung. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 155.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nDes Friesenlandes Hauptstadt ist Stavoren. Die alten Friesen hatten einen Gott, den hielten sie so groß und mächtig wie das Römervolk seinen Jupiter, den nannten sie Stavo. Da nun zu einer Zeit aus fernen Landen drei Brüder zu Schiffe an die Küste kamen, Friso, Saxo und Bruno geheißen, von vielen Gefährten begleitet, welches zur Herbsteszeit geschah, so fanden sie das Land, welches damals Sueven bewohnten, die keine festen Wohnsitze behaupteten und sich der Spätherbstüberschwemmungen wegen in höheres Land zurückgezogen hatten, von Einwohnern fast ganz entblößt, erbauten ihrem Gott Stavo einen Tempel, gründeten eine Stadt und nannten sie nach ihrem Gott Stavoren. Diese Stadt wurde bald groß und viel größer denn jetzt, und die ganze Südersee war noch bewohntes Land, von dem jetzt nur noch hie und da als kleine Insel ein geringer Rest aus den Wogen ragt. Da blieben sie nun dreizehn Jahre, und ihr Volk mehrte sich, und sie hatten nicht Raum genug, darum sprach Friso zu seinen Brüdern, es sei besser, wenn sie sich teilten und jeder von ihnen mit den Seinen ein weites Land gewänne. Da schieden die Brüder Saxo und Bruno in Frieden von Friso, welcher blieb, und Saxo lief in die Elbe ein, ließ sich an ihrem Ufer nie der und bevölkerte das Land, und sein Volk wurde nach ihm Saxen geheißen. Bruno aber machte sich seßhaft am Weserstrome und gründete dort eine Stadt, die hieß nach ihm Brunosvic, die gab hernach dem ganzen Lande ihren Namen Braunschweig. Friso aber erreichte ein sehr hohes Alter, er herrschte über Friesland achtundsechzig Jahre und hinterließ sieben Söhne und eine einzige Tochter.\n\nDie Stadt Stavoren wurde und war vor diesem die allerberühmteste Haupt- und Residenzstadt der friesischen Könige, und war nirgends größere Handlung und Schiffahrt als in dieser Stadt, denn sie war überaus wohl gelegen und hatte einen vortrefflichen Hafen.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Des Friesenlandes Hauptstadt ist Stavoren. Die alten Friesen hatten einen Gott, den hielten sie so groß und mächtig wie das Römervolk seinen Jupiter, den nannten sie Stavo.",
+      "id": "bechstein-sagen-kdfc-0",
+      "category": "Liebe und Treue",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "stavoren-brueder-10-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Stavorens Ursprung – Drei Wege · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Stavorens Ursprung – Drei Wege\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Friso\nAussehen: Erwachsener Mann mit schwarzem kurzem Bart.\nKleidung: Blaues Wollgewand, brauner Mantel.\nPersönlichkeit und Vorgeschichte: Bleibt am Ort der ersten gemeinsamen Siedlung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Saxo\nAussehen: Erwachsener Mann mit blondem Bart.\nKleidung: Grünes Wollgewand, grauer Mantel.\nPersönlichkeit und Vorgeschichte: Zieht mit den Seinen zur Elbe.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Bruno\nAussehen: Erwachsener Mann mit braunem Bart.\nKleidung: Rotes Wollgewand, dunkler Mantel.\nPersönlichkeit und Vorgeschichte: Zieht mit den Seinen zur Weser.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die Ankunft\nOrt und Zeit: Die Ankunft\nSichtbare Figuren: Friso, Saxo, Bruno\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei erwachsene Brüder auf einem Schiff vor Herbstküste.\nErzählertext: Friso, Saxo und Bruno kamen mit Gefährten übers Meer.\nDialoge: keine\nKontinuität / Änderung: Drei erwachsene Brüder auf einem Schiff vor Herbstküste.\n\nKACHEL 2: Das hohe Land\nOrt und Zeit: Das hohe Land\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassene niedrige Ufer und fern bewohnte Höhen.\nErzählertext: Frühere Bewohner hatten sich vor Herbstfluten ins höhere Land zurückgezogen.\nDialoge: keine\nKontinuität / Änderung: Verlassene niedrige Ufer und fern bewohnte Höhen.\n\nKACHEL 3: Der gemeinsame Ort\nOrt und Zeit: Der gemeinsame Ort\nSichtbare Figuren: Friso, Saxo, Bruno\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Brüder vor schlichtem Tempelbau.\nErzählertext: Sie bauten Stavo einen Tempel und nannten die Stadt Stavoren.\nDialoge: keine\nKontinuität / Änderung: Drei Brüder vor schlichtem Tempelbau.\n\nKACHEL 4: Das Wachstum\nOrt und Zeit: Das Wachstum\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Belebte Siedlung mit engem Hafenkai.\nErzählertext: Dreizehn Jahre blieb die Gemeinschaft zusammen.\nDialoge: keine\nKontinuität / Änderung: Belebte Siedlung mit engem Hafenkai.\n\nKACHEL 5: Zu wenig Raum\nOrt und Zeit: Zu wenig Raum\nSichtbare Figuren: Friso, Saxo, Bruno\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Erwachsene am Tisch mit unbeschrifteten Flusssteinen.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Friso\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Wir brauchen Raum. Jeder soll einen eigenen Weg haben.“\nKontinuität / Änderung: Drei Erwachsene am Tisch mit unbeschrifteten Flusssteinen.\n\nKACHEL 6: Die friedliche Teilung\nOrt und Zeit: Die friedliche Teilung\nSichtbare Figuren: Friso, Saxo, Bruno\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abschied ohne Waffen oder bedrohte Bewohner.\nErzählertext: Die Brüder trennten sich in Frieden.\nDialoge: keine\nKontinuität / Änderung: Abschied ohne Waffen oder bedrohte Bewohner.\n\nKACHEL 7: An die Elbe\nOrt und Zeit: An die Elbe\nSichtbare Figuren: Saxo\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bruder vor einer Flusssiedlung.\nErzählertext: Saxo ließ sich mit den Seinen an der Elbe nieder.\nDialoge: keine\nKontinuität / Änderung: Ein Bruder vor einer Flusssiedlung.\n\nKACHEL 8: An die Weser\nOrt und Zeit: An die Weser\nSichtbare Figuren: Bruno\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bruder am Ufer zwischen ersten Häusern.\nErzählertext: Bruno gründete an der Weser eine Stadt.\nDialoge: keine\nKontinuität / Änderung: Ein Bruder am Ufer zwischen ersten Häusern.\n\nKACHEL 9: Der gebliebene Bruder\nOrt und Zeit: Der gebliebene Bruder\nSichtbare Figuren: Friso\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Friso vor älter gewordener Siedlung.\nErzählertext: Friso blieb. Die Sage lässt ihn lange über Friesland herrschen.\nDialoge: keine\nKontinuität / Änderung: Friso vor älter gewordener Siedlung.\n\nKACHEL 10: Verbundene Namen\nOrt und Zeit: Verbundene Namen\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei verschiedene Flusslandschaften als zusammenhängende weite Landschaft, keine Schrift.\nErzählertext: Die Herkunftssage verbindet Friesland, Sachsen und Braunschweig durch einen friedlichen Abschied.\nDialoge: keine\nKontinuität / Änderung: Drei verschiedene Flusslandschaften als zusammenhängende weite Landschaft, keine Schrift.\n"
+  },
+  "count_policy": "editorial"
+}

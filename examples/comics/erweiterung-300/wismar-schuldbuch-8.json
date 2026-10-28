@@ -1,0 +1,282 @@
+{
+  "mode": "editorial",
+  "name": "Das Teufelsgitter – Das falsche Schuldbuch · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Das Teufelsgitter. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 215.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIn der Marienkirche zu Wismar ist um den Taufstein ein eisernes Gitter gestellt, das hat der Schmied vollbracht mit der Hülfe des Satans und ist also künstlich, daß keiner es vermag nachzumachen oder Anfang und Ende zu finden. Ein solches Gitter, aber um die Kanzel herum, zeigt man auch in Lübeck und nennt denselben künstlichen Meister wie in Wismar. In einer Nacht soll der Teufel es verfertigt haben.\n\nZu Wismar war auch ein Priester, der hatte ein seltsamliches Gelüsten. Er legte sich ein Buch an, dahinein schrieb er die Namen reicher Leute der Stadt mit gewissen Summen, als wenn sie ihm diese Summen schuldeten, und dann ging er hin und bestahl nach und nach diese Reichen. Wenn er nun einen bestohlen hatte, so schrieb er in seinem Buche zu dessen Namen dedit, zu Dank vergnügt. Endlich kam die Sache an den Tag, nachdem der Schlaukopf lange Jahre so fort gestohlen, und wurde der Täter vom verdienten Strang zu lebenslänglichem Gefängnis begnadigt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Das Teufelsgitter. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 215.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIn der Marienkirche zu Wismar ist um den Taufstein ein eisernes Gitter gestellt, das hat der Schmied vollbracht mit der Hülfe des Satans und ist also künstlich, daß keiner es vermag nachzumachen oder Anfang und Ende zu finden. Ein solches Gitter, aber um die Kanzel herum, zeigt man auch in Lübeck und nennt denselben künstlichen Meister wie in Wismar. In einer Nacht soll der Teufel es verfertigt haben.\n\nZu Wismar war auch ein Priester, der hatte ein seltsamliches Gelüsten. Er legte sich ein Buch an, dahinein schrieb er die Namen reicher Leute der Stadt mit gewissen Summen, als wenn sie ihm diese Summen schuldeten, und dann ging er hin und bestahl nach und nach diese Reichen. Wenn er nun einen bestohlen hatte, so schrieb er in seinem Buche zu dessen Namen dedit, zu Dank vergnügt. Endlich kam die Sache an den Tag, nachdem der Schlaukopf lange Jahre so fort gestohlen, und wurde der Täter vom verdienten Strang zu lebenslänglichem Gefängnis begnadigt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 8,
+    "panel_count": 8,
+    "scenes": [
+      {
+        "heading": "Das berühmte Gitter",
+        "setting": "Das berühmte Gitter",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kunstvolles geschlossenes Eisengitter um einen Taufstein.",
+        "dialog": "Wismar erzählte von einem Gitter, das mit Teufelshilfe geschaffen worden sei.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Kunstvolles geschlossenes Eisengitter um einen Taufstein.",
+        "continuity_state": {}
+      },
+      {
+        "heading": "Die andere Geschichte",
+        "setting": "Die andere Geschichte",
+        "characters": [
+          "17bc28814bf45dd5b58753cc6a460635"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Priester schreibt an Tisch; Gitter nicht im Raum.",
+        "dialog": "Dieselbe Überlieferung berichtet auch von einem menschlichen Betrug.",
+        "bubbles": [],
+        "character_states": {
+          "17bc28814bf45dd5b58753cc6a460635": "sitzt vor einem Buch; Schwarzes schlichtes Geistlichengewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Priester schreibt an Tisch; Gitter nicht im Raum.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Die andere Geschichte",
+            "posture": "sitzt vor einem Buch"
+          }
+        }
+      },
+      {
+        "heading": "Die erfundenen Forderungen",
+        "setting": "Die erfundenen Forderungen",
+        "characters": [
+          "17bc28814bf45dd5b58753cc6a460635"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine lesbare Schrift, Münzen fehlen noch.",
+        "dialog": "Der Priester schrieb reiche Stadtbewohner als angebliche Schuldner auf.",
+        "bubbles": [],
+        "character_states": {
+          "17bc28814bf45dd5b58753cc6a460635": "schreibt in ein Buch; Schwarzes schlichtes Geistlichengewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Keine lesbare Schrift, Münzen fehlen noch.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Die erfundenen Forderungen",
+            "posture": "schreibt in ein Buch"
+          }
+        }
+      },
+      {
+        "heading": "Die heimliche Einnahme",
+        "setting": "Die heimliche Einnahme",
+        "characters": [
+          "17bc28814bf45dd5b58753cc6a460635"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine entnommene Münzhand, keine Gewalt.",
+        "dialog": "Dann bestahl er sie.",
+        "bubbles": [],
+        "character_states": {
+          "17bc28814bf45dd5b58753cc6a460635": "steht vor fremder offener Truhe; Schwarzes schlichtes Geistlichengewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Eine entnommene Münzhand, keine Gewalt.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Die heimliche Einnahme",
+            "posture": "steht vor fremder offener Truhe"
+          }
+        }
+      },
+      {
+        "heading": "Die saubere Buchung",
+        "setting": "Die saubere Buchung",
+        "characters": [
+          "17bc28814bf45dd5b58753cc6a460635"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Münzen neben offener Buchseite.",
+        "dialog": "Im Buch vermerkte er den Diebstahl wie eine erhaltene Zahlung.",
+        "bubbles": [],
+        "character_states": {
+          "17bc28814bf45dd5b58753cc6a460635": "setzt eine Markierung im Buch; Schwarzes schlichtes Geistlichengewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Münzen neben offener Buchseite.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Die saubere Buchung",
+            "posture": "setzt eine Markierung im Buch"
+          }
+        }
+      },
+      {
+        "heading": "Die lange Gewohnheit",
+        "setting": "Die lange Gewohnheit",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abgenutztes Buch neben mehreren verschlossenen Beuteln.",
+        "dialog": "Jahrelang gab seine Buchführung dem Übergriff die Sprache eines Anspruchs.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Abgenutztes Buch neben mehreren verschlossenen Beuteln.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Die saubere Buchung",
+            "posture": "setzt eine Markierung im Buch"
+          }
+        }
+      },
+      {
+        "heading": "Die Entdeckung",
+        "setting": "Die Entdeckung",
+        "characters": [
+          "17bc28814bf45dd5b58753cc6a460635"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geöffnetes Buch auf Amtstisch.",
+        "dialog": "Schließlich kam die Praxis ans Licht.",
+        "bubbles": [],
+        "character_states": {
+          "17bc28814bf45dd5b58753cc6a460635": "steht vor städtischen Beamten; Schwarzes schlichtes Geistlichengewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Geöffnetes Buch auf Amtstisch.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Die Entdeckung",
+            "posture": "steht vor städtischen Beamten"
+          }
+        }
+      },
+      {
+        "heading": "Das wirkliche Gitter",
+        "setting": "Das wirkliche Gitter",
+        "characters": [
+          "17bc28814bf45dd5b58753cc6a460635"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schlichtes funktionales Gitter, keine teuflische Erscheinung.",
+        "dialog": "Er erhielt lebenslanges Gefängnis. Hier war kein Teufel nötig gewesen.",
+        "bubbles": [],
+        "character_states": {
+          "17bc28814bf45dd5b58753cc6a460635": "steht hinter Gefängnisgitter; Schwarzes schlichtes Geistlichengewand.; Lebenszustand: lebend"
+        },
+        "continuity": "Schlichtes funktionales Gitter, keine teuflische Erscheinung.",
+        "continuity_state": {
+          "17bc28814bf45dd5b58753cc6a460635": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes schlichtes Geistlichengewand.",
+            "location": "Das wirkliche Gitter",
+            "posture": "steht hinter Gefängnisgitter"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Priester mit dem Schuldbuch",
+        "description": "Erwachsener Mann mit grauem Haar.",
+        "outfit": "Schwarzes schlichtes Geistlichengewand.",
+        "backstory": "Erfindet Forderungen, um Diebstahl vor sich selbst umzubenennen.",
+        "id": "17bc28814bf45dd5b58753cc6a460635",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wie macht sich ein Mensch fremdes Eigentum innerlich verfügbar, bevor er es tatsächlich stiehlt?",
+      "core": "Der Priester erfindet Forderungen und behandelt seine Diebstähle im eigenen Buch wie ordnungsgemäße Zahlungen. Die Buchführung verschleiert den Übergriff durch die Sprache eines Anspruchs.",
+      "ending": "Die langjährige Praxis kommt ans Licht; der Priester wird zu lebenslangem Gefängnis verurteilt.",
+      "reason": "Die Diebesepisode als Hauptbogen aus zwei unverbundenen Kurzsagen wählen. Das Teufelsgitter ist keine von ihm errichtete Gefängnisvorrichtung oder Ursache seiner Taten.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "als wenn sie ihm diese Summen schuldeten",
+          "meaning": "Der erste Betrug besteht in der Umdeutung anderer Menschen zu eigenen Schuldnern."
+        }
+      ],
+      "causal_chain": [
+        "als wenn sie ihm diese Summen schuldeten",
+        "Die langjährige Praxis kommt ans Licht; der Priester wird zu lebenslangem Gefängnis verurteilt."
+      ],
+      "recommended_count": 8,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "05637dabe278c66e127086039cc66aab506e5ef21256095e664b9b32bce70be0",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:16:03.409444+00:00"
+    },
+    "post_summary": "Neben der Gitterlegende erzählt die Quelle von einem Priester, der seine Diebstähle als Zahlungen verbucht.",
+    "source_provenance": {
+      "title": "Das Teufelsgitter",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 215.",
+      "url": "https://textgridrep.org/browse/kh8v.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Das Teufelsgitter. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 215.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIn der Marienkirche zu Wismar ist um den Taufstein ein eisernes Gitter gestellt, das hat der Schmied vollbracht mit der Hülfe des Satans und ist also künstlich, daß keiner es vermag nachzumachen oder Anfang und Ende zu finden. Ein solches Gitter, aber um die Kanzel herum, zeigt man auch in Lübeck und nennt denselben künstlichen Meister wie in Wismar. In einer Nacht soll der Teufel es verfertigt haben.\n\nZu Wismar war auch ein Priester, der hatte ein seltsamliches Gelüsten. Er legte sich ein Buch an, dahinein schrieb er die Namen reicher Leute der Stadt mit gewissen Summen, als wenn sie ihm diese Summen schuldeten, und dann ging er hin und bestahl nach und nach diese Reichen. Wenn er nun einen bestohlen hatte, so schrieb er in seinem Buche zu dessen Namen dedit, zu Dank vergnügt. Endlich kam die Sache an den Tag, nachdem der Schlaukopf lange Jahre so fort gestohlen, und wurde der Täter vom verdienten Strang zu lebenslänglichem Gefängnis begnadigt.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "In der Marienkirche zu Wismar ist um den Taufstein ein eisernes Gitter gestellt, das hat der Schmied vollbracht mit der Hülfe des Satans und ist also künstlich, daß keiner es vermag nachzumachen oder Anfang und Ende zu finden.",
+      "id": "bechstein-sagen-kh8v-0",
+      "category": "Teufel und Zauberei",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "wismar-schuldbuch-8-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Das Teufelsgitter – Das falsche Schuldbuch · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Das Teufelsgitter – Das falsche Schuldbuch\nAUTOR: Sysop\nKACHELANZAHL: 8\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Priester mit dem Schuldbuch\nAussehen: Erwachsener Mann mit grauem Haar.\nKleidung: Schwarzes schlichtes Geistlichengewand.\nPersönlichkeit und Vorgeschichte: Erfindet Forderungen, um Diebstahl vor sich selbst umzubenennen.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das berühmte Gitter\nOrt und Zeit: Das berühmte Gitter\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kunstvolles geschlossenes Eisengitter um einen Taufstein.\nErzählertext: Wismar erzählte von einem Gitter, das mit Teufelshilfe geschaffen worden sei.\nDialoge: keine\nKontinuität / Änderung: Kunstvolles geschlossenes Eisengitter um einen Taufstein.\n\nKACHEL 2: Die andere Geschichte\nOrt und Zeit: Die andere Geschichte\nSichtbare Figuren: Priester mit dem Schuldbuch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Priester schreibt an Tisch; Gitter nicht im Raum.\nErzählertext: Dieselbe Überlieferung berichtet auch von einem menschlichen Betrug.\nDialoge: keine\nKontinuität / Änderung: Priester schreibt an Tisch; Gitter nicht im Raum.\n\nKACHEL 3: Die erfundenen Forderungen\nOrt und Zeit: Die erfundenen Forderungen\nSichtbare Figuren: Priester mit dem Schuldbuch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Keine lesbare Schrift, Münzen fehlen noch.\nErzählertext: Der Priester schrieb reiche Stadtbewohner als angebliche Schuldner auf.\nDialoge: keine\nKontinuität / Änderung: Keine lesbare Schrift, Münzen fehlen noch.\n\nKACHEL 4: Die heimliche Einnahme\nOrt und Zeit: Die heimliche Einnahme\nSichtbare Figuren: Priester mit dem Schuldbuch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine entnommene Münzhand, keine Gewalt.\nErzählertext: Dann bestahl er sie.\nDialoge: keine\nKontinuität / Änderung: Eine entnommene Münzhand, keine Gewalt.\n\nKACHEL 5: Die saubere Buchung\nOrt und Zeit: Die saubere Buchung\nSichtbare Figuren: Priester mit dem Schuldbuch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Münzen neben offener Buchseite.\nErzählertext: Im Buch vermerkte er den Diebstahl wie eine erhaltene Zahlung.\nDialoge: keine\nKontinuität / Änderung: Münzen neben offener Buchseite.\n\nKACHEL 6: Die lange Gewohnheit\nOrt und Zeit: Die lange Gewohnheit\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abgenutztes Buch neben mehreren verschlossenen Beuteln.\nErzählertext: Jahrelang gab seine Buchführung dem Übergriff die Sprache eines Anspruchs.\nDialoge: keine\nKontinuität / Änderung: Abgenutztes Buch neben mehreren verschlossenen Beuteln.\n\nKACHEL 7: Die Entdeckung\nOrt und Zeit: Die Entdeckung\nSichtbare Figuren: Priester mit dem Schuldbuch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geöffnetes Buch auf Amtstisch.\nErzählertext: Schließlich kam die Praxis ans Licht.\nDialoge: keine\nKontinuität / Änderung: Geöffnetes Buch auf Amtstisch.\n\nKACHEL 8: Das wirkliche Gitter\nOrt und Zeit: Das wirkliche Gitter\nSichtbare Figuren: Priester mit dem Schuldbuch\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schlichtes funktionales Gitter, keine teuflische Erscheinung.\nErzählertext: Er erhielt lebenslanges Gefängnis. Hier war kein Teufel nötig gewesen.\nDialoge: keine\nKontinuität / Änderung: Schlichtes funktionales Gitter, keine teuflische Erscheinung.\n"
+  },
+  "count_policy": "editorial"
+}

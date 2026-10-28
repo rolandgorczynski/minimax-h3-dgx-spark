@@ -1,0 +1,129 @@
+TITEL: Der Wode – Die unbedachte Auskunft
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bauer auf dem Weg nach Krumesse
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Brauner Mantel, graue Hose.
+Persönlichkeit und Vorgeschichte: Versteht die Folge seiner Auskunft zu spät.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Der Wode
+Aussehen: Großer geisterhafter Mann mit grauem Haar.
+Kleidung: Dunkler Jagdmantel.
+Persönlichkeit und Vorgeschichte: Verfolgt die Unterirdischen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Sprecher der Unterirdischen
+Aussehen: Kleiner erwachsener Mann mit weißem Bart.
+Kleidung: Grünes Gewand, rote Mütze.
+Persönlichkeit und Vorgeschichte: Glaubt sich für diesen Abend sicher.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Abendweg
+Ort und Zeit: Der Abendweg
+Sichtbare Figuren: Bauer auf dem Weg nach Krumesse
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bauer vor weitem dunklem Moor.
+Erzählertext: Ein Bauer ging von Beidendorf nach Krumesse.
+Dialoge: keine
+Kontinuität / Änderung: Ein Bauer vor weitem dunklem Moor.
+
+KACHEL 2: Die kleinen Wanderer
+Ort und Zeit: Die kleinen Wanderer
+Sichtbare Figuren: Sprecher der Unterirdischen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine erwachsene Sagenwesen laufen am Weg.
+Erzählertext: Unterirdische kamen ihm entgegen.
+Dialoge: keine
+Kontinuität / Änderung: Kleine erwachsene Sagenwesen laufen am Weg.
+
+KACHEL 3: Die Sicherheit
+Ort und Zeit: Die Sicherheit
+Sichtbare Figuren: Sprecher der Unterirdischen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleine Gruppe ohne Verfolger.
+Erzählertext: Sie meinten, der Wode könne sie heute nicht fangen: Er habe sich nicht gewaschen.
+Dialoge: keine
+Kontinuität / Änderung: Kleine Gruppe ohne Verfolger.
+
+KACHEL 4: Der Weiterweg
+Ort und Zeit: Der Weiterweg
+Sichtbare Figuren: Bauer auf dem Weg nach Krumesse
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unterirdische bereits außerhalb des Bildes.
+Erzählertext: Der Bauer hörte es und ging weiter.
+Dialoge: keine
+Kontinuität / Änderung: Unterirdische bereits außerhalb des Bildes.
+
+KACHEL 5: Der Jäger
+Ort und Zeit: Der Jäger
+Sichtbare Figuren: Der Wode, Bauer auf dem Weg nach Krumesse
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Das ausdrücklich dreibeinige Sagenpferd steht still, kein zufälliger Anatomiefehler.
+Erzählertext: Dann kam der Wode.
+Dialoge: keine
+Kontinuität / Änderung: Das ausdrücklich dreibeinige Sagenpferd steht still, kein zufälliger Anatomiefehler.
+
+KACHEL 6: Die Frage
+Ort und Zeit: Die Frage
+Sichtbare Figuren: Der Wode, Bauer auf dem Weg nach Krumesse
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reiter und Fußgänger klar getrennt.
+Erzählertext: Er fragte, was die kleinen Leute gerufen hätten.
+Dialoge: keine
+Kontinuität / Änderung: Reiter und Fußgänger klar getrennt.
+
+KACHEL 7: Die Auskunft
+Ort und Zeit: Die Auskunft
+Sichtbare Figuren: Bauer auf dem Weg nach Krumesse, Der Wode
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bauer mit offener Hand.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Bauer auf dem Weg nach Krumesse
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Sie sagen, Ihr hättet Euch heute nicht gewaschen.“
+Kontinuität / Änderung: Bauer mit offener Hand.
+
+KACHEL 8: Der Halt
+Ort und Zeit: Der Halt
+Sichtbare Figuren: Der Wode
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhender Reiter vor Buschwerk.
+Erzählertext: Der Wode hielt sofort an und machte die fehlende Waschung nach seiner unheimlichen Art wett.
+Dialoge: keine
+Kontinuität / Änderung: Ruhender Reiter vor Buschwerk.
+
+KACHEL 9: Die offene Jagd
+Ort und Zeit: Die offene Jagd
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geisterhafter Zug entfernt sich über Moor, Opfer nicht sichtbar.
+Erzählertext: Der Schutz der Unterirdischen war aufgehoben.
+Dialoge: keine
+Kontinuität / Änderung: Geisterhafter Zug entfernt sich über Moor, Opfer nicht sichtbar.
+
+KACHEL 10: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Bauer auf dem Weg nach Krumesse, Der Wode
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nur verhüllte dunkle Bündel am Sagenpferd, keine Körperteile.
+Erzählertext: Noch vor Krumesse sah der Bauer ihn zurückkommen.
+Dialoge: keine
+Kontinuität / Änderung: Nur verhüllte dunkle Bündel am Sagenpferd, keine Körperteile.
+
+KACHEL 11: Die begriffene Folge
+Ort und Zeit: Die begriffene Folge
+Sichtbare Figuren: Bauer auf dem Weg nach Krumesse
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Gesicht eines erschütterten Mannes.
+Erzählertext: Die Sage sagt: Die Unterirdischen waren getötet. Seine Auskunft hatte dem Jäger geholfen.
+Dialoge: keine
+Kontinuität / Änderung: Gesicht eines erschütterten Mannes.
+
+KACHEL 12: Das nicht zurücknehmbare Wort
+Ort und Zeit: Das nicht zurücknehmbare Wort
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Moorweg im fahlen Morgenlicht.
+Erzählertext: Der Bauer konnte seine Antwort nicht zurückholen. Der Wode jagte weiter.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Moorweg im fahlen Morgenlicht.

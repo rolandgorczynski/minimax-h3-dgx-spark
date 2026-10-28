@@ -1,0 +1,168 @@
+TITEL: Lodder und Wapper – Das grausame Lachen
+AUTOR: Sysop
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Lodder
+Aussehen: Wechselgeist, hier als schwarzer Hund mit leuchtenden Augen.
+Kleidung: Schwarzes Fell, vier Pfoten.
+Persönlichkeit und Vorgeschichte: Verführt durch täuschende Funde.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Langer Wapper
+Aussehen: Dünner erwachsener Mann mit langem schmalem Gesicht.
+Kleidung: Dunkles Wams, braune Hose, rote Mütze.
+Persönlichkeit und Vorgeschichte: Verwandelt Unterhaltung in Grausamkeit.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Nächtlicher Heimkehrer
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Grauer Mantel, blaue Hose.
+Persönlichkeit und Vorgeschichte: Findet eine vermeintliche Uhr.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Antwerpener Böttcher
+Aussehen: Kräftiger erwachsener Mann mit grauem Bart.
+Kleidung: Lederschürze über hellem Hemd.
+Persönlichkeit und Vorgeschichte: Vertraut einem scheinbaren Gesellen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das Kettenrasseln
+Ort und Zeit: Das Kettenrasseln
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Abendliches Stoppelfeld, abgelegte Kleider, Gewitter am Horizont.
+Erzählertext: Bei Brüssel hörten Schnitter ein Rasseln aus ihren Kleidern.
+Dialoge: keine
+Kontinuität / Änderung: Abendliches Stoppelfeld, abgelegte Kleider, Gewitter am Horizont.
+
+KACHEL 2: Der unsichtbare Träger
+Ort und Zeit: Der unsichtbare Träger
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Schnitter schwebt knapp über dem Weg, erschrockene Kollegen dahinter.
+Erzählertext: Lodder trug einen davon und warf ihn neben einen Weiher.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Schnitter schwebt knapp über dem Weg, erschrockene Kollegen dahinter.
+
+KACHEL 3: Der Fund
+Ort und Zeit: Der Fund
+Sichtbare Figuren: Nächtlicher Heimkehrer
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzelne Taschenuhr unter angehobenem Stein.
+Erzählertext: Ein Heimkehrer fand später eine tickende Uhr.
+Dialoge: keine
+Kontinuität / Änderung: Eine einzelne Taschenuhr unter angehobenem Stein.
+
+KACHEL 4: Die genaue Stunde
+Ort und Zeit: Die genaue Stunde
+Sichtbare Figuren: Nächtlicher Heimkehrer
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mondlicht auf Uhr und Hand, Kirchturm im Hintergrund.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Nächtlicher Heimkehrer
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mitternacht. Sie geht genau.“
+Kontinuität / Änderung: Mondlicht auf Uhr und Hand, Kirchturm im Hintergrund.
+
+KACHEL 5: Das kalte Gewicht
+Ort und Zeit: Das kalte Gewicht
+Sichtbare Figuren: Nächtlicher Heimkehrer
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Anstelle der Uhr sitzt genau eine Kröte in seiner Hand.
+Erzählertext: Der Fund wurde kalt und schwer: eine Kröte.
+Dialoge: keine
+Kontinuität / Änderung: Anstelle der Uhr sitzt genau eine Kröte in seiner Hand.
+
+KACHEL 6: Lodders Abschied
+Ort und Zeit: Lodders Abschied
+Sichtbare Figuren: Lodder, Nächtlicher Heimkehrer
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Hund am Fenster, keine zusätzliche Kröte oder Uhr.
+Erzählertext: Aus der Kröte wurde ein Hund. Sein Lachen blieb im Zimmer.
+Dialoge: keine
+Kontinuität / Änderung: Ein Hund am Fenster, keine zusätzliche Kröte oder Uhr.
+
+KACHEL 7: Ein anderer Name
+Ort und Zeit: Ein anderer Name
+Sichtbare Figuren: Langer Wapper
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schmaler Mann allein im Brückenschatten.
+Erzählertext: In Antwerpen spielte der lange Wapper ähnliche Spiele.
+Dialoge: keine
+Kontinuität / Änderung: Schmaler Mann allein im Brückenschatten.
+
+KACHEL 8: Der falsche Gewinn
+Ort und Zeit: Der falsche Gewinn
+Sichtbare Figuren: Langer Wapper
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleidete Kinder und Murmeln auf Pflaster, kein gefährliches Spiel.
+Erzählertext: Gewonnene Murmeln wurden in den Taschen zu Schafkot.
+Dialoge: keine
+Kontinuität / Änderung: Bekleidete Kinder und Murmeln auf Pflaster, kein gefährliches Spiel.
+
+KACHEL 9: Die Grenze
+Ort und Zeit: Die Grenze
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verlassener Spielplatz, liegengebliebene Murmeln, leere Schaukel.
+Erzählertext: Andere Spiele endeten tödlich. Das Lachen war kein harmloser Spaß.
+Dialoge: keine
+Kontinuität / Änderung: Verlassener Spielplatz, liegengebliebene Murmeln, leere Schaukel.
+
+KACHEL 10: Der neue Geselle
+Ort und Zeit: Der neue Geselle
+Sichtbare Figuren: Langer Wapper, Antwerpener Böttcher
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Böttcherwerkstatt, ein trockenes Fass, zwei Männer.
+Erzählertext: Ein Böttcher stellte den scheinbar geschickten Gesellen ein.
+Dialoge: keine
+Kontinuität / Änderung: Böttcherwerkstatt, ein trockenes Fass, zwei Männer.
+
+KACHEL 11: Das brennende Fass
+Ort und Zeit: Das brennende Fass
+Sichtbare Figuren: Antwerpener Böttcher
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Werkstattbrand im Hintergrund, Meister im sicheren Vordergrund, Wapper fort.
+Erzählertext: Wapper setzte mit dem brennenden Fass das Haus in Brand.
+Dialoge: keine
+Kontinuität / Änderung: Werkstattbrand im Hintergrund, Meister im sicheren Vordergrund, Wapper fort.
+
+KACHEL 12: Das fremde Lachen
+Ort und Zeit: Das fremde Lachen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verrauchte Werkstatt mit nassem Boden, keine Verletzten.
+Erzählertext: Der Meister rettete mühsam sein Haus. Der Brandstifter lachte im Wasser.
+Dialoge: keine
+Kontinuität / Änderung: Verrauchte Werkstatt mit nassem Boden, keine Verletzten.
+
+KACHEL 13: Die lange Gestalt
+Ort und Zeit: Die lange Gestalt
+Sichtbare Figuren: Langer Wapper
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziger unnatürlich langer Körper blickt ins Obergeschoss.
+Erzählertext: Wapper konnte bis zu den höchsten Fenstern wachsen.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziger unnatürlich langer Körper blickt ins Obergeschoss.
+
+KACHEL 14: Die gemeinsame Antwort
+Ort und Zeit: Die gemeinsame Antwort
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewohner stellen kleine Christus- und Marienbilder an Straßenecken auf.
+Erzählertext: Die Stadtbewohner fanden ein gemeinsames Mittel gegen den Geist.
+Dialoge: keine
+Kontinuität / Änderung: Bewohner stellen kleine Christus- und Marienbilder an Straßenecken auf.
+
+KACHEL 15: Die leere Gasse
+Ort und Zeit: Die leere Gasse
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Religiöse Bildnisse an zwei Ecken, freie Gasse ohne Wapper.
+Erzählertext: Nach der Sage vertrieb ihr Glaube den Wapper aus Antwerpen.
+Dialoge: keine
+Kontinuität / Änderung: Religiöse Bildnisse an zwei Ecken, freie Gasse ohne Wapper.
+
+KACHEL 16: Zur See
+Ort und Zeit: Zur See
+Sichtbare Figuren: Langer Wapper
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Langer Schatten am Meer, Stadt weit zurück.
+Erzählertext: Er zog zu Fischern und Seeleuten. Die Stadt hatte Ruhe; der Spuk kein Ende.
+Dialoge: keine
+Kontinuität / Änderung: Langer Schatten am Meer, Stadt weit zurück.

@@ -1,0 +1,56 @@
+TITEL: Die Sieben in Rostock – Die kleine Gegenrechnung
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+KACHEL 1: Die Stadt der Zahl
+Ort und Zeit: Die Stadt der Zahl
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Altes Rostock aus der Vogelperspektive.
+Erzählertext: Die Überlieferung beschreibt Rostock mit der Siebenzahl.
+Dialoge: keine
+Kontinuität / Änderung: Altes Rostock aus der Vogelperspektive.
+
+KACHEL 2: Die Wege
+Ort und Zeit: Die Wege
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stadtmodell mit genau sieben vom Markt ausgehenden Straßen.
+Erzählertext: Sieben Tore, Brücken und Hauptstraßen gehörten zu ihrem Merkbild.
+Dialoge: keine
+Kontinuität / Änderung: Stadtmodell mit genau sieben vom Markt ausgehenden Straßen.
+
+KACHEL 3: Die öffentlichen Räume
+Ort und Zeit: Die öffentlichen Räume
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rathaus und Marienkirche in weiter Stadtansicht.
+Erzählertext: Auch an Rathaus und Kirche zählte man wieder die Sieben.
+Dialoge: keine
+Kontinuität / Änderung: Rathaus und Marienkirche in weiter Stadtansicht.
+
+KACHEL 4: Die Bäume
+Ort und Zeit: Die Bäume
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau sieben alte Linden im Rosengarten.
+Erzählertext: Im Rosengarten standen sieben alte Linden.
+Dialoge: keine
+Kontinuität / Änderung: Genau sieben alte Linden im Rosengarten.
+
+KACHEL 5: Die Gegenrechnung
+Ort und Zeit: Die Gegenrechnung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fast leerer Universitätshof, ein einzelner erwachsener Student.
+Erzählertext: Spötter behaupteten, zu all den Sieben gebe es auch nur sieben Studenten.
+Dialoge: keine
+Kontinuität / Änderung: Fast leerer Universitätshof, ein einzelner erwachsener Student.
+
+KACHEL 6: Die Rosenstadt
+Ort und Zeit: Die Rosenstadt
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Rosenstock vor städtischem Garten und ferner Universität.
+Erzählertext: Stolz und Spott teilen sich das Stadtbild. Die Rosen bewahren daneben einen anderen Namen.
+Dialoge: keine
+Kontinuität / Änderung: Rosenstock vor städtischem Garten und ferner Universität.

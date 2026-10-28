@@ -1,0 +1,138 @@
+TITEL: Der Zauberer von Plön – Das verschobene Wort
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Herzog Johann Adolf
+Aussehen: Erwachsener Mann mit dunklem Bart.
+Kleidung: Blauer Hofrock, grauer Mantel.
+Persönlichkeit und Vorgeschichte: Verfügt in der Sage über Zaubermacht und droht seiner Frau.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Dorothea Sophia
+Aussehen: Erwachsene Frau mit braunem Haar.
+Kleidung: Grünes geschlossenes Hofkleid.
+Persönlichkeit und Vorgeschichte: Lässt Plön statt Stocksee erweitern.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der mächtige Herzog
+Ort und Zeit: Der mächtige Herzog
+Sichtbare Figuren: Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mann über weiter Seenlandschaft.
+Erzählertext: Johann Adolf gilt in der Sage als Kriegsheld und Zauberer.
+Dialoge: keine
+Kontinuität / Änderung: Mann über weiter Seenlandschaft.
+
+KACHEL 2: Die erstaunliche Fahrt
+Ort und Zeit: Die erstaunliche Fahrt
+Sichtbare Figuren: Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Wagen scheint über ruhiges Seewasser zu fahren.
+Erzählertext: Sogar im Sommer soll er im Wagen über den See gefahren sein.
+Dialoge: keine
+Kontinuität / Änderung: Ein Wagen scheint über ruhiges Seewasser zu fahren.
+
+KACHEL 3: Der Entschluss
+Ort und Zeit: Der Entschluss
+Sichtbare Figuren: Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbeschriftetes Modell einer kleinen Siedlung.
+Erzählertext: Vor einem Kriegszug befahl er, Stocksee zu vergrößern.
+Dialoge: keine
+Kontinuität / Änderung: Unbeschriftetes Modell einer kleinen Siedlung.
+
+KACHEL 4: Die Abreise
+Ort und Zeit: Die Abreise
+Sichtbare Figuren: Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter auf Landweg, kein Wasserweg.
+Erzählertext: Dann zog er fort.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter auf Landweg, kein Wasserweg.
+
+KACHEL 5: Der andere Plan
+Ort und Zeit: Der andere Plan
+Sichtbare Figuren: Dorothea Sophia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Frau mit Baumeistern am Stadtrand.
+Erzählertext: Dorothea Sophia bevorzugte Plön.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene Frau mit Baumeistern am Stadtrand.
+
+KACHEL 6: Die neuen Häuser
+Ort und Zeit: Die neuen Häuser
+Sichtbare Figuren: Dorothea Sophia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Neue Häuser wachsen neben der alten Stadt.
+Erzählertext: Sie verwendete die Gelder für die Neustadt Plön.
+Dialoge: keine
+Kontinuität / Änderung: Neue Häuser wachsen neben der alten Stadt.
+
+KACHEL 7: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unveränderte kleine Siedlung, Mann zu Fuß.
+Erzählertext: Zurückgekehrt fand der Herzog Stocksee unverändert.
+Dialoge: keine
+Kontinuität / Änderung: Unveränderte kleine Siedlung, Mann zu Fuß.
+
+KACHEL 8: Die Drohung
+Ort und Zeit: Die Drohung
+Sichtbare Figuren: Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mann mit leeren Händen, kein erhobenes Schwert.
+Erzählertext: Er schwor, seine Frau solle sterben.
+Dialoge: keine
+Kontinuität / Änderung: Mann mit leeren Händen, kein erhobenes Schwert.
+
+KACHEL 9: Die Nachricht
+Ort und Zeit: Die Nachricht
+Sichtbare Figuren: Dorothea Sophia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fenster geschlossen, Frau erschrocken.
+Erzählertext: Die Drohung erreichte sie vor ihrem Mann.
+Dialoge: keine
+Kontinuität / Änderung: Fenster geschlossen, Frau erschrocken.
+
+KACHEL 10: Die Anfahrt
+Ort und Zeit: Die Anfahrt
+Sichtbare Figuren: Dorothea Sophia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herzoglicher Wagen fern im Hof; kein Sprung dargestellt.
+Erzählertext: Als sie ihn anfahren sah, geriet sie in Todesangst.
+Dialoge: keine
+Kontinuität / Änderung: Herzoglicher Wagen fern im Hof; kein Sprung dargestellt.
+
+KACHEL 11: Der nicht gezeigte Sturz
+Ort und Zeit: Der nicht gezeigte Sturz
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Offenes Fenster über weichem Gartenrasen, keine fallende Person.
+Erzählertext: Die Sage berichtet, sie sei aus dem Fenster gesprungen.
+Dialoge: keine
+Kontinuität / Änderung: Offenes Fenster über weichem Gartenrasen, keine fallende Person.
+
+KACHEL 12: Die Rettung
+Ort und Zeit: Die Rettung
+Sichtbare Figuren: Dorothea Sophia, Herzog Johann Adolf
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleidete Frau sicher am Boden, keine Wunde.
+Erzählertext: Sein Zauber bewahrte sie vor Verletzungen.
+Dialoge: keine
+Kontinuität / Änderung: Bekleidete Frau sicher am Boden, keine Wunde.
+
+KACHEL 13: Das Wortspiel
+Ort und Zeit: Das Wortspiel
+Sichtbare Figuren: Herzog Johann Adolf, Dorothea Sophia
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene ohne Umarmung.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Herzog Johann Adolf
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Mit dem Sterben hat es keine Eile. Warte auf dein Stündlein.“
+Kontinuität / Änderung: Zwei Erwachsene ohne Umarmung.
+
+KACHEL 14: Der längere Weg
+Ort und Zeit: Der längere Weg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Still beleuchtetes Schlosszimmer, offenes Fenster jetzt geschlossen.
+Erzählertext: Sie lebte länger als er. Die wundersame Rettung hatte die vorherige Einschüchterung nicht ungeschehen gemacht.
+Dialoge: keine
+Kontinuität / Änderung: Still beleuchtetes Schlosszimmer, offenes Fenster jetzt geschlossen.

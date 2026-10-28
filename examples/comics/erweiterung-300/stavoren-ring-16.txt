@@ -1,0 +1,158 @@
+TITEL: Stavorens Untergang – Der wiederkehrende Ring
+AUTOR: Sysop
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kaufherrin von Stavoren
+Aussehen: Junge erwachsene Frau mit dunklem Haar.
+Kleidung: Dunkelgrünes Kleid. Goldring nur in den Kacheln vor seinem Wurf; danach nicht getragen.
+Persönlichkeit und Vorgeschichte: Hält ihren Reichtum für unverlierbar.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schiffsführer von Stavoren
+Aussehen: Älterer Mann mit grauem Bart.
+Kleidung: Blauer Rock, graue Mütze.
+Persönlichkeit und Vorgeschichte: Bringt in der Hungersnot Weizen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Hungerzeit
+Ort und Zeit: Die Hungerzeit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hungernde Erwachsene am Kai einer reichen Stadt.
+Erzählertext: Im Land herrschte Hunger.
+Dialoge: keine
+Kontinuität / Änderung: Hungernde Erwachsene am Kai einer reichen Stadt.
+
+KACHEL 2: Das Verlangen
+Ort und Zeit: Das Verlangen
+Sichtbare Figuren: Kaufherrin von Stavoren, Schiffsführer von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene, leeres Deck.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kaufherrin von Stavoren
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Bring mir das Wertvollste aus der Ferne.“
+Kontinuität / Änderung: Zwei Erwachsene, leeres Deck.
+
+KACHEL 3: Die Rückkehr
+Ort und Zeit: Die Rückkehr
+Sichtbare Figuren: Schiffsführer von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Schiff mit voller Ladung.
+Erzählertext: Der Schiffer brachte Weizen: das, was Menschen zum Leben brauchten.
+Dialoge: keine
+Kontinuität / Änderung: Ein Schiff mit voller Ladung.
+
+KACHEL 4: Der erwartete Schmuck
+Ort und Zeit: Der erwartete Schmuck
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Korn in einer offenen Hand, Ring weiterhin am Finger.
+Erzählertext: Die Kaufherrin hatte Edelsteine erwartet.
+Dialoge: keine
+Kontinuität / Änderung: Korn in einer offenen Hand, Ring weiterhin am Finger.
+
+KACHEL 5: Die Bitte
+Ort und Zeit: Die Bitte
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene bitten am Kai, kein Übergriff.
+Erzählertext: Die Hungernden baten, ihnen das Getreide zu geben.
+Dialoge: keine
+Kontinuität / Änderung: Erwachsene bitten am Kai, kein Übergriff.
+
+KACHEL 6: Die Warnung
+Ort und Zeit: Die Warnung
+Sichtbare Figuren: Schiffsführer von Stavoren, Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schiffer zwischen Kornsack und Frau.
+Erzählertext: Er warnte: Sie könnte selbst einmal jedes Körnchen brauchen.
+Dialoge: keine
+Kontinuität / Änderung: Schiffer zwischen Kornsack und Frau.
+
+KACHEL 7: Die Weigerung
+Ort und Zeit: Die Weigerung
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau am Kai, Ring noch am rechten Finger.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kaufherrin von Stavoren
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Über Bord damit!“
+Kontinuität / Änderung: Frau am Kai, Ring noch am rechten Finger.
+
+KACHEL 8: Das Korn im Wasser
+Ort und Zeit: Das Korn im Wasser
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weizen fällt vom Deck, Hungernde bleiben fern am Kai.
+Erzählertext: Die Ladung wurde vernichtet.
+Dialoge: keine
+Kontinuität / Änderung: Weizen fällt vom Deck, Hungernde bleiben fern am Kai.
+
+KACHEL 9: Der Ringwurf
+Ort und Zeit: Der Ringwurf
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner goldener Ring fällt; ihre rechte Hand jetzt ohne Ring.
+Erzählertext: Sie warf ihren Ring hinterher: Eher käme er wieder, als dass sie verarmte.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner goldener Ring fällt; ihre rechte Hand jetzt ohne Ring.
+
+KACHEL 10: Der erste Verlust
+Ort und Zeit: Der erste Verlust
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ringlose Hand am Tisch.
+Erzählertext: Am nächsten Tag erfuhr sie von gescheiterten Schiffen.
+Dialoge: keine
+Kontinuität / Änderung: Ringlose Hand am Tisch.
+
+KACHEL 11: Der zweite Verlust
+Ort und Zeit: Der zweite Verlust
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fernes leeres Meer, ringlose rechte Hand.
+Erzählertext: Weitere Schiffe waren Seeräubern zum Opfer gefallen.
+Dialoge: keine
+Kontinuität / Änderung: Fernes leeres Meer, ringlose rechte Hand.
+
+KACHEL 12: Das gefallene Handelshaus
+Ort und Zeit: Das gefallene Handelshaus
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verschlossenes Lager, keine modernen Schriftstücke.
+Erzählertext: Dann verlor sie das dort angelegte Vermögen.
+Dialoge: keine
+Kontinuität / Änderung: Verschlossenes Lager, keine modernen Schriftstücke.
+
+KACHEL 13: Der fremde Fang
+Ort und Zeit: Der fremde Fang
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Meerfisch in einem Eimer neben einem Süßwasserbrunnen.
+Erzählertext: Am vierten Tag zog man einen Seefisch aus ihrem Brunnen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Meerfisch in einem Eimer neben einem Süßwasserbrunnen.
+
+KACHEL 14: Die Antwort
+Ort und Zeit: Die Antwort
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein gereinigter goldener Ring auf Teller; Fisch nicht aufgeschnitten dargestellt.
+Erzählertext: Im Fisch hatte man ihren Ring gefunden.
+Dialoge: keine
+Kontinuität / Änderung: Ein gereinigter goldener Ring auf Teller; Fisch nicht aufgeschnitten dargestellt.
+
+KACHEL 15: Die Ährenleserin
+Ort und Zeit: Die Ährenleserin
+Sichtbare Figuren: Kaufherrin von Stavoren
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau in abgetragenem grünem Kleid, kein Ring getragen.
+Erzählertext: Ein Jahr später sammelte sie Ähren, um zu überleben.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Frau in abgetragenem grünem Kleid, kein Ring getragen.
+
+KACHEL 16: Der spätere Untergang
+Ort und Zeit: Der spätere Untergang
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Überflutete Stadtviertel und ein kleiner verbliebener Stadtteil.
+Erzählertext: Die Sage erzählt danach von neuen Fluten. Auch die Stadt hatte ihre Warnungen nicht gehört.
+Dialoge: keine
+Kontinuität / Änderung: Überflutete Stadtviertel und ein kleiner verbliebener Stadtteil.

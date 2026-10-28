@@ -1,0 +1,99 @@
+TITEL: Die Ururalte – Der vergessene Teil des Wunsches
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Lübeckerin mit Lebenswunsch
+Aussehen: Erwachsene Frau mit braunem Haar und kräftiger Statur.
+Kleidung: Dunkelblaues geschlossenes Kleid.
+Persönlichkeit und Vorgeschichte: Wünscht ewiges Leben, ohne dauerhafte Kraft mitzuwünschen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das gute Leben
+Ort und Zeit: Das gute Leben
+Sichtbare Figuren: Lübeckerin mit Lebenswunsch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Mahlzeit, helles Haus, gesunde erwachsene Frau.
+Erzählertext: Eine Lübeckerin hatte alles, was sie sich wünschte.
+Dialoge: keine
+Kontinuität / Änderung: Mahlzeit, helles Haus, gesunde erwachsene Frau.
+
+KACHEL 2: Der Wunsch
+Ort und Zeit: Der Wunsch
+Sichtbare Figuren: Lübeckerin mit Lebenswunsch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Lebendige Stadt vor ihr.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Lübeckerin mit Lebenswunsch
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Hier möchte ich ewig leben.“
+Kontinuität / Änderung: Lebendige Stadt vor ihr.
+
+KACHEL 3: Die Gewährung
+Ort und Zeit: Die Gewährung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Offenes Fenster über wechselnden Jahreszeiten, keine Zauberfee.
+Erzählertext: Zur Zeit dieser Sage konnten Wünsche Wirklichkeit werden.
+Dialoge: keine
+Kontinuität / Änderung: Offenes Fenster über wechselnden Jahreszeiten, keine Zauberfee.
+
+KACHEL 4: Die ersten Jahrzehnte
+Ort und Zeit: Die ersten Jahrzehnte
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dasselbe Haus mit älterem Mobiliar.
+Erzählertext: Die Frau lebte weiter und blieb lange guter Dinge.
+Dialoge: keine
+Kontinuität / Änderung: Dasselbe Haus mit älterem Mobiliar.
+
+KACHEL 5: Das hundertste Jahr
+Ort und Zeit: Das hundertste Jahr
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stuhl mit Gehstock neben gedecktem Tisch.
+Erzählertext: Aber sie hatte sich nicht auch ewige körperliche Kraft gewünscht.
+Dialoge: keine
+Kontinuität / Änderung: Stuhl mit Gehstock neben gedecktem Tisch.
+
+KACHEL 6: Die verlorene Selbstständigkeit
+Ort und Zeit: Die verlorene Selbstständigkeit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Helfende Hände stellen eine kleine Mahlzeit neben einen Sessel.
+Erzählertext: Erst konnte sie nicht mehr gehen, dann nicht mehr allein essen.
+Dialoge: keine
+Kontinuität / Änderung: Helfende Hände stellen eine kleine Mahlzeit neben einen Sessel.
+
+KACHEL 7: Das weitere Schrumpfen
+Ort und Zeit: Das weitere Schrumpfen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Immer kleinerer leerer Sessel neben großem Fenster.
+Erzählertext: Die Sage lässt ihren Körper immer kleiner werden.
+Dialoge: keine
+Kontinuität / Änderung: Immer kleinerer leerer Sessel neben großem Fenster.
+
+KACHEL 8: Das Glas
+Ort und Zeit: Das Glas
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kleines geschlossenes Glas mit schlichter Stoffunterlage in Kirchenhalterung.
+Erzählertext: Zuletzt brachten die Menschen sie unter einem Glas in der Kirche unter.
+Dialoge: keine
+Kontinuität / Änderung: Kleines geschlossenes Glas mit schlichter Stoffunterlage in Kirchenhalterung.
+
+KACHEL 9: Das seltene Zeichen
+Ort und Zeit: Das seltene Zeichen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Winzige bekleidete weibliche Silhouette hinter Glas, nicht grotesk.
+Erzählertext: Nur einmal im Jahr soll sie sich noch regen.
+Dialoge: keine
+Kontinuität / Änderung: Winzige bekleidete weibliche Silhouette hinter Glas, nicht grotesk.
+
+KACHEL 10: Das erfüllte Missverständnis
+Ort und Zeit: Das erfüllte Missverständnis
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weite Marienkirche, winziges Glas hoch an Wand.
+Erzählertext: Der Wunsch war erfüllt. Das Leben, das sie gemeint hatte, war längst vorüber.
+Dialoge: keine
+Kontinuität / Änderung: Weite Marienkirche, winziges Glas hoch an Wand.

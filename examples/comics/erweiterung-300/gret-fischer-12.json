@@ -1,0 +1,619 @@
+{
+  "mode": "editorial",
+  "name": "Die schwarze Gret – Der beste Fisch · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Die schwarze Gret und das Danewerk. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 185.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKönig Christoph I. von Dänemark hatte zur Gemahlin des Pommerherzogs Sambor Tochter, das war ein arges Zauberweib; sie hieß nur die schwarze Gret und hatte den Beinamen Springhest. Sie ist die Urheberin des berühmten Danewerkes, jenes riesigen und weiten Walles; den zu erbauen schloß sie einen Bund mit dem Teufel und gebot ihm, in einer Nacht den Wall fertig zu machen; nur ein einziges und zwar eisernes Tor solle hineinkommen, dafür solle dem Teufel gehören, was zuerst durch das vollendete Werk schreite. Da stellte der Teufel ein zahlloses Heer von Arbeitern in das Feld, davon füllte jeder nur dreimal seinen eisernen Hut voll Erde, so war der Wall fertig, und der Teufel stellte sich hinter dem Torflügel auf die Lauer, sah auch schon einen gutgekleideten Reiter die Landstraße daherkommen und freute sich auf den Fang. Aber zufällig hatte der Reiter einen Pudel bei sich, der lief vornweg nach Hundeart, und der Teufel riß ihn wütend in Stücke, wie auf der Reußbrücke die Gemse, auf der Regensburger Brücke den Hund, im Dom zu Aachen den Wolf, und wo sich sonst dieser Sage ein Widerhall findet.\n\nDa nun die wilde schwarze Gret, Springhest genannt, überhaupt ein gottloses, unseliges Leben führte, so ward ihr zur Strafe ihrer schrecklichen Sünden von Gott geboten, allnächtlich über ihr Teufels- und Danewerk als Geist zu reiten. Da haben viele Leute sie gesehen. Ihr Anzug ist ganz schwarz, aber ihr Pferd ist weiß, und sein Odem ist Feuer. Zwei Geister in weißen Kleidern folgen ihr, und da rennen und sprengen die Drei wie der wilde Jäger von Hollingstede bis Haddeby. Dieses Gespenst leidet nicht, daß auf seinem Walle etwas angebaut werde. In der Nähe von Haddebye heißt ganz besonders eine Stelle im Danewerke nach der Springhest Margretenwerk, da läßt sie sich am häufigsten sehen.\n\nEinstmals erschien sie armen Fischern vom Schleswiger Holm, die traurig waren, daß sie nach einer arbeitvollen Nacht nichts gefangen hatten, in aller ihrer königlichen Pracht, mit Perlen und Demanten geschmückt, wie man ihr Bild im Schlosse zu Husum sah, und gebot ihnen, die Netze noch einmal auszuwerfen, aber den besten Fisch, den sie fingen, den sollten sie wieder in das Wasser werfen. Die Fischer taten den glückhaftesten Zug, der seit St. Petri Zeiten getan worden, und der beste Fisch, der hatte Flossen von Smaragd, Schuppen von gemünztem Gold, und seine Nase war mit Perlen besetzt. Der eine Fischer wollte dieses Prachtstück gleich wieder in die Flut werfen, dem andern aber fraß die Habgier am Herzen, und er verbarg den Fisch gegen den Willen des an dern, seines Gefährten. Rasch wurde fortgerudert, aber da begannen alle andern Fische auch Schuppen von gemünztem Golde zu bekommen und Perlen am Oberkiefer und Edelsteine statt der Flossen, und da wurde der Kahn so schwer, so schwer, und sank, und der Habgierige mußte ertrinken, der andere aber konnte nur mit genauer Not sein Leben retten.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Die schwarze Gret und das Danewerk. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 185.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKönig Christoph I. von Dänemark hatte zur Gemahlin des Pommerherzogs Sambor Tochter, das war ein arges Zauberweib; sie hieß nur die schwarze Gret und hatte den Beinamen Springhest. Sie ist die Urheberin des berühmten Danewerkes, jenes riesigen und weiten Walles; den zu erbauen schloß sie einen Bund mit dem Teufel und gebot ihm, in einer Nacht den Wall fertig zu machen; nur ein einziges und zwar eisernes Tor solle hineinkommen, dafür solle dem Teufel gehören, was zuerst durch das vollendete Werk schreite. Da stellte der Teufel ein zahlloses Heer von Arbeitern in das Feld, davon füllte jeder nur dreimal seinen eisernen Hut voll Erde, so war der Wall fertig, und der Teufel stellte sich hinter dem Torflügel auf die Lauer, sah auch schon einen gutgekleideten Reiter die Landstraße daherkommen und freute sich auf den Fang. Aber zufällig hatte der Reiter einen Pudel bei sich, der lief vornweg nach Hundeart, und der Teufel riß ihn wütend in Stücke, wie auf der Reußbrücke die Gemse, auf der Regensburger Brücke den Hund, im Dom zu Aachen den Wolf, und wo sich sonst dieser Sage ein Widerhall findet.\n\nDa nun die wilde schwarze Gret, Springhest genannt, überhaupt ein gottloses, unseliges Leben führte, so ward ihr zur Strafe ihrer schrecklichen Sünden von Gott geboten, allnächtlich über ihr Teufels- und Danewerk als Geist zu reiten. Da haben viele Leute sie gesehen. Ihr Anzug ist ganz schwarz, aber ihr Pferd ist weiß, und sein Odem ist Feuer. Zwei Geister in weißen Kleidern folgen ihr, und da rennen und sprengen die Drei wie der wilde Jäger von Hollingstede bis Haddeby. Dieses Gespenst leidet nicht, daß auf seinem Walle etwas angebaut werde. In der Nähe von Haddebye heißt ganz besonders eine Stelle im Danewerke nach der Springhest Margretenwerk, da läßt sie sich am häufigsten sehen.\n\nEinstmals erschien sie armen Fischern vom Schleswiger Holm, die traurig waren, daß sie nach einer arbeitvollen Nacht nichts gefangen hatten, in aller ihrer königlichen Pracht, mit Perlen und Demanten geschmückt, wie man ihr Bild im Schlosse zu Husum sah, und gebot ihnen, die Netze noch einmal auszuwerfen, aber den besten Fisch, den sie fingen, den sollten sie wieder in das Wasser werfen. Die Fischer taten den glückhaftesten Zug, der seit St. Petri Zeiten getan worden, und der beste Fisch, der hatte Flossen von Smaragd, Schuppen von gemünztem Gold, und seine Nase war mit Perlen besetzt. Der eine Fischer wollte dieses Prachtstück gleich wieder in die Flut werfen, dem andern aber fraß die Habgier am Herzen, und er verbarg den Fisch gegen den Willen des an dern, seines Gefährten. Rasch wurde fortgerudert, aber da begannen alle andern Fische auch Schuppen von gemünztem Golde zu bekommen und Perlen am Oberkiefer und Edelsteine statt der Flossen, und da wurde der Kahn so schwer, so schwer, und sank, und der Habgierige mußte ertrinken, der andere aber konnte nur mit genauer Not sein Leben retten.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 12,
+    "panel_count": 12,
+    "scenes": [
+      {
+        "heading": "Die leere Nacht",
+        "setting": "Die leere Nacht",
+        "characters": [
+          "e50e8fcbd543598298e515570161a014",
+          "189f438e46f65228a4579f24b1c9ac21"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines Fischerboot, leere Netze.",
+        "dialog": "Fischer vom Schleswiger Holm hatten die ganze Nacht nichts gefangen.",
+        "bubbles": [],
+        "character_states": {
+          "e50e8fcbd543598298e515570161a014": "sitzt im Boot; Blauer Wollrock, graue Hose.; Lebenszustand: lebend",
+          "189f438e46f65228a4579f24b1c9ac21": "sitzt gegenüber; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein kleines Fischerboot, leere Netze.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Die leere Nacht",
+            "posture": "sitzt im Boot"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die leere Nacht",
+            "posture": "sitzt gegenüber"
+          }
+        }
+      },
+      {
+        "heading": "Die Erscheinung",
+        "setting": "Die Erscheinung",
+        "characters": [
+          "ecb787059047574d9a528f8ebe41e087",
+          "e50e8fcbd543598298e515570161a014",
+          "189f438e46f65228a4579f24b1c9ac21"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschmückte Frau im Abstand zum Boot.",
+        "dialog": "Da erschien ihnen nach der Sage die schwarze Gret.",
+        "bubbles": [],
+        "character_states": {
+          "ecb787059047574d9a528f8ebe41e087": "steht am Ufer; Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.; Lebenszustand: lebend",
+          "e50e8fcbd543598298e515570161a014": "sitzt im Boot; Blauer Wollrock, graue Hose.; Lebenszustand: lebend",
+          "189f438e46f65228a4579f24b1c9ac21": "sitzt im Boot; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Geschmückte Frau im Abstand zum Boot.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Die Erscheinung",
+            "posture": "sitzt im Boot"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die Erscheinung",
+            "posture": "sitzt im Boot"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Die Erscheinung",
+            "posture": "steht am Ufer"
+          }
+        }
+      },
+      {
+        "heading": "Der Auftrag",
+        "setting": "Der Auftrag",
+        "characters": [
+          "ecb787059047574d9a528f8ebe41e087"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königliche Erscheinung am stillen Ufer.",
+        "dialog": "Sie sollten noch einmal auswerfen und den besten Fisch zurückgeben.",
+        "bubbles": [],
+        "character_states": {
+          "ecb787059047574d9a528f8ebe41e087": "zeigt auf das Wasser; Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.; Lebenszustand: lebend"
+        },
+        "continuity": "Königliche Erscheinung am stillen Ufer.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Die Erscheinung",
+            "posture": "sitzt im Boot"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die Erscheinung",
+            "posture": "sitzt im Boot"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Der neue Versuch",
+        "setting": "Der neue Versuch",
+        "characters": [
+          "e50e8fcbd543598298e515570161a014",
+          "189f438e46f65228a4579f24b1c9ac21"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein ausgeworfenes Netz im ruhigen Wasser.",
+        "dialog": "Sie folgten ihrem Rat.",
+        "bubbles": [],
+        "character_states": {
+          "e50e8fcbd543598298e515570161a014": "wirft Netz aus; Blauer Wollrock, graue Hose.; Lebenszustand: lebend",
+          "189f438e46f65228a4579f24b1c9ac21": "hält das Boot; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein ausgeworfenes Netz im ruhigen Wasser.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Der neue Versuch",
+            "posture": "wirft Netz aus"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Der neue Versuch",
+            "posture": "hält das Boot"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Der volle Fang",
+        "setting": "Der volle Fang",
+        "characters": [
+          "e50e8fcbd543598298e515570161a014",
+          "189f438e46f65228a4579f24b1c9ac21"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Netz voll normaler Fische, einer glitzert besonders.",
+        "dialog": "Das Netz kam voller Fische zurück.",
+        "bubbles": [],
+        "character_states": {
+          "e50e8fcbd543598298e515570161a014": "zieht Netz; Blauer Wollrock, graue Hose.; Lebenszustand: lebend",
+          "189f438e46f65228a4579f24b1c9ac21": "hilft; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Netz voll normaler Fische, einer glitzert besonders.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Der volle Fang",
+            "posture": "zieht Netz"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Der volle Fang",
+            "posture": "hilft"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Der beste Fisch",
+        "setting": "Der beste Fisch",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein fantastischer Fisch mit goldenen Schuppen und smaragdgrünen Flossen im nassen Netz.",
+        "dialog": "Einer trug Gold, Perlen und Edelsteine.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Ein fantastischer Fisch mit goldenen Schuppen und smaragdgrünen Flossen im nassen Netz.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Der volle Fang",
+            "posture": "zieht Netz"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Der volle Fang",
+            "posture": "hilft"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Die erfüllbare Grenze",
+        "setting": "Die erfüllbare Grenze",
+        "characters": [
+          "e50e8fcbd543598298e515570161a014",
+          "189f438e46f65228a4579f24b1c9ac21"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau ein prächtiger Fisch, normale andere Fische im Boot.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "e50e8fcbd543598298e515570161a014",
+            "text": "Dieser muss zurück.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "e50e8fcbd543598298e515570161a014": "hält den besonderen Fisch über Wasser; Blauer Wollrock, graue Hose.; Lebenszustand: lebend",
+          "189f438e46f65228a4579f24b1c9ac21": "greift nicht zu; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Genau ein prächtiger Fisch, normale andere Fische im Boot.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Die erfüllbare Grenze",
+            "posture": "hält den besonderen Fisch über Wasser"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die erfüllbare Grenze",
+            "posture": "greift nicht zu"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Das Versteck",
+        "setting": "Das Versteck",
+        "characters": [
+          "189f438e46f65228a4579f24b1c9ac21",
+          "e50e8fcbd543598298e515570161a014"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein versteckter Fisch, Boot noch normal schwimmend.",
+        "dialog": "Der andere behielt ihn gegen den Willen seines Gefährten.",
+        "bubbles": [],
+        "character_states": {
+          "189f438e46f65228a4579f24b1c9ac21": "legt den Fisch unter ein Tuch; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend",
+          "e50e8fcbd543598298e515570161a014": "protestiert; Blauer Wollrock, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein versteckter Fisch, Boot noch normal schwimmend.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Das Versteck",
+            "posture": "protestiert"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Das Versteck",
+            "posture": "legt den Fisch unter ein Tuch"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Das neue Gewicht",
+        "setting": "Das neue Gewicht",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle Fische im Boot bekommen glänzende metallische Schuppen.",
+        "dialog": "Beim Fortfahren verwandelten sich auch die anderen Fische.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Alle Fische im Boot bekommen glänzende metallische Schuppen.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Das Versteck",
+            "posture": "protestiert"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Das Versteck",
+            "posture": "legt den Fisch unter ein Tuch"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Die sinkende Bordwand",
+        "setting": "Die sinkende Bordwand",
+        "characters": [
+          "e50e8fcbd543598298e515570161a014",
+          "189f438e46f65228a4579f24b1c9ac21"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wasser erreicht Bootsrand, niemand unter Wasser gezeigt.",
+        "dialog": "Der Fang wurde zu schwer. Der Kahn sank.",
+        "bubbles": [],
+        "character_states": {
+          "e50e8fcbd543598298e515570161a014": "klammert sich an die Reling; Blauer Wollrock, graue Hose.; Lebenszustand: lebend",
+          "189f438e46f65228a4579f24b1c9ac21": "steht beim Tuch; Brauner Wollrock, schwarze Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Wasser erreicht Bootsrand, niemand unter Wasser gezeigt.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Die sinkende Bordwand",
+            "posture": "klammert sich an die Reling"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die sinkende Bordwand",
+            "posture": "steht beim Tuch"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Das gerettete Ufer",
+        "setting": "Das gerettete Ufer",
+        "characters": [
+          "e50e8fcbd543598298e515570161a014"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geretteter Fischer, leeres Meer dahinter.",
+        "dialog": "Nur der Fischer, der sein Wort halten wollte, rettete knapp sein Leben.",
+        "bubbles": [],
+        "character_states": {
+          "e50e8fcbd543598298e515570161a014": "sitzt durchnässt am Ufer; Blauer Wollrock, graue Hose.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein geretteter Fischer, leeres Meer dahinter.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Das gerettete Ufer",
+            "posture": "sitzt durchnässt am Ufer"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die sinkende Bordwand",
+            "posture": "steht beim Tuch"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      },
+      {
+        "heading": "Der leere Platz",
+        "setting": "Der leere Platz",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nasses Tau am Ufer, zweiter Sitzplatz leer.",
+        "dialog": "Der andere ertrank. Das behaltene Kostbarste hatte den ganzen Fang untragbar gemacht.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Nasses Tau am Ufer, zweiter Sitzplatz leer.",
+        "continuity_state": {
+          "e50e8fcbd543598298e515570161a014": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Blauer Wollrock, graue Hose.",
+            "location": "Das gerettete Ufer",
+            "posture": "sitzt durchnässt am Ufer"
+          },
+          "189f438e46f65228a4579f24b1c9ac21": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Brauner Wollrock, schwarze Hose.",
+            "location": "Die sinkende Bordwand",
+            "posture": "steht beim Tuch"
+          },
+          "ecb787059047574d9a528f8ebe41e087": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+            "location": "Der Auftrag",
+            "posture": "zeigt auf das Wasser"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Schwarze Gret der Fischersage",
+        "description": "Erwachsene königliche Frau mit schwarzem Haar.",
+        "outfit": "Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.",
+        "backstory": "Schenkt den Fischern einen Fang mit einer Grenze.",
+        "id": "ecb787059047574d9a528f8ebe41e087",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Erster Fischer vom Holm",
+        "description": "Erwachsener Mann mit grauem Bart.",
+        "outfit": "Blauer Wollrock, graue Hose.",
+        "backstory": "Will den versprochenen Fisch zurückgeben.",
+        "id": "e50e8fcbd543598298e515570161a014",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Zweiter Fischer vom Holm",
+        "description": "Erwachsener Mann mit rotem Bart.",
+        "outfit": "Brauner Wollrock, schwarze Hose.",
+        "backstory": "Versteckt den kostbarsten Fisch.",
+        "id": "189f438e46f65228a4579f24b1c9ac21",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Wann verwandelt sich ein Glücksfund durch Habgier in eine tödliche Last?",
+      "core": "Die Fischer erhalten eine außergewöhnliche Chance unter einer einfachen Grenze: Der beste Fisch soll zurück. Einer missachtet sie und macht durch den festgehaltenen Schatz den ganzen Fang untragbar.",
+      "ending": "Der Kahn sinkt unter den verwandelten Fischen; nur der Fischer, der die Bedingung beachten wollte, rettet knapp sein Leben.",
+      "reason": "Die Fischerepisode als geschlossenen Hauptbogen wählen. Gret und das Danewerk knapp als Vorgeschichte ihres Spuks rahmen; den zufällig vorlaufenden Hund dort nicht in eine von Gret geplante List umdeuten.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "dem andern aber fraß die Habgier am Herzen",
+          "meaning": "Der Konflikt verläuft zwischen zwei Entscheidungen im selben Boot, nicht zwischen zwei gleichermaßen Schuldigen."
+        }
+      ],
+      "causal_chain": [
+        "dem andern aber fraß die Habgier am Herzen",
+        "Der Kahn sinkt unter den verwandelten Fischen; nur der Fischer, der die Bedingung beachten wollte, rettet knapp sein Leben."
+      ],
+      "recommended_count": 12,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "4aa0041ef291e87461da64501dea65e79acf52b6aaa0f4b232be9e933b0fc05b",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T19:12:53.310374+00:00"
+    },
+    "post_summary": "Ein überreicher Fang hat eine einzige Bedingung. Einer der Fischer will selbst diese nicht einhalten.",
+    "source_provenance": {
+      "title": "Die schwarze Gret und das Danewerk",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 185.",
+      "url": "https://textgridrep.org/browse/kgdw.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Die schwarze Gret und das Danewerk. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 185.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nKönig Christoph I. von Dänemark hatte zur Gemahlin des Pommerherzogs Sambor Tochter, das war ein arges Zauberweib; sie hieß nur die schwarze Gret und hatte den Beinamen Springhest. Sie ist die Urheberin des berühmten Danewerkes, jenes riesigen und weiten Walles; den zu erbauen schloß sie einen Bund mit dem Teufel und gebot ihm, in einer Nacht den Wall fertig zu machen; nur ein einziges und zwar eisernes Tor solle hineinkommen, dafür solle dem Teufel gehören, was zuerst durch das vollendete Werk schreite. Da stellte der Teufel ein zahlloses Heer von Arbeitern in das Feld, davon füllte jeder nur dreimal seinen eisernen Hut voll Erde, so war der Wall fertig, und der Teufel stellte sich hinter dem Torflügel auf die Lauer, sah auch schon einen gutgekleideten Reiter die Landstraße daherkommen und freute sich auf den Fang. Aber zufällig hatte der Reiter einen Pudel bei sich, der lief vornweg nach Hundeart, und der Teufel riß ihn wütend in Stücke, wie auf der Reußbrücke die Gemse, auf der Regensburger Brücke den Hund, im Dom zu Aachen den Wolf, und wo sich sonst dieser Sage ein Widerhall findet.\n\nDa nun die wilde schwarze Gret, Springhest genannt, überhaupt ein gottloses, unseliges Leben führte, so ward ihr zur Strafe ihrer schrecklichen Sünden von Gott geboten, allnächtlich über ihr Teufels- und Danewerk als Geist zu reiten. Da haben viele Leute sie gesehen. Ihr Anzug ist ganz schwarz, aber ihr Pferd ist weiß, und sein Odem ist Feuer. Zwei Geister in weißen Kleidern folgen ihr, und da rennen und sprengen die Drei wie der wilde Jäger von Hollingstede bis Haddeby. Dieses Gespenst leidet nicht, daß auf seinem Walle etwas angebaut werde. In der Nähe von Haddebye heißt ganz besonders eine Stelle im Danewerke nach der Springhest Margretenwerk, da läßt sie sich am häufigsten sehen.\n\nEinstmals erschien sie armen Fischern vom Schleswiger Holm, die traurig waren, daß sie nach einer arbeitvollen Nacht nichts gefangen hatten, in aller ihrer königlichen Pracht, mit Perlen und Demanten geschmückt, wie man ihr Bild im Schlosse zu Husum sah, und gebot ihnen, die Netze noch einmal auszuwerfen, aber den besten Fisch, den sie fingen, den sollten sie wieder in das Wasser werfen. Die Fischer taten den glückhaftesten Zug, der seit St. Petri Zeiten getan worden, und der beste Fisch, der hatte Flossen von Smaragd, Schuppen von gemünztem Gold, und seine Nase war mit Perlen besetzt. Der eine Fischer wollte dieses Prachtstück gleich wieder in die Flut werfen, dem andern aber fraß die Habgier am Herzen, und er verbarg den Fisch gegen den Willen des an dern, seines Gefährten. Rasch wurde fortgerudert, aber da begannen alle andern Fische auch Schuppen von gemünztem Golde zu bekommen und Perlen am Oberkiefer und Edelsteine statt der Flossen, und da wurde der Kahn so schwer, so schwer, und sank, und der Habgierige mußte ertrinken, der andere aber konnte nur mit genauer Not sein Leben retten.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "König Christoph I. von Dänemark hatte zur Gemahlin des Pommerherzogs Sambor Tochter, das war ein arges Zauberweib; sie hieß nur die schwarze Gret und hatte den Beinamen Springhest. Sie ist die Urheberin des berühmten Danewerkes, jenes riesigen und weiten Walles; den zu erbauen schloß sie einen Bund mit dem Teufel und gebot ihm, in einer Nacht den Wall fertig zu machen; nur ein einziges und zwar eisernes Tor solle hineinkommen, dafür solle dem Teufel gehören, was zuerst durch das vollendete Werk schreite.",
+      "id": "bechstein-sagen-kgdw-0",
+      "category": "Teufel und Zauberei",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "gret-fischer-12-comic-auswahl-300-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Die schwarze Gret – Der beste Fisch · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Die schwarze Gret – Der beste Fisch\nAUTOR: Sysop\nKACHELANZAHL: 12\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Schwarze Gret der Fischersage\nAussehen: Erwachsene königliche Frau mit schwarzem Haar.\nKleidung: Schwarzes geschlossenes Kleid mit Perlen und Edelsteinen.\nPersönlichkeit und Vorgeschichte: Schenkt den Fischern einen Fang mit einer Grenze.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Erster Fischer vom Holm\nAussehen: Erwachsener Mann mit grauem Bart.\nKleidung: Blauer Wollrock, graue Hose.\nPersönlichkeit und Vorgeschichte: Will den versprochenen Fisch zurückgeben.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Zweiter Fischer vom Holm\nAussehen: Erwachsener Mann mit rotem Bart.\nKleidung: Brauner Wollrock, schwarze Hose.\nPersönlichkeit und Vorgeschichte: Versteckt den kostbarsten Fisch.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Die leere Nacht\nOrt und Zeit: Die leere Nacht\nSichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein kleines Fischerboot, leere Netze.\nErzählertext: Fischer vom Schleswiger Holm hatten die ganze Nacht nichts gefangen.\nDialoge: keine\nKontinuität / Änderung: Ein kleines Fischerboot, leere Netze.\n\nKACHEL 2: Die Erscheinung\nOrt und Zeit: Die Erscheinung\nSichtbare Figuren: Schwarze Gret der Fischersage, Erster Fischer vom Holm, Zweiter Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschmückte Frau im Abstand zum Boot.\nErzählertext: Da erschien ihnen nach der Sage die schwarze Gret.\nDialoge: keine\nKontinuität / Änderung: Geschmückte Frau im Abstand zum Boot.\n\nKACHEL 3: Der Auftrag\nOrt und Zeit: Der Auftrag\nSichtbare Figuren: Schwarze Gret der Fischersage\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Königliche Erscheinung am stillen Ufer.\nErzählertext: Sie sollten noch einmal auswerfen und den besten Fisch zurückgeben.\nDialoge: keine\nKontinuität / Änderung: Königliche Erscheinung am stillen Ufer.\n\nKACHEL 4: Der neue Versuch\nOrt und Zeit: Der neue Versuch\nSichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein ausgeworfenes Netz im ruhigen Wasser.\nErzählertext: Sie folgten ihrem Rat.\nDialoge: keine\nKontinuität / Änderung: Ein ausgeworfenes Netz im ruhigen Wasser.\n\nKACHEL 5: Der volle Fang\nOrt und Zeit: Der volle Fang\nSichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Netz voll normaler Fische, einer glitzert besonders.\nErzählertext: Das Netz kam voller Fische zurück.\nDialoge: keine\nKontinuität / Änderung: Netz voll normaler Fische, einer glitzert besonders.\n\nKACHEL 6: Der beste Fisch\nOrt und Zeit: Der beste Fisch\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein fantastischer Fisch mit goldenen Schuppen und smaragdgrünen Flossen im nassen Netz.\nErzählertext: Einer trug Gold, Perlen und Edelsteine.\nDialoge: keine\nKontinuität / Änderung: Ein fantastischer Fisch mit goldenen Schuppen und smaragdgrünen Flossen im nassen Netz.\n\nKACHEL 7: Die erfüllbare Grenze\nOrt und Zeit: Die erfüllbare Grenze\nSichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Genau ein prächtiger Fisch, normale andere Fische im Boot.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Erster Fischer vom Holm\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Dieser muss zurück.“\nKontinuität / Änderung: Genau ein prächtiger Fisch, normale andere Fische im Boot.\n\nKACHEL 8: Das Versteck\nOrt und Zeit: Das Versteck\nSichtbare Figuren: Zweiter Fischer vom Holm, Erster Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein versteckter Fisch, Boot noch normal schwimmend.\nErzählertext: Der andere behielt ihn gegen den Willen seines Gefährten.\nDialoge: keine\nKontinuität / Änderung: Ein versteckter Fisch, Boot noch normal schwimmend.\n\nKACHEL 9: Das neue Gewicht\nOrt und Zeit: Das neue Gewicht\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle Fische im Boot bekommen glänzende metallische Schuppen.\nErzählertext: Beim Fortfahren verwandelten sich auch die anderen Fische.\nDialoge: keine\nKontinuität / Änderung: Alle Fische im Boot bekommen glänzende metallische Schuppen.\n\nKACHEL 10: Die sinkende Bordwand\nOrt und Zeit: Die sinkende Bordwand\nSichtbare Figuren: Erster Fischer vom Holm, Zweiter Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wasser erreicht Bootsrand, niemand unter Wasser gezeigt.\nErzählertext: Der Fang wurde zu schwer. Der Kahn sank.\nDialoge: keine\nKontinuität / Änderung: Wasser erreicht Bootsrand, niemand unter Wasser gezeigt.\n\nKACHEL 11: Das gerettete Ufer\nOrt und Zeit: Das gerettete Ufer\nSichtbare Figuren: Erster Fischer vom Holm\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein geretteter Fischer, leeres Meer dahinter.\nErzählertext: Nur der Fischer, der sein Wort halten wollte, rettete knapp sein Leben.\nDialoge: keine\nKontinuität / Änderung: Ein geretteter Fischer, leeres Meer dahinter.\n\nKACHEL 12: Der leere Platz\nOrt und Zeit: Der leere Platz\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Nasses Tau am Ufer, zweiter Sitzplatz leer.\nErzählertext: Der andere ertrank. Das behaltene Kostbarste hatte den ganzen Fang untragbar gemacht.\nDialoge: keine\nKontinuität / Änderung: Nasses Tau am Ufer, zweiter Sitzplatz leer.\n"
+  },
+  "count_policy": "editorial"
+}

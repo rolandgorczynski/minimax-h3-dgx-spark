@@ -1,0 +1,126 @@
+TITEL: Sankt Nikolaus – Das verlorene Rennen
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Kirchendieb von Greifswald
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Grauer Mantel, dunkle Hose.
+Persönlichkeit und Vorgeschichte: Will jede Regel nur zum eigenen Vorteil gelten lassen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Hölzerner Nikolaus
+Aussehen: Holzstatue eines erwachsenen Bischofs mit geschnitztem Bart.
+Kleidung: Bemaltes geschlossenes Bischofsgewand.
+Persönlichkeit und Vorgeschichte: Wird in der Sage zum Gegenspieler des Diebes.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die stille Kirche
+Ort und Zeit: Die stille Kirche
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Greifswalder Kirche, Opferkasten im Chor.
+Erzählertext: Nachts brach ein Dieb in die Kirche ein.
+Dialoge: keine
+Kontinuität / Änderung: Leere Greifswalder Kirche, Opferkasten im Chor.
+
+KACHEL 2: Der Griff
+Ort und Zeit: Der Griff
+Sichtbare Figuren: Kirchendieb von Greifswald, Hölzerner Nikolaus
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Holzfigur und Mensch deutlich verschieden.
+Erzählertext: Er wollte das Geld aus dem Gotteskasten nehmen.
+Dialoge: keine
+Kontinuität / Änderung: Holzfigur und Mensch deutlich verschieden.
+
+KACHEL 3: Der erhobene Arm
+Ort und Zeit: Der erhobene Arm
+Sichtbare Figuren: Hölzerner Nikolaus, Kirchendieb von Greifswald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine Holzfigur bewegt sich, keine lebendige Menschenhaut.
+Erzählertext: Da hob das Nikolausbild drohend den Arm.
+Dialoge: keine
+Kontinuität / Änderung: Eine Holzfigur bewegt sich, keine lebendige Menschenhaut.
+
+KACHEL 4: Das Angebot
+Ort und Zeit: Das Angebot
+Sichtbare Figuren: Kirchendieb von Greifswald, Hölzerner Nikolaus
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Noch geschlossener Kasten fern.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kirchendieb von Greifswald
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wir laufen darum. Wer zuerst am Kasten ist, bekommt das Geld.“
+Kontinuität / Änderung: Noch geschlossener Kasten fern.
+
+KACHEL 5: Der eigene Start
+Ort und Zeit: Der eigene Start
+Sichtbare Figuren: Kirchendieb von Greifswald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann im langen Kirchenschiff.
+Erzählertext: Der Dieb lief los.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann im langen Kirchenschiff.
+
+KACHEL 6: Der andere Sieger
+Ort und Zeit: Der andere Sieger
+Sichtbare Figuren: Hölzerner Nikolaus, Kirchendieb von Greifswald
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Statue jetzt nicht mehr auf altem Sockel.
+Erzählertext: Nikolaus war zuerst da.
+Dialoge: keine
+Kontinuität / Änderung: Statue jetzt nicht mehr auf altem Sockel.
+
+KACHEL 7: Die neue Begründung
+Ort und Zeit: Die neue Begründung
+Sichtbare Figuren: Kirchendieb von Greifswald, Hölzerner Nikolaus
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Holzfigur unbewegt.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Kirchendieb von Greifswald
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Du hast weder Hunger noch Durst. Was nützt dir Geld?“
+Kontinuität / Änderung: Holzfigur unbewegt.
+
+KACHEL 8: Der gebrochene Kasten
+Ort und Zeit: Der gebrochene Kasten
+Sichtbare Figuren: Kirchendieb von Greifswald, Hölzerner Nikolaus
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geöffneter Kasten, Werkzeug abgelegt.
+Erzählertext: Er nahm es trotz seiner eigenen Regel.
+Dialoge: keine
+Kontinuität / Änderung: Geöffneter Kasten, Werkzeug abgelegt.
+
+KACHEL 9: Das geheime Leben
+Ort und Zeit: Das geheime Leben
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Geldbeutel im leeren Zimmer.
+Erzählertext: Zunächst blieb der Diebstahl unbekannt.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener Geldbeutel im leeren Zimmer.
+
+KACHEL 10: Der spätere Tod
+Ort und Zeit: Der spätere Tod
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frisches geschlossenes Grab.
+Erzählertext: Als er später starb, wurde er ehrenvoll begraben.
+Dialoge: keine
+Kontinuität / Änderung: Frisches geschlossenes Grab.
+
+KACHEL 11: Die sichtbare Tat
+Ort und Zeit: Die sichtbare Tat
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kirchenraum mit geöffnetem Opferkasten und dunklen Geisterschatten, keine Leiche.
+Erzählertext: In der Sage holten Teufel ihn aus dem Grab und machten die Tat sichtbar.
+Dialoge: keine
+Kontinuität / Änderung: Kirchenraum mit geöffnetem Opferkasten und dunklen Geisterschatten, keine Leiche.
+
+KACHEL 12: Die verkehrte Mühle
+Ort und Zeit: Die verkehrte Mühle
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alte Windmühle im Gegenwind, keine aufgehängte Person.
+Erzählertext: Die Mühle vor der Stadt drehte sich fortan verkehrt. Das Unrecht sollte nicht verborgen bleiben.
+Dialoge: keine
+Kontinuität / Änderung: Alte Windmühle im Gegenwind, keine aufgehängte Person.

@@ -1,0 +1,106 @@
+TITEL: Die schwarze Schule – Bis das Band sitzt
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Pastor Ziegler
+Aussehen: Erwachsener Mann mit grauem kurzem Haar.
+Kleidung: Weißes Hemd, schwarze Kniehose, lange lose Strümpfe; keine Strumpfbänder angelegt.
+Persönlichkeit und Vorgeschichte: Verzögert seine Abholung mit einem wörtlich genommenen Satz.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Teufel der schwarzen Schule
+Aussehen: Dunkle männliche Sagenfigur mit kleinen Hörnern.
+Kleidung: Schwarzer geschlossener Rock.
+Persönlichkeit und Vorgeschichte: Verliert im Warten die Geduld.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die alte Schule
+Ort und Zeit: Die alte Schule
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dunkles Schulzimmer mit leerer Lehrbank.
+Erzählertext: Die Sage erzählt von einer schwarzen Schule mit gefährlichen Bedingungen.
+Dialoge: keine
+Kontinuität / Änderung: Dunkles Schulzimmer mit leerer Lehrbank.
+
+KACHEL 2: Der ablaufende Vertrag
+Ort und Zeit: Der ablaufende Vertrag
+Sichtbare Figuren: Pastor Ziegler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein loses Strumpfband auf einem Stuhl.
+Erzählertext: Zieglers vereinbarte Frist war abgelaufen.
+Dialoge: keine
+Kontinuität / Änderung: Ein loses Strumpfband auf einem Stuhl.
+
+KACHEL 3: Der Besucher
+Ort und Zeit: Der Besucher
+Sichtbare Figuren: Teufel der schwarzen Schule, Pastor Ziegler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im Morgenlicht.
+Erzählertext: Der Teufel kam, ihn zu holen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im Morgenlicht.
+
+KACHEL 4: Die verkehrten Strümpfe
+Ort und Zeit: Die verkehrten Strümpfe
+Sichtbare Figuren: Pastor Ziegler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ziegler am Bettrand, Band weiterhin auf Stuhl.
+Erzählertext: Ziegler zog sich langsam an, die Strümpfe verkehrt herum.
+Dialoge: keine
+Kontinuität / Änderung: Ziegler am Bettrand, Band weiterhin auf Stuhl.
+
+KACHEL 5: Die wachsende Ungeduld
+Ort und Zeit: Die wachsende Ungeduld
+Sichtbare Figuren: Teufel der schwarzen Schule, Pastor Ziegler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Strumpfband noch unbenutzt.
+Erzählertext: Der Besucher wurde ungeduldig.
+Dialoge: keine
+Kontinuität / Änderung: Strumpfband noch unbenutzt.
+
+KACHEL 6: Die selbst gesetzte Frist
+Ort und Zeit: Die selbst gesetzte Frist
+Sichtbare Figuren: Teufel der schwarzen Schule, Pastor Ziegler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Band eindeutig nicht am Bein.
+Erzählertext: Er erklärte, nur noch bis zum Anlegen des Strumpfbands warten zu wollen.
+Dialoge: keine
+Kontinuität / Änderung: Band eindeutig nicht am Bein.
+
+KACHEL 7: Die unterlassene Bewegung
+Ort und Zeit: Die unterlassene Bewegung
+Sichtbare Figuren: Pastor Ziegler, Teufel der schwarzen Schule
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein loses Band liegt wieder auf Holz.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Pastor Ziegler
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Dann guten Morgen.“
+Kontinuität / Änderung: Ein loses Band liegt wieder auf Holz.
+
+KACHEL 8: Die andere Seite
+Ort und Zeit: Die andere Seite
+Sichtbare Figuren: Pastor Ziegler, Teufel der schwarzen Schule
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleideter Mann unter Decke, Band bleibt liegen.
+Erzählertext: Ziegler legte sich wieder hin.
+Dialoge: keine
+Kontinuität / Änderung: Bekleideter Mann unter Decke, Band bleibt liegen.
+
+KACHEL 9: Der Abzug
+Ort und Zeit: Der Abzug
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere offene Tür, Band auf Stuhl.
+Erzählertext: Der Teufel fuhr davon und kam nicht wieder.
+Dialoge: keine
+Kontinuität / Änderung: Leere offene Tür, Band auf Stuhl.
+
+KACHEL 10: Die neue Mode
+Ort und Zeit: Die neue Mode
+Sichtbare Figuren: Pastor Ziegler
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schere abgelegt auf Tisch, kurze Strümpfe in Händen.
+Erzählertext: Ziegler kürzte seine Strümpfe. Das entscheidende Band brauchte er nie mehr.
+Dialoge: keine
+Kontinuität / Änderung: Schere abgelegt auf Tisch, kurze Strümpfe in Händen.

@@ -1,0 +1,141 @@
+TITEL: Totenkopf wandert – Die nicht endende Verfolgung
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Antolille
+Aussehen: Erwachsene Frau mit blondem geflochtenem Haar.
+Kleidung: Blaues geschlossenes Kleid, grauer Reisemantel.
+Persönlichkeit und Vorgeschichte: Will Adelbrands Liebe nicht erwidern.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Ritter Adelbrand
+Aussehen: Erwachsener Mann mit dunklem Bart.
+Kleidung: Dunkelrotes Wams, grauer Mantel; ein Schwert links eingesteckt.
+Persönlichkeit und Vorgeschichte: Verwandelt Zurückweisung in Verfolgung.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Antolilles Mutter
+Aussehen: Ältere Frau mit grauem Zopf.
+Kleidung: Grünes Kleid, weißes Kopftuch.
+Persönlichkeit und Vorgeschichte: Sieht die Verfolgung ihrer Tochter.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Zwei Burgen
+Ort und Zeit: Zwei Burgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei getrennte Burgen in weiter Landschaft.
+Erzählertext: Bei der Jütlandgrenze erzählt man von Fobeslet und Drenderup.
+Dialoge: keine
+Kontinuität / Änderung: Zwei getrennte Burgen in weiter Landschaft.
+
+KACHEL 2: Die unerwiderte Liebe
+Ort und Zeit: Die unerwiderte Liebe
+Sichtbare Figuren: Antolille, Ritter Adelbrand
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Menschen, keine Umarmung.
+Erzählertext: Adelbrand liebte Antolille. Sie wollte ihn nicht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei erwachsene Menschen, keine Umarmung.
+
+KACHEL 3: Das nicht angenommene Nein
+Ort und Zeit: Das nicht angenommene Nein
+Sichtbare Figuren: Ritter Adelbrand
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossenes Tor von Fobeslet.
+Erzählertext: Seine Liebe schlug in Hass um.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossenes Tor von Fobeslet.
+
+KACHEL 4: Das erste Jahr
+Ort und Zeit: Das erste Jahr
+Sichtbare Figuren: Antolille
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau im Haus, Ritter fern vor dem Tor.
+Erzählertext: Er überwachte ihre Burg.
+Dialoge: keine
+Kontinuität / Änderung: Frau im Haus, Ritter fern vor dem Tor.
+
+KACHEL 5: Das siebte Jahr
+Ort und Zeit: Das siebte Jahr
+Sichtbare Figuren: Antolille, Antolilles Mutter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Frauen im unveränderten Raum.
+Erzählertext: Sieben Jahre wagte sie nicht hinauszugehen.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Frauen im unveränderten Raum.
+
+KACHEL 6: Der leere Weg
+Ort und Zeit: Der leere Weg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Burgweg ohne Ritter oder Wachen.
+Erzählertext: Dann gab Adelbrand seine Wache scheinbar auf.
+Dialoge: keine
+Kontinuität / Änderung: Burgweg ohne Ritter oder Wachen.
+
+KACHEL 7: Die Nachricht
+Ort und Zeit: Die Nachricht
+Sichtbare Figuren: Antolille
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bote mit leeren Händen im Burghof.
+Erzählertext: Ein Gerücht meldete seinen Tod.
+Dialoge: keine
+Kontinuität / Änderung: Bote mit leeren Händen im Burghof.
+
+KACHEL 8: Der erste Auszug
+Ort und Zeit: Der erste Auszug
+Sichtbare Figuren: Antolille
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bekleidete Reisende auf Weg zur Kirche.
+Erzählertext: Sie glaubte sich sicher und wollte endlich wieder zur Kirche.
+Dialoge: keine
+Kontinuität / Änderung: Bekleidete Reisende auf Weg zur Kirche.
+
+KACHEL 9: Der Hinterhalt
+Ort und Zeit: Der Hinterhalt
+Sichtbare Figuren: Ritter Adelbrand, Antolille
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Reiter hält ihr den Weg ab, keine Verletzung.
+Erzählertext: Adelbrand war nicht tot. Er hatte auf diesen Moment gewartet.
+Dialoge: keine
+Kontinuität / Änderung: Ein Reiter hält ihr den Weg ab, keine Verletzung.
+
+KACHEL 10: Die entführte Freiheit
+Ort und Zeit: Die entführte Freiheit
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zurückgelassener blauer Mantel auf leerem Weg.
+Erzählertext: Er vertrieb ihr Gefolge und verschleppte sie mit tödlicher Gewalt.
+Dialoge: keine
+Kontinuität / Änderung: Zurückgelassener blauer Mantel auf leerem Weg.
+
+KACHEL 11: Der Blick der Mutter
+Ort und Zeit: Der Blick der Mutter
+Sichtbare Figuren: Antolilles Mutter
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erschütterte ältere Frau, Gewalttat nicht im Bild.
+Erzählertext: Ihre Mutter sah die Tat. Beide Frauen starben, erzählt die Sage.
+Dialoge: keine
+Kontinuität / Änderung: Eine erschütterte ältere Frau, Gewalttat nicht im Bild.
+
+KACHEL 12: Das dritte Ende
+Ort und Zeit: Das dritte Ende
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geschlossener Saal in Drenderup, unberührtes Schwert auf Tisch.
+Erzählertext: Danach nahm Adelbrand sich selbst das Leben.
+Dialoge: keine
+Kontinuität / Änderung: Geschlossener Saal in Drenderup, unberührtes Schwert auf Tisch.
+
+KACHEL 13: Die drei Gräber
+Ort und Zeit: Die drei Gräber
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei geschlossene Grabplatten ohne sichtbare Körper.
+Erzählertext: Man begrub alle drei in Drenderup.
+Dialoge: keine
+Kontinuität / Änderung: Drei geschlossene Grabplatten ohne sichtbare Körper.
+
+KACHEL 14: Die fortgesetzte Unruhe
+Ort und Zeit: Die fortgesetzte Unruhe
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein stilisierter trockener Schädel im leeren Gruftgang, kein Blut.
+Erzählertext: Doch Adelbrands Schädel fand keine Ruhe. Seine Besessenheit wurde zum Spuk, nicht zur Liebe.
+Dialoge: keine
+Kontinuität / Änderung: Ein stilisierter trockener Schädel im leeren Gruftgang, kein Blut.

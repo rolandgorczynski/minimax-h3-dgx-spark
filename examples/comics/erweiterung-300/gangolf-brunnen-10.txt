@@ -1,0 +1,102 @@
+TITEL: Gangolfs Brunnen – Verkauftes Wasser
+AUTOR: Sysop
+KACHELANZAHL: 10
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Gangolf der Brunnenlegende
+Aussehen: Erwachsener Mann mit graubraunem kurzem Bart.
+Kleidung: Grauer Reisemantel, braune Hose, Holzstab.
+Persönlichkeit und Vorgeschichte: Entgegnet einem Streit mit Kauf und einem Wunder.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Besitzer des Brunnens
+Aussehen: Erwachsener Mann mit schwarzem Vollbart.
+Kleidung: Braunes Arbeitswams, graue Hose.
+Persönlichkeit und Vorgeschichte: Glaubt das Wasser verkaufen und die Quelle behalten zu können.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Am klaren Wasser
+Ort und Zeit: Am klaren Wasser
+Sichtbare Figuren: Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reisender bei einer Quelle, namenlose Begleiter und Tiere trinken in Abstand.
+Erzählertext: Gangolf rastete mit seinen Leuten an fremdem Wasser.
+Dialoge: keine
+Kontinuität / Änderung: Reisender bei einer Quelle, namenlose Begleiter und Tiere trinken in Abstand.
+
+KACHEL 2: Der verärgerte Eigentümer
+Ort und Zeit: Der verärgerte Eigentümer
+Sichtbare Figuren: Besitzer des Brunnens, Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene auf Wiese, getretenes Gras am Rand.
+Erzählertext: Der Besitzer beklagte, dass man ungefragt Platz und Brunnen benutze.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene auf Wiese, getretenes Gras am Rand.
+
+KACHEL 3: Das Angebot
+Ort und Zeit: Das Angebot
+Sichtbare Figuren: Gangolf der Brunnenlegende, Besitzer des Brunnens
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Beutel zwischen den Erwachsenen, Quelle daneben.
+Erzählertext: Gangolf bot an, den Brunnen zu kaufen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Beutel zwischen den Erwachsenen, Quelle daneben.
+
+KACHEL 4: Die heimliche Rechnung
+Ort und Zeit: Die heimliche Rechnung
+Sichtbare Figuren: Besitzer des Brunnens, Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Käufer und Verkäufer bei einer einzelnen Geldübergabe.
+Erzählertext: Der Besitzer glaubte, der Boden bleibe ja sein und mit ihm die Quelle.
+Dialoge: keine
+Kontinuität / Änderung: Käufer und Verkäufer bei einer einzelnen Geldübergabe.
+
+KACHEL 5: Der Stab
+Ort und Zeit: Der Stab
+Sichtbare Figuren: Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Holzstab in der Quelle, Gangolfs beide Hände am oberen Ende.
+Erzählertext: Vor dem Aufbruch stellte Gangolf seinen Stab eine Weile hinein.
+Dialoge: keine
+Kontinuität / Änderung: Ein Holzstab in der Quelle, Gangolfs beide Hände am oberen Ende.
+
+KACHEL 6: Die Heimkehr
+Ort und Zeit: Die Heimkehr
+Sichtbare Figuren: Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Reisender trägt denselben Stab, keine Wassersäule hinter ihm.
+Erzählertext: Dann zog er weiter bis in seine Heimat.
+Dialoge: keine
+Kontinuität / Änderung: Reisender trägt denselben Stab, keine Wassersäule hinter ihm.
+
+KACHEL 7: Im eigenen Hof
+Ort und Zeit: Im eigenen Hof
+Sichtbare Figuren: Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann mit einem Stab auf trockenem Hofboden, noch kein fertig gebauter Brunnen.
+Erzählertext: Dort stieß er ihn in die Erde.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann mit einem Stab auf trockenem Hofboden, noch kein fertig gebauter Brunnen.
+
+KACHEL 8: Die neue Quelle
+Ort und Zeit: Die neue Quelle
+Sichtbare Figuren: Gangolf der Brunnenlegende
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein klarer Wasserlauf entspringt am Stab, keine zweite Gangolffigur.
+Erzählertext: Im Wunder der Legende sprang das Wasser nun hier.
+Dialoge: keine
+Kontinuität / Änderung: Ein klarer Wasserlauf entspringt am Stab, keine zweite Gangolffigur.
+
+KACHEL 9: Der trockene Handel
+Ort und Zeit: Der trockene Handel
+Sichtbare Figuren: Besitzer des Brunnens
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verkäufer vor derselben nun trockenen Quellstelle, Geldbeutel am Gürtel.
+Erzählertext: Der gekaufte Brunnen in der Ferne versiegte.
+Dialoge: keine
+Kontinuität / Änderung: Verkäufer vor derselben nun trockenen Quellstelle, Geldbeutel am Gürtel.
+
+KACHEL 10: Was tatsächlich verkauft war
+Ort und Zeit: Was tatsächlich verkauft war
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige neue Quelle auf einem Hof, später schlichter Brunnenkasten darum.
+Erzählertext: Die vermeintliche Schlauheit war zum Verlust geworden. Eine Rhöner Fassung erzählt die Wanderung mit einem Brunnenkasten statt nur dem Stab.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige neue Quelle auf einem Hof, später schlichter Brunnenkasten darum.

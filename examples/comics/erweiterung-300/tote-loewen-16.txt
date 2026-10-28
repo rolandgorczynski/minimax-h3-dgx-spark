@@ -1,0 +1,157 @@
+TITEL: Die Toten in Löwen – Zwei Beziehungen
+AUTOR: Sysop
+KACHELANZAHL: 16
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Spielmann von Löwen
+Aussehen: Erwachsener Mann mit braunem kurzem Bart.
+Kleidung: Graues Wams, braune Hose, eine Geige.
+Persönlichkeit und Vorgeschichte: Hilft beim Grab und missversteht einen nächtlichen Fund.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Frau des Löwener Spielmanns
+Aussehen: Erwachsene Frau mit dunklem Zopf.
+Kleidung: Blaues langes Kleid, helle Haube.
+Persönlichkeit und Vorgeschichte: Erlebt die unheimliche Nacht mit ihrem Mann.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Böttcher von Löwen
+Aussehen: Erwachsener kräftiger Mann mit grauem kurzem Bart.
+Kleidung: Braune Arbeitsweste, graue Hose.
+Persönlichkeit und Vorgeschichte: Betet regelmäßig für die Toten und erhält unerwartete Hilfe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die übernommene Arbeit
+Ort und Zeit: Die übernommene Arbeit
+Sichtbare Figuren: Spielmann von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene mit einer abgestellten Schaufel am Kirchhof, kein offenes Grab mit Körper.
+Erzählertext: Weil der Totengräber krank war, übernahm sein Gevatter am Abend die Arbeit.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene mit einer abgestellten Schaufel am Kirchhof, kein offenes Grab mit Körper.
+
+KACHEL 2: Vor Mitternacht
+Ort und Zeit: Vor Mitternacht
+Sichtbare Figuren: Spielmann von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann neben frisch bewegter Erde, Schaufel abgestellt, Friedhof sonst leer.
+Erzählertext: Noch vor Mitternacht war er fertig.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann neben frisch bewegter Erde, Schaufel abgestellt, Friedhof sonst leer.
+
+KACHEL 3: Der weiße Zug
+Ort und Zeit: Der weiße Zug
+Sichtbare Figuren: Spielmann von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenlose weiße Kapuzengestalten mit Lichtern ziehen über den Kirchhof, Mann seitlich.
+Erzählertext: Ein weißer Zug kam über die Gräber.
+Dialoge: keine
+Kontinuität / Änderung: Namenlose weiße Kapuzengestalten mit Lichtern ziehen über den Kirchhof, Mann seitlich.
+
+KACHEL 4: Die fallenden Lichter
+Ort und Zeit: Die fallenden Lichter
+Sichtbare Figuren: Spielmann von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Wachsähnliche Stäbe und eine helle Kugel auf dem Boden, keine realistischen Körperteile.
+Erzählertext: Die Gestalten ließen ihre Lichter vor ihm fallen. Er hielt sie für gutes Wachs.
+Dialoge: keine
+Kontinuität / Änderung: Wachsähnliche Stäbe und eine helle Kugel auf dem Boden, keine realistischen Körperteile.
+
+KACHEL 5: Der mitgenommene Fund
+Ort und Zeit: Der mitgenommene Fund
+Sichtbare Figuren: Spielmann von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann mit einem Bündel, keine Knochen sichtbar.
+Erzählertext: Er nahm alles als vermeintlichen Lohn mit.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann mit einem Bündel, keine Knochen sichtbar.
+
+KACHEL 6: Unter dem Bett
+Ort und Zeit: Unter dem Bett
+Sichtbare Figuren: Spielmann von Löwen, Frau des Löwener Spielmanns
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene im geschlossenen Zimmer, ein Bündel unter dem Bett.
+Erzählertext: Die erste Nacht schlief er ruhig.
+Dialoge: keine
+Kontinuität / Änderung: Zwei Erwachsene im geschlossenen Zimmer, ein Bündel unter dem Bett.
+
+KACHEL 7: Die zweite Nacht
+Ort und Zeit: Die zweite Nacht
+Sichtbare Figuren: Spielmann von Löwen, Frau des Löwener Spielmanns
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Weiße Kapuzengestalten in Abstand am Türrahmen, keine Menschenbedrohung mit Waffen.
+Erzählertext: In der nächsten Nacht kehrten die Gestalten zurück.
+Dialoge: keine
+Kontinuität / Änderung: Weiße Kapuzengestalten in Abstand am Türrahmen, keine Menschenbedrohung mit Waffen.
+
+KACHEL 8: Der wirkliche Besitz
+Ort und Zeit: Der wirkliche Besitz
+Sichtbare Figuren: Spielmann von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Das Bündel im Schatten, verhüllte Skelettumrisse darum, keine anatomischen Nahdetails.
+Erzählertext: Nun begriff er: Was er mitgenommen hatte, gehörte den Toten.
+Dialoge: keine
+Kontinuität / Änderung: Das Bündel im Schatten, verhüllte Skelettumrisse darum, keine anatomischen Nahdetails.
+
+KACHEL 9: Das verlangte Spiel
+Ort und Zeit: Das verlangte Spiel
+Sichtbare Figuren: Spielmann von Löwen, Frau des Löwener Spielmanns
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann mit einer Geige, verhüllte geisterhafte Gestalten im Reigen dahinter.
+Erzählertext: Sie forderten Musik. Ihr Totentanz ließ ihm keine Ruhe.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann mit einer Geige, verhüllte geisterhafte Gestalten im Reigen dahinter.
+
+KACHEL 10: Bis zum Hahnschrei
+Ort und Zeit: Bis zum Hahnschrei
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leere Kammer im ersten Morgenlicht, Geige auf einem Stuhl, keine weiter tanzenden Gestalten.
+Erzählertext: Erst im Morgengrauen gingen sie. Mann und Frau starben bald nach dem Schrecken.
+Dialoge: keine
+Kontinuität / Änderung: Leere Kammer im ersten Morgenlicht, Geige auf einem Stuhl, keine weiter tanzenden Gestalten.
+
+KACHEL 11: Der andere Nachbar
+Ort und Zeit: Der andere Nachbar
+Sichtbare Figuren: Böttcher von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein anderer erwachsener Mann mit gefalteten Händen vor geschlossenen Gräbern.
+Erzählertext: Eine zweite Geschichte erzählt vom Böttcher, der jeden Abend für die Toten betete.
+Dialoge: keine
+Kontinuität / Änderung: Ein anderer erwachsener Mann mit gefalteten Händen vor geschlossenen Gräbern.
+
+KACHEL 12: Der verdiente Lohn
+Ort und Zeit: Der verdiente Lohn
+Sichtbare Figuren: Böttcher von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Böttcher vor seiner Werkstatt, ein fertiges Fass neben ihm.
+Erzählertext: Eines Tages nahm er Geld für seine Arbeit ein.
+Dialoge: keine
+Kontinuität / Änderung: Böttcher vor seiner Werkstatt, ein fertiges Fass neben ihm.
+
+KACHEL 13: Die verfolgte Gewohnheit
+Ort und Zeit: Die verfolgte Gewohnheit
+Sichtbare Figuren: Böttcher von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann auf Kirchhofweg, zwei dunkle namenlose Erwachsene folgen in Abstand.
+Erzählertext: Räuber lauerten ihm auf, als er wieder beten ging.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann auf Kirchhofweg, zwei dunkle namenlose Erwachsene folgen in Abstand.
+
+KACHEL 14: Die unerwartete Hilfe
+Ort und Zeit: Die unerwartete Hilfe
+Sichtbare Figuren: Böttcher von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Verhüllte geisterhafte Gestalten treten zwischen ihn und fliehende Räuber, keine Knochenhiebe.
+Erzählertext: Die Toten erhoben sich und vertrieben die Angreifer.
+Dialoge: keine
+Kontinuität / Änderung: Verhüllte geisterhafte Gestalten treten zwischen ihn und fliehende Räuber, keine Knochenhiebe.
+
+KACHEL 15: Das gerettete Leben
+Ort und Zeit: Das gerettete Leben
+Sichtbare Figuren: Böttcher von Löwen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann allein am Friedhof im Mondlicht, Bedrohung fort.
+Erzählertext: Der Böttcher blieb unverletzt und betete weiter.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann allein am Friedhof im Mondlicht, Bedrohung fort.
+
+KACHEL 16: Das erinnerte Gegenüber
+Ort und Zeit: Das erinnerte Gegenüber
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine gemalte Erinnerungstafel an äußerer Kirchenmauer, keine im Alltag wandelnden Toten.
+Erzählertext: Beide Geschichten bewahren verschiedene Beziehungen: ein missverstandener Zugriff und eine beständig geschenkte Verbundenheit.
+Dialoge: keine
+Kontinuität / Änderung: Eine gemalte Erinnerungstafel an äußerer Kirchenmauer, keine im Alltag wandelnden Toten.

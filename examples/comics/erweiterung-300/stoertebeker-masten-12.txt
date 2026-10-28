@@ -1,0 +1,111 @@
+TITEL: Die Seeräuber – Der Schatz im Holz
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Zimmermann am Raubschiff
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Graues Hemd, Lederschürze, braune Hose.
+Persönlichkeit und Vorgeschichte: Meldet einen überraschenden Fund ehrlich an.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Das gefangene Schiff
+Ort und Zeit: Das gefangene Schiff
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewachtes altes Segelschiff im Hamburger Hafen.
+Erzählertext: Nach Störtebekers Gefangennahme durchsuchten die Hamburger sein Schiff.
+Dialoge: keine
+Kontinuität / Änderung: Bewachtes altes Segelschiff im Hamburger Hafen.
+
+KACHEL 2: Die leeren Kisten
+Ort und Zeit: Die leeren Kisten
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geöffnete leere Truhen im Laderaum.
+Erzählertext: Sie fanden keine Schätze.
+Dialoge: keine
+Kontinuität / Änderung: Geöffnete leere Truhen im Laderaum.
+
+KACHEL 3: Das Wrack
+Ort und Zeit: Das Wrack
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Schiff an trockener Werft, Masten noch vollständig.
+Erzählertext: Als vermeintlich wertloses Wrack wurde es zum Zerlegen verkauft.
+Dialoge: keine
+Kontinuität / Änderung: Schiff an trockener Werft, Masten noch vollständig.
+
+KACHEL 4: Die Arbeit
+Ort und Zeit: Die Arbeit
+Sichtbare Figuren: Zimmermann am Raubschiff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Zimmermann und ein dicker Mast.
+Erzählertext: Ein Zimmermann begann am Mast zu sägen.
+Dialoge: keine
+Kontinuität / Änderung: Ein Zimmermann und ein dicker Mast.
+
+KACHEL 5: Das harte Innere
+Ort und Zeit: Das harte Innere
+Sichtbare Figuren: Zimmermann am Raubschiff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Stumpfe Sägezähne, sichtbarer Kupferkern im Holz.
+Erzählertext: Seine Säge traf auf Metall.
+Dialoge: keine
+Kontinuität / Änderung: Stumpfe Sägezähne, sichtbarer Kupferkern im Holz.
+
+KACHEL 6: Der erste Fund
+Ort und Zeit: Der erste Fund
+Sichtbare Figuren: Zimmermann am Raubschiff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Kupferkern deutlich von hölzerner Außenhülle getrennt.
+Erzählertext: Im Holz steckte gediegenes Kupfer.
+Dialoge: keine
+Kontinuität / Änderung: Kupferkern deutlich von hölzerner Außenhülle getrennt.
+
+KACHEL 7: Die Entscheidung
+Ort und Zeit: Die Entscheidung
+Sichtbare Figuren: Zimmermann am Raubschiff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zimmermann hält kleines Kupferstück.
+Erzählertext: Er meldete den Fund dem Magistrat.
+Dialoge: keine
+Kontinuität / Änderung: Zimmermann hält kleines Kupferstück.
+
+KACHEL 8: Die weitere Prüfung
+Ort und Zeit: Die weitere Prüfung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Werftarbeiter untersuchen zwei weitere Masten am abgelegten Schiff.
+Erzählertext: Nun untersuchte man das ganze Schiff.
+Dialoge: keine
+Kontinuität / Änderung: Werftarbeiter untersuchen zwei weitere Masten am abgelegten Schiff.
+
+KACHEL 9: Die verborgenen Metalle
+Ort und Zeit: Die verborgenen Metalle
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei getrennte Mastquerschnitte: Kupfer, Silber, Gold im Holzmantel.
+Erzählertext: Die Sage erzählt von Masten mit Kupfer, Silber und Gold im Innern.
+Dialoge: keine
+Kontinuität / Änderung: Drei getrennte Mastquerschnitte: Kupfer, Silber, Gold im Holzmantel.
+
+KACHEL 10: Der gute Fang
+Ort und Zeit: Der gute Fang
+Sichtbare Figuren: Zimmermann am Raubschiff
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Beamter übergibt Lohn, Werft im Hintergrund.
+Erzählertext: Der Zimmermann wurde reich belohnt.
+Dialoge: keine
+Kontinuität / Änderung: Ein Beamter übergibt Lohn, Werft im Hintergrund.
+
+KACHEL 11: Die goldene Krone
+Ort und Zeit: Die goldene Krone
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Goldenes Schmuckband um den Turm von St. Katharinen.
+Erzählertext: Aus dem Gold soll eine große Turmkrone entstanden sein.
+Dialoge: keine
+Kontinuität / Änderung: Goldenes Schmuckband um den Turm von St. Katharinen.
+
+KACHEL 12: Der spätere Verlust
+Ort und Zeit: Der spätere Verlust
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Derselbe Turm ohne Goldband, ferner Hafen.
+Erzählertext: Später ging auch dieser Schatz verloren. Zuerst aber hatte genaue Arbeit gefunden, was die schnelle Suche übersah.
+Dialoge: keine
+Kontinuität / Änderung: Derselbe Turm ohne Goldband, ferner Hafen.

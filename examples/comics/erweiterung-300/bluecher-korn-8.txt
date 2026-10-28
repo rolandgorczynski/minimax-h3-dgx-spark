@@ -1,0 +1,90 @@
+TITEL: Bischof Blücher – Die leere Kornkammer
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Bischof Blücher
+Aussehen: Älterer Mann mit grauem Haar.
+Kleidung: Schlichtes dunkelblaues Bischofsgewand.
+Persönlichkeit und Vorgeschichte: Gibt auch den eigenen Vorrat für Notleidende weg.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schaffner des Bischofs
+Aussehen: Erwachsener Mann mit braunem Bart.
+Kleidung: Brauner Rock, graue Hose.
+Persönlichkeit und Vorgeschichte: Findet keinen zurückbehaltenen Vorrat.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die Teuerung
+Ort und Zeit: Die Teuerung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Hungrige Erwachsene vor dem Ratzeburger Speicher.
+Erzählertext: In einer großen Teuerung baten viele um Brot.
+Dialoge: keine
+Kontinuität / Änderung: Hungrige Erwachsene vor dem Ratzeburger Speicher.
+
+KACHEL 2: Die offene Tür
+Ort und Zeit: Die offene Tür
+Sichtbare Figuren: Bischof Blücher, Schaffner des Bischofs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Geordnete Kornausgabe, Menschen halten Säcke.
+Erzählertext: Bischof Blücher gab Korn aus.
+Dialoge: keine
+Kontinuität / Änderung: Geordnete Kornausgabe, Menschen halten Säcke.
+
+KACHEL 3: Der letzte Sack
+Ort und Zeit: Der letzte Sack
+Sichtbare Figuren: Schaffner des Bischofs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Speicherboden hinter ihm.
+Erzählertext: Er gab, bis für ihn selbst und sein Haus nichts übrig blieb.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Speicherboden hinter ihm.
+
+KACHEL 4: Die neue Bitte
+Ort und Zeit: Die neue Bitte
+Sichtbare Figuren: Bischof Blücher
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Offene Hände vor leerer Speichertür.
+Erzählertext: Doch es kamen weiter Menschen in Not.
+Dialoge: keine
+Kontinuität / Änderung: Offene Hände vor leerer Speichertür.
+
+KACHEL 5: Die Grenze
+Ort und Zeit: Die Grenze
+Sichtbare Figuren: Schaffner des Bischofs, Bischof Blücher
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Kornkorb.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Schaffner des Bischofs
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Die Böden sind leer.“
+Kontinuität / Änderung: Leerer Kornkorb.
+
+KACHEL 6: Die erneute Suche
+Ort und Zeit: Die erneute Suche
+Sichtbare Figuren: Schaffner des Bischofs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bischof bleibt unten.
+Erzählertext: Blücher bat ihn, noch einmal nachzusehen. Vielleicht sei doch ein Rest geblieben.
+Dialoge: keine
+Kontinuität / Änderung: Bischof bleibt unten.
+
+KACHEL 7: Die volle Kammer
+Ort und Zeit: Die volle Kammer
+Sichtbare Figuren: Schaffner des Bischofs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Korn quillt aus unerwartet voller Kammer.
+Erzählertext: In der Legende fand er nun Korn im Überfluss.
+Dialoge: keine
+Kontinuität / Änderung: Korn quillt aus unerwartet voller Kammer.
+
+KACHEL 8: Die erneute Gabe
+Ort und Zeit: Die erneute Gabe
+Sichtbare Figuren: Bischof Blücher, Schaffner des Bischofs
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Voller Speicher und offene Tür.
+Erzählertext: Das Korn blieb nicht beim Bischof. Es ging wieder an die Hungernden.
+Dialoge: keine
+Kontinuität / Änderung: Voller Speicher und offene Tür.
