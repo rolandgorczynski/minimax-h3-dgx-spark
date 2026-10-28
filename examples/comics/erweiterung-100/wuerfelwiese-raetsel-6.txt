@@ -1,0 +1,67 @@
+TITEL: Die Würfelwiese – Was die Erde nicht erklärt
+AUTOR: Sysop
+KACHELANZAHL: 6
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Finderin auf der Würfelwiese
+Aussehen: Erwachsene Frau mit dunklem Zopf und wettergegerbtem Gesicht.
+Kleidung: Graues Wollkleid, braune Schürze, feste Schuhe.
+Persönlichkeit und Vorgeschichte: Frei verdichtete Beobachterin der wiederkehrenden Funde; löst das Rätsel nicht.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Ein Fund
+Ort und Zeit: Wiese bei Baden
+Sichtbare Figuren: Finderin auf der Würfelwiese
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Naher Bodenblick: eine Frau findet einen kleinen hellen Würfel im frischen Maulwurfshaufen, die Stadt fern. Kein sichtbarer Teufel.
+Erzählertext: Bei Baden lag eine Wiese, auf der immer wieder Würfel gefunden wurden.
+Dialoge: keine
+Kontinuität / Änderung: Naher Bodenblick: eine Frau findet einen kleinen hellen Würfel im frischen Maulwurfshaufen, die Stadt fern. Kein sichtbarer Teufel.
+
+KACHEL 2: Nicht der erste
+Ort und Zeit: Rand der Wiese
+Sichtbare Figuren: Finderin auf der Würfelwiese
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Die Finderin zeigt einem namenlosen Erwachsenen einen Würfel. Dessen offener Beutel enthält ältere Funde, nicht Gold.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Finderin auf der Würfelwiese
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Schon wieder einer. Wo kommen sie her?“
+Kontinuität / Änderung: Die Finderin zeigt einem namenlosen Erwachsenen einen Würfel. Dessen offener Beutel enthält ältere Funde, nicht Gold.
+
+KACHEL 3: Immer neue
+Ort und Zeit: Andere Stelle derselben Wiese
+Sichtbare Figuren: Finderin auf der Würfelwiese
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein weiterer heller Würfel halb in frischer Erde, mehrere alte Haufen daneben. Kein unterirdischer Querschnitt mit erklärender Maschine.
+Erzählertext: Mit neuen Erdhaufen kamen neue Würfel. Die Funde beantworteten die Frage nach ihrer Herkunft nicht.
+Dialoge: keine
+Kontinuität / Änderung: Ein weiterer heller Würfel halb in frischer Erde, mehrere alte Haufen daneben. Kein unterirdischer Querschnitt mit erklärender Maschine.
+
+KACHEL 4: Eine Vermutung
+Ort und Zeit: Wiesenrand
+Sichtbare Figuren: Finderin auf der Würfelwiese
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei gewöhnliche Erwachsene am Rand, eine Hand deutet auf den Fund. Keine Römerfabrik wird als Wirklichkeit eingeblendet.
+Erzählertext: Manche vermuteten eine alte römische Werkstatt. Einen Beweis erzählt die Sage nicht.
+Dialoge: keine
+Kontinuität / Änderung: Zwei gewöhnliche Erwachsene am Rand, eine Hand deutet auf den Fund. Keine Römerfabrik wird als Wirklichkeit eingeblendet.
+
+KACHEL 5: Eine andere Vermutung
+Ort und Zeit: Gleicher Wiesenrand
+Sichtbare Figuren: Finderin auf der Würfelwiese
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Die Finderin mit dem kleinen Würfel vor der dunkler werdenden Wiese. Natürliche Schatten, kein verkörperter Teufel unter der Erde.
+Erzählertext: Andere schrieben die Würfel dem Teufel zu. Auch das blieb eine Deutung.
+Dialoge: keine
+Kontinuität / Änderung: Die Finderin mit dem kleinen Würfel vor der dunkler werdenden Wiese. Natürliche Schatten, kein verkörperter Teufel unter der Erde.
+
+KACHEL 6: Die offene Erde
+Ort und Zeit: Wiese am folgenden Morgen
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frischer Maulwurfshaufen mit einem einzelnen kleinen Würfel im Morgenlicht. Keine Hand, kein Verursacher und keine ausformulierte Lösung im Bild.
+Erzählertext: Die Würfel kamen weiter hervor. Ihre Herkunft blieb ungeklärt.
+Dialoge: keine
+Kontinuität / Änderung: Frischer Maulwurfshaufen mit einem einzelnen kleinen Würfel im Morgenlicht. Keine Hand, kein Verursacher und keine ausformulierte Lösung im Bild.

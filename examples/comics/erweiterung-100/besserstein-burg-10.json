@@ -1,0 +1,551 @@
+{
+  "mode": "editorial",
+  "name": "Der Besserstein – Lieber eine Ruine · Skript",
+  "payload": {
+    "article": "STOFF UND HERKUNFT: Der Besserstein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 23.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIm Aargau, da, wo Reuß und Limmat in die Aar und die Aar in den Rhein fließen, liegt der Geißberg, der trägt auf seinem Gipfel die Trümmer einer Ritterburg. Ein Herr von Villigen baute die Burg auf das schönste und festeste, hatte seine Herzensfreude daran, gedachte in ihr glücklichen Alters froh zu werden und in Leutseligkeit und Güte seinen Untersassen ein treuer Vater zu sein. Fertig stand der Bau, und festlich sollte er eingeweiht werden. Des Bauherrn Söhne und alle Gefreundete rings im Gau waren versammelt, und die Humpen kreisten. Der Ritter von Villigen sprach zu den Söhnen: Da schaut nun, wie gut sich's hier wohnen wird in der Pracht der Gegend, rund um uns her unsre fleißigen Leute und Mannen, mitten im Kreis der Dörfer unser stattliches Burghaus, fest gegen den Feind, offen dem Freund, den Bedrängten ein Schutz, den Dürftigen ein Hospitium! So wollt ich's haben.\n\nJa, Vater, sprachen die Söhne, das ist traun eine wackre Trutzburg worden; da mag sich das nichtsnutzige Volk auflehnen oder nicht, wir zwingen es von hier aus, wir werden ihm den Fuß auf den Nacken setzen. Von hier aus können wir Zölle legen auf die Flüsse und den Rheinstrom, auf Wege und Stege. Der ganze Gau muß uns tributpflichtig werden, damit unser Gut sich mehre und unser Name ein gefürchteter sei im Rhein- und Schweizerlande. – Als der Herr von Villigen diese Rede seiner Söhne vernahm, war es ihm, als wolle sein Blut stocken und sein Herz brechen, und zürnend brach er aus: Entartete Söhne! So ist euer Sinn? Wartet, den will ich euch bessern! – Und warf seinen vollen Humpen zur Erde, daß er in tausend Scherben zerklirrte. Wie dieser Humpen zertrümmert liegt, so soll dieser stolze Bau, meine Lust und meine Freude, zertrümmert liegen! – Und berief seine Mannen, seine Untersassen, sein ganzes Volk, und hieß sie den neuen Bau abbrechen und verfluchte die Hand, die ihn wiederum zu bauen beginnen werde. Besser Stein, ein wüster Stein, als eine Zwingburg des Volkes und des Gaues, die Schimpf auf den edeln Namen derer von Villigen häuft! rief er – und seitdem liegt auf dem Geißenberge der öde Mauerrest und heißt allwege im Volke der Besserstein.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_article": "STOFF UND HERKUNFT: Der Besserstein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 23.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIm Aargau, da, wo Reuß und Limmat in die Aar und die Aar in den Rhein fließen, liegt der Geißberg, der trägt auf seinem Gipfel die Trümmer einer Ritterburg. Ein Herr von Villigen baute die Burg auf das schönste und festeste, hatte seine Herzensfreude daran, gedachte in ihr glücklichen Alters froh zu werden und in Leutseligkeit und Güte seinen Untersassen ein treuer Vater zu sein. Fertig stand der Bau, und festlich sollte er eingeweiht werden. Des Bauherrn Söhne und alle Gefreundete rings im Gau waren versammelt, und die Humpen kreisten. Der Ritter von Villigen sprach zu den Söhnen: Da schaut nun, wie gut sich's hier wohnen wird in der Pracht der Gegend, rund um uns her unsre fleißigen Leute und Mannen, mitten im Kreis der Dörfer unser stattliches Burghaus, fest gegen den Feind, offen dem Freund, den Bedrängten ein Schutz, den Dürftigen ein Hospitium! So wollt ich's haben.\n\nJa, Vater, sprachen die Söhne, das ist traun eine wackre Trutzburg worden; da mag sich das nichtsnutzige Volk auflehnen oder nicht, wir zwingen es von hier aus, wir werden ihm den Fuß auf den Nacken setzen. Von hier aus können wir Zölle legen auf die Flüsse und den Rheinstrom, auf Wege und Stege. Der ganze Gau muß uns tributpflichtig werden, damit unser Gut sich mehre und unser Name ein gefürchteter sei im Rhein- und Schweizerlande. – Als der Herr von Villigen diese Rede seiner Söhne vernahm, war es ihm, als wolle sein Blut stocken und sein Herz brechen, und zürnend brach er aus: Entartete Söhne! So ist euer Sinn? Wartet, den will ich euch bessern! – Und warf seinen vollen Humpen zur Erde, daß er in tausend Scherben zerklirrte. Wie dieser Humpen zertrümmert liegt, so soll dieser stolze Bau, meine Lust und meine Freude, zertrümmert liegen! – Und berief seine Mannen, seine Untersassen, sein ganzes Volk, und hieß sie den neuen Bau abbrechen und verfluchte die Hand, die ihn wiederum zu bauen beginnen werde. Besser Stein, ein wüster Stein, als eine Zwingburg des Volkes und des Gaues, die Schimpf auf den edeln Namen derer von Villigen häuft! rief er – und seitdem liegt auf dem Geißenberge der öde Mauerrest und heißt allwege im Volke der Besserstein.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+    "planned_count": 10,
+    "panel_count": 10,
+    "scenes": [
+      {
+        "heading": "Das vollendete Werk",
+        "setting": "Burg über den Flüssen",
+        "characters": [
+          "ef741721516b5616a5079e231a6f10a2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater links vor der fertig gebauten Burg, unten Flüsse und Dörfer, keine zerstörten Mauern.",
+        "dialog": "Auf dem Geißberg ließ der Herr von Villigen eine Burg bauen. Die Sage erzählt von seiner großen Freude daran.",
+        "bubbles": [],
+        "character_states": {
+          "ef741721516b5616a5079e231a6f10a2": "steht vor der neuen Burg; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Vater links vor der fertig gebauten Burg, unten Flüsse und Dörfer, keine zerstörten Mauern.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Burg über den Flüssen",
+            "posture": "steht vor der neuen Burg"
+          }
+        }
+      },
+      {
+        "heading": "Der Zweck",
+        "setting": "Festsaal der Burg",
+        "characters": [
+          "ef741721516b5616a5079e231a6f10a2",
+          "2c4268cd86c850cdad8c8ceba7a5e822",
+          "f37fd81d457f50279ee60d9593978239"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer an einem Festtisch, Vater hält einen einzigen gefüllten Humpen. Waffenlose Festgesellschaft klein hinten.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "ef741721516b5616a5079e231a6f10a2",
+            "text": "Hier sollen Freunde und Bedrängte Schutz finden.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "ef741721516b5616a5079e231a6f10a2": "steht am Tisch mit einem Humpen; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend",
+          "2c4268cd86c850cdad8c8ceba7a5e822": "sitzt links; Weinrotes Wams, graue Hose, schwarze Schuhe.; Lebenszustand: lebend",
+          "f37fd81d457f50279ee60d9593978239": "sitzt rechts; Ockerfarbenes Wams, dunkle Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Drei Männer an einem Festtisch, Vater hält einen einzigen gefüllten Humpen. Waffenlose Festgesellschaft klein hinten.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "ein gefüllter Humpen rechts",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Festsaal der Burg",
+            "posture": "steht am Tisch mit einem Humpen"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Festsaal der Burg",
+            "posture": "sitzt links"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Festsaal der Burg",
+            "posture": "sitzt rechts"
+          }
+        }
+      },
+      {
+        "heading": "Ein anderer Plan",
+        "setting": "Gleicher Festsaal",
+        "characters": [
+          "2c4268cd86c850cdad8c8ceba7a5e822",
+          "f37fd81d457f50279ee60d9593978239",
+          "ef741721516b5616a5079e231a6f10a2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erster Sohn weist zum Fenster auf die Verkehrswege, Vater hört zu. Der Humpen bleibt in der rechten Vaterhand.",
+        "dialog": "Seine Söhne verstanden die neue Macht anders.",
+        "bubbles": [],
+        "character_states": {
+          "2c4268cd86c850cdad8c8ceba7a5e822": "steht auf; Weinrotes Wams, graue Hose, schwarze Schuhe.; Lebenszustand: lebend",
+          "f37fd81d457f50279ee60d9593978239": "sitzt zustimmend; Ockerfarbenes Wams, dunkle Hose, braune Schuhe.; Lebenszustand: lebend",
+          "ef741721516b5616a5079e231a6f10a2": "steht mit Humpen; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Erster Sohn weist zum Fenster auf die Verkehrswege, Vater hört zu. Der Humpen bleibt in der rechten Vaterhand.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "ein gefüllter Humpen rechts",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Gleicher Festsaal",
+            "posture": "steht mit Humpen"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Gleicher Festsaal",
+            "posture": "steht auf"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Gleicher Festsaal",
+            "posture": "sitzt zustimmend"
+          }
+        }
+      },
+      {
+        "heading": "Zölle und Zwang",
+        "setting": "Fenster über den Flüssen",
+        "characters": [
+          "2c4268cd86c850cdad8c8ceba7a5e822",
+          "f37fd81d457f50279ee60d9593978239",
+          "ef741721516b5616a5079e231a6f10a2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle drei von seitlich gesehen, der erste Sohn zeigt auf Wege und Fluss. Keine schon ausgeführte Plünderung.",
+        "dialog": "",
+        "bubbles": [
+          {
+            "speaker": "2c4268cd86c850cdad8c8ceba7a5e822",
+            "text": "Von hier zwingen wir alle, an uns zu zahlen.",
+            "expression": "normal",
+            "bubble_style": "rounded",
+            "x": 0.08,
+            "y": 0.23,
+            "w": 0.38,
+            "h": 0.18,
+            "tip_x": 0.25,
+            "tip_y": 0.48,
+            "show_name": false
+          }
+        ],
+        "character_states": {
+          "2c4268cd86c850cdad8c8ceba7a5e822": "zeigt mit leerer Hand ins Tal; Weinrotes Wams, graue Hose, schwarze Schuhe.; Lebenszustand: lebend",
+          "f37fd81d457f50279ee60d9593978239": "steht neben ihm; Ockerfarbenes Wams, dunkle Hose, braune Schuhe.; Lebenszustand: lebend",
+          "ef741721516b5616a5079e231a6f10a2": "steht hinter ihnen; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Alle drei von seitlich gesehen, der erste Sohn zeigt auf Wege und Fluss. Keine schon ausgeführte Plünderung.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "ein gefüllter Humpen rechts",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Fenster über den Flüssen",
+            "posture": "steht hinter ihnen"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Fenster über den Flüssen",
+            "posture": "zeigt mit leerer Hand ins Tal"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Fenster über den Flüssen",
+            "posture": "steht neben ihm"
+          }
+        }
+      },
+      {
+        "heading": "Die Entscheidung",
+        "setting": "Festsaal am Tisch",
+        "characters": [
+          "ef741721516b5616a5079e231a6f10a2",
+          "2c4268cd86c850cdad8c8ceba7a5e822",
+          "f37fd81d457f50279ee60d9593978239"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein zerbrochener Humpen mit verschüttetem Getränk auf dem Steinboden. Der Vater mit beiden leeren Händen; kein zweiter Humpen in der Faust.",
+        "dialog": "Der Vater warf den Humpen zu Boden. Sein Stolz wich dem Entsetzen.",
+        "bubbles": [],
+        "character_states": {
+          "ef741721516b5616a5079e231a6f10a2": "steht mit gesenkter leerer rechter Hand; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend",
+          "2c4268cd86c850cdad8c8ceba7a5e822": "steht erschrocken; Weinrotes Wams, graue Hose, schwarze Schuhe.; Lebenszustand: lebend",
+          "f37fd81d457f50279ee60d9593978239": "sitzt zurückweichend; Ockerfarbenes Wams, dunkle Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Ein zerbrochener Humpen mit verschüttetem Getränk auf dem Steinboden. Der Vater mit beiden leeren Händen; kein zweiter Humpen in der Faust.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände; einziger Humpen zerbrochen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Festsaal am Tisch",
+            "posture": "steht mit gesenkter leerer rechter Hand"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "steht erschrocken"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "sitzt zurückweichend"
+          }
+        }
+      },
+      {
+        "heading": "Der Befehl",
+        "setting": "Burgvorhof",
+        "characters": [
+          "ef741721516b5616a5079e231a6f10a2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater vor namenlosen Handwerkern und Bewohnern, fertige Burg hinter ihm. Keine kämpfende Menge.",
+        "dialog": "Er rief die Menschen zusammen und befahl den Abbruch. Sein Werk sollte niemanden unterwerfen.",
+        "bubbles": [],
+        "character_states": {
+          "ef741721516b5616a5079e231a6f10a2": "steht vor versammelten Erwachsenen; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Vater vor namenlosen Handwerkern und Bewohnern, fertige Burg hinter ihm. Keine kämpfende Menge.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände; einziger Humpen zerbrochen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Burgvorhof",
+            "posture": "steht vor versammelten Erwachsenen"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "steht erschrocken"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "sitzt zurückweichend"
+          }
+        }
+      },
+      {
+        "heading": "Die erste Lücke",
+        "setting": "Burgmauer",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Arbeiter lösen Steine von einer niedrigen Mauer und tragen sie ab, niemand unter fallenden Trümmern.",
+        "dialog": "Er ließ sein eigenes Werk abbrechen. Der Verlust war der Preis seiner Entscheidung.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Erwachsene Arbeiter lösen Steine von einer niedrigen Mauer und tragen sie ab, niemand unter fallenden Trümmern.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände; einziger Humpen zerbrochen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Burgvorhof",
+            "posture": "steht vor versammelten Erwachsenen"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "steht erschrocken"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "sitzt zurückweichend"
+          }
+        }
+      },
+      {
+        "heading": "Stein um Stein",
+        "setting": "Burg einige Zeit später",
+        "characters": [
+          "ef741721516b5616a5079e231a6f10a2"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Niedrige Mauerreste statt hoher Burg, einzelne Arbeiter hinten. Der Vater blickt ruhig in das wieder offene Tal.",
+        "dialog": "Lieber sollte eine Ruine bleiben als eine Zwingburg über den Dörfern.",
+        "bubbles": [],
+        "character_states": {
+          "ef741721516b5616a5079e231a6f10a2": "steht vor schon stark abgetragenen Mauern; Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.; Lebenszustand: lebend"
+        },
+        "continuity": "Niedrige Mauerreste statt hoher Burg, einzelne Arbeiter hinten. Der Vater blickt ruhig in das wieder offene Tal.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände; einziger Humpen zerbrochen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Burg einige Zeit später",
+            "posture": "steht vor schon stark abgetragenen Mauern"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "steht erschrocken"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Festsaal am Tisch",
+            "posture": "sitzt zurückweichend"
+          }
+        }
+      },
+      {
+        "heading": "Kein Wiederaufbau",
+        "setting": "Leerer Burghof",
+        "characters": [
+          "2c4268cd86c850cdad8c8ceba7a5e822",
+          "f37fd81d457f50279ee60d9593978239"
+        ],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Söhne vor dem abgetragenen Hof, keine Baupläne oder neue Krone. Ihre Hände leer.",
+        "dialog": "Auch den Wiederaufbau untersagte er. Die Söhne erhielten kein Machtwerkzeug zurück.",
+        "bubbles": [],
+        "character_states": {
+          "2c4268cd86c850cdad8c8ceba7a5e822": "steht links vor Mauerrest; Weinrotes Wams, graue Hose, schwarze Schuhe.; Lebenszustand: lebend",
+          "f37fd81d457f50279ee60d9593978239": "steht rechts daneben; Ockerfarbenes Wams, dunkle Hose, braune Schuhe.; Lebenszustand: lebend"
+        },
+        "continuity": "Zwei erwachsene Söhne vor dem abgetragenen Hof, keine Baupläne oder neue Krone. Ihre Hände leer.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände; einziger Humpen zerbrochen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Burg einige Zeit später",
+            "posture": "steht vor schon stark abgetragenen Mauern"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Leerer Burghof",
+            "posture": "steht links vor Mauerrest"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Leerer Burghof",
+            "posture": "steht rechts daneben"
+          }
+        }
+      },
+      {
+        "heading": "Besser Stein",
+        "setting": "Späterer Blick vom Geißberg",
+        "characters": [],
+        "story": "Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewachsene Mauerreste über den Flüssen, offene Landschaft bis zum Horizont. Keine unzerstörte zweite Burg.",
+        "dialog": "Besserstein hieß der Ort fortan: Der Vater hatte lieber seinen Besitz verloren als dessen Zweck verraten.",
+        "bubbles": [],
+        "character_states": {},
+        "continuity": "Bewachsene Mauerreste über den Flüssen, offene Landschaft bis zum Horizont. Keine unzerstörte zweite Burg.",
+        "continuity_state": {
+          "ef741721516b5616a5079e231a6f10a2": {
+            "held": "leere Hände; einziger Humpen zerbrochen am Boden",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+            "location": "Burg einige Zeit später",
+            "posture": "steht vor schon stark abgetragenen Mauern"
+          },
+          "2c4268cd86c850cdad8c8ceba7a5e822": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+            "location": "Leerer Burghof",
+            "posture": "steht links vor Mauerrest"
+          },
+          "f37fd81d457f50279ee60d9593978239": {
+            "held": "leere Hände, sofern die sichtbare Regie keinen Gegenstand zuordnet",
+            "life": "lebend",
+            "injury": "unverletzt",
+            "clothing": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+            "location": "Leerer Burghof",
+            "posture": "steht rechts daneben"
+          }
+        }
+      }
+    ],
+    "characters": [
+      {
+        "name": "Herr von Villigen",
+        "description": "Älterer erwachsener Mann mit grauem kurzem Bart, breitem Gesicht.",
+        "outfit": "Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.",
+        "backstory": "Baut eine Burg als Schutz und Unterkunft; opfert sie, statt Missbrauch zu dulden.",
+        "id": "ef741721516b5616a5079e231a6f10a2",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Erster Sohn von Villigen",
+        "description": "Erwachsener schlanker Mann mit dunklem kurzem Haar, bartlos.",
+        "outfit": "Weinrotes Wams, graue Hose, schwarze Schuhe.",
+        "backstory": "Sieht in der Burg ein Werkzeug zur Beherrschung der Region.",
+        "id": "2c4268cd86c850cdad8c8ceba7a5e822",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      },
+      {
+        "name": "Zweiter Sohn von Villigen",
+        "description": "Erwachsener kräftiger Mann mit rotbraunem Bart.",
+        "outfit": "Ockerfarbenes Wams, dunkle Hose, braune Schuhe.",
+        "backstory": "Teilt die Pläne seines Bruders; keine eigene erfundene Nebenhandlung.",
+        "id": "f37fd81d457f50279ee60d9593978239",
+        "aliases": [],
+        "references": [],
+        "variants": {},
+        "alignment": ""
+      }
+    ],
+    "library_ids": [],
+    "style": "Klassischer Comic",
+    "visual_style_pending": true,
+    "seed": 1984,
+    "count_policy": "editorial",
+    "narrative_plan": {
+      "central_question": "Was ist ein eigener Erfolg wert, wenn er zur Unterdrückung anderer werden soll?",
+      "core": "Verantwortung für Macht kann verlangen, auf den eigenen Stolz und Besitz zu verzichten, statt deren missbräuchliche Verwendung zu dulden.",
+      "ending": "Der Vater lässt die eigene Burg abbrechen; als Besserstein erinnert die Ruine an seine Entscheidung.",
+      "reason": "Freude am Bau, gegensätzliche Zweckdeutung und kostspielige Konsequenz tragen eine starke kurze Pointe.",
+      "meaning_type": "Lehre",
+      "evidence": [
+        {
+          "event": "Besser Stein, ein wüster Stein, als eine Zwingburg des Volkes und des Gaues",
+          "meaning": "Der Vater bindet den Wert seines Werkes an dessen Zweck und opfert das Werk statt diesen Maßstab."
+        }
+      ],
+      "causal_chain": [
+        "Besser Stein, ein wüster Stein, als eine Zwingburg des Volkes und des Gaues",
+        "Der Vater lässt die eigene Burg abbrechen; als Besserstein erinnert die Ruine an seine Entscheidung."
+      ],
+      "recommended_count": 10,
+      "series_count": 2,
+      "series_reason": "2 Folgen mit jeweils sechs Kacheln sind eine mögliche Aufteilung. Die entscheidende Konsequenz muss bis zum Schluss erhalten bleiben; keine Nebenhandlung zur Streckung erfinden.",
+      "analysis_version": 4,
+      "source_sha256": "dcfc0f0077e686feca356008306071fdb95b5a5a98dd4d084c55abe59b2e3069",
+      "fixed_count": 12,
+      "panels_per_episode": 6,
+      "review_method": "redaktionell",
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-25T18:26:12.308819+00:00"
+    },
+    "post_summary": "Ein Vater baut eine Burg als Schutz. Als seine Söhne darin ein Werkzeug der Unterdrückung sehen, trifft er eine teure Entscheidung.",
+    "source_provenance": {
+      "title": "Der Besserstein",
+      "kind": "Buch",
+      "creator": "Ludwig Bechstein (1801–1860).",
+      "edition": "Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 23.",
+      "url": "https://textgridrep.org/browse/kgq2.0",
+      "territories": "Deutschland; historischer Originaltext, keine moderne Filmfassung oder Übersetzung.",
+      "rights": "Gemeinfreier historischer Originaltext von Ludwig Bechstein (gestorben 1860), § 64 UrhG. Transkriptionsnachweis: TextGrid und www.editura.de, Digitale Bibliothek, CC BY 3.0 DE; editorische Annotationen und Bilder nicht übernommen. Änderungen: XML entfernt, Fußnoten und Seitenmarken ausgelassen, Leerraum normalisiert. Lizenz: https://creativecommons.org/licenses/by/3.0/de/ .",
+      "text": "STOFF UND HERKUNFT: Der Besserstein. Historische Sage, kein historischer Tatsachenbericht.\nÜBERLIEFERUNG: Ludwig Bechstein: Deutsches Sagenbuch, zuerst 1853; TextGrid-Ausgabe nach dem historischen Druck Meersburg und Leipzig 1930, Sage 23.\nTEXTBEARBEITUNG: Vollständiger Erzähltext als Grundlage; keine eigens geschriebene Inhaltszusammenfassung. Typographisch normalisiert, editorische Fußnoten und Seitenmarken ausgelassen.\n\nHANDLUNGSGRUNDLAGE – HISTORISCHER ORIGINALTEXT:\nIm Aargau, da, wo Reuß und Limmat in die Aar und die Aar in den Rhein fließen, liegt der Geißberg, der trägt auf seinem Gipfel die Trümmer einer Ritterburg. Ein Herr von Villigen baute die Burg auf das schönste und festeste, hatte seine Herzensfreude daran, gedachte in ihr glücklichen Alters froh zu werden und in Leutseligkeit und Güte seinen Untersassen ein treuer Vater zu sein. Fertig stand der Bau, und festlich sollte er eingeweiht werden. Des Bauherrn Söhne und alle Gefreundete rings im Gau waren versammelt, und die Humpen kreisten. Der Ritter von Villigen sprach zu den Söhnen: Da schaut nun, wie gut sich's hier wohnen wird in der Pracht der Gegend, rund um uns her unsre fleißigen Leute und Mannen, mitten im Kreis der Dörfer unser stattliches Burghaus, fest gegen den Feind, offen dem Freund, den Bedrängten ein Schutz, den Dürftigen ein Hospitium! So wollt ich's haben.\n\nJa, Vater, sprachen die Söhne, das ist traun eine wackre Trutzburg worden; da mag sich das nichtsnutzige Volk auflehnen oder nicht, wir zwingen es von hier aus, wir werden ihm den Fuß auf den Nacken setzen. Von hier aus können wir Zölle legen auf die Flüsse und den Rheinstrom, auf Wege und Stege. Der ganze Gau muß uns tributpflichtig werden, damit unser Gut sich mehre und unser Name ein gefürchteter sei im Rhein- und Schweizerlande. – Als der Herr von Villigen diese Rede seiner Söhne vernahm, war es ihm, als wolle sein Blut stocken und sein Herz brechen, und zürnend brach er aus: Entartete Söhne! So ist euer Sinn? Wartet, den will ich euch bessern! – Und warf seinen vollen Humpen zur Erde, daß er in tausend Scherben zerklirrte. Wie dieser Humpen zertrümmert liegt, so soll dieser stolze Bau, meine Lust und meine Freude, zertrümmert liegen! – Und berief seine Mannen, seine Untersassen, sein ganzes Volk, und hieß sie den neuen Bau abbrechen und verfluchte die Hand, die ihn wiederum zu bauen beginnen werde. Besser Stein, ein wüster Stein, als eine Zwingburg des Volkes und des Gaues, die Schimpf auf den edeln Namen derer von Villigen häuft! rief er – und seitdem liegt auf dem Geißenberge der öde Mauerrest und heißt allwege im Volke der Besserstein.\n\nSCHWERPUNKT DER COMIC-ADAPTION: Den konkreten Konflikt und die Wendung dieses Textes visuell erzählen. Länge und Zahl der Handlungsschritte am Stoff ausrichten.\nABGRENZUNG: Nur diese nummerierte Sage verwenden; benachbarte Kapitel und andere Fassungen nicht vermischen. Das überlieferte Ende erhalten. Historische Wertungen nicht als heutige Sachbehauptungen übernehmen.\n\nGESTALTUNG: Alle Erzählertexte und Dialoge neu auf Deutsch formulieren, keine historischen Dialoge ungeprüft übernehmen. Einen zusammenhängenden Handlungsbogen mit dem überlieferten Ende wählen. Sage als Sage erzählen, nicht als belegtes Ereignis. Pro Kachel einen klaren Zeitpunkt zeigen. Identität, Kleidung, Reittiere und Gegenstände fortlaufend führen. Ziehen einer Waffe leert ihre Scheide; Absteigen verändert die Position der Figur. Verwandlungen und Zeitsprünge ausdrücklich markieren. Keine neue Nebenhandlung zur Streckung kurzer Stoffe erfinden. Höchstens acht zentrale Figuren individuell planen. Historische Vorurteile nicht als Tatsachen oder Gruppenurteile übernehmen.",
+      "post_summary": "Im Aargau, da, wo Reuß und Limmat in die Aar und die Aar in den Rhein fließen, liegt der Geißberg, der trägt auf seinem Gipfel die Trümmer einer Ritterburg. Ein Herr von Villigen baute die Burg auf das schönste und festeste, hatte seine Herzensfreude daran, gedachte in ihr glücklichen Alters froh zu werden und in Leutseligkeit und Güte seinen Untersassen ein treuer Vater zu sein.",
+      "id": "bechstein-sagen-kgq2-0",
+      "category": "Historische Sagen",
+      "collection": "Bechstein – Deutsches Sagenbuch"
+    },
+    "book_author": "Sysop",
+    "editorial_script_id": "besserstein-burg-10-auswahl100-v1",
+    "script_needs_replan": false,
+    "narration_policy": {
+      "version": 1,
+      "narrator_every": 3,
+      "dialogue_and_narrator": "exclusive_per_panel",
+      "silent_panel": "narrator_only",
+      "authored_by": "Codex"
+    },
+    "script_review": {
+      "reviewed_by": "Codex",
+      "method": "Selbst verfasste redaktionelle Adaption und technische Prüfung ohne Modellaufruf",
+      "source_fidelity": true,
+      "meaning_preserved": true,
+      "count_matches_recommendation": true,
+      "continuity_reviewed": true,
+      "dialogue_attribution_reviewed": true,
+      "images_generated": false,
+      "narration_reviewed": true,
+      "narrator_and_dialogue_exclusive": true
+    },
+    "art_direction_review": {
+      "version": 1,
+      "reviewed_by": "Codex",
+      "basis": "Redaktionelle Übertragung der Schneiderlein-Bildregie auf den jeweiligen Stoff",
+      "images_generated_for_this_revision": false,
+      "visual_approval": "Bilder nach dem Generieren prüfen",
+      "visible_inventory_separate": true,
+      "full_frame_art": true
+    },
+    "title": "Der Besserstein – Lieber eine Ruine · Skript",
+    "revisions": {},
+    "source_script": "TITEL: Der Besserstein – Lieber eine Ruine\nAUTOR: Sysop\nKACHELANZAHL: 10\nBILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung\nSTIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.\nERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.\n\nFIGUREN\n\nName: Herr von Villigen\nAussehen: Älterer erwachsener Mann mit grauem kurzem Bart, breitem Gesicht.\nKleidung: Dunkelblauer langer Rock, brauner Gürtel, weiche Stiefel; keine Waffe.\nPersönlichkeit und Vorgeschichte: Baut eine Burg als Schutz und Unterkunft; opfert sie, statt Missbrauch zu dulden.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Erster Sohn von Villigen\nAussehen: Erwachsener schlanker Mann mit dunklem kurzem Haar, bartlos.\nKleidung: Weinrotes Wams, graue Hose, schwarze Schuhe.\nPersönlichkeit und Vorgeschichte: Sieht in der Burg ein Werkzeug zur Beherrschung der Region.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nName: Zweiter Sohn von Villigen\nAussehen: Erwachsener kräftiger Mann mit rotbraunem Bart.\nKleidung: Ockerfarbenes Wams, dunkle Hose, braune Schuhe.\nPersönlichkeit und Vorgeschichte: Teilt die Pläne seines Bruders; keine eigene erfundene Nebenhandlung.\nGesinnung: Nicht festgelegt.\nKontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.\n\nKACHEL 1: Das vollendete Werk\nOrt und Zeit: Burg über den Flüssen\nSichtbare Figuren: Herr von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater links vor der fertig gebauten Burg, unten Flüsse und Dörfer, keine zerstörten Mauern.\nErzählertext: Auf dem Geißberg ließ der Herr von Villigen eine Burg bauen. Die Sage erzählt von seiner großen Freude daran.\nDialoge: keine\nKontinuität / Änderung: Vater links vor der fertig gebauten Burg, unten Flüsse und Dörfer, keine zerstörten Mauern.\n\nKACHEL 2: Der Zweck\nOrt und Zeit: Festsaal der Burg\nSichtbare Figuren: Herr von Villigen, Erster Sohn von Villigen, Zweiter Sohn von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei Männer an einem Festtisch, Vater hält einen einzigen gefüllten Humpen. Waffenlose Festgesellschaft klein hinten.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Herr von Villigen\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Hier sollen Freunde und Bedrängte Schutz finden.“\nKontinuität / Änderung: Drei Männer an einem Festtisch, Vater hält einen einzigen gefüllten Humpen. Waffenlose Festgesellschaft klein hinten.\n\nKACHEL 3: Ein anderer Plan\nOrt und Zeit: Gleicher Festsaal\nSichtbare Figuren: Erster Sohn von Villigen, Zweiter Sohn von Villigen, Herr von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erster Sohn weist zum Fenster auf die Verkehrswege, Vater hört zu. Der Humpen bleibt in der rechten Vaterhand.\nErzählertext: Seine Söhne verstanden die neue Macht anders.\nDialoge: keine\nKontinuität / Änderung: Erster Sohn weist zum Fenster auf die Verkehrswege, Vater hört zu. Der Humpen bleibt in der rechten Vaterhand.\n\nKACHEL 4: Zölle und Zwang\nOrt und Zeit: Fenster über den Flüssen\nSichtbare Figuren: Erster Sohn von Villigen, Zweiter Sohn von Villigen, Herr von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Alle drei von seitlich gesehen, der erste Sohn zeigt auf Wege und Fluss. Keine schon ausgeführte Plünderung.\nErzählertext: keiner\nDialog 1:\n  Sprecher: Erster Sohn von Villigen\n  Sprechweise: normal\n  Sichtbarkeit: im Bild\n  Text: „Von hier zwingen wir alle, an uns zu zahlen.“\nKontinuität / Änderung: Alle drei von seitlich gesehen, der erste Sohn zeigt auf Wege und Fluss. Keine schon ausgeführte Plünderung.\n\nKACHEL 5: Die Entscheidung\nOrt und Zeit: Festsaal am Tisch\nSichtbare Figuren: Herr von Villigen, Erster Sohn von Villigen, Zweiter Sohn von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein zerbrochener Humpen mit verschüttetem Getränk auf dem Steinboden. Der Vater mit beiden leeren Händen; kein zweiter Humpen in der Faust.\nErzählertext: Der Vater warf den Humpen zu Boden. Sein Stolz wich dem Entsetzen.\nDialoge: keine\nKontinuität / Änderung: Ein zerbrochener Humpen mit verschüttetem Getränk auf dem Steinboden. Der Vater mit beiden leeren Händen; kein zweiter Humpen in der Faust.\n\nKACHEL 6: Der Befehl\nOrt und Zeit: Burgvorhof\nSichtbare Figuren: Herr von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Vater vor namenlosen Handwerkern und Bewohnern, fertige Burg hinter ihm. Keine kämpfende Menge.\nErzählertext: Er rief die Menschen zusammen und befahl den Abbruch. Sein Werk sollte niemanden unterwerfen.\nDialoge: keine\nKontinuität / Änderung: Vater vor namenlosen Handwerkern und Bewohnern, fertige Burg hinter ihm. Keine kämpfende Menge.\n\nKACHEL 7: Die erste Lücke\nOrt und Zeit: Burgmauer\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Erwachsene Arbeiter lösen Steine von einer niedrigen Mauer und tragen sie ab, niemand unter fallenden Trümmern.\nErzählertext: Er ließ sein eigenes Werk abbrechen. Der Verlust war der Preis seiner Entscheidung.\nDialoge: keine\nKontinuität / Änderung: Erwachsene Arbeiter lösen Steine von einer niedrigen Mauer und tragen sie ab, niemand unter fallenden Trümmern.\n\nKACHEL 8: Stein um Stein\nOrt und Zeit: Burg einige Zeit später\nSichtbare Figuren: Herr von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Niedrige Mauerreste statt hoher Burg, einzelne Arbeiter hinten. Der Vater blickt ruhig in das wieder offene Tal.\nErzählertext: Lieber sollte eine Ruine bleiben als eine Zwingburg über den Dörfern.\nDialoge: keine\nKontinuität / Änderung: Niedrige Mauerreste statt hoher Burg, einzelne Arbeiter hinten. Der Vater blickt ruhig in das wieder offene Tal.\n\nKACHEL 9: Kein Wiederaufbau\nOrt und Zeit: Leerer Burghof\nSichtbare Figuren: Erster Sohn von Villigen, Zweiter Sohn von Villigen\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei erwachsene Söhne vor dem abgetragenen Hof, keine Baupläne oder neue Krone. Ihre Hände leer.\nErzählertext: Auch den Wiederaufbau untersagte er. Die Söhne erhielten kein Machtwerkzeug zurück.\nDialoge: keine\nKontinuität / Änderung: Zwei erwachsene Söhne vor dem abgetragenen Hof, keine Baupläne oder neue Krone. Ihre Hände leer.\n\nKACHEL 10: Besser Stein\nOrt und Zeit: Späterer Blick vom Geißberg\nSichtbare Figuren: keine\nBildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewachsene Mauerreste über den Flüssen, offene Landschaft bis zum Horizont. Keine unzerstörte zweite Burg.\nErzählertext: Besserstein hieß der Ort fortan: Der Vater hatte lieber seinen Besitz verloren als dessen Zweck verraten.\nDialoge: keine\nKontinuität / Änderung: Bewachsene Mauerreste über den Flüssen, offene Landschaft bis zum Horizont. Keine unzerstörte zweite Burg.\n"
+  },
+  "count_policy": "editorial"
+}

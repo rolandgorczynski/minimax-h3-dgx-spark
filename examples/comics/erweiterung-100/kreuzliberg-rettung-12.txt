@@ -1,0 +1,129 @@
+TITEL: Der Kreuzliberg – Zurück aus dem stummen Holz
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Königstochter am Kreuzliberg
+Aussehen: Junge erwachsene Frau, langes kastanienbraunes Haar, kleines silbernes Stirnband.
+Kleidung: Grünes langes Kleid, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Ihr vertrauter Ruheplatz wird zum Ort einer Verwandlung; Gemeinschaftshilfe erlöst sie.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Suchender vom Kreuzliberg
+Aussehen: Erwachsener Mann mit grauem Haar und kurzem Bart.
+Kleidung: Brauner Arbeitsrock, graue Hose, feste Schuhe.
+Persönlichkeit und Vorgeschichte: Findet die Verwandelte und holt Hilfe aus Wettingen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bruder aus Wettingen
+Aussehen: Erwachsener Mann mit kahlem Scheitel und dunklem Bart.
+Kleidung: Schlichte braune Klosterkutte und Sandalen.
+Persönlichkeit und Vorgeschichte: Bringt mit Helfern das verehrte Wunderbild; keine erfundene Zauberformel.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der vertraute Ort
+Ort und Zeit: Bewaldeter Hügel bei Baden
+Sichtbare Figuren: Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine erwachsene Frau sitzt im Schatten, dahinter unverletzter grüner Hang. Noch keine Höhle.
+Erzählertext: Die Königstochter ruhte gern auf diesem Hügel. Sie kannte ihn als friedlichen Ort.
+Dialoge: keine
+Kontinuität / Änderung: Eine erwachsene Frau sitzt im Schatten, dahinter unverletzter grüner Hang. Noch keine Höhle.
+
+KACHEL 2: Der Riss
+Ort und Zeit: Gleicher Hügel an einem späteren Tag
+Sichtbare Figuren: Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau links vor einem neu aufgebrochenen dunklen Gang rechts. Moos und alter Baum erlauben Wiedererkennung.
+Erzählertext: Bei ihrem nächsten Besuch gähnte dort eine Schlucht.
+Dialoge: keine
+Kontinuität / Änderung: Frau links vor einem neu aufgebrochenen dunklen Gang rechts. Moos und alter Baum erlauben Wiedererkennung.
+
+KACHEL 3: Der Schritt hinein
+Ort und Zeit: Eingang zum Gewölbe
+Sichtbare Figuren: Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner Frauenkörper von hinten im Eingang, Licht des Tages hinter ihr; keine zweite Figur auf dem Hügel.
+Erzählertext: Sie ging hinein. Ihr gutes Gewissen schützte sie nicht vor dem Unbekannten.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner Frauenkörper von hinten im Eingang, Licht des Tages hinter ihr; keine zweite Figur auf dem Hügel.
+
+KACHEL 4: Der Keller
+Ort und Zeit: Unterirdische Gewölbe
+Sichtbare Figuren: Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Fassreihen links und rechts, Frau mittig im Gang. Schattenhafte namenlose Gestalten an den Seiten, keine zweite Königstochter.
+Erzählertext: In der Tiefe lagen Fässer über Fässern. Zwischen ihnen bewegten sich fremde Gestalten.
+Dialoge: keine
+Kontinuität / Änderung: Fassreihen links und rechts, Frau mittig im Gang. Schattenhafte namenlose Gestalten an den Seiten, keine zweite Königstochter.
+
+KACHEL 5: Fortgezogen
+Ort und Zeit: Zwischen den Fassreihen
+Sichtbare Figuren: Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei namenlose Schattenwesen halten je ein Handgelenk und ziehen sie in dieselbe Richtung. Ein Körper, zwei menschliche Arme, keine sichtbare Verletzung.
+Erzählertext: Die Gestalten zogen sie weiter hinab. Aus Angst verlor sie das Bewusstsein.
+Dialoge: keine
+Kontinuität / Änderung: Zwei namenlose Schattenwesen halten je ein Handgelenk und ziehen sie in dieselbe Richtung. Ein Körper, zwei menschliche Arme, keine sichtbare Verletzung.
+
+KACHEL 6: Die Suche
+Ort und Zeit: Wald vor der Burg
+Sichtbare Figuren: Suchender vom Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei erwachsene Suchende auf dem Waldweg bei Tageslicht, die Burg fern. Keine allwissende Sicht in den Keller.
+Erzählertext: Als sie in der Burg fehlte, begann die Suche.
+Dialoge: keine
+Kontinuität / Änderung: Drei erwachsene Suchende auf dem Waldweg bei Tageslicht, die Burg fern. Keine allwissende Sicht in den Keller.
+
+KACHEL 7: Die Gefundene
+Ort und Zeit: Kleine Anhöhe neben dem Hügel
+Sichtbare Figuren: Suchender vom Kreuzliberg, Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einziger verwandelter Frauenkörper: Füße als Wurzeln im Boden, harter Stammrumpf, zwei Arme als Äste nach oben, bekanntes Gesicht im oberen Stamm. Keine gesunde Frau daneben.
+Erzählertext: Man fand sie auf einer Anhöhe: verwurzelt und starr, die Arme zu Ästen geworden.
+Dialoge: keine
+Kontinuität / Änderung: Ein einziger verwandelter Frauenkörper: Füße als Wurzeln im Boden, harter Stammrumpf, zwei Arme als Äste nach oben, bekanntes Gesicht im oberen Stamm. Keine gesunde Frau daneben.
+
+KACHEL 8: Hilfe holen
+Ort und Zeit: Rand der Anhöhe
+Sichtbare Figuren: Suchender vom Kreuzliberg, Königstochter am Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Suchender links zeigt zum Weg nach Wettingen, die eine Baumgestalt bleibt rechts hinten am selben Platz.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Suchender vom Kreuzliberg
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Holt das Wunderbild aus Wettingen!“
+Kontinuität / Änderung: Suchender links zeigt zum Weg nach Wettingen, die eine Baumgestalt bleibt rechts hinten am selben Platz.
+
+KACHEL 9: Das Bild kommt
+Ort und Zeit: Weg zur Anhöhe
+Sichtbare Figuren: Bruder aus Wettingen
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Bruder trägt eine einzige gerahmte Andachtstafel mit beiden Händen, zwei unbenannte Helfer daneben. Kein brennendes Zaubergerät.
+Erzählertext: Aus dem Kloster brachten sie ein verehrtes Bild herbei.
+Dialoge: keine
+Kontinuität / Änderung: Ein Bruder trägt eine einzige gerahmte Andachtstafel mit beiden Händen, zwei unbenannte Helfer daneben. Kein brennendes Zaubergerät.
+
+KACHEL 10: Vor der Verwandelten
+Ort und Zeit: Gleiche Anhöhe
+Sichtbare Figuren: Bruder aus Wettingen, Königstochter am Kreuzliberg, Suchender vom Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Die Tafel links auf Brusthöhe; rechts dieselbe verwurzelte Frau. Noch keine gleichzeitige Rückverwandlung in mehrere Körper.
+Erzählertext: Die Sage verbindet die Befreiung mit diesem Bild und der herbeigebrachten Hilfe.
+Dialoge: keine
+Kontinuität / Änderung: Die Tafel links auf Brusthöhe; rechts dieselbe verwurzelte Frau. Noch keine gleichzeitige Rückverwandlung in mehrere Körper.
+
+KACHEL 11: Wieder Mensch
+Ort und Zeit: Gleiche Anhöhe nach der Lösung
+Sichtbare Figuren: Königstochter am Kreuzliberg, Suchender vom Kreuzliberg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine einzige erwachsene Frau wieder im grünen Kleid, zwei normale Arme, beide Schuhe sichtbar. Kein Baum mit ihrem Gesicht zurückgelassen.
+Erzählertext: Der Zauber wich. Sie war wieder frei.
+Dialoge: keine
+Kontinuität / Änderung: Eine einzige erwachsene Frau wieder im grünen Kleid, zwei normale Arme, beide Schuhe sichtbar. Kein Baum mit ihrem Gesicht zurückgelassen.
+
+KACHEL 12: Der Erinnerungsort
+Ort und Zeit: Hügel einige Zeit später
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einfaches Holzkreuz auf der Anhöhe, der einst offene Hügel wieder geschlossen. Keine Königstochter im Kreuz.
+Erzählertext: Ein Kreuz erinnerte an die Rettung. Der verschlossene Geisterhügel hieß fortan Teufelskeller.
+Dialoge: keine
+Kontinuität / Änderung: Ein einfaches Holzkreuz auf der Anhöhe, der einst offene Hügel wieder geschlossen. Keine Königstochter im Kreuz.

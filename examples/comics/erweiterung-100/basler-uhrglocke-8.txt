@@ -1,0 +1,86 @@
+TITEL: Die Basler Uhrglocke – Eine Stunde voraus
+AUTOR: Sysop
+KACHELANZAHL: 8
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Ratsherr der Basler Uhrsage
+Aussehen: Älterer erwachsener Mann mit grauem Kinnbart.
+Kleidung: Dunkelgrüner langer Rock und schwarze Kappe.
+Persönlichkeit und Vorgeschichte: Vertreter der Stadt in den zwei ausdrücklich getrennten Erklärungsvarianten.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Verschwörer der zweiten Uhrsage
+Aussehen: Erwachsener Mann mit schmalem Gesicht, braunem kurzen Haar.
+Kleidung: Dunkelbrauner Mantel, graue Hose; keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Gehört nur zur zweiten Überlieferung, nicht zum Konzilsbogen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die abweichende Stunde
+Ort und Zeit: Basler Stadtturm
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein einzelner historischer Uhrturm mit großem schlichtem Zifferblatt, Dächer und Straße darunter. Keine Ziffernfolge als Comictext.
+Erzählertext: Basels Uhrglocke soll früher eine Stunde vorausgeschlagen haben. Dafür erzählte man verschiedene Gründe.
+Dialoge: keine
+Kontinuität / Änderung: Ein einzelner historischer Uhrturm mit großem schlichtem Zifferblatt, Dächer und Straße darunter. Keine Ziffernfolge als Comictext.
+
+KACHEL 2: Erste Überlieferung
+Ort und Zeit: Versammlungssaal
+Sichtbare Figuren: Ratsherr der Basler Uhrsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ratsherr bei unbenannten erwachsenen Versammlungsteilnehmern, Papierstapel und Kerzen. Kein nächtlicher Überfall.
+Erzählertext: Die erste Sage führt zum langen Konzil: Die Beratung schien nicht enden zu wollen.
+Dialoge: keine
+Kontinuität / Änderung: Ratsherr bei unbenannten erwachsenen Versammlungsteilnehmern, Papierstapel und Kerzen. Kein nächtlicher Überfall.
+
+KACHEL 3: Die Uhr beschleunigen
+Ort und Zeit: Turmraum der ersten Überlieferung
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Namenloser erwachsener Uhrwärter stellt an einem großen Uhrwerk, nur ein zusammenhängender Raum. Keine Montage alter und neuer Zeiger.
+Erzählertext: Man stellte die Uhr eine Stunde vor. Die Verhandlungen kamen dadurch nicht schneller voran.
+Dialoge: keine
+Kontinuität / Änderung: Namenloser erwachsener Uhrwärter stellt an einem großen Uhrwerk, nur ein zusammenhängender Raum. Keine Montage alter und neuer Zeiger.
+
+KACHEL 4: Noch immer am Tisch
+Ort und Zeit: Gleicher Versammlungssaal
+Sichtbare Figuren: Ratsherr der Basler Uhrsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unveränderte Versammlung, heruntergebrannte Kerzen, Ratsherr an derselben Tischkante. Kein Sieger mit fertig erklärter Lösung.
+Erzählertext: Das Zeichen lief voraus; die Sache blieb liegen. So endet diese Erklärung.
+Dialoge: keine
+Kontinuität / Änderung: Unveränderte Versammlung, heruntergebrannte Kerzen, Ratsherr an derselben Tischkante. Kein Sieger mit fertig erklärter Lösung.
+
+KACHEL 5: Andere Überlieferung
+Ort und Zeit: Nächtliche Gasse, eigenständige zweite Sage
+Sichtbare Figuren: Verschwörer der zweiten Uhrsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Drei erwachsene Männer in einer dunklen Gasse vor dem Ratshaus, keine Konzilsversammlung im Hintergrund.
+Erzählertext: Eine andere Sage erzählt stattdessen von einem Anschlag: Zur zwölften Stunde sollte der Rat überfallen werden.
+Dialoge: keine
+Kontinuität / Änderung: Drei erwachsene Männer in einer dunklen Gasse vor dem Ratshaus, keine Konzilsversammlung im Hintergrund.
+
+KACHEL 6: Ein unerwarteter Schlag
+Ort und Zeit: Gasse unter dem Glockenturm
+Sichtbare Figuren: Verschwörer der zweiten Uhrsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Der Verschwörer blickt erschrocken zum Turm; die Glocke schwingt allein im hohen offenen Bogen. Keine ausgeschriebenen Klangzeichen.
+Erzählertext: Doch die Glocken schlugen unerwartet eins. Die Gruppe geriet in Schrecken; der Anschlag scheiterte.
+Dialoge: keine
+Kontinuität / Änderung: Der Verschwörer blickt erschrocken zum Turm; die Glocke schwingt allein im hohen offenen Bogen. Keine ausgeschriebenen Klangzeichen.
+
+KACHEL 7: Die Entscheidung des Rates
+Ort und Zeit: Ratssaal der zweiten Sage
+Sichtbare Figuren: Ratsherr der Basler Uhrsage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ratsherr vor schweigenden Erwachsenen, geschlossene Tür. Keine Hinrichtung im Bild.
+Erzählertext: Die Verschwörer wurden laut Sage getötet. Der Rat ließ die Uhr fortan vorgehen, um an die Rettung zu erinnern.
+Dialoge: keine
+Kontinuität / Änderung: Ratsherr vor schweigenden Erwachsenen, geschlossene Tür. Keine Hinrichtung im Bild.
+
+KACHEL 8: Zwei Erklärungen
+Ort und Zeit: Stadtturm im Morgenlicht
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ruhige Totale desselben Basler Turms über den Häusern. Keine beide Geschichten verbindende Kampfszene.
+Erzählertext: Zwei verschiedene Sagen erklären dasselbe Zeichen. Keine beweist, wie es tatsächlich entstanden ist.
+Dialoge: keine
+Kontinuität / Änderung: Ruhige Totale desselben Basler Turms über den Häusern. Keine beide Geschichten verbindende Kampfszene.

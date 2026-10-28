@@ -1,0 +1,133 @@
+TITEL: Herzog Bernhard – Ein Eid im Zorn
+AUTOR: Sysop
+KACHELANZAHL: 12
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Herzog Bernhard in der Neuenburger Sage
+Aussehen: Erwachsener Mann mit schulterlangem dunklem Haar und schmalem Schnurrbart.
+Kleidung: Dunkelblauer Rock, heller Spitzenkragen, hohe braune Stiefel; keine sichtbare Waffe.
+Persönlichkeit und Vorgeschichte: Droht im Zorn und begrenzt nach der Übergabe die Gewalt gegen die Menschen.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Offizier vor Neuenburg
+Aussehen: Erwachsener breiter Mann, kurzer brauner Bart.
+Kleidung: Grauer Soldatenrock, dunkler Hut, Stiefel; keine gezogene Waffe.
+Persönlichkeit und Vorgeschichte: Verdichteter Ansprechpartner der Truppen; muss den Befehl zum Verschonen weitergeben.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Bewohnerin von Neuenburg
+Aussehen: Erwachsene Frau mit graubraunem Haar unter heller Haube.
+Kleidung: Braunes Kleid, graues Tuch, feste Schuhe.
+Persönlichkeit und Vorgeschichte: Verdichtete Vertreterin der bedrohten Bürgerschaft; keine erfundene Angehörigengeschichte.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Die langen Wochen
+Ort und Zeit: Lager vor Neuenburg
+Sichtbare Figuren: Herzog Bernhard in der Neuenburger Sage, Offizier vor Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herzog und Offizier vor dem Lager, geschlossene Stadtmauer fern. Keine brennenden Häuser.
+Erzählertext: Im Dreißigjährigen Krieg belagerte Bernhard Neuenburg. Die Sage erzählt vom wachsenden Zorn des Herzogs.
+Dialoge: keine
+Kontinuität / Änderung: Herzog und Offizier vor dem Lager, geschlossene Stadtmauer fern. Keine brennenden Häuser.
+
+KACHEL 2: Das geschlossene Tor
+Ort und Zeit: Stadtmauer
+Sichtbare Figuren: Herzog Bernhard in der Neuenburger Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Der Herzog von hinten vor dem fernen verschlossenen Tor, geballte Hand am Körper; kein Angriff im selben Bild.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Herzog Bernhard in der Neuenburger Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Wenn ich hineinkomme, überlebt weder Hund noch Katze!“
+Kontinuität / Änderung: Der Herzog von hinten vor dem fernen verschlossenen Tor, geballte Hand am Körper; kein Angriff im selben Bild.
+
+KACHEL 3: Der Eid
+Ort und Zeit: Vor dem Lagerzelt
+Sichtbare Figuren: Herzog Bernhard in der Neuenburger Sage, Offizier vor Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herzog links mit erhobener Hand, Offizier rechts. Keine symbolischen Hundeleichen im Hintergrund.
+Erzählertext: Im Zorn schwor er: Weder Hund noch Katze sollte nach seinem Einzug überleben.
+Dialoge: keine
+Kontinuität / Änderung: Herzog links mit erhobener Hand, Offizier rechts. Keine symbolischen Hundeleichen im Hintergrund.
+
+KACHEL 4: Am Ende der Kräfte
+Ort und Zeit: Innerhalb der Stadt
+Sichtbare Figuren: Bewohnerin von Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Unbewaffnete Bewohner bei leeren Vorratskörben, Tor noch geschlossen. Keine triumphierenden Angreifer unter ihnen.
+Erzählertext: Die Bewohner konnten die Belagerung schließlich nicht länger aushalten.
+Dialoge: keine
+Kontinuität / Änderung: Unbewaffnete Bewohner bei leeren Vorratskörben, Tor noch geschlossen. Keine triumphierenden Angreifer unter ihnen.
+
+KACHEL 5: Die Übergabe
+Ort und Zeit: Geöffnetes Stadttor
+Sichtbare Figuren: Bewohnerin von Neuenburg, Offizier vor Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Das eine Stadttor offen, Bewohnerin mit leeren Händen links innen, Offizier rechts vor seinen Truppen.
+Erzählertext: Neuenburg ergab sich. Die Truppen standen vor einer wehrlosen Stadt.
+Dialoge: keine
+Kontinuität / Änderung: Das eine Stadttor offen, Bewohnerin mit leeren Händen links innen, Offizier rechts vor seinen Truppen.
+
+KACHEL 6: Vor der Gewalt
+Ort und Zeit: Torpassage
+Sichtbare Figuren: Offizier vor Neuenburg, Bewohnerin von Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Soldaten als namenlose Erwachsene hinten, Offizier mittig, zurückweichende Bewohner links. Noch kein Angriff oder gezogener Degen.
+Erzählertext: Die Soldaten wollten töten. Jetzt drohte der zornige Eid zur Rechtfertigung dafür zu werden.
+Dialoge: keine
+Kontinuität / Änderung: Soldaten als namenlose Erwachsene hinten, Offizier mittig, zurückweichende Bewohner links. Noch kein Angriff oder gezogener Degen.
+
+KACHEL 7: Das Innehalten
+Ort und Zeit: Platz hinter dem Tor
+Sichtbare Figuren: Herzog Bernhard in der Neuenburger Sage, Bewohnerin von Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herzog rechts blickt auf die erschöpfte erwachsene Frau links. Beide auf derselben Bodenhöhe, keine flehenden Kinder als neue Figuren.
+Erzählertext: Der Herzog sah die Menschen vor sich. Sein Schwur gereute ihn.
+Dialoge: keine
+Kontinuität / Änderung: Herzog rechts blickt auf die erschöpfte erwachsene Frau links. Beide auf derselben Bodenhöhe, keine flehenden Kinder als neue Figuren.
+
+KACHEL 8: Die Grenze des Befehls
+Ort und Zeit: Gleicher Platz
+Sichtbare Figuren: Herzog Bernhard in der Neuenburger Sage, Offizier vor Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Offene Herzogshand stoppt die Truppen im Hintergrund. Offizier schaut zu ihm, keine triumphale Pose.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Herzog Bernhard in der Neuenburger Sage
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Die Menschen werden verschont. Gebt das weiter!“
+Kontinuität / Änderung: Offene Herzogshand stoppt die Truppen im Hintergrund. Offizier schaut zu ihm, keine triumphale Pose.
+
+KACHEL 9: Die enge Auslegung
+Ort und Zeit: Vor einem geschlossenen Hoftor
+Sichtbare Figuren: Herzog Bernhard in der Neuenburger Sage
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Herzog neben einem geschlossenen Tor, keine Tiere oder Verletzungen im Bild. Die Straße bleibt menschenleer.
+Erzählertext: Er beschränkte den Eid auf Hunde und Katzen. Die Sage berichtet vom Tod der Tiere – kein unschuldiger Preis für ein gerettetes Wort.
+Dialoge: keine
+Kontinuität / Änderung: Herzog neben einem geschlossenen Tor, keine Tiere oder Verletzungen im Bild. Die Straße bleibt menschenleer.
+
+KACHEL 10: Weiterleben
+Ort und Zeit: Neuenburger Straße
+Sichtbare Figuren: Bewohnerin von Neuenburg, Offizier vor Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Bewohnerin links vor unbeschädigtem Haus, Offizier rechts hinten bei abziehenden Soldaten. Keine Feier über das Tiersterben.
+Erzählertext: Die Menschen überlebten. Die Rettung rechtfertigte nicht alles, was der Eid angerichtet hatte.
+Dialoge: keine
+Kontinuität / Änderung: Bewohnerin links vor unbeschädigtem Haus, Offizier rechts hinten bei abziehenden Soldaten. Keine Feier über das Tiersterben.
+
+KACHEL 11: Ein Jahr später
+Ort und Zeit: Stiller Raum in Neuenburg
+Sichtbare Figuren: keine
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leerer Stuhl neben dunklem Fenster, keine Giftschale, kein Täter und keine bestätigte Vergiftungsszene.
+Erzählertext: Ein Jahr später starb Bernhard in Neuenburg. Von Gift wurde erzählt; diese Sage ist kein Beweis dafür.
+Dialoge: keine
+Kontinuität / Änderung: Leerer Stuhl neben dunklem Fenster, keine Giftschale, kein Täter und keine bestätigte Vergiftungsszene.
+
+KACHEL 12: Das überlieferte Wort
+Ort und Zeit: Neuenburger Tor im Tageslicht
+Sichtbare Figuren: Bewohnerin von Neuenburg
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Dieselbe Frau geht als lebende Erwachsene durch das offene Tor. Kein wiederkehrender Herzog und keine Siegerkrone.
+Erzählertext: Er konnte seinen Zorn nicht ungeschehen machen. Aber er entschied, dass sein Wort kein Freibrief zum Töten der Menschen sein durfte.
+Dialoge: keine
+Kontinuität / Änderung: Dieselbe Frau geht als lebende Erwachsene durch das offene Tor. Kein wiederkehrender Herzog und keine Siegerkrone.

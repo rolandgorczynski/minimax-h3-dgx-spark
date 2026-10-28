@@ -1,10 +1,10 @@
 # Skriptvorarbeit und weitere Aufgaben
 
-Stand: 26. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihenfolge.
+Stand: 28. Oktober 2026. Arbeitsauftrag aus `todo.txt`, in der angegebenen Reihenfolge.
 
 ## 1. Redaktionelle Skripte
 
-**90 von 382 Einträgen fertig.** Alle sind unter **2 · Comic erzeugen** auswählbar und unter **1 · Skript erstellen** bearbeitbar. Bildstil offen, keine Bilder erzeugt. Alle zuvor vorhandenen Geschichten und Aufträge bleiben unverändert.
+**101 von 382 Einträgen fertig.** Aktuell stehen 100 Geschichten zur Auswahl: die 89 Bildregie-Fassungen plus [elf neue Skripte](../examples/comics/erweiterung-100/README.md). Das Schneiderlein bleibt eine separate Referenz. Es wurden für diese Erweiterung keine Bilder erzeugt.
 
 - Der kleine Prinz: 12 Kacheln.
 - Die Bremer Stadtmusikanten: 10 Kacheln.
@@ -101,9 +101,9 @@ Die vollständige Auftragsliste ist unter `/home/jee/docker-data/comic-sinnanaly
 
 Die Skripte werden von Codex geschrieben und redaktionell geprüft. Der Import erzeugt weder Skripte mit lokalen Modellen noch Bilder. Bestehende Bearbeitungen bleiben erhalten; neue Skripte werden separat abgelegt. Ergebnisse und Importanleitung: [Skriptproben](../examples/comics/skriptproben/README.md).
 
-Die übrigen 292 Skripte sind noch offen. Ein Benutzer-Cron prüft jetzt jede Minute, ob diese Codex-Unterhaltung frei ist, und kann höchstens einen Folgeauftrag für vier Skripte einreihen. Die Einrichtung hat keinen sofortigen Arbeitslauf gestartet. Einrichtung, Protokolle und Pause: [Skript-Cron](Comic_Skript_Cron.md).
+Die übrigen 281 Skripte sind noch offen. Der Skript-Cron bleibt auf Nutzerwunsch pausiert; die elf neuen Geschichten wurden durch den manuellen Auftrag vom 28. Oktober 2026 erstellt. Der folgende Absatz beschreibt die frühere Cron-Einrichtung: Ein Benutzer-Cron prüft jetzt jede Minute, ob diese Codex-Unterhaltung frei ist, und kann höchstens einen Folgeauftrag für vier Skripte einreihen. Die Einrichtung hat keinen sofortigen Arbeitslauf gestartet. Einrichtung, Protokolle und Pause: [Skript-Cron](Comic_Skript_Cron.md).
 
-Prüfung des aktuellen Stands: Der Fertig-Filter zeigt 90 Quellen. Die vier zuletzt ergänzten Skripte wurden im Browser unter Schritt 2 ausgewählt; Stil bleibt offen und alle Szenen sind erreichbar. Sie bestehen die Beschriftungsprüfung ohne Warnungen. Die zuvor fertigen Skripte und die Seitennavigation längerer Skripte waren bereits in den vorherigen Arbeitsrunden im Browser geprüft worden. Bestehende Geschichten und Renderaufträge wurden mit dem Stand vor dieser Arbeitsrunde verglichen und blieben unverändert.
+Prüfung vor der Erweiterung auf 100: Der Fertig-Filter zeigte damals 90 Quellen. Die vier zuletzt ergänzten Skripte wurden im Browser unter Schritt 2 ausgewählt; Stil bleibt offen und alle Szenen sind erreichbar. Sie bestehen die Beschriftungsprüfung ohne Warnungen. Die zuvor fertigen Skripte und die Seitennavigation längerer Skripte waren bereits in den vorherigen Arbeitsrunden im Browser geprüft worden. Bestehende Geschichten und Renderaufträge wurden mit dem Stand vor dieser Arbeitsrunde verglichen und blieben unverändert.
 
 ## Danach, noch offen
 
@@ -130,3 +130,7 @@ Diese Varianten ändern den Stand **90 von 382** der allgemeinen Skriptvorarbeit
 Alle 90 vorhandenen redaktionellen Basisskripte haben jetzt eine zusätzliche, getrennt importierte Erzählerfassung. Die ersten zehn bleiben Vergleichsfassungen mit Erzählertext in jeder zweiten Kachel; die weiteren 80 verwenden jede dritte Kachel und zusätzliche Übergänge bei Bedarf. Kacheln ohne gesprochenen Dialog enthalten ausschließlich Erzählertext. Erzähler und Dialog werden innerhalb einer Kachel nicht vermischt. Figuren, Kontinuitätszustände, Kachelzahl und Originalfassungen bleiben erhalten. Keine Bilder erzeugt.
 
 Diese Varianten erhöhen nicht den Fortschritt des weiterhin pausierten 382er-Auftrags. [Übersicht, Lesefassungen und Prüfberichte](../examples/comics/erzaehlerfassungen/README.md).
+
+## Erweiterung am 28. Oktober 2026
+
+Elf weitere Sagen mit zusammen 122 Kacheln sind als neue Geschichten importiert, technisch ohne Beschriftungswarnungen geprüft und mit präziser Bildregie vorbereitet. Die bestehenden Geschichten bleiben unverändert. [Alle elf Titel, Skripte und Prüfberichte](../examples/comics/erweiterung-100/README.md). Die zusätzliche Auswahl ist unabhängig vom pausierten Cron.

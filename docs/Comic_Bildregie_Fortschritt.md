@@ -1,5 +1,7 @@
 # Fortschritt der Bildregie
 
+**Aktuelle Auswahl: 100 Geschichten.** Die 89 unten dokumentierten Fassungen wurden am 28. Oktober um [elf weitere vollständige Skripte samt Bildregie](../examples/comics/erweiterung-100/README.md) ergänzt.
+
 **89 / 89 weitere Geschichten fertig.** Das Schneiderlein bleibt die separat geprüfte Referenz.
 
 Umfang: 1110 Kacheln. Vor jeder Änderung liegt ein privater Snapshot vor.
@@ -12,7 +14,7 @@ Lokaler Status und private Vorher-/Nachher-Snapshots: `/home/jee/docker-data/com
 
 ## Auswahl im Studio
 
-In Schritt 1, Schritt 2 und im Vorlagenkatalog sind zunächst diese 89 Geschichten sichtbar. Weitere vorhandene Geschichten und Vorlagen bleiben gespeichert und sind für später ausgeblendet. Eine ausdrücklich neu angelegte Geschichte wird der Auswahl hinzugefügt. Die letzte geöffnete Geschichte und vorhandene Ausgaben bleiben zugänglich.
+Die erste Begrenzung zeigte in Schritt 1, Schritt 2 und im Vorlagenkatalog diese 89 Geschichten; aktuell sind es mit der oben verlinkten Erweiterung 100. Weitere vorhandene Geschichten und Vorlagen bleiben gespeichert und sind für später ausgeblendet. Eine ausdrücklich neu angelegte Geschichte wird der Auswahl hinzugefügt. Die letzte geöffnete Geschichte und vorhandene Ausgaben bleiben zugänglich.
 
 Die Auswahl wird lokal unter `story-selection-ids` gespeichert, die zurückgestellten Vorlagen unter `source-catalog-deferred`. Die vorherigen Einstellungen liegen im privaten Snapshot `auswahl-einstellungen-vorher.json`; beim späteren Erweitern wird die Auswahl geändert, nicht der Datenbestand gelöscht.
 

@@ -1,0 +1,156 @@
+TITEL: Die Schlangenjungfrau – Der dritte Kuss
+AUTOR: Sysop
+KACHELANZAHL: 14
+BILDSTIL: Noch offen – Auswahl bei Comic-Erzeugung
+STIMMUNG UND FARBWELT: Einzelmomente, klare Raumachsen und präzise Zustandswechsel.
+ERZÄHLER: Neutraler Erzähler, nur in Erzählerkästen.
+
+FIGUREN
+
+Name: Leonhard im Heidenloch
+Aussehen: Junger erwachsener Mann, kurzes hellbraunes Haar, schmale Schultern, braune Augen.
+Kleidung: Graues Schneiderwams, dunkle Hose, braune Schuhe.
+Persönlichkeit und Vorgeschichte: Ein neugieriger erwachsener Schneider; seine Grenzen und seine spätere Sehnsucht sind der Kern, keine abwertende Karikatur.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Schlangenjungfrau im Heidenloch
+Aussehen: Erwachsene Frau mit langem dunklem Haar und kleiner goldener Krone. Oberkörper menschlich, ab der Taille ein einziger langer grüner Schlangenschweif; keine menschlichen Beine.
+Kleidung: Hochgeschlossenes cremefarbenes Obergewand, kleine Krone, Schlüsselbund an einer Halskordel.
+Persönlichkeit und Vorgeschichte: Verwunschene Königstochter, hofft auf Erlösung durch drei Küsse; bleibt am Ende unerlöst.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Linker schwarzer Schatzhund
+Aussehen: Großer schwarzer Hund mit schmalem Kopf und vier Beinen.
+Kleidung: Schwarzes Fell, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Bewacht links die eiserne Truhe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+Name: Rechter schwarzer Schatzhund
+Aussehen: Großer schwarzer Hund mit breitem Kopf und vier Beinen.
+Kleidung: Schwarzes Fell, keine Kleidung.
+Persönlichkeit und Vorgeschichte: Bewacht rechts dieselbe eiserne Truhe.
+Gesinnung: Nicht festgelegt.
+Kontinuität: Identität, Gesicht und Grundkleidung bleiben gleich, sofern die Kachel keine Änderung nennt.
+
+KACHEL 1: Der Eingang
+Ort und Zeit: Gewölbegang bei Augst
+Sichtbare Figuren: Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leonhard am alten gemauerten Zugang, eine einzige brennende Wachskerze rechts in einem kleinen Halter.
+Erzählertext: Der erwachsene Schneider Leonhard wollte wissen, wohin das Heidenloch führte. Er nahm eine geweihte Kerze mit.
+Dialoge: keine
+Kontinuität / Änderung: Leonhard am alten gemauerten Zugang, eine einzige brennende Wachskerze rechts in einem kleinen Halter.
+
+KACHEL 2: Die Pforte
+Ort und Zeit: Unterirdischer Gang
+Sichtbare Figuren: Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein Mann mit Kerze in der rechten Hand vor einer einzelnen geöffneten eisernen Pforte. Dahinter weitere Gewölbe.
+Erzählertext: Die eiserne Pforte öffnete sich. Der Weg führte weiter, als er erwartet hatte.
+Dialoge: keine
+Kontinuität / Änderung: Ein Mann mit Kerze in der rechten Hand vor einer einzelnen geöffneten eisernen Pforte. Dahinter weitere Gewölbe.
+
+KACHEL 3: Der menschenleere Garten
+Ort und Zeit: Unterirdischer Garten vor einem Palast
+Sichtbare Figuren: Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leonhard links mit der Kerze, Bäume und Blumen um einen menschenleeren Palast. Kein zweiter Mann im Fenster.
+Erzählertext: Hinter den Gewölben lag ein stiller Garten. Die Tür des Palasts stand offen.
+Dialoge: keine
+Kontinuität / Änderung: Leonhard links mit der Kerze, Bäume und Blumen um einen menschenleeren Palast. Kein zweiter Mann im Fenster.
+
+KACHEL 4: Die Begegnung
+Ort und Zeit: Saal des Palasts
+Sichtbare Figuren: Leonhard im Heidenloch, Schlangenjungfrau im Heidenloch, Linker schwarzer Schatzhund, Rechter schwarzer Schatzhund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Frau rechts mit menschlichem bekleidetem Oberkörper und einem einzigen Schlangenschweif statt Beinen. Hinten eine eiserne Truhe mit genau zwei schwarzen Hunden.
+Erzählertext: Im Saal wartete eine Königstochter: halb Mensch, halb Schlange.
+Dialoge: keine
+Kontinuität / Änderung: Frau rechts mit menschlichem bekleidetem Oberkörper und einem einzigen Schlangenschweif statt Beinen. Hinten eine eiserne Truhe mit genau zwei schwarzen Hunden.
+
+KACHEL 5: Die Möglichkeit
+Ort und Zeit: Gleicher Saal
+Sichtbare Figuren: Schlangenjungfrau im Heidenloch, Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zwei Erwachsene gegenüber, Schlüsselbund in ihrer linken Hand, Kordel am Hals nun ohne Bund.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Schlangenjungfrau im Heidenloch
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Drei Küsse könnten mich erlösen.“
+Kontinuität / Änderung: Zwei Erwachsene gegenüber, Schlüsselbund in ihrer linken Hand, Kordel am Hals nun ohne Bund.
+
+KACHEL 6: Der Schatz
+Ort und Zeit: Vor der eisernen Truhe
+Sichtbare Figuren: Schlangenjungfrau im Heidenloch, Leonhard im Heidenloch, Linker schwarzer Schatzhund, Rechter schwarzer Schatzhund
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine offene Truhe mit Münzen und Schmuck, Hunde ruhig am Boden, Königstochter mit Schlüssel in linker Hand.
+Erzählertext: Sie beruhigte die Hunde und öffnete die Truhe. Auch ihr Schatz sollte dem Befreier gehören.
+Dialoge: keine
+Kontinuität / Änderung: Eine offene Truhe mit Münzen und Schmuck, Hunde ruhig am Boden, Königstochter mit Schlüssel in linker Hand.
+
+KACHEL 7: Das Geschenk
+Ort und Zeit: Neben der Truhe
+Sichtbare Figuren: Leonhard im Heidenloch, Schlangenjungfrau im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Eine kleine Münzgruppe allein auf Leonhards linker Handfläche. Kerze rechts, keine dritte Hand am Schlüsselbund.
+Erzählertext: Sie gab ihm einige Münzen. Doch die Erlösung brauchte eine Nähe, die er noch nie gewagt hatte.
+Dialoge: keine
+Kontinuität / Änderung: Eine kleine Münzgruppe allein auf Leonhards linker Handfläche. Kerze rechts, keine dritte Hand am Schlüsselbund.
+
+KACHEL 8: Der erste Kuss
+Ort und Zeit: Gleicher Saal
+Sichtbare Figuren: Leonhard im Heidenloch, Schlangenjungfrau im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zurückhaltender kurzer Kuss zweier bekleideter Erwachsener. Kerze steht sicher auf einem steinernen Tisch daneben, seine Hände frei; keine Zungen oder Entblößung. Die geschenkten Münzen sind zuvor im geschlossenen Wams verstaut worden. Ihr Schlüsselbund hängt zuvor wieder an der Kordel am Hals; ihre Hände halten keinen Schlüssel mehr.
+Erzählertext: Beim ersten Kuss schöpfte sie Hoffnung. Ihre Gestalt blieb noch unverändert.
+Dialoge: keine
+Kontinuität / Änderung: Zurückhaltender kurzer Kuss zweier bekleideter Erwachsener. Kerze steht sicher auf einem steinernen Tisch daneben, seine Hände frei; keine Zungen oder Entblößung. Die geschenkten Münzen sind zuvor im geschlossenen Wams verstaut worden. Ihr Schlüsselbund hängt zuvor wieder an der Kordel am Hals; ihre Hände halten keinen Schlüssel mehr.
+
+KACHEL 9: Der zweite Kuss
+Ort und Zeit: Gleicher Saal
+Sichtbare Figuren: Leonhard im Heidenloch, Schlangenjungfrau im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Zweiter kurzer Kuss, ihr einer Schweif liegt als lockere Windung um seine Beine. Zwei Arme der Frau, keine zusätzlichen Menschbeine. Kerze auf demselben Tisch.
+Erzählertext: Beim zweiten Kuss hielt sie ihn eng und biss ihn in die Lippe. Leonhard erschrak vor der heftigen Nähe.
+Dialoge: keine
+Kontinuität / Änderung: Zweiter kurzer Kuss, ihr einer Schweif liegt als lockere Windung um seine Beine. Zwei Arme der Frau, keine zusätzlichen Menschbeine. Kerze auf demselben Tisch.
+
+KACHEL 10: Die Grenze
+Ort und Zeit: Zwischen Tisch und Ausgang
+Sichtbare Figuren: Leonhard im Heidenloch, Schlangenjungfrau im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leonhard einen Schritt zurück mit beiden leeren Händen vor der Brust. Die eine Schweifwindung öffnet sich, kein dritter Kuss.
+Erzählertext: keiner
+Dialog 1:
+  Sprecher: Leonhard im Heidenloch
+  Sprechweise: normal
+  Sichtbarkeit: im Bild
+  Text: „Lass mich los!“
+Kontinuität / Änderung: Leonhard einen Schritt zurück mit beiden leeren Händen vor der Brust. Die eine Schweifwindung öffnet sich, kein dritter Kuss.
+
+KACHEL 11: Die Flucht
+Ort und Zeit: Palasttür zum Garten
+Sichtbare Figuren: Leonhard im Heidenloch, Schlangenjungfrau im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leonhard rechts im Ausgang, die wieder aufgenommene Kerze in seiner rechten Hand. Frau links allein, Truhe hinten offen.
+Erzählertext: Er nahm die Kerze und floh. Ihr Klagen folgte ihm durch den Gang.
+Dialoge: keine
+Kontinuität / Änderung: Leonhard rechts im Ausgang, die wieder aufgenommene Kerze in seiner rechten Hand. Frau links allein, Truhe hinten offen.
+
+KACHEL 12: Wieder draußen
+Ort und Zeit: Eingang bei Augst
+Sichtbare Figuren: Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Ein erwachsener Mann allein am Ausgang, Kerze noch in seiner rechten Hand. Keine gerettete Frau hinter ihm.
+Erzählertext: Er kam ins Freie. Die Erlösung war nach zwei Küssen abgebrochen.
+Dialoge: keine
+Kontinuität / Änderung: Ein erwachsener Mann allein am Ausgang, Kerze noch in seiner rechten Hand. Keine gerettete Frau hinter ihm.
+
+KACHEL 13: Die spätere Sehnsucht
+Ort und Zeit: Straße bei Augst, später
+Sichtbare Figuren: Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leonhard allein am Rand einer gewöhnlichen Straße, keine fremden Frauen als Erinnerungsserie und keine Kerze in der Hand.
+Erzählertext: Später suchte er Nähe bei anderen. Doch die Erinnerung zog ihn immer wieder zur Verwunschenen.
+Dialoge: keine
+Kontinuität / Änderung: Leonhard allein am Rand einer gewöhnlichen Straße, keine fremden Frauen als Erinnerungsserie und keine Kerze in der Hand.
+
+KACHEL 14: Kein Weg zurück
+Ort und Zeit: Felswand am früheren Suchort
+Sichtbare Figuren: Leonhard im Heidenloch
+Bildbeschreibung: Eine einzige zusammenhängende Illustration im gewählten Bildstil bis an alle Bildränder. Jede genannte Figur genau einmal; keine gezeichneten Texte, Kästen oder Sprechblasen. Leonhard allein vor unzugänglichem Fels, kein geöffneter Durchgang und kein sichtbarer Palast dahinter.
+Erzählertext: Den Zugang fand er nie wieder. Seine spätere Sehnsucht konnte die verlorene Möglichkeit nicht zurückholen.
+Dialoge: keine
+Kontinuität / Änderung: Leonhard allein vor unzugänglichem Fels, kein geöffneter Durchgang und kein sichtbarer Palast dahinter.
