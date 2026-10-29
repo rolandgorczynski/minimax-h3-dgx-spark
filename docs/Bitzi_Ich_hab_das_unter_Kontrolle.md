@@ -8,7 +8,8 @@ Ein 60-Sekunden-IT-Comedy-Clip im Hochformat 9:16 (720×1280). Sechs MiniMax-H3-
 - `examples/input/bitzi_monitoring_comedy_scene2.png` bis `scene6.png`: konsistente Szenen-Keyframes.
 - `scripts/submit_bitzi_monitoring_comedy.py`: einzelne Szene an ComfyUI senden; Szenen 1 bis 6.
 - `scripts/run_bitzi_monitoring_comedy.py`: sechs Szenen nacheinander rendern und den Film zusammensetzen.
-- `scripts/assemble_bitzi_monitoring_comedy.py`: sechs fertige H3-Ausgaben verbinden, Ton normalisieren/limitieren und Untertitel einbrennen.
+- `scripts/assemble_bitzi_monitoring_comedy.py`: sechs fertige H3-Ausgaben verbinden, Ton normalisieren/limitieren, Untertitel einbrennen und die Signatur „Roland Gorczynski / bits.gorczynski.online“ unten rechts ergänzen.
+- `scripts/watermark_bitzi_image.py`: denselben Schriftzug bei Einzelbildern unten rechts ergänzen, ohne das Original zu überschreiben.
 
 ## Rendern
 
