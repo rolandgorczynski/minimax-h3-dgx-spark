@@ -46,6 +46,8 @@ auf einem persistent eingebundenen NVMe-Laufwerk.
   Downloads, Modellprüfung, Status und Diagnosedaten.
 - Ergänzende Anleitungen behandeln Fehlerbehebung, Leistungsmessungen,
   Architektur, Einladungen, Plakate und Comics.
+- `characters/bitzi/` sichert Bio, kanonische Bilder, Identitätsregeln, Prompts
+  und Produktionsablauf des wiederkehrenden Bits-mit-Biss-Maskottchens.
 
 ## Schnellstart
 
