@@ -15,7 +15,7 @@ class DGXComicWorkflow:
             'aktion': (['Szenen planen', 'Comic generieren'],),
             'titel': ('STRING', {'default': ''}),
             'spalten': ('INT', {'default': 3, 'min': 1, 'max': 4}),
-            'signatur': ('STRING', {'default': 'sysop1984.substack.com'}),
+            'signatur': ('STRING', {'default': 'example.com'}),
             'seed': ('INT', {'default': 1984, 'min': 0, 'max': 2147483647, 'control_after_generate': False}),
             'bearbeiteter_plan': ('STRING', {'default': '', 'multiline': True}),
             'kachel_revisionen': ('STRING', {'default': '{}'}),

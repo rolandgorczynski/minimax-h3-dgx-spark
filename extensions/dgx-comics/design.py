@@ -254,7 +254,7 @@ def panel(image, dialogue, number, bubbles=None, speaker_names=None, canvas_size
     return tile
 
 
-def assemble(tiles, columns, title='', signature='sysop1984.substack.com'):
+def assemble(tiles, columns, title='', signature='example.com'):
     if not 1 <= columns <= 4 or not tiles:
         raise ValueError('Bitte 1 bis 4 Spalten und mindestens eine Kachel verwenden.')
     columns = min(columns, len(tiles))

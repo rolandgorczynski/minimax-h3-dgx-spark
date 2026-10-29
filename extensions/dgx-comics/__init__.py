@@ -34,7 +34,7 @@ class DGXSysopComic:
             'hauptfigur': ('STRING', {'default': 'Sysop: middle-aged man, shoulder-length wavy dark brown hair, full dark beard with subtle grey strands, strong eyebrows, black tuxedo jacket, white shirt and black bow tie. Match the same person and drawing style as the reference.', 'multiline': True}),
             'stil': ('STRING', {'default': 'European editorial comic illustration, confident black ink outlines, warm muted colors, expressive faces, clear visual storytelling, same character design in every panel.', 'multiline': True}),
             'szenen': ('STRING', {'default': json.dumps(DEFAULT_SCENES, ensure_ascii=False), 'multiline': True}),
-            'signatur': ('STRING', {'default': 'sysop1984.substack.com'}),
+            'signatur': ('STRING', {'default': 'example.com'}),
             'seed': ('INT', {'default': 1984, 'min': 0, 'max': 2147483647, 'control_after_generate': True}),
             'dateiname': ('STRING', {'default': 'comics/sysop'}),
         }, 'optional': {'szenenplan': ('STRING', {'forceInput': True})},
