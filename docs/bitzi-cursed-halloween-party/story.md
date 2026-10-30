@@ -103,4 +103,4 @@ BITZI – One Photo. Fifty CEOs.
 - Ending: the same short electronic three-note signature after cutting to black.
 
 ## Core Story
-Facial recognition blocks all Halloween guests because of their costumes.
+Bitzi trains face recognition on one CEO photo. It labels every costumed guest a CEO, gives them VIP treatment, and sends the catering bill to the real CEO. When the actual CEO arrives without a costume, the system calls him an impostor. Bitzi's efficient party plan ends with the CEO escorted out and Bitzi declaring everyone in charge.

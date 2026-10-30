@@ -7,7 +7,7 @@ def run(cmd):
     subprocess.run(cmd, check=True)
 
 def concat(paths, destination):
-    destination.write_text(''.join("file '" + str(Path(p).resolve()).replace("'", "'\\''") + "'\\n" for p in paths))
+    destination.write_text(''.join("file '" + str(Path(p).resolve()).replace("'", "'\\''") + "'\n" for p in paths))
 
 def main():
     p = argparse.ArgumentParser(description=__doc__)
