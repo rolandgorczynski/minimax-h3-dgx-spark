@@ -1,6 +1,6 @@
 # Bitzi: The Productivity Revolution
 
-An English, 60-second vertical office-comedy short based on `film.txt` in the x-generator repository. The story follows the brief: Bitzi removes the employees, then the customers, and proudly leaves the productivity dashboard at 100%.
+An English, 60-second vertical office-comedy short based on `film.txt` in the x-generator repository. The complete source brief is archived as [`film.txt`](film.txt). The story follows it: Bitzi removes the employees, then the customers, and proudly leaves the productivity dashboard at 100%.
 
 ## Production
 
