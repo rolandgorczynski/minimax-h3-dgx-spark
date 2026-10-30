@@ -1,6 +1,6 @@
 # Bitzi – Produktionsroutine
 
-Diese Beschreibung hält den Ablauf des Films **„Ich hab das unter Kontrolle!“** fest und dient als wiederholbarer Standard für neue Bilder und Clips.
+Diese Beschreibung hält den Ablauf des Films **„Ich hab das unter Kontrolle!“** fest und dokumentiert inzwischen auch den wiederverwendbaren Figuren- und Clipablauf für neue Bitzi-Folgen.
 
 ## Bildreferenz und Keyframes
 
@@ -23,6 +23,16 @@ Die ComfyUI-Ausgaben werden mit `scripts/run_bitzi_monitoring_comedy.py` nachein
 - erhält am Ende den sichtbaren Schriftzug „Roland Gorczynski“ und `bits.gorczynski.online` unten rechts.
 
 Musik und Sprache waren in der H3-Tonspur gemeinsam generiert. Deshalb lässt sich die Musik nicht verlustfrei wie eine getrennte Studiotonspur austauschen; ein Austausch kann Sprache und Effekte beeinträchtigen.
+
+## Neue Episoden und Figurenkontinuität
+
+- Vor jeder neuen Folge die Figurenakten für Bitzi, den Linux-Administrator und den CEO lesen. Eine neu auftretende Figur bekommt vorab eine eigene `personality.md`.
+- Für die Szene-Keyframes die kanonischen Referenzbilder aller wiederkehrenden Figuren verwenden. Keyframes gehören in einen eigenen Ordner pro Folge; keine bestehende Szene überschreiben.
+- In jedem unabhängig erzeugten H3-Clip dieselbe Figurenbeschreibung aus `scripts/bitzi_cast_lock.py` wiederholen. Requisiten, Mimik und Pose dürfen wechseln; Gesicht, Grundkleidung, Rolle und Verhaltensweise bleiben fest.
+- Jeder Film erhält einen eigenen `submit_`, `run_` und `assemble_`-Ablauf. Der Runner rendert die sechs etwa zehnsekündigen Clips nacheinander und verwendet einen eigenen Ausgabeordner.
+- Deutsche Untertitel kommen aus dem freigegebenen Skript. Am Ende Laufzeit, Bildformat, Lautheit, einzelne Szenenbilder und die Lesbarkeit sichtbarer Schrift prüfen.
+
+MiniMax H3 erzeugt die Abschnitte getrennt. Wiederholte Figurenbeschreibungen verringern Abweichungen, garantieren aber keine bitgenau gleiche Stimme. Für die neue Halloweenfolge wurden deshalb keine Stimmklone eingesetzt.
 
 ## Einzelbilder
 
