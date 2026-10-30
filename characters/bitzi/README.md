@@ -20,6 +20,7 @@ Für neue KI-Bilder immer die **kanonische, nicht signierte Referenz** als Figur
 
 ## Inhalt dieses Verzeichnisses
 
+- [Verbindliche Figurenakte](personality.md): Rolle, Persönlichkeit, Stimme und Grenzen.
 - [Bio](bio.md): Figur und Serienwelt.
 - [Visuelle Identität](visual-identity.md): unveränderliche Merkmale und Bildregeln.
 - [Stimme und Charakter](voice-and-personality.md): Sprechweise, Humor und Grenzen.

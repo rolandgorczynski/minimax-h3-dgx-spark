@@ -6,6 +6,7 @@ import os
 import shutil
 from pathlib import Path
 from urllib.request import Request, urlopen
+from bitzi_cast_lock import CAST_LOCK
 
 ROOT = Path(__file__).resolve().parents[1]
 API_DIR = ROOT / 'examples' / 'api'
@@ -30,6 +31,7 @@ def main():
 
     payload = json.loads((API_DIR / f'bitzi_bullet_time_seg{args.segment}.json').read_text())
     payload['prompt']['6']['inputs']['image'] = image_name
+    payload['prompt']['7']['inputs']['prompt'] = CAST_LOCK + payload['prompt']['7']['inputs']['prompt']
     request = Request(
         args.comfy_url.rstrip('/') + '/prompt',
         data=json.dumps(payload).encode(),

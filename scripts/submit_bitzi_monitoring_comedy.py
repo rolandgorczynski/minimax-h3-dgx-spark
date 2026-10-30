@@ -6,6 +6,7 @@ import os
 import shutil
 from pathlib import Path
 from urllib.request import Request, urlopen
+from bitzi_cast_lock import CAST_LOCK
 
 ROOT = Path(__file__).resolve().parents[1]
 API_DIR = ROOT / 'examples' / 'api'
@@ -42,7 +43,7 @@ def main():
     nodes = base['prompt']
     nodes['6']['inputs']['image'] = image_name
     nodes['8']['inputs']['text'] = 'logos, watermark, distorted face, extra limbs'
-    nodes['7']['inputs'].update({'prompt': IDENTITY_LOCK + PROMPTS[args.segment], 'width': 480, 'height': 864, 'length': 243})
+    nodes['7']['inputs'].update({'prompt': CAST_LOCK + IDENTITY_LOCK + PROMPTS[args.segment], 'width': 480, 'height': 864, 'length': 243})
     nodes['9']['inputs']['seed'] = args.seed + args.segment
     nodes['13']['inputs']['filename_prefix'] = f'x-generator/bitzi-monitoring-comedy/seg{args.segment}'
     nodes['14']['inputs']['filename_prefix'] = f'audio/x-generator/bitzi-monitoring-comedy/seg{args.segment}'

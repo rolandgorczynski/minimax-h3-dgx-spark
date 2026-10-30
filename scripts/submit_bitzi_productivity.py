@@ -3,6 +3,7 @@
 import argparse, json, os, shutil
 from pathlib import Path
 from urllib.request import Request, urlopen
+from bitzi_cast_lock import CAST_LOCK
 ROOT=Path(__file__).resolve().parents[1]
 URL=os.environ.get('COMFY_API_URL','http://192.168.1.224:8188')
 INPUT=Path(os.environ.get('COMFY_INPUT_DIR','/home/jee/docker/minimax-h3-data/input'))
@@ -20,7 +21,7 @@ def main():
  frame=ROOT/'examples/input/bitzi-productivity'/f'scene{a.segment}.png'
  if not frame.is_file(): p.error(f'Missing keyframe: {frame}')
  a.input_dir.mkdir(parents=True,exist_ok=True); name=f'bitzi_productivity_scene{a.segment}.png'; shutil.copy2(frame,a.input_dir/name)
- payload=json.loads((ROOT/'examples/api/bitzi_bullet_time_seg1.json').read_text()); n=payload['prompt']; n['6']['inputs']['image']=name; n['8']['inputs']['text']='logos, watermark, distorted face, extra limbs'; n['7']['inputs'].update({'prompt':IDENTITY+P[a.segment],'width':480,'height':864,'length':243}); n['9']['inputs']['seed']=a.seed+a.segment; n['13']['inputs']['filename_prefix']=f'x-generator/bitzi-productivity/seg{a.segment}'; n['14']['inputs']['filename_prefix']=f'audio/x-generator/bitzi-productivity/seg{a.segment}'
+ payload=json.loads((ROOT/'examples/api/bitzi_bullet_time_seg1.json').read_text()); n=payload['prompt']; n['6']['inputs']['image']=name; n['8']['inputs']['text']='logos, watermark, distorted face, extra limbs'; n['7']['inputs'].update({'prompt':CAST_LOCK+IDENTITY+P[a.segment],'width':480,'height':864,'length':243}); n['9']['inputs']['seed']=a.seed+a.segment; n['13']['inputs']['filename_prefix']=f'x-generator/bitzi-productivity/seg{a.segment}'; n['14']['inputs']['filename_prefix']=f'audio/x-generator/bitzi-productivity/seg{a.segment}'
  req=Request(a.comfy_url.rstrip('/')+'/prompt',data=json.dumps(payload).encode(),headers={'Content-Type':'application/json'})
  with urlopen(req,timeout=30) as r: result=json.load(r)
  if result.get('node_errors'): raise SystemExit(json.dumps(result['node_errors'],indent=2))
