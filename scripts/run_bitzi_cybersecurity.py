@@ -25,7 +25,7 @@ def main():
   if not list(out.glob(f'seg{i}_*.mp4')):raise FileNotFoundError(f'No scene {i} MP4 found under {out}')
   if not list(a.output_dir.glob(f'audio/x-generator/bitzi-cybersecurity/seg{i}_*.flac')):raise FileNotFoundError(f'No scene {i} audio found')
   print(f'Scene {i}/6 complete',flush=True)
- final=out/'bitzi_the_ultimate_cybersecurity_60s.mp4'
+ final=out/'bitzi_the_ultimate_cybersecurity_63s.mp4'
  subprocess.run([sys.executable,str(ROOT/'scripts/assemble_bitzi_cybersecurity.py'),'--input-dir',str(a.output_dir),'--output',str(final)],check=True)
  print(f'Film complete: {final}',flush=True)
 if __name__=='__main__':main()
