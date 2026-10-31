@@ -1,0 +1,164 @@
+{
+  "prompt": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+        "weight_dtype": "default"
+      }
+    },
+    "2": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+        "type": "minimax"
+      }
+    },
+    "3": {
+      "class_type": "VAELoader",
+      "inputs": {
+        "vae_name": "minimax_h3_video_vae_fp16.safetensors"
+      }
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {
+        "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+      }
+    },
+    "5": {
+      "class_type": "MiniMaxH3SigmaShift",
+      "inputs": {
+        "model": [
+          "1",
+          0
+        ],
+        "shift_video": 12.0,
+        "shift_audio": 3.0
+      }
+    },
+    "6": {
+      "class_type": "LoadImage",
+      "inputs": {
+        "image": "bitzi_1000_followers_scene1.png"
+      }
+    },
+    "7": {
+      "class_type": "MiniMaxH3ImageToVideo",
+      "inputs": {
+        "clip": [
+          "2",
+          0
+        ],
+        "vae": [
+          "3",
+          0
+        ],
+        "prompt": "Recurring character continuity. Bitzi must match the canonical channel avatar: the same floating turquoise rounded-square microchip, turquoise eyes, dark expressive eyebrows, crooked grin, exactly one small fang, exactly three orange-lit contacts on top, three on each side, and three on the bottom; no limbs, humanoid body, clones, or redesign. The real man in the supplied first frame is Roland: preserve his recognizable face, glasses, graying brown hair, age, and dark navy jacket with pale blue shirt. Keep Roland photorealistic and Bitzi in the same polished 3D cartoon style. Only these two characters. Vertical 9:16, friendly cinematic tech-comedy, one continuous shot, begin from the exact supplied frame. Bitzi suddenly realizes the milestone, springs upward and bounces excitedly in the air, spins once, tiny orange contacts glowing brighter, joyful gold confetti fluttering. Roland laughs warmly, keeps a hand over his heart and gives the camera a grateful nod; do not make Roland speak or change his face. Bitzi speaks in a sweet, cheeky, quick but clear comic voice, very excited: 'One thousand followers! Roland, we did it!' Brief pause. 'Thank you, everyone! More confetti!' On 'More confetti' a small party popper erupts with a playful burst of paper confetti; Bitzi gets momentarily showered, then pops out grinning. Roland smiles at him. Hold on both smiling for the final second; settle cleanly, no abrupt cut. Original light chiptune celebration sting and soft server ambience, below the speech, no harsh or loud peaks. Dialogue clear and sequential, one speaker at a time. No narrator, no additional dialogue, no captions, no readable screen text, no logos or watermark.",
+        "width": 480,
+        "height": 864,
+        "length": 243,
+        "first_frame": [
+          "6",
+          0
+        ]
+      }
+    },
+    "8": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": [
+          "2",
+          0
+        ],
+        "text": "letters, captions, subtitles, logos, watermark, extra characters, extra Bitzi, altered face, changed glasses, changed hair, dark teeth, extra teeth, extra pins, extra arms, legs, humanoid Bitzi, deformed face, unreadable text"
+      }
+    },
+    "9": {
+      "class_type": "KSampler",
+      "inputs": {
+        "model": [
+          "5",
+          0
+        ],
+        "positive": [
+          "7",
+          0
+        ],
+        "negative": [
+          "8",
+          0
+        ],
+        "latent_image": [
+          "7",
+          1
+        ],
+        "seed": 2026103117,
+        "steps": 20,
+        "cfg": 1.0,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "denoise": 1.0
+      }
+    },
+    "10": {
+      "class_type": "VAEDecode",
+      "inputs": {
+        "samples": [
+          "9",
+          0
+        ],
+        "vae": [
+          "3",
+          0
+        ]
+      }
+    },
+    "11": {
+      "class_type": "VAEDecodeAudio",
+      "inputs": {
+        "samples": [
+          "9",
+          0
+        ],
+        "vae": [
+          "4",
+          0
+        ]
+      }
+    },
+    "12": {
+      "class_type": "CreateVideo",
+      "inputs": {
+        "images": [
+          "10",
+          0
+        ],
+        "fps": 24.0
+      }
+    },
+    "13": {
+      "class_type": "SaveVideo",
+      "inputs": {
+        "video": [
+          "12",
+          0
+        ],
+        "filename_prefix": "x-generator/bitzi-1000-followers/celebration",
+        "format": "auto",
+        "codec": "auto"
+      }
+    },
+    "14": {
+      "class_type": "SaveAudio",
+      "inputs": {
+        "audio": [
+          "11",
+          0
+        ],
+        "filename_prefix": "audio/x-generator/bitzi-1000-followers/celebration"
+      }
+    }
+  },
+  "client_id": "bitzi-admin-photo-proof-comic-v1"
+}
