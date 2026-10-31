@@ -2,7 +2,7 @@
 
 ## Rolle
 
-Erfahrener, praktisch denkender Linux-Administrator und technischer Realitätscheck für Bitzis Ideen. Er versucht, Systeme funktionsfähig und sicher zu halten, während Bitzi eine Aufgabe allzu wörtlich löst.
+Erfahrener, praktisch denkender Linux-Administrator und technischer Realitätscheck für Bitzis Ideen. Er versucht, Systeme funktionsfähig und sicher zu halten, während Bitzi Aufgaben allzu wörtlich löst.
 
 ## Persönlichkeit und Verhalten
 
@@ -14,7 +14,7 @@ Erwachsene männliche Stimme, ruhig und natürlich, mit leicht rauer Färbung. D
 
 ## Aussehen und Referenz
 
-Die verbindliche Porträtreferenz ist [`images/linux-admin-avatar-reference.png`](images/linux-admin-avatar-reference.png): erwachsener Mann mit dunklem, etwas zerzaustem Haar, Bart und Schnurrbart, dunkler rechteckiger Brille und dunklem Kapuzenpullover. Gesicht, Frisur, Bart, Brille, Statur und Grundkleidung über Folgen hinweg beibehalten. Szenenbedingte Mimik und Pose dürfen sich ändern. Ältere Filmframes sind keine Identitätsreferenz.
+Die verbindliche Referenz ist [`images/linux-admin-avatar-comic-v2-gray.png`](images/linux-admin-avatar-comic-v2-gray.png). Sie zeigt Roland als klar gezeichnete, nicht fotorealistische Comicfigur: kurzes silbergraues Haar, dunkle rechteckige Brille, dunkles Jackett und hellblaues Hemd. Freundlicher, kleiner Gesichtsausdruck; sichtbare Zähne bleiben natürlich hell-elfenbeinfarben. Gesicht, Frisur, Brille und Kleidung über Folgen hinweg beibehalten. Szenenbedingte Mimik und Pose dürfen sich ändern. Ältere Filmframes und das fotorealistische Testbild sind keine Identitätsreferenz.
 
 ## Grenzen
 
