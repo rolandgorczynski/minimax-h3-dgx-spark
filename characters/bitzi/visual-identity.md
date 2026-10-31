@@ -2,19 +2,19 @@
 
 ## Kanonische Merkmale
 
-Die Datei [`images/bitzi-avatar-reference.png`](images/bitzi-avatar-reference.png) ist die maßgebliche visuelle Referenz. Bei Abweichungen gilt das Bild vor einer freien Textbeschreibung.
+Die Datei [`images/bitzi-avatar-reference.png`](images/bitzi-avatar-reference.png) ist die maßgebliche visuelle Referenz und entspricht dem Kanal-Avatar. Jeder Szenen-Keyframe muss dieses Bild direkt als Bitzi-Referenz verwenden. Keine Filmframes oder daraus abgeleiteten Bilder als Identitätsquelle benutzen. Bei Abweichungen gilt das Avatarbild vor freier Textbeschreibung.
 
 - Abgerundeter, quadratischer Mikrochip-Kopf.
 - Leuchtend türkisfarbener Grundkörper mit cyanfarbenen Lichtkanten.
-- Drei kurze Kontakte oben; Metallkontakte an beiden Seiten. Kontakte leuchten warm orange.
-- Große, glänzende Augen mit dunklen Pupillen und ausdrucksstarke dunkle Augenbrauen.
+- Genau drei kurze Kontakte oben, drei an jeder Seite und drei unten. Die Kontakte leuchten warm orange. Anzahl und Anordnung niemals verändern.
+- Große, glänzende türkisfarbene Augen mit dunklen Pupillen und ausdrucksstarke dunkle Augenbrauen.
 - Freches, leicht schiefes Lächeln mit genau einem kleinen Fangzahn.
-- Bei Ganzkörperbildern kurze passende Arme und Beine mit orangefarbenen Kontaktakzenten.
+- Die abgerundete Avatar-Silhouette und das Gesicht bleiben unverändert. Kleine Arme und Beine dürfen als Nebenformen erscheinen, aber Bitzi darf dadurch nicht humanoid oder zu einem anderen Robotertyp werden.
 - Hochwertiger, freundlicher 3D-Animationslook; klare Silhouette und gut lesbarer Gesichtsausdruck.
 
 ## Unveränderlich
 
-Kopfform, Türkiston, Augen, Augenbrauen, Fangzahn, Anzahl und Lage der Kontakte bleiben über alle Bilder und Szenen konsistent. Bitzi wird nicht gelb, nicht humanoid und nicht zum Bildschirm oder Monitor. Ein Monitor bleibt ein separates Objekt.
+Kopfform, Türkiston, türkisfarbene Augen, Augenbrauen, Fangzahn sowie Anzahl und Lage der Kontakte müssen exakt dem Kanal-Avatar entsprechen und über alle Bilder und Szenen konsistent bleiben. Bitzi wird nicht gelb, nicht humanoid und nicht zum Bildschirm oder Monitor. Ein Monitor bleibt ein separates Objekt.
 
 Kleidung, Pose, Requisiten, Ausdruck und Umgebung dürfen sich passend zur Szene ändern. Accessoires dürfen die grundlegenden Merkmale nicht verdecken. Bitzi darf chaotische Situationen auslösen, wirkt dabei aber sympathisch und nicht aggressiv.
 

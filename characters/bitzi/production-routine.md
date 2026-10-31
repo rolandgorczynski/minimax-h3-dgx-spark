@@ -4,8 +4,8 @@ Diese Beschreibung hält den Ablauf des Films **„Ich hab das unter Kontrolle!�
 
 ## Bildreferenz und Keyframes
 
-1. Mit der kanonischen Referenz `images/bitzi-avatar-reference.png` die Identität von Bitzi festlegen.
-2. Für jede Szene einen eigenen Start-Keyframe aus derselben Referenz erzeugen. Im Monitoring-Film wurde dafür OpenAIs `image_gen` verwendet.
+1. Für Bitzi immer `characters/bitzi/images/bitzi-avatar-reference.png` als direkte Bildreferenz verwenden. Für den Linux-Admin und CEO gelten ausschließlich `characters/linux-admin/images/linux-admin-avatar-reference.png` und `characters/ceo/images/ceo-avatar-reference.png`.
+2. Für jede Szene einen eigenen Start-Keyframe aus den kanonischen Porträts aller sichtbaren Schauspieler erzeugen. Keine alten Filmframes oder daraus abgeleitete Bilder als Identitätsquelle verwenden. Im Monitoring-Film wurde für Keyframes OpenAIs `image_gen` verwendet.
 3. Die Keyframes getrennt nach Szene ablegen. Bei einem früheren Versuch driftete Bitzis Gesicht bei einer rein fortlaufenden H3-Animation in einen gelben Monitor-Kopf ab. Eigene, referenzbasierte Keyframes plus eine explizite Identitätssperre verhinderten das in den korrigierten Szenen.
 4. Die kanonische Referenz unbeschriftet lassen. Ein signiertes Bild nicht als Generierungsreferenz benutzen, damit Name und Webadresse nicht in die Szene kopiert werden.
 
@@ -27,7 +27,7 @@ Musik und Sprache waren in der H3-Tonspur gemeinsam generiert. Deshalb lässt si
 ## Neue Episoden und Figurenkontinuität
 
 - Vor jeder neuen Folge die Figurenakten für Bitzi, den Linux-Administrator und den CEO lesen. Eine neu auftretende Figur bekommt vorab eine eigene `personality.md`.
-- Für die Szene-Keyframes die kanonischen Referenzbilder aller wiederkehrenden Figuren verwenden. Keyframes gehören in einen eigenen Ordner pro Folge; keine bestehende Szene überschreiben.
+- Für jeden Szenen-Keyframe die direkten kanonischen Avatare aller sichtbaren Schauspieler verwenden. Ältere Filmframes sind keine Ersatz-Avatare. Keyframes gehören in einen eigenen Ordner pro Folge; bestehende Originale nicht überschreiben.
 - In jedem unabhängig erzeugten H3-Clip dieselbe Figurenbeschreibung aus `scripts/bitzi_cast_lock.py` wiederholen. Requisiten, Mimik und Pose dürfen wechseln; Gesicht, Grundkleidung, Rolle und Verhaltensweise bleiben fest.
 - Jeder Film erhält einen eigenen `submit_`, `run_` und `assemble_`-Ablauf. Der Runner rendert die sechs etwa zehnsekündigen Clips nacheinander und verwendet einen eigenen Ausgabeordner.
 - Deutsche Untertitel kommen aus dem freigegebenen Skript. Am Ende Laufzeit, Bildformat, Lautheit, einzelne Szenenbilder und die Lesbarkeit sichtbarer Schrift prüfen.
@@ -46,7 +46,7 @@ Das Skript überschreibt die Quelle nicht. PNG-Transparenz bleibt erhalten.
 
 ## Veröffentlichungsprüfung
 
-- Bitzis Gesicht, Türkis und Kontakte in mehreren Szenen-Stills prüfen.
+- Bitzis Silhouette, Türkis, Augenfarbe, Fangzahn und Kontaktlayout direkt gegen den Kanal-Avatar prüfen. Bei klarer Abweichung nicht weiter rendern oder veröffentlichen.
 - Untertitel auf lesbare Zeilenlänge und sichere Ränder prüfen.
 - Gesamtlaufzeit, Bildgröße, Audio-Spitzen und Lautheit messen.
 - Dialogtext nicht als wortgetreu behaupten, wenn die H3-Tonspur nicht gegengehört oder transkribiert wurde.

@@ -14,7 +14,7 @@ Erwachsene männliche Stimme, ruhig und natürlich, mit leicht rauer Färbung. D
 
 ## Aussehen und Referenz
 
-Als erste visuelle Serienreferenz gilt der Administrator links in [`../../examples/input/bitzi-ghost-server/scene6.png`](../../examples/input/bitzi-ghost-server/scene6.png): erwachsener Mann mit dunklem, etwas zerzaustem Haar, Bart und Schnurrbart, dunkler rechteckiger Brille und dunklem Kapuzenpullover. Gesicht, Frisur, Bart, Brille, Statur und Grundkleidung über Folgen hinweg beibehalten. Szenenbedingte Mimik und Pose dürfen sich ändern.
+Die verbindliche Porträtreferenz ist [`images/linux-admin-avatar-reference.png`](images/linux-admin-avatar-reference.png): erwachsener Mann mit dunklem, etwas zerzaustem Haar, Bart und Schnurrbart, dunkler rechteckiger Brille und dunklem Kapuzenpullover. Gesicht, Frisur, Bart, Brille, Statur und Grundkleidung über Folgen hinweg beibehalten. Szenenbedingte Mimik und Pose dürfen sich ändern. Ältere Filmframes sind keine Identitätsreferenz.
 
 ## Grenzen
 

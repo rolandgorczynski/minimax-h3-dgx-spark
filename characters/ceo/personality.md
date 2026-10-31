@@ -14,7 +14,7 @@ Erwachsene männliche Stimme, klar und professionell, mit natürlichem mittlerem
 
 ## Aussehen und Referenz
 
-Als erste visuelle Serienreferenz gilt der Mann rechts in [`../../examples/input/bitzi-ghost-server/scene6.png`](../../examples/input/bitzi-ghost-server/scene6.png): mittleres Alter, kurzes braunes bis leicht graues Haar, glattrasiert, dunkler Anzug mit hellem Hemd und Krawatte. Gesicht, Frisur, Statur und Grundkleidung über Folgen hinweg beibehalten. Szenenbedingte Mimik und Pose dürfen sich ändern.
+Die verbindliche Porträtreferenz ist [`images/ceo-avatar-reference.png`](images/ceo-avatar-reference.png): mittleres Alter, kurzes braunes bis leicht graues Haar, glattrasiert, dunkler Anzug mit hellem Hemd und dunkler Krawatte. Gesicht, Frisur, Statur und Grundkleidung über Folgen hinweg beibehalten. Szenenbedingte Mimik und Pose dürfen sich ändern. Ältere Filmframes sind keine Identitätsreferenz.
 
 ## Grenzen
 
