@@ -1,13 +1,13 @@
 # 1,000 Followers — A-112 local-voice comparison
 
-This version reuses the exact baseline video frames and shot timing. It replaces Bitzi's H3-native speech with a locally generated, reference-conditioned Chatterbox Multilingual V3 voice while retaining the same H3 music and sound effects.
+This corrected version reuses the exact baseline video frames and shot timing. Bitzi's dialogue uses a locally generated, reference-conditioned Chatterbox Multilingual V3 voice. H3 music and effects remain in the opening, pause between lines, and ending. The imperfectly separated H3 dialogue is fully muted during both spoken lines, so only one voice is heard there.
 
 ## A-112 elements applied
 
-- Local Chatterbox Multilingual V3, MIT weights, with the existing 3-second Bitzi reference derived from a prior H3 Bitzi performance. The same reference is used for both lines; fixed seeds and settings (`exaggeration=0.60`, `cfg_weight=0.35`) make this run reproducible.
-- BandIt speech estimate isolates the existing speech so it can be replaced while keeping H3's generated music/SFX bed. The local separator runs offline; its model directory is read-only.
-- Exact scripted English dialogue is generated line by line. The local clips are placed into the same 10.125-second picture timeline.
-- Conservative final loudness target is −16 LUFS and −1.5 dBTP, with a 48 kHz stereo AAC export. H3's integrated soundtrack is not passed through speech-only filters.
+- Local Chatterbox Multilingual V3, MIT weights, with the existing 3-second synthetic Bitzi reference derived from a prior H3 Bitzi performance. Both lines use the same reference, fixed seeds, `exaggeration=0.60`, and `cfg_weight=0.35`.
+- BandIt estimates the original speech. The H3 mix is muted through each dialogue window to prevent residual speech from leaking under the replacement voice; H3 ambience/music/SFX are retained between the lines and around the ending.
+- Exact scripted English dialogue is generated line by line and placed on the same 10.125-second picture timeline.
+- The reference voice is filtered gently with an 80 Hz high-pass, light de-essing, and 2:1 compression. Final mastering targets −18 LUFS and −2 dBTP; export is 48 kHz stereo AAC.
 
 The Perth audio-watermarker extension is unavailable in this ARM64 runtime. The installed `dgx-spark-tts` fallback reports this and uses a pass-through, as its existing local implementation does. No Chatterbox voice watermark is applied in this setup.
 
@@ -17,4 +17,4 @@ The Perth audio-watermarker extension is unavailable in this ARM64 runtime. The 
 
 “Thank you, everyone! More confetti!”
 
-The comparison is for voice texture and clarity. Both videos use the same generated picture, title, subtitle style, music/SFX source, watermark, and duration. They are not yet a listener-approved final character voice.
+The corrected comparison differs from the baseline only in audio. The earlier A/B upload had residual H3 speech under the local voice; the corrected file is `bitzi_1000_followers_a112_local_voice_single.mp4`. It is not yet a listener-approved final character voice.
