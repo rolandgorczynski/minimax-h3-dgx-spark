@@ -44,7 +44,7 @@ auf einem persistent eingebundenen NVMe-Laufwerk.
 - Unter `scripts/` liegen Werkzeuge für Speicherinitialisierung, Vorprüfung,
   Downloads, Modellprüfung, Status und Diagnosedaten.
 - Ergänzende Anleitungen behandeln Fehlerbehebung, Leistungsmessungen,
-  Architektur, Einladungen und Plakate.
+  Architektur und Einladungen.
 
 ## Schnellstart
 
@@ -192,7 +192,6 @@ jeweiligen Testkonfigurationen und lassen sich nicht pauschal auf alle Zeilen ü
 
 [Einladungen mit Logo: drei lokal anpassbare Vorlagen mit PDF-Ausgabe](examples/invitations/README.md).
 
-[Polnische Facebook-Plakate: lokale FLUX.2-Bilder, Logo und optionaler Partnerstreifen](examples/posters/README.md).
 
 
 ## ComfyUI-Templates aktualisieren
@@ -225,12 +224,11 @@ die Basisversion stammt derzeit aus `comfyui-src/requirements.txt`.
 
 Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/workflow_templates).
 
-[Polnische Facebook-Plakate mit lokalen Bildern, Logo und Partnerstreifen](examples/posters/README.md).
 
 
 
 ## Getrennte Anwendungen
 
-Comic-Studio, Bitzi-Produktion und persönliche Betriebswerkzeuge werden in eigenständigen Repositories gepflegt. Sie nutzen bei Bedarf weiterhin dieselbe ComfyUI-Installation. Ihre Quelltexte, Figurenakten, Geschichten und Produktionsdateien sind nicht Bestandteil dieses öffentlichen Hauptbranches. Plakate und Einladungen bleiben vorerst hier.
+Comic-Studio, Bitzi-Produktion und persönliche Betriebswerkzeuge werden in eigenständigen Repositories gepflegt. Sie nutzen bei Bedarf weiterhin dieselbe ComfyUI-Installation. Ihre Quelltexte, Figurenakten, Geschichten und Produktionsdateien sind nicht Bestandteil dieses öffentlichen Hauptbranches. Einladungen bleiben vorerst hier.
 
 [Aufteilung und Workflow-Orte](docs/Repository_Aufteilung.md).

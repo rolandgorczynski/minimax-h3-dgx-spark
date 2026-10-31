@@ -1,3 +1,0 @@
-# Posters now run entirely inside ComfyUI. Kept for existing Compose commands.
-services:
-  comfyui: {}
