@@ -1,4 +1,0 @@
-# Beispiel für die ROOT-Crontab (sudo crontab -e).
-# Nicht gleichzeitig die bisherigen direkten rsnapshot-Cronjobs aktivieren.
-# Sonntag 03:00 Uhr, lokale Systemzeit. Diese Datei aktiviert keinen Zeitplan.
-0 3 * * 0 /usr/local/sbin/docker-rsnapshot-weekly --run >> /var/log/docker-offline-backup.log 2>&1

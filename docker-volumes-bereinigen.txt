@@ -1,1 +1,0 @@
-sudo python3 -I /home/jee/docker/minimax-h3-dgx-spark/scripts/alte_docker_volumes_loeschen.py

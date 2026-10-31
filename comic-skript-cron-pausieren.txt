@@ -1,1 +1,0 @@
-python3 /home/jee/docker/minimax-h3-dgx-spark/scripts/comic_skript_cron.py --disable

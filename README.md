@@ -33,7 +33,6 @@ auf einem persistent eingebundenen NVMe-Laufwerk.
 | MiniMax H3 bereitstellen | Containerumgebung und vier erforderliche Modelldateien mit fortsetzbarem Download |
 | Erstes Video mit Ton erzeugen | Vollständiges Beispiel für die HTTP-API; im dokumentierten Test etwa 2–5 Minuten pro kurzem Film |
 | Mehrere Abschnitte verbinden | Anleitung für acht Abschnitte mit je fünf Sekunden und einen Film mit 40 Sekunden |
-| Comics ausarbeiten und rendern | Bearbeitbare Szenen, Figurenreferenzen, lokale Bilderzeugung und PDF-/ZIP-Ausgabe |
 
 ## Funktionen
 
@@ -45,9 +44,7 @@ auf einem persistent eingebundenen NVMe-Laufwerk.
 - Unter `scripts/` liegen Werkzeuge für Speicherinitialisierung, Vorprüfung,
   Downloads, Modellprüfung, Status und Diagnosedaten.
 - Ergänzende Anleitungen behandeln Fehlerbehebung, Leistungsmessungen,
-  Architektur, Einladungen, Plakate und Comics.
-- `characters/bitzi/` sichert Bio, kanonische Bilder, Identitätsregeln, Prompts
-  und Produktionsablauf des wiederkehrenden Bits-mit-Biss-Maskottchens.
+  Architektur, Einladungen und Plakate.
 
 ## Schnellstart
 
@@ -197,7 +194,6 @@ jeweiligen Testkonfigurationen und lassen sich nicht pauschal auf alle Zeilen ü
 
 [Polnische Facebook-Plakate: lokale FLUX.2-Bilder, Logo und optionaler Partnerstreifen](examples/posters/README.md).
 
-[Comic-Studio: Kachelanzahl, Figuren, Szenen und Sprechblasen](examples/comics/README.md).
 
 ## ComfyUI-Templates aktualisieren
 
@@ -231,137 +227,10 @@ Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/work
 
 [Polnische Facebook-Plakate mit lokalen Bildern, Logo und Partnerstreifen](examples/posters/README.md).
 
-[Sysop-Comics in ComfyUI: Kachelanzahl, einzelne Szenen oder eine ganze Geschichte](examples/comics/README.md).
-
-### Redaktionellen Comic per Skript erstellen
-
-[Projektanweisungen und vollständiger Ablauf als Markdown-Datei](docs/Comic_per_Skript_erstellen.md).
-
-Ein geprüftes Storyboard lässt sich mit dem lokalen ComfyUI wiederholbar als Comic,
-Teilseiten, PDF und ZIP mit bearbeitbarem Workflow exportieren:
-
-```bash
-python3 scripts/render_editorial_comic.py \
-  examples/comics/editorial/marius-dick/storyboard.json
-```
-
-Voraussetzung: laufender [Comic-Automat](automation/comics/README.md), Docker-Zugriff
-und Python 3 mit Pillow auf dem Host. Das Storyboard enthält die zuvor erstellten
-Szenen, Figuren und deutschen Texte. Das Skript schreibt die Geschichte nicht um
-und verwendet ausschließlich die lokalen ComfyUI-Modelle für die Bilder.
-
-Die Ausgabe liegt unter `diagnostics/comics/<Auftrags-ID>/`; Downloadlinks werden
-ausgegeben. Jeder Aufruf ohne `--job` erstellt einen neuen Auftrag. Vorhandene
-gespeicherte ComfyUI-Workflows werden nicht überschrieben.
-
-Für Korrekturen `--draft` ergänzen, das Storyboard bearbeiten und mit
-`--job <Auftrags-ID> --draft` erneut aufrufen. Ohne `--draft` wird der Auftrag
-abgeschlossen. Unveränderte Kacheln werden während der Bearbeitung wiederverwendet.
-Alle Optionen und die Installation stehen in der
-[Anleitung zum Comic-Automaten](automation/comics/README.md#ein-aufruf-für-rendern-seitenlayout-und-download).
-
-### Lokale Vorarbeit und Bildprüfung
-
-[Getestete Arbeitsteilung für die Comic-Produktion](docs/Comic_Lokale_Arbeitsteilung.md):
-Quellenabsätze lokal aufbereiten, Texte redaktionell ausarbeiten und Bilder mit
-`--local-check` lokal vorprüfen. Die Prüfung liefert Hinweise und lässt den Auftrag
-offen; Geschichte und Szenen bleiben unverändert.
-
-### Geschichtenverwaltung und elf Bildstile
-
-Auf der [lokalen Redaktionsseite](http://192.168.1.224:8090/) lassen sich
-Geschichten anlegen, Storyboards importieren, Szenen bearbeiten und neue Ausgaben
-erzeugen. Definitionen und Ausgaben sind getrennt löschbar. Elf Bildstile stehen
-im Studio und im Automationsdienst zur Auswahl.
-[Anleitung zur Verwaltung und Stilauswahl](automation/comics/README.md#geschichten-auf-der-redaktionsseite-verwalten).
-
-Der Comic-Automat unterstützt außerdem eine frei wählbare positive Kachelanzahl
-und einen Buch-Export mit Autor, Vor-/Nachwort, Kindle-EPUB, Taschenbuch-Buchblock
-und vollständigem Umschlag. Die Druckdateien enthalten Prüfhinweise für Amazon
-KDP. Siehe [Comic-Bücher für KDP](docs/Comic_Buecher_KDP.md).
-
-Comic-Vorlagen aus Büchern und Filmen: [Quellengenerator](docs/Comic_Quellengenerator.md).
-
-Comic-Serien: [Fortsetzungen auf Basis vorhandener Geschichten](docs/Comic_Serien.md).
-
-[33 Comic-Seitenvorlagen mit Vorschau und automatischer Übernahme in Serien](docs/Comic_Seitenvorlagen.md).
-
-[Geführte Leseansicht, gemeinsame Buchseiten und Kindle-Create-Seitenpaket](docs/Comic_Gefuehrt_Lesen.md).
-
-Comic-Experimente: [Mehr Wow durch neue Regie, Dramaturgie und Dialoge](docs/Comic_Experimente.md).
 
 
-[Logische Skriptführung: körperliche Zustände und Übergänge](docs/Comic_Skript_Kontinuitaet.md).
+## Getrennte Anwendungen
 
+Comic-Studio, Bitzi-Produktion und persönliche Betriebswerkzeuge werden in eigenständigen Repositories gepflegt. Sie nutzen bei Bedarf weiterhin dieselbe ComfyUI-Installation. Ihre Quelltexte, Figurenakten, Geschichten und Produktionsdateien sind nicht Bestandteil dieses öffentlichen Hauptbranches. Plakate und Einladungen bleiben vorerst hier.
 
-[64 Bildstile mit Kategorien und lokalen Vorschaubildern](docs/Comic_Bildstile.md).
-
-
-[Adaptive Kachelformate passend zu den Canvas-Seitenvorlagen](docs/Comic_Adaptive_Kachelformate.md).
-
-### Übervolle Sprechblasen nachträglich bearbeiten
-
-Vor dem Zeichnen passt das Comic-Studio Blasengröße und Position an das gewählte Kachelformat an. Texte werden dabei nicht umgeschrieben und die Mindestschriftgröße bleibt erhalten. Technische Leerzeichenfehler werden bereinigt.
-
-Passt eine Beschriftung weiterhin nicht, entsteht trotzdem ein **sichtbar markierter Entwurf**. Der vollständige Text bleibt unter **Sprechblasen positionieren** erhalten. Dort Text kürzen, aufteilen oder Blasen verschieben und vergrößern und die neue Beschriftung speichern. Die neue Ausgabe übernimmt die Originalzeichnungen bytegleich; es werden keine Bilder neu erzeugt. Erst nach erfolgreicher Beschriftungsprüfung stehen Teilen und Buchausgabe wieder zur Verfügung. Fehlerhafte Figuren-Zuordnungen oder ungültige Eingaben bleiben echte Fehler.
-
-Unter **Neue Beschriftung übernehmen** stehen die ursprüngliche Kachelbeschriftung, die Bildbeschreibung und die vollständige Geschichte der ausgewählten Ausgabe zum Nachschlagen und Kopieren bereit. Die Vorlage bleibt während der Bearbeitung unverändert. Figurenbilder in Geschichte und Bibliothek lassen sich per Klick oder Enter groß öffnen; Schließen oder Escape beendet die Ansicht.
-
-Erzählerkästen passen ihre Höhe an die Textmenge an. Die Erzählschrift bleibt mit 20–28 Pixeln zurückhaltend und lesbar. Auch nachträglich ergänzte Erzählertexte schneiden die Zeichnung nicht mehr zu: Das vollständige Bild wird unter dem Kasten proportional eingepasst; je nach Format entstehen dabei freie Ränder. Bestehende Ausgaben bleiben erhalten, bis eine neue Beschriftungsfassung übernommen wird.
-
-### Schwert und Scheide als fortlaufender Zustand
-
-Bei Figuren mit ausdrücklich einem Schwert führt die Skriptplanung dessen Zustand getrennt: in der Scheide, gezogen, in einer ausdrücklich genannten Hand oder am Boden. Ziehen erzeugt kein zweites Schwert. Jeder folgende Bildprompt schreibt daher die Folgen aus: **Schwert in der Hand, Scheide leer und ohne zweiten Griff**. Beim Einstecken bleibt kein Schwert in der Hand; beim Ablegen liegt dasselbe Schwert am Boden. Ohne belegten Wechsel gilt der Zustand weiter. Ausdrückliche Doppelbewaffnung wird nicht pauschal auf ein Schwert reduziert.
-
-Neue redaktionelle Bildausgaben und einzelne Bildkorrekturen prüfen zusätzlich die tatsächlichen Zeichnungen mit dem vorhandenen lokalen Bildmodell. Zusätzliche Schwerter werden durch eine zweite Betrachtung bestätigt und als Kachelbefund gespeichert. Bestätigte Fehler sperren Teilen und Buchexport, der Comic bleibt zum Korrigieren sichtbar. Eine reine Textänderung übernimmt den Bildbefund, weil sie die Zeichnung nicht repariert. Unklare oder fehlgeschlagene Prüfungen werden als solche angezeigt; das Modell bietet keine Garantie für fehlerfreie Bilder. Bestehende Comics werden nicht automatisch verändert oder neu gezeichnet.
-
-Die Quellenverwaltung enthält die Vorlage und eine optionale Inhaltszusammenfassung. Die Vorbereitung für Veröffentlichungen erfolgt **am fertigen Comic**: **Auf Substack teilen**, **Auf X teilen** oder **Für Telegram vorbereiten** öffnen denselben Teilen-Dialog. Dort stehen Titel, Begleittext, Quellenlink und eine kompakte X-Fassung zum Bearbeiten und Kopieren bereit. Der gesamte Beitrag kann ebenfalls kopiert werden. Texte werden getrennt je Ausgabe gespeichert; Zeichnungen und Geschichte bleiben unverändert. Bei einer überarbeiteten Fassung den Begleittext vor dem Posten prüfen und anpassen.
-
-Das Bildpaket enthält den zuletzt gespeicherten Titel, Begleittext und Quellenlink in `Beitragstext.txt`. X übernimmt den bearbeiteten X-Text in den geöffneten Editor. Für Telegram werden Bilder und Text vorbereitet; gesendet wird manuell in Telegram. Zielkonten bleiben frei konfigurierbar. Es wird nichts automatisch veröffentlicht und kein neuer Comic-Lauf gestartet.
-
-Die Waffenprüfung unterscheidet sichtbare Waffen von Besitz: Eine verdeckte Waffe wird nicht als fehlendes Inventar gewertet. Widersprüche zwischen ausdrücklich genannter Gesamtzahl und Zählwert machen den Prüfbericht ungültig. Unsichere Prüfungen erscheinen als ein neutraler Hinweis mit herunterladbarem Detailbericht; bestätigte zusätzliche Waffen bleiben konkrete Fehler. Das gilt in der Anzeige auch für ältere Berichte, deren Originaldateien unverändert erhalten bleiben. Eine angegebene Trageseite wird im Bildprompt ausdrücklich auf die anatomische Körperseite der Figur bezogen. Textvorgaben garantieren dennoch keine fehlerfreie Zeichnung; bestehende Bilder werden durch diese Änderung nicht automatisch neu erzeugt.
-
-Zehn weitere Vorlagen sind als ergänzendes Quellenpaket in [mythen-sagen-maerchen-weitere-10.json](examples/comics/sources/mythen-sagen-maerchen-weitere-10.json) enthalten: Thors gestohlener Hammer, Thor in Utgard, Tyr und Fenrir, Iduns Rettung, Hermods Fahrt nach Hel, Lokis Schmiedewette, Eisenhans am Goldbrunnen, das tapfere Schneiderlein, der Rattenfänger und die Kölner Heinzelmännchen. Jeder Eintrag enthält eine eigene deutsche Inhaltsfassung, einen historischen Quellenbeleg, einen kurzen Begleittext sowie Hinweise zu Bildlogik und Handlungsgrenzen.
-
-Importvorschau: `python3 scripts/import_comic_sources.py examples/comics/sources/mythen-sagen-maerchen-weitere-10.json`. Mit `--apply` werden die neuen IDs mit Sicherung ergänzt; vorhandene Quellen und Änderungen bleiben erhalten. Der Import startet keinen Skript- oder Bildlauf.
-
-### Weitere 30 Comic-Vorlagen
-
-Die Quellenpakete [deutsche-maerchen-sagen-naechste-10.json](examples/comics/sources/deutsche-maerchen-sagen-naechste-10.json) und [abenteuer-mythen-weitere-20.json](examples/comics/sources/abenteuer-mythen-weitere-20.json) ergänzen den Katalog von 23 auf 53 Einträge: Grimm und Hauff, Weinsberg, fünf griechische Mythen sowie Verne, Stevenson, Defoe und Carroll. Enthalten sind eigene deutsche Inhaltsfassungen historischer gemeinfreier Texte, kurze Begleittexte und konkrete Hinweise zu Handlungsgrenzen und Bildkontinuität. Lange Romane sind als ausgewählte Episoden angelegt.
-
-[Titelliste, Quellenbelege und Importbefehle](examples/comics/sources/README.md#weitere-30-vorlagen-deutsche-märchen-mythen-und-abenteuer). Der vorhandene Importer ergänzt fehlende IDs mit Sicherung, erhält bisherige Quellen und startet keinen Comic-Lauf.
-
-### Quellenkatalog auf 73 Vorlagen erweitert
-
-Das Paket [maerchen-klassiker-weitere-20.json](examples/comics/sources/maerchen-klassiker-weitere-20.json) ergänzt weitere 20 Vorlagen: zehn Grimm-Märchen, fünf Andersen-Geschichten und fünf Abenteuerklassiker, darunter die Zeitmaschine, Rikki-Tikki-Tavi, der kopflose Reiter, der geheime Garten und der Zauberer von Oz. Jeder Eintrag enthält eine eigene deutsche Inhaltsfassung, einen Quellenbeleg, einen Begleittext und Kontinuitätshinweise. [Vollständige Titelliste und Importbefehle](examples/comics/sources/README.md#weitere-20-vorlagen-grimm-andersen-und-abenteuerklassiker). Vorhandene Einträge bleiben beim Import erhalten; kein Generierungslauf wird gestartet.
-
-### 1.000 Comic-Vorlagen
-
-Der Quellenkatalog umfasst jetzt 1.000 Einträge: die bisherigen 73 Vorlagen plus
-927 nummerierte historische Sagen von Ludwig Bechstein. Das ergänzende Paket
-enthält vollständige deutsche Originaltexte statt neu verfasster Zusammenfassungen,
-Quellenbelege, historische Textauszüge als Begleittexte und Vorgaben zur Adaption.
-Die Sammlung wurde strukturell geprüft und nicht für jede Sage einzeln dramaturgisch
-redigiert. [Herkunft, Rechte, Import und Offline-Generator](examples/comics/sources/README.md#katalog-auf-1000-vorlagen-ergänzen).
-Vorhandene Quellen bleiben erhalten; der Import startet keinen Comic-Lauf.
-
-### Quellen nach Kategorien auswählen
-
-Unter **Buch oder Film als Comic-Vorlage** lassen sich die Vorlagen nach
-**Kategorie** und **Sammlung / Herkunft** filtern und nach Titel, Autor oder
-Stichwort durchsuchen. Die Trefferzahl bleibt sichtbar; die Vorlagen sind innerhalb
-der Kategorien alphabetisch sortiert. Wird die aktuell geöffnete Vorlage vom Filter
-nicht erfasst, bleibt sie separat ausgewählt. Filtern und **Auswahl neu laden**
-verwerfen keine ungespeicherten Quellendaten.
-
-Die Themenzuordnung erfolgt lokal anhand der bekannten Sammlung, des Titels und
-bei Sagen zusätzlich des Erzähltexts. Es wird kein LLM aufgerufen. Unter
-**Quellendaten und Rechtehinweise bearbeiten → Kategorie** kann eine Zuordnung
-geändert oder eine eigene Kategorie eingetragen und mit **Quelle speichern**
-gespeichert werden. Ein leeres Feld verwendet wieder die automatische Zuordnung.
-Die Sammlung wird unabhängig davon aus der Quellenherkunft abgeleitet. Alte
-Katalogeinträge benötigen keine Migration; das bloße Laden schreibt nichts zurück.
-
-### Offline-Sicherung der Docker-Projekte
-
-Der [vorbereitete rsnapshot-Ablauf](docs/Docker_Rsnapshot_Offline_Backup.md) stoppt die betroffenen Dienste, sichert und prüft die Daten und stellt nur nach Erfolg den vorherigen Dienstzustand her. Installation und wöchentlicher Root-Cronjob werden ausdrücklich getrennt aktiviert.
+[Aufteilung und Workflow-Orte](docs/Repository_Aufteilung.md).

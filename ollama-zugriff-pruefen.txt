@@ -1,1 +1,0 @@
-sudo lsof -nP +D /usr/share/ollama/.ollama/models

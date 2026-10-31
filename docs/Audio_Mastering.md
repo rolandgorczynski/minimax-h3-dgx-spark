@@ -12,7 +12,8 @@ Der zweite Durchlauf übernimmt die Messwerte aus dem ersten.
 
 ## Verwendung
 
-Die `assemble_bitzi_*.py`-Skripte rufen die gemeinsame Routine vor dem Muxen auf.
+Die allgemeine Routine kann vor dem Muxen einer fertigen Tonspur aufgerufen werden.
+Die Bitzi-spezifischen Montage-Skripte werden separat im privaten Bitzi-Studio gepflegt.
 Für eine einzelne FLAC-Datei:
 
 ```bash
