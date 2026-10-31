@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Join two H3 clips and their audio with a quieter mix and hard peak ceiling."""
+"""Join two H3 clips and master their audio with measured loudness and true peak."""
 import argparse
 import subprocess
 import tempfile
 from pathlib import Path
+from audio_mastering import master_audio
 
 
 def concat_file(paths, destination):
@@ -37,9 +38,10 @@ def main():
         concat_file([args.audio_1, args.audio_2], audios)
         run([args.ffmpeg, '-y', '-f', 'concat', '-safe', '0', '-i', str(videos), '-c', 'copy', '-an', str(video_join)])
         run([args.ffmpeg, '-y', '-f', 'concat', '-safe', '0', '-i', str(audios), '-c:a', 'flac', str(audio_join)])
+        mastered = temp/'mastered.flac'
+        master_audio(audio_join, mastered, ffmpeg=args.ffmpeg)
         run([
-            args.ffmpeg, '-y', '-i', str(video_join), '-i', str(audio_join),
-            '-af', 'loudnorm=I=-20:TP=-6:LRA=11,alimiter=limit=0.45:attack=5:release=80:level=false',
+            args.ffmpeg, '-y', '-i', str(video_join), '-i', str(mastered),
             '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-shortest', str(args.output),
         ])
     print(args.output)

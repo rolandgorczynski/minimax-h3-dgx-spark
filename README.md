@@ -169,6 +169,7 @@ jeweiligen Testkonfigurationen und lassen sich nicht pauschal auf alle Zeilen ü
 - [Mehrteilige Videos](docs/2026-08-04_MiniMaxH3_Mehrteilige_Videos.md): Abschnitte zusammenfügen und Kontinuität erhalten
 - [Fehlerbehebung](docs/Fehlerbehebung.md): 13 Themen einschließlich Ton und ABI-Problemen
 - [Leistungsmessungen](docs/Leistungsmessungen.md): Vorlage für vergleichbare Messungen
+- [Audio-Mastering](docs/Audio_Mastering.md): zweistufige Lautheitsmessung und sichere Sprachfilter
 - [Architektur und Optimierung](docs/Architektur_und_Optimierung.md): technische Entscheidungen
 - [Promptvorlagen](docs/Promptvorlagen.md): deutsche Beschreibungen für Videotests
 

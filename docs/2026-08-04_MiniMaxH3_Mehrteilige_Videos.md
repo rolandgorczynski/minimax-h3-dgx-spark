@@ -83,24 +83,26 @@ Den Status über `/history/<prompt_id>` oder `/queue` prüfen.
 ## 3. Ton normalisieren und mit dem Bild verbinden
 
 Im dokumentierten Test war der dekodierte Ton mit Spitzen um −34 dB sehr leise.
-`loudnorm` gehört deshalb zum verwendeten Produktionsablauf:
+Die gemeinsame Routine `scripts/audio_mastering.py` misst den finalen Mix in zwei
+Durchläufen, korrigiert Mono-/Stereo-Messung und gibt FLAC mit 48 kHz aus:
 
 ```bash
-ffmpeg -y -i video.mp4 -i audio/xxx.flac \
-  -af "loudnorm=I=-16:TP=-1.5:LRA=11" -c:v copy -c:a aac -shortest \
-  final.mp4
-# Dokumentierte Spitzen nach der Normalisierung: etwa −3 bis −5 dB.
+python3 scripts/audio_mastering.py audio/full_mix.flac audio/full_mix_mastered.flac
+ffmpeg -y -i video.mp4 -i audio/full_mix_mastered.flac \
+  -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -ar 48000 -b:a 192k \
+  -shortest final.mp4
 ```
 
-Mehrere Abschnitte verarbeiten:
+Bei mehreren Abschnitten zuerst die unbearbeiteten FLAC-Dateien verbinden und den
+gesamten Mix einmal mastern. Einzelnes Normalisieren der Abschnitte kann hörbare
+Lautheitssprünge an den Schnittstellen erzeugen. Fade und Padding können dem Skript
+als `--post-filters` mitgegeben werden; sie werden dann in beiden Messdurchläufen
+berücksichtigt. Details und optionale, nur für Dialogspuren geeignete Filter stehen
+in [Audio-Mastering](Audio_Mastering.md).
 
-```bash
-for seg in seg1 seg2 seg3; do
-  ffmpeg -y -i ${seg}_00001_.mp4 -i audio/${seg}_00001.flac \
-    -af "loudnorm=I=-16:TP=-1.5:LRA=11" -c:v copy -c:a aac -shortest \
-    ${seg}_final.mp4
-done
-```
+Der im Testbericht genannte −16-LUFS-Wert ist ein Ausgangsziel für Sprache, kein
+Plattformlimit. H3-Komplettmischungen mit Musik und Effekten werden ohne die
+optionalen Sprachfilter verarbeitet.
 
 ## 4. Abschnitte zu einem Film verbinden
 

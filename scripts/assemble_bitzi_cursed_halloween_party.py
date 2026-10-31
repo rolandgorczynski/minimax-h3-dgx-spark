@@ -2,6 +2,7 @@
 """Assemble party scenes with German captions, leveled audio and end card."""
 import argparse, subprocess, tempfile
 from pathlib import Path
+from audio_mastering import master_audio
 
 def run(cmd):
     subprocess.run(cmd, check=True)
@@ -25,6 +26,7 @@ def main():
         t = Path(td); concat(videos, t/'v.txt'); concat(audios, t/'a.txt')
         run(['ffmpeg','-y','-f','concat','-safe','0','-i',str(t/'v.txt'),'-c','copy','-an',str(t/'video.mp4')])
         run(['ffmpeg','-y','-f','concat','-safe','0','-i',str(t/'a.txt'),'-c:a','flac',str(t/'audio.flac')])
+        master_audio(t/'audio.flac',t/'mastered.flac',post_filters='afade=t=out:st=60.75:d=0.5,apad=pad_dur=2')
         (t/'captions.srt').write_text("""1
 00:00:00,500 --> 00:00:04,100
 Bitzi, organisiere eine Halloween-Party. Nur geladene Gäste kommen rein!
@@ -80,8 +82,7 @@ Offenbar wir alle.
               "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='ONE PHOTO. FIFTY CEOS.':fontcolor=0x8df5bb:fontsize=24:expansion=none:borderw=2:bordercolor=black@0.8:x=(w-tw)/2:y=580:enable='between(t,60.75,62.75)',"
               "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='Roland Gorczynski':fontcolor=white@0.94:fontsize=18:borderw=2:bordercolor=black@0.80:x=w-tw-22:y=h-th-54,"
               "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='bits.gorczynski.online':fontcolor=white@0.90:fontsize=12:borderw=2:bordercolor=black@0.80:x=w-tw-22:y=h-th-22")
-        af = 'loudnorm=I=-20:TP=-6:LRA=11,alimiter=limit=0.45:attack=5:release=80:level=false,afade=t=out:st=60.75:d=0.5,apad=pad_dur=2'
-        run(['ffmpeg','-y','-i',str(t/'video.mp4'),'-i',str(t/'audio.flac'),'-vf',vf,'-af',af,
+        run(['ffmpeg','-y','-i',str(t/'video.mp4'),'-i',str(t/'mastered.flac'),'-vf',vf,
              '-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','48000','-b:a','192k','-movflags','+faststart',str(a.output)])
     print(a.output)
 

@@ -4,6 +4,7 @@ import argparse
 import subprocess
 import tempfile
 from pathlib import Path
+from audio_mastering import master_audio
 
 def run(args):
     subprocess.run(args, check=True)
@@ -32,6 +33,8 @@ def main():
         concat_file(vids,vf); concat_file(auds,af)
         run([a.ffmpeg,'-y','-f','concat','-safe','0','-i',str(vf),'-c','copy','-an',str(joined)])
         run([a.ffmpeg,'-y','-f','concat','-safe','0','-i',str(af),'-c:a','flac',str(sound)])
+        mastered=td/'mastered.flac'
+        master_audio(sound,mastered,ffmpeg=a.ffmpeg)
         # Caption timing tracks the six beats; silence is deliberately preserved before the last punchline.
         srt=td/'captions.srt'
         srt.write_text('''1
@@ -97,12 +100,12 @@ auch abgeschaltet.
 Wenn keiner mehr kontrolliert,
 kann auch keiner Fehler finden!
 ''',encoding='utf-8')
-        # Keep native H3 audio; loudness normalization and peak control prevent painful jumps.
+        # Keep native H3 audio; measured two-pass mastering controls loudness and true peak.
         video_filter=(f"crop=480:852:0:6,scale=720:1280:flags=lanczos,"
                       f"subtitles={srt}:force_style='FontName=DejaVu Sans,FontSize=12,Outline=1,Shadow=1,Alignment=2,MarginV=25',"
                       "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='Roland Gorczynski':fontcolor=white@0.94:fontsize=18:borderw=2:bordercolor=black@0.80:x=w-tw-22:y=h-th-54,"
                       "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='bits.gorczynski.online':fontcolor=white@0.90:fontsize=12:borderw=2:bordercolor=black@0.80:x=w-tw-22:y=h-th-22")
-        run([a.ffmpeg,'-y','-i',str(joined),'-i',str(sound),'-vf',video_filter,'-af','loudnorm=I=-20:TP=-6:LRA=11,alimiter=limit=0.45:attack=5:release=80:level=false','-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','48000','-b:a','192k','-t','60','-movflags','+faststart',str(a.output)])
+        run([a.ffmpeg,'-y','-i',str(joined),'-i',str(mastered),'-vf',video_filter,'-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-ar','48000','-b:a','192k','-t','60','-movflags','+faststart',str(a.output)])
     print(a.output)
 
 if __name__=='__main__': main()

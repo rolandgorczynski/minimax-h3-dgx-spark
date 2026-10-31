@@ -18,11 +18,16 @@ Die ComfyUI-Ausgaben werden mit `scripts/run_bitzi_monitoring_comedy.py` nachein
 - ist exakt 60 Sekunden lang,
 - wird mit 720×1280 Pixeln und 24 fps ausgegeben,
 - enthält eingebrannte deutsche Untertitel,
-- wird mit FFmpeg auf ungefähr −20 LUFS normalisiert und bei ungefähr −6 dBTP begrenzt,
+- wird mit `scripts/audio_mastering.py` in zwei Durchläufen auf −16 LUFS und −1,5 dBTP ausgesteuert,
 - wird mit 48-kHz-Stereo-Audio und H.264/AAC codiert,
 - erhält am Ende den sichtbaren Schriftzug „Roland Gorczynski“ und `bits.gorczynski.online` unten rechts.
 
 Musik und Sprache waren in der H3-Tonspur gemeinsam generiert. Deshalb lässt sich die Musik nicht verlustfrei wie eine getrennte Studiotonspur austauschen; ein Austausch kann Sprache und Effekte beeinträchtigen.
+
+Die gemeinsame Masteringroutine prüft die tatsächliche Kanalzahl, misst die komplette
+Tonspur einschließlich Fade und Ausklang und gibt sie mit 48 kHz aus. Hochpass,
+De-Esser und Kompressor sind nur für dialogdominante Tonspuren optional. Sie werden
+nicht blind auf H3-Mischungen mit Musik und Soundeffekten angewendet.
 
 ## Neue Episoden und Figurenkontinuität
 
