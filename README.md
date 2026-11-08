@@ -232,3 +232,7 @@ Quelle: [Offizielle ComfyUI-Template-Sammlung](https://github.com/Comfy-Org/work
 Comic-Studio, Bitzi-Produktion und persönliche Betriebswerkzeuge werden in eigenständigen Repositories gepflegt. Sie nutzen bei Bedarf weiterhin dieselbe ComfyUI-Installation. Ihre Quelltexte, Figurenakten, Geschichten und Produktionsdateien sind nicht Bestandteil dieses öffentlichen Hauptbranches. Einladungen bleiben vorerst hier.
 
 [Aufteilung und Workflow-Orte](docs/Repository_Aufteilung.md).
+
+### Zentraler Hugging-Face-Cache
+
+Die lokale Compose-Konfiguration bindet `/home/jee/models/huggingface/images` nach `/data/hf-cache` ein. FLUX Klein verwendet denselben Cache. Beide Dienste laufen als UID/GID 1000:1000, damit gemeinsam genutzte Dateien zugänglich bleiben. Der bisherige H3-Cache unter `${H3_DATA_ROOT}/hf-cache` enthält nur Verwaltungsdaten und bleibt erhalten. ComfyUI-Modelle unter `${H3_DATA_ROOT}/models` bleiben unverändert.

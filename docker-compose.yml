@@ -35,7 +35,7 @@ services:
       - ${H3_DATA_ROOT}/temp:/opt/ComfyUI/temp
       - ${H3_DATA_ROOT}/user:/opt/ComfyUI/user
       - ${H3_DATA_ROOT}/custom_nodes:/opt/ComfyUI/custom_nodes
-      - ${H3_DATA_ROOT}/hf-cache:/data/hf-cache
+      - /home/jee/models/huggingface/images:/data/hf-cache
     healthcheck:
       test: ["CMD-SHELL", "curl -fsS http://127.0.0.1:8188/system_stats >/dev/null || exit 1"]
       interval: 30s
